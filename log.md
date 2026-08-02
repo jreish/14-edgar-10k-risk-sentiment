@@ -27,6 +27,29 @@ Set up the project: its own git repository, a Python virtual environment,
 and the two tracking documents you're reading part of right now (this one in
 plain language, `decisions.md` with the full technical reasoning).
 
-Next: actually fetch the S&P 500 membership history and sanity-check it —
-confirming, this time, that different years actually look different from
-each other, not identical copies of the same year.
+## 2026-08-02 — Checkpoint 1: membership history fetched and it checks out
+
+Pulled the full S&P 500 membership history (2006 through today, one
+snapshot per year) and ran the sanity check we didn't have last time:
+does every year actually look different from its neighbors? It does —
+constituent counts move smoothly year to year (roughly 497 to 506 members,
+which is normal since a handful of companies have two share classes each
+with their own ticker), and no two adjacent years are identical copies of
+each other. That was the exact failure that went undetected in the old
+build, so seeing it pass here is a real, specific check, not a rubber stamp.
+
+Also found a bonus resource in the same source: a table that lists, per
+ticker, the exact date ranges it was actually in the S&P 500 — including
+separate entries when the same ticker was used by the same company in two
+different eras (like American Airlines' "AAL," which was in the index
+under the old AMR Corp in the 1990s, dropped out during bankruptcy, then
+came back years later after the US Airways merger — the data correctly
+shows those as two separate stretches). This is going to be the key tool
+for the next step: figuring out which specific company actually held a
+ticker in a given historical year, since tickers get recycled by unrelated
+companies over a 20-year window and a lot of tools only know who holds a
+ticker *today*.
+
+Next: use that per-ticker date-range table, cross-referenced with SEC's own
+company-history records, to correctly identify the historical filer behind
+every ticker in every year.
