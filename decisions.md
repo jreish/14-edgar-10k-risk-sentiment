@@ -215,3 +215,33 @@ returns became clear across three iterations and two manual audits;
 result under this project's stated tolerance for documented gaps over
 chased-but-uncertain completeness (see pitfall #3's parallel allowance for
 the Item 1A parser).
+
+## 2026-08-02 — Checkpoint 3: filing-year convention is "filed in year Y," not "covers fiscal year Y"
+
+**Decision:** `02_build_filing_universe.py` matches each resolved
+(cik, ticker, year) row to the 10-K *filed during calendar year Y*, not
+the 10-K covering fiscal year Y. For a normal December-fiscal-year-end
+company, the 10-K filed in year Y covers FY Y-1.
+
+**Why:** this project studies "how did companies characterize risk during
+year Y" (both the 20-year sentiment drift study and the 2025 Iran-conflict
+study). The 10-K filed during year Y is the company's most recent public
+risk disclosure as of that year — it's the document that was actually
+sitting in front of investors and regulators at the time. A report that
+came out covering an already-elapsed fiscal year is a worse match for
+"real-time risk characterization" than a same-year-filed one. Reviewed
+this convention from the prior build's equivalent script and endorsed it
+on that reasoning rather than adopting it by default.
+
+**Rejected alternative:** match by fiscal period-of-report instead of
+filing date. More "textbook correct" for financial-statement analysis, but
+worse for this project's actual research questions, which care about when
+risk language was written, not which fiscal year it accounts for.
+
+**Result:** 7,312/7,403 resolved rows (98.8%) matched to an actual 10-K.
+Checked the 91 that didn't: 64 are year 2026 (this year — companies with
+fiscal year ends later than the pull date simply haven't filed yet, exactly
+pitfall #5's caveat), and the remaining 27 are thin one-offs scattered
+across 2006-2024 (plausible genuine gaps — mid-year bankruptcies, brief
+index membership, etc.) to be characterized properly in checkpoint 6's
+missingness dataset rather than hand-waved here.

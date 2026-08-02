@@ -104,3 +104,24 @@ above.
 
 Next: use these ~7,400 confidently-resolved company-years to find and pull
 the actual 10-K filings.
+
+## 2026-08-02 — Checkpoint 3: finding the actual annual reports
+
+With a trustworthy list of "this company, this ticker, this year," the
+next step was mechanical by comparison: look up each company's real filing
+history and pick out the specific annual report that matches. This went
+smoothly — matched 7,312 of the 7,403 confidently-resolved company-years
+(99%) to a real, specific 10-K filing on file with the SEC.
+
+Checked the 91 that didn't match, rather than just accepting the number:
+64 of them are this year, 2026, and the reason is mundane — some companies
+have a fiscal year that ends later in the calendar year than others, so
+as of today they simply haven't filed their annual report yet. That's
+expected and not a data problem. The other 27 are scattered thinly across
+many different years and are presumably real gaps (a company delisted
+partway through a year, a brief stretch of index membership, etc.) — we'll
+account for those specifically rather than lump them in as "just missing"
+once the fuller picture comes together.
+
+Next: actually download these ~7,300 annual reports and pull out the
+"Risk Factors" section from each one.
