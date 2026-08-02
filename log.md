@@ -53,3 +53,54 @@ ticker *today*.
 Next: use that per-ticker date-range table, cross-referenced with SEC's own
 company-history records, to correctly identify the historical filer behind
 every ticker in every year.
+
+## 2026-08-02 — Checkpoint 2: figuring out who actually held each ticker, and learning when to stop trusting a clever trick
+
+This step took much longer than expected, and the story of why is worth
+telling plainly because it's the whole point of redoing this project.
+
+The easy 70% of companies resolved cleanly: look up who holds a ticker
+today, then double-check that they were actually around and filing
+paperwork back in the target year (not a brand-new company that happened
+to grab an old ticker later). That check alone correctly told apart real
+cases like "DELL" meaning two different companies over time — the original
+Dell that went private in 2013, versus the Dell Technologies that re-IPO'd
+in 2018 under a different corporate registration.
+
+For the remaining 30% — companies that got bought out, went private, or
+otherwise disappeared and left their ticker up for grabs — there's no
+current "holder" to look up at all. We tried a workaround: search the
+government's filing database for 10-K reports that mention the ticker
+symbol in their own text, on the theory that a company usually mentions
+its own stock symbol somewhere in its annual report. This worked well for
+some tickers (correctly found the original Dell, correctly found L Brands
+in a general test) but when we ran it across everything and then
+fact-checked a couple dozen results by hand, it was only right about
+70-75% of the time. The wrong answers weren't obviously wrong, either —
+they were real, ordinary companies that happened to mention the same
+three-letter string somewhere in their own filing by coincidence (a
+company called "Trump Entertainment Resorts" showed up as the answer for
+ticker "TER," which should have been Teradyne, the electronics testing
+company).
+
+That's a genuinely bad trade: a guess that's wrong 1 time in 4, sitting
+in the data with no flag distinguishing it from a guess we're actually
+confident about, is worse than just admitting "we don't know." That was
+the exact mistake behind the old project's biggest bug, so we're not
+repeating a version of it here. The fix: keep the guess on file for later
+review, but don't count it as a real answer. Right now, about 70% of all
+company-years are confidently resolved, and the other 30% are honestly
+marked "we don't know" with a specific, logged reason for each one —
+rather than a falsely reassuring number that's secretly wrong a quarter
+of the time.
+
+Also worth noting: one of the early attempts at this search accidentally
+searched across a company's *entire* multi-year membership window instead
+of one year at a time, and that made the wrong-answer problem much worse
+(searching Dell's whole 1996-2013 history in one go turned up a completely
+unrelated company, "ABM Industries," as the "answer"). Narrowing the
+search to a specific year fixed a lot of that, though not all of it — see
+above.
+
+Next: use these ~7,400 confidently-resolved company-years to find and pull
+the actual 10-K filings.

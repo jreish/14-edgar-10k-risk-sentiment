@@ -125,3 +125,93 @@ L Brands tenure, ending when it spun off into Bath & Body Works/Victoria's
 Secret — correctly excluding the unrelated company that took the LB ticker
 via a 2024 IPO). This table will be the backbone of checkpoint 2's improved
 CIK resolution.
+
+## 2026-08-02 — Checkpoint 2: CIK resolution cascade, and why full text search is NOT trusted as an acceptance method
+
+**Decision:** `01_resolve_ciks.py` resolves each (ticker, year) row through
+a two-stage cascade:
+1. **`current_ticker_validated`** — look up the ticker's current holder via
+   `company_tickers.json`, then validate it against the real membership
+   stint (from checkpoint 1's `sp500_ticker_stints`): the candidate CIK's
+   earliest-ever filing date must predate the stint's start (within a
+   365-day buffer), and it must have at least one 10-K filed within the
+   stint window. This is resolved once per (ticker, stint) and reused
+   across every year in that stint — cheap, and reliable enough to trust
+   outright.
+2. **Full text search fallback** — for rows that fail step 1 (current
+   holder is a different, later entity — e.g. Dell Technologies Inc. vs.
+   the original Dell Inc.) or have no current holder at all (fully
+   delisted via M&A — 290 of 935 distinct tickers in this dataset), search
+   EDGAR full text search for the ticker string within a narrow window
+   around that specific year (not the whole stint — see bug below).
+
+**Why full text search candidates are logged but NOT accepted as
+resolved:** this took three iterations to get right, and the honest
+answer is that the method never got reliable enough to trust blindly.
+Tested three configurations, each audited manually against a sample of
+known companies (fetching the candidate CIK's real name/formerNames from
+SEC and checking it against the target ticker):
+  - **Single bare-ticker or single phrase query, accept the top hit
+    ("low confidence" tier):** 0/2 correct in spot checks. Produced
+    outright garbage — a mortgage-backed securities trust for "LB", a
+    shell antimony mining company for "LB" in another year, an unrelated
+    telecom holding company for "DELL". Discarded entirely.
+  - **Require two independently-phrased queries (bare ticker; "symbol
+    "TICKER"") to agree on the same top CIK, plus require the candidate
+    be `entityType == "operating"` (excludes trusts/shells):** two
+    separate 12-15 item manual audits came back at 9/12 and 9/13 correct
+    (~70-75%). Real failures included: "HRS" (should be Harris Corp)
+    resolving to an unrelated micro-cap "Clean Energy Technologies, Inc.";
+    "TER" (should be Teradyne) resolving to "Trump Entertainment Resorts,
+    Inc."; "PLL" (should be Pall Corp) resolving to "Meridian Biosciences";
+    "FRX" (should be Forest Laboratories) resolving to "Daegis Inc."; "MIL"
+    (should be Millipore Corp) resolving to "Viasat Inc." These are exactly
+    the kind of confident-looking wrong answer pitfall #2 warned about —
+    real companies, real 10-Ks, coincidentally containing the target ticker
+    string somewhere in their own filing, with nothing in the API response
+    itself signaling "this is a false positive."
+
+  A ~70-75% accurate method, silently blended into the same "resolved"
+  bucket as the ~99%+ reliable `current_ticker_validated` method, would
+  mean roughly 1 in 4 of ~1,150 rows carries a wrong company's risk-factor
+  text with no way to tell which ones from the data alone — a worse
+  outcome than leaving them honestly blank, per this project's founding
+  lesson from project 13's `APC`/`LB` mislabeling incident. So the
+  candidate CIK is preserved in `resolution_detail` (for a future manual
+  review pass, if ever worth the effort) but `cik` is set to NULL and
+  `resolution_method` is `fulltext_candidate_unverified`, not `resolved`.
+
+**Bug found and fixed along the way:** the first full-pipeline run searched
+each *entire membership stint* (e.g. DELL's 1996-2013, a 17-year span) in
+one full text query, reusing that single result across every year in the
+stint. This actively made things worse, not just imprecise — DELL's whole
+2006-2013 span collapsed to a single (wrong) top hit, "ABM Industries
+Inc.", and every LB year collapsed to "Discovery Oil & Gas Inc." Searching
+a narrow window centered on each specific year individually (target
+snapshot date minus 200 days to plus 400 days) fixed this — it's why the
+DELL 2008-2010/2013 rows correctly landed on CIK 826083 (the real original
+Dell Inc.) once evaluated per-year instead of per-stint.
+
+**Final resolution rate:** 7,403 / 10,524 rows (70.3%) resolved via the
+trustworthy method; 3,121 rows (29.7%) unresolved, split between "no
+candidate found at all" and "a full text candidate exists but wasn't
+trusted" (both fully logged with a specific reason and, where applicable,
+the candidate CIK for later reference). This number is lower than a
+naive full-text-accepting pipeline would report (which hit 98.5%), and
+that's the point — the number, this time, means what it says.
+
+**Process note — output buffering:** ran the resolution script through
+`| tail -N` for the first two attempts, which fully buffers stdout until
+the process exits (not a TTY), so there was zero visibility into progress
+for ~50-90 minute runs. Redirecting to a file directly with `python -u`
+(unbuffered) on the third attempt restored live progress visibility.
+Worth remembering for future long-running scripts in this project.
+
+**Rejected alternative:** spend more engineering time trying to push full
+text search precision higher (e.g. requiring 3-way agreement across more
+phrase variants, proximity-restricted queries). Stopped after diminishing
+returns became clear across three iterations and two manual audits;
+70.3% honestly-labeled resolution is a legitimate, defensible checkpoint
+result under this project's stated tolerance for documented gaps over
+chased-but-uncertain completeness (see pitfall #3's parallel allowance for
+the Item 1A parser).
