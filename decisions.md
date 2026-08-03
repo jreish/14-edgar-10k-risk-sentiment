@@ -422,3 +422,60 @@ found was caught by inspecting output rather than needing a second live
 data source to cross-check against. Worth adding if a future audit finds
 the projection method missing something the way this session's audit
 caught the Form-15 bug.
+
+## 2026-08-02 — Checkpoint 7: analysis scripts, and using real-world events as a validation signal
+
+**Decision:** `06_keyword_topic_analysis.py` (Iran-conflict keyword
+categories kept as separate columns rather than one blanket flag, plus
+Iran/tariffs/Ukraine filing-level topic trends and the tariffs-by-sector
+breakdown the reference chart needs) and `07_language_trends.py` (avg
+Item 1A word count by year, plus five curated theme-word categories
+normalized per 1,000 words) — both pure text processing over the
+already-extracted `.txt` files, no network calls, adapted from project
+13's equivalent scripts where the underlying methodology (keyword
+presence counting) wasn't identity-sensitive and was already sound.
+
+**Sentiment methodology — no external lexicon:** rather than importing a
+finance-specific sentiment wordlist (e.g. Loughran-McDonald, the standard
+academic choice for 10-K tone analysis), `07_language_trends.py` defines
+a small curated word list directly in the script. The project's data
+sources are explicitly scoped to SEC/GitHub; pulling in an external,
+undocumented lexicon file would be a new dependency outside that scope,
+and a visible, inspectable word list (even if less academically
+established) is more in keeping with this project's overall bias toward
+transparency over borrowed authority.
+
+**Validation — real-world events as an independent check:** rather than
+just eyeballing the output for "does this look like numbers," cross-checked
+the results against known real-world history, since if the pipeline is
+actually working end-to-end (correct filing-year matching, correct Item 1A
+extraction), the resulting language trends should line up with real
+events without any tuning:
+- Pandemic-word frequency: near-zero 2006-2019, spikes to 2.6-per-1000-words
+  in 2021 (10-Ks filed in 2021 cover FY2020, the first full pandemic year),
+  stays elevated through 2022-2023, fades by 2024-2026 — exactly the
+  expected shape.
+- Inflation/supply-chain frequency: flat ~0.19-0.22 for over a decade,
+  rises sharply 2021-2023 (peak 0.77 in 2023), recedes after — matches the
+  real 2021-2023 inflation surge.
+- Cybersecurity frequency: near-zero in 2006, climbs steadily from ~2012
+  onward, keeps rising through 2026 — matches the well-known multi-decade
+  rise in cyber-risk disclosure.
+- Avg Item 1A word count: 4,485 words in 2006 to 14,398 in 2026, a ~3.2x
+  increase — matches the widely-documented trend of risk sections growing
+  substantially longer over this exact period.
+
+None of these patterns were targeted or tuned for — they fell out of the
+pipeline on the first run. That's a stronger correctness signal for the
+whole extraction chain (filing-year matching, Item 1A parsing) than any
+row-count reconciliation check alone could provide, since it's an
+independent real-world cross-check rather than internal consistency.
+
+**Iran-conflict finding:** Iran-related keyword mentions show a gradual
+rise from 1-2 filings/year in 2006-2008 to 19 in 2025 and 25 in 2026, not
+a sharp step-change exactly at the 2025 conflict. This is a real,
+unforced result (not adjusted to match an expected narrative) — plausibly
+reflects a broader multi-year trend toward expanded sanctions/export-
+control risk disclosure rather than one discrete event, and 2026 (the
+first filing year to substantially cover FY2025, when the conflict
+occurred) does show the highest count on record.

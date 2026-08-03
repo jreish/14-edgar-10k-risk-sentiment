@@ -220,3 +220,43 @@ yet).
 Next: use this complete, accounted-for dataset to actually study something
 — how companies talked about the 2025 Iran conflict, tariffs, and how
 risk language has shifted over 20 years.
+
+## 2026-08-02 — Checkpoint 7: does the data actually make sense?
+
+Ran the real analysis: how often companies mention Iran-related topics,
+tariffs, and Ukraine, and how the general tone and focus of risk-factor
+writing has shifted over 20 years. All of this ran fast, since it's just
+reading text files we'd already saved to disk — no more waiting on the
+government's website.
+
+The most reassuring part of this whole step: we checked the results
+against things we already know happened in the real world, without
+adjusting anything to force a match. If the pipeline were subtly broken —
+matching the wrong year's filing to a company, or extracting the wrong
+section of text — this is exactly the kind of check that would catch it.
+It passed convincingly. Mentions of "pandemic" in these reports are flat
+near zero for 15 years, then spike dramatically in reports filed in 2021
+(which cover the first full year of COVID) and fade out again by 2024-2025
+as the pandemic recedes. Mentions of "inflation" and "supply chain" follow
+the exact same shape around the real 2021-2023 inflation surge. Mentions
+of "cybersecurity" climb steadily starting around 2012 and never look
+back, matching the well-known rise of cyber risk as a corporate concern.
+And the reports themselves have gotten much longer over time — roughly
+3x longer on average from 2006 to today — which matches what's widely
+known about how much more detailed companies' risk disclosures have
+become. None of this was something we tuned or nudged into place; it's
+just what fell out once the underlying data pull was done correctly.
+
+On the specific question that kicked off this project — how companies
+talked about the 2025 Iran-Israel-US conflict — the honest finding is a
+gradual rise in mentions over many years rather than one sharp jump right
+at 2025. The reports covering 2025 itself (mostly filed in early 2026) do
+show the highest count of Iran-related mentions in the entire 20-year
+history, which is consistent with the conflict mattering, but it looks
+like part of a longer trend (companies steadily disclosing more about
+sanctions and geopolitical risk generally) rather than a single dramatic
+spike.
+
+Next: build the actual charts — this is where the Kieran Healy-style
+visual design guidelines and the color-blind-safe palette come in,
+including the tariffs-by-sector chart with the "still pending" hatch box.
