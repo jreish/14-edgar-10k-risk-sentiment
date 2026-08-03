@@ -352,3 +352,73 @@ business-services company). Stopped once the distribution looked
 plausible and the highest-count, most clearly-wrong cases were fixed —
 same iterate-then-stop discipline as the Item 1A parser and CIK
 resolution work, not a claim of perfect GICS-equivalent classification.
+
+## 2026-08-02 — Checkpoint 6: missingness dataset, built from the raw base table outward
+
+**Decision:** `05_build_missingness.py` starts from `sp500_universe_raw`
+(the checkpoint 1 output — every raw (ticker, year), 10,524 rows, nothing
+ever filtered out) and LEFT JOINs `cik_resolution`, `filing_universe`, and
+`risk_factors_index` outward from there, rather than starting from any
+downstream table. This is the direct, structural fix for pitfall #4:
+project 13's missingness report undercounted true missingness by ~7x
+because its working table only kept rows that had *already* resolved to a
+CIK, so anything that failed resolution was invisible to the report by
+construction, not just underrepresented in it.
+
+**Reason taxonomy** (every "missing" row gets exactly one):
+- `cik_never_resolved` — ticker has no resolved CIK in *any* study year.
+- `year_specific_no_match` — ticker resolves in other years, not this one.
+- `cik_candidate_never_filed` — CIK resolved, but has zero matched 10-Ks
+  across every study year (suggests it isn't actually a 10-K filer under
+  this identity).
+- `no_filing_found` — CIK resolved and does file 10-Ks generally, just not
+  found for this specific year. Sub-classified (see below) into
+  `not_yet_due` / `past_due_not_filed` / `will_not_file` / `still_unknown`.
+- `no_item_1a_extracted` — filing found and fetched, extraction failed.
+
+**Verification:** every upstream count reconciles exactly — 7,211
+`has_item_1a` (matches checkpoint 4's final number exactly), 101
+`no_item_1a_extracted` (= 7312 filing-universe rows minus 7211 extracted,
+exactly), 3,015 + 106 = 3,121 unresolved (matches checkpoint 2's
+unresolved count exactly), 89 + 2 = 91 (matches checkpoint 3's "resolved
+CIK but no filing found" count exactly). Total rows: 10,524, equal to the
+base universe — confirms no row was silently dropped anywhere in the chain.
+
+**Bug found and fixed — deregistration (`will_not_file`) false positives:**
+the first run flagged 7 unambiguously still-thriving S&P 500 companies
+(Applied Materials, Micron, Procter & Gamble, Seagate, TE Connectivity,
+Tapestry, Western Digital) as "will never file again," all for their 2026
+row. Root cause: the check treated *any* Form 15 (15-12B/15-12G/etc.) in a
+CIK's history as full deregistration. Real case: Applied Materials filed a
+15-12G on 2018-12-12 — one day before its 2018-12-13 10-K — to deregister
+one specific security class (common for large companies with multiple
+registered securities, e.g. an old debt issue), then kept filing 10-Ks
+every year through 2025 with zero interruption. Fixed by only trusting a
+Form 15 as real deregistration when it's also the CIK's *most recent*
+filing of any kind (nothing — no 10-K, nothing — filed after it). All 7
+companies correctly reclassified to `not_yet_due` after the fix; the
+`will_not_file` count dropped from 7 to 0, which is itself plausible for
+this dataset (a company that's genuinely deregistered mid-target-year
+typically also stops being CIK-resolvable/ticker-current well before that
+target year, so it more often surfaces as `cik_never_resolved` upstream
+than reaches this specific check at all).
+
+**Filing-date projection method:** for a CIK's `no_filing_found` row,
+projects the expected filing date as the median month/day across that same
+CIK's *other* matched filing years (from `filing_universe`), applied to the
+target year. Compares against today's date and the (corrected)
+deregistration check to land on `not_yet_due` / `past_due_not_filed` /
+`will_not_file`. `still_unknown` is reserved for a CIK with no other
+matched years to project from at all — didn't occur in this run (every
+`no_filing_found` CIK had at least one other matched year), so the bucket
+exists in the schema but is currently empty; left in place since a future
+re-run could hit it.
+
+**Rejected alternative:** the live-EDGAR spot-check verification pass
+project 13 used for recent years (`11_verify_recent_filing_status.py`).
+Not implemented here — the projection method alone already produced a
+clean, internally-consistent, upstream-reconciling result, and the one bug
+found was caught by inspecting output rather than needing a second live
+data source to cross-check against. Worth adding if a future audit finds
+the projection method missing something the way this session's audit
+caught the Form-15 bug.

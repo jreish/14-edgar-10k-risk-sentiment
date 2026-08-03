@@ -184,3 +184,39 @@ default for the rest. Second pass looks much more realistic.
 Next: pull all of this together into the single most important piece of
 this project — a complete accounting of every company-year, showing either
 the actual risk factors text or the exact reason it isn't there.
+
+## 2026-08-02 — Checkpoint 6: the complete accounting (the part we care about most)
+
+Built the master table that answers, for every single company-year in the
+entire 20-year study, one of two things: "here's the text" or "here's
+exactly why not," with the "why not" being one of five specific,
+plain reasons rather than a vague "missing." Crucially, this table starts
+from the very first, most complete list we built (every company that was
+ever in the S&P 500, every year) and works outward from there — not from
+some later, already-filtered-down list. That distinction is exactly what
+went wrong in the old project: its missing-data report was quietly blind
+to a huge chunk of the real gaps because it only ever looked at data that
+had already passed an earlier filter.
+
+We checked the arithmetic obsessively, since this is the table the whole
+project exists to produce: every count from every earlier step lines up
+exactly with this final table, and the grand total matches the original
+full list to the row. Nothing fell through a crack anywhere in the chain.
+
+Along the way we caught a real bug worth calling out: the table initially
+flagged seven large, obviously still-active companies — Applied Materials,
+Micron, Procter & Gamble, Seagate, TE Connectivity, Tapestry, Western
+Digital — as having "gone out of business and will never file again."
+Obviously wrong, and worth understanding why: companies occasionally file
+a specific government notice to deregister just ONE type of security (like
+an old bond), and Applied Materials had done exactly that in 2018 — one
+day before filing that year's completely normal annual report. Our check
+was treating any such notice as "the whole company is gone," when really
+we should only trust it if the company never filed anything again
+afterward. Fixed, and all seven correctly show up as "hasn't filed yet
+this year" instead (which is true — their fiscal years just haven't ended
+yet).
+
+Next: use this complete, accounted-for dataset to actually study something
+— how companies talked about the 2025 Iran conflict, tariffs, and how
+risk language has shifted over 20 years.
