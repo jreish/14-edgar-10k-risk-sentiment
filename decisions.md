@@ -307,3 +307,48 @@ other checkpoints still ahead.
 project 13, which also committed its equivalent 534MB corpus) — DuckDB
 holds the manifest (`file_path` column) and provenance, not the blob text
 itself, per the project's stated storage convention.
+
+## 2026-08-02 — Checkpoint 5: SIC->sector mapping built broadly, then corrected against real output
+
+**Decision:** `lib/sectors.py` classifies via SIC-major-group ranges
+(2-digit prefix) covering the full 01-99 SIC space, not just the ~197
+codes actually observed in this dataset — per pitfall #6's instruction to
+build broadly rather than reactively patch an "Unclassified" bucket.
+Explicit per-code overrides handle ranges that don't map to one sector
+(pharma sits inside the general chemicals range but is Health Care;
+motor vehicles sit inside transportation equipment but are Consumer
+Discretionary; REITs sit inside real-estate-adjacent finance codes but
+are Real Estate, not Financials). Result: 0/546 companies fell through to
+"Unclassified" on the first run.
+
+**Caught and fixed after inspecting real output, not just the count:**
+first run put 130/546 companies (24%) in Industrials — high relative to
+typical S&P 500 sector weight. Inspecting which SIC codes fed that bucket
+found two real problems: (1) SIC 5122/5047 (wholesale drug/medical
+distributors — Cencora, Cardinal Health, McKesson, Henry Schein) fell into
+a generic "wholesale = Industrials" default despite clearly belonging in
+Health Care; (2) SIC 7389 ("Business Services, NEC," a vague catch-all
+predating modern industry classification) held 18 companies with no
+single correct sector — a mix of payment networks (Visa, Mastercard,
+PayPal, Western Union, Global Payments, Corpay), online marketplaces
+(eBay, Etsy, Uber, DoorDash), and genuine IT/data-services companies
+(Accenture, Akamai, Fiserv, FIS, Fair Isaac, Broadridge, MSCI, CoStar).
+
+Fixed with: SIC-level overrides for the wholesale-distributor codes
+(-> Health Care) and wholesale groceries (-> Consumer Staples, correct for
+Sysco), a changed 7389 default (-> Information Technology, the majority
+pattern among the remaining names), and a small `CIK_OVERRIDES` dict for
+the 11 companies whose real business model is unambiguous but doesn't
+match that default (Visa/Mastercard/PayPal/Western
+Union/Global Payments/Corpay -> Financials; eBay/Etsy/Uber/DoorDash ->
+Consumer Discretionary; Domino's Pizza, whose SIC 5140 "wholesale
+groceries" default of Consumer Staples is wrong for a restaurant chain,
+-> Consumer Discretionary). Second run: Industrials down to 106/546 (19%),
+a more plausible distribution.
+
+**Rejected alternative:** keep refining sector-boundary judgment calls
+indefinitely (e.g. individually checking every wholesale-trade or
+business-services company). Stopped once the distribution looked
+plausible and the highest-count, most clearly-wrong cases were fixed —
+same iterate-then-stop discipline as the Item 1A parser and CIK
+resolution work, not a claim of perfect GICS-equivalent classification.

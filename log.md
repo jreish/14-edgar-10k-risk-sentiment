@@ -155,3 +155,32 @@ just written off as "missing" with no explanation.
 Next: figure out what industry each company is in, so risk factors can be
 compared and grouped sensibly (e.g., "how did banks talk about risk
 differently from tech companies").
+
+## 2026-08-02 — Checkpoint 5: sorting companies into industries
+
+Every company files with the government under an old, standardized
+industry code (from the 1970s-80s originally), which we used to sort all
+546 companies into 11 broad, modern-style sectors — Technology, Financials,
+Health Care, and so on. Built the mapping to cover far more codes than we
+actually needed today, so a brand-new company showing up in a future year
+won't fall into an "Unclassified" leftover bucket by default.
+
+First pass classified everyone with none left unclassified, which sounded
+great — but we checked the actual company list per sector rather than just
+trusting the count, and found real problems. Almost a quarter of all
+companies had landed in "Industrials," which was suspiciously high. Digging
+in: a handful of well-known drug distributors (McKesson, Cardinal Health,
+Henry Schein) had been swept into Industrials by a generic rule when they
+clearly belong in Health Care. A bigger issue: 18 companies — including
+Visa, Mastercard, PayPal, eBay, Etsy, Uber, and Accenture — all shared one
+old, extremely vague government code literally named "Business Services,
+Not Elsewhere Classified." That one code covers payment networks, online
+marketplaces, and IT consultants alike, so no single sector was going to
+be right for the whole group. We fixed the clear-cut cases individually by
+name (Visa/Mastercard/PayPal are obviously financial companies; eBay/Etsy/
+Uber are obviously retail-style marketplaces) and picked a more sensible
+default for the rest. Second pass looks much more realistic.
+
+Next: pull all of this together into the single most important piece of
+this project — a complete accounting of every company-year, showing either
+the actual risk factors text or the exact reason it isn't there.
