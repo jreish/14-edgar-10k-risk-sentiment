@@ -288,3 +288,44 @@ starting in 2018 — exactly when the US-China trade war tariffs began.
 Next: one final pass to make sure the whole dataset is internally
 consistent, and spot-check a handful of specific tricky companies by hand
 against the live SEC website.
+
+## 2026-08-02 — Checkpoint 9: the final check
+
+Did a last full pass to make sure everything adds up, and checked three
+specific tricky companies by hand against SEC's live website, as planned
+from the very start.
+
+The bookkeeping checks out perfectly: every single company-year from the
+original master list is accounted for in the final dataset, with no
+duplicates and no contradictions (nothing marked both "found" and
+"missing" at once).
+
+The three hand-checks were genuinely useful, and honest about it:
+
+- The recycled-ticker case (LB) correctly shows up as "we don't know,"
+  never as a wrong guess. Exactly as intended.
+- The merger case (Celgene, bought by Bristol Myers Squibb in 2019)
+  revealed something worth being upfront about: Celgene is completely
+  absent from our resolved dataset, even though we're confident (having
+  checked by hand) that we could technically identify which company it
+  is. The reason is a deliberate tradeoff made earlier in the project:
+  we decided it was better to leave a company out entirely than to guess
+  its identity using a method that's only right about 70% of the time.
+  Celgene happens to be one of the correct 70%, but our system has no way
+  to know that without a human looking at it, so it stays out. That's a
+  real, known cost of choosing "don't guess" over "guess and sometimes be
+  wrong" — not a bug, but worth stating plainly rather than glossing over.
+- The recent-IPO case (GE Vernova, spun off from GE in 2024) mostly
+  worked well — correctly identified for all three of its real years —
+  but caught one genuine gap: its very first annual report writes the
+  "Risk Factors" heading with quotation marks around it in a way our
+  text-extraction pattern doesn't recognize. A real, specific, fixable-
+  in-principle gap, now documented rather than quietly missed.
+
+Bottom line: the dataset is honest about what it knows and doesn't know,
+which was always the actual goal — not a perfect dataset, but one that
+never silently pretends to know something it doesn't.
+
+This completes the planned build. Everything is committed, checkpoint by
+checkpoint, with the reasoning behind each choice recorded in
+decisions.md.

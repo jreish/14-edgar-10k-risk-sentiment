@@ -522,3 +522,73 @@ time. Dropped that here in favor of the system default sans-serif —
 avoids a render-time network dependency for a cosmetic typeface choice,
 keeping the chart-generation step reproducible without network access
 once the underlying data is in DuckDB.
+
+## 2026-08-02 — Checkpoint 9: final QA
+
+**Row-count reconciliation:** `sp500_universe_raw` (10,524) and
+`missing_records` (10,524) match exactly; zero rows have an inconsistent
+status/reason combination (`has_item_1a` with a reason set, or `missing`
+with no reason); zero duplicate `(year, ticker)` pairs. The full pipeline
+accounts for the entire base universe with nothing silently dropped.
+
+**Spot-check 1 — recycled ticker (LB):** all 16 years correctly show
+`cik_never_resolved` / unresolved. No wrong CIK is ever assigned. This is
+the exact case the project's known-pitfalls list was built around, and the
+conservative design from checkpoint 2 (never auto-accept an unverified
+full-text candidate) holds here as intended.
+
+**Spot-check 2 — merger (CELG, Celgene, acquired by Bristol Myers Squibb
+in 2019):** every year 2007-2019 shows `cik_never_resolved`, honestly and
+correctly labeled — but this surfaces a real, worth-naming cost of the
+checkpoint 2 design: Celgene has no current ticker holder (delisted, not
+reused) and its full text search candidate (CIK 816284, correctly
+"CELGENE CORP" — confirmed by hand against live EDGAR) is never
+auto-accepted, because that method's ~70% aggregate reliability isn't
+trusted even in instances where it happens to be right. Net effect: a
+real, unambiguous, long-time S&P 500 constituent is entirely absent from
+the resolved dataset, not because it's unresolvable in principle but
+because this project chose accuracy-with-gaps over recall-with-errors.
+This is the direct, known tradeoff of the checkpoint 2 decision, not a
+new bug — flagged here explicitly so it's not mistaken for one.
+
+**Spot-check 3 — recent IPO/spinoff (GEV, GE Vernova, spun off April
+2024):** resolves cleanly via `current_ticker_validated` for all three
+of its real years (2024-2026) — the CIK-resolution design working exactly
+as intended for a straightforward recent case. But this check surfaced
+two smaller, genuine findings on the downstream steps:
+  - **2024 shows `no_filing_found` / `past_due_not_filed`.** Technically
+    accurate (no 10-K was filed *in* calendar 2024 for a company that
+    didn't exist as a public filer until April that year), but
+    conceptually imperfect: the filing-date projection method (checkpoint
+    6) implicitly assumes a company was already an established filer, an
+    assumption that doesn't hold for a spinoff's debut partial year. A
+    more precise label would be something like "not yet a public filer
+    this year," but this is a minor, narrow edge case (affects
+    brand-new-that-year constituents specifically) not worth a special
+    case given the low volume it would affect.
+  - **2025 (GE Vernova's actual first 10-K, filed 2025-02-06) shows
+    `no_item_1a_extracted`.** Checked by hand: the filing does contain a
+    real Item 1A section, but its heading is formatted
+    `Item 1A. "Risk Factors"` — with literal quotation marks around the
+    heading text — which the parser's regex doesn't match (it allows
+    `-–—:` as separators between the item number and heading, not a
+    quote character). The filing's inline cross-references use the same
+    quoted format, so this isn't a cross-reference false-positive problem
+    like Exxon's case; it's a heading-format variant not yet in the
+    parser. Documented here rather than patched — per pitfall #3's
+    explicit allowance, and because this session already spent
+    substantial effort on parser edge cases in checkpoint 4 with a
+    measured low marginal return; this is exactly the kind of remainder
+    that gets documented, not chased indefinitely.
+
+**Overall QA conclusion:** the dataset does what it claims to do — every
+company-year has either real extracted text or a specific, honest,
+verifiable reason it doesn't — but "resolved and extracted" is a
+meaningfully conservative subset of "the true history," by design. The
+biggest visible cost of that conservatism is companies like Celgene that
+are real, identifiable, and simply not trusted by the current pipeline.
+A natural next iteration (not undertaken here, flagged for a future
+session) would be a manual review pass over `fulltext_candidate_unverified`
+rows, since a person looking at company name + candidate CIK side by side
+could resolve many of these with far more confidence than the automated
+two-query-agreement heuristic ever could on its own.
