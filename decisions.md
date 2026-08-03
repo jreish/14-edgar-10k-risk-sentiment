@@ -479,3 +479,46 @@ reflects a broader multi-year trend toward expanded sanctions/export-
 control risk disclosure rather than one discrete event, and 2026 (the
 first filing year to substantially cover FY2025, when the conflict
 occurred) does show the highest count on record.
+
+## 2026-08-02 — Checkpoint 8: R visualization, and correcting the hatch-box semantics
+
+**Decision:** R scripts (`scripts/r/`) read directly from the DuckDB
+database (via the R `duckdb` package, read-only connections) rather than
+from CSV exports — keeps DuckDB the single source of truth end to end,
+including the plotting layer, rather than introducing a parallel CSV path
+that could drift out of sync. A shared `lib_theme.R` holds the Okabe-Ito
+palette, a restrained Healy-style theme (minimal gridlines, direct
+labeling via `ggrepel` instead of a legend, bold titles, grey captions),
+a `top_n_plus_other()` helper for binning small categories, and the
+diagonal-hatch-line helper (`make_hatch()`, adapted from project 13 — pure
+geometry, not data-sensitive, so reuse was safe here the way it wasn't for
+the CIK resolution work).
+
+**The tariffs-by-sector-with-missing chart — the brief's explicit
+correction, implemented:** the hatch box on top of each year's stacked bar
+uses `missing_records` filtered to `reason = 'no_filing_found' AND
+sub_reason = 'not_yet_due'` only — not every missing company-year, and not
+even every `no_filing_found` row (which would still incorrectly include
+`past_due_not_filed` and `will_not_file`). This is the direct fix for the
+exact problem the brief flagged in advance: mixing in other missing
+reasons (especially CIK-resolution-stage gaps, which this build's
+checkpoint 2 numbers show are large — 3,121 unresolved rows) would dwarf
+the real bars and make the box meaningless. Every other missing reason
+remains fully queryable in `missing_records` — the chart just doesn't
+draw them into this particular box, exactly the "what belongs in the
+dataset vs. what this one chart visualizes are separate decisions" split
+the brief called for.
+
+**Validation via real-world cross-check, again:** the tariffs-by-sector
+chart shows mention counts roughly flat through 2017, then rising sharply
+starting 2018-2019 — matching the real US-China trade war tariff
+escalation that began in 2018. Another independent, untuned confirmation
+that the filing-year matching and extraction pipeline built in earlier
+checkpoints is working correctly.
+
+**Google Fonts / showtext:** project 13's R scripts used `showtext` +
+`font_add_google()` to pull "Source Sans 3" from Google Fonts at render
+time. Dropped that here in favor of the system default sans-serif —
+avoids a render-time network dependency for a cosmetic typeface choice,
+keeping the chart-generation step reproducible without network access
+once the underlying data is in DuckDB.

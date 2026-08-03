@@ -260,3 +260,31 @@ spike.
 Next: build the actual charts — this is where the Kieran Healy-style
 visual design guidelines and the color-blind-safe palette come in,
 including the tariffs-by-sector chart with the "still pending" hatch box.
+
+## 2026-08-02 — Checkpoint 8: the charts, and getting the "still pending" box right
+
+Built the actual visualizations: the Iran-mentions trend line, the
+tariffs-by-sector stacked bar chart with the "still pending" hatch box,
+and a set of small charts showing how risk-factor language has shifted
+over 20 years.
+
+The tariffs chart got special attention because this is the one the
+project's own instructions specifically warned us about getting wrong.
+The idea of the hatched box on top of each year's bar is "these are
+filings that could still show up and make this year's number bigger,
+because their deadline hasn't passed yet." It would be easy to
+accidentally stuff every kind of missing data into that box — a company we
+couldn't even identify, a company that never filed at all, a filing we
+found but couldn't extract text from — but those are different problems
+with different meanings, and mixing them in would make the box wildly
+oversized and misleading. We used the careful reason-by-reason
+missing-data table from the last checkpoint to make sure the box only
+ever contains the "genuinely still pending" category, nothing else.
+
+Once again, the results lined up with real history without any tuning:
+tariff mentions were fairly flat and low through 2017, then rose sharply
+starting in 2018 — exactly when the US-China trade war tariffs began.
+
+Next: one final pass to make sure the whole dataset is internally
+consistent, and spot-check a handful of specific tricky companies by hand
+against the live SEC website.
