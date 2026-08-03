@@ -1,0 +1,299 @@
+.
+
+An investment in our common stock involves a high degree of risk. Investors evaluating our company should carefully consider the factors described below and all other information contained in this Annual Report. Any of the following factors could materially harm our business, operating results, and financial condition. Additional factors and uncertainties not currently known to us or that we currently consider immaterial could also harm our business, operating results, and financial condition. This section should be read in conjunction with the Financial Statements and related Notes and Management’s Discussion and Analysis of Financial Condition and Results of Operations included in this Annual Report. We may make forward-looking statements from time to time, both written and oral. We undertake no obligation to revise or publicly release the results of any revisions to these forward-looking statements. Our actual results may differ materially from those projected in any such forward-looking statements due to a number of factors, including those set forth below and elsewhere in this Annual Report.
+
+Risks Associated with Our Business, Including Our Software Products
+
+Cyber-attacks and security vulnerabilities can disrupt our business and harm our competitive position.
+
+Threats to IT security can take, and have in the past taken, a variety of forms. Individuals and groups of hackers, and sophisticated organizations including state-sponsored organizations, may take steps that pose threats to our clients and our IT. They have in the past and may in the future develop and deploy malicious software to gain access to our internal networks, and/or to attack our products and services, gain access to data centers we use to host client deployments, or act in a coordinated manner to launch distributed denial of service or other coordinated attacks. Cyber threats are constantly evolving, thereby increasing the difficulty of detecting and successfully defending against them. Cyber threats can have cascading impacts that unfold with increasing speed across our internal networks and systems and those of our partners and clients. Breaches of our internal network have disrupted and could in the future disrupt the security of our internal systems and business applications, and could impair our ability to provide services to our clients and protect the privacy of their data, result in product development delays, compromise confidential or technical business information harming our competitive position, result in theft or misuse of our intellectual property or other assets, require us to allocate more resources to improve technologies, or otherwise adversely affect our business. Our business policies and internal security controls may not keep pace with these evolving threats. For example, the evolving use of artificial intelligence (“AI”) increases the risk of cyberattacks and data breaches, which themselves can evolve more rapidly when artificial intelligence is used to facilitate the attack. Despite the network and application security, threat intelligence services, internal control measures, and physical security procedures we employ to safeguard our systems, we may still be vulnerable to a security breach, intrusion, or loss or theft of confidential client data, transaction data, or proprietary company information, which may harm our business, reputation and future financial results. Use of artificial intelligence by our team members, whether authorized or unauthorized, could increase the risk that our intellectual property and other proprietary information may be unintentionally disclosed. In addition, vulnerabilities in our clients’ on-premises infrastructure have in the past and may in the future be exploited by a bad actor, with the resulting impacts being linked to or attributed to, correctly or incorrectly, our software or services, which could also harm our business, reputation, and future financial results, even if our software or services were not the cause of the exploitation. The lost revenue and containment, remediation, investigation, legal and other costs could be significant and may exceed our insurance policy limits or may not be covered by insurance at all. Further, we may be subject to regulatory enforcement actions and litigation that could result in financial judgments or the payment of settlement amounts and disputes with insurance carriers concerning coverage.
+
+Disclosure of personally identifiable information and/or other sensitive client data could result in liability and harm our reputation.
+
+We store and process increasingly large amounts of personally identifiable information and other confidential information of our clients. The continued occurrence of high-profile data breaches provides evidence of an external environment increasingly hostile to information security. Despite our efforts to improve security controls, it is possible our security controls over personal data, our training of employees on data security, and other practices we follow may not prevent the improper disclosure of sensitive client data that we store and manage. The evolving threat landscape, including new technologies that leverage artificial intelligence, may increase the external threats to the data we store and process. Disclosure of personally identifiable information and/or other sensitive client data has resulted in obligations to send “data breach” notifications under applicable state laws, or to assist our clients in doing so, and/or could result in liability and harm our reputation.
+
+11
+
+We depend on third parties with whom we engage or collaborate for certain projects, deliverables, and/or financial transaction processes. If these parties fail to satisfy their obligations to us or we are unable to maintain these relationships, our operating results and business prospects could be adversely affected.
+
+To satisfy our obligations under client contracts, we often engage third parties to provide certain deliverables or fulfill certain requirements. We may also use third parties to ensure that our services and solutions integrate with the software, systems, or infrastructure requirements of other vendors and service providers. Our ability to serve our clients and deliver our solutions in a timely manner depends on our ability to retain and maintain relationships with third-party vendors and service providers and the ability of these third parties to meet their obligations in a timely manner, as well as on our effective oversight of their performance. If any third party fails to perform on a timely basis the agreed-upon services, our ability to fulfill our obligations may be jeopardized. Third-party performance deficiencies could result in breaches of our obligations with respect to, or the termination for default of, one or more of our client contracts. A breach or termination for default could expose us to liability for damages and have an adverse effect on our business prospects, results of operations, cash flows and financial condition and our ability to compete for future contracts and orders.
+
+A global economic slowdown, a pandemic, or similar circumstances could also adversely affect the businesses of our third-party providers, hindering their ability to provide the services on which we rely. Our agreements with third parties typically are non-exclusive and do not prohibit them from working with our competitors or from engaging with our clients directly. If we are unsuccessful in establishing or maintaining our relationships with these third parties, our ability to compete in the marketplace or to grow our revenues could be impaired and our business, operating results or financial condition could be adversely affected.
+
+In addition, we may act as a subcontractor to a third-party prime contractor to secure new projects. Subcontracting arrangements where we are not the prime contractor pose unique risks to us because we may not have control over the client relationship, and our ability to generate revenues under such subcontracts may depend on the prime contractor, its performance and relationship with the client, and its relationship with us. We could suffer losses in the event a prime contract under which we serve as a subcontractor is terminated, whether for non-performance by the prime contractor or otherwise. Upon a termination of the prime contract, our subcontract would similarly terminate, and the resulting contract loss could have an adverse effect on our business prospects, results of operations, cash flows, and financial condition and our ability to compete for future contracts and orders. 
+
+We rely on third-party providers—including Amazon Web Services—for hosting services and other technology-related services needed to deliver certain of our cloud solutions. Any disruption in the services provided by such third-party providers could adversely affect our business and subject us to liability.
+
+A material portion of our business is provided through software hosting services, which are sometimes hosted from and use computing infrastructure provided by third parties, including AWS. These hosting services depend on the uninterrupted operation of data centers and the ability to protect computer equipment and information stored in these data centers against damage that may be caused by natural disaster, fire, power loss, telecommunications or Internet failure, acts of terrorism, unauthorized intrusion, computer viruses, and other similar damaging events. If any of our data centers were to become inoperable for an extended period, we might be unable to fulfill our contractual commitments. Although we take what we believe to be reasonable precautions against such occurrences, we can give no assurance that damaging events such as these will not result in a prolonged interruption of our services, which could result in client dissatisfaction, loss of revenues, and damage to our business.
+
+Third-party hosting service providers have no obligation to renew their agreements with us on commercially reasonable terms or at all. If we are unable to renew these agreements on commercially reasonable terms, we may be required to transition to a new provider and we may incur significant costs and possible service interruption in connection with doing so. In addition, such service providers could decide to close their facilities or change or suspend their service offerings without adequate notice to us. Moreover, any financial difficulties, such as bankruptcy, faced by such service providers may have negative effects on our business, the nature and extent of which are difficult to predict. Because we cannot easily switch third-party hosting service providers, any disruption with respect to our current providers would impact our operations and our business could be adversely impacted.
+
+Problems faced by our hosting service providers could adversely affect the experience of our clients. For example, AWS has experienced significant service outages in the past and may do so again in the future. As we
+
+continue to migrate legacy solutions deployed on premises to the cloud, and to optimize our solutions for the cloud, we may be exposed to additional cybersecurity threats.
+
+Material portions of our business require the Internet infrastructure to be reliable.
+
+Part of our future success continues to depend on the use of the Internet as a means to access public information and perform transactions electronically, including, for example, electronic filing of court documents and electronic payment processing. This in part requires ongoing maintenance of the Internet infrastructure, especially to prevent interruptions in service, as well as additional development of that infrastructure. This requires a reliable network backbone with the necessary speed, data capacity, security, and timely development of complementary products for providing reliable Internet access and services. If this infrastructure fails to be sufficiently developed or be adequately maintained, our business would be harmed because users may not be able to access our government portals. To date, any such outages have been temporary, and any business interruptions were contained and immaterial.
+
+12
+
+We employ third-party licensed software and software components for use in or with our solutions, and the inability to maintain these licenses or the presence of errors or security vulnerabilities in the software we license could limit the functionality of our products and result in increased costs or reduced service levels, which would adversely affect our business.
+
+We incorporate and include third-party software into and with certain of our products and solutions. We also use third-party software and tools in certain areas of the development process for our solutions. We anticipate that we will continue to rely on such third-party software and development tools in the future. There can be no assurance that these third parties will continue to make their software or tools available to us on acceptable terms, or at all, not make their products available to our competitors on more favorable terms, invest the appropriate levels of resources in their products and services to maintain and enhance the capabilities of their software, or remain in business. Any impairment in our relationship with these third parties or our ability to license or otherwise use their software or tools could have a material adverse effect on our business, results of operations, cash flow, and financial condition. Although we believe that there are commercially reasonable alternatives to the third-party software and tools we currently license, this may not always be the case, or they may be difficult, time-consuming, or costly to replace. In addition, although we maintain a supplier security evaluation process, if the third-party software or tools we use has or have errors, security vulnerabilities, or otherwise malfunctions, the functionality of our solutions may be negatively impacted, our clients may experience reduced service levels, and our business may suffer. To the extent a third-party relies on artificial intelligence, improper processing of data by those service providers could harm our reputation, business and clients, or expose us to legal liability.
+
+Certain of our solutions utilize open source software, and any failure to comply with the terms of one or more of these open source licenses could adversely affect our business.
+
+Certain of our solutions include software covered by open source licenses. The terms of various open source licenses have not been interpreted by U.S. courts, and there is a risk that such licenses could be construed in a manner that imposes unanticipated conditions or restrictions on our ability to market our solutions. It is possible under the terms of certain open source licenses, if we combine our proprietary software with open source software in a certain manner, that we could be required to release the source code of our proprietary software and make our proprietary software available under open source licenses. In the event that portions of our proprietary software are determined to be subject to an open source license, we could be required to publicly release the affected portions of our source code, re-engineer all or a portion of our solutions, or otherwise be limited in the licensing of our solutions, each of which could reduce or eliminate the value of our solutions. In addition to risks related to license requirements, use of open source software can lead to greater risks than use of third-party commercial software, as open source licensors generally do not provide warranties or controls on the origin of the software. Many of the risks associated with the use of open source software cannot be eliminated and could adversely affect our business.
+
+We run the risk of errors or defects with new products or enhancements to existing products.
+
+Our software products are complex and have in the past, and may in the future, contain errors or defects, especially when first introduced or when new versions or enhancements are released. Any such defects could result in a loss of revenues or delay market acceptance. Our license agreements typically contain provisions designed to limit our exposure to potential liability. However, it is possible we may not always successfully negotiate such provisions in our client contracts or the limitation of liability provisions may not be effective due to existing or future federal, state, or local laws, ordinances, or judicial decisions. Although we maintain errors and omissions and general liability insurance, and we try to structure contracts to limit liability, we cannot guarantee that a successful claim could not be made or would not have a material adverse effect on our future operating results.
+
+We must timely respond to technological changes to be competitive.
+
+The market for our products is characterized by technological change, evolving industry standards in software technology, changes in client requirements, and frequent new product introductions and enhancements. The introduction of products embodying new technologies and the emergence of new industry standards can render existing products obsolete and unmarketable. As a result, our future success will depend, in part, upon our ability to enhance existing products and develop and introduce new products that keep pace with technological developments, satisfy increasingly sophisticated client requirements, and achieve market acceptance. We cannot assure you that we will successfully identify new product opportunities and develop and bring new products to market in a timely and cost-effective manner. The products, capabilities, or technologies developed by others could also render our products or technologies obsolete or noncompetitive. Our business may be adversely affected if we are unable to develop or acquire new software products or develop enhancements to existing products on a timely and cost-effective basis, or if such new products or enhancements do not achieve market acceptance.
+
+13
+
+As we assess the challenges and opportunities of incorporating AI technologies into our products and services, we may not successfully enhance our offerings in alignment with market demands or industry expectations at a pace that matches our competitors. Delays in adoption or innovation could render our offerings less competitive or obsolete. AI technology is rapidly evolving, and while we are prioritizing a measured approach based on known best practices, the investments required, the need for specialized skills and expertise, and the shifting legal and regulatory landscape may expose us to operational, financial, and reputational risks. Additionally, AI-generated outputs may be misleading, insecure, inaccurate, harmful, or otherwise flawed, potentially resulting in adverse consequences to our business. 
+
+We may be unable to protect our proprietary rights.
+
+Many of our product and service offerings incorporate proprietary information, trade secrets, know-how, and other intellectual property rights. We rely on a combination of contracts, copyrights, and trade secret laws to establish and protect our proprietary rights in our technology. We cannot be certain that we have taken all appropriate steps to deter misappropriation of our intellectual property, including to the extent our data is consumed by generative artificial intelligence technology. There has also been an apparent evolution in the legal standards and regulations that courts and the U.S. patent office may apply in favorably evaluating software patent rights. We are not currently involved in any material intellectual property litigation; however, we may be a party to such litigation in the future to protect our proprietary information, trade secrets, know-how, and other intellectual property rights. We cannot assure you that third parties will not assert infringement or misappropriation claims against us with respect to current or future products. Any claims or litigation, with or without merit, could be time-consuming, costly, and a diversion to management. Any such claims and litigation could also cause product shipment delays or require us to enter into royalty or licensing arrangements. Such royalty or licensing arrangements, if required, may not be available on terms acceptable to us, if at all. Therefore, litigation to defend and enforce our intellectual property rights could have a material adverse effect on our business, regardless of the final outcome of such litigation.
+
+Clients may elect to terminate our recurring contracts and manage operations internally.
+
+We provide annually recurring maintenance contracts for clients who are deployed on-premises, and recurring Software as a Service contracts for clients who are deployed in the cloud. It is possible that our clients may elect to not renew recurring contracts for our software, trying instead to maintain and operate the software themselves using their perpetual license rights (excluding software applications that we provide on a hosted or software as a service basis), or migrating to a different cloud solution. Alternatively, clients may elect to drop maintenance on certain modules that they ultimately decide not to use. This could adversely affect our revenues and profits. Additionally, they may inadvertently allow our intellectual property or other information to fall into the hands of third parties, including our competitors, which could adversely affect our business.
+
+Risks Associated with Selling Products and Services into the Public Sector Marketplace
+
+Selling products and services into the public sector poses unique challenges.
+
+We derive substantially all of our revenues from sales of software and services to state, county, and city governments, other federal or municipal agencies, and other public entities. We expect that sales to public sector clients will continue to account for substantially all of our revenues in the future. We face many risks and challenges associated with contracting with governmental entities, including:
+
+•
+Resource limitations caused by budgetary constraints, which may provide for a termination of executed contracts due to a lack of future funding
+
+•
+Long and complex sales cycles
+
+•
+Contract payments at times are subject to achieving implementation milestones, and we may have differences with clients as to whether milestones have been achieved
+
+•
+Political resistance to the concept of contracting with third parties to provide IT solutions, or resistance to adopting cloud solutions
+
+•
+Legislative changes affecting a local government’s authority to contract with third parties
+
+•
+Varying bid procedures and internal processes for bid acceptance
+
+•
+Various other political factors, including changes in governmental administrations and personnel
+
+Each of these risks is outside our control. If we fail to adequately adapt to these risks and uncertainties, our financial performance could be adversely affected.
+
+14
+
+Global health crises, such as a pandemic, may adversely affect our business and results of operations.
+
+A public health crisis, such as a pandemic, may negatively impact our business and financial results. As seen with the COVID pandemic, certain infection rates or virus strains may result in government authorities imposing measures to contain the virus, including travel bans and restrictions, quarantines, and business limitations and shutdowns. 
+While we are unable
+ to accurately predict the full impact that a health crisis or pandemic would have on our results from operations, financial condition, liquidity and cash flows due to numerous uncertainties, including the duration and severity of the pandemic and containment measures and associated compliance, a pandemic may negatively impact our revenues and other financial results.
+
+Because an increasing portion of our revenues are recurring, the effect of public health-related shutdown on our results of operations may also not be fully reflected for some time. We may see some more immediate impact on our business should there be new delays in government procurement processes and uncertainty around public sector budgets, or new delays in implementations caused by travel restrictions, closed offices, or clients shifting focus to more pressing issues.
+
+Appraisal projects and software implementations may be delayed if clients put projects on hold or slow projects by extending go-live dates. While we have the ability to deliver most of our professional services remotely, some of our professional services, including appraisal assessments, are more effective when performed on-site, and certain clients may continue to insist on on-site services in any event. In addition, our delivery of some professional services requires the availability of client personnel. There may be a negative impact on our revenues if we are unable to deliver these services. Also, we expect software licenses and subscriptions revenues to be negatively affected if there are delays in procurement processes. Some clients could request changes to payment terms, negatively impacting the timing of collections of accounts receivables in future periods.
+
+We have historically evaluated goodwill for impairment annually as of October 1, or more frequently if impairment indicators arose. Subsequent to our annual goodwill impairment analysis, we monitor for any events or changes in circumstances, such as significant adverse changes in business climate or operating results, changes in management’s business strategy, an inability to successfully introduce new products in the marketplace, an inability to successfully achieve internal forecasts or significant declines in our stock price, which may represent an indicator of impairment. The occurrence of any of these events, which could be caused or impacted by a public health crisis similar to the COVID-19 pandemic, may require us to record future goodwill impairment charges.
+
+A prolonged economic slowdown could harm our operations.
+
+A prolonged economic slowdown or recession could reduce demand for our software products and services. Governments may face financial pressures that could in turn affect our growth rate and profitability in the future. There is no assurance that government spending levels will be unaffected by declining or stagnant general economic conditions, and if budget shortfalls occur, they may negatively impact government IT spending and could adversely affect our business.
+
+The open bidding process creates uncertainty in predicting future contract awards.
+
+Many governmental agencies purchase products and services through an open bidding process. Generally, a governmental entity will publish an established list of requirements requesting potential vendors to propose solutions for the established requirements. To respond successfully to these requests for proposals, we must accurately estimate our cost structure for servicing a proposed contract, the time required to establish operations for the prospective client, and the likely terms of any other third-party proposals submitted. We cannot guarantee that we will win any bids in the future through the request for proposal process, or that any winning bids will ultimately result in contracts on favorable terms. Our failure to secure contracts through the open bidding process, or to secure such contracts on favorable terms, may adversely affect our revenues and gross margins.
+
+We face significant competition from other vendors and potential new entrants into our markets.
+
+We believe we are a leading provider of integrated software solutions for the public sector. 
+
+Our market is highly fragmented with a large number of competitors that vary in size, product platform, and product scope. Our competitors include consulting firms, publicly held companies that focus on selected segments of the public sector market, and a significant number of smaller, privately held companies. Certain competitors have greater technical, marketing, and financial resources than we do. We cannot assure you that such competitors will not develop products or offer services that are superior to our products or services or that achieve greater market acceptance.
+
+We also compete with internal, centralized IT departments of governmental entities, which requires us to persuade the end-user to stop the internal service and outsource to us. In addition, our clients and prospective clients could elect to provide information management services internally through new or existing departments, which could reduce the market for our services.
+
+15
+
+We could face additional competition as other established and emerging companies enter the public sector software market and new products and technologies are introduced. The development of next-generation solutions that utilize advanced features, including artificial intelligence and machine learning, may require us to make predictions about the willingness of the public sector market to adopt such offerings. As we choose to invest in such technologies, we may be required to commit significant resources to maintain the competitiveness of our offerings before knowing whether we have correctly predicted market receptiveness to them. 
+
+Increased competition could also result in pricing pressure, fewer client orders, reduced gross margins, and loss of market share. Current and potential competitors may make strategic acquisitions or establish cooperative relationships among themselves or with third parties, thereby increasing the ability of their products to address the needs of our prospective clients. It is possible that new competitors or alliances may emerge and rapidly gain significant market share. We cannot assure you that we will be able to compete successfully against current and future competitors, and the failure to do so would have a material adverse effect upon our business.
+
+Fixed-price contracts may affect our profits.
+
+Some of our contracts are structured on a fixed-price basis, which can lead to various risks, including:
+
+•
+The failure to accurately estimate the resources and time required for an engagement
+
+•
+The failure to effectively manage our clients’ expectations regarding the scope of services delivered for a fixed fee
+
+•
+The failure to timely and satisfactorily complete fixed-price engagements within budget
+
+If we do not adequately assess and manage these and other risks, we may be subject to cost overruns and penalties, which may harm our financial performance.
+
+Changes in the insurance markets may affect our business.
+
+Some of our clients, primarily those for our property appraisal services, require that we secure performance bonds before they will select us as their vendor. In addition, we have in the past been required to provide letters of credit as security for the issuance of a performance bond. We cannot guarantee that we will be able to secure such performance bonds in the future on terms that are favorable to us, if at all. Our inability to obtain performance bonds on favorable terms or at all could impact our future ability to win some contract awards, particularly large property appraisal services contracts, which could negatively impact revenues. In addition, the general insurance markets may experience volatility and/or restrictive coverage trends, which may lead to future increases in our general and administrative expense and negatively impact our operating results.
+
+Risks Related to Our Indebtedness
+
+Servicing our indebtedness requires a significant amount of cash. We may not have sufficient cash flow from our business to pay our indebtedness, and we may not otherwise have the ability to raise the funds necessary to settle for cash conversions of the Convertible Senior Notes or to repurchase the Convertible Senior Notes upon a fundamental change, or to repay our indebtedness obligations under our 2024 Credit Agreement, each of which could adversely affect our business and results of operations.
+
+On September 25, 2024, the Company entered into a $700.0 million credit agreement with the various lenders party thereto and Wells Fargo Bank, National Association, as Administrative Agent, Swingline Lender, and Issuing Lender (the “2024 Credit Agreement”). The 2024 Credit Agreement provides for an unsecured revolving credit facility in an aggregate principal amount of up to $700.0 million, including subfacilities for standby letters of credit and swingline loans. On March 9, 2021, we issued 0.25% Convertible Senior Notes due in 2026 in the aggregate principal amount of $600.0 million (“the Convertible Senior Notes” or “the Notes”). The Convertible Senior Notes were issued pursuant to, and are governed by, an indenture (the “Indenture”), dated as of March 9, 2021, with U.S. Bank National Association as trustee.
+
+As of December 31, 2024, we had outstanding an aggregate principal amount of $600 million of our Convertible Senior Notes and none under our 2024 Credit Agreement. Our indebtedness may increase our vulnerability to any generally adverse economic and industry conditions, and we and our subsidiaries may, subject to the limitations in the terms of our existing and future indebtedness, incur additional debt, secure existing or future debt or recapitalize our debt. If we incur additional indebtedness, the risks related to our business would increase and our ability to service or repay our indebtedness may be adversely impacted.
+
+16
+
+Pursuant to their terms, holders may convert their Convertible Senior Notes at their option prior to the scheduled maturities of their Convertible Senior Notes under certain circumstances. Upon conversion of the Convertible Senior Notes, unless we elect to deliver solely shares of our common stock to settle such conversion (other than paying cash in lieu of delivering any fractional share), we will be obligated to make cash payments. In addition, holders of our Convertible Senior Notes will have the right to require us to repurchase their Convertible Senior Notes upon the occurrence of a fundamental change (as defined in the Indenture, dated as of March 9, 2021, between the Company and U.S. Bank National Association, as trustee (the “Trustee”) (the “Indenture”)), at a repurchase price equal to 100% of the principal amount of the Convertible Senior Notes to be repurchased, plus accrued and unpaid interest, if any. Although it is our intention, and we currently expect to have the ability, to settle the Convertible Senior Notes in cash, there is a risk that we may not have enough available cash or be able to obtain financing at the time we are required to make repurchases of Convertible Senior Notes surrendered or Convertible Senior Notes being converted. In addition, our ability to make payments may be limited by law, by regulatory authority, or by agreements governing our future indebtedness. Our failure to repurchase Convertible Senior Notes at a time when the repurchase is required by the Indenture or to pay any cash payable on future conversions of the Convertible Senior Notes as required by the Indenture would constitute a default under the Indenture. A default under the Indenture or the fundamental change itself could also lead to a default under agreements governing our other existing or future indebtedness. If the repayment of other indebtedness were to be accelerated after any applicable notice or grace periods, we may not have sufficient funds to repay the other indebtedness and repurchase the Convertible Senior Notes or make cash payments upon conversions thereof.
+
+Our ability to make scheduled payments of the principal and interest on our indebtedness when due or to make payments upon conversion or repurchase demands with respect to our Convertible Senior Notes, or to refinance our indebtedness as we may need or desire, depends on our future performance, which is subject to economic, financial, competitive, and other factors beyond our control. Our business may not continue to generate cash flow from operations in the future sufficient to satisfy our obligations under our existing indebtedness, and any future indebtedness we may incur, and to make necessary capital expenditures. If we are unable to generate such cash flow, we may be required to adopt one or more alternatives, such as reducing or delaying investments or capital expenditures, selling assets, refinancing, or obtaining additional equity capital on terms that may be onerous or highly dilutive. Our ability to refinance existing or future indebtedness will depend on the capital markets and our financial condition at such time. We may not be able to engage in any of these activities or engage in these activities on desirable terms, which could result in a default on our existing or future indebtedness and have a material adverse effect on our business, results of operations, and financial condition.
+
+Covenant restrictions under our indebtedness may limit our ability to operate our business and may adversely affect our financial condition, results of operations, and earnings per share.
+
+The Indenture governing the Convertible Senior Notes and the 2024 Credit Agreement do contain, and our future indebtedness agreements may contain, covenants that restrict our ability to finance future operations or capital needs or to engage in other business activities. Subject to customary carve-outs, thresholds and baskets, the 2024 Credit Agreement (and the Indenture by means of a cross-default) restricts, absent consent of the agent and lenders under the 2024 Credit Agreement, our ability and the ability of our restricted subsidiaries to, among other things:
+
+•    Incur additional indebtedness,
+
+•    Permit liens on our assets,
+
+•    Make certain investments, acquisitions and dispositions,
+
+•    Make certain specified fundamental changes, and
+
+•    Make certain restricted payments.
+
+In addition, the 2024 Credit Agreement (and the Indenture by means of a cross-default) contains other customary affirmative and negative covenants, and events of default. The 2024 Credit Agreement is unsecured but requires us to maintain certain financial ratios regarding our total leverage and other financial conditions in addition to the restrictions described above. Events beyond our control, including changes in general economic and business conditions, may result in a breach of any of these covenants and result in a default under the 2024 Credit Agreement that may, in turn, result in a default under the Indenture. If an event of default under the 2024 Credit Agreement occurs, the lenders could terminate all commitments to lend and elect to declare all amounts outstanding thereunder, together with accrued interest, to be immediately due and payable. If we were unable to pay such amounts, the lenders could proceed against the guarantees by our direct and indirect material domestic subsidiaries. Should the lenders proceed against the guarantees, we cannot give assurance that we would have sufficient assets to pay amounts due on the 2024 Credit Agreement and the Convertible Senior Notes.
+
+17
+
+Variable rate indebtedness subjects the Company to interest rate risk, which could cause our debt service obligations to increase significantly.
+
+Our borrowings under the 2024 Credit Agreement are, and are expected to continue to be, at variable rates of interest and expose us to interest rate risk. If interest rates increase, our debt service obligations on the variable rate indebtedness would increase even though the amount borrowed remained the same, and our net income would decrease. Loans under the revolving credit facility will bear interest, at the Company’s option, at a per annum rate of either (1) the Administrative Agent’s prime commercial lending rate (subject to certain higher rate determinations) plus a margin of 0.125% to 0.75% or (2) the one-, three-, or six-month SOFR rate plus a margin of 1.125% to 1.75%. The margin in each case is based upon Tyler’s total net leverage ratio, as determined pursuant to the 2024 Credit Agreement. In addition to paying interest on the outstanding principal of loans under the revolving credit facility, the Company is required to pay a commitment fee initially in the amount of 0.125% per annum, which will subsequently range from 0.125% to 0.25% based upon the Company’s total net leverage ratio.
+
+The conditional conversion feature of the Convertible Senior Notes, if triggered, may adversely affect our financial condition and results of operations.
+
+In the event the conditional conversion feature of the notes is triggered, holders of our Convertible Senior Notes will be entitled to convert the Convertible Senior Notes at any time during specified periods at their option. If one or more holders elect to convert their Convertible Senior Notes, unless we elect to satisfy our conversion obligation by delivering solely shares of our common stock (other than paying cash in lieu of delivering any fractional share), we would be required to settle a portion or all of our conversion obligation through the payment of cash, which could adversely affect our liquidity. In addition, even if holders do not elect to convert their Convertible Senior Notes, we could be required under applicable accounting rules to reclassify all or a portion of the outstanding principal of the notes as a current rather than long-term liability, which would result in a material reduction of our net working capital.
+
+Transactions relating to our Convertible Senior Notes may affect the value of our common stock.
+
+Our Convertible Senior Notes may become convertible in the future at the option of their holders under certain circumstances. If holders of our Convertible Senior Notes elect to convert their notes, we may settle our conversion obligation by delivering to them a significant number of shares of our common stock, which would cause dilution to our existing shareholders.
+
+Fluctuation in inflation and interest rate could adversely affect our financial condition and results of operations.
+
+Our liquidity and ongoing access to capital could be materially and negatively affected by volatility in the financial and securities markets, including increased inflation and interest rates. Our continued access to sources of liquidity depends on multiple factors, including global macroeconomic conditions, the condition of global financial markets, the availability of sufficient amounts of financing and our operating performance. There have been periods of increased volatility in the financial and securities markets, as well as increased inflation and interest rates, which generally has made access to capital less certain and has increased the cost of obtaining new capital, and future volatility may create similar risks. We may need to obtain equity, equity-linked, or debt financing in the future to fund our operations, including our acquisition strategy, and there is no guarantee that such debt financing will be available in the future, or that it will be available on commercially reasonable terms, in which case we may need to seek other sources of funding.
+
+Risks Associated with Our Periodic Results and Stock Price
+
+Fluctuations in quarterly revenues could adversely impact our operating results and stock price.
+
+Our revenues and operating results can be difficult to predict and may fluctuate substantially from quarter to quarter for a variety of reasons, including:
+
+•
+The size of license transactions can vary significantly
+
+•
+Clients may unexpectedly postpone or cancel procurement processes due to changes in strategic priorities, project objectives, budget, or personnel
+
+•
+Client purchasing processes vary significantly and a client’s internal approval, expenditure authorization, and contract negotiation processes can be difficult and time consuming to complete, even after selection of a vendor
+
+•
+The number, timing, and significance of software product enhancements and new software product announcements by us and our competitors may affect purchase decisions
+
+•
+We may have to defer revenues under our revenue recognition policies and GAAP
+
+In each fiscal quarter, our expense levels, operating costs, and staffing levels are based to some extent on projections of future revenues and are relatively fixed. If our actual revenues fall below expectations, we could experience a reduction in earnings. Also, if actual revenues or earnings for any given quarter fall below expectations, it may lead to a decline in our stock price.
+
+18
+
+Increases in our investment in research and development could decrease overall margins. 
+
+An important element of our corporate strategy is to continue to dedicate a significant amount of resources to research and development and related product and service opportunities, both through internal investments and the acquisition of intellectual property from companies that we have acquired. We believe that we must continue to dedicate a significant amount of resources to our research and development efforts to maintain our competitive position, and research and development expense could adversely affect operating margins.
+
+Our stock price may be volatile.
+
+The market price of our common stock may be volatile. Examples of factors that may significantly impact our stock price include:
+
+•
+Actual or anticipated fluctuations in our operating results
+
+•
+Announcements of technological innovations, new products, or new contracts by us or our competitors
+
+•
+Developments with respect to patents, copyrights, or other proprietary rights
+
+•
+Conditions and trends in the software and other technology industries
+
+•
+Changes in financial estimates by securities analysts
+
+•
+Changes in interest rates
+
+•
+General economic and market conditions and other factors
+
+In addition, the stock market has from time to time experienced significant price and volume fluctuations that have particularly affected the market prices of technology company stocks and may in the future adversely affect the market price of our stock. Sometimes, securities class action litigation is filed following periods of volatility in the market price of a particular company’s securities. We cannot assure you that similar litigation will not occur in the future with respect to us. Such litigation could result in substantial costs and a diversion of management’s attention and resources, which could have a material adverse effect upon our financial performance.
+
+Our financial outlook may not be realized.
+
+From time to time, in press releases and otherwise, we may publish forecasts or other forward-looking statements regarding our results, including estimated revenues or earnings. Any forecast of our future performance reflects various assumptions. These assumptions are subject to significant uncertainties, and as a matter of course, any number of them may prove to be incorrect. Further, the achievement of any forecast depends on numerous risks and other factors (including those described in this discussion), many of which are beyond our control. As a result, we cannot be certain that our performance will be consistent with any management forecasts or that the variation from such forecasts will not be material and adverse. Current and potential stockholders are cautioned not to base their entire analysis of our business and prospects upon isolated predictions, but instead are encouraged to utilize our entire publicly available mix of historical and forward-looking information, as well as other available information regarding us, our products and services, and the software industry when evaluating our prospective results of operations.
+
+Risks Associated with Our Growth Strategy and Other General Corporate Risks
+
+We may experience difficulties in executing our acquisition strategy.
+
+A material portion of our historical growth has resulted from strategic acquisitions. Although our current focus is on organic internal growth, we will continue to identify and pursue strategic acquisitions with suitable candidates. These transactions involve significant challenges and risks, including risks that a transaction does not advance our business strategy; that we do not achieve the expected return on our investment; that we have difficulty integrating business systems and technology; that we have difficulty retaining or integrating new employees; that the transactions distract management from our other businesses; that we acquire unforeseen liabilities; and other unanticipated events. Our future success will depend, in part, on our ability to successfully integrate future acquisitions into our operations. It may take longer than expected to realize the full benefits of these transactions, such as increased revenue, enhanced efficiencies, or increased market share, or the benefits may be ultimately less than we expected. Although we conduct due diligence reviews of potential acquisition candidates, we may not identify all material liabilities or risks related to acquisition candidates. There can be no assurance that any such strategic acquisitions will be accomplished on favorable terms or will result in profitable operations.
+
+Our failure to properly manage growth could adversely affect our business.
+
+We continue to expand our operations by pursuing existing and potential market opportunities. This growth places significant demands on management and operational resources. In order to manage growth effectively, we must implement and improve our operational systems, procedures, and controls on a timely basis. If we fail to implement these systems, our business may be materially adversely affected.
+
+19
+
+Increases in labor costs, including wages, and an overall tightening of the labor market, could adversely affect our business, results of operations or financial condition.
+
+The labor costs associated with our business are subject to several external factors, including unemployment levels and the quality and the size of the labor market, prevailing wage rates, minimum wage laws, wages and other forms of remuneration and benefits offered to prospective employees by competitor employers, health insurance costs and other insurance costs and changes in employment and labor legislation or other workplace regulation. If we are unable to mitigate wage rate increases driven by increases to the competitive labor market through automation and other labor savings initiatives, our labor costs may increase. Furthermore, high inflation rates could also push up our labor costs. There is no assurance that our revenues will increase at the same rate as these labor cost increases to maintain the same level of profitability.
+
+In the event we must offer increased wages or other competitive benefits and incentives to attract and retain qualified personnel and fail to do so, the quality of our workforce could decline, causing certain aspects of our business to suffer. Increases in labor costs could force us to increase our prices, which could adversely impact sales. Although we have not experienced any material labor shortage to date, we have observed an overall tightening and increasingly competitive labor market and have recently experienced and expect to continue to experience some labor cost pressures. If we are unable to hire and retain capable employees, manage labor cost pressures, or if mitigating measures we take in response to increased labor costs have unintended negative effects, including on client service or retention, our business would be adversely affected. If competitive pressures or other factors prevent us from offsetting increased labor costs, our profitability may decline and could have an adverse effect on our business, results of operations or financial condition.
+
+We may be unable to hire, integrate, and retain qualified personnel.
+
+Our continued success will depend upon the availability and performance of our key management, sales, marketing, client support, and product development personnel. The loss of key management or technical personnel could adversely affect us. We believe that our continued success will depend in large part upon our ability to attract, integrate, and retain such personnel. We have at times experienced and may continue to experience challenges in recruiting qualified personnel. Competition for qualified software development, sales, and other personnel is intense, and we cannot assure you that we will be successful in attracting and retaining such personnel. In addition, competitive job markets may increase our costs relating to compensation packages due to higher salary expectations and pressures.
+
+Compliance with changing regulation of corporate governance may result in additional expenses.
+
+Changing laws, regulations, and standards relating to corporate governance, compliance, and public disclosure can create uncertainty for public companies. The costs required to comply with such evolving laws across the various states and at the federal level are difficult to predict and/or harmonize. To maintain high standards of corporate governance, compliance, and public disclosure, we intend to invest all reasonably necessary resources to comply with evolving standards. This investment may result in an unforeseen increase in general and administrative expense and a diversion of management’s time and attention from revenue-generating activities, which may harm our operating results.
+
+Evolving legal and regulatory landscape over artificial intelligence technologies creates uncertainties.
+
+There is uncertainty about the extent to which privacy and data protection laws apply to artificial intelligence technologies, and any delay in addressing those concerns may result in liability or regulatory investigations and fines, as well as harms to our business and reputation. In addition, issues related to intellectual property rights in artificial intelligence technologies have not been fully addressed by the courts or regulators. As such, to the extent we implement generative artificial intelligence technologies into our products and/or services, we may face resulting exposure to claims related to copyright infringement or other intellectual property misappropriation. 
+
+We do not foresee paying dividends on our common stock.
+
+We have not declared nor paid a cash dividend since we entered the software business in 1998. We intend to retain earnings for use in the operation and expansion of our business. We do not anticipate paying cash dividends on our common stock in the foreseeable future.
+
+Provisions in our certificate of incorporation, bylaws, and Delaware law could deter takeover attempts.
+
+Our Board of Directors may issue up to 1,000,000 shares of preferred stock and may determine the price, rights, preferences, privileges, and restrictions, including voting and conversion rights, of these preferred shares. These determinations may be made without any further vote or action by our stockholders. The rights of the holders of our common stock will be subject to, and may be adversely affected by, the rights of the holders of any preferred stock that may be issued in the future. The issuance of preferred stock may make it more difficult for a third-party to acquire a majority of our outstanding voting stock. In addition, some provisions of our Certificate of Incorporation, Bylaws, and the Delaware General Corporation Law could also delay, prevent, or make more difficult a merger, tender offer, or proxy contest involving us.
+
+20

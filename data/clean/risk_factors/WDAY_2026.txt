@@ -1,0 +1,931 @@
+”
+ section, which we encourage you to read carefully. Moreover, we operate in a very competitive and rapidly changing environment. New risks emerge from time to time. It is not possible for our management to predict all risks, nor can we assess the impact of all factors on our business or the extent to which any factor, or combination of factors, may cause actual results to differ materially from those contained in any forward-looking statements we may make.
+
+In light of these risks, uncertainties, assumptions, and potential changes in circumstances, the future events, conditions, and trends discussed in this report may not occur and actual results could differ materially and adversely from those anticipated or implied by the forward-looking statements. Accordingly, you should not rely upon any forward-looking statements. Although we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee future results, levels of activities, performance, or achievements. We are under no duty to update any of these forward-looking statements after the date of this report or to conform these statements to actual results or revised expectations, except as required by applicable law. If we do update any forward-looking statements, no inference should be drawn that we will make additional updates with respect to those or other forward-looking statements.
+
+ITEM 1. BUSINESS
+
+Overview
+
+Workday is the enterprise AI platform for managing people, money, and agents. Workday provides more than 11,500 organizations with cloud solutions powered by artificial intelligence (“AI”) to help solve some of today’s most complex business challenges, including supporting and empowering their workforce, managing their finances and spend in an ever-changing environment, and planning for the unexpected. 
+
+We strive to reimagine how work gets done and hope to empower customers to do the same through an innovative suite of solutions with more than 75 million users under contract around the world and across industries – from emerging and medium-sized businesses to more than 65% of the Fortune
+
+500. Central to our purpose is a set of core values – with our employees as number one – along with customer service, innovation, integrity, fun, and profitability. We believe that happy employees lead to happy customers, and we are committed to helping our customers adapt and thrive in this increasingly dynamic business environment. 
+
+As organizations face changing conditions, we believe the need for an intuitive, open, scalable, and secure platform that provides unified management of human resources (“HR”), finances, AI agents, suppliers, and planning is more important than ever. Workday AI is built into our platform, allowing us to rapidly deliver and sustain models that can transform business processes and solve countless business problems. Workday’s insight into how people, money, and agents move through organizations provides a depth of context in HR and finance, allowing us to understand how and where work gets done and to strategically design solutions to have the greatest impact. As a result, Workday helps deliver better employee experiences, increase productivity, improve operational efficiencies, and provide insights for faster, data-driven decision-making. In fiscal 2026, we introduced new Workday AI agents to accelerate hiring, enhance frontline worker experiences, simplify financial processes, and improve employee information access. In fiscal 2026, we also announced new Workday AI agents that are expected to be available in fiscal 2027, purpose-built to assist with complex human capital management (“HCM”) and finance processes, such as performance reviews, workforce planning, and financial close. To support our customers and help them continuously adapt how they manage their business and operations, Workday delivers weekly product updates in addition to 
+
+1
+
+Table of 
+Contents
+
+major feature releases throughout the year. Through this model, Workday customers are able to adopt and implement innovations quickly and adapt at a time that fits their business needs. We sell our solutions worldwide through direct sales by our field sales teams; through referrals and our co-selling partners; by reselling through partners; and over Workday Marketplace. We also offer professional services, as do our Workday Services Partners, to help customers deploy our solutions and continually adopt new capabilities.
+
+Workday’s open platform enables our customers and partners to innovate by building AI-powered solutions and agents that can work across their organization. In fiscal 2026, we announced Workday Build, a new open developer platform that will give customers and our partners the ability to create and share AI-powered solutions directly on the Workday platform. Workday Build will feature Workday Flowise Agent Builder, a low-code tool designed to simplify building, deploying, and managing custom AI agents within Workday that is expected to be available to early adopter customers in fiscal 2027. In fiscal 2026, we also announced Workday Data Cloud, a new data service based on an open architecture and industry standards, such as Apache Iceberg, designed to enable organizations to gain greater strategic value from their HCM and finance data by connecting to their existing analytics platforms and operational systems with bidirectional, zero-copy access. The Workday Data Cloud includes key partnerships that will allow organizations to share data to and from certain other platforms with Workday, helping organizations to securely connect and analyze HCM and finance data in context with customer, market, and operational data. The Workday Data Cloud is expected to become available later in fiscal 2027.
+
+Our innovation strategy includes the selective acquisition of technologies that complement our core offerings and align with our long-term growth objectives. During fiscal 2026, we expanded our AI capabilities through the acquisitions of FlowiseAI, Inc. (“Flowise”), a low-code platform that makes it easy to build AI agents; Paradox, Inc. (“Paradox”), a candidate experience agent that uses conversational AI to simplify every step of the job application journey; Sana Labs AB (“Sana”), a leading AI company building the next generation of enterprise knowledge tools; and Pipedream, Inc. (“Pipedream”), a leading integration platform for AI agents.
+
+Our Capabilities
+
+Workday offers a suite of cloud-based enterprise solutions that address the evolving needs of the C-suite on a platform designed to be open, extensible, and configurable, allowing integration with other applications and the ability for customers and our partners to build custom applications. Workday’s applications and solutions, including HCM, Financial Management, Spend Management, and Planning, address industry-specific needs and serve customers ranging in size from emerging and medium-sized enterprises to Fortune 500 and global companies.
+
+Workday Platform: Solutions for the Offices of the Chief Information Officer (“CIO”), Chief Financial Officer (“CFO”), and Chief Human Resources Officer (“CHRO”)
+
+Workday unifies HR and finance on one platform, helping leaders to empower their organizations with the insights and tools needed to adapt quickly and to make sense of the vast amount of data they collect enterprise-wide. For example, information technology (“IT”) leaders are navigating the complexities of supporting employees in evolving environments, which requires them to build and deploy an adaptable, secure architecture to help ensure global continuity and productivity while remaining agile. Our purpose-built AI agents, along with customer- and partner-built agents, can help customers operate with intelligence and efficiency across the organization. The Workday platform combines both the innovation built by Workday with solutions and agents built on the Workday platform by our customers and partners, providing organizations with the flexibility to integrate Built on Workday applications, agents, and services directly into Workday. By managing their people, money, and agents together on the Workday platform, our customers can gain new possibilities for increased agility, transformation, and performance. 
+
+In fiscal 2026, Workday introduced Workday Sana, the AI experience platform for enterprise knowledge, agents, and automation across the Workday ecosystem and beyond. Workday Sana enables organizations to leverage AI for knowledge management and search, take action with AI-powered productivity tools, and automate across enterprise systems from a single, intuitive, and unified experience. Workday Sana connects the workforce with HCM, finance, and IT systems and data and is designed to enable use of AI in ways that align with how work gets done.
+
+Human Capital Management: Solutions for the Office of the CHRO
+
+Workday delivers HCM solutions to help organizations build an agile, skills-based workforce, streamline operations, increase efficiency, and deliver better employee experiences, empowering CHROs to champion the potential of their workforce. Workday’s suite of HCM solutions allows organizations to manage the entire employee lifecycle – from recruitment to retirement – enabling HR teams to hire, onboard, pay, develop, retain, and reskill, and provide meaningful employee experiences that are personalized and helpful, based on listening to the diverse needs of today’s evolving workforce. We are helping organizations manage their total workforce in one seamless experience on Workday through our solutions, including Workday Adaptive Planning, Workday Wellness, Workday Peakon Employee Voice, Workday VNDLY, and Workday HCM. 
+
+2
+
+Table of 
+Contents
+
+Workday’s AI-powered talent acquisition solutions, including HiredScore AI for Recruiting, Candidate Experience Agent, and Paradox Conversational Applicant Tracking System, help streamline the recruiting and hiring process. 
+
+Financial Management: Solutions for the Office of the CFO
+
+Workday helps organizations accelerate their journeys towards becoming truly digital finance organizations by giving them solutions and tools designed to optimize essential processes while also supporting growth, profitability, and compliance with regulatory requirements. Workday’s suite of financial management applications, built on the Workday platform with AI at the core, helps enable CFOs to manage core financial processes such as payables and receivables; identify real-time financial, operational, and management insights; perform financial consolidation; reduce time-to-close; promote internal controls and auditability; and achieve consistency across global finance operations. Our AI-powered capabilities for finance, including purpose-built AI agents, are designed to transform certain accounting, finance, and procurement processes, helping organizations to efficiently execute complex processes, forecast with predictive insights, reduce friction by connecting with existing systems, and quickly adapt to shifts in business, regulatory, and operational needs.
+
+Spend Management: Solutions for the Office of the CFO
+
+ Workday helps enable procurement professionals to support their businesses throughout the source-to-contract process with a set of spend management solutions that help organizations streamline supplier selection and contract management, build and execute sourcing events, such as requests for proposals, and manage indirect spend. Additionally, Workday offers an expense management solution that provides users with flexible ways to submit and approve expenses, while providing leaders the ability to set controls and analyze spend. 
+
+Planning: Solutions for the Offices of the CFO and CHRO
+
+In today’s dynamic environment, businesses need to continuously plan and model various scenarios to quickly respond to change. Workday provides an active planning process that can model across finance, workforce, sales, and operational data, helping organizations make more informed decisions and respond quickly to changing situations. Workday AI assists in creating forecasts that incorporate historical and third-party data, such as economic data and labor statistics. When combined with Workday’s HCM and Financial Management solutions, organizations are able to leverage real-time transactional data to dynamically adjust and recalibrate their plans.
+
+Industries: Solutions for the Offices of the CIO, CFO, and CHRO
+
+Workday offers flexible solutions to help customers adapt to their industry-specific needs and respond to change. Workday’s solutions serve industries such as financial services, government, healthcare, higher education, hospitality, manufacturing, professional and business services, retail, technology and media, and transportation. For example, Workday provides supply chain and inventory solutions to healthcare organizations, allowing them to purchase, stock, track, and replenish their inventory to help support patient care. In addition, higher education institutions can deploy Workday to manage the end-to-end student and faculty lifecycle. In fiscal 2026, Workday launched Workday Government, designed to serve the unique needs of the United States (“U.S.”) government. Workday also enables its partner ecosystem to build industry-specific integrations and applications, which customers can find on Workday Marketplace. With Workday Extend, customers can build custom applications that can accommodate their unique industry business needs, complete with the same experience, security model, and reliability of the native applications offered by Workday. 
+
+Medium Enterprise: Solutions for HR, Finance, and IT Functional Leaders at Medium-Sized Organizations
+
+Workday offers Workday GO, a simple and scalable HCM and finance solution designed and priced for the specific needs of medium-sized organizations. In fiscal 2026, Workday launched the Workday GO Partner Network, a unified ecosystem of global Workday payroll, benefits, and deployment partners. In fiscal 2026, Workday also introduced a new Deployment Agent for Workday GO to help customers get up and running quickly and Workday GO Global Payroll to help customers pay workers worldwide.
+
+3
+
+Table of 
+Contents
+
+Product Development
+
+At Workday, innovation is a core value, which encourages out-of-the-box thinking and creativity, enabling us to create applications and agents designed to change the way people work. Our product development organization is responsible for product design, development, testing, and certification. We invest significant resources and focus our efforts on developing new applications and core technologies, as well as further enhancing the usability, functionality, reliability, security, performance, and flexibility of existing applications. To grow our suite of Workday solutions and capabilities, we primarily invest in research and development. We also selectively acquire companies that are consistent with our design principles, existing product set, corporate strategy, and company culture, such as our acquisitions of Flowise, Paradox, Sana, and Pipedream in fiscal 2026. We also manage a portfolio of investments through Workday Ventures, our strategic investment arm. We invest primarily in early-stage enterprise software companies that are transforming their industries, developing innovative AI-powered technology, improving customer experiences, helping us expand our solution ecosystem, or supporting other corporate initiatives. We plan to continue making these types of strategic investments as opportunities arise that we find attractive. 
+
+Sales and Marketing
+
+We sell our subscription contracts and related services and solutions globally through direct sales, through our sales partners, and over Workday Marketplace. Our direct sales organization consists of field sales and field sales support personnel, and the Workday Field Sales team is aligned by geography, industry, and/or customer size. We also segment our sales teams into two distinct groups: those focused on landing new customer relationships, and those focused on expanding our relationship within our existing customers. We generate customer leads, accelerate sales opportunities, and build brand awareness through our marketing programs and strategic relationships. Our marketing programs largely target senior business leaders, including CFOs, CHROs, and CIOs. We also generate customer leads and transact through our partner ecosystem, including through resellers. 
+
+Our sales strategy is focused on both adding new customers and on growing our relationships with our existing customers to expand the adoption of our suite of solutions over time. By extending our go-to-market capabilities globally, we aim to grow our business by selling to new customers in new regions. As our customers realize the benefits of our entire suite of service offerings, we aim to upgrade the customers’ experience with new products and features, and gain additional subscriptions by targeting new functional areas and business units. For example, in fiscal 2026, we introduced Flex Credits, a new subscription-based flexible pricing model for certain AI solutions and platform capabilities, designed to make AI use simple, flexible, and scalable for our customers. 
+
+Partner Ecosystem
+
+As a core part of our strategy, we continue to grow our global ecosystem of partners that build new applications and solutions on the Workday platform, source new business with Workday, and deliver quality services and customer outcomes with Workday. These relationships include innovation, sales, services, and strategic partners. Together, Workday and our partners help our customers to better manage their people, money and AI agents. 
+
+Workday Build, announced in fiscal 2026, will enable our partners to create and scale AI-powered solutions directly on Workday, and the new AI developer toolset, introduced in fiscal 2026, will help further enable partner developers to customize and connect AI applications and agents on the Workday platform. Workday Marketplace allows customers to find applications, Industry Accelerators, and other integrations and solutions that are purpose-built to complement the Workday platform in targeted countries and industries. Our Industry Accelerator program combines Workday partners, solutions, and services to help speed cloud transformation efforts tailored to solve our customers’ industry-specific challenges. With our strategic partnerships, one aim is to extend the value of the Workday platform and deliver compelling health and financial wellbeing employee services. Strategic partnerships with public cloud providers, including Amazon Web Services, Inc. (“AWS”) and Google Cloud, allow our customers to innovate with modern cloud infrastructure services while reducing their committed spend on cloud. Our global partnerships with payroll providers, including Automatic Data Processing, Inc. (“ADP”), Remote Technology, Inc., and Strada, enable integrated and streamlined payroll solutions across the world. In fiscal 2026, we also introduced the Workday Agent Partner Network, a global ecosystem of partners building AI agents that will connect with Workday. For example, our partnership with Microsoft Corporation (“Microsoft”), announced in fiscal 2026, will enable customers to register and manage agents they build using Microsoft’s systems within the Workday Agent System of Record.
+
+Customers
+
+We sell to emerging, medium-sized, and large global organizations that span numerous industry categories, including financial services, government, healthcare, higher education, hospitality, manufacturing, professional and business services, retail, technology and media, and transportation.
+
+4
+
+Table of 
+Contents
+
+We have built a company culture centered around customer success and satisfaction. As part of their subscription, customers are provided support services and tools to enhance their experience with Workday solutions. This includes 24/7 support; training; a Customer Success Management group to assist customers in production; and Workday Community, an online portal where customers can collaborate and share knowledge and best practices. In addition, we offer Workday Success Plans, a comprehensive, add-on subscription service that delivers continuous value for our customers through strategic advice, product expertise, adoption resources, on-demand education, and technical guidance. We also offer extensive customer training opportunities and a professional services ecosystem of experienced Workday consultants and system integrators to help customers achieve a timely adoption of Workday and enable them to enhance the value of our applications over the life of their subscription.
+
+Seasonality
+
+We have experienced seasonality in terms of when we enter into customer agreements for our services. Historically, we have signed a significantly higher percentage of agreements with new customers, as well as renewal agreements with existing customers, in the fourth quarter of each fiscal year due to customer buying patterns. Although these seasonal factors are common in the technology industry, historical patterns should not be considered a reliable indicator of our future sales activity or performance.
+
+Competition
+
+The overall market for enterprise application software, including AI-powered solutions, is rapidly evolving, highly competitive, and subject to changing technology, shifting customer needs, and frequent introductions of new products. We currently compete with large, well-established, enterprise software vendors, such as Oracle Corporation (“
+Oracle
+”) and SAP SE (“SAP”). We also face competition from other enterprise software vendors, from regional competitors that only operate in certain geographic markets, from vendors of specific applications that address only one or a portion of our applications, and from vendors that specialize in specific industries in which we provide services, some of which offer cloud-based or AI-powered solutions. These vendors include, without limitation, Anaplan, Inc.; ADP; Coupa Software Inc.; Dayforce, Inc.; Microsoft; NetSuite; ServiceNow, Inc.; and UKG Inc.
+
+In addition, other cloud or AI platform companies that provide services in different target markets or industries may develop applications or acquire companies that operate in our target markets or industries, and some potential customers may elect to develop their own internal applications. However, the domain and industry expertise that is required for a successful solution in the areas of financial management and HCM may inhibit new entrants, who may also be unable to invest the necessary capital to accurately address global requirements and regulations. We expect continued consolidation in our industry that could lead to significantly increased competition.
+
+We believe the principal competitive factors in our markets include:
+
+•
+level of customer satisfaction and quality of customer references;
+
+•
+ability to innovate and rapidly respond to customer needs, such as the integration of AI into product offerings;
+
+•
+capacity to embed and leverage AI-based solutions responsibly;
+
+•
+speed to deploy and ease of use;
+
+•
+breadth and depth of application functionality;
+
+•
+total cost of ownership and flexibility of payment terms;
+
+•
+brand awareness and reputation;
+
+•
+adaptive technology platform;
+
+•
+capability for configuration, integration, security, scalability, and reliability of applications;
+
+•
+operational excellence to ensure system availability, scalability, and performance;
+
+•
+domain and industry expertise in applicable laws and regulations;
+
+•
+size of customer base and level of user adoption;
+
+•
+customer confidence in financial stability and future viability;
+
+•
+existing relationships with key senior business leaders; 
+
+•
+ability to integrate with legacy enterprise infrastructure and third-party applications; and
+
+•
+capacity to mobilize an ecosystem to serve customers with services and solutions.
+
+We believe that we compete favorably based on these factors. Our ability to remain competitive will largely depend on our ongoing performance in product development and customer support.
+
+For more information regarding the competitive risks we face, see “Risk Factors” included in Part I, Item 1A of this report.
+
+5
+
+Table of 
+Contents
+
+Human Capital 
+
+Workday was founded with the idea of putting people at the center of enterprise software, which is why employees are our number one core value. As of January 31, 2026, our global workforce consisted of over 21,000 employees in 36 countries, of which approximately 58% were located in the U.S. and 42% were located internationally. Maintaining strong employee relations is a priority and we consider our relations with our employees to be positive.
+
+Our Chief People Officer is responsible for developing and executing Workday’s human capital strategy, including programs focused on total rewards; workforce planning and our skills-based hiring approach; employee skills, development, engagement, and wellbeing; and our inclusive, high-performance culture. Our Chief People Officer and our CEO regularly update our Board of Directors and the Compensation Committee on human capital matters and seek their input on subjects such as succession planning, executive compensation, and our company-wide people programs.
+
+Total Rewards
+
+Our compensation philosophy is designed to establish and maintain a fair and flexible compensation program that attracts and rewards talented individuals who possess the skills necessary to support our near-term objectives, create long-term value for our stockholders, grow our business, and assist in the achievement of our strategic goals. We believe that providing employees with competitive pay that rewards and reflects outstanding performance, ownership in the company, and a wide range of benefits is fundamental to employees feeling valued, motivated, and recognized for their contributions. Equity ownership is a key element of our compensation program, allowing employees to share in Workday’s successes and aligning the interests of our employees with our stockholders. Additionally, our total rewards package includes a cash bonus program, an employee stock purchase plan, healthcare and retirement benefits, paid time off, family leave, and other wellness programs. We also offer specialized benefits such as a holistic global mental and emotional health program, onsite and virtual healthcare resources, a financial wellness program, and support for fertility options and new parents, as well as reimbursement of adoption costs. 
+
+Our Commitment to Pay Parity
+
+We believe that all employees deserve to be paid fairly and equitably and be afforded an equal chance to succeed. We have a market-based pay structure that compares our roles to those of our peers in each region. This process helps ensure we pay according to the market value of the jobs we offer. We also have processes in place to make pay decisions based on internally consistent and fair criteria. Each year, we conduct a company-wide pay equity analysis to help ensure pay equity among employees in similar roles. If we identify differences in pay, we research those differences and, where appropriate, make adjustments to employees’ pay.
+
+VIBE: Value Inclusion and Belonging for Everyone
+
+We strive to be a workplace where all employees are valued for their unique perspectives and where we collectively contribute to Workday’s success and innovation. VIBE – Value Inclusion and Belonging for Everyone – is our approach to building an environment where all employees can thrive. Whether through creating resources that strengthen our culture, building inclusive products and technology, or developing great talent, we are building a vibrant workplace that fuels collaboration. Our 13 Employee Belonging Councils (“EBCs”) play an integral role in fostering our culture. These community-led groups are open to all employees and focus on building connections, fostering ideation, and driving innovation. As of January 31, 2026, over a quarter of our employees were members of one or more EBCs.
+
+We acknowledge that skills, education, and lived and learned experiences are gained in a variety of ways that are often not recognized in the traditional recruiting process, which is why we take a holistic approach to talent acquisition that prioritizes a skills-based approach. By standardizing practices to attract and evaluate talent fairly, minimize barriers and biases, and promote a skills-first hiring approach, we aim to deliver a meaningful and positive experience for all. 
+
+Learning and Development
+
+Our employees tell us they are most engaged when they are continuously being exposed to new things, empowered to build new skills, and able to make an impact. Our employees have instant access to training via several industry-leading learning platforms, which provide our global workforce with convenient, timely access to content from subject matter experts. We offer a number of educational resources, development opportunities, and a support community to guide employees throughout their Workday careers. For example, we developed Career Hub which helps our employees share skills and interests and receive relevant connections, curated learning content, and recommended jobs to help them on their career journeys. Using Workday AI, Career Hub provides workers with suggestions to grow their skills and capabilities and encourages them to build a plan as they explore opportunities for continued career development.
+
+6
+
+Table of 
+Contents
+
+Additionally, to foster a strong culture of compliance and ethics, we conduct annual compliance and ethics training of our Code of Conduct for all employees. In fiscal 2026, we had a 100% completion rate for our annual Code of Conduct training.
+
+Communication and Engagement
+
+Our culture and how we treat people are paramount at Workday, and we believe that being transparent and facilitating information sharing are key to our success. Workday leverages multiple communication channels to engage and inform employees, including company meetings, functional town halls, internal websites, and social collaboration tools. We also encourage regular 1:1 sessions and quarterly check-ins between managers and employees to provide individual performance feedback, and the use of our peer recognition platform. We believe that understanding what our employees want and supporting them effectively is critical to retaining our highest performing employees and attracting top talent. We use Workday Peakon Employee Voice, powered by Workday AI, to collect and analyze feedback in real time from our employees, garner insights and recommendations, and turn that feedback into dialog and action. Since we introduced Workday Peakon Employee Voice in fiscal 2022, employees have provided over 760,000 confidential comments on the platform through surveys sent to all employees each week, which reflects strong engagement. We receive data points from these surveys that help us identify actions to take to improve our company and our culture. 
+
+Buoyed by the opportunities offered by our own technology, our talent philosophy puts employees at the center of their own career and performance journey by providing them the tools and framework to further their careers. We have done this by establishing a clear philosophy and set of expectations. Every employee receives enablement on our performance and growth philosophy, what’s expected of them, and how to leverage these practices to ensure their own personal success and career growth at Workday. Our talent and performance dashboard provides a snapshot view of performance-related tasks, with a visual summary of goals, feedback, and growth opportunities. Employees can take action to update their contributions, capabilities, career, and connections using the quick links provided in the dashboard. 
+
+Health, Safety, and Wellbeing
+
+At Workday, we take a holistic approach to our employees’ health and wellbeing and have created programs that focus on four core dimensions: Physical; Mental and Emotional; Financial; and Social and Flex. These programs go beyond traditional medical benefits and wellness offerings and allow employees to focus on their personal wellness goals as well as their mental health, and enable them to bring their best selves to work.
+
+Our hybrid work model provides flexibility for our employees to work from home, while still bringing people together to foster collaboration and innovation. We offer new remote-based employees a stipend to enable them to have a comfortable work-from-home environment. To help keep health and mental wellness top of mind, we offer a series of programs and communications focused on mental health. These include tools and resources related to sleep, healthy eating, and mindfulness, as well as our Employee Assistance Program to, among other things, facilitate timely access to culturally responsive mental health support for employees and their family members.
+
+ Our Global Workplace Safety team supports the traditional corporate areas of employee health and safety and physical security for Workday on a global scale. From the workplace to work-related travel, we strive to keep our employees safe with programs including safety awareness training, emergency response protocols, and our ergonomics and life safety team programs.
+
+Giving and Doing
+
+Workday’s Giving & Doing program embodies our belief in making a positive impact beyond our organizational walls, empowering employees to engage in charitable efforts, community service, and volunteerism. On top of our strategic, company-led social impact and employee volunteerism efforts, we also believe that giving back is even more rewarding when people get to make an impact through their favorite causes. We encourage and support employee giving and volunteering through programs such as our charitable donation matching gift program, our volunteer grant program, our paid time off benefit for employees to volunteer and give back to their communities, and our team volunteer experience, where employee teams of five or more can volunteer with a charity partner of their choice and receive grants of up to $5,000.
+
+7
+
+Table of 
+Contents
+
+Intellectual Property
+
+We rely on a combination of trade secrets, patents, copyrights, and trademarks, as well as contractual protections, to establish and protect our intellectual property rights. We require our employees, contractors, consultants, suppliers, partners, and other third parties to enter into confidentiality and proprietary rights agreements, and we control access to software, documentation, and other proprietary information. Although we rely on intellectual property rights, as well as contractual protections and controls, to establish and protect our proprietary rights, we believe that factors such as the technological and creative skills of our personnel; creation of new products, features, and functionality; and frequent enhancements to our applications are more essential to establishing and maintaining our technology leadership position.
+
+Governmental Regulation
+
+As a public company with global operations, we are subject to various federal, state, local, and foreign laws and regulations. These laws and regulations, which may differ among jurisdictions, include, among others, those related to financial and other disclosures, accounting standards, privacy and data protection, cybersecurity, intellectual property, AI ethics and machine learning, corporate governance, tax, government contracting, trade, antitrust, employment, immigration and travel, import/export, and anti-corruption. The costs to comply with these governmental regulations are not material to the understanding of our business. For a further discussion of the risks associated with government regulations that may materially impact us, see “Risk Factors” included in Part I, Item 1A of this report.
+
+Available Information
+
+Our website is located at www.workday.com and our investor relations website is located at www.investor.workday.com. Our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and other filings with the Securities and Exchange Commission (“SEC”), and all amendments to these filings, can be obtained free of charge from our website at www.workday.com/sec-filings as soon as reasonably practicable after we electronically file them with or furnish them to the SEC. The SEC maintains an Internet site that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC at www.sec.gov. Workday also uses its websites, including its investor relations website and blogs.workday.com as a means of disclosing information about Workday, including information that could be deemed material by investors. Information contained on or accessible through any website referenced herein is not part of, or incorporated by reference in, this Form 10-K, and the inclusion of such website addresses is as inactive textual references only. 
+
+Workday, the Workday logo, Flowise, Paradox, Sana, Pipedream, Adaptive Planning, Peakon, VNDLY, HiredScore, Conversational ATS, VIBE, and Evisort are trademarks of Workday, Inc., which may be registered in the U.S. and elsewhere. Other trademarks, service marks, or trade names appearing in this report are the property of their respective owners.
+
+8
+
+Table of 
+Contents
+
+
+
+Investing in our securities involves a high degree of risk. You should carefully consider the risks and uncertainties described below, together with all of the other information in this report, including the consolidated financial statements and the related notes included elsewhere in this Annual Report on Form 10-K, before making an investment decision. The risks and uncertainties described below reflect our beliefs and opinions as to the factors and events that could materially and adversely affect our business or the market price of our securities in the future. References to past events are provided by way of example only and are not intended to be a complete listing or a representation as to whether or not any of the risks, events, or uncertainties described below have occurred in the past. The risks and uncertainties described below are not the only ones we face. Additional risks and uncertainties that we are unaware of, or that we currently believe are not material, may also become important factors that materially and adversely affect our business. If any of the following risks actually occurs, our business operations, financial condition, operating results, and prospects could be materially and adversely affected. The market price of our securities could decline due to the materialization of these or any other risks, and you could lose part or all of your investment.
+
+Summary of Risk Factors
+
+The following summary provides an overview of the material risks we are exposed to in the normal course of our business activities. This risk factor summary does not contain all of the information that may be important to you, and you should read these together with the more detailed discussion of risks set forth following this section, as well as elsewhere in this Annual Report on Form 10-K under the heading “Management’s Discussion and Analysis of Financial Condition and Results of Operations.” Additional risks beyond those summarized below, or discussed elsewhere in “Risk Factors” and “Management’s Discussion and Analysis of Financial Condition and Results of Operations,” may apply to our activities or operations as currently conducted or as we may conduct them in the future, or to the markets in which we currently operate or may in the future operate. Consistent with the foregoing, we are exposed to a variety of risks, including those associated with the following:
+
+•
+any compromise of our information technology systems or security measures (including of our critical suppliers and service partners), or the unauthorized access of customer or user data;
+
+•
+any slowdown or failure of our technical operations infrastructure, including data centers operated by third parties, or the impact of service outages or delays in the deployment of our applications, or the failure of our applications to perform properly;
+
+•
+our ability to compete effectively in the intensely competitive markets in which we participate, including against non-specialist AI-native solutions;
+
+•
+privacy concerns and evolving domestic or foreign laws and regulations;
+
+•
+any loss of key employees or the inability to attract, develop, and retain highly skilled employees;
+
+•
+our reliance on our network of partners to drive additional growth of our revenues;
+
+•
+our ability to realize a return on our current development efforts or offer new features, such as those involving AI, enhancements, and modifications to our products and services, and our ability to realize a return on the investments we have made toward entering new markets and new lines of business;
+
+•
+exposure to risks inherent to international expansion and sales to customers outside the U.S. or with international operations;
+
+•
+our ability to realize the expected business or financial benefits of company, employee, or technology acquisitions;
+
+•
+government contracts and related procurement regulations;
+
+•
+any dissatisfaction of our users with the deployment, training, and support services provided by us and our partners;
+
+•
+delays in the reflection of downturns or upturns in new sales in our operating results associated with long sales cycles and our subscription model;
+
+•
+our ability to predict the rate of customer subscription renewals or adoptions;
+
+•
+the technical, legal, and regulatory environment in connection with our use of new and evolving technologies in our offerings, such as AI;
+
+•
+any adverse litigation results;
+
+•
+our ability to successfully integrate our applications with third-party technologies;
+
+•
+any failure to protect our intellectual property rights or any lawsuits against us for alleged infringement of third-party proprietary rights;
+
+•
+the impact of continuing global economic and geopolitical volatility;
+
+•
+the fluctuation of our quarterly results;
+
+9
+
+Table of 
+Contents
+
+•
+our existing and future debt obligations; and
+
+•
+the limited ability of third parties to influence corporate matters due to our dual class structure and to seek a merger, tender offer, or proxy contest due to Delaware law and provisions in our organizational documents.
+
+Risks Related to Our Business and Industry
+
+Any slowdown or failure in our technical operations infrastructure or applications may subject us to liabilities and adversely affect our reputation and operating results.
+
+We have experienced significant growth in the number of users, transactions, and data that our operations infrastructure supports. If we do not accurately predict our infrastructure requirements or fail to adapt and scale, we may see an increase in service outages or delays, or significant increases in operating costs, which may adversely affect our business and operating results.
+
+We have experienced, and may in the future experience, defects, system disruptions, outages, and other performance problems, including the failure of our applications to perform properly. These problems may be caused by a variety of factors, including infrastructure and software or code changes, vendor issues, software and system defects, human error, viruses, worms, security attacks (internal and external), fraud, spikes in customer usage, and denial of service issues. For example, in July 2025, we identified and subsequently remediated an issue impacting reporting from high-volume data sources in the tenants of certain customers that may have yielded incomplete queries without displaying an error message. In addition, we may also encounter difficulties integrating acquired technologies, which may result in the failure of our applications to perform properly. All of these issues may result in increased operational costs, delays in new feature rollouts, customer loss, reputational damage, and legal or regulatory liability, including liability under customer contracts.
+
+Such issues have, and may in the future, result in certain parties having unauthorized access to data, which could increase the scope of our liability. Because of the large amount of data that we collect and process in our systems, and the sensitive nature of such data, it is possible that these issues could result in significant disruption, data loss or corruption, or cause the data to be incomplete or contain inaccuracies that our customers and other users regard as significant. 
+
+Furthermore, our applications are essential to many of the business processes for our customers. For example, our financial management application is essential to our and our customers’ financial planning, reporting, and compliance programs. Any interruption in our service may affect the availability, accuracy, or timeliness of such programs and as a result could damage our reputation, cause our customers to terminate their use of our applications, require us to issue refunds for prepaid and unused subscription services, require us to compensate our customers for certain losses, and prevent us from gaining additional business from current or future customers. In addition, because we use Workday’s financial management application, any problems that we experience with financial reporting and compliance could be negatively perceived by prospective or current customers and negatively impact demand for our applications.
+
+Our insurance policies, including our errors and omissions insurance, may be inadequate or may not be available in the future on acceptable terms, or at all, to protect against claims and other legal actions arising from breaches of our contracts, disruptions in our service, including those caused by cybersecurity incidents, failures or disruptions to our infrastructure, catastrophic events and disasters, or otherwise. In addition, our policy may not cover all claims made against us and defending a suit, regardless of its merit, could be costly.
+
+We depend on data centers and other infrastructure operated by third parties, as well as internet availability, and any disruption in these operations could adversely affect our business and operating results.
+
+We host our applications and serve our customers and users globally from data centers operated by third parties and rely upon third-party vendors to operate certain aspects of our services. We control our applications and data, but we do not control the facilities, operations, and physical security of these locations. Disruption of or interference at these locations has and could in the future impact our operations and our business could be adversely impacted. For example, we have experienced disruptions at certain of our co-location data centers in the U.S. due to high temperatures and power outages that resulted in a brief temporary outage of our services for a subset of our customers. These facilities may also be subject to cybersecurity breaches, capacity constraints, financial difficulties, break-ins, sabotage, intentional acts of vandalism and similar misconduct, natural catastrophic events, as well as local administrative actions, changes to legal or permitting requirements, and litigation to stop, limit, or delay operations, and our disaster recovery planning may not account for all eventualities.
+
+Furthermore, our customers and other users access our applications through their internet service providers. If a service provider fails to provide sufficient capacity to support our applications or otherwise experiences service outages, such failure could interrupt our customers’ and other users’ access to our applications, which could adversely affect their perception of our applications’ reliability and our revenues. In addition, certain countries have implemented or may implement legislative and technological actions that either do or can effectively regulate access to the internet, including the ability of internet service providers to limit access to specific websites or content. 
+
+10
+
+Table of 
+Contents
+
+Any changes in service levels with our infrastructure providers, or any errors, defects, disruptions, or other performance problems with our applications or the infrastructure on which they run, including internet infrastructure, could adversely affect our reputation and may damage our customers’ or other users’ data or result in lengthy interruptions in our services. Interruptions in our services might adversely affect our reputation and operating results, cause us to issue refunds or service credits to customers, subject us to potential liabilities, result in contract terminations, or adversely affect our renewal rates.
+
+The markets in which we participate are intensely competitive, and if we do not compete effectively, our operating results could be adversely affected.
+
+The markets for enterprise cloud applications, including AI-powered solutions, are highly competitive, with relatively low barriers to entry for some applications or services. Some of our competitors are larger and have greater name recognition, significantly longer operating histories, access to larger customer bases, larger marketing budgets, and significantly greater resources to devote to the research, development, promotion, and sale of their products and services than we do. This may allow our competitors to respond more effectively than us to new or emerging technologies and changes in market conditions.
+
+Our primary competitors are Oracle and SAP, well-established providers of financial management and HCM applications, which have long-standing relationships with customers and partners. Some customers may be hesitant to switch vendors or to adopt cloud applications such as ours and may prefer to maintain their existing relationships with competitors. We also face competition from other enterprise software vendors, from regional competitors that only operate in certain geographic markets, and from vendors of specific applications that address only one or a portion of our applications, some of which offer cloud-based or AI-powered solutions. These vendors include, without limitation: Anaplan, Inc., ADP, Coupa Software Inc., Dayforce, Inc., Microsoft, ServiceNow, Inc., and UKG Inc. We may also face greater competition from non-specialist solutions relying on generic large language models (“LLMs”), generative AI, and general-purpose agents to address a broad range of business needs. In order to take advantage of customer demand for cloud and AI-powered applications, legacy vendors are expanding their cloud or AI-powered applications through acquisitions, strategic alliances, and organic development. In addition, other cloud or AI platform companies that provide services in different target markets or industries may develop applications or acquire companies that operate in our target markets or industries, and some potential customers may elect to develop their own internal applications. As the market evolves and as existing and new market participants introduce new types of technologies, such as generative and agentic AI, and different approaches that enable organizations to address their HCM and financial needs, our ability to maintain market differentiation may affect our competitive position.
+
+Furthermore, our current or potential competitors may be acquired by, or merge with, third parties with greater available resources and the ability to initiate or withstand substantial price competition. Our competitors may also establish cooperative relationships among themselves or with third parties that may further enhance their offerings, integrations, or resources. Many of our competitors also have major distribution agreements with consultants, system integrators, and resellers and such partners may prefer to maintain their existing relationships with competitors. With the introduction of new technologies, such as generative AI, we expect competition to intensify in the future. As we attempt to sell our products and solutions to potential and current customers, we must demonstrate that our products and solutions are superior to other solutions available to their organizations, including generic LLMs, software created using natural language prompts and generative AI (referred to as vibe coding) and other emerging technologies. If our competitors’ products, services, or technologies, including generative and agentic AI capabilities, become more accepted than our products, if their customer support efforts are preferred by customers, if they are successful in bringing their products or services to market earlier than ours, if they scale at a faster rate, or if their products or services are more technologically capable or resonate more with the market than ours, including having more or easier to use integrations for software solutions used and preferred by our customers, then our revenues could be adversely affected. In addition, our competitors may offer their products and services at a lower price, or may offer price concessions, delayed payment terms, financing terms, or other terms and conditions that are more enticing to potential customers. Due to the complex nature of implementing financial management solutions, the lifecycle of the contracts for such solutions tends to be long. Therefore, if we lose a current customer to a competitor or fail to secure a prospective customer for financial management solutions, there is a long duration before we will be able to approach that customer again with our sales efforts for such solutions. Pricing pressures and increased competition could result in reduced sales, reduced margins, losses, or a failure to maintain or improve our competitive market position, any of which could adversely affect our business and operating results.
+
+11
+
+Table of 
+Contents
+
+We may lose key employees or be unable to attract, enable, and retain highly skilled employees.
+
+Our success and future growth depend largely upon the continued services of our executive officers, other members of senior management, and other key employees. We do not have employment agreements with our executive officers or other key employees that require them to continue to work for us for any specified period, and they could terminate their employment with us at any time. We have and may continue to execute our growth plan through strategic investments to attract and retain executive officers, senior management, or other key employees that may not be offset by increased performance or revenues. In February 2026, Aneel Bhusri, formerly Executive Chair, assumed the role of CEO and Carl Eschenbach ceased to serve as CEO. Key employee and executive leadership changes have the potential to disrupt our business, impact our ability to preserve our culture, negatively affect our ability to attract and retain talent, or otherwise have a serious adverse effect on our business and operating results.
+
+To execute our growth plan, we must attract, enable, develop, and retain highly qualified talent. Our ability to compete and succeed in a highly competitive environment is directly correlated to our ability to recruit and retain highly skilled and experienced employees, especially in the areas of product development, cybersecurity, senior sales executives, and engineers with significant experience in designing and developing software and internet-related services, especially in AI and emerging technologies. The expansion of our sales infrastructure, both domestically and internationally, is necessary to grow our customer base and business. Our business may be adversely affected if our efforts to attract and enable new members of our direct sales force do not generate a corresponding increase in revenues. We have experienced, and we expect to continue to experience, significant competition in hiring and retaining employees with appropriate qualifications.
+
+We must also continue to retain, develop, and motivate existing employees through our compensation practices, company culture, and career development opportunities. The compensation and incentives we have available to attract, retain, and motivate employees may not meet the expectations of current and prospective employees as the competition for talent intensifies. For example, our equity awards may become less effective if our stock price decreases or increases at a slower rate than our talent competitors. Further, our current and future office environments and our current hybrid work policy may not meet the expectations of our employees or prospective employees, and may amplify challenges in recruiting and retention. We believe that a critical component of our success has been our corporate culture and our core values. As we continue to grow and change, we may find it difficult to maintain our corporate culture among a larger number of employees who are dispersed throughout various geographic regions, including difficulties due to managing the complexities of communicating with all employees. Efforts to restructure our workforce may be disruptive and adversely impact employee morale or our corporate culture. Failure to maintain or adapt our culture could negatively affect our ability to attract new employees or to retain our current employees and our business and future growth prospects could be adversely affected.
+
+We rely on our network of partners to drive additional growth of our revenues, and if these partners fail to perform, our ability to sell and distribute our products may be impacted, and our operating results and growth rate may be harmed.
+
+Our strategy for additional growth depends, in part, on sales generated through our network of partners and professional services provided by our partners. If the operations of these partners are disrupted, including as a direct or indirect result of recent macroeconomic conditions, our own operations may suffer, which could adversely impact our operating results. Identifying partners, negotiating and documenting relationships with them, and marketing and promoting partnerships requires significant time and resources, and we cannot ensure that these partnerships will result in increased customer adoption or usage of our applications or increased revenue. We may be at a disadvantage if our competitors are effective in providing incentives to our current or potential partners to favor their products or services or to prevent or reduce subscriptions to our services, or in negotiating better rates or terms with such partners, particularly in international markets where our potential partners may have existing relationships with our competitors. In addition, acquisitions of our partners by our competitors could end our strategic relationship with such acquired partner and result in a decrease in the number of our current and potential customers.
+
+12
+
+Table of 
+Contents
+
+Our partner training and educational programs may not be effective or utilized consistently by partners. New partners may require extensive training and/or may require significant time and resources to achieve productivity, and such requirements may deter potential partners due to the significant time and financial investment required. Changes to our direct go-to-market models and expanded product and service offerings may cause friction with our partners, require increased time and financial investment, and may increase the risk in our partner ecosystem. The actions of our partners may subject us to lawsuits, potential liability, and reputational harm if, for example, any of our partners misrepresent the functionality of our products to prospective or current customers, fail to perform services to our customers’ expectations, or violate laws or our corporate policies, such as laws and policies around privacy, cybersecurity, and responsible AI. In addition, we resell certain products and services offered by our partners and could incur potential liability and reputational harm if our partners fail to provide such products and services as represented to customers. Our partners may utilize our platform to develop products and services that could potentially compete with products and services that we offer currently or in the future. Concerns over competitive matters or intellectual property ownership could constrain these partnerships. If we fail to effectively manage and grow our network of partners, maintain good relationships with our partners, or properly monitor the quality and efficacy of their service delivery, or if our partners do not effectively market and sell our subscription services, use greater efforts to market and sell their own products or services or those of our competitors, or fail to meet the needs or expectations of our customers, our ability to sell our products and efficiently provide our services may be impacted, and our operating results and growth rate may be harmed. 
+
+If we are not able to realize a return on our current development efforts or offer new features, enhancements, and modifications to our products and services that are desired by current or potential customers, our business and operating results could be adversely affected.
+
+Developing software applications and related enhancements, features, and modifications, including those involving AI, including generative and agentic AI or other emerging technologies, is expensive, and the investment in product development often involves a long return on investment cycle. We believe that we must continue to dedicate a significant amount of resources to our development efforts to maintain our competitive position. Accelerated application introductions and short application life cycles require high levels of expenditures that could adversely affect our operating results if not offset by revenue increases. However, we may not receive significant revenues from these investments for several years, if at all. If we are unable to provide new features, enhancements to user experience, and modifications in a timely and cost-effective manner that achieve market acceptance, align with customer expectations, and that keep pace with rapid technological developments and changing regulatory landscapes, it may negatively impact our customer renewal rates, limit the market for our solutions, or impair our ability to attract new customers and our business and operating results could be adversely affected. For example, AI is propelling advancements in technology, but if we fail to innovate and keep up with advancements in AI technology, if Workday’s AI-powered solutions, including our current and planned agentic AI solutions, fail to be delivered as planned or at all, fail to operate as expected or to meet customer expectations, if we fail to successfully monetize our AI-powered solutions, or if we do not have sufficient access to development resources and the technologies required to build and improve our applications, our business and reputation may be harmed. 
+
+If we are not able to realize a return on the investments we have made toward entering new markets and new lines of business, our business and operating results could be adversely affected.
+
+We continue to seek opportunities to enter into new markets and/or new lines of business, some of which we may have very limited or no experience in. For example, we have and continue to make significant targeted investments in entering the medium-enterprise and U.S. federal government markets and see our success in these markets as key contributors to our future growth. Additionally, we have made and continue to make significant investments in platform offerings and AI, including generative AI and agentic capabilities. As an entrant to new markets and new lines of business, we may not be effective in convincing prospective customers that our solutions will address their needs, and we may not accurately estimate our infrastructure needs, human resource requirements, or operating expenses with regard to these new markets and new lines of business. We may also fail to accurately anticipate adoption rates of these new lines of business or their underlying technology. Also, we may not be able to properly price our solutions in these new markets, which could negatively affect our ability to sell to customers. Furthermore, customers in these new markets or of the new lines of business may demand more or different features and professional services, which may require us to devote even greater research and development, sales, support, and professional services resources to such customers. If we fail to generate adequate revenues from these new markets and lines of business, or if we fail to do so within the envisioned timeframe, it could have an adverse effect on our business, financial condition, and operating results.
+
+13
+
+Table of 
+Contents
+
+Our international presence, continued expansion, and sales to customers outside the U.S. or with international operations expose us to risks inherent in global operations.
+
+The growth of our business and future prospects depends on our ability to further expand our operations and increase our sales outside of the U.S. as a percentage of our total revenues. Operating globally requires significant resources and management attention and subjects us to regulatory, economic, and political risks that are different from those in the U.S. Our investments and efforts to further expand internationally may not be successful in creating additional demand for our applications outside of the U.S. or in effectively selling subscriptions to our applications in all of the markets we enter. Risks associated with doing business on a global scale that could adversely affect our business, include:
+
+•
+the need to develop, localize, and adapt our applications and customer support for specific countries;
+
+•
+the need to successfully develop and execute on a localized go-to-market strategy;
+
+•
+the need to adhere to local laws and regulations, including those related to data localization, privacy, and anti-corruption, which may make it more difficult to penetrate certain international market segments with highly specialized compliance, contracting, and data sovereignty requirements; 
+
+•
+difficulties in appropriately staffing and managing foreign operations and providing appropriate compensation and benefits for local markets;
+
+•
+difficulties in leveraging executive presence, maintaining company culture globally, and conforming with local cultural contexts and customs;
+
+•
+increased travel, real estate, infrastructure, and legal and regulatory compliance costs associated with international operations;
+
+•
+different pricing environments, longer sales cycles, and longer trade receivables payment cycles, and collections issues;
+
+•
+new and different sources of competition;
+
+•
+potentially weaker protection for intellectual property and other legal rights than in the U.S. and practical difficulties in enforcing intellectual property and other rights;
+
+•
+laws, contracting approaches, customs, and business practices favoring local vendors over U.S.-based companies, which may be increased by geopolitical tensions;
+
+•
+restrictive governmental actions focused on cross-border trade, such as import and export restrictions, duties, quotas, potential or imposed tariffs, trade disputes, and barriers or sanctions, as well as any retaliatory actions, that may prevent us from offering certain portions of our products or services to a particular market, may increase our operating costs, or may subject us to monetary fines or penalties;
+
+•
+compliance challenges related to the complexity of multiple, conflicting, and changing governmental laws and regulations, including employment, tax, privacy, intellectual property, financial services, AI, and data protection laws and regulations, as well as challenges with differing legal, alternative dispute, and regulatory systems;
+
+•
+increased compliance costs related to government regulatory reviews or audits, including those related to international cybersecurity and sustainability requirements;
+
+•
+increased financial accounting and reporting burdens and complexities;
+
+•
+the effects of currency fluctuations on our revenues and expenses and customer demand for our services;
+
+•
+restrictions on the transfer of funds;
+
+•
+adverse tax consequences and tax rulings; and
+
+•
+unstable economic and political conditions.
+
+Certain of the above factors have and may continue to negatively impact our ability to sell our applications and offer services globally, reduce our competitive position in foreign markets, increase our costs of global operations, reduce demand for our applications and services from global customers, or subject us to legal or regulatory liability. Additionally, the majority of our international costs are denominated in local currencies and we anticipate that over time an increasing portion of our sales contracts may be outside the U.S. and will therefore be denominated in local currencies. Fluctuations in the value of foreign currencies, which may be amplified by macroeconomic events, may impact our operating results when translated into U.S. dollars. Such fluctuations may also impact our ability to predict our future results accurately. If we are not able to successfully hedge against the risks associated with foreign currency fluctuations, our financial condition and operating results could be adversely affected.
+
+We have acquired, and may in the future acquire, other companies, employee teams, or technologies, which could divert our management’s attention, result in additional indebtedness or dilution to our stockholders, and otherwise disrupt our operations and adversely affect our operating results.
+
+We have acquired, and may in the future acquire, other companies, employee teams, or technologies to complement or expand our applications, enhance our technical capabilities, obtain personnel, or otherwise offer growth opportunities. The pursuit of acquisitions may divert the attention of management, disrupt ongoing business, and cause us to incur various expenses in identifying, investigating, and pursuing suitable acquisitions, whether or not they are consummated.
+
+14
+
+Table of 
+Contents
+
+These impacts may continue through integration activities. Moreover, we may be unable to complete proposed transactions timely or at all for a variety of reasons, such as our failure to obtain any necessary funding, the failure to obtain required regulatory or other approvals, or the impact of litigation or other disputes. We also may not achieve the anticipated benefits from an acquisition due to a number of factors, including:
+
+•
+inability or difficulty integrating the intellectual property, technology infrastructure, and operations of the acquired business, including difficulty in addressing potential identified or unknown security risks or vulnerabilities of the acquired business or product; 
+
+•
+inability to retain key personnel or challenges in integrating the workforce from the acquired company, including the inability to maintain our culture and values;
+
+•
+acquisition-related costs, liabilities, or tax impacts, some of which may be unanticipated;
+
+•
+the impact on stockholder dilution and our operating results from the additional stock-based compensation issued in connection with the acquisition;
+
+•
+difficulty in leveraging the data of the acquired business if it includes personal data;
+
+•
+a failure to maintain the information systems of an acquired business, including difficulties in increasing or maintaining the security standards for acquired technology, which could increase the risk of a security breach of such system;
+
+•
+a failure to implement, restore, or maintain controls, procedures, or policies at the acquired company and an increased risk of non-compliance;
+
+•
+multiple product lines or service offerings as a result of our acquisitions that are offered, priced, and supported differently, as well as the potential for such acquired product lines and service offerings to impact the profitability of existing products;
+
+•
+the opportunity cost of diverting management and financial resources away from other products, services, and strategic initiatives;
+
+•
+difficulties and additional expenses associated with synchronizing product offerings, customer relationships, and contract portfolio terms and conditions between Workday and the acquired business;
+
+•
+known and unknown liabilities or risks associated with the acquired businesses, including those arising from existing contractual obligations or litigation matters;
+
+•
+adverse effects on our brand, reputation, or existing business relationships with business partners and customers as a result of the acquisition, including integrating acquired technologies and a delay in market acceptance of and difficulty in transitioning new and existing customers to acquired product lines or services;
+
+•
+risks and challenges presented by the use of innovative technologies that we acquire, such as AI; 
+
+•
+potential write-offs of acquired assets and potential financial and credit risks associated with acquired customers;
+
+•
+inability to maintain relationships with key customers, suppliers, and partners of the acquired business;
+
+•
+difficulty in predicting and controlling the effect of integrating multiple acquisitions concurrently;
+
+•
+lack of experience in new markets, products, or technologies;
+
+•
+difficulty in integrating operations and assets of an acquired foreign entity with differences in language, culture, or country-specific currency and regulatory risks;
+
+•
+the inability to obtain (or a material delay in obtaining) regulatory approvals necessary to complete transactions or to integrate operations, or potential remedies imposed by regulatory authorities as a condition to or following the completion of a transaction, which may include divestitures, ownership or operational restrictions or other structural or behavioral remedies; and
+
+•
+the failure of strategic acquisitions to perform as expected or to meet financial projections, which may be heightened due to recent macroeconomic events and market volatility.
+
+In addition, a significant portion of the purchase price of companies we acquire has been and may in the future be allocated to acquired goodwill and other intangible assets, which must be assessed for impairment at least annually. In the future, if our acquisitions do not yield expected returns, we may be required to take charges to our operating results based on this impairment assessment process, which could adversely affect our operating results. Acquisitions could also result in use of substantial portions of our available cash, which may limit other potential uses of cash, and dilutive issuances of equity securities or the issuance of debt, which could adversely affect our operating results. If we finance acquisitions by issuing debt, we could face constraints related to the terms of and repayment obligation related to the incurrence of such indebtedness. In addition, if an acquired business fails to meet our expectations, our business, financial condition, and operating results may suffer.
+
+15
+
+Table of 
+Contents
+
+Our business could be adversely affected if our users are not satisfied with the deployment, training, and support services provided by us and our partners.
+
+Implementation of our applications may be technically complicated because they are designed to enable complex and varied business processes across large organizations, integrate data from a broad and complex range of workflows and systems, and manage, develop, and build AI-powered solutions and agents, and may involve deployment in a variety of environments. Incorrect or improper implementation or use of our applications, including generative and agentic AI capabilities, could result in customer and user dissatisfaction and harm our business and operating results.
+
+In order for our customers to successfully implement our applications, they need access to highly skilled and trained service professionals. Third parties provide a majority of deployment services for our customers, but professional services may also be performed by our own staff or by a combination of the two. If customers are not satisfied with the quality, timing, and cost of work performed by us or a third party or with the type of professional services or applications delivered, or if we or a third party have not delivered on commitments made to our customers, then we could incur additional costs to address the situation, the revenue recognition of the contract could be impacted, and the dissatisfaction with our services could damage our ability to expand the applications subscribed to by our customers. Negative publicity related to our customer relationships, regardless of its accuracy, may further damage our business by affecting our ability to compete for new business with current and prospective customers both domestic and abroad.
+
+Customers and other users also depend on our support organization to provision the environments used by our customers and to resolve technical issues relating to our applications. Increased demand for these services, without corresponding revenues, could increase costs and adversely affect our operating results. Failure to maintain high-quality technical support and training, or a market perception that we do not maintain high-quality support or training, could adversely affect our reputation, our ability to offer and sell our applications, our renewal rates, and our business and operating results.
+
+Our future success depends on the rate of customer subscription renewals, and our revenues or operating results could be adversely impacted if we do not achieve renewals at expected rates or on anticipated terms. 
+
+Our customers have no obligation to renew their subscriptions for our applications after the expiration of either the initial or renewed subscription period and it is difficult to predict attrition rates given our varied customer base and the number of multi-year subscription contracts. Our customers’ renewal rates fluctuate as a result of a number of factors, including our mix of customer base and their level of satisfaction with our offerings and pricing, their awareness and adoption of the benefits and features of our applications, their ability to continue their operations and spending levels, reductions in their headcount, the evolution of their business, and the macroeconomic environment. Acquisitions of our customers by other companies have led, and could continue to lead, to cancellation of our contracts with those customers, thereby reducing the number of our existing and potential customers. If our customers do not renew their subscriptions for our applications on similar pricing terms or renew for fewer elements of our offerings or for a lower headcount, our revenues may decline, and we may not be able to meet our revenue projections, which could negatively impact our business and the market price of our Class A common stock. 
+
+Our future success also depends, in part, on our ability to sell additional products to our current customers, and the success rate of such endeavors is difficult to predict, especially with regard to any new lines of business that we may introduce from time to time. This has and may continue to require increasingly costly marketing and sales efforts that are targeted at senior management, and if these efforts are not successful, our business and operating results may suffer. Similarly, the rate at which our customers purchase new or enhanced services depends on a number of factors, including general economic conditions and customer receptiveness to any price changes related to these additional features and services. The markets and monetization strategies for certain of our offerings, including our agentic AI solutions and Workday Data Cloud, remain relatively new and uncertain and as a result, our expansion into such offerings, and related investments, may present additional risks and challenges. For example, we offer certain capabilities, including our AI agents, through Flex Credits, our new subscription-based flexible pricing model for certain AI solutions and platform capabilities, and may increase the number of products through which we do so. We have limited experience with determining optimal pricing for Flex Credits-based contracts and may face customer resistance to new pricing models or have lower levels of customer adoption of our AI solutions than we expect, which could negatively impact our business and operating results.
+
+16
+
+Table of 
+Contents
+
+The use of new and evolving technologies in our offerings at Workday, including generative and agentic AI capabilities, may result in reputational harm and increased litigation, and adversely affect our operating results.
+
+We are increasingly building and integrating AI into the Workday product suite, including generative and agentic AI, and we are increasingly using AI products and technologies in the course of running our business at Workday. As with many cutting-edge innovations, these technologies can present new risks and challenges. A quickly evolving technical, legal, and regulatory environment may cause us to incur increased research and development costs, or divert resources from other development efforts, to address ethical, legal, operational, or compliance requirements or other issues related to AI. For example, the European Union’s (“EU”) AI Act (“EU AI Act”) puts new requirements on providers and deployers of AI technologies and we are currently working to ensure compliance with corresponding deadlines. Additionally, existing laws and regulations apply to the development and deployment of AI in new ways, the nature and extent of which are difficult to predict and subject to change over time. The risks and challenges presented by these technologies could undermine public confidence in AI and could increase costs and burdens to us and our customers, which could slow its adoption and affect our business. Many of our products are powered by AI, some of which include the use of generative and agentic AI, for use cases that could potentially impact human, civil, privacy, or employment rights and dignities. To the extent that the products and technologies we develop and deploy rely on the use of generative or agentic capabilities provided by third parties, we face additional uncertainties and liabilities, especially where such third-party capabilities may be insufficient, biased, inaccurate, or of poor quality. Any failure to accurately identify and address our responsibilities and liabilities in this uncertain environment, including with respect to third-party capabilities, and to adequately address relevant ethical and social issues that may arise with such technologies and use cases, as well as failure by others in our industry or actions taken by our customers, employees, suppliers, or end users (including misuse of these technologies), could negatively affect the adoption of our offerings and subject us to reputational harm, regulatory action, or litigation, which may harm our financial condition and operating results. We are currently defending against a lawsuit alleging that certain of our AI-related products and services enable discrimination, and although we believe that such claims lack merit, and the majority of the claims have been dismissed, legal proceedings can be lengthy, expensive, and disruptive to our operations and customers (particularly where, as in the present litigation, the plaintiff may seek to also litigate against certain of Workday’s customers). We may be subject to other litigation and regulatory actions that may cause financial, competitive, and developmental impacts, and could lead to legal liability. Regardless of outcome, these types of claims have and could continue to cause reputational harm to our brand, including our ability to sell newly acquired products that use AI. Our employees, customers, or customers’ employees who are dissatisfied with our public statements, policies, practices, or solutions related to the development and use of AI may express opinions that could introduce reputational or business harm, or cease their relationship with us.
+
+If we fail to develop and maintain widespread positive awareness of our brand, our business may suffer.
+
+We believe that developing and maintaining widespread positive awareness of our brand is critical to our growth and that the importance of maintaining positive brand awareness will increase as competition in our markets increases. Successfully promoting and maintaining our brand will depend on our ability to provide reliable solutions that meet the needs of our customers, our ability to successfully differentiate our products and solutions from those of our competitors, and the effectiveness of our marketing efforts. However, brand promotion activities may not generate the awareness or increased revenues we anticipate, and even if they do, any increase in revenues may not offset the significant expenses we incur in promoting our brand. 
+
+If we fail to successfully promote and maintain positive awareness of our brand, or we fail to expand positive awareness of our newer solutions or products, we may fail to attract or retain customers necessary to realize a sufficient return on our brand-building investments. We have and may continue to experience reputational harm from, among other things, the introduction of new products, features, or services that do not meet customer expectations; our use of new and evolving technologies, including AI; service outages or disruptions; issues with product quality or performance; backlash from customers, government entities, or other stakeholders that disagree with our product offering decisions or public policy, ethical, or political positions; significant litigation or regulatory or government actions that negatively reflect on our business practices; and data security breaches or compliance failures. Additionally, the performance of our partners may affect our brand and reputation if customers do not have a positive experience with our partners’ solutions or services. Any unfavorable publicity or perception of our brand or our applications, including any unfavorable candidate or end user experience, could negatively impact our ability to attract and retain customers and also make it more difficult to hire and retain employees.
+
+17
+
+Table of 
+Contents
+
+If we are unable to successfully integrate our applications with a variety of third-party technologies, our business and operating results could be adversely affected.
+
+We depend on relationships with third-party technology and content providers and other key suppliers, and are also dependent on third parties for the license of certain software and development tools that are incorporated into or used with our applications or used to help improve our own internal systems, processes, or controls. For example, we leverage software and services for development tools and to deliver applications from many third-party suppliers including AWS and Google Cloud. If the operations of these third parties are disrupted, our own operations may suffer, which could adversely impact our operating results. Additionally, if we are unsuccessful in establishing or maintaining our relationships with these third parties, or if the quality of their products or performance is inadequate, our ability to compete in the marketplace or to grow our revenues could be impaired and our operating results may suffer.
+
+To the extent that our applications depend upon the successful integration and operation of third-party software in conjunction with our software, any undetected errors or defects in this third-party software, as well as cybersecurity threats or attacks related to such software could prevent the deployment or impair the functionality of our applications, delay new application introductions, result in a failure of our applications, result in increased costs, including warranty and other related claims from customers, and injure our reputation.
+
+Any failure of our applications to operate effectively with future network platforms and other third-party technologies, or changes in such technologies that degrade the functionality of our products or give preferential treatment to competitive services, could reduce the demand for our applications, result in customer and end user dissatisfaction, and adversely affect our business and operating results. 
+
+The extent to which the continuing global economic and geopolitical volatility, and any resulting effect on customer spending, will continue to impact our business, financial condition, and operating results will depend on future developments, which are highly uncertain and difficult to predict. 
+
+We operate on a global scale, and as a result, our business and revenues are impacted by global economic and geopolitical conditions. Global economic developments, including new or increased tariffs, geopolitical volatilities, downturns or recessions, political instability, and global health crises may negatively affect us or our ability to accurately forecast and plan our future business activity. In addition, volatile economic and geopolitical situations have led and could lead to further economic disruption. Any sustained adverse impacts from these and other recent macroeconomic events could materially and adversely affect our business, financial condition, operating results, and earnings guidance that we may issue from time to time, which could have a material effect on the value of our Class A common stock.
+
+Our future revenues rely on continued demand by existing customers and the acquisition of new customers who may be subject to economic hardship due to recent macroeconomic events, including concerns about the impact of potential or imposed tariffs, inflation or the interest rate environment, and may delay or reduce their enterprise software spending to preserve capital and liquidity. In connection with recent macroeconomic events, we have experienced and may continue to experience delays in purchasing decisions from existing and prospective customers, increased demand for price concessions and delayed payment terms, and a reduction in customer demand. Our business, financial condition, and operating results may be negatively impacted in future periods due to the prolonged impacts of recent macroeconomic events, which may not be fully reflected in our operating results and overall financial performance until future periods.
+
+To the extent recent macroeconomic events adversely affect our business, financial condition, and operating results, it may also have the effect of heightening many of the other risks described in this “Risk Factors” section.
+
+Our quarterly results may fluctuate significantly and may not fully reflect the underlying performance of our business.
+
+Our quarterly operating results, including our revenues, subscription revenue backlog, operating margin, profitability, and cash flow, may vary significantly in the future and period-to-period comparisons of our operating results may not be meaningful. Accordingly, the results of any one quarter should not be relied upon as an indication of future performance. Additionally, we typically sign a significantly higher percentage of agreements with new customers as well as renewal agreements with existing customers in the fourth quarter of each year, and this year-over-year compounding effect in billing patterns causes the value of invoices that we generate in the fourth quarter to continually increase in proportion to our billings in the other three quarters of our fiscal year.
+
+Our quarterly financial results may fluctuate as a result of a variety of factors, including the risks described in this “Risk Factors” section, many of which are outside of our control, and as a result, may not fully reflect the underlying performance of our business. The extent to which recent macroeconomic events could continue to impact our operating results will depend on future developments, which are highly uncertain and difficult to predict. Fluctuations in our quarterly results and related impacts to any earnings guidance we may issue from time to time, including any modification or withdrawal thereof, may negatively impact the value of our securities. 
+
+18
+
+Table of 
+Contents
+
+Catastrophic or climate-related events may disrupt our business.
+
+Our corporate headquarters are located in Pleasanton, California, and we host our applications in data centers operated by third parties located in the U.S., Europe, Canada, and the Asia-Pacific region. The west coast of the U.S. contains active earthquake zones and the southeast is subject to seasonal hurricanes or other extreme weather conditions. Additionally, we rely on internal technology systems, our website, our network, and third-party infrastructure and enterprise applications, which are located in a wide variety of regions, for our development, marketing, operational support, hosted services, and sales activities. In the event of a major earthquake, hurricane, or other natural disaster, or a catastrophic event such as fire, power loss, telecommunications failure, vandalism, civil unrest, cyber-attack, geopolitical instability, war, terrorist attack, acts of violence, insurrection, pandemics or other public health emergencies, or the effects of climate change (such as drought, flooding, heat waves, wildfires, increased storm severity, and sea level rise), we may be unable to continue our operations and have, and may in the future, endure system interruptions, and may experience delays in our product development, lengthy interruptions in our services, breaches of data security, and loss of critical data, all of which could cause reputational harm or otherwise have an adverse effect on our business and operating results. In addition, the impacts of climate change on the global economy and our industry are rapidly evolving. We may be subject to increased regulations, reporting requirements, standards, or stakeholder expectations regarding climate change that may impact our business, financial condition, and operating results.
+
+Our disclosures related to corporate responsibility and sustainability-related matters expose us to risks that could adversely affect our reputation and performance.
+
+The positions we take on corporate responsibility and sustainability-related matters, human capital management initiatives, and ethical issues from time to time may impact our brand, reputation, or ability to attract or retain customers. In particular, our brand and reputation are associated with our environmental sustainability commitments (including our science-based targets), strong corporate governance practices, inclusivity, and ethical use, and any perceived changes in our dedication to these commitments could impact our relationships with potential and current customers, employees, stockholders, and other stakeholders.
+
+Standards and requirements for tracking and reporting corporate responsibility and sustainability-related matters continue to evolve. Our failure to accomplish stated commitments or accurately track and report on these matters on a timely basis, or at all, could adversely affect our reputation and could expose us to increased scrutiny from the investment community as well as enforcement authorities. In addition, our processes and controls may not always comply with evolving standards for identifying, measuring, and reporting sustainability metrics, including sustainability-related disclosures that may be required by various regulatory bodies, and such standards have and may continue to change over time. If our sustainability or other corporate responsibility practices do not align with or meet evolving investor or other stakeholder expectations and standards, then our reputation, our ability to attract or retain employees, and our attractiveness as an investment, business partner, acquirer, or service provider could be negatively impacted. Conflicting laws, regulations, and executive orders and a lack of harmonization of legal and regulatory environments and stakeholder expectations across the jurisdictions in which we operate may create enhanced compliance risks and costs. 
+
+Risks Related to Cybersecurity, Data Privacy, and Intellectual Property
+
+If our information technology systems are compromised or unauthorized access to customer or user data is otherwise obtained, our applications may be perceived as not being secure, our operations may be disrupted, our applications may become unavailable, customers and end users may reduce the use of or stop using our applications, and we may incur significant liabilities.
+
+Our applications involve the storage and transmission of our customers’ and other users’ sensitive and proprietary information, including personal or identifying information regarding our customers, their employees, job candidates, customers, prospects, and suppliers, as well as financial, accounting, health, and payroll data. Additionally, our operations and the availability of the services we provide also depend on our information technology systems. As a result, a compromise of our applications or systems, or unauthorized access to, acquisition, use, tampering, release, alteration, theft, loss, or destruction of sensitive data, or unavailability of data or our applications, has and could disrupt our operations or impact the availability or performance of our applications; expose us and our customers to regulatory obligations and enforcement actions, litigation, investigations, remediation and indemnity obligations, or supplemental disclosure obligations; damage our reputation and brand; or result in loss of customer, consumer, and partner confidence in the security of our applications, an increase in our insurance premiums, suspension or loss of authorization under the Federal Risk and Authorization Management Program (“FedRAMP”) or other authorizations, impairment to our business, and other potential liabilities or related fees, expenses, or loss of revenues.
+
+19
+
+Table of 
+Contents
+
+The financial and personnel resources we employ to implement and maintain security measures, including our information security risk insurance policy, may not be sufficient to address our security needs. The security measures we have in place vary in maturity across the organization and may not be sufficient to protect against security risks, preserve our operations and services and the integrity of customer and personal information, and prevent data loss, misappropriation, and other security breaches. Our logging may not be and has not been sufficient to fully investigate the scope of an incident. Our information systems have been and may in the future be compromised by computer hackers, employees, contractors, or vendors, as well as software bugs, human error, technical malfunctions, or other malfeasance.
+
+Cybersecurity threats and attacks are often targeted at companies such as ours and may take a variety of forms ranging from individuals or groups of security researchers, including those who appear to offer a solution to a vulnerability in exchange for some compensation, and insiders, to sophisticated hacker organizations, including state-sponsored actors who may launch coordinated attacks, or attacks motivated by the type of data that is processed by our customers, including our public sector customers, on our platform. These threats may be directed not only at us, but also at third parties in our supply chain, including cloud service providers, software vendors, open-source software maintainers, and other service providers or partners whose products or services are integrated with or support our platform and solutions. In the normal course of business, we are and have been the target of malicious cyber-attack attempts and have experienced other security events, including those involving attempts to exploit vulnerabilities in third-party technologies or services on which we rely. As our market presence grows and as our ecosystem of partners, integrations, and service providers expands, we face increased risks of cybersecurity attack or other security threats, including supply chain attacks. Additionally, as AI technologies, including generative AI models, develop rapidly, threat actors are using these technologies to create sophisticated new attack methods that are increasingly automated, targeted, and coordinated and more difficult to defend against. Threat actors may also target our AI models in ways that we cannot yet anticipate. Examples of key cybersecurity risks include viruses, worms, ransomware, and other malicious software programs, along with social engineering attacks, fraud, credential theft or abuse, exploitation of software bugs or other defects, targeted attacks against cloud services and other hosted software, and exploitation of unmanaged software or systems, any of which can result in a compromise of our applications or systems and the data we store or process, and can result in disclosure of Workday confidential information and intellectual property, production downtimes, reputational harm, and an increase in costs to the business. For example, in August 2025, we were targeted as part of a social engineering campaign against many large organizations, resulting in unauthorized access to some of our internal systems including some commonly available business contact information in our third-party customer relationship management platform. As the techniques used to obtain unauthorized access or sabotage systems change frequently, are becoming increasingly sophisticated and complex, and often are not identified until they are launched against a target, and because evidence of unauthorized activity may not have been captured or retained, or may be proactively destroyed by unauthorized actors, we may be unable to anticipate or timely detect these attacks, assess the true impact they may have on our business and operations, or to implement adequate preventative measures. Any cyber-attacks and other security events may have a significant or material impact on our business and operating results.
+
+There may also continue to be attacks targeting any vulnerabilities in our applications, internally built infrastructure, enhancements, and updates to our existing offerings, or in the many different underlying networks and services that power the internet that our products depend on, most of which are not under our control or the control of our vendors, partners, or customers. Systems and processes designed to protect our applications, systems, software, and data, as well as customer data and other user data, and to prevent data loss and detect security breaches, may not be effective against all cybersecurity threats or perceived threats. We have been subject to such incidents, including through third-party service providers and in connection with acquisitions we have made. In addition, our software development practices have not and may not identify all potential privacy or security issues, and inadvertent disclosures of data have occurred and may occur again. 
+
+Additionally, remote work and resource access, including our hybrid work model, has and may continue to result in an increased risk of cybersecurity-related events, including phishing and other social engineering attacks, exploitation of any cybersecurity flaws that may exist, an increase in the number cybersecurity threats or attacks, and other security challenges as a result of our employees and our service providers continuing to work remotely from non-corporate managed networks. These risks may be further heightened by efforts by malicious actors to obtain or misuse authorized access credentials through deception or impersonation, including by posing as legitimate employees, contractors, or by infiltrating our workforce or service providers through fraudulent recruitment, onboarding, or credential-harvesting activities. If successful, such attacks could enable threat actors to gain persistent access to our systems, move laterally within our environment, exfiltrate sensitive data, disrupt operations, or facilitate additional cyber-attacks, and may be more difficult to detect or prevent due to the use of seemingly legitimate accounts and remote access tools.
+
+20
+
+Table of 
+Contents
+
+Furthermore, we have acquired or partnered with a number of companies, products, services, and technologies over the years, and incorporated third-party products, services, and technologies into our own products and services. Addressing security issues associated with acquisitions, partnerships, incorporated technologies, and our supply chain requires significant resources, and we have inherited and may in the future inherit additional risks upon integration with or use by Workday. In addition, if a high-profile security breach occurs with respect to an industry peer, our customers and potential customers may generally lose trust in the security of financial management, spend management, human capital management, planning, or analytics applications, or in cloud applications for enterprises in general. Any or all of these issues could negatively affect our ability to attract new customers, cause existing customers to elect to terminate or not renew their subscriptions, result in reputational damage, cause us to pay remediation and indemnity costs and/or issue service credits or refunds to customers for prepaid and unused subscription services, or result in lawsuits, regulatory fines, or other action or liabilities, any of which could adversely affect our business and operating results.
+
+We rely on sophisticated information systems and technology, including those provided by third parties, for the secure collection, processing, transmission, and storage of confidential, proprietary, and personal information, and to support our business operations and the availability of our applications. In the past several years, supply chain attacks have increased in frequency and severity. As we are both a provider and consumer of information systems and technology, we are at higher risk of being impacted either directly or indirectly by these attacks. The control systems, cybersecurity program, infrastructure, physical facilities of, and personnel associated with third parties that we rely on or partner with are beyond our control. Our customers may authorize third-party technology providers to access their customer data and any unauthorized use of the third-party technology may result in unauthorized access to such data. The audits we periodically conduct of some of our third-party vendors do not guarantee the security of and may be unable to prevent security events impacting the information technology systems of third parties that are part of our supply chain or that provide valuable services to us, which have resulted and could result in the unauthorized access to data of Workday, our employees, our customers, our third-party partners, or other end users; acquisition, destruction, alteration, use, tampering, release, unavailability, theft or loss of confidential, proprietary, or personal data of Workday, our employees, our customers, our third-party partners, or other end users; or the disruption of our operations and our ability to conduct our business or the availability of our applications; or could otherwise adversely affect our business, financial condition, operating results, or reputation.
+
+Privacy concerns, evolving regulation of cloud computing, cross-border data transfer, and other domestic or foreign laws and regulations, including those that seek to regulate access to data, may reduce the adoption of our applications, result in significant costs and compliance challenges, and adversely affect our business and operating results.
+
+Legal requirements related to collecting, storing, handling, retaining, and transferring (collectively, “processing”) personal data are rapidly evolving at both the national and international level in ways that require our business to adapt to comply with applicable laws and support customer compliance. As the complexity of our products grows, the regulatory focus on privacy intensifies worldwide, and jurisdictions increasingly consider and adopt privacy laws, the risks related to our business’s processing of personal data also grow. In addition, possible adverse interpretations of existing privacy-related laws and regulations by regulators in jurisdictions where our customers operate, as well as the potential adoption of new privacy-related requirements, could impose significant obligations affecting our business or prevent us from offering certain services in jurisdictions where we operate.
+
+Over the past five years, the global data privacy compliance landscape has grown increasingly complex, fragmented, and financially relevant to business operations. As a result, our data processing creates current and prospective risks related to increased regulatory compliance costs, government enforcement actions and/or financial penalties for non-compliance, and reputational harm. For example, the EU-U.S. Data Privacy Framework (“DPF”) is in place under which EU data can legally be transferred to the U.S. However, it is facing legal challenges. As legal challenges to the DPF remain unresolved, uncertainty may continue regarding the legal requirements for transferring personal data from Europe, an integral aspect of our business that remains governed by, and subject to, General Data Protection Regulation (“GDPR”) requirements. Failure to comply with the GDPR data processing requirements by either ourselves or our subprocessors could lead to regulatory enforcement actions, which can result in monetary penalties of up to 4% of worldwide revenue, private lawsuits, reputational damage, and loss of customers. Other new EU laws, including the EU Data Act, which primarily governs access to and use of non-personal data generated by digital services, have been, and may continue to be implemented, interpreted, and enforced in ways that impose additional rules and restrictions on the deployment, operation, or use of our products and services and may require us to adapt our business practices or contractual arrangements to comply with such requirements. Other countries such as Russia, China, Vietnam, and India have also passed or are in the process of passing laws imposing new requirements, including requirements related to consent and varying degrees of restrictive data residency or localization. 
+
+21
+
+Table of 
+Contents
+
+Regulatory developments in the U.S. present additional risks. For example, the California Consumer Privacy Act (“CCPA”) took effect on January 1, 2020, and the California Privacy Rights Act (“CPRA”), which expands upon the CCPA, came into effect on January 1, 2023. The CCPA and CPRA give California consumers, including employees, certain rights similar to those provided by the GDPR, and also provide for statutory damages or fines on a per violation basis that could be very large depending on the severity of the violation. In addition, numerous states have enacted, or are considering, comprehensive privacy laws and other laws that touch on the processing of personal data in specific contexts, including in connection with artificial intelligence and automated systems, further contributing to a fragmented and evolving regulatory landscape that has and may continue to create compliance challenges. 
+
+Additionally, a final rule issued by the U.S. Department of Justice establishing a “Data Security Program” came into effect on April 8, 2025. The rule prohibits or restricts certain transactions that could result in access to bulk U.S. sensitive personal data or U.S. government-related data by countries of concern, including China (which includes Hong Kong and Macau). The rule imposes certain diligence, security, audit and record-keeping requirements, and may adversely impact certain of our global business operations, including by restricting or conditioning certain data access or transfers involving subsidiaries, affiliates, and vendors.
+
+Furthermore, the U.S. Congress is considering numerous privacy bills, and the U.S. Federal Trade Commission continues to bring enforcement actions for unfair or deceptive data protection practices and may undertake its own privacy-related rulemaking. In addition to government activity, privacy advocacy and other industry groups have established or may establish various new, additional, or different self-regulatory standards that customers may require us to adhere to, which may place additional burdens on us. Increasing sensitivity of individuals to the unauthorized processing of personal data, whether real or perceived, and an increasingly uncertain trust climate has and may continue to create negative public reaction to technologies, products, and services such as ours or otherwise expose us to liability.
+
+In addition, as AI technologies are increasingly used across the industry, including in connection with data analytics, automation, customer service, and decision-support features, the speed, scale, and complexity of data processing may increase, which may heighten data privacy risks. AI-enabled or agentic AI features may be targeted, misused, or produce outputs or inferences that implicate personal data in ways that are difficult to anticipate or control, potentially resulting in regulatory scrutiny, litigation, or reputational harm, even in the absence of a data breach.
+
+Taken together, the costs of compliance with and other obligations imposed by data protection laws and regulations have and may continue to require modification of our services and operations, limit use or adoption of our services, slow the pace at which we close sales transactions, or otherwise adversely affect our business. In addition, data protection laws, regulations and related enforcement activities may lead to significant fines, penalties, or liabilities for noncompliance. These requirements may impact how personal data must be stored, accessed, and deleted within the products and services and impose certain limitations on how it may be used or shared. Further, the perception of privacy concerns, whether or not valid, may inhibit the adoption, effectiveness, or use of our applications or otherwise impact our business. Compliance with applicable laws and regulations regarding personal data may require changes in services, business practices, or internal systems that result in increased costs, lower revenue, reduced efficiency, or greater difficulty competing with foreign-based firms which could adversely affect our business and operating results.
+
+Any failure to protect our intellectual property rights domestically and internationally could impair our ability to protect our proprietary technology and our brand.
+
+Our success and ability to compete depend in part upon our intellectual property. We rely on patent, copyright, trade secret and trademark laws, trade secret protection, and confidentiality or license agreements with our employees, customers, suppliers, partners, and others to protect our intellectual property rights. However, the steps we take to protect our intellectual property rights may be inadequate. We have patent applications pending in the U.S. and throughout the world, but we may be unable to obtain patent protection for the technology covered in our patent applications. In addition, any patents issued to us in the future may not provide us with competitive advantages or may be successfully challenged by third parties. Furthermore, legal standards relating to the validity, enforceability, and scope of protection of intellectual property rights are uncertain. Despite our precautions, it may be possible for unauthorized third parties, including those affiliated with state-sponsored actors, to copy or reverse engineer our applications, including with the assistance of insiders, and use information that we regard as proprietary to create products and services that compete with ours. Some license provisions protecting against unauthorized use, copying, transfer, and disclosure of our technology may be unenforceable under the laws of jurisdictions outside the U.S. In addition, the laws of some countries do not protect proprietary rights to the same extent as the laws of the U.S.
+
+We enter into confidentiality and invention assignment agreements with our employees and consultants and enter into confidentiality agreements with the parties with whom we have strategic relationships and business alliances. These agreements may not be effective in controlling access to and distribution of our applications and proprietary information. Further, these agreements do not prevent our competitors or partners from independently developing technologies that are substantially equivalent or superior to our applications.
+
+22
+
+Table of 
+Contents
+
+We may be required to spend significant resources to monitor and protect our intellectual property rights. Litigation brought to protect and enforce our intellectual property rights could be costly, time-consuming, and distracting to management and could result in the impairment or loss of portions of our intellectual property. Furthermore, our efforts to enforce our intellectual property rights may be met with defenses, counterclaims, and countersuits attacking the validity and enforceability of our intellectual property rights. Our failure to secure, protect, and enforce our intellectual property rights could have a serious adverse effect on our brand and business.
+
+We may be sued by third parties for alleged infringement of their proprietary rights.
+
+There is considerable patent and other intellectual property development activity in our industry. Our competitors, as well as a number of other entities and individuals, may own or claim to own intellectual property relating to our industry. From time to time, third parties may claim that our applications and underlying technology infringe or violate their intellectual property rights, even if we are unaware of the intellectual property rights that others may claim cover some or all of our technology or services, and we may be found to be infringing such rights. Any claims or litigation could cause us to incur significant expenses and, if successfully asserted against us, could require that we pay substantial damages or ongoing royalty payments, prevent us from offering our services, require us to change our products, technology, or business practices, or require that we comply with other unfavorable terms. We may also be obligated to indemnify our customers or business partners or pay substantial settlement costs, including royalty payments, in connection with any such claim or litigation and to obtain licenses, modify applications, or refund fees, which could be costly. In addition, we may be sued by third parties who seek to target us for actions taken by our customers, including through the use or misuse of our products. Even if we were to prevail in an intellectual property dispute, any litigation regarding our intellectual property could be costly and time-consuming and divert the attention of our management and key personnel from our business operations. Furthermore, from time to time we may introduce or acquire new products, including in areas where we historically have not competed, which could increase our exposure to patent and other intellectual property claims.
+
+Our applications utilize open source software, including open source AI models and platforms, and our strategy of investing in and acquiring such technologies introduces new and heightened risks. Any failure to comply with the terms of one or more of these open source licenses, or to manage the unique risks of open source AI, could negatively affect our business.
+
+Our applications include software covered by open source licenses, which may include, by way of example, the GNU General Public License and the Apache License. Furthermore, our strategy includes acquiring and investing in open-source AI platforms and utilizing AI models that may be governed by novel or untested licenses with ambiguous terms, use-based restrictions, or uncertain legal interpretation. Few terms used in either traditional or new AI-focused open source licenses have been interpreted by U.S. courts, and there is a risk that such licenses could be construed in a manner that imposes unanticipated conditions or restrictions on our ability to market our applications. We attempt to comply with all open source licensing conditions that apply to our use of open source software. By the terms of certain open source licenses, we could be required to release the source code of our proprietary software, and to make our proprietary software available under open source licenses, if we combine our proprietary software with open source software in a certain manner. Our increasing integration of proprietary AI agents and platforms with open source components may heighten this “copyleft” risk. In addition, the license terms for certain previously open source software or models that we use have changed and the license terms for future versions of open source software that we use might change, requiring us to pay for a commercial license or re-engineer all or a portion of our technologies. In addition to risks related to open source license requirements, usage of open source software can lead to greater risks than use of third-party commercial software, as open source licensors generally do not provide warranties or controls on the origin of the software. Many of the risks associated with usage of open source software cannot be eliminated and could negatively affect our business.
+
+Beyond licensing compliance, our use of and investment in open source AI models and platforms create distinct and significant risks. Open source AI models may be trained on data of unknown or uncertain provenance, which could include copyrighted or otherwise proprietary, confidential, or private information. If our applications or the agents our customers build using our platforms incorporate such models, we could face claims for copyright infringement and other violations. Open source AI components may also be subject to “data poisoning” and other security vulnerabilities. Many of the risks associated with usage of open source software, particularly in the rapidly evolving field of AI, cannot be eliminated and could negatively affect our business.
+
+23
+
+Table of 
+Contents
+
+Risks Related to Legal and Regulatory Matters
+
+Unfavorable laws, regulations, interpretive positions, or standards governing new and evolving technologies that we incorporate into our products and services, including those involving AI uses, could result in significant cost and compliance challenges and adversely affect our business and operating results.
+
+Many of our products and services currently utilize or will utilize new and evolving technologies such as AI. The overall regulatory environment governing these types of technologies is likely to evolve as government interest in these technologies increases. Regulation of these technologies, as well as other technologies that we utilize in our products and services, also varies greatly among international, federal, state, and local jurisdictions and is subject to significant uncertainty. Governments and agencies domestic and abroad may in the future change or amend existing laws, or adopt new laws, regulations, or guidance, or take other actions which may severely impact the permitted uses of our technologies. New and changing laws, regulations, executive orders, directives, and enforcement priorities can also create uncertainty about how such laws and regulations will be interpreted and applied to Workday. 
+
+For example, the technologies underlying AI and its uses are subject to a variety of laws and regulations, including those governing intellectual property, privacy, data protection, cybersecurity, consumer protection, competition, and equal opportunity, and are expected to be subject to new laws and regulations or new applications of existing laws and regulations. AI is the subject of ongoing review by various U.S. and international governmental and regulatory agencies, and various U.S. states and other foreign jurisdictions are applying, or are considering applying, their cybersecurity, data protection, and product safety laws to AI and its uses or are considering general legal frameworks for AI and its uses, such as the EU AI Act. 
+
+ Any failure by us to comply with applicable laws, regulations, guidance, or other rules could result in costly litigation, penalties, or fines. In addition, these regulations and any related enforcement actions could establish and further expand our obligations to customers, individuals, and other third parties with respect to our products and services, limit the countries in which such products and services may be used, restrict the way we structure and operate our business, require us to divert development and other resources, and reduce the types of customers and individuals who can use our products and services. Furthermore, our customers may operate in foreign jurisdictions, including countries in which we don’t operate, and may be subject to additional laws and regulations outside the scope of our products. Increased regulation and oversight of products or services which utilize or rely on these technologies may result in costly compliance burdens or otherwise increase our operating costs, detrimentally affecting our business. These new technologies could subject us to additional litigation brought by private parties, which could be costly, time-consuming, and distracting to management and could result in substantial expenses and losses.
+
+We are subject to risks related to government contracts and related procurement regulations, which may adversely impact our business and operating results.
+
+Our contracts with federal, state, local, and foreign government entities are subject to various procurement regulations and other requirements relating to their formation, award, administration, and performance, which present certain risks and challenges not present in private commercial agreements. These risks and challenges include varying governmental budgeting processes and appropriations, contracting policies and requirements, changes in governmental administrations and policies, fluctuations due to government spending cuts and shutdowns, pressure to reduce deficits through spending reductions, highly competitive and lengthy bidding processes, and adherence to complex regulatory requirements and executive orders, and may impact government spending or result in termination of government contracts or delays in contract awards, which could adversely affect our business and operating results. Further, we have experienced and may in the future experience challenges by third parties to contracts awarded with government entities, and our contracting with certain government entities may result in negative publicity or reputational harm.
+
+Laws and regulations provide public sector customers with various rights, many of which are not typically found in commercial contracts. For example, some governmental contracts provide for termination by the government at any time, with or without cause, which can adversely affect our business and operating results and impact other existing or prospective government contracts. U.S. federal, state, and local government and foreign government contracts are generally subject to government funding authorizations and appropriations, and contracts may also be terminated due to a lack of government funds. Changes in government procurement policies, priorities, regulations, or technology initiatives may negatively impact our potential for growth in the government sector. 
+
+24
+
+Table of 
+Contents
+
+We have made, and may continue to make, significant investments to support our efforts to sell to government entities, including obtaining various authorizations and certifications. For example, we have obtained authorization under FedRAMP, which allows us to participate in the U.S. federal government market. Such authorization is subject to rigorous compliance and if we were to lose our authorization, it could inhibit or preclude our ability to contract with certain U.S. federal and state government customers. If we fail to maintain FedRAMP authorization, we may fail to retain existing customers or attract new customers that rely on our authorization under FedRAMP, which could subject us to liability, result in reputational harm, and adversely impact our financial condition or operating results. Government certification requirements applicable to our products and services may change, which could restrict our ability to sell into the public sector until we have received a certification or until we can account for these changes in our service or corporate controls.
+
+We may be subject to additional audits and investigations relating to our government contracts, and any violations could result in various civil and criminal penalties and administrative sanctions, including termination of contracts, suspension of payments, payment of fines, and suspension or debarment from future government business, as well as harm to our reputation and financial results. 
+
+Adverse litigation results could have a material adverse impact on our business.
+
+We are regularly involved with claims, suits, purported class or representative actions, and may be involved in regulatory and government investigations and other proceedings, involving competition, intellectual property, data security and privacy, bankruptcy, tax and related compliance, labor and employment, commercial disputes, and other matters. Such claims, suits, actions, regulatory and government investigations, and other proceedings can impose a significant burden on management and employees, could prevent us from offering one or more of our applications, services, or features to others, could require us to change our technology or business practices, or could result in monetary damages, fines, civil or criminal penalties, and have and could continue to cause reputational harm or other adverse consequences. Adverse outcomes in some or all of these claims may result in significant monetary damages or injunctive relief that could adversely affect our ability to conduct our business. The litigation and other claims are subject to inherent uncertainties and management’s view of these matters may change in the future. A material adverse impact in our consolidated financial statements could occur for the period in which the effect of an unfavorable outcome becomes probable and reasonably estimable.
+
+Unanticipated tax laws or any change in the application of existing tax laws to us or our customers and unanticipated changes in our effective tax rate may adversely impact our profitability and financial results.
+
+We operate and are subject to taxes in the U.S. and numerous other jurisdictions throughout the world. Changes to federal, state, local, or international tax laws on income, sales, use, indirect, or other tax laws, statutes, rules, regulations, or ordinances on multinational corporations have recently been enacted or are currently being considered by the U.S. and other countries where we do business. Contemplated legislative initiatives include, but are not limited to, changes to transfer pricing policies and definitional changes to permanent establishment that could be applied solely or disproportionately to services provided over the internet. These contemplated tax initiatives, if finalized and adopted by countries, may ultimately impact our effective tax rate and could adversely affect our sales activity resulting in a negative impact on our operating results and cash flows.
+
+In addition, existing tax laws, statutes, rules, regulations, or ordinances could be interpreted, changed, modified, or applied adversely to us (possibly with retroactive effect), which could require us to pay additional tax amounts, fines or penalties, and interest for past amounts. Existing tax laws, statutes, rules, regulations, or ordinances could also be interpreted, changed, modified, or applied adversely to our customers (possibly with retroactive effect), which could require our customers to pay additional tax amounts with respect to services we have provided, fines or penalties, and interest for past amounts. If we are unsuccessful in collecting such taxes from our customers, we could be held liable for such costs, thereby adversely impacting our operating results and cash flows. If our customers must pay additional fines or penalties, it could adversely affect demand for our services.
+
+Significant judgment is often required in the determination of our worldwide provision for income taxes. Our effective tax rate could be impacted by changes in the valuation of deferred tax assets and liabilities and our ability to utilize them. We are also subject to tax examinations and it is possible that the final determination of any examinations will have an adverse effect on our operating results or financial position.
+
+25
+
+Table of 
+Contents
+
+Risks Related to Financial Matters
+
+Because we encounter long sales cycles when selling to large customers and we recognize subscription services revenues over the term of the contract, downturns or upturns in new sales will not be immediately reflected in our operating results and may be difficult to discern.
+
+We generally recognize subscription services revenues over time as services are delivered to the customer, which typically occurs over a period of three years or longer. As a result, most of the subscription services revenues we report in each quarter are derived from the recognition of unearned revenue relating to subscriptions entered into during previous quarters. Consequently, a decline in new or renewed subscription contracts in any single quarter may not be reflected in our revenue results for that quarter but will negatively impact our revenue in future quarters. Additionally, because much of our sales efforts are targeted at large enterprise customers, we face greater costs, longer sales cycles, less predictability in completing some of our sales, and varying deployment timeframes.
+
+Our typical sales cycles for many new customers are six to twelve months but can extend for eighteen months or more, and we expect that this lengthy sales cycle may continue or expand as customers increasingly adopt applications across our platform. We have seen and may continue to see instances of increased scrutiny from existing and prospective customers and the lengthening of certain sales cycles. Longer sales cycles could cause our operating and financial results to suffer in a given period. Accordingly, the effect of significant downturns in sales and market acceptance of new applications, as well as potential changes in our pricing policies or rate of renewals, may not be fully reflected in our operating results until future periods. Additionally, we may be unable to adjust our cost structure to reflect any such changes in revenues. As a result, increased growth in the number of our customers could result in our recognition of more costs than revenues in the earlier periods of the terms of our agreements. Our subscription model also makes it difficult for us to rapidly increase our revenues through additional sales in any period, as subscription services revenues from new customers generally are recognized over the applicable subscription term. Furthermore, our subscription-based model is largely based on the size of our customers’ employee headcount. Therefore, the addition or loss of employees by our customers, including any significant reductions in force by our customers, or customer insolvencies resulting from severe economic hardship, can and has had an impact on our subscription services revenues. Prolonged decreases in our customers’ headcounts can materially impact our business and operating results in any given period.
+
+Our current and future indebtedness may adversely affect our financial condition and operating results.
+
+In fiscal 2023, we issued $3.0 billion aggregate principal amount of senior notes, consisting of $1.0 billion aggregate principal amount of 3.500% notes due April 1, 2027 (“2027 Notes”), $750 million aggregate principal amount of 3.700% notes due April 1, 2029 (“2029 Notes”), and $1.25 billion aggregate principal amount of 3.800% notes due April 1, 2032 (“2032 Notes,” and together with the 2027 Notes and the 2029 Notes, “Senior Notes”). Additionally, in April 2022, we entered into a credit agreement (“2022 Credit Agreement”) which provides for a revolving credit facility in an aggregate principal amount of $1.0 billion. As of January 31, 2026, we had no outstanding revolving loans under the 2022 Credit Agreement.
+
+We may incur substantial additional debt in the future, some of which may be secured debt. It is possible that we will not be able to repay this indebtedness when due or refinance this indebtedness on acceptable terms or at all.
+
+In addition, our indebtedness could, among other things:
+
+•
+make it difficult for us to pay other obligations;
+
+•
+make it difficult to obtain favorable terms for any necessary future financing for working capital, capital expenditures, debt service requirements, or other purposes;
+
+•
+adversely affect our liquidity and result in a material adverse effect on our financial condition upon repayment of the indebtedness;
+
+•
+require us to dedicate a substantial portion of our cash flow from operations to service and repay the indebtedness, reducing the amount of cash flow available for other purposes;
+
+•
+limit our flexibility in planning for and reacting to changes in our business;
+
+•
+increase our vulnerability to the impact of adverse economic conditions, including rising interest rates (which can make refinancing existing indebtedness more difficult or costly); and
+
+•
+negatively impact our credit rating, which could limit our ability to obtain additional financing in the future and adversely affect our business.
+
+26
+
+Table of 
+Contents
+
+Our Senior Notes and 2022 Credit Agreement also impose restrictions on us and require us to maintain compliance with specified covenants. For example, our 2022 Credit Agreement includes a financial covenant that requires us to maintain a specific leverage ratio. Our ability to comply with these covenants may be affected by events beyond our control. If we breach any of the covenants and do not obtain a waiver from the lenders, then, subject to applicable cure periods, any outstanding indebtedness may be declared immediately due and payable. Any required repayment of our debt as a result of a fundamental change or other acceleration would lower our current cash on hand such that we would not have those funds available for use in our business.
+
+We are subject to risks associated with our equity investments, including partial or complete loss of invested capital, and significant changes in the fair value of this portfolio could adversely impact our financial results.
+
+We invest in early to late-stage companies for strategic reasons and to support key business initiatives, and we may not realize a return on our equity investments. Many such companies generate net losses and the market for their products, services, or technologies may be slow to develop or never materialize. These companies are often dependent on the availability of later rounds of financing from banks or investors on favorable terms to continue their operations. The financial success of our investment in any company is typically dependent on a liquidity event, such as a public offering, acquisition, or other favorable market event reflecting appreciation to the cost of our initial investment. The capital markets for public offerings and acquisitions are dynamic and the likelihood of liquidity events for the companies we have invested in has and could further deteriorate, which could result in a loss of all or a substantial part of our investment in these companies. Additionally, instability in the global banking system has created bank-specific and broader financial institution liquidity risks and concerns, which may have an adverse impact on the companies we have invested or may invest in.
+
+Further, valuations of non-marketable equity investments are inherently complex due to the lack of readily available market data and the anticipated valuation at the time of our investment may not meet our expectations. In addition, we may experience additional volatility to our results of operations due to changes in market prices of our marketable equity investments and the valuation and timing of observable price changes or impairments of our non-marketable equity investments. Volatility in the global market conditions, including recent economic disruptions, inflation, and ongoing volatility in the public equity markets, may impact our equity investments. This volatility could be material to our results in any given quarter and may cause our stock price to decline. In addition, our ability to mitigate this volatility and realize gains on investments may be impacted by our contractual obligations to hold securities for a set period of time. For example, to the extent a company we have invested in undergoes an initial public offering (“IPO”), we may be subject to a lock-up agreement that restricts our ability to sell our securities for a period of time after the public offering or otherwise impedes our ability to mitigate market volatility in such securities.
+
+We may discover weaknesses in our internal controls over financial reporting, which may adversely affect investor confidence in the accuracy and completeness of our financial reports and consequently the market price of our securities.
+
+As a public company, we are required to design and maintain proper and effective internal controls over financial reporting and to report any material weaknesses in such internal controls. Section 404 of the Sarbanes-Oxley Act of 2002 requires that we evaluate and determine the effectiveness of our internal controls over financial reporting and provide a management report on the internal controls over financial reporting, which must be attested to by our independent registered public accounting firm. If we have a material weakness in our internal controls over financial reporting, we may not detect errors on a timely basis and our financial statements may be materially misstated. 
+
+The process of compiling the system and processing documentation necessary to perform the evaluation needed to comply with Section 404 is challenging and costly. As we grow our operations and personnel, we will need to continue to improve our operational, financial, and management controls as well as our reporting systems and procedures. In the future, we may not be able to complete our evaluation, testing, and any required remediation in a timely fashion. If we identify material weaknesses in our internal controls over financial reporting, if we are unable to comply with the requirements of Section 404 in a timely manner, if we are unable to assert that our internal controls over financial reporting are effective, or if our independent registered public accounting firm is unable to express an opinion as to the effectiveness of our internal controls over financial reporting, investors may lose confidence in the accuracy and completeness of our financial reports and the market price of our securities could be negatively affected, and we could become subject to investigations by the Financial Industry Regulatory Authority, the SEC, or other regulatory authorities, which could require additional financial and management resources. In addition, because we use Workday’s financial management application, any problems that we experience with financial reporting and compliance could be negatively perceived by prospective or current customers, and negatively impact demand for our applications.
+
+27
+
+Table of 
+Contents
+
+Risks Related to Ownership of Our Class A Common Stock
+
+Our Co-Founders have control over key decision making as a result of their control of a majority of our voting stock.
+
+As of January 31, 2026, our Co-Founder and CEO Emeritus David Duffield, together with his affiliates, held voting rights with respect to approximately 
+39 million
+ shares of Class B common stock and 
+0.1 million
+ shares of Class A common stock. As of January 31, 2026, our Co-Founder, CEO, and Chair of our Board of Directors, Aneel Bhusri, together with his affiliates, held voting rights with respect to approximately 
+8 million
+ shares of Class B common stock and 
+0.4 million
+ shares of Class A common stock. In addition, Mr. Bhusri holds 
+0.1 million
+ restricted stock units (“RSUs”), which will be settled in an equivalent number of shares of Class A common stock. Further, Messrs. Duffield and Bhusri have entered into a voting agreement under which each has granted a voting proxy with respect to certain Class B common stock beneficially owned by him effective upon his death or incapacity as described in our registration statement on Form S-1 filed in connection with our IPO. Messrs. Duffield and Bhusri have each initially designated the other as their respective proxies. Accordingly, upon the death or incapacity of either Mr. Duffield or Mr. Bhusri, the other would individually continue to control the voting of shares subject to the voting proxy. Collectively, the shares described above represent a substantial majority of the voting power of our outstanding capital stock. As a result, Messrs. Duffield and Bhusri have the ability to control the outcome of matters submitted to our stockholders for approval, including the election of directors and any merger, consolidation, or sale of all or substantially all of our assets. As stockholders, even as controlling stockholders, they are entitled to vote their shares in their own interests, which may not always be in the interests of our stockholders generally.
+
+In addition, Mr. Bhusri has the ability to significantly influence the management and affairs of our company as a result of his position as a member of our Board of Directors and an officer of Workday. Mr. Bhusri, in his capacity as a board member and officer, however, owes a fiduciary duty to our stockholders and must act in good faith in a manner he reasonably believes to be in the best interests of our stockholders.
+
+The dual class structure of our common stock has the effect of concentrating voting control with our Co-Founders, as well as with other executive officers, directors, and affiliates, which limits or precludes the ability of non-affiliates to influence corporate matters.
+
+Our Class B common stock has 10 votes per share and our Class A common stock, which is the stock that is publicly traded, has one vote per share. Stockholders who hold shares of Class B common stock, including our executive officers, directors, and other affiliates, together hold a substantial majority of the voting power of our outstanding capital stock as of January 31, 2026. Because of the ten-to-one voting ratio between our Class B and Class A common stock, the holders of our Class B common stock collectively will continue to control a majority of the combined voting power of our common stock and therefore be able to control all matters submitted to our stockholders for approval until the conversion of all shares of all Class A and Class B shares to a single class of common stock on the date that is the first to occur of (i) October 17, 2032, (ii) such time as the shares of Class B common stock represent less than 9% of the outstanding Class A and Class B common stock, (iii) nine months following the death of both Mr. Duffield and Mr. Bhusri, or (iv) the date on which the holders of a majority of the shares of Class B common stock elect to convert all shares of Class A common stock and Class B common stock into a single class of common stock. This concentrated control will limit or preclude the ability of non-affiliates to influence corporate matters for the foreseeable future.
+
+Future transfers by holders of Class B common stock will generally result in those shares converting to Class A common stock, subject to limited exceptions, such as certain transfers effected for estate planning purposes. The conversion of Class B common stock to Class A common stock will have the effect, over time, of increasing the relative voting power of those holders of Class B common stock who retain their shares in the long term. If, for example, Mr. Duffield and Mr. Bhusri retain a significant portion of their holdings of Class B common stock for an extended period of time, they could, in the future, continue to control a majority of the combined voting power of our Class A common stock and Class B common stock.
+
+Our stock price has been volatile in the past and may be subject to volatility in the future.
+
+The trading price of our Class A common stock has historically been volatile and could be subject to wide fluctuations in response to the risks described in this “Risk Factors” section, and other risks which are beyond our control. The factors that have and may in the future affect the trading price of our securities include, but are not limited to:
+
+•
+guidance regarding our operating results and other financial metrics that we provide to the public, differences between our guidance and market expectations, our failure to meet our guidance, any withdrawal of previous guidance or changes from our historical guidance;
+
+•
+changes in investor and analyst valuation models for our Class A common stock;
+
+•
+the economy as a whole, political and regulatory uncertainty, and market conditions in our industry and the industries of our customers;
+
+•
+announcements of technological innovations, new applications or enhancements to services, acquisitions, strategic alliances, or significant agreements by us or by our competitors;
+
+28
+
+Table of 
+Contents
+
+•
+disruptions in our services due to computer hardware, software, or network problems or any announcements related to security incidents;
+
+•
+announcements of customer additions and customer cancellations or delays in customer purchases;
+
+•
+recruitment or departure of key personnel;
+
+•
+trading activity by directors, executive officers, and significant stockholders, or the perception in the market that the holders of a large number of shares intend to sell their shares;
+
+•
+actions instituted by activist shareholders or others, and our response to such actions;
+
+•
+any future issuances of our securities; and
+
+•
+changes in the amounts or frequency of stock repurchases.
+
+Additionally, the stock markets have at times experienced extreme price and volume fluctuations that have affected and may in the future affect the market prices of equity securities of many companies. These fluctuations have, in some cases, been unrelated or disproportionate to the operating performance of these companies. Further, the trading prices of publicly traded shares of companies in our industry have been particularly volatile and may be very volatile in the future.
+
+In the past, some companies that have experienced volatility in the market price of their stock have been subject to securities class action litigation. We may be the target of this type of litigation in the future. Securities litigation against us could result in substantial costs and divert our management’s attention from other business concerns, which could harm our business.
+
+We may not realize the anticipated long-term stockholder value of our share repurchase programs. 
+
+We have share repurchase programs under which we are authorized to repurchase shares of our Class A common stock. Such repurchases may be made through open market transactions, including through the use of trading plans intended to qualify under Rule 10b5-1, through privately negotiated transactions, or by other means, in each case in accordance with applicable securities laws and other restrictions. The share repurchase programs do not have an expiration date, may be suspended or discontinued at any time, and do not obligate us to acquire any amount of our Class A common stock.
+
+Any failure to repurchase stock after we have announced our intention to do so may negatively impact our reputation and investor confidence in us and may negatively impact our stock price. Since first authorizing a share repurchase program, there have been periods of time during which we have been unable to repurchase shares, for example, due to the possession of material nonpublic information.
+
+The existence of our share repurchase programs could cause our stock price to trade higher than it otherwise would and could potentially reduce the market liquidity for our stock. Our share repurchase programs may not enhance long-term stockholder value because the market price of our common stock may decline below the levels at which we repurchased shares and short-term stock price fluctuations could reduce the effectiveness of this program.
+
+Repurchasing our common stock will reduce the amount of cash we have available to fund working capital, repayment of debt, capital expenditures, strategic acquisitions or business opportunities, and other general corporate purposes, and we may fail to realize the anticipated long-term stockholder value of our share repurchase programs. Furthermore, the timing and amount of any repurchases, if any, will be subject to liquidity, market and economic conditions, compliance with applicable legal requirements such as Delaware surplus and solvency tests, and other relevant factors.
+
+Delaware law and provisions in our restated certificate of incorporation and amended and restated bylaws could make a merger, tender offer, or proxy contest difficult, thereby depressing the market price of our Class A common stock.
+
+Our status as a Delaware corporation and the anti-takeover provisions of the Delaware General Corporation Law (“DGCL”) may discourage, delay, or prevent a change in control by prohibiting us from engaging in a business combination with an interested stockholder for a period of three years after the person becomes an interested stockholder, even if a change of control would be beneficial to our existing stockholders. In addition, our restated certificate of incorporation and amended and restated bylaws contain provisions that may make the acquisition of Workday more difficult, including the following:
+
+•
+any transaction that would result in a change in control of our company requires the approval of a majority of our outstanding Class B common stock voting as a separate class;
+
+•
+our dual class common stock structure, which provides our Co-Founders with the ability to control the outcome of matters requiring stockholder approval, even if they own significantly less than a majority of the shares of our outstanding Class A and Class B common stock;
+
+•
+our Board of Directors is classified into three classes of directors with staggered three-year terms and directors are only able to be removed from office for cause;
+
+29
+
+Table of 
+Contents
+
+•
+when the outstanding shares of our Class B common stock represent less than a majority of the combined voting power of common stock:
+
+◦
+certain amendments to our restated certificate of incorporation or amended and restated bylaws will require the approval of two-thirds of the combined vote of our then-outstanding shares of Class A and Class B common stock;
+
+◦
+our stockholders will only be able to take action at a meeting of stockholders and not by written consent; and
+
+◦
+vacancies on our Board of Directors will be able to be filled only by our Board of Directors and not by stockholders;
+
+•
+only our chair of the board, lead independent director of the board, chief executive officer, presidents, or a majority of our Board of Directors are authorized to call a special meeting of stockholders;
+
+•
+certain litigation against us can only be brought in Delaware;
+
+•
+we will have two classes of common stock until the date that is the first to occur of (i) October 17, 2032, (ii) such time as the shares of Class B common stock represent less than 9% of the outstanding Class A and Class B common stock, (iii) nine months following the death of both Mr. Duffield and Mr. Bhusri, or (iv) the date on which the holders of a majority of the shares of Class B common stock elect to convert all shares of Class A common stock and Class B common stock into a single class of common stock;
+
+•
+our restated certificate of incorporation authorizes undesignated preferred stock, the terms of which may be established, and shares of which may be issued, without the approval of the holders of Class A common stock; and
+
+•
+advance notice procedures apply for stockholders to nominate candidates for election as directors or to bring matters before an annual meeting of stockholders.
+
+In addition, Section 203 of the DGCL imposes certain restrictions on mergers, business combinations, and other transactions between us and holders of 15% or more of our common stock, which may discourage, delay, or prevent a change in control of our company. 
+
+Furthermore, the change in control repurchase event provisions of our Senior Notes may delay or prevent a change in control of our company, because those provisions allow note holders to require us to repurchase such notes upon the occurrence of a fundamental change or change in control repurchase event.
+
+These anti-takeover defenses could discourage, delay, or prevent a transaction involving a change in control of our company. These provisions could also discourage proxy contests and make it more difficult for stockholders to elect directors of their choosing and to cause us to take other corporate actions they desire, any of which, under certain circumstances, could depress the market price of our securities.
+
+The exclusive forum provision in our organizational documents may limit a stockholder’s ability to bring a claim in a judicial forum that it finds favorable for disputes with us or any of our directors, officers, or other employees, which may discourage lawsuits with respect to such claims.
+
+Our restated certificate of incorporation and our bylaws, to the fullest extent permitted by law, provide that the Court of Chancery of the State of Delaware is the exclusive forum for: any derivative action or proceeding brought on our behalf; any action asserting a breach of fiduciary duty; any action asserting a claim against us arising pursuant to the DGCL, our restated certificate of incorporation, or our amended and restated bylaws; or any action asserting a claim against us that is governed by the internal affairs doctrine. There is uncertainty as to whether a court would enforce this exclusive forum provision with respect to claims under the Securities Act. If a court were to find the choice of forum provisions contained in our restated certificate of incorporation to be inapplicable or unenforceable in an action, we may incur additional costs associated with resolving such action in other jurisdictions, which could harm our business, financial condition, and operating results.
+
+Our bylaws include a provision providing that the federal district courts of the United States of America will, to the fullest extent permitted by law, be the exclusive forum for resolving any complaint asserting a cause of action arising under the Securities Act (“Federal Forum Provision”). Our decision to adopt a Federal Forum Provision followed a decision by the Supreme Court of the State of Delaware holding that such provisions are facially valid under Delaware law. Application of the Federal Forum Provision means that suits brought by our stockholders to enforce any duty or liability created by the Securities Act must be brought in federal court and cannot be brought in state court.
+
+In addition, neither the exclusive forum provision in our restated certificate of incorporation nor the Federal Forum Provision applies to suits brought to enforce any duty or liability created by the Exchange Act. Accordingly, actions by our stockholders to enforce any duty or liability created by the Exchange Act or the rules and regulations thereunder must be brought in federal court, and our stockholders will not be deemed to have waived our compliance with the federal securities laws and the regulations promulgated thereunder.
+
+30
+
+Table of 
+Contents
+
+Any person or entity purchasing or otherwise acquiring or holding any interest in any of our securities shall be deemed to have notice of and consented to our exclusive forum provisions, including the Federal Forum Provision. These provisions may limit a stockholders’ ability to bring a claim in a judicial forum of their choosing for disputes with us or our directors, officers, or other employees, which may discourage lawsuits against us and our directors, officers, and other employees.
+
+We do not intend to pay dividends for the foreseeable future.
+
+We have never declared nor paid cash dividends on our capital stock. We currently intend to retain any future earnings to finance the operation and expansion of our business, and we do not expect to declare or pay any dividends in the foreseeable future. Consequently, stockholders must rely on sales of their common stock after price appreciation as the only way to realize any future gains on their investment.

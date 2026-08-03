@@ -1,0 +1,702 @@
+,
+ Item 7.
+ Management’s Discussion and Analysis of Financial Condition and Results of Operations
+ and in other sections of this Annual Report on Form 10-K that are forward-looking statements. In some cases, you can identify these statements by words such as "may," "might," "will," "should," "expects," "plans," "anticipates," "believes," "estimates," "intends," "projects," "indicates," "predicts," "potential," or "continue," and similar expressions.
+
+These forward-looking statements, which are subject to risks, uncertainties and assumptions about us, may include projections of our future financial performance and anticipated trends in our business. These statements are only predictions based on our current expectations, estimates, forecasts and projections about future events. These statements are not guarantees of future performance and involve a number of risks, uncertainties and assumptions. There are many important factors that could cause our actual results, level of activity, performance or achievements to differ materially from the results, level of activity, performance or achievements expressed or implied by the forward-looking statements, including the numerous factors discussed under Item 1A. 
+
+ in this Annual Report on Form 10-K, that should be specifically considered. 
+
+Although we believe the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee future results, level of activity, performance or achievements. Moreover, neither we nor any other person assumes responsibility for the accuracy and completeness of any of these forward-looking statements. Forward-looking statements speak only as of the date they are made, and actual results could differ materially from those anticipated in forward-looking statements. We do not intend, and are under no duty, to update any of these forward-looking statements after the date of this Annual Report on Form 10-K to reflect actual results, future events or circumstances, or revised expectations.
+
+We intend that all forward-looking statements we make will be subject to safe harbor protection of the federal securities laws as found in Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934.
+
+4
+
+Table of Contents
+
+Part I
+
+ITEM 1. BUSINESS
+
+Business Overview
+
+FactSet Research Systems Inc. and its wholly-owned subsidiaries (collectively, "we," "our," "us," the "Company" or "FactSet") is a global financial data and analytics company with an open and flexible digital platform that drives the investment community to see more, think bigger, and do its best work. Our strategy is to build the leading open content and analytics platform to deliver a differentiated advantage for our clients’ success.
+
+For more than 40 years, the FactSet platform has delivered expansive data, sophisticated analytics, and flexible technology used by global financial professionals to power their critical investment workflows. As of August 31, 2022, we had more than 7,500 clients comprised of approximately 180,000 investment professionals, including asset managers, bankers, wealth managers, asset owners, channel partners, hedge funds, corporate users, private equity and venture capital professionals. Our on- and off-platform solutions span the investment lifecycle to include investment research, portfolio construction and analysis, trade execution, performance measurement, risk management and reporting. Our revenues are primarily derived from subscriptions to our multi-asset class data and solutions powered by our connected content ("content refinery"). Our products and services include workstations, portfolio analytics and enterprise solutions.
+
+We provide financial data and market intelligence on securities, companies, industries and people to enable our clients to research investment ideas, as well as to analyze, monitor and manage their portfolios. We combine dedicated client service with open and flexible technology offerings, including a configurable desktop and mobile platform, comprehensive data feeds, cloud-based digital solutions and application programming interfaces ("APIs"). Our CUSIP Global Services ("CGS") business supports security master files relied on by the investment industry for critical front, middle and back office functions. 
+
+We drive our business based on our detailed understanding of our clients’ workflows, which helps us to solve their most complex challenges. We provide them with an open digital platform, connected and reliable data, next-generation workflow solutions and highly committed service specialists. 
+
+We operate our business through three reportable segments: the Americas, EMEA and Asia Pacific. Refer to Note 18, 
+Segment Information
+, in the Notes to the Consolidated Financial Statements included in Part II, Item 8. of this Annual Report on Form 10-K for further discussion. For each of our reportable segments, we execute our strategy through three workflow solutions: Research & Advisory; Analytics & Trading; and Content & Technology Solutions ("CTS"). 
+
+Corporate History
+
+FactSet was founded in 1978 and has been publicly traded since June 1996. We are dual-listed on the New York Stock Exchange ("NYSE") and the NASDAQ Stock Market ("NASDAQ") under the symbol "FDS". Fiscal 2022 marked our 44th year of operations, and we continue to focus on providing integrated and connected content, best-in-class products and exceptional client service.
+
+Business Strategy
+
+As the needs of our clients evolve, they seek personalized and connected data, tools for multi-asset class investing, and reduced costs. Clients are also seeking cloud-based solutions, open and flexible systems, and increased efficiencies to support their digital transformations. 
+
+Our strategy is to build the leading open content and analytics platform to deliver differentiated advantages for our clients’ success. To execute this strategy, we plan on:
+
+•
+Growing our digital platform: 
+We are scaling up our content refinery to offer a comprehensive and connected inventory of industry, proprietary, and third-party data for the financial community. This data includes granular data for key industry verticals, private companies, wealth management, real-time data, and environmental, social and governance data ("ESG"). We are driving personalized workflow solutions for financial professionals, including asset managers, bankers, wealth managers, asset owners, channel partners, hedge funds, corporate users and private equity and venture capital professionals. We offer an open ecosystem with solutions and content that is accessible and flexible through a myriad of delivery methods. Our goal is to deliver cloud-based data and analytics to our clients, enabling them to more efficiently manage their workflows.
+
+•
+Delivering execution excellence: 
+We are building an agile organization that accelerates product creation and content collection. We offer new products designed for delivery via the cloud, making them highly efficient for our clients. We will continue to employ technology to accelerate the pace of content collection and drive expertise in complex data sets such as private companies, ESG and deep sector. Additionally, we are improving our price realization through consistent packaging and internal governance. 
+
+•
+Driving a growth mindset:
+ To drive sustainable growth, we are recruiting, training and empowering a diverse and operationally efficient workforce. As a performance-based culture, we are investing in talent that can create leading technological solutions and efficiently execute our strategy. We use partnerships and acquisitions to accelerate our growth in strategic areas.
+
+Our strategy centers on relentless focus on our clients and their FactSet experience. We aim to be a trusted partner and service provider, offering personalized digital products powered by cognitive computing to research ideas and uncover relevant insights. Additionally, we continually evaluate business opportunities such as partnerships and acquisitions to increase our capabilities and competitive differentiation.
+
+We are focused on growing our global business through three segments: the Americas, EMEA and Asia Pacific. We believe this geographical strategic alignment helps us better manage our resources, target our solutions and interact with our clients. We further execute on our growth strategy by offering data, products, and analytical applications within our three workflow solutions: Research & Advisory; Analytics & Trading; and CTS. 
+
+Research & Advisory 
+
+Research & Advisory delivers essential content and workflow solutions in one flexible platform for investment bankers, wealth advisors, buy and sell-side analysts, corporate users, portfolio managers and investment relationship professionals. Our workstation, advisor dashboard, research management solutions (“RMS”), and FactSet for client relationship management (CRM) enable our clients to personalize and automate their workflows. These tools provide insight and efficiency for idea generation, company and market analysis, fundamental research, presentation building and distribution, and research management. Our Research & Advisory solutions also offer global coverage, deep history, and transparency through proprietary and third-party sourced databases. These solutions provide deep company and sector-specific analyses, spanning the public and private markets. Our solutions easily integrate with our clients’ technology, offering additional flexibility through mobile, API, and web-based components. Our RMS and advisory solutions also enable our wealth clients to provide market-leading support for their businesses, including home office, advisory, and client engagement work. 
+
+Analytics & Trading
+
+Analytics & Trading provides solutions for institutional asset managers and asset owners across the investment portfolio lifecycle, connecting essential front and middle office investment functions. Our tools connect together fundamental and quantitative research, portfolio construction, order management and trade execution. These outputs can then tie into advanced portfolio attribution and performance measurement, risk management, and reporting functions. An open framework supports our proprietary and third-party models, connected data, analytics and reporting. Our platform and APIs can be deployed as an enterprise system that meets multi-asset class needs or as individual workflow components. 
+
+Additionally, Analytics & Trading's tools can integrate client holdings data with global market data for fundamental and quantitative research, portfolio construction, and trade simulation. Our order management and trade execution solutions also efficiently connect to portfolio attribution and performance measurement requirements, risk management functions and reporting requirements.
+
+CTS
+
+CTS focuses on delivering data directly to our clients by leveraging our core content and technology. Clients can seamlessly discover, explore, and access organized and connected content via multiple delivery channels. Whether a client needs market data, company data, alternative data, customized client facing digital solutions or data elements uniquely identifying financial instruments, we provide structured data through a variety of technologies, including APIs and cloud infrastructures. Through our data management services (DMS), we provide entity mapping and integration of client data. Our symbology links and aggregates a diverse set of content sources to ensure consistency, transparency, and data integrity. We are the exclusive provider of the Committee on Uniform Security Identification Procedures ("CUSIP") and CUSIP International Number System ("CINS") identifiers globally, acting as the official numbering agency for International Securities Identification Number ("ISIN") identifiers in the United States and as a substitute number agency for more than 35 other countries. By enabling our clients to utilize their preferred choice of cloud infrastructure and industry standard databases, programming languages and data 
+
+visualization tools, we empower our clients to centralize, integrate, and analyze disparate data sources for faster and more cost-effective decision making. 
+
+FactSet Clients
+
+Buy-side
+
+Buy-side clients continue to shift increasingly toward multi-asset class investment strategies and we are well-positioned to be a partner of choice in this space. Our ability to provide enterprise-wide solutions to our clients across their entire workflow, leveraging their portfolio data across multiple asset classes, enables us to compete for greater market share. Buy-side clients primarily include asset managers, wealth managers, asset owners, channel partners, hedge funds and corporate firms. They access our multi-asset class tools by utilizing our workstations, Analytics & Trading tools, proprietary and third-party content, data feeds, APIs and portfolio services.
+
+The buy-side organic annual subscription value ("Organic ASV") growth rate for fiscal 2022 was 8.5%. Buy-side clients accounted for 83% of our ASV as of August 31, 2022. Refer to Item 7. 
+Management's Discussion and Analysis of Financial Condition and Results of Operations, Annual Subscription Value ("ASV") 
+of this Annual Report on Form 10-K for the definitions of Organic ASV.
+
+Sell-side
+
+We deliver comprehensive solutions to sell-side clients including workstation, data feeds, API's, proprietary and third-party content, productivity tools for Microsoft® Office, web and mobile, and RMS for research authoring and publishing. Our focus remains on expanding the depth of content offered and increasing workflow efficiency for sell-side firms. These firms primarily include broker-dealers, private equity and venture capital, and banking and advisory firms.
+
+The sell-side Organic ASV growth rate for fiscal 2022 was 13.8%. Sell-side clients accounted for 17% of our ASV as of August 31, 2022.
+
+Client and User Additions
+
+Our total client count as of August 31, 2022 was 7,538, representing a net increase of 16.8%, or 1,085 clients in the last 12 months, mainly due to an increase in corporate clients, wealth management clients, and private equity and venture capital firms. The count includes clients with ASV of $10,000 and above. 
+
+As of August 31, 2022, there were 179,982 professionals using FactSet, representing a net increase of 19,050 or 11.8% in the last 12 months, mainly driven by an increase in wealth advisory professionals from our wealth management clients, as well as an increase in sell-side users from our banking clients.
+
+Annual ASV retention was greater than 95% for the period ended August 31, 2022 and August 31, 2021. When expressed as a percentage of clients, annual retention increased to approximately 92% for the period ended August 31, 2022, compared with approximately 91% for the period ended August 31, 2021.
+
+Organic ASV plus Professional Services Growth
+
+As of August 31, 2022, our Organic ASV plus Professional Services totaled $1.8 billion, up 9.3% compared with August 31, 2021. Organic ASV increased across all our geographic segments with the majority of the increase related to the Americas, followed by EMEA and Asia Pacific. This increase was driven by additional sales in our workflow solutions, primarily in Research & Advisory and Analytics & Trading, followed by CTS. Refer to Item 7. 
+Management's Discussion and Analysis of Financial Condition and Results of Operations, Annual Subscription Value ("ASV") 
+of this Annual Report on Form 10-K for the definitions of Organic ASV plus Professional Services.
+
+The following chart provides a snapshot of our historic Organic ASV plus Professional Services growth:
+
+(in millions)
+
+Financial Information on Geographic Areas
+
+Operating segments are defined as components of an enterprise that have the following characteristics: (i) they engage in business activities from which they may earn revenues and incur expenses, (ii) their operating results are regularly reviewed by the chief operating decision maker ("CODM") for resource allocation decisions and performance assessment, and (iii) their discrete financial information is available. Our Chief Executive Officer ("CEO") functions as our CODM.
+
+Our operating segments are consistent with our reportable segments ("segments") and how we, including our CODM, manage our business and the geographic markets in which we serve. Our internal financial reporting structure is based on three segments: the Americas; EMEA; and Asia Pacific. 
+
+The Americas segment serves our clients throughout North, Central, and South America, with offices in 13 states throughout the United States ("U.S."), including our corporate headquarters in Norwalk, Connecticut, as well as an office in both Brazil and Canada. The EMEA segment serves our clients in Europe, the Middle East and Africa and maintains office locations in Bulgaria, England, France, Germany, Italy, Latvia, Luxembourg, the Netherlands, Sweden and the 
+United Arab Emirates
+. The Asia Pacific segment serves our clients in Asia and Australia and includes office locations in Australia, China, Hong Kong Special Administrative Region ("SAR") of China, India, Japan, the Philippines, and Singapore. These offices exclude any leases that we have fully vacated in advance of their originally scheduled lease term. 
+
+Segment revenues reflect sales to our clients based on the respective geographic locations. Each segment records expenses related to its individual operations with the exception of expenditures associated with our data centers, third-party data costs and corporate headquarters charges, which are recorded by the Americas segment and are not allocated to the other segments. The expenses incurred at our content collection centers, located in India, the Philippines, and Latvia, are allocated to each segment based on a percentage of revenues as this reflects the benefits provided to each segment. Refer to Note 18, 
+Segment Information
+ in the Notes to the Consolidated Financial Statements included in Part II, Item 8. of this Annual Report on Form 10-K for the results of operations and financial information for each of our segments.
+
+The following graphics illustrate revenues related to our segments.
+
+(
+in millions)
+
+Human Capital Management
+
+Who We Are
+
+As of August 31, 2022, we had 39 offices across 20 countries with 11,203 employees, representing an increase of 2.9% in the last twelve months. Of our total employees, 7,401 (66%) were located in Asia Pacific, 2,400 (21%) in the Americas and 1,402 (13%) in EMEA. To optimize productivity, we have invested in expanding our footprint and talent pool in India and the Philippines, where we now have a combined workforce of approximately 7,100 employees. Functionally, 21% of our employees were in Sales and Client Solutions; 29% were in Technology & Product Development; 45% were in Content Operations; and 5% were in Corporate Support. As of August 31, 2022, 393 of our employees were represented by mandatory works councils within certain of our French and German subsidiaries and 24 of our employees were represented by collective bargaining agreements in the United States.
+
+Our Purpose and Values
+
+Our purpose is to drive the investment community to see more, think bigger, and do their best work. Intense client focus and support are critical components of our strategy and operational approach. Our employees are key to our success and enable us to execute at a high level. We have built a collaborative culture that recognizes and rewards innovation and offers employees a variety of opportunities and experiences. We believe that our continued focus on making our employees a top priority helps us provide high quality insights and information to clients globally.
+
+Employee Engagement 
+
+We conduct an annual, anonymous and confidential global employee engagement survey administered by a third party to capture our employees’ constructive feedback on a broad range of topics. The survey's scores and comments provide insight on appropriate actions to improve our employees’ experience and overall effectiveness as an organization. Aggregated survey results are reviewed by executive and senior leadership and direct managers to analyze and identify company-wide and individual operational unit focus areas and action plans for improvement. We share survey results throughout our company to highlight areas that employees believe are our strengths and reflect on areas where employees feel there are opportunities for positive change. Progress on initiatives is tracked to ensure that the actions taken address the underlying issues and promote an environment of continuous improvement.
+
+In our fiscal 2022 employee engagement survey, we achieved an 89% response rate, indicating that we heard from the vast majority of our employees. This strong response rate reflected stable engagement amidst ongoing challenges caused by the COVID-19 pandemic. We received more than 8,700 comments in response to the survey. Our highest scores were in the areas of fair treatment, authenticity, and inclusion, indicating that employees feel they are treated fairly, are comfortable being their authentic selves at work, and believe that diverse perspectives are valued at our Company. Our scores increased from the previous year's survey in the areas of authenticity, work-life balance, and employees feeling satisfied with the recognition they receive for their work. 
+
+Diversity, Equity & Inclusion
+
+As part of our core values, we are committed to advancing Diversity, Equity, and Inclusion ("DE&I") at every level. To this end, we have developed a global DE&I strategy focusing on three impact areas: workforce, marketplace, and society. We are proud of the positive progress we have made in each of these areas as we deepen our DE&I commitment around the world. 
+
+DE&I at our Company has been governed by our DE&I Council, which we refreshed in 2022. The Council is chaired by our CEO, Phil Snow, and consists of 13 senior leaders who are empowered to drive our DE&I progress. 
+
+As part of this visible leadership commitment, we signed the CEO Action for Diversity and Inclusion Pledge, joining more than 2,000 companies actively supporting more inclusive workplaces and communities. We have also partnered with MLT Black Equity at Work to hold ourselves accountable for our DE&I progress. 
+
+Workforce
+
+During fiscal 2022, we accelerated our accountability efforts by continuing to embed DE&I into our talent processes, including performance reviews, promotions, and the allocation of equity awards. This allows us to make a greater impact while investigating statistical differences and taking any resulting appropriate action. We also continue to publish our workforce demographics, including our annual EEO-1 Federal data, in our Sustainability Report. By reporting our workforce demographics, we make a visible step in our DE&I commitment as we aspire to change the composition of our employee demographics to better include underrepresented groups. Our goals include increasing the percentage of women at our Company overall, and specifically the percentage of women in our leadership group (vice president level and above) and in our technical areas. We report on our progress annually to increase transparency and to facilitate accountability.
+
+We are building a culture of sponsorship across the organization to proactively provide growth opportunities and enhance retention through an initiative connecting senior leaders with underrepresented talent for advocacy and visibility. As we continue to diversify our talent pipelines, we have maintained our MESH (Mentor, Engage, Support & Hire) externship program for underrepresented college students interested in financial technology. This program continued for the second year in the U.S. and was launched for the first time in the U.K. In addition, we piloted an internship program at Norwalk Community College, located near our corporate headquarters in Norwalk, Connecticut, to provide career pathways for computer science students.
+
+As a key component of our drive to ensure fair and equitable administration of pay, in fiscal 2022 we completed a global pay equity review. We engaged an outside firm to assess the degree of systemic gender equity in the salaries of our employees worldwide and the degree of systemic race/ethnicity equity in the U.S. After controlling for various salary-influencing factors, the study found that there was not a statistically significant association at our Company between salary and gender worldwide, or between salary and race/ethnicity in the U.S. The study found that, on a global basis at our Company, women are paid more than 99% on average of what men are paid and that, on a U.S. basis, minority employees are paid 100% on average of what non-minority employees are paid. Attention to pay equity will continue to be a DE&I priority.
+
+Our Business Resource Groups ("BRGs") are a critical component in fostering an inclusive work environment for all employees. Our BRGs (Asian BRG, Black BRG, Families BRG, Pride BRG, Multicultural BRG, Latinx BRG, Women’s BRG, and Veterans BRG) host a variety of educational, informational, and aspirational events, including business networking opportunities, and heritage months. Our BRGs also host many co-sponsored external events and year-round engagement such as community events, expos, seminars, and summits. In addition, our senior leaders serve as executive sponsors for our BRGs to demonstrate leadership support for these efforts.
+
+To recognize the significant contributions of our BRGs, we have launched the BRG Recognition Program which provides equity awards to BRG leaders at the co-chair level and steering committee level who have gone above and beyond in their commitment to DE&I at our Company. BRG Steering Committee leaders also have a 10% weighting of their overall review evaluation based upon their BRG leadership to elevate these contributions within their performance.
+
+To further our efforts in building an inclusive workplace where all employees feel a sense of belonging, we have launched the Global Gender Inclusivity policy that supports and respects the rights and identities of all employees, and we have achieved a 100% score on the Human Rights Campaign Equality Index for seven consecutive years. Inclusive education also continues to be a priority through the provision of a variety of educational opportunities such as Conscious Inclusion training, the Interfaith Education series, Racial Justice Allies, and Unconscious Bias training. In addition, we have rolled out NameCoach, a name pronunciation tool.
+
+Marketplace
+
+During fiscal 2022, we created a Supplier Diversity function and are currently performing an audit of minority-owned spend and suppliers to assist in setting future goals. We have extended our DE&I programming and events to spread inclusivity and global influence, as well as embedding a multi-level culture of sponsorship through external organizations to help provide learning opportunities, enhance retention, and intentionally support our DE&I goals.
+
+Society
+
+In addition to signing the CEO Action for Diversity and Inclusion Pledge, we sponsored two employees to participate full-time in the CEO Action for Racial Equity Fellowship. This hands-on contribution has allowed us to take an active part in advancing policy change in the U.S. We are also going further to help strengthen and promote racial justice through economic opportunities, such as depositing funds during fiscal 2022 in a Black equity-focused financial institution, as a step toward creating real and tangible change in the communities in which we operate. 
+
+How We Work
+
+Since the onset of the COVID-19 pandemic, our highest priority concern has been the health and safety of our employees, our families and our communities. We initially required the vast majority of our employees at our offices across the globe to work remotely and provided them with support to be able to ensure business continuity. We increased the frequency of all-company meetings led by our CEO and offered extensive benefit resources and mental health support. Employees were offered additional paid time off for COVID-19 illness and family care and to receive and recover from COVID-19 vaccinations.
+
+We have since re-opened our offices and welcomed our employees back. Our offices did not re-open until local authorities permitted us to do so and our own criteria and conditions to ensure employees health and safety were satisfied. 
+
+In fiscal 2022, based on our success working in a remote environment during the COVID-19 pandemic, we rolled out our "How We Work" guide to flexible working arrangements under which employees in many of our locations, where permitted by local laws and regulations, and where the role permits, have the opportunity to choose between different work arrangements, including the ability to work in the office, remotely or in a hybrid arrangement with the ability to split time between working remotely and in the office. Additionally, employees whose positions are not aligned to fixed working hours may elect to work a flextime schedule, working the same number of hours as is considered standard in their office location or employment contract, but during different times in the working day. We have found that these new standards support our employees in being their most productive selves at work and in their personal lives. These arrangements preserve the benefit of flexibility while retaining talent, fostering creativity, innovation, collaboration, and enabling mentorship, all key drivers behind employees’ productivity, satisfaction, and success. Furthermore, these provisions support our commitment to creating a diverse, equitable, and inclusive workplace, removing barriers to augment our opportunity to attract and retain talent.
+
+Learning & Development
+
+We are lifelong learners. We believe that learning and development emboldens our employees, fosters outperformance with a growth mindset, demonstrates our commitment to our core values, and contributes to the success of our culture and business.
+
+During fiscal 2022, we significantly increased our asynchronous learning opportunities in a variety of areas. We expanded our resources and built multiple learning paths to ensure our engineers have access to the best online learning resources on cutting-edge technologies. Our new Industry Development Program (IDP) is a 40-hour, on-demand program designed to onboard industry hires who have business experience and a sales focus. We also released career development resources which provide employees with access to tools such as Career Progression Plans, curated Skill Taxonomies, and relevant eLearning courses. In addition to our expanded partnerships and targeted programs, we created hundreds of in-house eLearning courses to help our employees learn about our business, industry, clients and products.
+
+This year we also re-initiated in-person learning programs, hosting our campus onboarding programs for Sales and Engineering staff in three global locations: Manila, London, and Norwalk. We also invited all campus hires who joined our Company since March 2020 back to our regional headquarters for a two-day summit focused on network building and our core values.
+
+We also conducted a shorter, topic-focused survey toward the end of fiscal 2022 to assess the impact of our Learning & Development strategy and programs on employee engagement. We achieved a 61% response rate, with more than 2,300 comments received. Our highest scores indicated that we are actively supporting employee efforts to acquire additional training and experiences and we are supporting employees to develop the professional skills needed to succeed at their jobs. Survey data also showed that we are providing opportunities for employees to have meaningful discussions with management about career development.
+
+Compensation, Benefits and Wellbeing
+
+We offer our employees a broad range of competitive compensation, benefits and wellbeing programs designed to meet the diverse needs of our global employee population and which are reflective of our values and culture. Offering competitive. performance-focused compensation is essential to our talent strategies regarding recruitment, development, and retention. Programs are designed to be competitive in the markets in which we compete for talent and align with the short and long-term objectives of our Company and our individual business units.
+
+Our employee compensation may include one or more of the following elements: base salaries, annual incentive awards, sales incentive awards, and equity awards. We differentiate individual salary, bonus and equity awards based on performance against key objectives and how effectively our managers and employees demonstrate behaviors consistent with our values and culture. We are committed to offering high-quality, affordable, locally competitive benefits options designed to meet the needs of our employees and their families and to support our employees’ physical, emotional, financial, and social wellbeing at every stage of life. Employees in all our locations globally have access to an Employee Assistance Program, providing them and their immediate family members access to experienced counselors for personal and professional support. In addition to offering access to professional counseling services, we provide our employees and families with education and resources. We provide regular updates on health coverage and resources available through our health plans.
+
+We are committed to building a culture of wellbeing that empowers employees to be their authentic selves and thrive in all areas of their lives. We believe that wellbeing is a unique journey, and we are invested in understanding the needs of every individual to m
+eet them where they are. By enabling our employees to put their wellbeing first, they can be their best selves at home, work, and anywhere in between.
+
+Third-Party Content
+
+We aggregate content from third-party data suppliers, news sources, exchanges, brokers and contributors into our dedicated managed databases, which our clients access through our flexible delivery platforms to perform their analysis. We seek to maintain contractual relationships with a minimum of two content providers for each major type of financial data, though certain data sets on which we rely have a limited number of suppliers. We make every effort to assure that, where reasonable, alternative sources are available. We have entered into third-party content agreements of varying lengths, which in some cases can be terminated with one year’s notice, at predefined dates, and in other cases on shorter notice. We are not dependent on any one third-party data supplier in order to meet the needs of our clients, with only two data suppliers each representing more than 10% of our total data costs for the twelve months ended August 31, 2022.
+
+Data Centers and Cloud Computing
+
+Our business is dependent on our ability to process substantial volumes of data and transactions rapidly and efficiently on our networks and systems. Our global technology infrastructure supports our operations and is designed to facilitate reliable and efficient processing and delivery of data and analytics to our clients. As part of our hybrid cloud strategy, we operate two fully redundant, physically separated data centers in the U.S. that provide client services, while also utilizing premier, market-leading cloud providers to run products and services that best benefit from cloud elasticity, resiliency, security, and regionalization. We currently use multiple providers of cloud services, however one supplier provided the majority of our cloud computing support for the twelve months ended August 31, 2022. Our physical data centers contain multiple layers of redundancy to enhance system performance, including maintaining, processing and storing data at multiple locations. In the event of a single site failure or localized disaster, client workloads will automatically move to unaffected sites. We continue to be focused on maintaining a global technological infrastructure that allows us to support our growing business.
+
+The Competitive Landscape
+
+We are a part of the financial information services industry, providing financial data, analytics and workflow solutions to the global investment community. This competitive market is comprised of both large, well-capitalized companies and smaller, niche firms including market data suppliers, news and information providers, and many third-party content providers that supply us with financial information included in our products. Our largest competitors are Bloomberg L.P., Refinitiv (a London Stock Exchange Group business) and Market Intelligence (an S&P Global business). Other competitors and competitive products include online database suppliers and integrators and their applications, such as BlackRock Solutions, Morningstar Inc. and MSCI Inc. Many of these firms provide products or services similar to our own offerings. 
+
+We believe there are high barriers to entry and we expect it would be difficult for another vendor to quickly replicate the extensive data we currently offer. Through our in-depth analytics and client service, we believe we can offer clients a more comprehensive solution with one of the broadest sets of functionalities delivered through a desktop or mobile user interface, 
+
+cloud based platforms, or through standardized or bespoke data feeds, as well as APIs. In addition, our applications and client support and service offerings are entrenched in the workflow of many financial professionals given the data management and portfolio analysis/screening capabilities offered. We are entrusted with significant amounts of our clients' own proprietary data, including portfolio holdings. As a result, we believe our products are central to our clients’ investment analysis and decision-making.
+
+Intellectual Property
+
+We have registered trademarks and copyrights for many of our products and services and will continue to evaluate the registration of additional trademarks and copyrights as appropriate. We enter into confidentiality agreements with our employees, clients, data suppliers and vendors. We seek to protect our workflow solutions, documentation and other written materials under trade secret, copyright and patent laws. While we do not believe we are dependent on any one of our intellectual property rights, we do rely on the combination of intellectual property rights and other measures to protect our proprietary rights. Despite these efforts, existing intellectual property laws may afford only limited protection.
+
+Research & Product Development Costs
+
+A key aspect of our growth strategy is to offer new solutions and enhance our existing products and applications by making them faster, with more reliable and greater depth of data. We strive to rapidly adopt new technology that can improve our products and services. 
+
+Government Regulation
+
+We are subject to reporting requirements, disclosure obligations and other recordkeeping requirements of the Securities and Exchange Commission ("SEC") and the various local authorities that regulate each location in which we operate. Our P.A.N. Securities, LP subsidiary is a member of the Financial Industry Regulatory Authority, Inc. and is a registered broker-dealer under Section 15 of the Securities Exchange Act of 1934. P.A.N. Securities, LP, as a registered broker-dealer, is subject to Rule 15c3-1 under the Securities Exchange Act of 1934, which requires that we maintain minimum net capital requirements. We claim exemption under Rule 15c3-3(k)(2)(i). 
+
+Corporate Contact Information
+
+FactSet was founded as a Delaware corporation in 1978, and our principal executive office is in Norwalk, Connecticut.
+
+Mailing address of FactSet's headquarters: 45 Glover Avenue, Norwalk, CT 06850 
+
+Telephone number: +1 (203) 810-1000
+
+Website address: www.factset.com
+
+Available Information
+
+Through the Investor Relations section of our website (https://investor.factset.com), we make available free of charge the following filings as soon as practicable after they are electronically filed with, or furnished to, the SEC: our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, Proxy Statements for the annual stockholder meetings, Reports on Forms 3, 4 and 5, and any amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended. The SEC maintains a website that contains reports, proxy and information statements and other information that we file with the SEC at www.sec.gov.
+
+Additionally, we broadcast our quarterly earnings calls live via the investor relations section of our website. We also provide notifications of news or announcements regarding our financial performance, including investor events and press and earnings releases on our investor relations website. The contents of this website section are not intended to be incorporated by reference into this Annual Report on Form 10-K or in any other report or document we file with the SEC and any reference to this section of our website is intended to be inactive textual references only.
+
+Executive Officers of the Registrant
+
+The following table shows our current executive officers:
+
+Name of Officer
+
+Age
+
+Office Held with FactSet 
+
+Officer Since
+
+F. Philip Snow
+
+58
+
+Chief Executive Officer
+
+2014
+
+Linda S. Huber
+
+64
+
+Executive Vice President, Chief Financial Officer
+
+2021
+
+Rachel R. Stern
+
+57
+
+Executive Vice President, Chief Legal Officer, Global Head of Strategic Resources and Secretary
+
+2009
+
+Robert J. Robie
+
+44
+
+Executive Vice President, Head of Analytics & Trading Solutions
+
+2018
+
+Helen L. Shan
+
+55
+
+Executive Vice President, Chief Revenue Officer
+
+2018
+
+Daniel Viens
+
+65
+
+Executive Vice President, Chief Human Resources Officer
+
+2018
+
+Goran Skoko
+
+61
+
+Executive Vice President, Managing Director EMEA and Asia Pacific, Head of Research & Advisory Solutions
+
+2019
+
+Kristina W. Karnovsky
+
+43
+
+Executive Vice President, Chief Product Officer
+
+2021
+
+Jonathan Reeve
+
+54
+
+Executive Vice President, Head of Content & Technology Solutions
+
+2021
+
+John Costigan
+
+53
+
+Executive Vice President, Chief Content Officer
+
+2022
+
+Katherine M. Stepp
+
+37
+
+Executive Vice President, Chief Technology Officer
+
+2022
+
+F.
+
+Philip Snow
+
+–
+
+Chief Executive Officer
+.
+ Mr. Snow was named Chief Executive Officer effective July 1, 2015. Prior to that, Mr. Snow held the title of President. He began his career at FactSet in 1996 as a Consultant, before moving to Asia to hold positions in the Tokyo and Sydney offices. Following his move back to the U.S. in 2000, Mr. Snow held various sales leadership roles prior to assuming the role of Senior Vice President, Director of U.S. Investment Management Sales in 2013. Mr. Snow received a Bachelor of Arts in Chemistry from the University of California at Berkeley and a Master of International Management from the Thunderbird School of Global Management. He has earned the right to use the Chartered Financial Analyst designation.
+
+Linda S. Huber – Executive Vice President, Chief Financial Officer. 
+Ms. Huber was appointed Executive Vice President, Chief Financial Officer of FactSet in October 2021. As Chief Financial Officer, she is responsible for FactSet’s global finance organization and oversees all financial functions, including accounting, corporate development, financial planning and analysis, treasury, tax, and investor relations. Prior to joining FactSet, Ms. Huber served as Chief Financial Officer and Treasurer at MSCI Inc. Prior to joining MSCI, she served as Executive Vice President and Chief Financial Officer of Moody’s Corporation from May 2005 to June 2018. Earlier in her career, Ms. Huber served in several increasingly senior roles in financial services, including Executive Vice President and Chief Financial Officer at U.S. Trust Company, a subsidiary of Charles Schwab & Company, Inc.; Managing Director at Freeman & Co.; Vice President of Corporate Strategy and Development and Vice President and Assistant Treasurer at PepsiCo.; Vice President of Energy Investment Banking Group at Bankers Trust Co.; and Associate in the Natural Resources Group at The First Boston Corp. Ms. Huber also held the rank of Captain in the U.S. Army. Ms. Huber earned an MBA from the Stanford Graduate School of Business and a B.S. degree in business and economics from Lehigh University. 
+
+Rachel R. Stern
+
+–
+
+Executive Vice President, Chief Legal Officer, Global Head of Strategic Resources and Secretary. 
+Ms. Stern was appointed Executive Vice President, Chief Legal Officer and Global Head of Strategic Resources and Secretary in October 2018. In addition to her role in the Legal Department, Ms. Stern is also responsible for Compliance, Facilities Management and Real Estate Planning and the administration of our offices in Hyderabad, Manila and Riga. Ms. Stern joined FactSet in January 2001 as General Counsel. Ms. Stern is admitted to practice in New York, Washington D.C., and as House Counsel in Connecticut. Ms. Stern received a Bachelor of Arts from Yale University, a Master of Arts from the University of London and a Juris Doctor from the University of Pennsylvania Law School.
+
+Robert
+
+J.
+
+Robie – Executive Vice President, Head of Analytics & Trading Solutions.
+ Mr. Robie was appointed Executive Vice President, Head of Analytics & Tradition Solutions in September 2018. In his current role, he oversees strategy, research, development and engineering for Analytics & Trading platforms. Mr. Robie joined FactSet in July 2000 as a Product Sales 
+
+Specialist. During his tenure at FactSet, Mr. Robie has held several positions of increased responsibility, including Senior Director of Analytics and Director of Global Fixed Income. Although Mr. Robie joined FactSet in 2000, he did work at BTN Partners from 2004 through 2005 in their quantitative portfolio management and performance division, before returning to continue his career with FactSet. Mr. Robie holds a Bachelor of Arts in Economics and Fine Arts from Beloit College.
+
+Helen
+
+L.
+
+Shan –
+
+Executive Vice President, Chief Revenue Officer.
+ Ms. Shan was appointed Executive Vice President, Chief Revenue Officer effective May 3, 2021. As the Chief Revenue Officer, she is responsible for driving revenue growth by managing global sales, client solutions, marketing and media relations. Ms. Shan joined FactSet as Chief Financial Officer in September 2018 where she oversaw all financial functions at FactSet. Prior to that, she was at Marsh McLennan Companies, where she served in a variety of roles, including as the company's Corporate Treasurer and also as Chief Financial Officer for Mercer, a professional services firm where she was responsible for global financial reporting and performance, operational finance, investments, and corporate strategy. Preceding that, Ms. Shan also served as the Vice President and Treasurer for Pitney Bowes Inc. and served as a Managing Director at J.P. Morgan. In September 2018, Ms. Shan joined the Board of Directors of EPAM Systems Inc., a global provider of digital platform engineering and software development services. Ms. Shan holds dual degrees with a Bachelor of Science and a Bachelor of Applied Science from t
+he University of Pennsylvania’s Wharton School of Business and School of Applied Science and Engineering. Ms. Shan also has a Master of Business Administration from Cornell University’s SC Johnson College of Business.
+
+Daniel Viens – Executive Vice President, Chief Human Resources Officer.
+ Mr. Viens was appointed Executive Vice President Chief Human Resources Officer in October 2021. Mr. Viens joined FactSet in September 1998 as a Vice President, Director of Human Resources and has held several leadership positions of increased responsibility in Human Resources. Prior to joining FactSet, Mr. Viens was a Director of Human Resources for First Data Solutions and Donnelly Marketing (a former company of Dun & Bradstreet), where he developed significant Human Resources acumen. Mr. Viens graduated from Boston University, and holds both a Master's Degree from Eastern Illinois University in Clinical Psychology and a Master of Business Administration from Columbia University.
+
+Goran Skoko – 
+Executive Vice President, Managing Director EMEA and Asia Pacific, Head of Research & Advisory Solutions. 
+Mr. Skoko was appointed Executive Vice President, Managing Director EMEA and Asia Pacific and Head of Research & Advisory Solutions in July 2021. In his current role, Mr. Skoko is responsible for providing direction to address the product and content needs for EMEA and Asia Pacific clients while also focusing on increased deployment and building community with our Research & Advisory Solutions. Prior to that, Mr. Skoko was Executive Vice President, Managing Director EMEA and Asia Pacific and Head of Wealth Solutio
+ns. He joined FactSet in 2004 as a Senior Product developer and has held a number of positions of increased responsibility. Prior to FactSet, he spent 16 years in various engineering and product management roles at Thomson Financial. Mr. Skoko earned his B.S. in Physics and Computer Science from Fordham University.
+
+Kristina W. Karnovsky – Executive Vice President, Chief Product Officer. 
+Ms. Karnovsky was appointed Executive Vice President, Chief Product Officer in July 2021. In her current role she works across the entire product portfolio to deliver a differentiated advantage for clients and support their success. Prior to this role, Ms. Karnovsky was Head of Research Solutions. Ms. Karnovsky joined FactSet in 2001 as a Consultant and spent over a decade building FactSet's sell-side business in Sales leadership roles. Ms. Karnovsky earned a bachelor's degree from the University of Scranton. 
+
+Jonathan Reeve – Executive Vice President, Head of Content & Technology Solutions.
+
+Mr. Reeve was appointed Executive Vice President, Head of CTS at FactSet in October 2021. As Head of CTS, he oversees and leads the development of FactSet’s off-platform products, including financial data solutions, application technologies, CUSIP Global Services, and the delivery of FactSet proprietary and third-party content over our data feeds, API’s, Open FactSet Marketplace, and cloud-delivery solutions. Mr. Reeve joined FactSet in April 2020 as Senior Vice President and Head of Content & Technology Solutions. Prior to joining FactSet, Mr. Reeve led Connectivity, Feeds and Desktop Businesses at Intercontinental Exchange (ICE). Earlier in his career, he held various positions at S&P Global, including Chief Data Officer and Head of Product & Content for the S&P Market Intelligence Division. Mr. Reeve earned a B.A. in Economics from Concordia University in Montreal. 
+
+John Costigan – Executive Vice President, Chief Content Officer. 
+Mr. Costigan was appointed Chief Content Officer of FactSet in April 2022. As Chief Content Officer, he is responsible for FactSet's enterprise-wide Content Strategy and leads Content Development from planning through production. This includes Content's Digital Transformation using modern techniques and technology to drive timeliness, accuracy, coverage, consistency and usability across all FactSet Content assets. Mr. Costigan has been at FactSet since September 2007 in a variety of roles. Prior to joining FactSet, Mr. Costigan served as Vice President, Product Management at Thomson Financial, and spent 11 years in a variety of Product Management roles at First Call, Autex, ILX, and Tradeweb. Mr. Costigan earned a bachelor's degree in Economics from St. Michael's College.
+
+Katherine M. Stepp – Executive Vice President, Chief Technology Officer. 
+Ms. Stepp was appointed Chief Technology Officer, effective September 1, 2022. As Chief Technology Officer, she is responsible for leading FactSet's technology organization and overseeing its digital transformation strategy. Ms. Stepp joined FactSet in 2008 and previously served as Senior Director of Product Management within FactSet's Research and Advisory workflow solutions business. Prior to that role, she was Senior Director of Engineering within FactSet's Research workflow solutions business. Ms. Stepp holds a B.S. in Computer Science from Carnegie Mellon University.
+
+Additional Information
+
+Additional information with respect to our business is included in the following pages and is incorporated herein by reference:
+
+Page(s)
+
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+21
+
+Quantitative and Qualitative Disclosures about Market Risk
+
+41
+
+Notes to the Consolidated Financial Statements
+
+55
+
+ITEM 1A. RISK FACTORS
+
+The following risks could materially and adversely affect our business, financial condition, results of operations, and cash flows and, as a result, the trading price of our common stock could decline. These risk factors do not identify all risks that we face; our operations could also be affected by factors that are not presently known to us or that we currently consider to be immaterial to our operations. Due to risks and uncertainties, known and unknown, our past financial results may not be a reliable indicator of future performance, and historical trends should not be used to anticipate results or trends in future periods. Investors should also refer to the other information set forth in this Annual Report on Form 10-K, including Item 7. 
+Management’s Discussion and Analysis of Financial Condition and Results of Operation
+s and our Consolidated Financial Statements including the related Notes. Investors should carefully consider all risks, including those disclosed here, before making an investment decision.
+
+Technology & Data Security Risks
+
+Loss, corruption and misappropriation of data and information relating to clients and others
+
+Many of our products, as well as our internal systems and processes, involve the collection, retrieval, processing, storage and transmission through a variety of media channels of our own, as well as supplier and customer, proprietary information and sensitive or confidential data. We rely on, and continuously invest in, a complex system of internal processes and controls, along with policies, procedures and training, designed to protect data that we receive in the ordinary course of business, including information from client portfolios and strategies. However, these measures do not guarantee security, and improper access to or release of confidential information may still occur through, for example, employee error or malfeasance, system error, other inadvertent release, failure to properly purge and protect data, or cyberattack. Additionally, the maintenance and enhancement of our systems may not be completely effective in preventing loss, unauthorized access or misappropriation. Data misappropriation, unauthorized access or data loss could instill a lack of confidence in our products and systems and damage our brand, reputation and business. Breaches of security measures could expose us, our clients or the individuals affected to a risk of loss or misuse of this information, potentially resulting in litigation and liability for us, as well as the loss of existing or potential clients and suppliers. Many jurisdictions in which we operate have laws and regulations relating to data privacy and protection of personal information, including, for example, the European Union General Data Protection Regulation, which became effective May 25, 2018, the laws of multiple U.S. states such as California's Consumer Privacy Act, which became effective January 1, 2020, and China's Personal Information Protection Law, which became effective November 1, 2021. These laws contain requirements regarding the handling of personal and sensitive data, including our use, protection and the ability of persons whose data is stored to correct or delete such data about themselves. The law in this area continues to develop and the changing nature of privacy laws could impact our processing of personal and sensitive information related to our content, operations, employees, clients, and suppliers, and may expose us to claims of violations.
+
+Successful prohibited data access and other cyber-attacks and the failure of cyber-security systems and procedures
+
+In providing our digital-enabled services to clients, we rely on information technology infrastructure that is managed internally along with placing reliance on third-party service providers for critical functions. We and these third-party service providers are subject to the risks of system failures and security breaches, including cyber-attacks (including those sponsored by nation-states, terrorist organizations, or global corporations seeking to illicitly obtain technology or other intellectual property), such as phishing scams, hacking, viruses, denials of service attacks, tampering, intrusions, physical break-ins, ransomware and malware as well as employee errors or malfeasance. In some cases, these risks might be heightened when employees are working remotely. Our and our vendors' use of mobile and cloud technologies may increase our risk for such threats. Our protective 
+
+5
+
+Table of Contents
+
+systems and procedures and those of third parties to which we are connected, such as cloud computing providers, may not be effective against these threats. Our information technology systems must be constantly updated and patched to protect against known vulnerabilities and to optimize performance.
+
+While we have dedicated resources responsible for maintaining appropriate levels of cybersecurity and implemented systems and processes intended to help identify cyberattacks and protect and remediate our network infrastructure, we are aware that these attacks have become increasingly frequent, sophisticated, and difficult to detect and, as a result, we may not be able to anticipate, prevent or detect all such attacks. We also may be impacted by a cyberattack targeting one of our vendors or within our technology supply chain or infrastructure. Our contracts with service providers typically require them to implement and maintain adequate security controls, but we may not have the ability to effectively monitor these security measures. As a result, inadequacies of the third-party security technologies and practices may not be detected until after a security breach has occurred. These risks may be heightened in connection with employees working from remote work environments, as our dependency on certain service providers, such as video conferencing and web conferencing services, has significantly increased. In addition, to access our network, products and services, customers and other third parties may use personal mobile devices or computing devices that are outside of our network environment and are subject to their own security risk.
+
+We could suffer significant damage to our brand and reputation: if a cyber-attack or other security incident were to allow unauthorized access to, or modification of, clients’ or suppliers’ data, other external data, internal data or information technology systems; if the services provided to clients were disrupted; or if products or services were perceived as having security vulnerabilities. The costs we would incur to address and resolve these security incidents would increase our expenses. These types of security incidents could also lead to lawsuits, regulatory investigations and claims, loss of business and increased legal liability. Cyberattacks, security breaches or third-party reports of perceived security vulnerability to our systems, even if no breach has occurred, also could damage our brand and reputation, result in litigation, regulatory actions, loss of client confidence and increased legal liability. We also make acquisitions periodically. While significant effort is placed on addressing information technology security issues with respect to the acquired companies, we may inherit such risks when these acquisitions are integrated into our infrastructure.
+
+A prolonged or recurring outage at our data centers and other business continuity disruptions at facilities could result in reduced service and the loss of clients
+
+Our clients rely on us for the delivery of time-sensitive, up-to-date data and applications. Our business is dependent on our ability to process substantial volumes of data and transactions rapidly and efficiently on our computer-based networks, database storage facilities, and other network infrastructure, which are located across multiple facilities globally. If we experience significant growth of our customer base or increases in the number of products or services or in the speed at which we are required to provide products and services, it may strain our systems. Additionally, our systems and networks may become strained due to aging or end-of-life technology that we have not yet updated or replaced. 
+
+Our computer operations, as well as our other business centers, and those of our suppliers and clients, are vulnerable to interruption by fire, natural disaster, power loss, telecommunications failures, terrorist attacks, acts of war, civil unrest, internet failures, computer viruses, security breaches, and other events beyond our reasonable control. In addition, in the remote work environments, the daily activities and productivity of our workforce is now more closely tied to key vendors, such as video conferencing services, consistently delivering their services without material disruption. Our ability to deliver information using the internet and to operate in a remote working environment may be impaired because of infrastructure failures, service outages at third-party internet providers, malicious attacks, or other factors. 
+
+We also currently use multiple providers of cloud services; however, one supplier provided the majority of our cloud computing support for the twelve months ended August 31, 2022. While we believe this provider to be reliable, we have limited control over its performance, and a disruption or loss of service from this provider could impair our system's operation and our ability to operate for a period of time. We maintain back-up facilities and certain other redundancies for each of our major data centers to minimize the risk that any such event will disrupt those operations. However, a loss of our services involving our significant facilities may materially disrupt our business and may induce our clients to seek alternative data suppliers. Any such losses or damages we incur could have a material adverse effect on our business. Although we seek to minimize these risks through security measures, controls, back-up data centers and emergency planning, there can be no assurance that such efforts will be successful or effective. Additionally, we may also face significant increases in our use of power and data storage and may experience a shortage of capacity and increased costs associated with such usage.
+
+Transition to new technologies, applications and processes could expose us to unanticipated disruptions
+
+The technology landscape is constantly evolving. To remain competitive, we must adapt and migrate to new technologies, applications and processes. Use of more advanced technologies and infrastructure is critical to the development of our products 
+
+6
+
+Table of Contents
+
+and services, the scaling of our business for future growth, and the accurate maintenance of our data and operations. The implementation of new technologies and infrastructure, such as migration to new cloud-based systems, is complex and can involve substantial expenditures as well as risks inherent in the conversion to any new system, including potential loss of information and disruption to operations. We may experience unanticipated interruption and delay in the performance and delivery of certain of our products and services. Certain of our technologies are also dependent upon third-party providers to maintain adequate systems to protect the security of our confidential information and data. Failure by our providers to maintain appropriate security could result in unauthorized access to our systems or a network disruption that could further lead to improper disclosure of confidential information or data, regulatory penalties and remedial costs. Any disruption to either the provider’s systems or the communication links between us and the provider could negatively affect our ability to operate our data systems and could impair our ability to provide services to our clients. If the services to our clients are disrupted, or if there is unauthorized access to the confidential information of our clients or our vendors, we could suffer significant damage to our brand and reputation and lose clients. We also may incur increased operating expenses to recover data, repair or remediate systems, equipment or facilities, and to protect ourselves from such disruptions. As we increase our reliance on third-party systems, our exposure to damages from services disruptions may increase, and we may incur additional costs to remedy damages caused by these disruptions. 
+
+Use of open source software could introduce security vulnerabilities, impose unanticipated restrictions on our ability to commercialize our products and services, and subject us to increased costs
+
+We use open source code in our software development and incorporate it into our products and internal systems. The use of open source code may entail greater risks than the use of third-party commercial software. Open source licensors generally do not provide warranties or other contractual protections regarding infringement claims or the quality or security of the code. Some open source licenses provide that if we combine our proprietary applications with the open source software in a certain manner, we could be required to release the source code of our proprietary applications to the public. This would allow our competitors to create similar products with less development effort and time and ultimately put us at a competitive disadvantage. We have implemented procedures to control the use of open source code so as to mitigate this risk; however, the terms of many open source licenses are also ambiguous and have not been interpreted by U.S. or other courts. Therefore, there is a risk that our internal procedures controlling the use of open source code could fail, or that the licenses could be construed in a manner that imposes unanticipated conditions or restrictions on us. If any of this were to occur, we could be required to seek alternative third-party licenses at increased costs or reduced scope, to re-engineer products or systems, or potentially to discontinue the licensing of certain products. Any remedial actions could divert resources away from our development efforts, be time intensive and have a significant cost. 
+
+Strategy & Market Demand Risks
+
+Competition in our industry may cause price reductions or loss of market share
+
+We continue to experience intense competition across all markets for our products, with competitors ranging in size from smaller, highly specialized, single-product businesses to multi-billion-dollar companies. While we believe the breadth and depth of our suite of products and applications offer benefits to our clients that are a competitive advantage, our competitors may offer price incentives to attract new business. Future competitive pricing pressures may result in decreased sales volumes and price reductions, resulting in lower revenues and ASV. Weak economic conditions may also result in clients seeking to utilize lower-cost information that is available from alternative sources. The impact of cost-cutting pressures across the industries we serve could lower demand for our products. Clients within the financial services industry that strive to reduce their operating costs may seek to reduce their spending on financial market data and related services, such as ours. If our clients consolidate their spending with fewer suppliers, by selecting suppliers with lower-cost offerings or by self-sourcing their needs for financial market data, our business could be negatively affected.
+
+The continued shift from active to passive investing could negatively impact user count growth and revenues
+
+The predominant investment strategy today is still active investing, which attempts to outperform the market. The main advantage of active management is the expectation that the investment managers will be able to outperform market indices. They make informed investment decisions based on their experiences, insights, knowledge and ability to identify opportunities that can translate into superior performance. The main advantage of passive investing is that it closely matches the performance of market indices. Passive investing requires little decision-making by investment managers and low operating costs which result in lower fees for the investor. A continued shift to passive investing, resulting in an increased outflow to passively managed index funds, could reduce demand for the services of active investment managers and consequently, the demand of our clients for our services. 
+
+7
+
+Table of Contents
+
+A decline in equity and/or fixed income returns may impact the buying power of investment management clients
+
+The majority of our ASV is derived from our investment management clients, and the profitability and management fees of many of these clients are tied to assets under management. An equity market decline not only depresses the value of assets under management but also could cause a significant increase in redemption requests from our clients’ customers, further reducing their assets under management. Reduced client profits and management fees may cause our clients to cut costs. Moreover, extended declines in the equity and fixed income markets may reduce new fund or client creation. Each of these developments may result in lower demand from investment managers for our services and workstations, which could negatively affect our business.
+
+Uncertainty or downturns in the global economy and consolidation in the financial services industry may cause us to lose clients and users
+
+Many of our clients are investment banks, asset managers, wealth advisors, and other financial services entities. Uncertainty or downturns in the global economy or a lack of confidence in the global financial system could negatively impact our clients, which could cause a corresponding negative impact on our business results. Mergers, consolidation or contraction of our clients in the financial services industry also could directly impact the number of clients and prospective clients and users of our products and services. If our clients merge with or are acquired by other entities that are not our clients, or that use fewer of our products and services, they may discontinue or reduce their use of our products and services. Thus, economic uncertainty, economic downturns, lack of confidence in the global financial system, and consolidation in this sector could adversely affect our business, financial results and future growth.
+
+Volatility or downturns in the financial markets may delay the spending pattern of clients and reduce future ASV growth
+
+The decision on the part of large institutional clients to purchase our services often requires management-level sponsorship and typically depends upon the size of the client, with larger clients having more complex and time-consuming purchasing processes. The process is also influenced by market volatility and market downturns. These characteristics often lead us to engage in relatively lengthy sales efforts. Purchases (and incremental ASV) may therefore be delayed as uncertainties or downturns in the financial markets may cause clients to remain cautious about capital and data content expenditures, particularly in uncertain economic environments. Market volatility or market downturns may curtail our client's spending and lead them to delay or defer purchasing decisions or product service implementations, or cause them to cancel or reduce their spending with us, which could negatively impact our revenues and future growth.
+
+Failure to develop and market new products and enhancements that maintain our technological and competitive position and failure to anticipate and respond to changes in the marketplace for our products and customer demands
+
+The market for our products is characterized by rapid technological change, including methods and speed of delivery, changes in client demands, development of new investment instruments and evolving industry standards. The direction of these trends can render our existing products less competitive, obsolete or unmarketable. As a result, our future success will continue to depend upon our ability to identify and develop new products and enhancements that address the future needs of our target markets and to respond to their changing standards and practices. We may not be successful in developing, introducing, marketing, licensing and implementing new products and enhancements on a timely and cost-effective basis or without impacting the stability and efficiency of existing products and customer systems. Further, any new products and enhancements may not adequately meet the requirements of the marketplace or achieve market acceptance. We must make long-term investments and commit significant resources before knowing whether these investments will eventually result in products and services that satisfy our clients' needs and generate revenues required to provide the desired results. Our failure or inability to anticipate and respond to changes in the marketplace, including competitor and supplier developments, may also adversely affect our business, operations and growth.
+
+Errors or defects can exist at any point in a product's life cycle, but are more frequently found after the introduction of new products or enhancements to existing products. Despite internal testing and testing by clients, our products may contain errors. We may also experience delays while developing and introducing new products for various reasons, such as difficulties in licensing data inputs. Defects, errors, or delays in our products that are significant, or are perceived to be significant, could result in rejection or delay in market acceptance, damage to our reputation, loss of revenues, lower rate of license renewals or upgrades, diversion of development resources, product liability claims or regulatory actions, or increases in service and support costs. 
+
+We have provisions in our client contracts to limit our exposure to potential liability claims brought by clients based on the use of our products or services or our delay or failure to provide services. Contracts with customers also increasingly include service level requirements and audit rights to review our security. Many of our customers in the financial services sector are 
+
+8
+
+Table of Contents
+
+also subject to regulations and requirements to adopt risk management processes commensurate with the level of risk and complexity of their third-party relationships, and provide rigorous oversight of relationships that involve certain "critical activities," some of which may be deemed to be provided by us. Any failure on our part to comply with the specific provisions in customer contracts could result in the imposition of various penalties, which may include termination of contracts, service credits, suspension of payments, contractual penalties, adverse monetary judgments, and, in the case of government contracts, suspension from future government contracting. Even if the outcome of any claims brought against us were ultimately favorable, such a claim would require the time and attention of our management, personnel, as well as financial and other resources and potentially pose a significant disruption to our normal business operations. 
+
+Failure to identify, integrate, or realize anticipated benefits of acquisitions and strains on resources as a result of growth
+
+There can be no assurance that we will be able to identify suitable candidates for successful acquisition at acceptable prices. Additionally, there may be integration risks or other risks resulting from acquired businesses, including our acquisition of CGS during fiscal 2022. Our ability to achieve the expected returns and synergies from past and future acquisitions and alliances depends in part upon our ability to integrate the offerings, technology, sales, administrative functions and personnel of these businesses effectively into our core business. We cannot guarantee that our acquired businesses will perform at the levels anticipated. In addition, past and future acquisitions may subject us to unanticipated risks or liabilities or disrupt operations.
+
+Growth, such as the addition of new clients and acquisitions, puts demands on our resources, including our internal systems and infrastructure. These may require improvements or replacement to meet the additional demands of a larger organization. Further, the addition of new clients and the implementation of such improvements would require additional management time and resources. These needs may result in increased costs that could negatively impact results of operations. Failure to implement needed improvements, such as improved scalability, could result in a deterioration in the performance of our internal systems and negatively impact the performance of our business.
+
+Failure to maintain reputation
+
+We enjoy a positive reputation in the marketplace. Our ability to attract and retain clients and employees is affected by external perceptions of our brand and reputation. Reputational damage from negative perceptions or publicity, including without limitation market perception of our sustainability and corporate responsibility policies and practices, could affect our ability to attract and retain clients and employees and our ability to maintain our pricing for our products. Although we monitor developments for areas of potential risk to our reputation and brand, negative perceptions or publicity could have a material adverse effect on our business and financial results.
+
+Operational Risks
+
+Operations outside the United States involve additional requirements and burdens that we may not be able to control or manage successfully
+
+In fiscal 2022, approximately 
+40%
+ of our revenues related to operations located outside the U.S. In addition, approximately 
+79% of our employees
+ are located in offices outside the U.S. We expect our growth to continue outside the U.S. Our non-U.S. operations involve risks that differ from or are in addition to those faced by our U.S. operations. These risks include difficulties in developing products, services and technology tailored to the needs of non-U.S. clients, including in emerging markets; different employment laws and rules; rising labor costs in lower-wage countries; difficulties in staffing and managing personnel that are located outside the U.S.; different regulatory, legal and compliance requirements, including in the areas of privacy and data protection, anti-bribery and anti-corruption, trade sanctions and currency controls, marketing and sales and other barriers to conducting business; social and cultural differences, such as language; diverse or less stable political, operating and economic environments and market fluctuations; civil disturbances or other catastrophic events that reduce business activity, including the risk that the current conflict between Ukraine and Russia expands in a way that impacts our business and operations; limited recognition of our brand and intellectual property protection; differing accounting principles and standards; restrictions on or adverse tax consequences from entity management efforts; and changes in U.S. or foreign tax laws. If we are not able to adapt efficiently or manage the business effectively in markets outside the U.S., our business prospects and operating results could be materially and adversely affected.
+
+Failure to enter into, renew or comply with contracts supplying new and existing data sets or products on competitive terms
+
+We collect and aggregate third-party content from data suppliers, news sources, exchanges, brokers and contributors into our own dedicated online service, which clients access to perform their analyses. We combine the data from these sources into our own dedicated databases. Clients have access to the data and content found within our databases. These databases are important to our operations as they provide clients with key information. We have entered into third-party content agreements of varying 
+
+9
+
+Table of Contents
+
+lengths, which in some cases can be terminated on one year’s notice at predefined dates, and in other cases on shorter notice. Some of our content provider agreements are with competitors, who may attempt to make renewals difficult or expensive. We seek to maintain favorable contractual relationships with our data suppliers, including those that are also competitors. However, we cannot control the actions and policies of our data suppliers and we may have data suppliers who provide us with notice of termination, or exclude or restrict us from use of their content, or only license such content at prohibitive cost. Additionally, despite our efforts to comply with our third-party data supplier agreements, there can be no assurances that third parties may not challenge our use of their content, which could result in increased licensing costs, loss of rights, and costly legal actions. Certain data sets that we rely on have a limited number of suppliers, although we make every effort to assure that, where reasonable, alternative sources are available. We are not dependent on any one third-party data supplier in order to meet the needs of our clients, with only two data suppliers each representing more than 10% of our total data costs for the twelve months ended August 31, 2022. Our failure to be able to maintain these relationships, or the failure of our suppliers to deliver accurate data or in a timely manner, or the occurrence of a dispute with a vendor over use of their content, could increase our costs and reduce the type of content and products available to our clients, which could harm our reputation in the marketplace and adversely affect our business.
+
+Increased accessibility to free or relatively inexpensive information sources may reduce demand for our products
+
+Each year, an increasing amount of free or relatively inexpensive information becomes available, particularly through the internet, and this trend may continue. The availability of free or relatively inexpensive information may reduce demand for our products. While we believe our service offering is distinguished by such factors as customization, timeliness, accuracy, ease-of-use, completeness and other value-added factors, if users choose to obtain the information they need from public or other sources, our business, results of operations, and cash flows could be adversely affected.
+
+Inability to hire and retain key qualified personnel
+
+Our business is based on successfully attracting, motivating and retaining talented and diverse employees. Creating a diverse and inclusive environment that promotes empowerment and engagement is key to our ability to attract, retain, and develop talent. Competition for talent, especially engineering personnel, is strong. We need technical resources such as engineers to help develop new products and enhance existing services. We rely upon sales personnel to sell our products and services and maintain healthy business relationships. Our future success also is dependent on the continued service and performance of the members of our senior leadership team. All of these personnel possess business and technical capabilities that are difficult to replace. If we are unsuccessful in our recruiting efforts, or if we are unable to retain key employees, our ability to develop and deliver successful products and services may be adversely affected and could have a material, adverse effect on our business.
+
+The COVID-19 pandemic and other global public health epidemics may adversely impact our business, our future results of operations and our overall financial performance
+
+Our business could be materially and adversely affected by the risk, or the public perception of risk, related to a pandemic or widespread health crisis, such as the COVID-19 pandemic. A significant outbreak, epidemic or pandemic of contagious diseases in the human population could result in a widespread health crisis adversely affecting the broader economies, financial markets and overall demand for our products. In addition, any preventative or protective actions that governments implement or that we take in respect of a global health crisis, such as travel restrictions, quarantines or site closures, may interfere with the ability of our employees, vendors, and data suppliers to perform their respective responsibilities and obligations relative to the conduct of our business, including our ability to gather content. Such results could have a material adverse effect on our operations, business, financial condition, results of operations, or cash flows. 
+
+To date, the COVID-19 pandemic has not had a material negative impact on our financial condition, results of operations, or cash flows. However, due to the ongoing uncertainty related to the duration, magnitude and impact of the pandemic, it may still have a substantial negative impact on our employees' or vendors' productivity, which could result in our operations, including our ability to gather content, suffering, and in turn our results of operations, cash flows, and overall financial performance being impacted negatively. Furthermore, if our employees incur substantial medical expenses due to COVID-19, our expenses may increase due to our self-funded employee medical insurance model. Our management is focused on mitigating the effects of COVID-19 on our business, which has required and will continue to require a substantial investment of their time and may delay their other efforts. The continued impact of COVID-19 may also increase the severity or likelihood of the other risks described in this Item, any of which could have a material effect on us. Given the dynamic nature of these circumstances, the extent to which our business, financial condition, results of operations, or cash flows are affected by COVID-19 will depend in part on future developments which cannot be accurately predicted and are uncertain. The impact of the COVID-19 pandemic depends upon various uncertainties, including the geographic spread of the virus, the severity of the virus, the duration of the outbreak, and actions that may be taken by governmental authorities to contain the virus. If we are not able to respond to and manage the impact of such events effectively, our business and financial condition could be negatively impacted. Refer to Item 
+
+10
+
+Table of Contents
+
+7. 
+Management’s Discussion and Analysis of Financial Condition and Results of Operations - COVID-19 Update
+ for additional information.
+
+Legal & Regulatory Risks
+
+Legislative and regulatory changes in the environments in which we and our clients operate
+
+As a business, we are subject to numerous laws and regulations in the U.S. and in the other countries in which we operate. These laws, rules, and regulations, and their interpretations, may change in the future or conflict, and compliance with these changes may increase our costs or cause us to make changes in or otherwise limit our business practices. In addition, the global nature and scope of our business operations make it more difficult to monitor areas that may be subject to regulatory and compliance risk. If we fail to comply with any applicable law, rule, or regulation, we could be subject to claims and fines and suffer reputational damage. Uncertainty caused by political change globally, and complex relationships across countries, including the U.S. and nations in Europe and Asia, heightens the risk of regulatory uncertainty. 
+
+Many of our clients operate within a highly regulated environment and must comply with governmental legislation and regulations. The U.S. regulators have increased their focus on the regulation of the financial services industry. Increased regulation of our clients may increase their expenses, causing them to seek to limit or reduce their costs from outside services such as ours. Additionally, if our clients are subjected to investigations or legal proceedings they may be adversely impacted, possibly leading to their liquidation, bankruptcy, receivership, reduction in assets under management, or diminished operations, which would adversely affect our revenues. Recent regulatory changes that we believe might materially impact us and our clients include:
+
+MiFID
+
+In the European Union ("EU"), the Markets in Financial Instruments Directive (recast) ("MiFID II") became effective in January 2018. In the United Kingdom ("UK"), laws and regulations implementing MiFID II were modified to transpose aspects of EU law and address deficiencies that would have otherwise been created as a result of the UK's withdrawal from the EU. We believe that compliance with MiFID II requirements is time-consuming and costly for investment managers who are subject to it and may cause clients to adapt their pricing models and business practices significantly. These increased costs may impact our clients’ spending and may cause some investment managers to lose business or withdraw from the market, which may adversely affect demand for our services. However, MiFID II may also present us with new business opportunities for new service offerings. In May 2022, the UK government announced the new Financial Services and Markets Bill ("FSM Bill"), which would reform financial service regulation in the UK and represent a divergence from the existing UK MiFID regime. There is no set timescale as to when passage of the FSM Bill would occur. This regulatory reform may impact some of our UK-regulated clients and may require them to devote more resources towards realigning their compliance measures, and in some cases ensuring compliance with both the UK and EU regimes. We continue to monitor and work with our clients to navigate through the impact of UK regulatory change and of MiFID II on the investment process and trade lifecycle.
+
+Brexit
+
+On January 31, 2020, the UK formally left the EU. On January 1, 2021, the UK left the EU Single Market and Customs Union, as well as all EU policies and international agreements. resulting in two separate markets in the EU and the UK. On December 24, 2020, the EU reached a trade agreement with the UK (the "Trade Agreement"). The Trade Agreement offers UK and EU companies preferential access to each other's markets, ensuring imported goods will be free of tariffs and quotas; however, economic relations between the UK and EU will now be on more restricted terms than existed previously. The Trade Agreement does not incorporate the full scope of the services sector, and businesses such as banking and finance face uncertainty. In March 2021, the UK and EU had agreed on a framework for voluntary regulatory cooperation and dialogue on financial services issues between the two countries in a Memorandum of Understanding (the "MOU"), which is expected to be signed after formal steps are completed, although this has not yet occurred. In June 2022, following an inquiry, the European Affairs Committee issued a report which concluded that while the outlook for financial services after Brexit seems relatively positive, the impact of Brexit on financial services would be dependent on political decisions made by the UK and the EU. At this time, we cannot predict the impact that the Trade Agreement, the MOU or any future agreements on services, particularly financial services, will have on our business and our clients. It is possible that new terms may adversely affect our operations and financial results. We continue to evaluate our own risks and uncertainty related to Brexit, and partner with our clients to help them navigate the fluctuating international markets. This uncertainty may have an impact on our clients’ expansion or spending plans, which may in turn negatively impact our revenue or growth. The EU Commission has adopted adequacy decisions which will allow personal data to continue to move freely between the EU and the UK until June 27, 2025. While these adequacy decisions have created some certainty for our clients, we will continue to monitor developments which may impact their future validity and extension.
+
+11
+
+Table of Contents
+
+Adverse resolution of litigation or governmental investigations
+
+We are party to lawsuits in the normal course of our business. Litigation and governmental investigations can be expensive, lengthy and disruptive to normal business operations. Moreover, the results of complex legal proceedings are difficult to predict. Unfavorable resolution of lawsuits could have a material adverse effect on our business, operating results or financial condition. For additional information regarding legal matters, see Item 3. 
+Legal Proceedings
+, of this Annual Report on Form 10-K.
+
+Third parties may claim we infringe upon their intellectual property rights or may infringe upon our intellectual property rights
+
+We may receive notice from others claiming that we have infringed upon their intellectual property rights. Responding to these claims may require us to enter into royalty and licensing agreements on unfavorable terms, incur litigation costs, enter into settlements, stop selling or redesign affected products, or pay damages and satisfy indemnification commitments with our clients or suppliers under contractual provisions of various license arrangements. Additionally, third parties may copy, infringe or otherwise profit from the unauthorized use of our intellectual property rights, requiring us to litigate to protect our rights. Certain countries may not offer adequate protection of proprietary rights. If we are required to defend ourselves or assert our rights or take such actions mentioned, our operating margins may decline as a result. We have incurred, and expect to continue to incur, expenditures to acquire the use of technology and intellectual property rights as part of our strategy to manage this risk.
+
+Additional cost due to tax assessments resulting from ongoing and future audits by tax authorities as well as changes in tax laws
+
+In the ordinary course of business, we are subject to changes in tax laws as well as tax examinations by various governmental tax authorities. The global and diverse nature of our business means that there could be additional examinations by governmental tax au
+thorities and the resolution of ongoing and other probable audits which could impose a future risk to the results of our business. In August 2019 and July 2021, we received Notices of Intent to Assess (the "Notices") additional sales/use taxes, interest and underpayment penalties from the Commonwealth of Massachusetts Department of Revenue relating to prior tax periods. Based upon a review of the Notices, we believe the Commonwealth may assess sales/use tax, interest and underpayment penalties on previously recorded sales transactions. We filed an appeal to the Notices and we intend to contest any such assessment, if assessed, and continue to cooperate with the Commonwealth’s inquiry. Further, on August 10, 2021, we received a letter (the "Letter") from the Commonwealth relating to additional prior tax periods, requesting sales information to determine if a notice of intent to assess should be issued to FactSet with respect to these tax periods. Based upon a preliminary review of the Letter, we believe the Commonwealth might seek to assess sales/use tax, interest and underpayment penalties on previously recorded sales transactions. 
+
+As of August 31, 2022, we have concluded that a payment to the Commonwealth is probable. We recorded an accrual which is not material to our consolidated financial statements. While we believe that the assumptions and estimates used to determine the accrual are reasonable, future developments could result in adjustments being made to this accrual. If we are presented with a formal assessment for any of these matters, we believe that we will ultimately prevail; however, if we do not prevail, the amount of any assessment could have a material impact on our consolidated financial position, results of operations and cash flows. 
+
+Changes in tax laws or the terms of tax treaties in a jurisdiction where we are subject to tax could have an impact on our taxes payable. 
+
+Financial Market Risks
+
+Exposure to fluctuations in currency exchange rates and the failure of hedging arrangements
+
+Due to the global nature of our operations, we conduct business outside the U.S. in several currencies. Our primary currency exposures include the British Pound Sterling, Euro, Indian Rupee and Philippine Peso. To the extent our international activities increase in the future, our exposure to fluctuations in currency exchange rates may increase as well. To manage this exposure, we utilize derivative instruments (such as foreign currency forward contracts). By their nature, all derivative instruments involve elements of market and credit risk. The market risk associated with these instruments resulting from currency exchange movements is expected to offset the market risk of the underlying transactions, assets and liabilities being hedged. Credit risk is managed through the continuous monitoring of exposure to the counterparties associated with these instruments. Our primary objective in holding derivatives is to reduce the volatility of earnings with changes in foreign currency. Although we believe 
+
+12
+
+Table of Contents
+
+that our foreign exchange hedging policies are reasonable and prudent under the circumstances, our attempt to hedge against these risks may not be successful, which could cause an adverse impact on both our results of operations and cash flows.
+
+Business performance may not be sufficient to meet financial guidance or publicly disclosed long-term targets
+
+We provide public, full-year financial guidance based upon assumptions regarding our expected financial performance, including our ability to grow revenues and organic ASV plus professional services, to meet our planned expenses and maintain a certain tax rate, and our ability to achieve our profitability targets. We can provide no assurances that we will be able to maintain the levels of growth and profitability that we have experienced in the past, or that our growth strategies will be successful. If we are unable to successfully execute on our strategies to achieve our growth objectives and retain our existing clients, or if we experience higher than expected operating costs or taxes, we risk not meeting our full-year financial guidance or may find it necessary to revise such guidance during the year. 
+
+Economic, political and market forces beyond our control could adversely affect our business.
+
+Our costs and the demand for our products may be impacted by domestic and international factors that are beyond our control. Negative conditions in the general economy in either the United States or abroad, including conditions resulting from financial and credit market fluctuations, changes in economic policy, inflation rate fluctuations and trade uncertainty, including changes in tariffs, sanctions, international treaties and other trade restrictions, could result in an increase in our costs and/or a reduction in demand for our products, which could have an adverse effect on our results of operations and financial condition.
+
+Risks Relating to the CGS Transaction
+
+We may fail to realize the anticipated benefits of the CGS Transaction
+
+The success of our acquisition of the CGS business (the "CGS Business") will depend on, among other things, our ability to incorporate the CGS Business into our business in a manner that enhances our value proposition to clients and facilitates other growth opportunities. We must successfully include the CGS Business within our business in a manner that permits these growth opportunities to be realized. In addition, we must achieve the growth opportunities without adversely affecting current revenues and investments in other future growth. If we are not able to successfully achieve these objectives, the anticipated benefits of the acquisition of CGS (the "CGS Transaction") may not be realized fully, if at all, or may take longer to realize than expected. Additionally, management may face challenges in incorporating certain elements and functions of the CGS Business with the FactSet business, and this process may result in additional and unforeseen expenses. The CGS Transaction may also disrupt the CGS Business’s and FactSet’s ongoing business or cause inconsistencies in standards, controls, procedures and policies that adversely affect our relationships with third-party partners, employees, suppliers, customers and others with whom the CGS Business and FactSet have business or other dealings or limit our ability to achieve the anticipated benefits of the CGS Transaction. It is possible that our experience in operating the CGS Business will require us to adjust our expectations regarding the impact of the CGS Transaction on our operating results. If we are not able to successfully add the CGS Business to the existing FactSet business in an efficient, effective and timely manner, anticipated benefits, including the opportunities for growth we expect from the CGS Transaction, may not be realized fully, if at all, or may take longer to realize than expected, and our cash flow and financial condition may be negatively affected. 
+
+We have incurred and may incur additional significant transaction costs in connection with the CGS Transaction
+
+We have incurred a number of non-recurring costs associated with the CGS Transaction. These costs and expenses include financial advisory, legal, accounting, consulting and other advisory fees and expenses, filing fees and other related charges. There is also a large number of processes, policies, procedures, operations, technologies and systems that must be integrated in connection with the CGS Transaction. While we have assumed that a certain level of expenses would be incurred in connection with the CGS Transaction and related transactions, there are many factors beyond our control that could affect the total amount or the timing of the integration and implementation expenses. There may also be additional unanticipated significant costs in connection with the CGS Transaction that we may not recoup. These costs and expenses could reduce the benefits and additional income we expect to achieve from the CGS Transaction. Although we expect that these benefits will offset the transaction expenses and implementation costs over time, this net benefit may not be achieved in the near term or at all.
+
+Risks Relating to Our Debt
+
+Our indebtedness may impair our financial condition and prevent us from fulfilling our obligations under the Senior Notes and our other debt instruments
+
+As of August 31, 2022 giving effect to the issuance of the Senior Notes and the incurrence of borrowings under the 2022 Credit Facilities and the repayment of the 2019 Revolving Credit Facility, our total outstanding principal amount of debt was $2.0 
+
+13
+
+Table of Contents
+
+billion, none of which is secured. Under the 2022 Revolving Facility, we have $250.0 million of unused commitments and an option to increase the size of the facility by an additional $750.0 million. Refer to Note 12, 
+Debt 
+for definitions of these terms and more information on the Senior Notes, 2022 Credit Facilities and 2019 Revolving Credit Facility.
+
+Our indebtedness could have important consequences to investors, including:
+
+a.
+making it more difficult for us to satisfy our obligations;
+
+b.
+limiting our ability to borrow additional amounts to fund working capital, capital expenditures, acquisitions, debt service requirements, execution of our growth strategy and other purposes;
+
+c.
+requiring us to dedicate a substantial portion of our cash flow from operations to pay interest on our debt and scheduled amortization on the 2022 Term Facility, which would reduce availability of our cash flow to fund working capital, capital expenditures, acquisitions, execution of our strategy and other general corporate purposes;
+
+d.
+making us more vulnerable to adverse changes in general economic, industry and government regulations and in our business by limiting our flexibility in planning for, and making it more difficult for us to react quickly to, changing conditions;
+
+e.
+placing us at a competitive disadvantage compared with those of our competitors that have less debt; and
+
+f.
+exposing us to risks inherent in interest rate fluctuations because some of our borrowings are at variable rates of interest, which could result in higher interest expense in the event of increases in market interest rates.
+
+In addition, we may not be able to generate sufficient cash flow from our operations to repay our indebtedness when it becomes due and to meet our other cash needs. If we are not able to pay our debts as they become due, we will be required to 
+pursue one or more alternative strategies, such as selling assets, refinancing or restructuring our indebtedness or selling additional debt or equity securities. We may not be able to refinance our debt or sell additional debt or equity securities or our assets on favorable terms, if at all, and if we must sell our assets, it may negatively affect our ability to generate revenues.
+
+Despite current indebtedness levels, we may still incur more debt. The incurrence of additional debt could further exacerbate the risks associated with our indebtedness
+
+Subject to certain limitations, the 2022 Credit Agreement and the indenture governing the Senior Notes permit us and our subsidiaries to incur additional debt. If new debt is added to our or any such subsidiary’s current debt levels, the risks described above in the previous risk factor could intensify.
+
+The restrictive covenants in our debt may affect our ability to operate our business successfully
+
+The 2022 Credit Agreement contains, and our future debt instruments may contain, various provisions that limit our ability to, among other things: incur liens; incur additional indebtedness, guarantees or other contingent obligations; enter into sale and leaseback transactions; engage in mergers and consolidations; make investments and acquisitions; change the nature of our business; and make sales, transfers and other dispositions of property and assets. The indenture governing the Senior Notes also contains various provisions that limit our ability to, among other things: incur liens; enter into sale and leaseback transactions; engage in mergers and consolidations; and make sales, transfers and other dispositions of property and assets. These covenants could adversely affect our ability to finance our future operations or capital needs and pursue available business opportunities.
+
+In addition, the 2022 Credit Agreement requires us to maintain specified financial ratios and satisfy certain financial condition tests. Events beyond our control, including changes in general economic and business conditions, may affect our ability to meet those financial ratios and financial condition tests. We cannot assure you that we will meet those tests or that the lenders will waive any failure to meet those tests. A breach of any of these covenants or any other restrictive covenants contained in the definitive documentation governing our indebtedness would result in a default or an event of default. If an event of default in respect of any of our indebtedness occurs, the holders of the affected indebtedness could declare all amounts outstanding, together with accrued interest, to be immediately due and payable, which, in turn, could cause the default and acceleration of the maturity of our other indebtedness. We expect we will be permitted to incur substantial amounts of secured debt under the covenants in the indenture governing the Senior Notes and the 2022 Credit Facilities. If, upon an acceleration, we were unable to pay amounts owed in respect of any such indebtedness secured by liens on our assets, then the lenders of such indebtedness could proceed against the collateral pledged to them. 
+
+Certain of our borrowings and other obligations are based upon variable rates of interest, which could result in higher expense in the event of increases in interest rates
+
+The 2022 Credit Agreement provides that (i) loans denominated in U.S. dollars, at our option, will bear interest at either the one-month Term Secured Overnight Financing Rate ("SOFR")
+ (with a 0.1% credit spread adjustment and subject to a "zero" floor), (ii) the Daily Simple SOFR (with a 0.1% credit spread adjustment and subject to a "zero" floor) or (iii) an alternate base 
+
+14
+
+Table of Contents
+
+rate. Under the 2022 Credit Agreement, loans denominated in Pounds Sterling will bear interest at the Daily Simple Sterling Overnight Index Average ("SONIA") (subject to a "zero" floor) and loans denominated in Euros will bear interest at the Euro Interbank Offered Rate ("EURIBOR") (subject to a "zero" floor), in each case, plus an applicable interest rate margin. 
+The interest rate margin will fluctuate based upon our senior unsecured non-credit enhanced long-term debt rating and our total leverage ratio. An increase in the alternate base rate, Term SOFR, Daily Simple SOFR, SONIA or EURIBOR would increase our interest payment obligations under the 2022 Credit Facilities and could have a negative effect on our cash flow and financial condition.
+
+To mitigate this exposure, on March 1, 2022, we entered into an interest rate swap agreement to hedge the variable interest rate obligation on a portion of our outstanding balance under the 2022 Credit 
+Facilities
+. However, as the interest rate swap agreement covers only a portion of our outstanding balance under the 2022 Credit 
+Facilities
+, a substantial portion of our outstanding balance under the 2022 Credit 
+Facilities
+ continues to be exposed to interest rate volatility. An increase in the applicable rates would increase our interest payment obligations under the 2022 Credit 
+Facilities
+ and could have a negative effect on our cash flow and financial condition.

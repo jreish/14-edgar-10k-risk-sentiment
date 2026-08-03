@@ -1,0 +1,823 @@
+The risks and uncertainties
+described below are not the only ones facing us. Other events that we do not currently anticipate or that we currently deem immaterial also may affect our results of operations and financial condition. 
+
+Risks Related to Our Business and Industry 
+
+Defects or disruptions in our service could diminish demand for our service and subject us to substantial liability. 
+
+Because our service is complex and we have incorporated a variety of new computer hardware and software, both developed in-house and acquired from third party vendors, our service may have errors or defects that users identify after they
+begin using it that could result in unanticipated downtime for our subscribers and harm our reputation and our business. Internet-based services frequently contain undetected errors when first introduced or when new versions or enhancements are
+released. We have from time to time found defects in our service and new errors in our existing service may be detected in the future. In addition, our customers may use our service in unanticipated ways that may cause a disruption in service for
+other customers attempting to access their data. Since our customers use our service for important aspects of their business, any errors, defects, disruptions in service or other performance problems with our service could hurt our reputation and
+may damage our customers’ businesses. If that occurs, customers could elect not to renew, or delay or withhold payment to us, we could lose future sales or customers may make warranty claims against us, which could result in an increase in our
+provision for doubtful accounts, an increase in collection cycles for accounts receivable or the expense and risk of litigation. 
+
+Interruptions or delays in service from our third-party data center hosting facilities could impair the delivery of our service and harm our business. 
+
+We currently serve our customers from a third-party data center hosting facility located on the west coast of the United States and we plan to begin to
+serve some customers from a third-party data center hosting facility located on the east coast of the United States. Additionally, we plan to begin serving customers from a new data center hosting facility we will be opening in Singapore in fiscal
+2010. Any damage to, or failure of, our systems generally could result in interruptions in our service. As we continue to add capacity in our existing and future data centers, we may move or transfer data. Despite precautions taken during this
+process, any unsuccessful data transfers may impair the delivery of our service. Further, any damage to, or failure of, our systems generally could result in interruptions in our service. Interruptions in our service may reduce our revenue, cause us
+to issue 
+
+15 
+
+Table of Contents
+
+credits or pay penalties, cause customers to terminate their subscriptions and adversely affect our renewal rates and our ability to attract new customers.
+Our business will also be harmed if our customers and potential customers believe our service is unreliable. 
+
+As part of our current
+disaster recovery arrangements, our production environment and all of our customers’ data is currently replicated in near real-time in a separate standby facility located on the east coast. Features added through acquisition are temporarily
+served through alternate facilities. We do not control the operation of any of these facilities, and they are vulnerable to damage or interruption from earthquakes, floods, fires, power loss, telecommunications failures and similar events. They may
+also be subject to break-ins, sabotage, intentional acts of vandalism and similar misconduct. Despite precautions taken at these facilities, the occurrence of a natural disaster or an act of terrorism, a decision to close the facilities without
+adequate notice or other unanticipated problems at these facilities could result in lengthy interruptions in our service. Even with the disaster recovery arrangements, our service could be interrupted. 
+
+If our security measures are breached and unauthorized access is obtained to a customer’s data or our data, our service may be perceived as
+not being secure, customers may curtail or stop using our service and we may incur significant legal and financial exposure and liabilities. 
+
+Our service involves the storage and transmission of customers’ proprietary information, and security breaches could expose us to a risk of loss of this information, litigation and possible liability. If our security measures are
+breached as a result of third-party action, employee error, malfeasance or otherwise, during transfer of data to additional data centers or at any time, and, as a result, someone obtains unauthorized access to our data or our customers’ data,
+our reputation could be damaged, our business may suffer and we could incur significant liability. Additionally, third parties may attempt to fraudulently induce employees or customers into disclosing sensitive information such as user names,
+passwords or other information in order to gain access to our data or our customers’ data, which could result in significant legal and financial exposure and a loss of confidence in the security of our service that would harm our future
+business prospects. Because the techniques used to obtain unauthorized access, or to sabotage systems, change frequently and generally are not recognized until launched against a target, we may be unable to anticipate these techniques or to
+implement adequate preventative measures. If an actual or perceived breach of our security occurs, the market perception of the effectiveness of our security measures could be harmed and we could lose sales and customers. In addition, our customers
+may authorize third party technology providers, whose applications are available through our AppExchange directory, to access their customer data. Because we do not control the transmissions between our customers and third-party AppExchange
+technology providers, or the processing of such data by third-party AppExchange technology providers, we cannot ensure the complete integrity or security of such transmissions or processing. 
+
+Weakening global economic conditions may adversely affect our industry, business and results of operations. 
+
+Our overall performance depends in part on worldwide economic conditions. The United States and other key international economies are currently undergoing
+a period of severe recession, characterized by falling demand for a variety of goods and services, restricted credit, going concern threats to financial institutions and major multi-national companies, poor liquidity, declining asset values, reduced
+corporate profitability, extreme volatility in credit, equity and foreign exchange markets and increased bankruptcies. These conditions could adversely affect our customers’ ability or willingness to purchase our enterprise cloud computing
+application service, delay prospective customers’ purchasing decisions, reduce the value or duration of their subscription contracts, or affect renewal rates, all of which could adversely affect our operating results. Companies that have
+competing products may reduce prices for competing products or services which could also reduce our average selling prices and harm our operating results. 
+
+16 
+
+Table of Contents
+
+Because we recognize revenue from subscriptions for our service over the term of the subscription,
+downturns or upturns in sales may not be immediately reflected in our operating results. 
+
+We generally recognize revenue from
+customers ratably over the terms of their subscription agreements, which are typically 12 to 24 months, although terms can range from one to 60 months. As a result, most of the revenue we report in each quarter is derived from the recognition of
+deferred revenue relating to subscription agreements entered into during previous quarters. Consequently, a decline in new or renewed subscriptions in any one quarter will not necessarily be fully reflected in the deferred revenue balance on our
+consolidated balance sheet and the revenue in that quarter but will negatively affect our revenue in future quarters. In addition, we may be unable to adjust our cost structure to reflect the changes in revenues. Accordingly, the effect of
+significant downturns in sales and market acceptance of our service, and potential changes in our rate of renewals may not be fully reflected in our results of operations until future periods. Our subscription model also makes it difficult for us to
+rapidly increase our revenue through additional sales in any period, as revenue from new customers must be recognized over the applicable subscription term. 
+
+If we experience significant fluctuations in our rate of anticipated growth and fail to balance our expenses with our revenue forecasts, our results could be harmed and our stock price may decline without
+advance notice. 
+
+Due to our evolving business model, the unpredictability of new markets that we enter and deteriorating general
+economic and financial market conditions, we may not be able to accurately forecast our rate of growth. We plan our expense levels and investment on estimates of future revenue and future anticipated rate of growth. We may not be able to adjust our
+spending quickly enough if the rate of new or renewed subscriptions falls short of our expectations. 
+
+As a result, we expect that our
+revenues, operating results and cash flows may fluctuate significantly on a quarterly basis. Our recent revenue growth rates may not be sustainable and may decline in the future. We believe that period-to-period comparisons of our revenues,
+operating results and cash flows may not be meaningful and should not be relied upon as an indication of future performance. 
+
+We
+cannot accurately predict customer subscription renewal rates and the impact these renewal rates will have on our future revenue or operating results. 
+
+Our customers have no obligation to renew their subscriptions for our service after the expiration of their initial subscription period, which is typically 12 to 24 months, and in fact, some customers have elected not
+to renew. In addition, our customers may renew for fewer subscriptions or renew for shorter contract lengths. We cannot accurately predict customer renewal rates, particularly for our enterprise customers who purchase a large number of subscriptions
+under multi-year contracts. Our customers’ renewal rates may decline or fluctuate as a result of a number of factors, including their dissatisfaction with our service, their ability to continue their operations and spending levels and
+deteriorating general economic and financial market conditions. If our customers do not renew their subscriptions for our service or reduce the number of paying subscriptions at the time of renewal, our revenue will decline and our business will
+suffer. 
+
+Our future success also depends in part on our ability to sell additional features and services, more subscriptions or enhanced
+editions of our service to our current customers. This may require increasingly sophisticated and costly sales efforts that are targeted at senior management. If these efforts are not successful, our business may suffer. 
+
+Our quarterly results can fluctuate and if we fail to meet the expectations of analysts or investors, our stock price and the value of your
+investment could decline substantially. 
+
+Our quarterly operating results are likely to fluctuate, and if we fail to meet or exceed
+the expectations of securities analysts or investors, the trading price of our common stock could decline. Moreover, our stock price 
+
+17 
+
+Table of Contents
+
+may be based on expectations of our future performance that may be unrealistic or that may not be met. Some of the important factors that could cause our
+revenues, operating results and cash flows to fluctuate from quarter to quarter include: 
+
+•
+
+ our ability to retain and increase sales to existing customers, attract new customers and satisfy our customers’ requirements; 
+
+•
+
+ the renewal rates for our service; 
+
+•
+
+ the amount and timing of operating costs and capital expenditures related to the operations and expansion of our business; 
+
+•
+
+ changes in our pricing policies whether initiated by us or as a result of intense competition; 
+
+•
+
+ the cost, timing and management effort for the introduction of new features to our service; 
+
+•
+
+ the rate of expansion and productivity of our sales force; 
+
+•
+
+ the length of the sales cycle for our service; 
+
+•
+
+ new product and service introductions by our competitors; 
+
+•
+
+ our success in selling our service to large enterprises; 
+
+•
+
+ variations in the revenue mix of editions of our service; 
+
+•
+
+ technical difficulties or interruptions in our service; 
+
+•
+
+ expenses related to increasing our data center capacity and expanding our data centers domestically and internationally; 
+
+•
+
+ changes in foreign currency exchange rates (as an example, recently the value of the Euro and British Pound have decreased against the U.S. dollar by
+approximately 13 percent and 28 percent, respectively from a year ago, and as such, our revenue results outside the Americas in fiscal 2009 have been negatively impacted); 
+
+•
+
+ changes in interest rates, which would impact our return on our investments in cash and marketable securities (as an example, the yield on the 2 year U.S. treasury
+bill has declined approximately 120 basis points from a year ago to 1.005 percent); 
+
+•
+
+ conditions, particularly sudden changes, in the financial markets have and may continue to impact the value of and access to our investment portfolio;
+
+•
+
+ changes in the effective tax rates; 
+
+•
+
+ general economic conditions could adversely affect either our customers’ ability or willingness to purchase our application service or delay the
+customers’ purchasing decision or affect renewal rates, all of which could adversely affect our operating results; 
+
+•
+
+ the seasonal nature of our invoicing, timing of additional investments in our enterprise cloud computing application service and in our consulting service;
+
+•
+
+ regulatory compliance costs; 
+
+•
+
+ the timing of customer payments and payment defaults by customers; 
+
+•
+
+ costs associated with acquisitions of companies and technologies, such as our August 2008 acquisition of InStranet, Inc.; 
+
+•
+
+ extraordinary expenses such as litigation or other dispute-related settlement payments; 
+
+•
+
+ the impact of new accounting pronouncements; and 
+
+•
+
+ the timing of stock awards to employees and the related adverse financial statement impact of having to expense those stock awards ratably over their 4 year vesting
+schedules. 
+
+18 
+
+Table of Contents
+
+Many of these factors are not within our control, and the occurrence of one or more of them might cause
+our operating results to vary widely. As such, we believe that quarter-to-quarter comparisons of our revenues, operating results and cash flows may not be meaningful and should not be relied upon as an indication of future performance. 
+
+We rely on third-party computer hardware and software that may be difficult to replace or which could cause errors or failures of our service.
+
+We rely on computer hardware purchased or leased and software licensed from third parties in order to offer our service, including
+database software from Oracle Corporation. This hardware and software may not continue to be available at reasonable prices or on commercially reasonable terms, or at all. Any loss of the right to use any of this hardware or software could
+significantly increase our expenses and otherwise result in delays in the provisioning of our service until equivalent technology is either developed by us, or, if available, is identified, obtained and integrated, which could harm our business. Any
+errors or defects in third-party hardware or software could result in errors or a failure of our service which could harm our business. 
+
+Efforts we are making to expand our service beyond the CRM market may not succeed and may reduce our revenue growth rate and cause us to incur additional liabilities. 
+
+In fiscal 2006 we introduced the AppExchange directory, an on-line marketplace for enterprise cloud computing applications that run on our Force.com cloud
+computing platform. The market for third-party on-demand applications and our platform is new and unproven, and it is uncertain whether the initiative will ever result in significant revenue for us. Among other things, the success of the AppExchange
+will depend to a substantial extent on the willingness of third-party technology providers to write enterprise cloud computing applications that run on our platform and the willingness of enterprises, large and small, to purchase and deploy these
+applications. If third-party technology providers or enterprises do not perceive the benefits of our on-line application marketplace, then the market for this initiative may not develop at all, or it may develop more slowly than we expect, either of
+which would affect our ability to grow our revenue. Given this new and unproven market, we have limited insight into trends that may develop and affect this initiative. In addition, our customers may not authorize such third-party technology
+providers to access their customer data. If our customers do authorize such access, we do not warrant the functionality, security and integrity of the data transmission or processing. Further, despite contract provisions designed to protect us,
+customers may look to us to support and warrant the third-party applications, which may expose us to potential claims, liabilities and obligations for applications we did not develop or sell. Moreover, the AppExchange directory, and other efforts to
+expand our service beyond the CRM market, may divert management resources from existing operations and require us to commit significant financial resources to an unproven business, which may harm our business. 
+
+The market for our technology delivery model and enterprise cloud computing application services is immature and volatile, and if it develops more
+slowly than we expect, our business could be harmed. 
+
+The market for enterprise cloud computing application services is not as
+mature as the market for packaged enterprise software, and it is uncertain whether these services will achieve and sustain high levels of demand and market acceptance. Our success will depend to a substantial extent on the willingness of
+enterprises, large and small, to increase their use of enterprise cloud computing application services in general, and for CRM in particular. Many enterprises have invested substantial personnel and financial resources to integrate traditional
+enterprise software into their businesses, and therefore may be reluctant or unwilling to migrate to an enterprise cloud computing application service. Furthermore, some enterprises may be reluctant or unwilling to use enterprise cloud computing
+application services because they have concerns regarding the risks associated with security capabilities, among other things, of the technology delivery model associated with these services. If enterprises do not perceive the benefits of enterprise
+cloud computing application services, then the market for these services may not develop at all, or it may develop more slowly than we expect, either of which would significantly adversely affect our operating results. In addition, we may make
+errors in predicting and reacting to relevant business trends, which could harm our business. Our success also depends on the willingness of third- 
+
+19 
+
+Table of Contents
+
+party developers to build applications that are complementary to our service. Without the development of these applications, both current and potential
+customers may not find our service sufficiently attractive. 
+
+The market in which we participate is intensely competitive, and if we
+do not compete effectively, our operating results could be harmed. 
+
+The market for CRM, enterprise business applications, and
+development platforms is highly competitive, rapidly evolving and fragmented, and subject to changing technology, shifting customer needs and frequent introductions of new products and services. Many prospective customers have invested substantial
+personnel and financial resources to implement and integrate traditional enterprise software into their businesses, and therefore may be reluctant or unwilling to migrate to an enterprise cloud computing application service. Additionally, third
+party developers may be reluctant to build application services on our platform since they have invested significantly in other competing technology products. 
+
+We compete primarily with vendors of packaged CRM software, whose software is installed by the customer directly, and companies offering on-demand CRM applications. We also compete with internally developed
+applications and face, or expect to face, competition from enterprise software vendors and online service providers who may develop toolsets and products that allow customers to build new applications that run on the customers’ current
+infrastructure or as hosted services. Our current principal competitors include: 
+
+•
+
+ enterprise software application vendors including Microsoft Corporation, Oracle Corporation, and SAP AG; 
+
+•
+
+ packaged CRM software vendors, some of which offer hosted services, such as CDC Software Corporation, a subsidiary of chinadotcom corporation, Consona Corporation
+(formerly Made2Manage Systems Inc.), Pivotal Corporation, which is owned by Sage Group plc, and SugarCRM; 
+
+•
+
+ on-demand CRM application service providers such as Microsoft Corporation, NetSuite, Inc., Oracle Corporation, RightNow Technologies, Inc., and SAP AG;
+
+•
+
+ enterprise application service providers including IBM Corporation and Oracle Corporation; 
+
+•
+
+ traditional platform and development environment companies, including established vendors, such as IBM Corporation, Microsoft Corporation, and Oracle Corporation;
+and an array of emerging vendors that have gained traction with the press and analyst communities; and 
+
+•
+
+ cloud computing development platform companies, including some with whom we are partners, others such as Microsoft Corporation, which has initiated plans to enter
+this market, and a variety of smaller start up companies that have invested in cloud computing technology. 
+
+In addition,
+we face competition from businesses that develop their own CRM applications internally, as well as from enterprise software vendors and online service providers who may develop and/or bundle CRM products with their products in the future. For small
+business customers, we also face competition from companies whose offering is based on Microsoft Outlook and Excel for limited contact management functionality. We also face competition from some of our larger and more established competitors who
+historically have been packaged CRM software vendors, but who also have directly competitive on-demand CRM application services offerings. 
+
+Our professional services organization may compete with some systems integrators, including Accenture Ltd., Deloitte Consulting and IBM Corporation; it may also compete with some ISV service providers that have service practices. We have
+close relationships with many of these consulting companies and frequently work cooperatively on projects with them. 
+
+Many of our
+competitors and potential competitors enjoy substantial competitive advantages, such as greater name recognition, longer operating histories and larger marketing budgets, as well as substantially greater 
+
+20 
+
+Table of Contents
+
+financial, technical and other resources. In addition, many of our competitors have established marketing relationships and access to larger customer bases,
+and have major distribution agreements with consultants, system integrators and resellers. 
+
+As a result, our competitors may be able to
+respond more quickly and effectively than we can to new or changing opportunities, technologies, standards or customer requirements. Furthermore, because of these advantages, even if our service is more effective than the products that our
+competitors offer, potential customers might accept competitive products and services in lieu of purchasing our service. For all of these reasons, we may not be able to compete successfully against our current and future competitors. 
+
+If our enterprise cloud computing application service is not widely accepted in markets where we have few customers, our future growth will be
+limited. 
+
+We derive substantially all of our revenue from subscriptions to our enterprise cloud computing application service, and
+we expect this will continue for the foreseeable future. As a result, widespread acceptance of our service by companies located outside the United States or in industries where we currently have few customers is critical to our future growth.
+Factors that may affect market acceptance of our service include: 
+
+•
+
+ reluctance by enterprises to migrate to an enterprise cloud computing application service; 
+
+•
+
+ a limited number of service offerings and risks associated with developing new service offerings; 
+
+•
+
+ the price and performance of our service; 
+
+•
+
+ the level of customization we can offer; 
+
+•
+
+ the location of our data centers; 
+
+•
+
+ the availability, performance and price of competing products and services; 
+
+•
+
+ reluctance by enterprises to trust third parties to store and manage their internal data; and 
+
+•
+
+ adverse publicity about us, our service or the viability, reliability or security of enterprise cloud computing application services generally from third party
+reviews, industry analyst reports and our competitors. 
+
+Many of these factors are beyond our control. The inability of
+our enterprise cloud computing application service to achieve widespread market acceptance as described above would harm our business. 
+
+Our past and anticipated future growth could strain our personnel resources and infrastructure, and if we are unable to implement appropriate controls and procedures to manage our growth, we may not be able to successfully implement
+our business plan. 
+
+We have experienced and may continue to experience a period of increasing headcount and growth in our operations
+to support a growing customer base, which has placed, and will continue to place, to the extent that we are able to sustain such growth, a significant strain on our management, administrative, operational and financial infrastructure. We anticipate
+that additional investments in our infrastructure will be required to address increases in our customer base, further development of our service, as well as our expansion into new geographic areas. 
+
+Our success will depend in part upon the ability of our senior management to manage this growth effectively. To do so, we must continue to hire, train
+and manage new employees as needed. If our new hires perform poorly, or if we are unsuccessful in hiring, training, managing and integrating these new employees, or if we are not successful in retaining our existing employees, our business may be
+harmed. To manage the expected domestic and international growth of our operations and personnel, we will need to continue to improve our operational, financial and management controls and our reporting systems and procedures. The additional 
+
+21 
+
+Table of Contents
+
+headcount and capital investments we are making will increase our cost base, which will make it more difficult for us to offset any future revenue shortfalls
+by reducing expenses in the short term. If we fail to successfully manage our growth, we will be unable to execute our business plan. 
+
+As more of our sales efforts are targeted at larger enterprise customers, our sales cycle may become more time-consuming and expensive, we may encounter pricing pressure and implementation challenges, and we may have to delay revenue
+recognition for some complex transactions, all of which could harm our business and operating results. 
+
+As we target more of our
+sales efforts at larger enterprise customers, we will face greater costs, longer sales cycles and less predictability in completing some of our sales. In this market segment, the customer’s decision to use our service may be an enterprise-wide
+decision and, if so, these types of sales would require us to provide greater levels of education regarding the use and benefits of our service, as well as education regarding privacy and data protection laws and regulations to prospective customers
+with international operations. In addition, larger customers may demand more customization, integration services and features. As a result of these factors, these sales opportunities may require us to devote greater sales support and professional
+services resources to individual customers, driving up costs and time required to complete sales and diverting sales and professional services resources to a smaller number of larger transactions, while potentially requiring us to delay revenue
+recognition on some of these transactions until the technical or implementation requirements have been met. 
+
+Periodic restructurings
+of our sales organization can be disruptive and may negatively impact our revenues. 
+
+We periodically restructure or make other
+adjustments to our sales organization in response to market opportunities, competitive threats, management changes, product introductions or enhancements, sales performance, increases in sales headcount, cost levels, and other internal and external
+considerations. In the past, these restructurings sometimes resulted in a temporary lack of focus and reduced productivity; these effects could recur in connection with any future sales restructurings we might undertake and our rate of revenue
+growth could be negatively affected. 
+
+If we are not able to develop enhancements and new features to our existing service or
+acceptable new services that keep pace with technological developments, our business will be harmed. 
+
+If we are unable to develop
+enhancements to and new features for our existing service or acceptable new services that keep pace with rapid technological developments, our business will be harmed. The success of enhancements, new features and services depends on several
+factors, including the timely completion, introduction and market acceptance of the feature or edition. Failure in this regard may significantly impair our revenue growth. In addition, because our service is designed to operate on a variety of
+network hardware and software platforms using a standard browser, we will need to continuously modify and enhance our service to keep pace with changes in Internet-related hardware, software, communication, browser and database technologies. We may
+not be successful in either developing these modifications and enhancements or in timely bringing them to market. Furthermore, uncertainties about the timing and nature of new network platforms or technologies, or modifications to existing platforms
+or technologies, could increase our research and development expenses. Any failure of our service to operate effectively with future network platforms and technologies could reduce the demand for our service, result in customer dissatisfaction and
+harm our business. 
+
+Any failure to protect our intellectual property rights could impair our ability to protect our proprietary
+technology and our brand. 
+
+If we fail to protect our intellectual property rights adequately, our competitors might gain access to
+our technology, and our business might be harmed. In addition, defending our intellectual property rights might entail significant expense. Any of our trademarks or other intellectual property rights may be challenged by others or 
+
+22 
+
+Table of Contents
+
+invalidated through administrative process or litigation. While we have a few U.S. patents and many other U.S. patent applications pending, we may be unable
+to obtain patent protection for the technology covered in our patent applications. In addition, our existing patents and any patents issued in the future may not provide us with competitive advantages, or may be successfully challenged by third
+parties. Furthermore, legal standards relating to the validity, enforceability and scope of protection of intellectual property rights are uncertain. Effective patent, trademark, copyright and trade secret protection may not be available to us in
+every country in which our service is available. The laws of some foreign countries may not be as protective of intellectual property rights as those in the U.S., and mechanisms for enforcement of intellectual property rights may be inadequate.
+Accordingly, despite our efforts, we may be unable to prevent third parties from infringing upon or misappropriating our intellectual property. 
+
+We might be required to spend significant resources to monitor and protect our intellectual property rights. We may initiate claims or litigation against third parties for infringement of our proprietary rights or to establish the validity
+of our proprietary rights. Any litigation, whether or not it is resolved in our favor, could result in significant expense to us and divert the efforts of our technical and management personnel. 
+
+We have been and may in the future be sued by third parties for alleged infringement of their proprietary rights. 
+
+The software and Internet industries are characterized by the existence of a large number of patents, trademarks and copyrights and by frequent litigation
+based on allegations of infringement or other violations of intellectual property rights. We have received in the past, and may receive in the future, communications from third parties claiming that we have infringed on the intellectual property
+rights of others. In addition, we have been, and may in the future be, sued by third parties for alleged infringement of their proprietary rights. Our technologies may not be able to withstand any third-party claims or rights against their use. Any
+intellectual property claims, with or without merit, could be time-consuming and expensive to resolve, could divert management attention from executing our business plan and could require us to pay monetary damages or enter into royalty or licensing
+agreements. In addition, many of our subscription agreements require us to indemnify our customers for third-party intellectual property infringement claims, which would increase the cost to us of an adverse ruling on such a claim. An adverse
+determination could also prevent us from offering our service to others. 
+
+If we fail to develop our brands cost-effectively, our
+business may suffer. 
+
+We believe that developing and maintaining awareness of the salesforce.com brand and our other brands in a
+cost-effective manner is critical to achieving widespread acceptance of our existing and future services and is an important element in attracting new customers. Furthermore, we believe that the importance of brand recognition will increase as
+competition in our market develops. Successful promotion of our brands will depend largely on the effectiveness of our marketing efforts and on our ability to provide reliable secure and useful services at competitive prices. In the past, our
+efforts to build our brands have involved significant expense. Brand promotion activities may not yield increased revenue, and even if they do, any increased revenue may not offset the expenses we incurred in building our brands. If we fail to
+successfully promote and maintain our brands, or incur substantial expenses in an unsuccessful attempt to promote and maintain our brands, we may fail to attract enough new customers or retain our existing customers to the extent necessary to
+realize a sufficient return on our brand-building efforts, and our business could suffer. 
+
+Failure to adequately expand our direct
+sales force and develop and expand our indirect sales channel will impede our growth. 
+
+We continue to be substantially dependent on
+our direct sales force to obtain new customers, particularly large enterprise customers, and to manage our customer base. We believe that there is significant competition for direct sales personnel with the advanced sales skills and technical
+knowledge we need. Our ability to achieve 
+
+23 
+
+Table of Contents
+
+significant growth in revenue in the future will depend, in large part, on our success in recruiting, training and retaining sufficient numbers of direct
+sales personnel. New hires require significant training and may, in some cases, take more than a year before they achieve full productivity. Our recent hires and planned hires may not become as productive as we would like, and we may be unable to
+hire sufficient numbers of qualified individuals in the future in the markets where we do business. If we are unable to hire and develop sufficient numbers of productive direct sales personnel, sales of our service will suffer and our growth will be
+impeded. In addition, we plan to develop and expand our indirect sales channel by engaging third-party resellers. Because of our enterprise cloud computing service model, the structuring of such relationships is complex and requires the investment
+of significant business, financial and other resources. If we are unable to structure successful third-party channel relationships that enable us to enter markets we otherwise would have greater difficulty entering, our growth will be inhibited.
+
+Our business could be adversely affected if our customers are not satisfied with implementation and customization services provided
+by us or our partners. 
+
+Our business depends on our ability to satisfy our customers, both with respect to our CRM service and
+platform and the professional services that customize our CRM service and platform to meet our customers’ business needs. Professional services may be performed by our own staff, or by a third party or a combination of the two. Our strategy is
+to work with third parties to increase the breadth of capability and depth of capacity for delivery of these services to our customers. If a customer is not satisfied with the quality of work performed by us or a third party or with the type of
+services or solutions delivered, then we could incur additional costs to address the situation, the profitability of that work might be impaired, and the customer’s dissatisfaction with our services could damage our ability to obtain additional
+work from that customer. In addition, negative publicity related to our customer relationships, regardless of its accuracy, may further damage our business by affecting our ability to compete for new business with current and prospective customers.
+
+Sales to customers outside the United States expose us to risks inherent in international sales. 
+
+Because we sell our service throughout the world, we are subject to risks and challenges that we would otherwise not face if we conducted our business
+only in the United States. For example, sales in Europe and Asia Pacific together represent over 25 percent of our total revenues, and we intend to continue to expand our international sales efforts. The risks and challenges associated with sales to
+customers outside the United States include: 
+
+•
+
+ localization of our service, including translation into foreign languages and associated expenses; 
+
+•
+
+ laws and business practices favoring local competitors; 
+
+•
+
+ compliance with multiple, conflicting and changing governmental laws and regulations, including employment, tax, privacy and data protection laws and regulations;
+
+•
+
+ regional data privacy laws that apply to the transmission of our customers’ data across international borders; 
+
+•
+
+ foreign currency fluctuations; 
+
+•
+
+ different pricing environments; 
+
+•
+
+ difficulties in staffing and managing foreign operations; 
+
+•
+
+ different or lesser protection of our intellectual property; 
+
+•
+
+ longer accounts receivable payment cycles and other collection difficulties; 
+
+•
+
+ regional economic conditions, including the affect of general economic and financial market conditions in the markets in which we operate outside the United States;
+and 
+
+•
+
+ regional political conditions. 
+
+24 
+
+Table of Contents
+
+Any of these factors could negatively impact our business and results of operations. 
+
+Additionally, some of our international subscription fees are currently paid in local currency. As a result, fluctuations in the value of the U.S. dollar
+and foreign currencies may make our service more expensive for international customers, which could harm our business. 
+
+Evolving
+regulation of the Internet may affect us adversely. 
+
+As Internet commerce continues to evolve, increasing regulation by federal,
+state or foreign agencies becomes more likely. For example, we believe increased regulation is likely in the area of data privacy, and laws and regulations applying to the solicitation, collection, processing or use of personal or consumer
+information could affect our customers’ ability to use and share data, potentially reducing demand for CRM solutions and restricting our ability to store, process and share data with our customers. In addition, taxation of services provided
+over the Internet or other charges imposed by government agencies or by private organizations for accessing the Internet may also be imposed. Any regulation imposing greater fees for Internet use or restricting information exchange over the Internet
+could result in a decline in the use of the Internet and the viability of Internet-based services, which could harm our business. 
+
+Privacy concerns and laws or other domestic or foreign regulations may reduce the effectiveness of our solution and adversely affect our business. 
+
+Our customers can use our service to store contact and other personal or identifying information regarding their customers and contacts. Federal, state and foreign government bodies and agencies, however, have adopted
+or are considering adopting laws and regulations regarding the collection, use and disclosure of personal information obtained from consumers and individuals. The costs of compliance with, and other burdens imposed by, such laws and regulations that
+are applicable to the businesses of our customers may limit the use and adoption of our service and reduce overall demand for it. Furthermore, privacy concerns may cause our customers’ customers to resist providing the personal data necessary
+to allow our customers to use our service effectively. Even the perception of privacy concerns, whether or not valid, may inhibit market adoption of our service in certain industries. 
+
+For example, in the United States regulations such as the Gramm-Leach-Bliley Act, which protects and restricts the use of consumer credit and financial
+information, and the Health Insurance Portability and Accountability Act of 1996, which regulates the use and disclosure of personal health information, impose significant requirements and obligations on businesses that may affect the use and
+adoption of our service. 
+
+The European Union has also adopted a data privacy directive that requires member states to impose restrictions
+on the collection and use of personal data that, in some respects, are far more stringent, and impose more significant burdens on subject businesses, than current privacy standards in the United States. All of these domestic and international
+legislative and regulatory initiatives may adversely affect our customers’ ability to collect and/or use demographic and personal information from their customers, which could reduce demand for our service. Many if not most other jurisdictions,
+including Asia countries, have similar stringent privacy laws and regulations. 
+
+In addition to government activity, privacy advocacy groups
+and the technology and other industries are considering various new, additional or different self-regulatory standards that may place additional burdens on us. If the gathering of personal information were to be curtailed in this manner, CRM
+solutions would be less effective, which may reduce demand for our service and harm our business. 
+
+25 
+
+Table of Contents
+
+We are dependent on our management team and development and operations personnel, and the loss of
+one or more key employees or groups could harm our business and prevent us from implementing our business plan in a timely manner. 
+
+Our success depends substantially upon the continued services of our executive officers and other key members of management, particularly our Chief Executive Officer. From time to time, there may be changes in our executive management team
+resulting from the hiring or departure of executives. Such changes in our executive management team may be disruptive to our business. 
+
+We
+are also substantially dependent on the continued service of our existing development and operations personnel because of the complexity of our service and technologies. 
+
+We do not have employment agreements with any of our executive officers, key management, development or operations personnel and, therefore, they could terminate their employment with us at any time. We do not
+maintain key person life insurance policies on any of our employees. The loss of one or more of our key employees or groups could seriously harm our business. 
+
+Because competition for our target employees is intense, we may not be able to attract and retain the highly skilled employees we need to support our planned growth. 
+
+To continue to execute on our business plan, we must attract and retain highly qualified personnel. Competition for these personnel is intense, especially
+for engineers with high levels of experience in designing and developing software and Internet-related services and senior sales executives. We may not be successful in attracting and retaining qualified personnel. We have from time to time in the
+past experienced, and we expect to continue to experience in the future, difficulty in hiring and retaining highly skilled employees with appropriate qualifications. Many of the companies with which we compete for experienced personnel have greater
+resources than we have. In addition, job candidates and existing employees often consider the value of the stock awards they are to receive in connection with their employment. Volatility in the price of our stock and the cost to expense stock
+options may discourage us from granting the size or type of stock awards that job candidates require to join or stay with our company. If we fail to attract new personnel or fail to retain and motivate our current personnel, our business and future
+growth prospects could be severely harmed. 
+
+As we acquire companies or technologies in the future, they could prove difficult to
+integrate, disrupt our business, dilute stockholder value and adversely affect our operating results and the value of our common stock. 
+
+As part of our business strategy, we may acquire, enter into joint ventures with or make investments in complementary companies, services and technologies in the future. In August 2008, we acquired InStranet, Inc. Acquisitions and
+investments involve numerous risks, including: 
+
+•
+
+ the potential failure to achieve the expected benefits of the combination or acquisition; 
+
+•
+
+ difficulties in and the cost of integrating operations, technologies, services and personnel; 
+
+•
+
+ diversion of financial and managerial resources from existing operations; 
+
+•
+
+ risk of entering new markets in which we have little or no experience; 
+
+•
+
+ potential write-offs of acquired assets or investments; 
+
+•
+
+ potential loss of key employees; 
+
+•
+
+ inability to generate sufficient revenue to offset acquisition or investment costs; 
+
+•
+
+ the inability to maintain relationships with customers and partners of the acquired business; 
+
+•
+
+ the difficulty of incorporating acquired technology and rights into our products and services and of maintaining quality standards consistent with our brand;
+
+26 
+
+Table of Contents
+
+•
+
+ potential unknown liabilities associated with the acquired businesses; 
+
+•
+
+ unanticipated expenses related to acquired technology and its integration into existing technology; 
+
+•
+
+ negative impact to our results of operations because of the depreciation and amortization of amounts related to acquired intangible assets, fixed assets and
+deferred compensation, and the loss of acquired deferred revenue; 
+
+•
+
+ delays in customer purchases due to uncertainty; 
+
+•
+
+ the need to implement controls, procedures and policies appropriate for a public company at companies that prior to the acquisition lacked such controls, procedures
+and policies; and 
+
+•
+
+ challenges caused by distance, language and cultural differences. 
+
+In addition, if we finance acquisitions by issuing convertible debt or equity securities, our existing stockholders may be diluted which could affect the market price of our stock. Further, if we fail to properly
+evaluate and execute acquisitions or investments, our business and prospects may be seriously harmed and the value of our common stock may decline. 
+
+Our business is subject to changing regulations regarding corporate governance and public disclosure that have increased both our costs and the risk of non-compliance. 
+
+We are subject to rules and regulations by various governing bodies, including, for example, the Securities and Exchange Commission, which are charged
+with the protection of investors and the oversight of companies whose securities are publicly traded. Our efforts to comply with new and changing regulations have resulted in and are likely to continue to result in, increased general and
+administrative expenses and a diversion of management time and attention from revenue-generating activities to compliance activities. 
+
+We
+are required to comply on an on-going basis with the Sarbanes-Oxley Act, or SOX, requirements involving the assessment of our internal controls over financial reporting. Our efforts to comply with the SOX requirements have required, and will
+continue to require the commitment of significant financial and personnel resources. 
+
+Moreover, because these laws, regulations and
+standards are subject to varying interpretations, their application in practice may evolve over time as new guidance becomes available. This evolution may result in continuing uncertainty regarding compliance matters and additional costs
+necessitated by ongoing revisions to our disclosure and governance practices. If we fail to address and comply with these regulations and any subsequent changes, our business may be harmed. 
+
+Unanticipated changes in our effective tax rate could adversely affect our future results. 
+
+We are subject to income taxes in the United States and various foreign jurisdictions, and our domestic and international tax liabilities are subject to
+the allocation of expenses in differing jurisdictions. 
+
+Our effective tax rate has fluctuated over the past fiscal year. The tax rate is
+affected by changes in the mix of earnings and losses in countries with differing statutory tax rates, certain non-deductible expenses arising from stock option compensation and the valuation of deferred tax assets and liabilities. Increases in our
+effective tax rate could materially affect our net results. 
+
+Natural disasters and other events beyond our control could materially
+adversely affect us. 
+
+Natural disasters or other catastrophic events may cause damage or disruption to our operations, international
+commerce and the global economy, and thus could have a strong negative effect on us. Our business operations are subject to interruption by natural disasters, fire, power shortages, and other events beyond our 
+
+27 
+
+Table of Contents
+
+control. Although we maintain crisis management and disaster response plans, such events could make it difficult or impossible for us to deliver our services
+to our customers, and could decrease demand for our services. The majority of our research and development activities, corporate headquarters, information technology systems, and other critical business operations, are located near major
+seismic faults in the San Francisco Bay Area. Because we do not carry earthquake insurance for direct quake-related losses, and significant recovery time could be required to resume operations, our financial condition and operating results could be
+materially adversely affected in the event of a major earthquake or catastrophic event. 
+
+Risks Related to Ownership of Our Common Stock 
+
+The trading price of our common stock is likely to be volatile and could subject us to litigation. 
+
+The trading prices of the securities of technology companies have been highly volatile. Accordingly, the trading price of our common stock has been and is
+likely to continue to be subject to wide fluctuations. For example, during the year ended January 31, 2009, the trading price of our common stock has ranged from a closing price of $21.96 to $74.43 per share. Factors affecting the trading price
+of our common stock include: 
+
+•
+
+ variations in our operating results, earnings per share, cash flows from operating activities, deferred revenue, and other financial metrics and non-financial
+metrics, and how those results compare to analyst expectations; 
+
+•
+
+ forward looking guidance to industry and financial analysts related to future revenue and earnings per share; 
+
+•
+
+ the net increases in the number of customers and paying subscriptions, either independently or as compared with published expectations of industry, financial or
+other analysts that cover our company; 
+
+•
+
+ changes in the estimates of our operating results or changes in recommendations by securities analysts that elect to follow our common stock;
+
+•
+
+ announcements of technological innovations, new services or service enhancements, strategic alliances or significant agreements by us or by our competitors;
+
+•
+
+ announcements by us or by our competitors of mergers or other strategic acquisitions, or rumors of such transactions involving us or our competitors;
+
+•
+
+ announcements of customer additions and customer cancellations or delays in customer purchases; 
+
+•
+
+ recruitment or departure of key personnel; 
+
+•
+
+ disruptions in our service due to computer hardware, software or network problems; 
+
+•
+
+ the economy as a whole, market conditions in our industry, and the industries of our customers; and 
+
+•
+
+ trading activity by a limited number of stockholders who together beneficially own a majority of our outstanding common stock. 
+
+In addition, if the market for technology stocks or the stock market in general experiences uneven investor confidence, the trading price of our common
+stock could decline for reasons unrelated to our business, operating results or financial condition. The trading price of our common stock might also decline in reaction to events that affect other companies within, or outside, our industry even if
+these events do not directly affect us. 
+
+If securities analysts stop publishing research or reports about us or our business or if
+they downgrade our stock, the price of our stock could decline. 
+
+The trading market for our common stock relies in part on the
+research and reports that industry or financial analysts publish about us or our business. We do not control these analysts. If one or more of the analysts who do cover us downgrade our stock or lower their future stock price targets or estimates of
+our operating results, our 
+
+28 
+
+Table of Contents
+
+stock price could decline rapidly. Furthermore, if one or more of these analysts cease coverage of our company, we could lose visibility in the market, which
+in turn could cause our stock price to decline. 
+
+The concentration of our capital stock ownership with insiders will likely limit
+your ability to influence corporate matters. 
+
+Our executive officers, directors, and several stockholders and their affiliated
+entities together beneficially own a majority of our outstanding common stock. 
+
+As a result, these stockholders, if they act together or in
+a block, could have significant influence over most matters that require approval by our stockholders, including the election of directors and approval of significant corporate transactions, even if other stockholders oppose them. This concentration
+of ownership might also have the effect of delaying or preventing a change of control of our company that other stockholders may view as beneficial. 
+
+Provisions in our amended and restated certificate of incorporation and bylaws and Delaware law might discourage, delay or prevent a change of control of our company or changes in our management and, therefore,
+depress the trading price of our common stock. 
+
+Our amended and restated certificate of incorporation and bylaws contain provisions
+that could depress the trading price of our common stock by acting to discourage, delay or prevent a change in control of our company or changes in our management that the stockholders of our company may deem advantageous. These provisions among
+other things: 
+
+•
+
+ establish a classified board of directors so that not all members of our board are elected at one time; 
+
+•
+
+ permit the board of directors to establish the number of directors; 
+
+ •
+
+ provide that directors may only be removed “for cause” and only with the approval of 66 2
+
+/
+3
+ percent of our stockholders; 
+
+•
+
+ require super-majority voting to amend some provisions in our amended and restated certificate of incorporation and bylaws; 
+
+•
+
+ authorize the issuance of “blank check” preferred stock that our board could use to implement stockholder rights (also known as a “poison
+pill”); 
+
+•
+
+ eliminate the ability of our stockholders to call special meetings of stockholders; 
+
+•
+
+ prohibit stockholder action by written consent, which requires all stockholder actions to be taken at a meeting of our stockholders; 
+
+•
+
+ provide that the board of directors is expressly authorized to make, alter or repeal our bylaws; and 
+
+•
+
+ establish advance notice requirements for nominations for election to our board or for proposing matters that can be acted upon by stockholders at annual
+stockholder meetings. 
+
+In addition, Section 203 of the Delaware General Corporation Law may discourage, delay or
+prevent a change in control of our company. Section 203 imposes certain restrictions on merger, business combinations and other transactions between us and holders of 15 percent or more of our common stock.

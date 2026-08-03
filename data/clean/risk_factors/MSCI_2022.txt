@@ -1,0 +1,479 @@
+You should carefully consider the following risks and all of the other information set forth in this Annual Report on Form 10-K. If any of the following risks actually occurs, our business, financial condition or results of operations could be materially and adversely affected. You should read the section titled “Forward-Looking Statements” on page 1 for a description of the types of statements that are considered forward-looking statements, as well as the significance of such statements in the context of this Annual Report on Form 10-K. This information should be read in conjunction with "Management’s Discussion and Analysis of Financial Condition and Result of Operations" and the consolidated financial statements and related notes. These factors could cause our future results to differ materially from our historical results and from expectations reflected in forward-looking statements. 
+
+Summary of Risk Factors
+
+Our business is subject to numerous risks and uncertainties, discussed in more detail in the following section. These risks include, among others, the following key risks:
+
+•
+
+Our dependence on third parties to supply data, applications and services for our products and services and on certain vendors to distribute our products;
+
+•
+
+Undetected errors, defects, malfunctions or similar problems in our products leading to increased costs or liability;
+
+•
+
+The impact of the COVID-19 pandemic or other widespread health crises;
+
+•
+
+Our exposure to potential reputational and credibility concerns;
+
+•
+
+The possibility that our clients seek to negotiate lower asset-based fees or cease using our indexes as the basis for indexed investment products;
+
+•
+
+Cancellations or reductions by any of our largest clients and/or reduced demand for our products or services;
+
+•
+
+The impact of failures, disruptions, instability or vulnerabilities in our information technology systems or applications;
+
+•
+
+Our inability to ensure and protect the confidentiality of data;
+
+•
+
+Our exposure to cyber-attacks or failures of our cyber-security plans, systems or procedures;
+
+•
+
+Unanticipated failures, interruptions or delays in the performance or delivery of our products as a result of the adoption of new technologies;
+
+•
+
+Security vulnerabilities resulting from our use of open source code;
+
+•
+
+The impact of changes in the global capital markets;
+
+•
+
+The effects on us from competition and financial and budgetary pressures affecting our clients;
+
+•
+
+Our need to successfully develop new and enhanced products and services in order to remain competitive;
+
+•
+
+The impact of our global operations and any future expansion on management and our exposure to additional issues from our increased global footprint;
+
+•
+
+New regulations or changes to current regulations;
+
+•
+
+Our inability to protect our intellectual property rights;
+
+•
+
+The impact of foreign currency exchange rate fluctuation;
+
+•
+
+The impact of our indebtedness on our financial flexibility;
+
+•
+
+The impact of changes in our credit ratings; and
+
+•
+
+Our exposure to tax liabilities in various jurisdictions.
+
+15
+
+Operational Risks
+
+We are dependent on third parties to supply data, applications and services for our products and services and are dependent on certain vendors to distribute our products. A refusal or failure by a key vendor to distribute our products or any loss of key outside suppliers of data, applications or services or a reduction in the accuracy or quality of such data, applications or services or any failure by us to comply with our suppliers’ or distributors’ licensing requirements could impair our ability to provide our clients with our products and services, which could have a material adverse effect on our business, financial condition or results of operations.
+
+We rely on third-party suppliers of data, applications and services, including data from stock exchanges (“Vendor Products”), and depend on the accuracy and quality of Vendor Products and the ability and willingness of such suppliers to deliver, support, enhance and develop new Vendor Products on a timely and cost-effective basis, and respond to emerging industry needs and other changes in order to produce, deliver and develop our products and services. Additionally, we depend on clients to supply certain data in order to provide our services to them. Any failure to supply, errors or reduction in the amount, accuracy or quality of such data supplied from clients impairs our ability to provide them with our products and services.
+
+If Vendor Products include errors, design defects, are delayed, become incompatible with future versions of our products, are unavailable on acceptable terms or are not available at all, we may not be able to deliver our products and services. In addition, in the ordinary course suppliers of Vendor Products are subject to various forms of cyber-attacks. Breaches of our suppliers’ systems and networks may cause material interruptions or malfunctions in our or such suppliers’ websites, applications or data processing, or may compromise the confidentiality and integrity of affected information.
+
+Some of our agreements with third-party suppliers allow them to cancel on short notice and from time to time we receive notices from third-party suppliers threatening to terminate the provision of their products or services to us, and some data suppliers have terminated the provision of their data to us. Termination of the provision of Vendor Products by one or more of our significant suppliers or exclusion from, or restricted use of, or litigation in connection with Vendor Products could decrease the data and materials available for us to use and deliver to our clients. In addition, some of our competitors could enter into exclusive contracts with our data suppliers, including with certain stock exchanges. If our competitors enter into such exclusive contracts, we may be precluded from receiving certain data or other materials from these suppliers or restricted in our use of such data or other materials, which would give our competitors a competitive advantage. Such exclusive contracts could hinder our ability to create our products and services or to provide our clients with the data or other products or services they prefer, which could lead to a decrease in our client base.
+
+Despite our efforts to comply with the licensing requirements of Vendor Products, our use of certain Vendor Products has been challenged in the past and there can be no assurance that third parties may not challenge our use in the future, resulting in increased acquisition or licensing costs, loss of rights and/or costly legal actions. Our business could be materially adversely affected if we are unable to timely or effectively replace the data or functionality provided by Vendor Products that become unavailable or fail to operate effectively for any reason. Our operating costs could increase if additional license fees are imposed or current license fees increase or the efforts to incorporate enhancements to Vendor Products are substantial and we are unable to negotiate acceptable licensing arrangements with these suppliers or find alternative sources of equivalent products or services. If any of these risks materialize, they could have a material adverse effect on our business, financial condition or results of operations.
+
+We also rely on certain third-party vendors to distribute our data to clients. While some of our vendors generate revenue in connection with distributing our data, others do not derive a direct financial benefit. Should any of our key vendors refuse to distribute our data for any reason or require that we pay them new or additional fees in connection with the distribution of our data, we would need to find alternative ways to distribute our data or lose revenue or profitability for certain products, which may have a material adverse effect on our business, financial condition or results of operations.
+
+If our products contain undetected errors or fail to perform properly due to defects, malfunctions or similar problems, we may, among other things, become subject to increased costs or liability based on the use of our products or services to support our clients’ investment processes, which could have a material adverse effect on our business, financial condition or results of operations.
+
+Our products and services support the investment processes of our clients, which relate to, in the aggregate, trillions of dollars in assets. Products or services we develop or license may contain undetected errors or defects despite testing or other quality assurance practices. Use of our products or services as part of the investment process 
+
+16
+
+creates the risk that our clients, the parties whose assets are managed by our clients
+, investors in investment products linked to our indexes,
+ the companies that we rate or assess in our ESG 
+solutions
+
+or the shareholders of those companies, 
+may pursue claims against us based on even a small error in our data, calculations, methodologies or analysis or a malfunction or failure in our systems, products or services.
+
+Errors or defects can exist at any point in a product’s lifecycle, but are frequently found after introduction of new products or services or enhancements to existing products. We continually introduce new methodologies and products, and new versions of and updates to our existing products or services. Despite internal testing and in some cases testing or use by clients, our products or services may contain errors in our data, calculations, methodologies or analysis, including serious defects or malfunctions. If we detect any errors before we release or deliver a product or service or publish a methodology or analysis, we might have to suspend or delay the product or service release or delivery for an extended period of time while we address the problem. We may not discover errors that affect our products or services or enhancements until after they are deployed, and we may need to provide enhancements or corrections to address such errors, and in certain cases it may be impracticable to do so. If undetected errors exist in our products or services, or if our products or services fail to perform properly due to defects, malfunctions or similar problems, it could result in harm to our brand or reputation, significantly increased costs, lost sales, delays in commercial release, third-party claims, contractual disputes, negative publicity, delays in or loss of market acceptance of our products or services, license terminations or renegotiations and/or unexpected expenses and diversion of resources to remedy or mitigate such errors, defects or malfunctions. The realization of any of these events could materially adversely affect our business, financial condition or results of operations. 
+
+While we have provisions in our client contracts that are designed to limit our liability from claims brought by our clients or third parties relating to our products or services, these provisions could be invalidated or fail to adequately limit our liability. In addition, clients also increasingly require us to provide contractual assurances regarding our risk management and security practices or policies, and many of our clients in the financial services sector are subject to regulations and requirements to adopt risk management processes to oversee their third-party relationships. Contractual disputes could result in the provision of credits, adverse monetary judgments and other penalties and damages. Any such claims brought against us, even if the outcome were to be ultimately favorable to us, would require attention of our management, personnel, financial and other resources and could have a negative impact on our reputation or pose a significant disruption to our normal business operations. In addition, the duration or outcome of such claims and lawsuits is difficult to predict, which could further exacerbate the adverse effect they may have on our business, financial condition or results of operations.
+
+The COVID-19 pandemic, or other widespread health crises, could have a material adverse effect on our business, financial condition or results of operations. 
+
+The COVID-19 pandemic has caused significant economic disruption, including volatility in the global equity markets. Our operations have been affected by a range of external factors related to the COVID-19 pandemic that are not within our control, including the imposition in many jurisdictions of a wide range of restrictions on the physical movement of our employees and vendors to limit the spread of COVID-19. Even though some initial measures have been relaxed, certain restrictions have been reinstated as new variants of COVID-19 have emerged, and other measures may be put back into place or increased if the spread of the COVID-19 pandemic continues or increases in the future. While we were not materially impacted in 2021, due to ongoing uncertainty related to the duration, magnitude and impact of the COVID-19 pandemic, and the volatile regional and global economic conditions stemming from the pandemic, its potential effects on our business are uncertain and difficult to predict, but may include: 
+
+•
+
+significant
+ failures, errors, delays, disruptions or instability affecting our key products or services, vendors, suppliers, distributors, information technology platforms, data centers, production and delivery systems, applications or processes, including those that negatively affect our ability to calculate, process or distribute our products or service our clients effectively; 
+
+•
+
+adverse equity market conditions, volatility in the financial markets and unforeseen investment trends resulting in a reduction in our asset-based fees, increased cancellations and reduced demand for our products and services; 
+
+•
+
+prolonged selling cycles and increased pressures to reduce our fees on account of heightened financial and budgetary pressures affecting our clients (for example, in response to the COVID-19 pandemic, we selectively gave clients access to services licensed under a subscription agreement prior to the beginning of the fee period at no cost to help drive business in key areas); 
+
+17
+
+•
+
+an inability to sustain revenue growth through obtaining new clients and achieving and maintaining a high level of renewal rates with respect to our existing clients; 
+
+•
+
+delays in our ability to collect on our accounts receivables; 
+
+•
+
+increasing tax costs as the jurisdictions in which we do business globally may seek to generate additional revenues to offset revenue shortfalls created by the challenging operating environment and stimulus packages;  
+
+•
+
+a deterioration of worldwide credit and financial markets that could limit our ability to obtain necessary external financing to fund our operations and capital expenditures; and 
+
+•
+
+increased strain on our workforce, management and other resources, including employee absenteeism, complications from working remotely and illness of key personnel. 
+
+These effects, alone or taken together, could have a material adverse effect on our business, financial condition or results of operations. If the COVID-19 pandemic is sustained or prolonged, these effects could be exacerbated. Additionally, many of the other risk factors described in this Item may be exacerbated or the likelihood of such risks materializing may be increased by global widespread health crises such as the COVID-19 pandemic and the volatile regional and global economic conditions stemming from the pandemic and responses to the pandemic.
+
+We cannot assure you that we will be successful in our attempts to mitigate any negative effects of this global pandemic on our business, including implementing our business continuity plans and processes, transitioning to remote and flexible-work models globally, proactively reducing costs intended to allow us to protect against further downside revenue risk, and investing in additional initiatives to support our long-term growth, while also focusing on maintaining liquidity and capital structure flexibility.
+
+We closely monitor the impact of the COVID-19 pandemic and continually assess its potential effects on our business and take appropriate actions in accordance with the recommendations and requirements of relevant authorities. The extent to which the COVID-19 pandemic may impact our operational and financial performance remains uncertain and will depend on many factors outside of our control, including the timing, extent, trajectory and duration of the pandemic; the emergence, spread and severity of new variants of COVID-19; the development, availability, distribution and effectiveness of vaccines and treatments; the imposition of protective public safety measures, including vaccine and testing mandates; and the impact of the pandemic on the global economy, including financial markets.
+
+This situation is changing rapidly, and additional effects may arise that we are not presently aware of or that we currently do not consider significant risks to our operations. If we are not able to respond to and manage the impact of such events effectively, our business, financial condition or results of operations may be negatively impacted. 
+
+MSCI is exposed to potential reputational and credibility concerns.
+
+To the extent that any of MSCI’s operating segments or product lines or MSCI as a whole suffers a reputational or other loss in credibility, it could have a material adverse impact on MSCI’s business. Real or perceived factors that may have already affected credibility, or which could potentially have an impact in this regard, include: the appearance of a conflict of interest; the editorial independence of our index composition and ESG rating and assessment processes and decisions; the influence of third parties, including governments and large investors or asset owners, on our editorial decisions; the performance of companies relative to their ESG ratings, index inclusion, risk characteristics or other MSCI content or analytics; the timing and nature of changes to our indexes or ESG ratings and assessments; disagreement with our methodologies or models, including for calculating indexes, value-at-risk and other risk measures, ESG ratings and assessments, data, information and analysis; the accuracy and completeness of our data; views expressed by the media, politicians, other government officials or representatives, regulators or other third parties regarding our company or our industry or our role in the investment process; our own sustainability and corporate responsibility policies or practices, including as a result of (i) failure to meet publicly disclosed ESG and climate-related targets or goals, or (ii) misalignment with evolving market standards or the methodologies and standards used in our products and ESG ratings; and the impact of political tensions relating to countries, industries, companies or issues relevant to our products and services, such as the inclusion of certain Chinese companies in our indexes or the focus on sustainable investing and climate considerations in our offerings. In some cases, our ESG and Climate offerings, such as our company ESG ratings and our Net-Zero Tracker, may insert MSCI into a public spotlight or debate regarding the environment, social concerns or corporate responsibility. In addition, our position as a leading source of ESG research, ratings, data and 
+
+18
+
+assessments may at times become contentious or controversial and lead to disputes with companies or investors or other interested stakeholders and create negative media or regulatory attention
+. Errors and other actions by 
+MSCI competitor
+s could also damage the reputation of the industries that we operate in and, therefore
+, harm the reputation of the Company or 
+certain of our products
+. 
+In addition, we believe that MSCI’s corporate culture and reputation contribute to our ability to attract and retain talent, and reputational damage could negatively affect both our hiring and employee retention. 
+Damage to 
+our 
+reputation
+, brand
+
+or
+ credibility could have a material adverse impact on MSCI’s business, financial 
+condition
+ or results of operations
+.
+
+Client Risks
+
+Our clients that pay us a fee based on the assets under management or total expense ratio of an indexed investment product may seek to negotiate a lower asset-based fee percentage or lower the total expense ratio of such products or may cease using our indexes, which could limit the growth of or decrease our revenues from asset-based fees.
+
+A portion of our revenues are from asset-based fees and these revenue streams are concentrated in some of our largest clients, including BlackRock, and in our largest market, the U.S. Our clients, including our largest clients, may seek for a variety of reasons to negotiate to pay us lower asset-based fee percentages, which are sometimes calculated as a percentage of the relevant product’s total expense ratio (“TER”). Additionally, competition is intense among our clients that offer or manage indexed investment products, including ETFs, and low fees are one of the competitive differentiators. Where an investment product’s TER determines our fees, a reduction in the TER may negatively impact our revenues. Additionally, our clients, including our largest clients, may seek to renegotiate existing asset-based fee models with the objective of achieving lower fees, either on a rate basis or in aggregate, which may have a negative impact on our operating revenues.
+
+Moreover, clients that have licensed our indexes to serve as the basis of indexed investment products are generally not required to continue to use our indexes and could elect at any time to cease offering the investment product or switch to using a non-MSCI index. Clients that license our indexes to serve as the basis for listed futures and options contracts might also discontinue such contracts. Additionally, we have a differentiated licensing strategy for our indexes and from time to time experience faster growth from lower fee products, resulting in a lower average asset-based fee percentage from indexed investment products. While we aim to maximize the price and volume trade-off over the long-term, there can be no assurance that we will be able to do so. Results for any given quarter could be materially adversely affected by stronger growth in assets in indexed investment products with lower-than-average fees not sufficiently offset by growth in assets in indexed investment products with higher-than-average fees. Our asset-based fees could dramatically decrease, which could have a material adverse effect on our business, financial condition or results of operations. Finally, to the extent that multiple investment products are based on the same index, (i) assets under management in one product could shift to products that pay MSCI lower fee levels, (ii) the products could compete for the same assets such that none of the products becomes large enough to be successful or sustained, or (iii) the failure or discontinuance of one product (e.g., derivatives used for hedging) could have a detrimental effect on the use of the other products (
+e.g., ETFs).
+
+Cancellations or reductions by any of our largest clients could have a material adverse effect on our business, financial condition or results of operations.
+
+A material portion of our revenues is concentrated in some of our largest customers. For the fiscal year ended December 31, 2021, our largest client organization by revenue, BlackRock, accounted for 12.7% of our total revenues. For the fiscal year ended December 31, 2020, BlackRock accounted for 11.0% of our total revenues. Our revenue growth depends on our ability to obtain new clients, sell additional services to existing clients and achieve and sustain a high level of renewal rates with respect to our existing licenses. Failure to achieve one or more of these objectives could have a material adverse effect on our business, financial condition and results of operations. If one or more of our largest clients cancels or reduces its licenses and we are unsuccessful in replacing those licenses, our business, financial condition or results of operations could be materially adversely affected. 
+
+Our clients may become more self-sufficient, which may reduce demand for our products or services and materially adversely affect our business, financial condition or results of operations.
+
+Our clients may internally develop certain functionality contained in the products or services they currently license from us. For example, a number of our clients have obtained regulatory clearance to create indexes for use as the basis of ETFs that they manage and others have invested in direct indexing strategies, allowing investors to purchase individual stocks making up an index rather than investing in a fund or ETF. Similarly, some of our clients who currently license our risk or ESG and climate data to analyze their portfolio risk may develop their own tools to collect data and assess risk or embed ESG and climate considerations into their investment processes, making our products or services unnecessary for them. A growing number of asset managers and investment banks, in partnership with index providers that offer calculation agent services, or acting together with an industry group or 
+
+19
+
+association, have created or may create their own range of proprietary indexes, which they use to manage funds or as the basis of ETFs, structured products or over-the-counter derivatives. To the extent that our clients become more self-sufficient, demand for our products or services may be reduced, which could have a material adverse effect on our business, financial 
+condition
+ or results of operations.
+
+Technology Risks
+
+Any failures, disruptions, instability or vulnerabilities in our information technology architecture, platforms, vendors and service providers, production and delivery systems, software, code, internal network, the Internet or other systems or applications may disrupt our operations, cause our products to be unavailable or fail and impose delays or additional costs in deploying our products, or impose conditions or restrictions on our ability to commercialize our products or keep them confidential and result in reputational and other harm and have a material adverse effect on our business, financial condition or results of operations.
+
+We depend heavily on the capacity, reliability and security of our information technology systems and platforms and their components, including our data centers, cloud providers and other vendors and service providers, production and delivery systems as well the Internet, to create and deliver our products and service our clients. Our employees also depend on these systems, platforms and providers for internal use. Heavy use of our electronic delivery systems and other factors such as loss of service from third parties, operational failures, human error, terrorist or other attacks affecting systems or sites where we are located, climate or weather related events (e.g., hurricanes, floods or other natural disasters), another outbreak of pandemic or contagious disease, power loss, telecommunications failures, technical breakdowns, Internet failures or malicious software could impair our systems’ operations or interrupt their availability for extended periods of time or impact the availability of personnel. Our ability to effectively use the Internet, including our remote work force’s ability to access the Internet, may also be impaired due to infrastructure failures, service outages at third-party Internet providers or increased government regulation. 
+
+Disruptions, failures or slowdowns that could occur with respect to our operations, including to our information technology systems and platforms, our electronic delivery systems or the Internet, could damage our brand and reputation, result in litigation and negatively affect our ability to distribute our products effectively and to service our clients, including delivering managed services or delivering real-time index data. To the extent we grow through acquisitions, newly acquired businesses may not have invested in technological infrastructure and disaster recovery to the same extent as we have. As their systems are integrated into ours, a vulnerability could be introduced, which could impact our platforms across the Company. 
+
+There is no assurance that we will be able to successfully defend against such disruptions or that our disaster recovery or business continuity plans, or those of our third-party service providers (including cloud providers), will be effective in mitigating the risks and associated costs, which could be exacerbated by our shift to an increasingly remote working environment, and which could have a material impact on our business, financial condition or results of operations.
+
+Any failure to ensure and protect the confidentiality of data could have a material adverse effect on our business, financial condition or results of operations.
+
+Many of our products, as well as our internal systems and processes, involve the collection, retrieval, processing, storage and transmission of proprietary, third party and client confidential information. We also handle personal information of our employees in connection with their employment. We rely on a complex system of internal processes and IT controls along with policies, procedures and training to protect this information, including sensitive client data such as material non-public information and client portfolio data that may be provided to us or hosted on our systems, against unauthorized access or disclosure. In addition, we believe that when we change the composition of our indexes, in some cases the changes can have an indirect effect on the prices of constituent securities and on certain indexed investment products as a result of trading activity related to tracking our indexes. As the usage and types of uses of our ESG ratings increase, the ratings and changes to the ratings in some cases could also potentially have an impact on the companies that we rate, the price of their securities and the price of other securities that reference their securities. 
+
+If our internal processes, confidentiality policies, conflict of interest policies or information barrier procedures fail or are insufficient, including as a result of human error or manual processes, system error or other failure, or if an employee purposely circumvents or violates our internal controls, policies or procedures, then unauthorized access to, or disclosure or misappropriation of, data, including material non-public or other confidential information (e.g., certain index composition data or ESG rating data), our brand and reputation may suffer and we may become subject to litigation, regulatory actions, sanctions or other penalties, leading to a loss of client confidence, which could have a material adverse effect on our business, financial condition or results of operations.
+
+20
+
+Successful cyber-attacks and the failure of cyber-security plans, systems and procedures could have a material adverse effect on our business, financial condition or results of operations. 
+
+The Company’s operations rely on the secure processing, storage and transmission of confidential, sensitive, proprietary and other types of data and information, and on those of our third-party vendors. We and our vendors are subject to cyber risks, including cyber-attacks, such as phishing scams, hacking, tampering, intrusions, viruses, ransomware, malware and denial-of-service attacks. In some cases, these risks are heightened when employees are working remotely. Our and our vendors’ use of mobile and cloud technologies may also increase our risk for such threats. The Company may be exposed to more targeted and more sophisticated cyber-attacks aimed at accessing certain information on our systems because of our role or prominence in the global marketplace, including client portfolio data, the composition of our indexes and MSCI ESG Research ratings of corporate issuers. Any such threats may cause material interruptions or malfunctions in our or our vendors’ products or services, networks, systems, websites, applications, data or data processing, or may otherwise compromise the availability, confidentiality or integrity of data or information in our possession. While the Company has not experienced cyber incidents that are individually, or in the aggregate, material, the Company has experienced cyber-attacks of varying degrees in the past, including denial-of-service attacks, and there can be no assurance that there will not be a material adverse effect in the future. 
+
+Our security measures or those of our third-party providers, including any cloud-based technologies, may prove insufficient depending upon the attack or threat posed. Cyber-attacks, security breaches or third-party reports of perceived security vulnerability to the Company’s systems, even if no breach has occurred, could damage our brand and reputation, result in litigation, regulatory actions, sanctions or other penalties, lead to loss of client confidence, which would harm our ability to retain clients and gain new ones, and lead to financial losses. Any of the foregoing could lead to unexpected or higher than estimated costs. We may also incur additional costs as a result of increasing and refining our internal processes and IT controls and policies and procedures related to security, processing integrity and confidentiality or privacy.
+
+Migration of our applications, systems, processes and infrastructure to new technologies, cloud providers, data centers, processes, platforms or applications could result in unanticipated failures, interruptions or delays in the performance and delivery of our products, services and client support.  Such incidents could have a material adverse effect on our business, financial condition or results of operations.
+
+In the past, we have experienced unanticipated interruption and delay in the performance and delivery of certain products after we migrated applications and infrastructure to new data centers. While we have taken steps to mitigate such interruptions and delays, we cannot provide assurance that they will not occur again in the future as part of migration efforts to new technologies, applications or processes (e.g., cloud migration), even after extensive testing of new systems, processes, applications and hardware, or if we experience significant growth of our customer base or increases in the number of products or services or in the speed at which we are required to provide products and services. Such disruptions may result in cancellations and reduced demand for our products and services, resulting in decreased revenues, or in cost increases relating to our use of power and data storage. After adopting new technologies, applications and processes, such as cloud computing, virtualization and agile software development, we may experience unanticipated interruption and delay in the performance and delivery of certain of our products, services and client support. We may also incur increased operating expenses to recover data, repair, replace or remediate systems, equipment or facilities, and to protect ourselves from such disruptions. Accordingly, any significant failures, disruptions or instability affecting our information technology platform, cloud providers, data centers, production and delivery systems, applications, processes or the Internet could negatively affect our ability to distribute our products effectively and to service our clients, damage our brand and reputation and result in litigation, which may have a material adverse effect on our business, financial condition or results of operations.
+
+Our use of open source code could introduce security vulnerabilities, impose unanticipated delays or costs in deploying our products or services, or impose conditions or restrictions on our ability to commercialize our products or services or keep them confidential.
+
+We rely on open source code to develop software and to incorporate it in our products and internal systems. The use of open source code may entail greater risks than the use of third-party commercial software, as open source licensors generally do not provide warranties or other contractual protections regarding infringement claims, the quality of the code or the security of the code. Some open source licenses provide that if we combine our proprietary code with open source code and distribute it in a certain manner, we could be required to release the source code of our proprietary applications to the public. This would allow our competitors to create similar products with less development effort and time and ultimately put us at a competitive disadvantage. Additionally, the terms of many open source code licenses are ambiguous and have not been interpreted by U.S. courts. Therefore, we could be required to seek licenses from third parties on terms that are not commercially feasible, to make generally available portions of our proprietary code, to re-engineer our products or systems, to discontinue the licensing of our products if re-engineering could not be accomplished on a timely or cost-effective basis, or to take other remedial action that 
+
+21
+
+could divert resources away from our development efforts. Any of these requirements could materially adversely affect our business, financial 
+condition
+ or results of operations
+.
+
+Strategy and Growth Risks
+
+Our business may be affected by changes in the global capital markets, including adverse equity market conditions, volatility in the financial markets and evolving investment trends. Such changes could decrease the use of our products and services which could have a material adverse effect on our business, financial condition or results of operations.
+
+Our business is impacted by economic conditions and volatility in the global capital markets. Our clients use our products for a variety of purposes, including benchmarking, performance attribution, portfolio construction and risk management, and to support investment strategies including ESG, climate, factor, thematic, private asset and MAC investing. Volatile capital markets may impact whether, how, where and when investors choose to invest, for example between developed or emerging markets, U.S. or non-U.S. markets, as well as whether to adopt different investment strategies. 
+
+A portion of our revenues comes from clients who use our indexes as the basis for indexed investment products. These fees are primarily based on a client’s assets under management or trading volumes. The value of an investment product’s assets may increase or decrease in response to changes in market performance and cash inflows and outflows, which could impact our revenues. 
+
+Additionally, an increasing portion of our revenues comes from products and services that relate to certain investment trends, such as ESG and climate, factor, thematic, private asset and MAC investing. A decline in the equity markets or movement away from such investment trends could decrease demand for our related products and services, which could have a material adverse effect on our business, financial condition or results of operations.
+
+Competition and financial and budgetary pressures affecting clients in our industry may cause price reductions or loss of market share, which may materially adversely affect our business, financial condition or results of operations.
+
+Competition exists across all markets for our products and services. Our competitors range in size from large companies with substantial resources to small, single-product businesses that are highly specialized. Our larger competitors may have access to more resources and may be able to achieve greater economies of scale, and our specialized competitors may be more effective in devoting technical, marketing and financial resources to compete with us with respect to a particular product or service. Some competitors may offer price incentives or different pricing structures that are more attractive to clients. The competitive landscape may also experience consolidation in the form of mergers and acquisitions, joint ventures or strategic partnerships, which result in a narrower pool of competitors that are better capitalized or that are able to gain a competitive advantage through synergies.
+
+Barriers to entry may be low or declining in many of the markets for our products and services, including for single-purpose product companies, which could lead to the emergence of new competitors. For example, more broker-dealers, data suppliers, credit rating agencies or other market participants or vendors could begin developing their own content such as proprietary risk analytics, ESG and climate data or indexes. Recent developments, including increases in the availability of free or relatively inexpensive information through Internet sources or other low-cost delivery systems, advances in cloud computing, increased use of open source code, the ability of machine learning and other artificial intelligence systems to process and organize large data sets, as well as client development of proprietary applications in specific areas, have further reduced barriers to entry in some cases. 
+
+We may experience pressures to reduce our fees on account of financial and budgetary pressures affecting our clients, including those resulting from weak or volatile economic or market conditions, including uncertainty regarding the duration and long-term economic and societal consequences of the COVID-19 pandemic, which may lead certain clients to reduce their overall spending on our products or services, including by seeking similar products or services at a lower cost than what we are able to provide, by consolidating their spending with fewer providers, by consolidating with other clients or by self-sourcing certain of their information and analytical needs. Accordingly, competitive and market pressures may result in fewer clients or reduced sales, including as a result of client closures and consolidations, price reductions, prolonged selling and renewal cycles and increased operating costs, such as for marketing and product development, which could, individually or in the aggregate, result in a material adverse effect on our business, financial condition or results of operations. 
+
+22
+
+To remain competitive, we must successfully develop new and enhanced products and services and effectively manage product transitions and integrations.
+
+To remain competitive, we must continually introduce new products and services, enhance existing products and services, including through integration of products and services within MSCI and with third-party platforms, and effectively generate customer demand for new and enhanced products and services. We may not be successful in developing, introducing, implementing, marketing, pricing, launching or licensing new products or enhancements on a timely or cost-effective basis or without impacting the stability and efficiency of existing products and systems. Any new products and enhancements may not adequately meet the requirements of the marketplace or industry standards or achieve market acceptance. 
+
+The process of developing and enhancing our products and services is complex and may become increasingly complex and expensive in the future due to the introduction of new platforms, operating systems, technologies and customer expectations. In addition, our reputation could be harmed if we are perceived as not innovating rapidly enough to meet the changing needs of investors or their advisors. We must make long-term investments and commit significant resources before knowing whether these investments will eventually result in new or enhanced products and services that satisfy our clients’ needs and generate adequate revenues. From time to time, we also incur costs to integrate existing products and services and transition clients to enhanced products and services, which also present execution risks and challenges and could lead to price reductions or other concessions. If we are unable to effectively manage the development of new or enhanced products and services, we may not be able to remain competitive and our business, financial condition or results of operations could be materially adversely affected. 
+
+Our global operations and any future expansions may continue to place significant strain on our management and other resources, as well as subject us to additional, and in some cases unanticipated, risks and costs in connection with political, economic, legal, operational and other issues resulting from our increased global footprint, which could materially adversely impact our businesses.  
+
+Our global operations and any future expansion are expected to continue to place significant demands on our personnel, management and other resources. Whether we expand organically or by way of acquisition, there can be no assurance that we will effectively attract, engage and retain additional qualified personnel, including additional managers or key employees, develop effective leadership in all our locations; expand our physical facilities and information technology, legal and compliance infrastructure; integrate acquired businesses; or otherwise adequately manage expansion. Additionally, new hires require significant training and may, in some cases, take a significant amount of time before becoming fully productive. 
+
+Our global operations also expose us to political, economic, legal, operational, franchise and other risks that are inherent in operating in many countries, including risks of possible capital controls, exchange controls, customs duties, sanctions compliance, tax penalties, levies or assessments, legal uncertainty, broad regulatory discretion and other restrictive governmental actions, as well as the outbreak of hostilities or political and governmental instability in certain of the countries or regions in which we conduct operations. The majority of our employees are located in offices outside of the U.S. and a number of those employees are located in emerging market locations. The cost of establishing and maintaining these offices, including costs related to information technology infrastructure, as well as the costs of attracting, training and retaining employees in these locations may be higher, or may increase at a faster rate, than we anticipate. Additionally, public health epidemics impacting the global economy and our employees, such as the worldwide COVID-19 pandemic, may have a material adverse effect on our business, financial condition or results of operations.
+
+The laws and regulations in many countries applicable to our business are uncertain and evolving, and it may be difficult or costly for us to determine and remain compliant with the exact requirements of local laws in every market. Our inability to maintain consistent internal policies and procedures across our offices and remain in compliance with local laws in a particular market could have a significant and negative effect not only on our businesses in that market but also on our reputation generally.
+
+Demand for our products and services is still nascent in many parts of the world, particularly in emerging market locations where risk management and ESG and climate integration practices are often not fully developed.  In addition, the data required to model local securities in some emerging markets might be difficult to source and local investment product nuances may be difficult or costly to model. If we do not appropriately tailor our products and services to fit the needs of the local market, we may be unable to effectively grow sales of our products and 
+
+23
+
+services 
+in some locations 
+outside of the U.S. There can be no assurances that demand for our products and services will develop in these countries.
+
+Any failure to effectively manage expansion or to effectively manage the business globally could damage our brand and reputation, result in increased costs and litigation and have a material adverse effect on our business, financial condition or results of operations.
+
+Legal and Regulatory Risks
+
+Failure to comply with regulations, or the introduction of new regulations or changes to existing regulations could materially adversely affect our business, financial condition or results of operations.  
+
+Failure to comply with any applicable laws, rules, orders, regulations or other requirements could subject us to litigation, regulatory actions, sanctions, fines or other penalties, as well as damage our brand and reputation. The financial services industry, within which we and many of our clients operate, is subject to extensive laws, rules and regulations at the federal and state levels, as well as by foreign governments, with some jurisdictions regulating indexes directly. These laws, rules and regulations are complex, evolve frequently and sometimes quickly and unexpectedly, and are subject to administrative interpretation and judicial construction in ways that are difficult to predict, and could materially adversely affect our business and our clients’ businesses. Uncertainty caused by political change globally heightens regulatory uncertainty. Additionally, we may be required to comply with multiple and potentially conflicting laws, rules or regulations in various jurisdictions, which could, individually or in the aggregate, result in materially higher compliance costs to us. It is possible that laws, rules or regulations could cause us to restrict or change the way we license and price our products and services or could impose additional costs on us. Changes to the laws, rules and regulations applicable to our clients could limit our clients’ ability to use our products and services or could otherwise impact our clients’ demand for our products and services. As such, to the extent that our clients become subject to certain laws, rules or regulations, we may incur higher costs in connection with modifying our products or services. To the extent that we rely on our clients and vendors to provide data for our products and services and certain laws, rules or regulations impact our clients’ and vendors’ ability or willingness to provide that data to us or regulate the fees for which such data can be provided, our ability to continue to produce our products and services or the related costs could be negatively impacted. The regulations and regulatory developments that most significantly impact us are described below:
+
+•
+
+Brexit. 
+The United Kingdom (“UK”) exited the European Union (“EU”) on January 31, 2020 (commonly referred to as “Brexit”) and the UK’s membership in the EU single market ended on December 31, 2020. On December 24, 2020, the UK and the EU announced that they had struck a new bilateral trade and cooperation deal governing the future relationship between the UK and the EU (the “EU-UK Trade and Cooperation Agreement”) which was formally approved by the 27 member states of the EU on December 29, 2020. In March 2021, the UK and EU agreed on a framework for voluntary regulatory cooperation and dialogue on financial services issues between them in a Memorandum of Understanding (the “MOU”), which is expected to be signed after formal steps are completed, although this has not yet occurred.
+
+The EU-UK Trade and Cooperation Agreement and the MOU provide some clarity regarding the future relationship between the UK and the EU including some detailed matters of trade and cooperation, but there remain uncertainties related to Brexit and the new relationship between the UK and EU that will continue to be developed and defined, as well as uncertainties related to the wider trading, legal, regulatory, tax and labor environments, and the resulting impact on our business and that of our clients. Because we have significant operations in the EU and certain members of our senior management team are based in the UK, any of these uncertainties could increase our costs of doing business, or in some cases, affect our ability to do business, which could have a material adverse effect on our business, financial condition or results of operations.
+
+•
+
+Regulation Affecting Benchmarks.
+ Compliance efforts associated with regulations affecting benchmarks or their uses and any related technical standards and guidance could have a negative impact on our business and results of operations. In particular, compliance requirements could lead to a change in our business practices, product offerings and/or our ability to offer indexes in certain jurisdictions, including the EU, including without limitation, by increasing our costs of doing business, including direct costs paid to regulators, diminishing our intellectual property rights, impacting the fees we can charge for our indexes, imposing constraints on our ability to meet contractual commitments to our data providers, imposing constraints on how we offer our products or causing our data providers to refuse to provide data to us, any of which could have a material adverse effect on our index products. 
+
+24
+
+For example, the benchmark industry is subject to regulations in the 
+EU
+, such as 
+Regulation (EU) 2016/1011 (as amended), 
+which is also applicable in the UK 
+as it forms part of UK domestic law by virtue of the European Union (Withdrawal) Act 2018 (as amended)
+, as well as increased scrutiny and potential new or increased regulation in various other jurisdictions. Additionally, the European Securities and Markets Authority (“ESMA”) issues guidance from time to time regarding interpretations of the
+ EU
+ benchmark regulation
+ (such as 
+Regulation (EU) 2016/1011 
+(as amended)
+
+and Regulation (EU) No 600/2014
+)
+. The ESMA Guidelines on ETFs and other UCITS Issues limit the types of indexes that can be used as the basis of Undertakings for Collective Investment in Transferable Securities (“UCITS”) funds and require, among other things, index constituents, together with their respective weightings, to be made easily accessible free of charge, such as via the internet, to investors and prospective investors on a delayed and periodic basis. The International Organization of Securities Commissions (“IOSCO”) recommends that benchmark administrators, on a voluntary basis, publicly disclose whether they comply with the principles for financial benchmarks published by IOSCO. 
+Other jurisdictions have also indicated they may consider potential benchmark regulation or conduct reviews of the benchmark industry. 
+For instance, the UK FCA has announced that it will conduct a market study into how competition is working 
+in the markets for benchmarks and indices.
+
+The heightened attention and scrutiny on benchmarks and index providers by regulators, policymakers and the media in the EU, the U.S. and other jurisdictions around the world could result in negative publicity or comments about the role or influence of our company or the index industry generally, which could harm our reputation and credibility.
+
+Further, laws, rules, regulations and orders affecting users of our indexes can have an indirect impact on our indexes, including their construction and composition, such as sanctions that prohibit users of our indexes from investing or transacting in securities included in our indexes.
+
+•
+
+Data Privacy Legislation.
+ Changes in laws, rules or regulations, or consumer environments relating to privacy or information collection and use may affect our ability to collect, manage, aggregate, store, transfer and use personal data. There could be a material adverse impact on our direct marketing due to the enactment of legislation or industry regulations, or simply a change in practices, arising from public concern over privacy issues. Restrictions or bans could be placed upon the collection, management, aggregation, storage, transfer and use of information that is currently legally available, in which case our costs related to handling information could increase materially. For example, California passed the California Consumer Privacy Act (“CCPA”), which took effect on January 1, 2020, and the California Privacy Rights Act (“CPRA”), which will take effect on January 1, 2023 and significantly amends and expands the CCPA. The CCPA and CPRA regulate the processing of personal data of all Californians and imposes significant penalties for non-compliance. The European General Data Protection Regulation imposes enhanced operational requirements for companies that receive or process personal data of residents of the EU and includes significant penalties for non-compliance. In Japan, the Act on the Protection of Personal Information regulates the use of personal information and personal data of “data subjects” for business purposes without regard to whether such use is within Japan. In addition, other jurisdictions, including China and India, are considering imposing or have already imposed additional restrictions.
+
+•
+
+Investment Advisers Act.
+ Except with respect to certain products provided by MSCI ESG Research LLC and certain of its designated foreign affiliates, we believe that our products and services do not constitute or provide investment advice as contemplated by the Advisers Act. See Part I, Item 1. “Business—Government Regulation” above. The Advisers Act imposes fiduciary duties, recordkeeping and reporting requirements, disclosure requirements, limitations on agency and principal transactions between an adviser and advisory clients, as well as general anti-fraud prohibitions. Future developments in our product lines or changes to current laws, rules, regulations or interpretations could cause this status to change, requiring other entities in our corporate family to register as investment advisers under the Advisers Act or comply with similar laws or requirements in states or foreign jurisdictions. In the U.S., the SEC has indicated that it may seek public comment on the role of certain third-party service providers to the asset management industry, including index providers and model providers, which could lead to regulation pursuant to the Advisers Act or other framework. 
+
+In some instances, in connection with the provision of data and services, we have incurred additional costs to implement processes and systems at the request of our clients to ensure that the products and services that they in turn provide to their clients using our data are compliant with the financial regulations to which our clients may be subject. For example, a U.S. Executive Order prohibiting many of our clients from transacting in the securities of certain Chinese companies resulted in our decision to remove these companies from relevant indexes in order to support our clients’ needs that our indexes meet their objective to be replicable in investment portfolios. To the 
+
+25
+
+extent that our clients are subject to increased regulation, we may be indirectly impacted and could incur increased costs that could have a negative impact on the profitability of certain products.
+
+Additionally, there has been increased attention on and scrutiny of index and ESG rating providers by politicians, regulators, policymakers and the media, which could create negative publicity that could harm our reputation or credibility as well as result in new or additional regulation that could increase our costs and have a negative impact on our business, financial condition or results of operations. For example, IOSCO has asked regulators to consider focusing more attention on the use of ESG ratings and data products and ESG ratings and data products providers that may be subject to their jurisdiction, and ESMA has called for entities issuing ESG ratings and assessments to be registered and supervised. These or similar regulatory regimes could impose significant compliance burdens and costs on our ESG and Climate products and services. Furthermore, regulation in multiple jurisdictions may be inconsistent, which could create implementation challenges and result in inadvertent noncompliance.
+
+Legal protections for our intellectual property rights and other rights may not be sufficient or available to protect our competitive advantages. Third parties may infringe on our intellectual property rights or we may infringe upon their intellectual property rights, which, in each case, could have a material adverse effect on our business, financial condition or results of operations.
+
+We consider many aspects of our products and services to be proprietary. We rely primarily on a combination of trade secrets, patents, copyrights and trademark rights, laws regarding unfair competition and the misappropriation of intellectual property, as well as technical measures and contractual protections, such as non-disclosure obligations, to protect our products and services. Despite our best efforts, we cannot be certain that the steps we have taken to protect our intellectual property rights, and the rights of those from whom we license intellectual property, are adequate to prevent unauthorized use, misappropriation, distribution or theft of our intellectual property. 
+
+Intellectual property laws in various jurisdictions in which we operate are subject to change or varying interpretations at any time and could further restrict our ability to protect our intellectual property rights. The enforceability of intellectual property rights and obligations under our agreements, as well as the availability of remedies in the event of a breach, may vary due to the different jurisdictions in which our clients and employees are located. Failure to protect our intellectual property adequately could harm us, our brand or reputation and affect our ability to compete effectively. 
+
+There is no guarantee that any intellectual property rights that we may obtain will protect our competitive advantages, nor is there any assurance that our competitors will not infringe upon our rights. Furthermore, our competitors may independently develop and protect products and services that are the same or similar to ours. We may be unable to detect the unauthorized use or disclosure of our intellectual property or confidential information, or to take the necessary steps to enforce our rights. In addition, our products and services, or third-party products that we provide to our clients, could infringe upon the intellectual property rights of others.
+
+Pursuing intellectual property claims to preserve our intellectual property rights or responding to intellectual property claims, regardless of merit, can consume valuable time, and result in costly litigation or delays, and there is no guarantee that we will be successful. From time to time, we receive claims or notices from third parties alleging infringement or potential infringement of their intellectual property rights; and the number of these claims may grow. These intellectual property claims would likely be costly to defend and could require us to pay damages, limit our future use of certain technologies, harm our brand and reputation, significantly increase our costs and prevent us from offering some services or products. We may need to settle such claims on unfavorable terms, pay damages, stop providing or using the affected products or services or enter into royalty or licensing agreements, which may include terms that are not commercially acceptable to us. From time to time, we receive notices calling upon us to defend partners, clients, suppliers or distributors against third-party claims under indemnification clauses in our contracts. If any of these risks materialize, they could have a material adverse effect on our business, financial condition or results of operations.  
+
+There have been a number of lawsuits in multiple jurisdictions, including in the U.S. and Germany, regarding whether issuers of indexed investment products are required to obtain a license from the index owner or whether issuers may issue investment products based on publicly available index-level data without obtaining permission from (or making payment to) the index owner. The outcome of these cases depends on a number of factors, including the governing law, the amount of information about the index available without a license and the other 
+
+26
+
+particular facts and circumstances of the cases. In some instances, the results have been unfavorable to the index owner. If courts or regulators or other governmental bodies in relevant jurisdictions determine that a license is not required to issue investment products linked to indexes, this could have a material adverse effect on our business, financial 
+condition
+ or results of operations. It might also lead to changes in current industry practices such that we would no longer make our index level data publicly available, such as via our website or news media, on a timely basis.
+
+Some of our products and services help our clients to meet their regulatory requirements. Changes to regulatory requirements may obviate the need for these products or services or may cause us to invest in enhancing the products or services to help our clients meet the new regulatory requirements.
+
+Financial Risks
+
+Our revenues, expenses, assets and liabilities are subject to foreign currency exchange rate fluctuation risk.
+
+We are subject to foreign currency exchange rate fluctuation risk. Exchange rate movements can impact the U.S. dollar reported value of our revenues, expenses, assets and liabilities denominated in non-U.S. dollar currencies or where the currency of such items is different than the functional currency of the entity where these items were recorded. Additionally, the value of assets in indexed investment products can fluctuate significantly over short periods of time and such volatility may be further impacted by fluctuations in foreign currency exchange rates. 
+
+We manage certain portions of our foreign currency exchange rate risk, in part, through the use of derivative financial instruments comprised principally of forward contracts on foreign currency which are not designated as hedging instruments for accounting purposes. Any derivative financial instruments that we are currently party to or may enter into in the future may not be successful, resulting in an adverse impact on our results of operations.
+
+In addition, Brexit has caused, and may continue to cause, significant volatility in currency exchange rates, especially between the U.S. dollar and the British pound sterling. To the extent that our international activities recorded in local currencies increase or decrease in the future, our exposure to fluctuations in foreign currency exchange rates may correspondingly increase or decrease and could have a material adverse effect on our business, financial condition or results of operations. 
+
+Our indebtedness could materially adversely affect our cash flows and financial flexibility.
+
+For an overview of our current outstanding indebtedness and history of our debt offerings, see “Management’s Discussion and Analysis of Financial Condition and Results of Operations” below. Although we believe that our cash flows will be sufficient to service our outstanding indebtedness, we cannot provide assurance that we will generate and maintain cash flows sufficient to permit us to pay the principal, premium, if any, and interest on our indebtedness. Our ability to make payments on indebtedness and to fund planned capital expenditures depends on our ability to generate and access cash in the future, which, in turn, is subject to general economic, financial, competitive, regulatory and other factors, many of which are beyond our control. If we are unable to pay our obligations as they mature, we may need to refinance all or a portion of our indebtedness on or before maturity. If we are unable to secure additional financing on terms favorable or acceptable to us or at all, we could also be forced to sell assets to make up for any shortfall in our payment obligations. The restrictive covenants in our debt agreements, however, limit our and our subsidiaries’ ability to sell assets and also restrict the use of proceeds from such a sale. If we cannot refinance or otherwise pay our obligations as they mature and fund our liquidity needs, our business, financial condition, results of operations, cash flows, liquidity, ability to obtain financing and ability to compete in our industry could be materially adversely affected. 
+
+We may need or want to refinance our existing debt or incur additional debt from time to time to finance working capital, capital expenditures, investments or acquisitions, or for other purposes. If we do so, we may be subject to less favorable terms. The risks related to our level of indebtedness could also intensify, including by making it difficult for us to optimally capitalize and manage the cash flow for our business or placing us at a competitive disadvantage compared to our competitors that have less indebtedness. 
+
+Furthermore, the terms of our debt agreements include restrictive covenants that limit, among other things, our and our existing and future subsidiaries’ financial flexibility. If we are unable to comply with the restrictions and covenants in our debt agreements, there could be a default that, in some cases, if continuing, could result in the accelerated payment of our debt obligations or the termination of borrowing commitments on the part of the lenders under the Credit Agreement, dated as of November 20, 2014, by and among the Company, the guarantors party 
+
+27
+
+thereto, JPMorgan Chase Bank, N.A., as administrative agent and the lenders from 
+time to time party thereto, as amended, supplemented, modified or amended and restated from time to time (as amended, the “
+Revolving Credit 
+Facility
+”).
+
+In 2017, the UK Financial Conduct Authority (the “FCA”), which regulates London Interbank Offered Rate (“LIBOR”), announced that the FCA will no longer persuade or compel banks to submit rates for the calculation of the LIBOR benchmark after 2021. The administrator for LIBOR announced on March 5, 2021 that it will permanently cease to publish most LIBOR settings beginning on January 1, 2022 and cease to publish the overnight, one-month, three-month, six-month and 12-month USD LIBOR settings on July 1, 2023. Accordingly, the FCA has stated that is does not intend to persuade or compel banks to submit to LIBOR after such respective dates. Until such time, however, FCA panel banks have agreed to continue to support LIBOR. The U.S. Federal Reserve, in conjunction with the Alternative Reference Rates Committee, a steering committee comprised of large U.S. financial institutions, is recommending replacing USD LIBOR with the Secured Overnight Financing Rate (“SOFR”), a new index calculated by short-term repurchase agreements, backed by Treasury securities. It is unknown whether SOFR will attain market acceptance as replacement for LIBOR and, because SOFR differs fundamentally from LIBOR, there is no assurance that SOFR will perform in the same way as LIBOR would have performed at any time, and there is no guarantee that it is a comparable substitute for LIBOR. At this time, it is not possible to predict the effect that these developments may have on any floating rate debt instruments, including borrowings under our Revolving Credit Facility. As of December 31, 2021, there were no amounts outstanding under our Revolving Credit Facility. Pursuant to the Credit Agreement Amendment that became effective on March 29, 2021, we updated the LIBOR succession provisions in our Revolving Credit Facility to contemplate a mechanism for replacing LIBOR with a new benchmark rate without an amendment to the terms of the Credit Agreement governing the Revolving Credit Facility. Since the conditions for the implementation of this mechanism have not yet been triggered, we cannot determine with certainty what such replacement rate would be. As a result, we cannot reasonably predict the potential effect of a discontinuation or replacement of LIBOR, other reforms or the establishment of alternative reference rates on our business, financial condition or results of operations. In addition, if we were to incur any variable rate indebtedness under our Revolving Credit Facility, we would be subject to interest rate risk generally, which could cause our debt service obligations to increase significantly.
+
+A change in our credit ratings could materially adversely affect our financial condition.
+
+Our credit ratings are not recommendations to buy, sell or hold any of our common stock or outstanding debt. Our outstanding debt under the Senior Notes currently has non-investment grade ratings. Any rating assigned to such debt is subject to ongoing evaluation by the credit rating agencies and could be lowered or withdrawn entirely at any time by any of the agencies if, in the agency’s judgment, future circumstances relating to the basis of the rating so warrant. Such future circumstances include, but are not limited to, adverse changes to our results of operations, financial condition or cash flows, or revisions to our corporate strategy pertaining to capitalization or leverage. Any such downgrade or withdrawal could adversely affect the amount of capital we can access, as well as the terms of any financing we obtain.
+
+In addition, our debt covenants contain certain obligations that are triggered by a change in our credit rating, including obligations to make repurchase offers to the noteholders of our Senior Notes if we experience one of the specified kinds of changes in control and related lowering of our credit ratings, as detailed in the indentures governing our Senior Notes.
+
+Any adverse change in our credit rating could have a negative effect on our liquidity and future growth through transactions in which we rely on the ability to receive debt capital at an advantageous cost and on favorable terms. Accordingly, actual or anticipated changes or downgrades to or withdrawal of our credit ratings, including any announcement that our ratings are under review or have been assigned a negative outlook, could result in damage to our brand and reputation and have a material adverse effect on our business, financial condition, results of operations and cash flows and on the market value of our common stock and outstanding debt.
+
+We may have exposure to tax liabilities in various jurisdictions. Future changes in tax law could materially affect our tax obligations and effective tax rate. 
+
+We are subject to income taxes, as well as non-income or indirect taxes, in the U.S. and various foreign jurisdictions. Significant judgment is required in determining our global provision for income taxes and other tax liabilities. In the ordinary course of a global business, there are many intercompany transactions and calculations 
+
+28
+
+where the ultimate tax determination is uncertain. Changes in domestic and international tax laws could negatively impact our overall effective tax rate.
+
+We are regularly under audit by tax authorities. We may be subject to additional tax liabilities as the jurisdictions in which we do business globally are increasingly focused on digital taxes and the treatment of remote workforces. Although we believe that our tax provisions are reasonable, there can be no assurance that the final determination of tax audits or tax disputes will not be different from what is reflected in our historical income tax provisions and accruals. To the extent we are required to pay amounts in excess of our reserves, such differences could have a material adverse effect on our Consolidated Statement of Income for a particular future period. In addition, an unfavorable tax settlement could require use of our cash and result in an increase in our effective tax rate in the period in which such resolution occurs.
+
+General Risks
+
+Our business performance might not be sufficient for us to meet the full-year financial guidance or long-term targets that we provide publicly.
+
+We provide certain full-year financial guidance and long-term targets to the public based upon our assumptions regarding our expected financial performance that may not always prove to be accurate and may vary from actual results. If we fail to meet the full-year financial guidance or achieve the long-term targets that we provide, or if we find it necessary to revise such guidance or targets, the market value of our common stock or other securities could be adversely affected.
+
+Our growth and profitability may not continue at the same rate as we have experienced in the past for several reasons, including if our operating costs are higher than expected, which could have a material adverse effect on our business, financial condition or results of operations.
+
+We have experienced significant revenue and earnings growth since we began operations. There can be no assurance that we will be able to maintain the levels of growth and profitability that we have experienced in the past. If we experience higher than expected operating costs, including increased compensation costs, regulatory compliance costs, occupancy costs, selling and marketing costs, investments in geographic expansion, market data costs, software license costs, communication costs, travel costs, application development costs, professional fees, costs related to information technology infrastructure, cloud usage and other IT costs, and we cannot adjust to these costs, our operating results may fluctuate significantly or our anticipated profitability may be reduced and our anticipated results of operations and financial position may be materially adversely affected. Additionally, there can be no assurance that we will be as successful in our product development, selling and marketing efforts, or capital return or allocation strategies as we have been in the past, or that such efforts will result in growth or profit margins comparable to those we have experienced in the past. 
+
+We may be exposed to liabilities as a result of failure to comply with laws and regulations relating to our global operations, including anti-corruption laws, and any determination that we violated these laws could have a material adverse effect on our business.
+
+We are subject to complex laws and regulations that are applicable to our global operations, such as laws and regulations governing economic and trade sanctions, tariffs, embargoes, anti-boycott restrictions and anti-corruption and other similar laws and regulations. Any determination that we have violated these laws or regulations could have a material adverse effect on our business, financial condition or results of operations.
+
+In particular, we are subject to various anti-corruption laws that prohibit improper payments or benefits or offers of payments or benefits to foreign governments and their officials and, in some cases, to employees of a business for the purpose of directing, obtaining or retaining business. We conduct business in countries and regions that are less developed than the U.S. and in some cases are generally recognized as potentially more corrupt business environments. Our activities in these countries create the risk of unauthorized payments or offers of payments by one of our employees or agents that could be in violation of various anti-corruption laws including the Foreign Corrupt Practices Act of 1977, as amended (the “FCPA”) and the UK Bribery Act 2010. 
+
+We have implemented safeguards and policies to discourage these types of practices by our employees and agents. However, our existing safeguards and any future improvements may prove to be less than fully effective, and 
+
+29
+
+our employees or agents may engage in conduct for which we might be held responsible. If employees violate our policies or we fail to maintain adequate record-keeping and internal accounting practices to accurately record our transactions we may be subject to regulatory fines, sanctions, damages or other penalties or costs. Violations of any of these laws, including the FCPA or other anti-corruption laws, may result in severe criminal or civil sanctions and penalties, damage our brand and reputation and subject us to other liabilities which could have a material adverse effect on our business, financial 
+condition
+ or results of operations.
+
+If we are unable to successfully identify, execute and realize expected returns and synergies from acquisitions or strategic partnerships or investments, or if we experience integration, financing, or other risks resulting from our acquisitions or strategic partnerships or investments, our financial results may be materially adversely affected.
+
+An element of our growth strategy is growth through acquisitions, strategic partnerships and investments. Despite our best efforts to continue pursuing such transactions, there can be no assurance that we will be able to identify suitable strategic partners, investment opportunities or attractive acquisition candidates at acceptable terms. In addition, we may require additional debt or equity financing for future acquisitions and doing so may be made more difficult by the terms of our existing indebtedness.
+
+Our ability to achieve the expected returns and synergies from our past and future acquisitions, including our recent acquisition of RCA, strategic partnerships and investments depends, in part, upon our ability to effectively leverage or integrate the offerings, technology, sales, administrative functions and personnel of these businesses. We cannot provide assurance that we will be successful in integrating acquired businesses, that our acquired businesses will perform at the levels we anticipate or that our strategic partnerships and investments will advance the long-term growth strategy of our company. Our past and future acquisitions, strategic partnerships and investments may subject us to unanticipated risks or liabilities, including the potential to disrupt our operations. Additionally, strategic partnerships may increase our reliance on third parties, which may result in future disruptions if those partnerships are unsuccessful or discontinued or the content or level of support provided by strategic partners is diminished.
+
+If we experience a high level of acquisition, strategic partnership or investment-related activity within a limited period of time, the probability that certain of these risks would occur would likely increase. In addition, if we are unsuccessful in completing acquisitions of other businesses or assets, executing strategic partnerships or investments, or if such opportunities for expansion do not arise, our brand or reputation could suffer, and our future growth, business, financial condition or results of operations could be materially adversely affected.
+
+Our goodwill and other intangible assets resulting from our acquisitions could be impaired as a result of future business conditions, requiring us to record substantial write-downs that would reduce our operating income.
+
+We evaluate the recoverability of recorded goodwill amounts annually or when evidence of potential impairment exists. Intangible assets are reviewed for impairment whenever events or changes in circumstances indicate that the carrying value of the asset may not be recoverable. These impairment tests are based on several factors requiring management’s judgment. Changes in fair market valuations and our operating performance or business conditions, in general, could result in future impairments of goodwill or intangible assets which could materially adversely affect our results of operations. In addition, if we are not successful in achieving anticipated operating efficiencies associated with acquisitions, our goodwill and intangible assets may become impaired.
+
+If we fail to attract or retain the necessary qualified personnel, including through our compensation programs, our business, financial condition or results of operations could be materially adversely affected.
+
+The development, maintenance and support of our products and services are dependent upon the knowledge, skills, experience and abilities of our employees. Accordingly, we believe the success of our business depends to a significant extent upon the continued service of our executives and other key employees. Although we do not believe that we are overly dependent upon any individual employee, our management and other employees may terminate employment at any time, and the loss of any of our key employees and our inability to replace them with suitable candidates quickly or at all, as well as any negative market perception resulting from such loss, could have a material adverse effect on our business, financial condition or results of operations. We compete for key employees not only with other companies in our industry but also with companies in other industries, such as software services, engineering services and financial services companies, and there is a limited pool of employees who have the skills and training needed to do our work. If our compensation programs do not adequately engage our key employees or are not competitive, or if we fail to attract, engage and retain the necessary qualified personnel, the quality of our 
+
+30
+
+products and services as well as our ability to support and retain our clients and achieve business objectives may suffer. 
+
+We cannot provide any guaranty that we will continue to repurchase shares of our common stock pursuant to our share repurchase program.
+
+The timing, price and volume of repurchases of shares of our common stock will be based on market conditions, relevant securities laws and other factors. The stock repurchases may be made from time to time, through one or more open market repurchases or privately negotiated transactions, including, without limitation, accelerated share repurchase transactions, trading plans or derivative transactions, or otherwise.
+
+Share repurchases under our share repurchase program constitute components of our capital return strategy, which we fund with free operating cash flow and borrowings. However, we are not required to make any share repurchases under our share repurchase program. The share repurchase program does not obligate us to repurchase any set dollar amount or number of shares and may be modified, suspended, or terminated at any time without prior notice. The reduction or elimination of our share repurchase program could adversely affect the market price of our common stock. Additionally, the existence of a share repurchase program could cause the market price of our common stock to be higher than it would be in the absence of such a program and could potentially reduce the market liquidity for our shares. As a result, any repurchase program may not ultimately result in enhanced value to our shareholders and may not prove to be the best use of our cash resources.

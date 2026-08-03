@@ -1,0 +1,406 @@
+In addition to the other information contained in this Form 10-K, the following risk factors should be considered carefully in
+
+evaluating T-Mobile. Our business, financial condition, liquidity, or operating results, as well as the price of our common stock and other securities, could be materially adversely affected by any of these risks. 
+
+Risks related to the Pandemic 
+
+The Pandemic may continue to adversely affect our business, liquidity, financial condition and operating results. 
+
+The Pandemic has impacted the ways in which our customers use their devices, where and how we work, and our suppliers and vendors’ ability to provide products to us. As a result, our business, liquidity, financial condition, and operating results may continue to be adversely impacted by the Pandemic. Current and future Pandemic-related restrictions on, or disruptions of, transportation networks and supply chain shortages could impact our ability to acquire handsets or other end user devices in amounts sufficient to meet customer demand and to obtain the equipment required to meet our current and future network buildout plans, either of which could materially adversely affect us. 
+
+The extent to which the Pandemic may impact our future operational and financial performance remains uncertain and is subject to many factors outside of our control, including the timing, extent, trajectory and duration of the Pandemic, the emergence of new variants, the continued development, availability, distribution and effectiveness of vaccines and treatments, the imposition of protective public safety measures and the impact of the Pandemic on the economy and consumer demand. Potential negative impacts of these external factors include, but are not limited to, material adverse effects on demand for our products and services; our supply chain and sales and distribution channels; collectability of customer accounts; our ability to execute strategic plans; and our profitability and cost structure. To the extent the Pandemic adversely affects our business, results of operations and financial condition, it may also have the effect of exacerbating the other risks discussed in this “Risk Factors” section.
+
+11
+
+Table of 
+Contents
+
+Risks Related to Our Business and the Wireless Industry
+
+Competition, industry consolidation, and changes in the market for wireless services could negatively affect our ability to attract and retain customers and adversely affect our business, financial condition and operating results.
+
+We have multiple competitors that possess either more or different access to wireless assets, and yet we compete for customers based principally on service/device offerings, price, network coverage, speed and quality, and customer service. We expect the wireless industry’s customer growth rate to moderate in comparison with historical growth rates, leading to ongoing competition for customers. We also expect that our customers’ appetite for data services will place increasing demands on our network capacity. This competition and our capacity will continue to put pressure on pricing and margins as companies compete for a relatively fixed pool of customers with an ever-expanding variety of products and services. Our ability to compete will depend upon, among other things, continued absolute and relative improvement in network quality and customer service, effective marketing and selling of products and services, innovation, and attractive pricing, all of which will involve significant expenses.
+
+We face increased competition from other service providers, including from cable, wireline and satellite providers, as industry sectors converge. Cable companies such as Comcast, Charter, and Altice are diversifying outside cable, voice and broadband services to also offer wireless services. Wireline companies, such as Frontier and Windstream have announced plans for fiber buildouts, often supported by government funding, which may impact our fixed wireless High Speed Internet growth plans. We expect DISH, which has already acquired several MVNOs, to meet their government commitments and build a wireless network and offer competitive postpaid and prepaid wireless service plans. Verizon and AT&T have refocused on connectivity services, including fiber builds and deployment of next generation wireless technology, and we expect both companies to increase competitive pressure, including expanding partnerships and offerings. These factors could make it more difficult for us to continue to attract and retain customers, adversely affecting our competitive position and ability to grow, which could have a material adverse effect on our business, financial condition and operating results.
+
+We have seen, and continue to expect, additional joint ventures, mergers, acquisitions and strategic alliances in the converged connectivity sector, which could result in larger competitors competing for a limited number of customers. Further consolidation could negatively impact our businesses, including wholesale. For example, we will experience declining revenues from our wholesale business as Verizon migrates legacy TracFone customers off the T-Mobile network and DISH migrates Boost customers to either their standalone network or AT&T. Our competitors may also enter into exclusive handset, device, or content arrangements, execute pervasive advertising and marketing campaigns, or otherwise improve their cost position relative to ours. In addition, refusal of our competitors and partners to provide critical access to resources and inputs, such as roaming and/or backhaul services, on reasonable terms could negatively impact our business.
+
+We have recently experienced a criminal cyberattack and could in the future be further harmed by disruption, data loss or other security breaches, whether directly or indirectly through third parties. 
+
+Our business involves the receipt, storage and transmission of our customers’ confidential information, including sensitive personal information and payment card information, confidential information about our employees and suppliers, and other sensitive information about our Company, such as our business plans, transactions and intellectual property (collectively, “Confidential Information”). Unauthorized access to Confidential Information is difficult to anticipate, detect or prevent, particularly given that the methods used by third parties to gain unauthorized access constantly change and evolve. We and our third-party service and equipment providers are subject to attacks and threats to our and their IT networks, systems and supply chain, including attacks and threats by state-sponsored parties, malicious actors, employees or third parties, who may exploit bugs, errors, misconfigurations or other vulnerabilities or engage in social engineering to compromise the confidentiality and integrity of Confidential Information or cause serious operational disruptions (e.g., ransomware). 
+
+As a telecommunications carrier, we are considered a critical infrastructure provider and therefore are a persistent target of cyberattacks. In addition, the Pandemic has presented additional operational and cybersecurity risks to our IT systems due to work-from-home arrangements at the Company and our third-party service and equipment providers. Attacks against companies like ours are perpetrated by a variety of groups and persons, including those in jurisdictions where law enforcement measures to address such attacks are ineffective or unavailable, and such attacks may even be perpetrated by or at the behest of foreign governments.
+
+In addition, we provide confidential, proprietary and personal information to third-party service and equipment providers as part of our business operations. These third-party service and equipment providers have experienced in the past and will likely continue to experience data breaches and other attacks that involve unauthorized access to Confidential Information and create operational disruptions, and they face security challenges common to all parties that collect and process information.
+
+12
+
+Table of 
+Contents
+
+In August 2021, we disclosed that our systems were subject to a criminal cyberattack that compromised certain data of millions of our current customers, former customers, and prospective customers, including, in some instances, social security numbers, names, addresses, dates of birth and driver’s license/identification numbers. With the assistance of outside cybersecurity experts, we located and closed the unauthorized access to our systems and identified current, former and prospective customers whose information was impacted and notified them, consistent with state and federal requirements. We have incurred certain cyberattack-related expenses and expect to continue to incur additional expenses in future periods, including costs to remediate the attack, provide additional customer support and enhance customer protection. For more information, see “Cyberattack” in the Overview section of MD&A. As a result of the August 2021 cyberattack, we are subject to numerous lawsuits and regulatory inquiries, the ongoing costs of which may be material, and we may be subject to further regulatory inquiries and private litigation. For more information, see “– Contingencies and Litigation – Litigation and Regulatory Matters” in 
+Note 1
+7
+ – Commitments and Contingencies
+
+ of the Notes to the Consolidated Financial Statements, and “– Unfavorable outcomes of legal proceedings may adversely affect our business, reputation, financial condition, cash flows and operating results” below. As a result of the August 2021 cyberattack or other cyberattacks or security breaches involving our Company or our third-party service and equipment providers, we may incur significant costs or experience other material financial impacts, which may not be covered by, or may exceed the coverage limits of, our cyber insurance, and such costs and impacts may have a material adverse effect on our business, reputation, financial condition, cash flows and operating results.
+
+In addition to the August 2021 cyberattack, we have experienced other unrelated immaterial incidents involving unauthorized access to certain Confidential Information, and we expect to experience cyberattacks and other cybersecurity incidents in the future. Typically, these incidents have involved attempts to commit fraud by taking control of a customer’s phone line. In other cases, the incidents have also involved unauthorized access to certain of our customers’ private information, including credit card information, financial data, social security numbers or passwords. We have also experienced, and expect to continue to experience, cyberattacks and other incidents involving our supply chain and in relation to third-party products and services (including cloud services) that are used in our IT environment and business.
+
+Our procedures and safeguards to prevent unauthorized access to information and to defend against attacks seeking to disrupt our services must be continually evaluated and enhanced to address the ever-evolving threat landscape and changing cybersecurity regulations, which could require the investment of significant resources. We cannot make assurances that all preventive actions taken will adequately repel a significant attack or prevent or substantially mitigate the impacts of security breaches or misuses of data, unauthorized access by third parties or employees or exploits against third-party supplier environments, or that we or our third-party service and equipment providers will be able to effectively identify, investigate or remediate such incidents in a timely manner or at all. We expect to continue to be the target of cyberattacks, data breaches or security incidents, given the nature of our business, and we expect the same with respect to our third-party service and equipment providers. Any future cyberattacks, data breaches, or security incidents may have a material adverse effect on our business, reputation, financial condition, cash flows and operating results. 
+
+If we are unable to take advantage of technological developments on a timely basis, we may experience a decline in demand for our services or face challenges in implementing or evolving our business strategy. 
+
+Significant technological changes continue to impact our industry. In order to grow and remain competitive, we will need to adapt to changes in available technology, continually invest in our network, increase network capacity, enhance our existing offerings, and introduce new offerings to address our current and potential customers’ changing demands. Enhancing our network, including the ongoing deployment of our 5G network, is subject to risks related to equipment changes and the migration of customers from older technologies. Negative public perception of, and regulations regarding, the perceived health risks relating to 5G networks could undermine market acceptance of our 5G services. Adopting new and sophisticated technologies may result in implementation issues, such as scheduling and supplier delays, unexpected or increased costs, technological constraints, regulatory permitting issues, customer dissatisfaction, and other issues that could cause delays in launching new technological capabilities, which in turn could result in significant costs or reduce the anticipated benefits of the upgrades. If our new services fail to retain or gain acceptance in the marketplace or if costs associated with these services are higher than anticipated, this could have a material adverse effect on our business, brand, financial condition and operating results.
+
+We rely on highly skilled personnel throughout all levels of our business. Our business could be harmed if we are unable to retain or motivate key personnel, hire qualified personnel, or maintain our corporate culture. 
+
+The market for highly skilled workers and leaders is extremely competitive. This competition has become exacerbated by the increase in employee resignations currently taking place throughout the United States as a result of the Pandemic. We believe our future success depends in substantial part on our ability to recruit, hire, motivate, develop, and retain talented personnel for 
+
+13
+
+Table of 
+Contents
+
+all areas of our organization, including our CEO and the other members of our senior leadership team. Doing so may be difficult due to many factors, including fluctuations in economic and industry conditions, changes to U.S. immigration policy, competitors’ hiring practices, employee tolerance for the significant amount of change within and demands on our Company and our industry, and the effectiveness of our compensation programs. Further, our vaccination and return to office protocols during the Pandemic may also impact the recruitment and retention of employees. If key employees depart or we are unable to recruit successfully, our business could be negatively impacted.
+
+In addition, certain members of our senior leadership team, including our CEO have term employment agreements with us. Our inability to extend the terms of these employment agreements or to replace these members of our senior leadership team at the end of their terms with qualified and capable successors could hinder our strategic planning and execution.
+
+In addition, the continued integration of T-Mobile’s and Sprint’s businesses and culture could have an adverse impact on our employees. This integration may impact our ability to attract, retain and motivate key personnel, as existing and prospective employees may experience uncertainty about their future roles with us. If key employees depart, our business could be negatively impacted. We may incur significant costs in identifying, hiring and replacing departing employees and may lose significant expertise and talent. As a result, we may not be able to meet our business plan, and our business, financial condition and operating results may be materially adversely affected.
+
+System failures and business disruptions may prevent us from providing reliable service, which could materially adversely affect our reputation and financial condition. 
+
+We rely upon systems and networks - those of third-party suppliers and other providers, in addition to our own - to provide and support our services. System, network or infrastructure failures may prevent us from providing reliable service. Examples of these risks include:
+
+•
+physical damage, power surges or outages, or equipment failure with respect to both our wireless and wireline networks, including those as a result of severe weather and natural disasters, which may occur more frequently or with greater intensity as a result of global climate change, public health crises, terrorist attacks, political instability and volatility and acts of war;
+
+•
+human error, such as responding to deceptive communications or unintentionally executing malicious code;
+
+•
+unauthorized access to our IT and business systems or to our network and critical infrastructure and those of our suppliers and other providers;
+
+•
+supplier failures or delays; and
+
+•
+system failures or outages of our business systems or communications network.
+
+Such events could cause us to lose customers and revenue, incur expenses, suffer reputational damage, and subject us to fines, penalties, adverse actions or judgments, litigation or governmental investigations. Remediation costs could include liability for information loss, costs of repairing infrastructure and systems, and/or costs of incentives offered to customers. Our insurance may not cover, or be adequate to fully reimburse us for, costs and losses associated with such events.
+
+The scarcity and cost of additional wireless spectrum, and regulations relating to spectrum use, may adversely affect our business, financial condition and operating results. 
+
+We continue to deploy spectrum to expand and deepen our coverage, particularly 5G coverage, maintain our quality of service, meet increasing customer demands, and deploy new technologies. However, as we continue to expand and differentiate from our competitors, we may acquire additional spectrum in the future. As a result, we will continue to actively seek to make additional investment in spectrum, which could be significant.
+
+The continued interest in, and acquisition of, spectrum by existing carriers and others, including speculators, may reduce our ability to acquire and/or increase the cost of acquiring spectrum in the secondary market, including leasing or purchasing additional spectrum in the 2.5 GHz band, or negatively impact our ability to gain access to spectrum through other means, including government auctions. Additionally, increased interest from third parties in acquiring spectrum may make it difficult to renew leases of some of our existing 2.5 GHz spectrum holdings in the future. Additionally, the FCC may not be able to provide sufficient additional spectrum to auction or we may be unable to secure the spectrum necessary to maintain or enhance our competitive position in any auction we may elect to participate in or in the secondary market, on favorable terms or at all. Any return on our investment in spectrum depends on our ability to attract additional customers and to provide additional services and usage to existing customers.
+
+14
+
+Table of 
+Contents
+
+The FCC, or other government entities, may impose conditions on the acquisition and use of new wireless broadband mobile spectrum that may negatively impact our ability to obtain spectrum economically or in appropriate configurations or coverage areas. 
+
+If we cannot acquire needed spectrum from the government or otherwise, if competitors acquire spectrum that will allow them to provide services competitive with our services, or if we cannot deploy services over acquired spectrum on a timely basis without burdensome conditions, at reasonable cost, and while maintaining network quality levels, our ability to attract and retain customers and our business, financial condition and operating results could be materially adversely affected.
+
+The challenges in satisfying the large number of Government Commitments in the required time frames and the significant cumulative cost incurred in tracking, monitoring and complying with them could adversely impact our business, financial condition and operating results. 
+
+In connection with the regulatory proceedings and approvals required to close the Transactions, we agreed to various Government Commitments. These Government Commitments include, among other things, extensive 5G network build-out commitments, obligations to deliver high-speed wireless services to the vast majority of Americans, and marketing an in-home fixed wireless product to households where spectrum capacity is sufficient. Other Government Commitments relate to national security, pricing and availability of rate plans, employment, substantial monetary contributions to support organizations, and implementation of diversity and inclusion initiatives. Many Government Commitments specify time frames for compliance and reporting. Failure to fulfill our obligations under these Government Commitments in a timely manner could result in substantial fines, penalties, or other legal and administrative actions and reputational harm.
+
+We expect to incur significant costs, expenses and fees to track, monitor, comply with and fulfill our obligations under these Government Commitments. In addition, abiding by the Government Commitments may divert our management’s time and energy away from other business operations and could force us to make business decisions we would not otherwise make and forego taking actions that might be beneficial to the Company. The challenges in satisfying the large number of Government Commitments in the required time frames and the cost incurred in tracking, monitoring and complying with them could also adversely impact our business, financial condition and operating results and hinder our ability to effectively compete.
+
+Economic, political and market conditions may adversely affect our business, financial condition, and operating results.
+
+Our business, financial condition and operating results are sensitive to changes in general economic conditions, including interest rates, consumer credit conditions, consumer debt levels, consumer confidence, unemployment rates, economic growth, energy costs, rates of inflation (or concerns about deflation), and other macro-economic factors. 
+
+The wireless industry, broadly, is dependent on population growth. In addition, the Government Commitments place certain limitations on our ability to increase prices, which limits our ability to pass growing costs to customers. Rising prices for goods, services and labor due to inflation could adversely impact our margins and/or growth.
+
+Our services and device financing plans are available to a broad customer base, a significant segment of which may be vulnerable to weak economic conditions, particularly our subprime customers. We may have greater difficulty in gaining new customers within this segment, and existing customers may be more likely to terminate service and default on device financing plans due to an inability to pay.
+
+Further, because Sprint offered a device leasing plan, we expect to realize economic benefit from the estimated residual value of a leased device, which reflects the estimated fair value of the underlying asset at the end of the expected lease term. Changes in residual value assumptions made at lease inception affect the amount of depreciation expense and the net amount of equipment revenue under operating leases. If estimated residual values, in the aggregate, significantly decline due to economic factors, including Pandemic impacts, obsolescence, or other circumstances, we may not realize such residual value. Sprint historically suffered, and we may suffer, negative consequences including increased costs and increased losses on devices as a result of a lease customer default, the related termination of a lease, and the attempted repossession of the device, including failure of a lease customer to return a leased device.
+
+Weak economic and credit conditions may also adversely impact our suppliers, dealers, and wholesale partners or MVNOs, some of which may file for bankruptcy, or may experience cash flow or liquidity problems, or may be unable to obtain or refinance credit such that they may no longer be able to operate. Any of these could adversely impact our ability to distribute, market, or sell our products and services.
+
+15
+
+Table of 
+Contents
+
+Our business may be adversely impacted if we are not able to successfully manage the ongoing commercial and transition services arrangements entered into in connection with the Prepaid Transaction and known or unknown liabilities arising in connection therewith.
+
+In connection with the closing of the Prepaid Transaction, we and DISH entered into certain commercial and transition services arrangements, including a Master Network Services Agreement (the “MNSA”) and a Spectrum Purchase Agreement (the “Spectrum Purchase Agreement”). Pursuant to the MNSA, DISH will receive network services from the Company for a period of seven years. As set forth in the MNSA, the Company will provide DISH, among other things, (a) legacy network services for certain Boost Mobile prepaid end users on the Sprint network, (b) T-Mobile network services for certain end users that have been migrated to the T-Mobile network or provisioned on the T-Mobile network by or on behalf of DISH and (c) infrastructure mobile network operator services to assist in the access and integration of the DISH network. Pursuant to the Spectrum Purchase Agreement, DISH has agreed to purchase all of Sprint’s 800 MHz spectrum (approximately 13.5 MHz of nationwide spectrum) for a total of approximately $3.6 billion; provided, however, that if DISH breaches the Spectrum Purchase agreement prior to the closing or fails to deliver the purchase price following the satisfaction or waiver of all closing conditions, DISH’s sole liability will be to pay us a fee of approximately $72 million. In such instance, T-Mobile may be required to conduct an auction sale of all of Sprint’s 800 MHz spectrum under the terms set forth in the Consent Decree, but would not be required to divest such spectrum for an amount less than $3.6 billion. The covered spectrum sale will not occur before the third anniversary of the Merger (i.e., not before April 1, 2023), but must be divested within the later of three years after the closing of the Prepaid Transaction and five days after receipt of the approval from the FCC for the transfer, following an application for FCC approval to be filed by the third anniversary of the closing of the Merger. T-Mobile may exercise an option to lease back 4 MHz (2 MHz downlink + 2 MHz uplink) of the spectrum for two years following the closing of the 800 MHz spectrum sale at the same per person rate used to calculate the purchase price paid by DISH to T-Mobile – a rate of approximately $68 million per year.
+
+Failure to successfully manage these ongoing commercial and transition services arrangements entered into in connection with the Prepaid Transaction and liabilities arising in connection therewith may result in material unanticipated problems, including diversion of management time and energy, significant expenses and liabilities. There may also be other potential adverse consequences and unforeseen increased expenses or liabilities associated with the Prepaid Transaction, the occurrence of which could materially impact our business, financial condition, liquidity and operating results. In addition, there may be an increase in competition from DISH and other third parties that DISH may enter into commercial agreements with, who are significantly larger and with greater resources and scale advantages as compared to us. Such increased competition may result in our loss of customers and other business relationships.
+
+Any acquisition, investment, or merger may subject us to significant risks, any of which may harm our business. 
+
+We may pursue acquisitions of, investments in or mergers with businesses, technologies, services and/or products that complement or expand our business. Some of these potential transactions could be significant relative to the size of our business and operations. Any such transaction would involve a number of risks and could present financial, managerial and operational challenges, including:
+
+•
+diversion of management attention from running our existing business;
+
+•
+increased costs to integrate the networks, spectrum, technology, personnel, customer base and business practices of the business involved in any such transaction with our business;
+
+•
+difficulties in effectively integrating the financial and operational systems of the business involved in any such transaction into (or supplanting such systems with) our financial and operational reporting infrastructure and internal control framework in an effective and timely manner;
+
+•
+potential exposure to material liabilities not discovered in the due diligence process or as a result of any litigation arising in connection with any such transaction;
+
+•
+significant transaction-related expenses in connection with any such transaction, whether consummated or not;
+
+•
+risks related to our ability to obtain any required regulatory approvals necessary to consummate any such transaction; and
+
+•
+any business, technology, service, or product involved in any such transaction may significantly under-perform relative to our expectations, and we may not achieve the benefits we expect from the transaction, which could, among other things, also result in a write-down of goodwill and other intangible assets associated with such transaction.
+
+For any or all of these reasons, as well as unknown risks, acquisitions, investments, or mergers may have a material adverse effect on our business, financial condition and operating results.
+
+16
+
+Table of 
+Contents
+
+We rely on third parties to provide products and services for the operation of our business, and the failure or inability of such parties to provide these products or services could adversely affect our business, financial condition and operating results. 
+
+We depend heavily on suppliers, service providers, their subcontractors and other third parties for us to efficiently operate our business. Due to the complexity of our business, it is not unusual to engage a diverse set of suppliers to help us develop, maintain, and troubleshoot products and services such as wireless and wireline network components, software development services, and billing and customer service support. Some of our suppliers may provide services from outside of the United States, which carries additional regulatory and legal obligations. We commonly rely on suppliers to provide us with contractual assurances and to disclose accurate information regarding risks associated with their provision of products or services in accordance with our policies and standards, including our Supplier Code of Conduct and our third-party risk management practices. The failure of our suppliers to comply with our expectations and policies could have a material adverse effect on our business, financial condition and operating results.
+
+Many of the products and services we use are available through multiple sources and suppliers. However, there are a limited number of suppliers who can support or provide billing services, voice and data communications transport services, wireless or wireline network infrastructure, equipment, handsets, other devices, and payment processing services, among other products and services. Disruptions or failure of such suppliers to adequately perform could have a material adverse effect on our business, financial condition and operating results.
+
+Our suppliers, service providers and their subcontractors may not perform at the levels we expect or at the levels required by their contracts. Our suppliers are also subject to their own risks, including, but not limited to, economic, financial and credit conditions, labor force disruptions, disruptions in global supply chain and the risks of natural catastrophic events such as earthquakes, floods, hurricanes and public health crises such as the Pandemic. Our business could be severely disrupted if critical suppliers or service providers fail to comply with their contracts or if we experience delays or service degradation during any transition to a new outsourcing provider or other supplier or if we are required to replace the supplied products or services with those from another source, especially if the replacement becomes necessary on short notice. Any such disruptions could have a material adverse effect on our business, financial condition and operating results.
+
+Risks Related to Our Indebtedness
+
+Our substantial level of indebtedness could adversely affect our business flexibility, ability to service our debt, and increase our borrowing costs.
+
+We have, and we expect that we will continue to have, a substantial amount of debt. Our substantial level of indebtedness could have the effect of, among other things, reducing our flexibility in responding to changing business, economic, market and industry conditions and increasing the amount of cash required to service our debt. In addition, this level of indebtedness may also reduce funds available for capital expenditures, any potential board-approved share repurchases and other activities. Those impacts may put us at a competitive disadvantage relative to other companies with lower debt levels. Further, we may need to incur substantial additional indebtedness in the future, subject to the restrictions contained in our debt instruments, which could increase the risks associated with our capital structure.
+
+Our ability to service our substantial debt obligations will depend on future performance, which will be affected by business, economic, market and industry conditions and other factors, including our ability to achieve the expected benefits of the Transactions. There is no guarantee that we will be able to generate sufficient cash flow to service our debt obligations when due. If we are unable to meet such obligations or fail to comply with the financial and other restrictive covenants contained in the agreements governing such debt obligations, we may be required to refinance all or part of our debt, sell important strategic assets at unfavorable prices or make additional borrowings. We may not be able to, at any given time, refinance our debt, sell assets or make additional borrowings on commercially reasonable terms or at all, which could have a material adverse effect on our business, financial condition and operating results.
+
+Changes in credit market conditions could adversely affect our ability to raise debt favorably.
+
+Instability in the global financial markets, inflation, policies of various governmental and regulatory agencies, including changes in monetary policy and interest rates, and other general economic conditions could lead to volatility in the credit and equity markets. This volatility could limit our access to the capital markets, leading to higher borrowing costs or, in some cases, the inability to obtain financing on terms that are acceptable to us or at all.
+
+17
+
+Table of 
+Contents
+
+We are subject to risks related to the cessation of LIBOR. Amounts drawn under our revolving credit facility and certain funded amounts under our EIP sale arrangement and our service receivable sale arrangement currently bear interest at rates that are calculated based on U.S. dollar LIBOR, which is expected to be discontinued by 2023. Any alternative reference rate that replaces U.S. dollar LIBOR under our revolving credit facility, is used as a benchmark on any other borrowings or is used as a benchmark under our EIP sale arrangement or service receivable sale arrangement could be higher or more volatile than LIBOR prior to its discontinuance, which could result in an increase in the cost of our indebtedness or funded amounts. Further, credit markets may be disrupted as a result of the phase-out or replacement of LIBOR. In addition, any hedging agreements we have and may continue to enter into to limit our exposure to interest rate increases or foreign currency fluctuations may not offer complete protection from these risks or may be unsuccessful, and consequently may effectively increase the interest rate we pay on our debt or the exchange rate with respect to any debt we may incur in a foreign currency, and any portion not subject to such hedging agreements would have full exposure to interest rate increases or foreign currency fluctuations, as applicable. If any financial institutions that are parties to our hedging agreements were to default on their payment obligations to us, declare bankruptcy or become insolvent, we would be unhedged against the underlying exposures. Any posting of collateral by us under our hedging agreements and the modification or termination of any of our hedging agreements could negatively impact our liquidity or other financial metrics. Any of these risks could have a material adverse effect on our business, financial condition and operating results.
+
+The agreements governing our indebtedness and other financings include restrictive covenants that limit our operating
+
+flexibility.
+
+The agreements governing our indebtedness and other financings impose material operating and financial restrictions. These restrictions, subject in certain cases to customary baskets, exceptions and maintenance and incurrence-based financial tests, together with our debt service obligations, may limit our ability to engage in transactions and pursue strategic business opportunities. These restrictions could limit our ability to obtain debt financing, make share repurchases, refinance or pay principal on our outstanding indebtedness, complete acquisitions for cash or indebtedness or react to business, economic, market and industry conditions and other changes in our operating environment or the economy. Any future indebtedness that we incur may contain similar or more restrictive covenants. Any failure to comply with the restrictions of our debt agreements may result in an event of default under these agreements, which in turn may result in defaults or acceleration of obligations under these and other agreements, giving our lenders the right to terminate the commitments they had made or the right to require us to repay all amounts then outstanding plus any interest, fees, penalties or premiums. An event of default may also compel us to sell certain assets securing indebtedness under these agreements.
+
+Credit rating downgrades and/or inability to access debt markets could adversely affect our business, cash flows, financial condition and operating results. 
+
+Credit ratings impact the cost and availability of future borrowings and, as a result, cost of capital. Our current ratings reflect each rating agency’s opinion of our financial strength, operating performance and ability to meet our debt obligations. Our capital structure and business model are reliant on continued access to debt markets. Each rating agency reviews our ratings periodically, and there can be no assurance that such ratings will be maintained in the future. A downgrade in our corporate rating and/or our issued debt ratings, or our amount of secured debt outstanding, could impact our ability to access debt markets, including the investment-grade debt market for our secured debt issuances, and adversely affect our business, cash flows, financial condition and operating results. 
+
+Risks Related to Legal and Regulatory Matters
+
+Any material weaknesses we identify while we continue to work to integrate and align policies, principles and practices of the two companies following the Merger, or any other failure by us to maintain effective internal controls, could result in a loss of investor confidence regarding our financial statements and reputational damage. 
+
+Under Section 404 of the Sarbanes-Oxley Act, we, along with our independent registered public accounting firm, are required to report on the effectiveness of our internal control over financial reporting. While we continue to integrate and align the policies, principles and practices of the two companies following the Merger, as a result of the differences in control environments and cultures, we could identify material weaknesses that could result in materially inaccurate financial statements, materially inaccurate disclosures, or failure to prevent error or fraud for the combined company. There can be no assurance that remediation of any material weaknesses identified during integration of the two companies would be completed in a timely manner or that the remedial measures will prevent other control deficiencies or material weaknesses. If we are unable to remediate material weaknesses in internal control over financial reporting, then our ability to analyze, record and report financial information free of material misstatements, to prepare financial statements within the time periods specified by the rules and forms of the SEC and otherwise to comply with the requirements of Section 404 of the Sarbanes-Oxley Act would be 
+
+18
+
+Table of 
+Contents
+
+negatively impacted. The impact could negatively impact our business, financial condition or operating results, restrict our ability to access the capital markets, require the expenditure of significant resources to correct the weaknesses or deficiencies, subject us to fines, penalties, investigations or judgments, harm our reputation, or otherwise cause a decline in trading price of our stock and investor confidence.
+
+Changes in regulations or in the regulatory framework under which we operate could adversely affect our business, financial condition and operating results. 
+
+We are subject to regulatory oversight by various federal, state and local agencies, as well as judicial review and actions, on issues related to the wireless industry that include, but are not limited to, roaming, interconnection, spectrum allocation and licensing, facilities siting, pole attachments, intercarrier compensation, Universal Service Fund, 911 services, consumer protection, consumer privacy, and cybersecurity. We are also subject to regulations in connection with other aspects of our business, including device financing and insurance activities.
+
+The FCC regulates the licensing, construction, modification, operation, ownership, sale, and interconnection of wireless communications systems, as do some state and local regulatory agencies. In particular, the FCC imposes significant regulation on licensees of wireless spectrum with respect to how radio spectrum is used by licensees, the nature of the services that licensees may offer and how the services may be offered, and the resolution of issues of interference between spectrum bands. Changes necessary to resolve interference issues or concerns may have a significant impact on our ability to fully utilize our spectrum. As an example, we recently we won spectrum licenses in the so-called “C band” to support our rollout of 5G technology and services. There have been concerns raised that use of this spectrum by wireless carriers for 5G deployment could interfere with the altimeters in certain aircraft, and there is an ongoing discussion between the industry, the FCC and the FAA as to whether and how 5G operations should be limited around airports. Additionally, the FTC and other federal and state agencies have asserted that they have jurisdiction over some consumer protection, and elimination and prevention of anticompetitive business practices with respect to the provision of wireless products and services. 
+
+We cannot assure that the FCC or any other federal, state or local agencies will not adopt regulations, implement new programs in response to the Pandemic, or take enforcement or other actions that would adversely affect our business, impose new costs, or require changes in current or planned operations, including timing of the shutdown of legacy technologies. For example, in response to the Pandemic, the California Public Utilities Commission adopted a resolution providing a moratorium on customer disconnects and late fees for certain California customers facing financial hardship. Additionally, in March 2015, the FCC established net neutrality and privacy regimes that applied to our operations. Both sets of rules potentially subjected some of our initiatives and practices to more burdensome requirements and heightened scrutiny by federal and state regulators, the public, edge providers, and private litigants regarding whether such initiatives or practices are compliant. While the FCC rules were largely rolled back in December 2017, the current FCC could decide to establish new net neutrality requirements. In addition, some states and other jurisdictions have enacted laws in these areas (including, for example, the CCPA and CPRA as discussed below) and others are considering enacting similar laws. It also is uncertain what rules may be promulgated under the current administration (e.g., the FTC has discussed promulgating privacy rules), perpetuating the risk and uncertainty regarding the regulatory environment and compliance around these issues.
+
+In addition, states are increasingly focused on the quality of service and support that wireless communications service providers provide to their customers and several states have proposed or enacted new and potentially burdensome regulations in this area. We also face potential investigations by, and inquiries from or actions by state public utility commissions. We also cannot assure that Congress will not amend the Communications Act, from which the FCC obtains its authority, and which serves to limit state authority, or enact other legislation in a manner that could be adverse to our business. 
+
+Failure to comply with applicable regulations could have a material adverse effect on our business, financial condition and operating results. We could be subject to fines, forfeitures, and other penalties (including, in extreme cases, revocation of our spectrum licenses) for failure to comply with FCC or other governmental regulations, even if any such noncompliance was unintentional. The loss of any licenses, or any related fines or forfeitures, could adversely affect our business, financial condition and operating results.
+
+Laws and regulations relating to the handling of privacy and data protection may result in increased costs, legal claims, fines against us, or reputational damage.
+
+In January 2020, the California Consumer Privacy Act (the “CCPA”) became effective, creating new data privacy rights for California residents and new compliance obligations for us. We have incurred and will continue to incur significant implementation costs to ensure compliance with the CCPA, and we could see increased litigation costs. Moreover, a new privacy law, the California Privacy Rights Act (“CPRA”), was passed by Californians via ballot initiative during the November 
+
+19
+
+Table of 
+Contents
+
+3, 2020 election. The CPRA, which is scheduled to take effect on January 1, 2023 (with a lookback to January 1, 2022), will significantly modify the CCPA and will impose additional data protection obligations on companies such as ours doing business in California. Other states (such as Nevada) have passed or are considering similar legislation (such as Washington), which could create more risks and potential costs for us, especially to the extent the specific requirements vary from those in California, Nevada and other existing laws.
+
+We have incurred and will continue to incur significant implementation costs to ensure compliance with the CCPA, the CPRA, and their related regulations and any additional laws and regulations could cause us to incur further costs or further constrain our business, strategies, offerings and initiatives.
+
+Unfavorable outcomes of legal proceedings may adversely affect our business, reputation, financial condition, cash flows and operating results.
+
+We and our affiliates are involved in various disputes, governmental and/or regulatory inspections, investigations and proceedings and litigation matters. Such legal proceedings can be complex, costly, and highly disruptive to our business operations by diverting the attention and energy of management and other key personnel.
+
+In connection with the Transactions, it is possible that stockholders of T-Mobile and/or Sprint may file putative class action lawsuits or shareholder derivative actions against the Company and the legacy T-Mobile board of directors and/or the legacy Sprint board of directors. Among other remedies, these stockholders could seek damages. The outcome of any litigation is uncertain and any such potential lawsuits could result in substantial costs and may be costly and distracting to management.
+
+Additionally, on April 1, 2020, in connection with the closing of the Merger, we assumed the contingencies and litigation matters of Sprint. Those matters include a wide variety of disputes, claims, government agency investigations and enforcement actions and other proceedings, including, among other things, certain ongoing FCC and state government agency investigations into Sprint’s Lifeline program. In September 2019, Sprint notified the FCC that it had claimed monthly subsidies for serving customers even though those customers may not have met usage requirements under Sprint’s usage policy for the Lifeline program due to an inadvertent coding issue in the system used to identify qualifying customer usage that occurred in July 2017 while the system was being updated. Sprint has made a number of payments to reimburse the federal government and certain states for excess subsidy payments. Unfavorable resolution of these matters could require making additional reimbursements and paying additional fines and penalties.
+
+On February 28, 2020, we received a Notice of Apparent Liability for Forfeiture and Admonishment from the FCC, which proposed a penalty against us for allegedly violating Section 222 of the Communications Act and the FCC’s regulations governing the privacy of customer information. We recorded an accrual for an estimated payment amount as of March 31, 2020, which was included in Accounts payable and accrued liabilities on our Consolidated Balance Sheets.
+
+As a result of the August 2021 cyberattack, we are subject to numerous lawsuits, including multiple class action lawsuits seeking unspecified monetary damages, mass arbitrations, and inquiries by various government agencies, law enforcement and other governmental authorities, and we may be subject to further regulatory inquiries and private litigation. We are cooperating fully with regulators and vigorously defending against the class actions and other lawsuits. In light of the inherent uncertainties involved in these proceedings and inquiries, as of the date of this report, we have not recorded any accruals for losses related to these proceedings and inquiries, as any such amounts are not yet probable or estimable. We believe it is reasonably possible that we could incur losses associated with these proceedings and inquiries, and we will continue to evaluate information as it becomes known and will record an estimate for losses at the time or times when it is both probable that a loss has been incurred and the amount of the loss is reasonably estimable. Ongoing legal and other costs related to these proceedings and inquiries, as well as any potential future proceedings and inquiries, may be substantial, and losses associated with any adverse judgments, settlements, penalties or other resolutions of such proceedings and inquiries could be significant and have a material adverse impact on our business, reputation, financial condition, cash flows and operating results. 
+
+We, along with equipment manufacturers and other carriers, are subject to current and potential future lawsuits alleging adverse health effects arising from the use of wireless handsets or from wireless transmission equipment such as cell towers. In addition, the FCC has from time to time gathered data regarding wireless device emissions, and its assessment of the risks associated with using wireless devices may evolve based on its findings. Any of these allegations or changes in risk assessments could result in customers purchasing fewer devices and wireless services, could result in significant legal and regulatory liability, and could have a material adverse effect on our business, reputation, financial condition, cash flows and operating results.
+
+20
+
+Table of 
+Contents
+
+The assessment of the outcome of legal proceedings, including our potential liability, if any, is a highly subjective process that requires judgments about future events that are not within our control. The amounts ultimately received or paid upon settlement or pursuant to final judgment, order or decree may differ materially from amounts accrued in our financial statements. In addition, litigation or similar proceedings could impose restraints on our current or future manner of doing business. Such potential outcomes including judgments, awards, settlements or orders could have a material adverse effect on our business, reputation, financial condition, cash flows and operating results.
+
+We offer regulated financial services products. These products expose us to a wide variety of state and federal regulations. 
+
+The financing of devices, such as through our EIP, JUMP! On Demand or other leasing programs, such as those acquired in the Merger, has expanded our regulatory compliance obligations. Failure to remain compliant with applicable regulations may increase our risk exposure in the following areas:
+
+•
+consumer complaints and potential examinations or enforcement actions by federal and state regulatory agencies, including, but not limited to, the Consumer Financial Protection Bureau, state attorneys general, the FCC and the FTC; and
+
+•
+regulatory fines, penalties, enforcement actions, civil litigation, and/or class action lawsuits.
+
+Failure to comply with applicable regulations and the realization of any of these risks could have a material adverse effect on our business, financial condition and operating results.
+
+Our business may be impacted by new or amended tax laws or regulations or administrative interpretations and judicial decisions affecting the scope or application of tax laws or regulations.
+
+In connection with the products and services we sell, we calculate, collect, and remit various federal, state, and local taxes, fees and regulatory charges (“tax” or “taxes”) to numerous federal, state and local governmental authorities, including federal and state USF contributions and common carrier regulatory charges and public safety fees. As many of our service plans offer taxes and fees inclusive, our business results could be adversely impacted by increases in taxes and fees. In addition, we incur and pay state and local transaction taxes and fees on purchases of goods and services used in our business.
+
+Tax laws are dynamic and subject to change as new laws are passed and new interpretations of the law are issued or applied. In many cases, the application of existing, newly enacted or amended tax laws may be uncertain and subject to different interpretations, especially when evaluated against new technologies and telecommunications services, such as broadband internet access and cloud related services and in the context of our merger with Sprint. Legislative changes, administrative interpretations and judicial decisions affecting the scope or application of tax laws could also impact revenue reported and taxes due on tax inclusive plans.
+
+In the event that T-Mobile, including pre-acquisition Sprint, has incorrectly described, disclosed, determined, calculated, assessed, or remitted amounts that were due to governmental authorities, we could be subject to additional taxes, fines, penalties, or other adverse actions, which could materially impact our business, financial condition and operating results. In the event that federal, state, and/or local municipalities were to significantly increase taxes and regulatory or public safety charges on our network, operations, or services, or seek to impose new taxes or charges, such as a proposed corporate minimum tax or new limits on interest deductibility, it could have a material adverse effect on our business, financial condition and operating results.
+
+Our wireless licenses are subject to renewal and may be revoked in the event that we violate applicable laws. 
+
+Our existing wireless licenses are subject to renewal upon the expiration of the period for which they are granted. Our licenses have been granted with an expectation of renewal and the FCC has approved our license renewal applications. However, the Communications Act provides that licenses may be revoked for cause and license renewal applications denied if the FCC determines that a renewal would not serve the public interest. If we fail to timely file to renew any wireless license or fail to meet any regulatory requirements for renewal, including construction and substantial service requirements, we could be denied a license renewal. Many of our wireless licenses are subject to interim or final construction requirements and there is no guarantee that the FCC will find our construction, or the construction of prior licensees, sufficient to meet the build-out or renewal requirements. Accordingly, we cannot assure that the FCC will renew our wireless licenses upon their expiration. If any of our wireless licenses were to be revoked or not renewed upon expiration, we would not be permitted to provide services under that license, which could have a material adverse effect on our business, financial condition and operating results. 
+
+21
+
+Table of 
+Contents
+
+Risks Related to Ownership of Our Common Stock
+
+Our Fifth Amended and Restated Certificate of Incorporation designates the Court of Chancery of the State of Delaware as the sole and exclusive forum for certain actions and proceedings, which could limit the ability of our stockholders to obtain a judicial forum of their choice for disputes with the Company or its directors, officers or employees.
+
+Our Fifth Amended and Restated Certificate of Incorporation (the “Certificate of Incorporation”) provides that, unless we consent in writing to the selection of an alternative forum, the Court of Chancery of the State of Delaware shall be the sole and exclusive forum for (i) any derivative action or proceeding brought on behalf of the Company, (ii) any action asserting a claim of breach of a fiduciary duty owed by any director, officer or employee of the Company to the Company or its stockholders, (iii) any action asserting a claim arising pursuant to any provision of the General Corporation Law of the State of Delaware, the Certificate of Incorporation or the Company's bylaws or (iv) any other action asserting a claim arising under, in connection with, and governed by the internal affairs doctrine. This choice of forum provision does not waive our compliance with our obligations under the federal securities laws and the rules and regulations thereunder. Moreover, the provision does not apply to suits brought to enforce a duty or liability created by the Exchange Act or by the Securities Act of 1933, as amended.
+
+This choice of forum provision may increase costs to bring a claim, discourage claims or limit a stockholder's ability to bring a claim in a judicial forum that the stockholder finds favorable for disputes with the Company or its directors, officers or employees, which may discourage such lawsuits against the Company and its directors, officers and employees, even though an action, if successful, might benefit our stockholders. Alternatively, if a court were to find the choice of forum provision to be inapplicable or unenforceable in an action, we may incur additional costs associated with resolving such matters in other jurisdictions, which could increase our costs of litigation and adversely affect our business and financial condition.
+
+Each of DT, which controls a majority of the voting power of our common stock, and SoftBank, a significant stockholder of T-Mobile, may have interests that differ from the interests of our other stockholders. 
+
+Upon the completion of the Transactions, DT and SoftBank entered into the SoftBank Proxy Agreement, and on June 22, 2020, DT, Claure Mobile LLC (“CM LLC”), and Marcelo Claure entered into a Proxy, Lock-up and ROFR Agreement (“the Claure Proxy Agreement,” together with the SoftBank Proxy Agreement, the “Proxy Agreements”). Pursuant to the Proxy Agreements, at any meeting of our stockholders, the shares of our common stock beneficially owned by SoftBank or CM LLC will be voted in the manner as directed by DT.
+
+Accordingly, DT controls a majority of the voting power of our common stock and therefore we are a “controlled company,” as defined in The NASDAQ Stock Market LLC (“NASDAQ”) listing rules, and we are not subject to NASDAQ requirements that would otherwise require us to have a majority of independent directors, a nominating committee composed solely of independent directors or a compensation committee composed solely of independent directors. Accordingly, our stockholders will not be afforded the same protections generally as stockholders of other NASDAQ-listed companies with respect to corporate governance for so long as we rely on these exemptions from the corporate governance requirements.
+
+In addition, pursuant to our Certificate of Incorporation and the Second Amended and Restated Stockholders’ Agreement, as long as DT beneficially owns 30% or more of our outstanding common stock, we are restricted from taking certain actions without DT’s prior written consent, including (i) incurring indebtedness above certain levels based on a specified debt to cash flow ratio, (ii) taking any action that would cause a default under any instrument evidencing indebtedness involving DT or its affiliates, (iii) acquiring or disposing of assets or entering into mergers or similar acquisitions in excess of $1.0 billion, (iv) changing the size of our board of directors, (v) subject to certain exceptions, issuing equity of 10% or more of the then-outstanding shares of our common stock, or issuing equity to redeem debt held by DT, (vi) repurchasing or redeeming equity securities or making any extraordinary or in-kind dividend other than on a pro rata basis, or (vii) making certain changes involving our CEO. We are also restricted from amending our Certificate of Incorporation and bylaws in any manner that could adversely affect DT’s rights under the Second Amended and Restated Stockholders’ Agreement for as long as DT beneficially owns 5% or more of our outstanding common stock. These restrictions could prevent us from taking actions that our board of directors may otherwise determine are in the best interests of the Company and our stockholders or that may be in the best interests of our other stockholders.
+
+DT effectively has control over all matters submitted to our stockholders for approval, including the election or removal of directors, changes to our Certificate of Incorporation, a sale or merger of our Company and other transactions requiring stockholder approval under Delaware law. DT’s controlling interest may have the effect of making it more difficult for a third party to acquire, or discouraging a third party from seeking to acquire, the Company. DT and SoftBank, as significant 
+
+22
+
+Table of 
+Contents
+
+stockholders, may have strategic, financial, or other interests different from our other stockholders, including as the holder of a substantial amount of our indebtedness and as the counterparty in a number of commercial arrangements, and may make decisions adverse to the interests of our other stockholders.
+
+In addition, we license certain trademarks from DT, including the right to use the trademark “T-Mobile” as a name for the Company and our flagship brand, under a trademark license agreement, as amended, with DT. As described in more detail in our Proxy Statement on Schedule 14A filed with the SEC on April 21, 2021 under the heading “Transactions with Related Persons and Approval,” we are obligated to pay DT a royalty in an amount equal to 0.25% (the “royalty rate”) of the net revenue (as defined in the trademark license) generated by products and services sold by the Company under the licensed trademarks subject to a cap of $80.0 million per calendar year through December 31, 2028. We and DT are obligated to negotiate a new trademark license when (i) DT has 50% or less of the voting power of the outstanding shares of capital stock of the Company or (ii) any third party owns or controls, directly or indirectly, 50% or more of the voting power of the outstanding shares of capital stock of the Company, or otherwise has the power to direct or cause the direction of the management and policies of the Company. If we and DT fail to agree on a new trademark license, either we or DT may terminate the trademark license and such termination shall be effective, in the case of clause (i) above, on the third anniversary after notice of termination and, in the case of clause (ii) above, on the second anniversary after notice of termination. A further increase in the royalty rate or termination of the trademark license could have a material adverse effect on our business, financial condition and operating results.
+
+Future sales of our common stock by DT and SoftBank and foreign ownership limitations by the FCC could have a negative impact on our stock price and decrease the value of our stock.
+
+We cannot predict the effect, if any, that market sales of shares of our common stock by DT or SoftBank will have on the prevailing trading price of our common stock. Sales of a substantial number of shares of our common stock could cause our stock price to decline.
+
+We, DT and SoftBank are parties to the Second Amended and Restated Stockholders’ Agreement pursuant to which DT is free to transfer its shares in public sales without notice, as long as such transactions would not result in a third party owning more than 30% of the outstanding shares of our common stock. If a transfer would exceed the 30% threshold, it is prohibited unless the transfer is approved by our board of directors, or the transferee makes a binding offer to purchase all of the other outstanding shares on the same price and terms. The Second Amended and Restated Stockholders’ Agreement does not otherwise impose any other restrictions on the sales of common stock by DT or SoftBank. Moreover, the Second Amended and Restated Stockholders’ Agreement generally requires us to cooperate with DT to facilitate the resale of our common stock or debt securities held by DT under shelf registration statements we have filed. The sale of shares of our common stock by DT or SoftBank (other than in transactions involving the purchase of all of our outstanding shares) could significantly increase the number of shares available in the market, which could cause a decrease in our stock price. In addition, even if DT or SoftBank does not sell a large number of their shares into the market, their rights to transfer a large number of shares into the market may depress our stock price.
+
+Furthermore, under existing law, no more than 20% of an FCC licensee’s capital stock may be directly owned, or no more than 25% indirectly owned, or voted by non-U.S. citizens or their representatives, by a foreign government or its representatives or by a foreign corporation. If an FCC licensee is controlled by another entity, up to 25% of that entity’s capital stock may be owned or voted by non-U.S. citizens or their representatives, by a foreign government or its representatives or by a foreign corporation. Foreign ownership above the 25% holding company level may be allowed if the FCC finds such higher levels consistent with the public interest. The FCC has ruled that higher levels of foreign ownership, even up to 100%, are presumptively consistent with the public interest with respect to investors from certain nations. If our foreign ownership by previously unapproved foreign parties were to exceed the permitted level, the FCC could subject us to a range of penalties, including an order for us to divest the foreign ownership in part, fines, license revocation or denials of license renewals. If ownership of our common stock by an unapproved foreign entity were to become subject to such limitations, or if any ownership of our common stock violates any other rule or regulation of the FCC applicable to us, our Certificate of Incorporation provides for certain redemption provisions at a pre-determined price which may be less than fair market value. These limitations and our Certificate of Incorporation may limit our ability to attract additional equity financing outside the United States and decrease the value of our common stock.
+
+We have never paid or declared any cash dividends on our common stock, and we do not intend to declare or pay any cash dividends on our common stock in the foreseeable future.
+
+We have never paid or declared any cash dividends on our common stock, and we do not intend to declare or pay any cash dividends on our common stock in the foreseeable future. Our credit facilities and indentures governing our long-term debt to 
+
+23
+
+Table of 
+Contents
+
+affiliates and third parties contain covenants that, among other things, restrict our ability to declare or pay dividends on our common stock. We currently intend to use future earnings, if any, to invest in our business and for general corporate purposes, including the integration of T-Mobile’s and Sprint’s businesses, the continued build-out of our 5G network and potential share repurchases as appropriate. Therefore, we do not anticipate paying any cash dividends on our common stock in the foreseeable future, and capital appreciation, if any, of our common stock will be the sole source of potential gain.
+
+Risks Related to Integration 
+
+Although we expect that the Transactions will result in synergies and other benefits, those synergies and benefits may not be realized in the amounts anticipated or may not be realized within the expected time frame, and risks associated with the foregoing may also result from the extended delay in the integration of the companies. 
+
+Our ability to realize the anticipated benefits of the Transactions will depend, to a large extent, on our ability to integrate our and Sprint’s businesses in a manner that facilitates growth opportunities and achieves the projected cost savings. In addition, some of the anticipated synergies are not expected to occur for a significant time period following the completion of the Transactions and will require substantial capital expenditures in the near term.
+
+Our anticipated synergies and other benefits of the Transactions may be reduced or eliminated, including a delay in the integration of, or an inability to integrate, the networks of T-Mobile and Sprint. Even if we are able to integrate the two companies successfully, the anticipated benefits of the Transactions, including the expected synergies and network benefits, may not be realized fully or at all or may take longer to realize than expected.
+
+We have incurred substantial expenses as a result of completing the Transactions. We expect to incur substantial additional expenses in connection with migrating the Sprint customer base and integrating T-Mobile’s and Sprint’s businesses, operations, policies and procedures and compliance with the Government Commitments. While we have assumed that a certain level of transaction-related expenses will be incurred, factors beyond our control could affect the total amount or the timing of these expenses. Many of the expenses that will be incurred, by their nature, are difficult to estimate accurately. These expenses could exceed the costs historically borne by us and offset the expected synergies.
+
+Our business and Sprint’s business may not be integrated successfully or such integration may be more difficult, time consuming or costly than expected. Operating costs, customer loss and business disruptions, including challenges in maintaining relationships with employees, customers, suppliers or vendors, may be greater than expected.
+
+The combination of two independent businesses is complex, costly and time-consuming, and may divert significant management attention and resources. This process may disrupt our business or otherwise impact our ability to compete. The overall combination of our and Sprint’s businesses may also result in material unanticipated problems, expenses, liabilities, competitive responses and impacts, and loss of customers and other business relationships. The difficulties of combining the operations of the companies include, among others:
+
+•
+diversion of management attention to integration matters;
+
+•
+difficulties in integrating operations and systems, including intellectual property and communications systems, administrative and information technology infrastructure, and supplier and vendor arrangements;
+
+•
+challenges in conforming standards, controls, procedures and accounting and other policies;
+
+•
+alignment of key performance measurements may result in a greater need to communicate and manage clear expectations while we work to integrate and align policies and practices;
+
+•
+difficulties in integrating employees;
+
+•
+the need to address possible differences in corporate cultures, management philosophies, and compensation structures;
+
+•
+challenges in retaining existing customers and obtaining new customers;
+
+•
+difficulties in managing the expanded operations of a significantly larger and more complex company;
+
+•
+any disruptions to the operations and business in the Shentel service area following the Company’s acquisition of Wireless Assets (as defined in 
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operatio
+ns
+
+) as a result of the transition of such assets to the Company;
+
+•
+compliance with Government Commitments relating to national security;
+
+•
+known or potential unknown liabilities of Sprint that are larger than expected; and
+
+•
+other potential adverse consequences and unforeseen increased expenses or liabilities associated with the Transactions.
+
+Additionally, uncertainties over the integration process could cause customers, suppliers, distributors, dealers, retailers and others to seek to change or cancel our existing business relationships or to refuse to renew existing relationships. Suppliers, 
+
+24
+
+Table of 
+Contents
+
+distributors and content and application providers may also delay or cease developing new products for us that are necessary for the operations of our business due to uncertainties. Competitors may also target our existing customers by highlighting potential uncertainties and integration difficulties.
+
+Some of these factors are outside our control, and any one of them could result in lower revenues, higher costs and diversion of management time and energy, which could adversely impact our business, financial condition and operating results. In addition, even if the integration is successful, the full benefits of the Transactions including, among others, the synergies, cost savings or sales or growth opportunities may not be realized within the anticipated time frames or at all.
+
+In connection with the Merger, we are evaluating the long-term billing system architecture strategy for our customers. Our long-term strategy is to migrate Sprint’s legacy customers onto T-Mobile’s existing billing platforms. We will operate and maintain multiple billing systems until such conversion is completed. Any unanticipated difficulties, disruption, or significant delays could have adverse operational, financial, and reputational effects on our business. 
+
+Following the closing of the Merger, we are operating and maintaining multiple billing systems. We expect to continue to do so until successful conversion of Sprint’s legacy customers to T-Mobile’s existing billing platforms. We may encounter unanticipated difficulties or experience delays in the ongoing integration efforts with respect to billing, causing major system or business disruptions. In addition, we or our supporting vendors may experience errors, cyber-attacks or other operational disruptions that could negatively impact us and over which we may have limited control. Interruptions and/or failure of these billing systems could disrupt our operations and impact our ability to provide or bill for our services, retain customers, attract new customers or negatively impact overall customer experience. Any occurrence of the foregoing could cause material adverse effects on our operations and financial condition, and/or material weaknesses in our internal control over financial reporting and reputational damage.

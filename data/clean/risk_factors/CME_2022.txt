@@ -1,0 +1,754 @@
+" beginning on page 15 for a description of competitive risks and uncertainties.
+
+Competition in our Derivatives Exchange Business
+
+We believe competition in the derivatives business is based on a number of factors, including, among others:
+
+•
+brand and reputation;
+
+•
+efficient and secure settlement, clearing and support services;
+
+•
+depth and liquidity of markets;
+
+•
+diversity of product offerings and frequency and quality of new product development and innovative services;
+
+•
+ability to position and expand upon existing products to address changing market needs;
+
+•
+efficient and seamless customer experience;
+
+•
+transparency, reliability, anonymity and security in transaction processing;
+
+•
+regulatory environment;
+
+•
+connectivity, accessibility, flexibility in execution methods, and distribution;
+
+•
+technological capability and innovation; and
+
+•
+overall transaction costs. 
+
+We believe that we compete favorably with respect to these factors. Our deep, liquid markets; diverse and complementary product offerings; frequency and quality of new product development; and efficient, secure settlement, clearing and support services, distinguish us from others in the industry. We believe that in order to maintain our competitive position, we must continue to expand globally; develop and offer new and innovative products; enhance our technology infrastructure, including its reliability, functionality and security; maintain liquidity and low transaction costs; continue to strengthen our risk management capabilities and solutions; and implement customer protections designed to ensure the integrity of our market and the confidence of our customers.
+
+We compete in a large and expanding financial services trading, clearing and settlement marketplace globally. Our competitors include, among other entities, exchanges such as Intercontinental Exchange, Inc. (ICE), the Hong Kong Exchanges and Clearing Limited and Deutsche Börse AG. We have also seen the emergence of new players in the derivatives exchange business, in some cases backed by market makers and broker-dealers, as well as crypto platforms. Competition also includes alternative means of developing exposures through alternative instruments (depending on market factors) such as cash, OTC, ETFs, options, warrants, contracts for differences, structured products and other offerings and incorporates large customer and channel internalization of trade flows and data. New emerging competitors have targeted different segments of our industry, with multiple execution models and products, and emerging technologies will continue to offer additional alternative products in the future. Competition in our industry continues to be dynamic, and recent developments and alliances may result in a growing number of well-capitalized trading service providers that compete with all or a portion of our business.
+
+Competition in our CME Clearing Business
+
+In the past few years there has been increased competition in the provision of clearing services, and we expect competition to continue to increase in connection with compliance with Dodd-Frank, EMIR 2.2, Basel III, MiFID II and other various laws and regulations.
+
+10
+
+Table of Contents
+
+Our competitors in the clearing services space include, among others, companies such as ICE, LCH Group, the OCC, Depository Trust & Clearing Corporation, Hong Kong Exchanges and Clearing, Japan Securities Clearing Corporation, LME Clearing and Deutsche Börse AG. In light of the implementation of new regulatory requirements and other reforms of the financial services industry, we believe that other exchanges and infrastructure providers also may undertake to provide clearing and other related post-trade services, such as Nodal and ERIS in the U.S., as CFTC-regulated designated clearing organizations. We have also seen the acquisition of smaller clearing houses by larger and better capitalized firms, including FTX’s acquisition of LedgerX.
+
+We believe competition in clearing services is based on, among other things, the value of providing customers with capital and margin efficiencies; quality and reliability of the services; creditworthiness of the clearing house; regulatory costs; timely delivery of the services; reputation; diversity of the service offerings; confidentiality of positions and information security protective measures; and the fees charged for the services provided.
+
+Competition in our Cash Markets Business
+
+The cash markets businesses face substantial competition across a wide and growing array of venues. In the FX space, the marketplace is highly fragmented, and there is competition from other electronic communication networks, single-dealer platforms, bank-owned multi-participant platforms, streaming and request for quote services, trading venues tied to data platforms, voice brokers, other broker enabled platforms and other venues. There is a growing array of platforms and technologies, and they are often owned by many well-capitalized financial institutions and intermediaries that are also driving internalization of client FX trade flows. In the fixed income space, there are also multiple providers of treasury, European and U.S. repo, and European bond trading, as well as other products such as corporate bonds, municipal bonds, mortgage-backed bonds and agencies, and a multitude of competitors and new entrants offering single-dealer liquidity, bank-owned multi-participant platforms, streaming and request for quote services, and other broker and exchange-enabled platforms.
+
+Competition in our Market Data Business
+
+Technology companies, market data and information vendors and front-end software vendors also represent actual and potential competitors because they have their own substantial market data calculation and distribution capabilities that could serve as alternative means for receiving open market data feeds instead of connecting directly to our exchange. Multiple other industry players offer both referential and indicative pricing alternatives to CME offerings, which are widely distributed and available across a variety of media. Distributors and consumers of our market data may also use our market data as an input into a product that competes against one of our traded or cleared products. Although we may receive license fees for such products, such fees may not offset the impact of any loss in revenue from our comparable product.
+
+Regulatory Matters 
+
+Our businesses are regulated and serve a customer base that includes regulated institutions or individuals. Developments in the regulatory environment therefore have the potential to significantly affect our businesses. As such, we are subject to extensive regulation, primarily in the U.S. and Europe.
+
+Please also refer to the discussion below and in "Item 1A — Risk Factors" beginning on page 15 for a description of regulatory and legislative risks and uncertainties.
+
+Regulation of our Derivatives Business, CME Clearing and our SEF
+
+Our operation of U.S. futures exchanges, CME Clearing and our SEF is subject to extensive regulation by the CFTC that requires our regulated subsidiaries to satisfy the requirements of certain core principles relating to the operation and oversight of our markets and our clearing house. The CFTC carries out the regulation of the futures and swaps markets and clearing houses in accordance with the provisions of the Commodity Exchange Act as amended by, among others, the Commodity Futures Modernization Act and Dodd-Frank.
+
+Regulations implementing Dodd-Frank include rules relating to the implementation of mandatory clearing of certain OTC derivatives, swap reporting, operation of a clearing house, anti-manipulation, large trader reporting, product definitions, the definition of an agricultural commodity and certain provisions of the rules applicable to designated contract markets, swap execution facilities and swap data repositories. 
+
+CME has been designated as a systemically important financial market utility and a systemically important derivatives clearing organization. These designations carry with them additional regulatory oversight of certain of our risk-management standards, clearing and settlement activities by the CFTC and the Federal Reserve Board.
+
+In connection with the global offering of our products and clearing services, this business is also subject to the rules and regulations of the local jurisdictions in which we conduct business, including the European Securities and Markets Authority (ESMA), the U.K. Financial Conduct Authority (FCA) and Bank of England and the Netherlands Authority for the Financial Markets (AFM).
+
+11
+
+Table of Contents
+
+Regulation of our Cash Markets Business
+
+The operation of our BrokerTec platform subjects us to regulation by the Financial Industry Regulatory Authority (FINRA) and the U.S. Securities and Exchange Commission (SEC) as a broker-dealer and alternative trading system operator. It also subjects us to regulation by authorities in the E.U. as a multilateral trading facility and regulated market and by the applicable regulators in Singapore and Canada. Our EBS business holds various permissions, approvals and exemptions globally, including those that subject certain of its activities to CFTC, FCA, the Dutch Authority for the Financial Markets (AFM) and Hong Kong Monetary Authority (HKMA) oversight.
+
+The settlement of matched principal and exchange-traded businesses requires access to clearing houses either directly or through third-party providers of clearing and settlement services. BrokerTec Americas is a member of the FICC, through which it clears U.S. Treasury and repo products.
+
+Regulation of our Market Data Business
+
+A portion of our market data business, offered by CME Group Benchmark Administration, is subject to regulation by the E.U. Benchmarks Regulation, which regulates our RepoFunds Rate suite of daily Euro repo indices. Our CME Group Benchmark Administration, which is authorized as a Benchmark Administrator by the FCA, administers and calculates the CME Term Secured Overnight Financing Rate (SOFR) Reference Rates group of benchmarks. 
+
+Key Areas of Focus
+
+We actively monitor and participate in the domestic and international legislative and rulemaking processes for our industry, including providing government testimony, commenting on proposed legislation and rulemaking, and educating our regulators and policymakers on potential impacts to the marketplace. We are also focused on the U.S. Presidential administration and its new federal regulatory appointees and any anticipated changes that may result.
+
+Our key areas of focus in the regulatory environment are:
+
+•
+The FCA’s announcement of its phase out of the use of LIBOR, which may unfavorably impact our ability to list our existing suite of Eurodollar futures and options products.
+
+•
+The implementation of a transaction tax or user fee in the U.S., U.K. or E.U. , or in the States of Illinois or New Jersey, which could discourage institutions and individuals from using our markets or products or encourage them to trade in another less costly jurisdiction. Legislation to impose a financial transaction tax has been proposed previously in the U.S. Congress, Illinois General Assembly and State of New Jersey Legislature.
+
+Additionally, from time to time, including this fiscal year, the proposed U.S. Presidential budget request has included a proposal to impose a user fee to fund all or a portion of the budget of the CFTC.
+
+Legislation would be necessary to impose such a fee. 
+
+•
+The potential for further regulation stemming from industry performance disruptions and residual concerns around electronic trading activity and, in particular, "high frequency trading."
+
+•
+Legislation that proposes to eliminate the 60/40 tax treatment of certain of our futures and options contracts, which would result in 60% of the gains being taxed at the short-term capital gain rate instead of the long-term capital gain rate. This would impose a significant increase in tax rates applicable to certain market participants and could result in a decrease in their trading activity.
+
+•
+Certain provisions in relation to the E.U. Regulations on Benchmarks have yet to come into effect, and prices and data provided by CME Group for use by E.U. supervised entities and use of those benchmarks may be impacted. 
+
+•
+Concerns that European legislators will prohibit or restrict exclusive licenses for benchmark indexes, which might impact the profitability of several of our most popular contracts. 
+
+•
+The implementation of rules resulting in negative treatment of the liquidity profile of U.S. Treasury securities, including as qualifying liquidity resources, or any potential limitation on the use of U.S. Treasury securities as collateral could result in increased costs to us and our clearing firms.
+
+•
+The implementation of the final phases of uncleared margin rules (UMR Phases 5 & 6) across jurisdictions and implications for customers' management of exposures.
+
+•
+The potential regulation of cryptocurrencies, which may impact our existing offerings or our ability to provide future offerings.
+
+Please also see "Item 1A - Risk Factors" beginning on page 15 for additional information on our areas of regulatory risks.
+
+12
+
+Table of Contents
+
+Human Capital Management 
+
+At CME Group, we rely on our highly skilled and experienced global workfor
+ce to meet our business objectives. As of December 31, 2021, our global employee population consisted of approximately 3,480 staff, with 67% (approximately 2,320) of these employees working in the U.S. and the remaining 33% (approximately 1,160) working in our various non-U.S. locations (Australia, Brazil, Canada, China, France, Hong Kong, India, Israel, Japan, Netherlands, Singapore, South Korea, Sweden, Switzerland and the U.K.). 
+
+We recognize that fostering
+
+a diverse and inclusive global culture is critical to our business success. We provide our workforce with a compelling employee experience that allows us to attract, retain and develop industry-leading talent. We are continually seeking new ways to challenge, develop and support our employees. Select highlights of our employee experience include the following: 
+
+•
+We offer a wide range of benefits designed to support our employees’ health and well-being, retirement needs, and work/life balance. 
+
+•
+We provide a variety of avenues for employees to grow their expertise, including tuition assistance for continuing education, onsite professional development training courses, access to external seminars and technical skills training, as well as an integrated series of leadership development programs to prepare employees for each stage of their careers. 
+
+•
+Our competitive compensation programs align employee rewards with shareholder interests and emphasize our pay-for-performance philosophy.
+
+•
+Our Employee Resource Groups (ERGs) are essential to fostering an inclusive culture grounded in mutual respect. All employees are eligible to join our ERGs and employees are encouraged to form new ERGs that align with our shared mission and values, creating communities around professional and personal interests.
+
+We conduct regular employee engagement surveys and we monitor our performance against specific voluntary turnover, open role placement and internal promotion metrics to understand where further workforce investments may be necessary. During fiscal year 2021, our performance against these metrics was: 
+
+•
+10.4% voluntary turnover
+
+•
+53.5% of open roles filled with internal candidates
+
+•
+11.6% of employees promoted
+
+The above metrics exclude approximately 150 staff who do not fully participate in our talent programs.
+
+Diversity and Inclusion
+
+As the world’s leading and most diverse derivatives marketplace, we embrace an exchange of ideas driven by the rich diversity of our people, cultures and experiences. We know that when our employees bring their authentic selves to work each day, it makes our business and our culture that much stronger. Leveraging the collective mix of perspectives and insights that our individual backgrounds bring, we can continually provide our global clients with innovative products and solutions, strengthen our competitive advantage and best serve the communities in which we live and work. 
+
+We have anchored our commitment to diversity and inclusion by incorporating it into our corporate goals, and our Chief Human Resources Officer provides our senior management and Board with regular updates. Our Diversity and Inclusion (D&I) Council is responsible for driving our corporate D&I strategy. Members of our management team and employees from across our global workforce serve on the council, representing a wide variety of backgrounds and perspectives.
+
+For more information regarding our sustainability practices and to review our annual Corporate Citizenship & Sustainability Reports, including our report for 2021 when issued, please visit: https://www.cmegroup.com/company/corporate-citizenship/esg.html. 
+
+Information about our Executive Officers
+
+The following are CME Group's executive officers.
+
+Ages are as of February 10, 2022.
+
+Terrence A. Duffy, 63.
+ Mr. Duffy has served as our Chairman and Chief Executive Officer since 2016. Mr. Duffy previously served as our Executive Chairman and President since 2012 and as Executive Chairman from 2006. Mr. Duffy has been a member of our board of directors since 1995. He also served as President of TDA Trading, Inc. from 1981 to 2002 and has been a member of our CME exchange since 1981.
+
+13
+
+Table of Contents
+
+Kathleen M. Cronin, 58. 
+Ms. Cronin has served as our Senior Managing Director, General Counsel and Corporate Secretary since 2003. Prior to joining us, Ms. Cronin was a corporate attorney at Skadden, Arps, Slate, Meagher & Flom LLP from 1989 through 1995 and from 1997 through 2002. Ms. Cronin also serves as a director of Kemper Corporation.
+
+Sunil Cutinho
+, 
+50
+.
+
+Mr.
+
+Cutinho has served as our Chief Information Officer since February 2022 and previously has served as President of CME Clearing since 2014. He joined CME Group in 2002 and since then has held various positions of increasing responsibility within the organization, and most recently served as Managing Director, Deputy Head of CME Clearing from April 2014 through September 2014.
+
+Lynne Fitzpatrick, 43.
+ Ms. Fitzpatrick has served as Senior Managing Director & Deputy Chief Financial Officer since February 2022. She previously served as Managing Director of Corporate Development and Treasurer of CME Group since 2017, leading the company’s business development, mergers and acquisitions, CME Ventures and corporate treasury functions. Since joining the company in 2006, Fitzpatrick has held a variety of positions with increasing levels of responsibility within the finance organization. Prior to CME Group she worked as an investment banker at Credit Suisse and UBS. 
+
+Julie Holzrichter, 53.
+
+Ms. Holzrichter has served as our Senior Managing Director, Chief Operating Officer since 2014 and in February 2022, her role expanded to oversee Global Operations and CME Clearing. She previously served as our Senior Managing Director, Global Operations from 2007. Ms. Holzrichter rejoined us in 2006 as our Managing Director, CME Globex Services and Technology Integration. Ms. Holzrichter previously held positions of increasing responsibility in our organization from 1986 to 2003 in trading operations. Ms. Holzrichter also serves as a director of Constellation Energy Corporation, an Exelon company.
+
+Tim McCourt, 43
+.
+ Mr. McCourt has served as Senior Managing Director, Global Head of Equity and FX Products since February 2022. He is responsible for leading the development and execution of the company’s global equity index, foreign exchange, cryptocurrency and alternative investment product strategies. He serves on the CME Ventures Investment Committee and the S&P Dow Jones Indices U.S. Advisory Panel. Before joining CME Group in 2013 as Global Head of Equity Products, Mr. McCourt worked for the Royal Bank of Scotland, where he was responsible for building and managing the Americas Index and Delta One trading book. Prior to RBS, he held a senior trading role with JPMorgan in New York, spending 10 years with the Equity Derivatives Group. 
+
+Hilda Harris Piell, 54
+.
+ Ms. Piell has served as Senior Managing Director and Chief Human Resources Officer since 2007. Previously she served as Managing Director and Senior Associate General Counsel, as Director and Associate General Counsel and as Associate Director and Assistant General Counsel since joining us in 2000.
+
+John W. Pietrowicz, 57.
+
+Mr. Pietrowicz has served as Senior Managing Director and Chief Financial Officer since 2014.
+
+Previously, Mr. Pietrowicz served as our Senior Managing Director, Business Development and Corporate Finance since 2010. Mr. Pietrowicz joined us in 2003 and since then has held various positions of increasing responsibility, including Managing Director and Deputy Chief Financial Officer from 2009 to 2010 and Managing Director, Corporate Finance and Treasury from 2006 to 2009. Mr. Pietrowicz also serves as a director of S&P/Dow Jones Indices LLC. Mr. Pietrowicz announced his plans to retire in 2023 and Ms. Fitzpatrick will succeed him.
+
+Derek Sammann, 53
+. 
+Mr. Sammann has served as our Senior Managing Director, Global Head of Commodities and Options and International Markets since November 2021 and previously served as our Senior Managing Director, Commodities and Options Products since 2014. He previously served as our Senior Managing Director, Financial Products and Services since 2009 and Global Head of Foreign Exchange Products since joining us in 2006. Prior to joining us, Mr. Sammann served as Managing Director, Global Head of FX Options and Structured Products at Calyon Corporate and Investment Bank in London from 1997 to 2006.
+
+Suzanne Sprague, 41.
+ Ms. Sprague has served as Senior Managing Director & Global Head of Clearing and Post-Trade Services for CME Group since February 2022. She joined the company in 2002 and has held numerous roles and leadership positions in financial management and risk management since that time. During her tenure, she has played a key role in the company’s development of risk management policy. Since 2015, she served as Managing Director, Credit & Liquidity Risk, Risk Policy & Banking, overseeing CME Clearing’s exposure to counterparty credit risk, liquidity risk management and financial performance, acceptable collateral and collateral services, risk management policies and procedures, financial operations, and banking. 
+
+Jack Tobin, 58
+.
+ Mr. Tobin has served as Managing Director and Chief Accounting Officer since 2015. Mr. Tobin most recently served as our Managing Director, Corporate Finance since 2007. Prior to our merger with CBOT Holdings, Mr. Tobin served as the Director, Corporate Finance for CBOT Holdings and CBOT from 2002 to 2007. Prior to joining CBOT, Mr. Tobin served as a principal consultant with PricewaterhouseCoopers from 1997 to 2002. Mr. Tobin is a registered certified public accountant.
+
+Sean Tully, 58
+.
+ Mr. Tully has served as Senior Managing Director, Global Head of Rates and OTC Products since February 2022. He previously served as Senior Managing Director, Financial and OTC Products of CME Group since 2014. He 
+
+14
+
+Table of Contents
+
+previously served as Senior Managing Director, Interest Rates and OTC Products during 2014. Previously, he served as Managing Director, Interest Rate and OTC Products since 2013 and as our Managing Director, Interest Rate Products since joining us in 2011. Before joining the company, Mr. Tully most recently served as Managing Director, Global Head of Fixed Income Trading at WestLB in London.
+
+Kendal Vroman, 50. 
+Mr. Vroman has served as our Senior Managing Director, Chief Transformation Officer since November 2021. He previously served as Senior Managing Director, International and Optimization Services since February 2020 and as our Senior Managing Director, Cash Markets and Optimization Services. Since joining the company in 2001, he has held a variety of senior leadership roles, including Managing Director, Planning and Execution, Global Head, Commodity Products and OTC Solutions and Managing Director and Chief Corporate Development Officer. Prior to joining us, Mr. Vroman most recently served as Vice President, Corporate Operations/Chief of Staff to the Chief Executive Officer for marchFirst Inc.
+
+Julie Winkler, 47
+.
+ Ms. Winkler has served as our Senior Managing Director, Chief Commercial Officer since 2016. She previously served as Senior Managing Director, Research and Product Development and Index Services of CME Group since 2014 and as Managing Director, Research and Product Development since 2007. Prior to our merger with CBOT Holdings, Ms. Winkler held positions of increasing responsibility for CBOT Holdings since 1996. Ms. Winkler also serves as a director of S&P/Dow Jones Indices LLC.
+
+AVAILABLE INFORMATION
+
+Our website is 
+www.cmegroup.com
+. Information made available on our website does not constitute part of this document. We make available on our website our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to those reports as soon as reasonably practicable after we electronically file or furnish such materials to the SEC. Our corporate governance materials may also be found on our website. The SEC also maintains an Internet site that contains reports, proxy and information statements, and other reports that we file or furnish with the SEC at http://www.sec.gov. Copies of these materials also are available to shareholders free of charge upon request to Shareholder Relations,
+
+office.ofthesecretary@cmegroup.com. Information regarding our sustainability practices is available in our annual Corporate Citizenship & Sustainability Reports, including our report for 2021 when issued, at the following: https://www.cmegroup.com/company/corporate-citizenship/esg.html. 
+
+ITEM 1A.    RISK FACTORS
+
+In addition to the other information contained in this Annual Report on Form 10-K, you should carefully consider the factors discussed below, which are the risks we believe are material at this time. These risks could materially and adversely affect our business, financial condition and results of operations. These risks and uncertainties are not the only ones facing us. Additional risks and uncertainties not presently known to us or that we currently believe to be immaterial may also adversely affect our business.
+
+RISKS RELATING TO OUR INDUSTRY
+
+Our business is subject to the impact of global market, economic and political conditions that are beyond our control and that could significantly impact our business and make our financial results more volatile.
+
+Our revenue is substantially derived from fees for transactions executed and cleared in our markets. The trading volumes in our markets are directly affected by domestic and international factors that are beyond our control, including:
+
+•
+economic, political and geopolitical market conditions; 
+
+•
+legislative and regulatory changes, including any direct or indirect restrictions on or increased costs associated with trading in our markets or our clearing services;
+
+•
+broad trends in the industry and financial markets; 
+
+•
+changes in price levels, trading volumes and volatility in the derivatives, cash and over-the-counter (OTC) markets and in their underlying markets;
+
+•
+shifts in demand or supply in commodities underlying our products;
+
+•
+competition;
+
+•
+changes in government monetary policies, including central bank decisions related to quantitative easing and the U.S. Federal Reserve and other international banks' forecasted interest rates;
+
+•
+availability of capital to our market participants and their appetite for risk-taking;
+
+•
+levels of assets under our customers' management; 
+
+•
+volatile weather patterns, droughts, natural disasters and other catastrophes; 
+
+•
+pandemics affecting our customer base or our ability to operate our markets; and
+
+•
+consolidation or expansion in our customer base and within our industry.
+
+15
+
+Table of Contents
+
+Any one or more of these factors may contribute to reduced activity in our markets. Historically, periods of heightened uncertainty have tended to increase our trading volume due to increased hedging activity and the increased need to manage the risks associated with, or speculate on, volatility. However, as evidenced by our past performance, in the period after a material market disturbance, there may persist extreme uncertainties, which may lead to decreased volume due to factors such as reduced risk exposure, lower interest rates, central bank asset purchase programs and lack of available capital. The shifts in market trading patterns we experienced as a result of the financial crisis of 2008 may or may not recur in the future, and our business will be affected by future economic uncertainties, which may result in decreased trading volume and a more challenging business environment for us. We believe that our interest rate product line could continue to be negatively impacted by a return to a zero interest rate policy. A reduction in overall trading volume or in certain products could render our markets less attractive to market participants as a source of liquidity, which could result in further loss of trading volume and associated transaction-based revenue. Material decreases in trading volume would have a material adverse effect on our financial condition and operating results.
+
+Please see "Item 1A - Risk Factors - Risks Relating To Our Business" beginning on page 19 for additional information.
+
+We operate in a heavily regulated environment that imposes significant costs and competitive burdens on our business, and our failure to maintain compliance with regulations, our status as a regulated entity, or BrokerTec Americas' status as a member in good standing at FICC, could result in the loss of customers.
+
+We are primarily subject to the jurisdiction of the regulatory agencies in the U.S., U.K. and European Union. As a result of our global operations, we are also subject to the rules and regulations of other local jurisdictions in which we conduct business and offer our products and services, as appropriate.
+
+Our businesses and those of many of our clients have been and continue to be subject to extensive legislation and regulatory scrutiny, and we face the risk of changes to our regulatory environment and business in the future and have incurred and expect to continue to incur significant costs to comply. Additional new laws or regulations or changes in enforcement practices applicable to our businesses or those of our clients could be imposed in the U.S. or other jurisdictions, which could change, or require us to change, our business practices or the structure of our business, including its current governance or regulatory structure, or impose significant costs on us by, for example, requiring more of our funds to be set aside for the guaranty fund. This could adversely affect our ability to compete effectively with other institutions that are not affected in the same way or impact our clients' overall trading volume and demand for our market data and other services. Additionally, regulations imposed on financial institutions or market participants generally may adversely impact their trading activity in our markets. To the extent the legislative and regulatory environment is less beneficial for us or our customers, our business, financial condition and operating results could be negatively affected.
+
+Legislation may be proposed, both domestically and internationally, that could add a transaction tax on our products or change the way our market participants are taxed on the products they trade on our markets. If such proposals were to become law, they could have a negative impact on our industry and on us by making transactions more costly to market participants, which may reduce trading and could make our markets less competitive, with a resulting negative impact on our business, financial condition and operating results.
+
+If we fail to comply with applicable laws, rules or regulations, we may be subject to censure, fines, cease-and-desist orders, suspension of our business, removal of personnel or other sanctions, including revocation of our designations as a contract market, derivatives clearing organization, swap execution facility, swap data repository, broker-dealer, multilateral trading facility or other regulatory penalties.
+
+Our broker-dealer and multilateral trading facility businesses, BrokerTec and EBS, are also extensively regulated in various jurisdictions. These regulatory obligations generally include proper licensing and qualification of the firms and individuals, substantive conduct standards, communication and disclosure rules, monitoring and surveillance, training, capital requirements, supervisory obligations, maintenance of anti-money laundering programs, suspicious activity reporting, risk management standards, trade reporting, and ongoing examinations and reviews. The risks from failing to comply with these regulatory obligations include potential liability, disciplinary action against the firm and individuals, monetary penalties and restrictions on future activities.
+
+BrokerTec Americas' matched principal platform facilitates anonymous trading in significant volumes from wholesale market participants, many of which are FICC members and understand that BrokerTec Americas is also a FICC member, such that their trades are expected to be novated promptly to FICC, which will be their ultimate counterparty. A failure of BrokerTec Americas to maintain its membership could adversely impact the willingness of such participants to continue trading on our platform. As part of maintaining its FICC membership, BrokerTec Americas is required to timely and fully meet all margin calls and other obligations established by FICC, and as such must maintain ready access to sufficient liquidity to satisfy those obligations. BrokerTec Americas maintains access to liquidity resources it believes will satisfy these obligations in normal and stressed circumstances, but there can be no guarantee it will never experience a shortfall.
+
+16
+
+Table of Contents
+
+Please see "Item 1 - Business - Regulatory Matters" beginning on page 11 for additional information on our areas of regulatory focus. 
+
+Some of CME Clearing's largest clearing firms have indicated their belief that clearing facilities should not be owned or controlled by exchanges and should be operated as utilities and not for profit. These clearing firms have sought, and may seek in the future, legislative or regulatory changes that would, if adopted, enable them to use alternative clearing services for positions established on our exchanges or to freely move open positions among clearing houses in order to take advantage of our liquidity. Even if they are not successful, these factors may cause them to limit the use of our markets.
+
+Our clearing house seeks to offer customers, intermediaries and clearing firms universal access in order to maximize the efficient use of capital, exercise appropriate oversight of value at risk and maintain operating leverage from clearing activities on our exchanges. Our strategic business plan for our futures and options business is to operate an efficient and transparent vertically integrated transaction execution, clearing and settlement business. Some of our clearing firms have expressed the view that clearing firms should control the governance of clearing houses or that clearing houses should be operated as utilities rather than as part of for-profit enterprises. Some of these firms, along with certain industry associations, have sought, and may seek in the future, legislative or regulatory changes to be adopted that would facilitate mechanisms or policies that allow market participants to transfer positions of futures or options from an exchange-owned clearing house to a clearing house owned and controlled by clearing firms. If these legislative or regulatory changes are adopted, our business, financial condition and operating results could be adversely affected.
+
+We face intense competition from other companies. If we are not able to successfully compete,
+
+our business, financial condition and operating results will be materially harmed.
+
+The industry in which we operate is highly competitive and we expect competition to continue to intensify. We encounter competition in all aspects of our business, including from entities having substantially greater capital and resources, offering a wide range of products and services and in some cases operating under a different and possibly less stringent regulatory regime.
+
+We face competition from other futures, securities and securities option exchanges; OTC markets; clearing organizations; consortia formed by our members and large industry participants; swap execution facilities; alternative trade execution facilities; technology firms, including market data distributors and electronic trading system developers, and others. Our competitors and potential competitors may have greater financial, marketing, technological and personnel resources than we do.
+
+Our competitors may:
+
+•
+respond more quickly to competitive pressures and opportunities, including responses based upon their corporate governance structures, which may be more flexible and efficient than our corporate governance structure; 
+
+•
+develop products that are preferred by our customers compared to those offered by CME Group;
+
+•
+develop risk transfer products that compete with our products;
+
+•
+price their products and services more competitively;
+
+•
+develop and expand their network infrastructure and service offerings more efficiently;
+
+•
+utilize better, more user-friendly or more reliable technology; 
+
+•
+take greater advantage of acquisitions, alliances and other opportunities that provide a competitive advantage;
+
+•
+more effectively market, promote and sell their products and services;
+
+•
+better leverage existing relationships with customers and alliance partners or exploit better recognized brand names to market and sell their services; or
+
+•
+exploit regulatory disparities between traditional, regulated exchanges and alternative markets that benefit from a reduced regulatory burden and lower-cost business model.
+
+If our products, markets and services are not competitive or are viewed as less competitive, our business, financial condition and operating results could be adversely affected. A decline in our fees or loss of customers could lower our revenues, which would adversely affect our profitability.
+
+Please see "Item 1 - Business - Competition" beginning on page 10 for additional information on the competitive environment and its potential impact on our business.
+
+Our trading volume, and consequently our revenues and profits, would be adversely affected if we are unable to retain our current customers at substantially similar trading levels or attract new customers.
+
+The success of our business depends, in part, on our ability to maintain and increase trading volume in our markets. To do so, we must maintain and expand our product offerings, our customer base and our trade execution facilities, our pre-and post-trade services and clearing facilities. Our success also depends on our ability to offer competitive prices and services in an increasingly price-sensitive business. For example, some of our competitors have engaged in aggressive pricing strategies in the 
+
+17
+
+Table of Contents
+
+past, such as lowering the fees they charge for taking liquidity and increasing liquidity payments or rebates. We cannot provide assurances that we will be able to continue to expand our products and services, that we will be able to retain our current customers or attract new customers or that we will not be required to modify our pricing structure to compete effectively. Changes in our pricing structure may result in a decrease in our profit margin.
+
+Our clearing firm clients must meet certain capital requirements and must deposit collateral to meet performance bond and guaranty fund requirements. There is no guarantee the collateral deposited will continue to maintain its value. To the extent a clearing firm were to experience a decrease in capital and be unable to meet requirements, it may be required to decrease its trading activity.
+
+Additionally, from time to time, certain customers may represent a significant portion of the open interest in our individual product lines or contracts, and a substantial decrease in their trading activity could have a negative impact on the liquidity of the particular product line or contract.
+
+If we fail to maintain trading volume, as a result of a loss of customers or decrease in trading activity; expand our product offerings or execution facilities; or are unable to attract new customers, our business and revenues will be adversely affected. Declines in trading volume may also negatively impact market liquidity, which could lead to further loss of trading volume. Because our cost structure is largely fixed, if demand for our products and services and our resulting revenues decline, we may not be able to adjust our cost structure on a timely basis, and our profitability could be adversely affected. 
+
+Our role in the global marketplace places us at greater risk than other public companies for a cyber attack and other cyber-security risks. Our technology, our people and those of our third-party service providers, and our customers may be vulnerable to cyber-security threats, which could result in wrongful use of our data or our customers’ data or cause interruptions in our operations that cause us to lose customers and trading volume and result in substantial liabilities. We also could be required to incur significant expense to protect our systems and/or investigate any alleged attack.
+
+We regard the secure storage and transmission of data and the ability to continuously transact and clear on our electronic trading platforms as critical elements of our operations and our operational resiliency. Our technology, our people and those of our third-party service providers and our customers may be vulnerable to targeted attacks, such as "phishing" attacks, unauthorized access, fraud, computer viruses, denial of service attacks, terrorism, "ransom" attacks, firewall or encryption failures or other security or operational risks. Criminal groups, political activist groups and nation-state actors have targeted the financial services industry in general, and our role in the global marketplace places us at greater risk than other public companies for a cyber attack and other information security threats.
+
+While we have not experienced cyber incidents that are individually, or in the aggregate, material, we have experienced cyber attacks of varying degrees in the past. 
+
+Our usage of mobile, web, and cloud technologies, such as those pursuant to our partnership with Google Cloud, may increase our risk of a cyber attack. Our security defenses may also be impacted or breached due to employee error, malfeasance, system errors or vulnerabilities. Additionally, outside parties may attempt to fraudulently induce employees, users, or customers to disclose sensitive information in order to gain access to our technology systems and data, or our customers’ data. Any such breach or unauthorized access could result in significant legal and financial exposure, damage to our reputation, and a loss of confidence in the services we provide that could potentially have an adverse effect on our business, while resulting in regulatory penalties or the imposition of additional obligations by regulators or others. As the regulatory environment related to information security, data collection and use, and privacy becomes increasingly rigorous and complex, any failure to comply may carry significant penalties and reputational damage.
+
+We have designed our cyber defense program to mitigate such attacks and security risks through administrative, physical and technical safeguards. As part of our global information security and privacy programs, we employ resources to prevent, detect and respond to cyber-attacks and security risks that could impact our people, processes and technology infrastructure, including the rapid response to zero-day vulnerabilities. However, our security measures or those of our third-party providers, including any cloud-based technologies, such as those pursuant to our partnership with Google Cloud, may prove insufficient depending upon the attack or threat posed. Any security attack or breach could result in system failures and delays, malfunctions in our operations, loss of customers or lower trading volume, loss of competitive position, damage to our reputation, disruption of our business, legal liability or regulatory fines and significant costs, which in turn, may cause our revenues and earnings to decline. Though we have insurance against certain cyber and privacy risks and attacks, we may be subject to litigation and financial losses that exceed our policy limits or are not covered under any of our current insurance policies.
+
+As a financial services provider, we are subject to significant litigation risk and regulatory liability and penalties.
+
+Many aspects of our business present substantial litigation risks. These risks include, among others, potential liability from disputes over terms of a trade, the claim that a system failure or delay caused monetary losses to a customer, that we entered into an unauthorized transaction, that we provided materially false or misleading statements in connection with a transaction or that we failed to effectively fulfill our regulatory oversight responsibilities. We may be subject to disputes regarding the quality of trade execution, the settlement of trades or other matters relating to our services. We may become subject to these claims as a 
+
+18
+
+Table of Contents
+
+result of failures or malfunctions of our systems and services we provide. We could incur significant legal expenses defending claims, even those without merit. In addition, an adverse resolution of any future lawsuit or claim against us could have a material adverse effect on our business and our reputation. To the extent we are found to have failed to fulfill our regulatory obligations, we could lose our authorizations or licenses or become subject to conditions that could make future operations more costly and impair our profitability. Such events could also result in customer dissatisfaction and a decline in their willingness to trade on our markets.
+
+We may be at greater risk from terrorism, which poses physical security risks and cyber-security risks, than other companies.
+
+Given our role in the global financial services industry, we may be more likely than other companies to be a direct target of, or an indirect casualty of, attacks by terrorists or terrorist organizations. It is impossible to accurately predict the likelihood or impact of any terrorist attack on our industry generally or on our business. While we have implemented significant physical security protection measures, business continuity plans, and established backup sites to provide operational resiliency, in the event of an attack or a threat of an attack, these security measures and contingency plans may be inadequate to prevent significant disruptions in our business, technology or access to the infrastructure necessary to maintain our business. Such an attack may result in harm to our personnel or the closure of our facilities or render our backup data and recovery systems inoperable. Damage to our facilities due to terrorist attacks may be significantly in excess of any amount of insurance coverage available, or we may not be able to insure against such damage at a reasonable price or at all. The threat of terrorist attacks also may negatively affect our ability to attract and retain employees. Any of these events could have a material adverse effect on our business, financial condition, and operating results.
+
+RISKS RELATING TO OUR BUSINESS 
+
+The COVID-19 pandemic has negatively affected the global economy, including the U.S. economy and the global financial markets, and has disrupted our business and our clients’ businesses. The ultimate impact from COVID-19, including duration, is unknown and could have an adverse effect on our business, financial condition and results of operations.
+
+The ongoing COVID-19 pandemic has caused significant disruption in the international and U.S. economies and financial markets. The spread of COVID-19 has caused illness, quarantines, cancellation of events and travel, business and school shutdowns, reduction in business activity and financial transactions, labor shortages, employee attrition, supply chain interruptions and overall economic and financial market instability in the U.S. Similar impacts also have been experienced throughout the world, including in every country in which we do business. Given the unique and unpredictable nature of this event, future impacts to our business are unknown and could be material. Those impacts may include, among others, the following:
+
+•
+Continued disruption to our business and operations;
+
+•
+Key members of senior management or a significant number of our employees being unable to work as a result of contracting COVID-19 or related illnesses;
+
+•
+Reduced productivity and operating effectiveness as a result of our employees working remotely and impacts on our clients encountering similar circumstances;
+
+•
+Impacts on our third-party suppliers and their ability to fulfill their obligations to us;
+
+•
+Decreased trading volume and unprecedented market stresses in global financial markets;
+
+•
+Changes in demand for our products and services, based upon fiscal, monetary, and trade policies adopted in response to the economic impact of the pandemic;
+
+•
+Reduced economic activity generally, which could cause businesses to have less need to hedge in our markets;
+
+•
+Delays in our expansion, investment, strategic initiatives and system integrations;
+
+•
+Impacts to our ability to expand our client base, grow our business and generate new revenue due to the inability to hold in-person meetings, events and conferences, and other impacts from social distancing; 
+
+•
+Impacts on our brand and reputation due to negative investor sentiment in the overall financial markets;
+
+•
+Increased financial and operational stress experienced by our clearing firm members due to unprecedented volatility or downturn, including significant losses that may result in a reduction of business or a default;
+
+•
+Market access or trading limitations imposed by governmental authorities; and 
+
+•
+Increased technology and cyber-security risks, social engineering and phishing campaigns.
+
+These potential impacts may exist for a significant period of time and may adversely affect our business, financial condition, and results of operations even after the COVID-19 pandemic has subsided.
+
+The spread of COVID-19 has caused us to modify our business practices, including restricting employee travel and continuing work-from-home protocols, and we may take further actions as may be required by government authorities or as we determine 
+
+19
+
+Table of Contents
+
+to be in the best interests of our employees and clients.
+
+There is no certainty that such measures will be sufficient to mitigate the risks posed by the pandemic or will otherwise be satisfactory to government authorities.
+
+The extent to which the COVID-19 pandemic further impacts our business, results of operations or financial condition will depend on future developments, which are highly uncertain and difficult to predict, but may include, among others, the duration and spread of the pandemic, including through new variant strains, its severity, the actions taken by governments and other third parties to contain the virus or treat its impact, such as vaccination, and the effect of such actions on our business practices (including ending work-from-home protocols or transitioning to more hybrid work models), the impact of existing and any future federal stimulus measures, and the pace at which, and the extent to which, normal economic and operating conditions resume, or even if they resume, whether such economic and operating conditions can be sustained.
+
+In addition, many of the other risk factors described herein could be heightened by the effects of the COVID-19 pandemic and related economic conditions, which could result in a material impact on our results of operations, financial condition and liquidity.
+
+Damage to our reputation or brand could harm our business.
+
+Maintaining our reputation and brand is critical to attracting and retaining customers, investors and employees and to maintaining our relationships with our regulators and other government officials. Negative publicity regarding our company or actual, alleged or perceived issues regarding our company, products or services, including social and environmental concerns relating to our company or certain commodity products and increased impact from climate change or criticism or market reaction to the performance of our market in periods of extreme volatility, could give rise to reputational risk, which could significantly harm our business prospects. These issues may include, but are not limited to, any of the risks discussed in this Item 1A, including risks from customer disputes, system failures or intrusions, failures to meet our regulatory obligations, failures of a clearing firm or other counterparty, issues relating to our third-party suppliers, alleged or actual fraud or misconduct or manipulative activity, or ineffective risk management.
+
+The success of our markets depends on our ability to complete development of, successfully implement and maintain the electronic trading and clearing systems that have the functionality, performance, availability and resilience, capacity, security and speed required by our customers.
+
+The success of our business depends in large part on our ability to create interactive electronic marketplaces for a wide range of products that have the required functionality, performance, availability and resilience, capacity, security and speed to attract and retain customers. In 2021, 93% of our overall contract volume was generated through electronic trading on our CME Globex electronic platform, and we generated $336.3 million in revenue attributable to the BrokerTec and EBS trading platforms. 
+
+We must continue to enhance our electronic trading platforms and other technology offerings to remain competitive. As a result, we will continue to be subject to risks, expenses and uncertainties encountered in the rapidly evolving market for electronic transaction services. These risks include our failure or inability to:
+
+•
+provide reliable and cost-effective services to our customers;
+
+•
+develop, in a timely manner, the required functionality to support electronic trading in a manner that is competitive with the functionality supported by other electronic markets;
+
+•
+maintain the competitiveness of our fee structure;
+
+•
+attract independent software vendors to write front-end software that will effectively access our electronic trading systems and automated order routing system;
+
+•
+respond to technological developments or service offerings by competitors; and
+
+•
+generate sufficient revenue to justify the substantial capital investment we have made and will continue to make to enhance our electronic trading platforms and other technology offerings.
+
+If we do not successfully enhance our electronic trading systems and technology offerings, if we are unable to develop them to include other products and markets, or if they do not have the required functionality, performance, availability and resilience, capacity, security and speed desired by our customers, our ability to successfully compete and our revenues and profits will be adversely affected. Although we are focused on the technology and customer experience as part of the anticipated migration of the EBS platform to CME Globex in the first half of 2022, we cannot guarantee that we will not experience any client attrition, and to the extent any such client attrition is significant, it could have a negative impact on our revenues. 
+
+Additionally, we rely on our customers' ability to have the necessary back office functionality to support our new products and our trading and clearing functionality. To the extent our customers are not prepared and/or lack the resources or infrastructure, the success of our new initiatives may be compromised.
+
+20
+
+Table of Contents
+
+If we experience systems failures or capacity constraints, our ability to conduct our operations and execute our business strategy could be materially harmed and we could be subjected to significant costs and liabilities.
+
+Our business is highly dependent on our ability to process, execute and monitor, in an efficient and uninterrupted manner, a large number of transactions, which occur at high volumes and frequencies across multiple systems and our ability to access key business data, financial information, order processing and invoicing. We are heavily reliant on the capacity, reliability and security of our information technology and communications and other business systems and software supporting our operations. Our systems, or those of our third-party providers, including cloud providers, may fail or be shut down or, due to capacity constraints, may operate slowly, causing one or more of the following to occur:
+
+•
+unanticipated disruptions in service to our customers;
+
+•
+slower response times and delays in our customers' trade execution and processing;
+
+•
+failed settlement of trades;
+
+•
+incomplete or inaccurate accounting, recording, or processing of trades;
+
+•
+financial losses;
+
+•
+security breaches;
+
+•
+litigation or other customer claims;
+
+•
+loss of customers; or
+
+•
+regulatory sanctions. 
+
+We cannot assure that we will not experience system failures from power or telecommunications failures, acts of God, war or terrorism, human error on our part or on the part of our third-party providers or partners, natural disasters, fire, sabotage, hardware or software malfunctions or defects, computer viruses, cyber attacks, acts of vandalism or similar occurrences. If any of our systems or the systems of our third-party providers do not operate properly, are compromised or are disabled, including as a result of system failure, employee or customer error or misuse of our systems, we could suffer financial loss, liability to customers, regulatory intervention or reputational damage that could affect demand by current and potential users of our market.
+
+From time to time, we have experienced system errors and failures that have resulted in some customers being unable to connect to our electronic trading platforms and technology offerings, or that resulted in erroneous reporting, such as transactions that were not authorized by any customer or reporting of filled orders as canceled. Such errors may result in CME Group being liable or in our voluntary assumption of financial liability. We cannot assure that if we experience system errors or failures in the future that they will not have a material adverse impact on our business. Any such system failures that cause an interruption in service or decrease our responsiveness could impact our trading volumes, impair our reputation, damage our brand, result in regulatory fines and have a material adverse effect on our business, financial condition and operating results.
+
+Regulations relating to our trading and clearing systems generally require the handling of anticipated present and future peak trading volume. Heavy use of our systems during peak trading times or at times of unusual market volatility could cause them to operate slowly or even to fail for periods of time. We constantly monitor system loads and performance, and regularly implement system upgrades to handle estimated increases in volume. However, we cannot assure that our estimates of future trading volume and order messaging traffic will be accurate or that our systems will always be able to accommodate actual trading volume and order messaging traffic without failure or degradation of performance or speed. Increased trading volume and order messaging traffic may result in connectivity problems or erroneous reports that may affect users of our platforms. System failure or degradation could lead our customers to file formal complaints with industry regulatory organizations, to file lawsuits against us or to cease doing business with us or could lead our regulators to initiate inquiries or proceedings for failure to comply with applicable laws and regulations.
+
+We will need to continue to upgrade, expand and increase the capacity of our systems as our business grows and as we execute our business strategy. Although many of our systems are designed to accommodate additional volume and products and services without redesign or replacement, we will need to continue to make significant investments in additional hardware and software to accommodate the increases in volume of transactions and order transaction traffic and to provide processing services to third parties. If we cannot increase the capacity and capabilities of our systems to accommodate an increasing volume of transactions and to execute our business strategy, our ability to maintain or expand our businesses could be adversely affected.
+
+We, as well as many of our customers, depend on third-party suppliers and service providers for a number of services that are important. An interruption or cessation of an important supply or service by any third party could have a material adverse effect on our business, including revenues derived from our customers' trading activity.
+
+We depend on a number of suppliers, such as banking, clearing and settlement organizations, telephone companies, internet service providers, data processors, cloud hosting providers, data center providers, and software and hardware vendors, for 
+
+21
+
+Table of Contents
+
+elements of our trading, clearing, and other systems, as well as communications and networking equipment, computer hardware and software and related support and maintenance.
+
+Although we conduct due diligence and monitor important suppliers and service providers (including their resiliency), we cannot provide assurances of their performance and any interruption or cessation of their supplies or services could negatively impact our operations or those of our customers, as well as affect our reputation, financial or regulatory posture.
+
+Many of our customers rely on third parties, such as independent software vendors, to provide them with front-end systems to access our trading platforms and other back office systems for their trade processing and risk management needs. While these service providers have undertaken to keep current and certify as to our enhancements and changes to their software to our interfaces and functionality, we cannot guarantee that they will continue to make the necessary monetary and time investments to keep up with our enhancements and changes.
+
+To the extent any of our service providers or the organizations that provide services to our customers in connection with their trading activities cease to provide these services or provide these services in an efficient, cost-effective manner, or fail to adequately expand their services to meet our needs and the needs of our customers, we could experience decreased trading volume, lower revenues, and higher costs. In addition, while we may be entitled to recovery for breaches of, or liabilities otherwise incurred in connection with, our agreements with third-party suppliers and service providers, such recovery is limited by the terms of these agreements and may not compensate us in full.
+
+Our business exposes us to substantial credit risk of our clearing firms and other counterparties and, consequently, a decrease in their financial resources could adversely affect us.
+
+Our clearing house operations expose us to counterparties with differing risk profiles. We routinely guarantee transactions submitted by our clearing firm customers with counterparties in the financial industry, including brokers and dealers, commercial banks, investment banks, mutual and hedge funds and other institutional customers. We could be adversely impacted by the financial distress or failure of one or more of our clearing firms. Additionally, we are exposed to the risk of loss from the failure of a matched principal counterparty to settle its trades at BrokerTec Americas.
+
+A substantial part of our working capital may be at risk if a clearing firm defaults on its obligations to our clearing house and its margin and guaranty fund deposits are insufficient to meet its obligations. Additionally, BrokerTec Americas is exposed to the potential risk of loss in the event a counterparty fails to meet its obligations. Although we have policies and procedures to help ensure that our clearing firms and other counterparties can satisfy their obligations, these policies and procedures may not succeed in detecting problems or preventing defaults. We also have in place various measures intended to enable us to cure any default and maintain liquidity. However, we cannot guarantee that these measures will be sufficient to protect market participants from a default or that we will not be adversely affected in the event of a significant default. In addition, we have established a fund (currently $98.0 million) to provide payments, up to certain maximum levels, to qualified family farmers, ranchers and other agricultural industry participants who use our products and who suffer losses to their segregated account balances if their clearing firm becomes insolvent.
+
+Our Three-Month Eurodollar futures and options contracts are based on the three-month U.S. Dollar London Interbank Offered Rate (LIBOR) underlying rate. To the extent trading in Eurodollar contracts decreases or is discontinued and our alternative contracts are not successful, our revenues would be negatively impacted. Certain of our other businesses could also be negatively affected by changes to LIBOR.
+
+Our Eurodollar futures and options contracts are based on the three-month U.S. Dollar ICE LIBOR underlying rate. In 2021, average trading volume in our Eurodollar contracts was 3.5 million contracts and open interest was 40.8 million contracts. The U.K. FCA, which regulates LIBOR, announced its intention to phase out the use of LIBOR with the cessation of one-week and two-month USD LIBOR, as well as non-USD LIBOR tenors, after December 31, 2021, and the cessation of publication of three-month, six-month and one-year USD LIBOR after June 30, 2023. Financial institutions that currently report information used to set USD LIBOR are expected to stop doing so during 2023, and in 2021, the U.S. Federal Reserve Board and other regulatory bodies issued guidance encouraging banks and other financial market participants to cease entering into new contracts that use USD LIBOR as a reference rate no later than December 31, 2021.
+
+In light of regulatory guidance, we expect banks and other financial market participants to cease entering into new contracts based on USD LIBOR and there is no guarantee that they will reference rates associated with our alternative products. 
+
+The U.S. Federal Reserve, in conjunction with the Alternative Reference Rates Committee, a steering committee comprised of large U.S. financial institutions, has recommended replacing USD LIBOR with other benchmark alternatives, such as Secured Overnight Financing Rate (SOFR). However, it is unknown whether these alternative reference rates will attain market acceptance as replacements for LIBOR. 
+
+Any transition away from LIBOR to alternative reference rates is complex and could have a material adverse effect on our business, financial condition and results of operations. We have closely engaged with the industry, regulators and market participants to launch products using alternative reference rates, including our SOFR and Sterling Overnight Index Average 
+
+22
+
+Table of Contents
+
+(SONIA) futures contracts. While these actions have resulted in an increase in market acceptance of SOFR, there is no guarantee that this transition will be successful, maintain current market structure, or replace the revenue we derive from our Eurodollar contracts if trading volume were to decline or discontinue altogether. 
+
+Our market data revenues may be reduced by decreased demand, poor overall economic conditions, regulatory changes or a significant change in how market participants trade and use market data.
+
+We offer a wide range of data services designed to support the trading, risk management, investment and business needs of our customers.
+
+Revenues from our market data and information services represented 12% and 11% of our total revenues during the years ended December 31, 2021 and December 31, 2020, respectively. Factors that may affect our performance and demand for our data include, but are not limited to:
+
+•
+Our ability to maintain existing customers utilizing our data and to attract new customers with our products and services;
+
+•
+A decrease in overall trading volume, which may lead to a decreased demand for our market data; 
+
+•
+A challenging business environment for our customers, which may require them to reduce their usage of our market data;
+
+•
+The impacts of new regulations, laws, rules or other government policies;
+
+•
+Our ability to ensure that customers are appropriately licensed and are paying fees for the data used;
+
+•
+The protection of our intellectual property rights and identification of misappropriation and/or misuses of CME Group market data; and
+
+•
+Our ability to keep pace with technological developments and client preferences. 
+
+We may have difficulty executing our growth strategy and maintaining our growth effectively.
+
+We continue to execute on strategic initiatives to grow our business, including efforts to serve the OTC markets and to distribute our products and services on a global basis. There is no guarantee that our efforts will be successful. Continued growth will require additional investment in personnel, facilities, information technology infrastructure and financial and management systems and controls, and may place a significant strain on our management and resources. For example, if we encounter limited resources, we may be required to increase our expenses to obtain the necessary resources, defer existing initiatives or not pursue certain opportunities. We may not be successful in implementing all of the processes that are necessary to support our growth organically or, as described below, through acquisitions, other investments or strategic alliances. Our growth strategy also may subject us to increased legal, compliance and regulatory obligations. Unless our growth results in an increase in revenues that is proportionate to the increase in our costs associated with our growth, our future profitability could be adversely affected, and we may have to incur significant expenditures to address the additional operational and control requirements as a result of our growth.
+
+We intend to continue to explore acquisitions, other investments and strategic alliances. We may not be successful in identifying opportunities or in integrating the acquired businesses. Any such transaction may not produce the results we anticipate, which could adversely affect our business and our stock price.
+
+We intend to continue to explore and pursue acquisitions and other strategic opportunities to strengthen our business and grow our company. We may make acquisitions or investments or enter into strategic partnerships, joint ventures and other alliances.
+
+The market for such transactions is highly competitive, especially in light of historical merger and acquisition activity in our industry. As a result, we may be unable to identify strategic opportunities or we may be unable to negotiate or finance future transactions on terms favorable to us, which could impact our ability to identify growth opportunities. We may issue additional equity and/or debt in connection with strategic partnerships. The issuance of additional equity in connection with any future transaction could be substantially dilutive to our existing shareholders. The issuance of additional debt could increase our leverage substantially. 
+
+The process of integration also may produce unforeseen regulatory and operating difficulties and expenditures and may divert the attention of management from the ongoing operation of our business. To the extent we enter into joint ventures and alliances, we may experience difficulties in the development and expansion of the business of any newly formed ventures, in the exercise of influence over the activities of any ventures in which we do not have a controlling interest, as well as encounter potential conflicts with our joint venture or alliance partners. We may not realize the anticipated growth and other benefits from our growth initiatives and investments, which may have an adverse impact on our financial condition and operating results. We also may be required to take an impairment charge in our financial statements relating to our acquisitions and/or investments, which could negatively affect our stock price. Our joint venture, OSTTRA, with IHS Markit is subject to many of these risks, including the potential we may not achieve the expected cost savings, synergies and other strategic benefits from the transaction 
+
+23
+
+Table of Contents
+
+within the anticipated time frames, that the joint venture may be more costly than expected, or that we may experience customer attrition.
+
+The expansion of our global operations is complex and subjects us to increased business and economic risks that could adversely affect our financial results.
+
+In connection with our expanded global operations, we face certain risks inherent in doing business internationally. These risks include:
+
+•
+fluctuations in currency exchange rates;
+
+•
+complying with extensive and complex compliance requirements, regulations and oversight by regulators other than our primary functional regulators; 
+
+•
+difficulties in staffing and associated costs in managing multiple international locations;
+
+•
+general economic, social, and political conditions; 
+
+•
+protectionist laws and business practices that favor local businesses in some countries; 
+
+•
+reduced protection for intellectual property rights in some countries; 
+
+•
+language and cultural differences; and
+
+•
+potentially adverse tax consequences.
+
+If we are unable to manage the complexity of our global operations successfully, or if the risks above become substantial for us, our financial performance and operating results could suffer. Further, any measures we may implement to reduce risks of our international operations may not be effective, may increase our expenses and may require significant management time and effort.
+
+As our consolidated financial statements are presented in U.S. dollars, we must translate our foreign subsidiaries’ financial statements from local currencies into U.S. dollars at exchange rates in effect during or at the end of each reporting period. Therefore, any increases or decreases in the value of the U.S. dollar against the other currencies may affect our operating income and the value of balance sheet items denominated in foreign currencies.
+
+The E.U.-U.K. Trade and Cooperation Agreement was effective on January 1, 2021.
+
+As a result of Brexit, we have established certain CME Group businesses in Amsterdam, an E.U. jurisdiction, which allows these businesses to continue offering products and services to customers in the E.U.; however, this has resulted in, and may continue to result in, increased legal, compliance and operational costs.
+
+Our risk management, compliance and monitoring programs might not be effective and may result in outcomes that could adversely affect our reputation, financial condition and operating results.
+
+In the normal course of our business, we discuss matters with our regulators, including during supervisory engagements and regulatory examinations, and we are subject to their inquiry and oversight. Our regulators have broad enforcement and supervisory powers, including the power to censure, fine, issue cease-and-desist orders, prohibit us from engaging in some of our businesses or suspend or revoke our regulatory designations or the registration of our officers or employees who violate applicable laws or regulations. Our ability to manage our risks and comply with applicable laws and regulations in the jurisdictions where we operate is largely dependent on our establishment and maintenance of effective risk management, compliance and monitoring programs. In the case of alleged non-compliance with applicable laws or regulations, we could be subject to investigations and judicial or administrative proceedings that may result in substantial penalties or civil lawsuits, including by customers, for damages, which could be significant. Any of these outcomes may adversely affect our reputation, financial condition and operating results. In extreme cases, these outcomes could adversely affect our ability to conduct our business. 
+
+We maintain risk management, compliance and monitoring policies, procedures and programs that are designed to prevent, detect, deter, monitor and manage our risks, including enterprise risk and internal audit programs, but such policies, procedures and programs may not be fully effective. Some of our risk management processes depend upon evaluation of information regarding markets, customers, employees or other matters or potential threats that are publicly available or otherwise accessible by us. That information may not in all cases be accurate, complete, up-to-date or properly evaluated. Management of operational, financial, legal and compliance, regulatory, reputational and strategic risk requires, among other things, policies and procedures to record properly and verify a large number of transactions and events. We cannot guarantee that our policies and procedures will always be effective or that we will always be successful in monitoring or evaluating the risks to which we are or may be exposed.
+
+24
+
+Table of Contents
+
+We could be harmed by misconduct or errors that are difficult to detect and deter.
+
+There continue to be highly publicized cases involving fraud or other misconduct or manipulative activity by employees of financial services firms and other market participants. Improper trading activity on our platforms by participants could include activities such as spoofing, layering, wash trading and manipulation. Misconduct by our employees and agents could include hiding unauthorized activities from us, improper or unauthorized activities on behalf of customers or the company, improper securities trading activities, improper use or unauthorized disclosure of data or confidential information of the company or its customers, among other potential misconduct.
+
+It is not always possible to deter misconduct, and the precautions we take to prevent and detect this activity may not be effective in all cases. If we were found to have not met our regulatory oversight and compliance obligations, we could be subject to regulatory sanctions, enforcement actions, financial penalties, restrictions on our activities for failure to properly identify, monitor and respond to potentially problematic activity, and such outcomes could seriously harm our reputation. Our employees and agents also may commit errors that could subject us to financial claims for negligence, as well as regulatory actions, or result in our voluntary assumption of financial liability. Further, allegations by regulatory or criminal authorities of improper trading activities in our markets could affect our brand and reputation and reduce the number of participants trading in our markets. If that should occur, we could face a corresponding decline in trading volume and revenue.
+
+Intellectual property rights licensed from third-party price reporting agencies form the basis for many of our products from which we derive a significant portion of our volume and revenue. Material changes in the intellectual property landscape or regulatory framework pertaining to such benchmarks could have a negative impact on our ability to offer such products.
+
+We are significantly dependent on the contract volume of products that are based on intellectual property rights of indexes derived from third-party price reporting agencies. To comply with CFTC core principles, we must be able to demonstrate that our products may not be readily susceptible to manipulation. Our inability to offer products based on these indexes could have a negative impact on our contract volume and revenues.
+
+A failure to protect our intellectual property rights, or allegations that we have infringed the intellectual property rights of others, could adversely affect our business.
+
+Our business is dependent on proprietary technology and other intellectual property that we own or license from third parties. We own the rights to a large number of trademarks, service marks, domain names and trade names in the U.S., Europe, and other parts of the world. We have registered many of our most important trademarks in the U.S. and other countries. We hold the rights to a number of patents and have patent applications pending. Our patents cover match engine, trader user interface, trading floor support, market data, general technology and clearing house functionalities. We attempt to protect our proprietary technology and intellectual property rights by relying on trademarks, copyright, database rights, trade secrets, restrictions on disclosure, and other methods. Notwithstanding the precautions we take to protect our proprietary technology and intellectual property rights, it is possible that employees or third parties may copy, misappropriate, or otherwise obtain and use our proprietary technology without authorization or otherwise infringe on our rights. In addition, in the future, we may have to rely on litigation to enforce our intellectual property rights, protect our trade secrets, determine the validity and scope of the proprietary rights of others or defend against claims of infringement or invalidity. Any such litigation, whether successful or unsuccessful, could result in substantial costs to us and diversions of our resources, either of which could adversely affect our business.
+
+Patents of third parties may have an important bearing on our ability to offer certain products and services. Our competitors as well as other companies and individuals may obtain, and may be expected to obtain in the future, patents related to the types of products and services we offer or plan to offer. We cannot guarantee that we are or will be aware of all patents containing claims that may pose a risk of infringement by our products and services. In addition, some patent applications in the U.S. are confidential until a patent is issued and, therefore, we cannot evaluate the extent to which our products and services may be covered or asserted to be covered by claims contained in pending patent applications. These claims of infringement are not uncommon in our industry. As a result, we may face allegations that we have infringed the intellectual property rights of third parties, which may be costly for us to defend. If one or more of our products or services is found to infringe on patents held by others, we may be required to stop developing or marketing the products or services, to obtain licenses to develop and market the services from the holders of the patents or to redesign the products or services in such a way as to avoid infringing on the patents. We could also be required to pay damages if we were found to infringe patents held by others, which could materially adversely affect our business, financial condition and operating results. We cannot assess the extent to which we may be required in the future to obtain licenses with respect to patents held by others, whether such licenses would be available or, if available, whether we would be able to obtain such licenses on commercially reasonable terms. If we were unable to obtain such licenses, we may not be able to redesign our products or services at a reasonable cost to avoid infringement, which could materially adversely affect our business, financial condition and operating results.
+
+25
+
+Table of Contents
+
+RISKS RELATING TO AN INVESTMENT IN OUR CLASS A COMMON STOCK 
+
+Our indebtedness could adversely affect our financial condition and operations and prevent us from fulfilling our debt service obligations. We might still be able to incur more debt, intensifying these risks.
+
+As of December 31, 2021, we had approximately $3.4 billion of total indebtedness and we had excess borrowing capacity for general corporate purposes under our existing facilities of approximately $2.3 billion.
+
+Our indebtedness could have important consequences. For example, our indebtedness may:
+
+•
+require us to dedicate a significant portion of our cash flow from operations to payments on our debt, thereby reducing the availability of cash flows to fund capital expenditures, to pursue acquisitions or investments, to pay dividends and for general corporate purposes; 
+
+•
+increase our vulnerability to general adverse economic conditions; 
+
+•
+limit our flexibility in planning for, or reacting to, changes in or challenges relating to our business and industry; or 
+
+•
+place us at a competitive disadvantage against any less leveraged competitors.
+
+The occurrence of any one of these events could have a material adverse effect on our business, financial condition, results of operations, prospects and ability to satisfy our debt service obligations. In addition, the agreements governing our outstanding indebtedness do not significantly limit our ability to incur additional indebtedness, which could increase the risks described above to the extent that we incur additional debt. Our regulated businesses are also required to maintain minimum capital requirements set by their applicable regulators. 
+
+Please see "Item 7 - Management's Discussion and Analysis of Financial Condition and Results of Operations — Regulatory Requirements" beginning on page 45 for additional information capital requirements.
+
+Any reduction in our credit rating could increase the cost of our funding from the capital markets.
+
+Our long-term debt is currently rated investment grade by two of the major rating agencies. These rating agencies regularly evaluate us. Their ratings of our long-term debt are based on a number of factors, including our financial strength, as well as factors not entirely within our control, such as conditions affecting the financial services industry generally. In light of the difficulties in the financial services industry and the financial markets over the last few years, including in connection with the global pandemic, there can be no assurance that we will maintain our current ratings. In the past, we have experienced ratings downgrades. Our failure to maintain our ratings could adversely affect the cost and other terms upon which we are able to obtain funding and increase our cost of capital. Additionally, if our ratings are downgraded below investment grade due to a change of control, we are required to make an offer to repurchase all of our fixed-rate notes at a price equal to 101% of the principal amount, plus accrued and unpaid interest.
+
+Our average rate per contract for our derivatives business is subject to fluctuation due to a number of factors. As a result, our average rate per contract in any particular period may not be a reliable indication of our future average rate per contract.
+
+Our average rate per contract for our derivatives business, which impacts our operating results, is subject to fluctuation due to shifts in the mix of products traded, the trading venue and the mix of customers (whether the customer receives member or non-member fees or participates in one of our various incentive programs) and the impact of our tiered pricing structure. In addition, our members and participants in our various incentive programs generally are charged lower fees than our non-member customers. Variation in each of these factors is difficult to predict and will have an impact on our average rate per contract in the particular period. Because of this fluctuation, we cannot assure that our average rate per contract in any particular period serves as an indication of our future average rate per contract. If we fail to meet securities analysts' expectations regarding our operating results, the price of our Class A common stock could decline substantially.
+
+Ten of our board members own trading rights, or are officers or directors of firms that own trading rights, on our derivatives exchanges. As members, these individuals may have interests that differ from or conflict with those of shareholders who are not also members. Our dependence on the trading and clearing activities of our exchange members, combined with the CME members' rights to elect six directors, may enable them to exert substantial influence over the operation of our business.
+
+Ten of our directors own, or are officers or directors of firms that own trading rights on our exchanges. We are dependent on the revenues from the trading and clearing activities of our exchange members. In 2021, 84% of our derivatives contract volume was derived from our members. This dependence may give them substantial influence over how we operate our business.
+
+Many of our members and clearing firms derive a substantial portion of their income and profit from their trading or clearing activities on or through our exchanges. In addition, trading rights on our exchanges have substantial independent value. The amount of profit that members derive from their trading, brokering and clearing activities and the value of their trading rights 
+
+26
+
+Table of Contents
+
+are, in part, dependent on the fees they are charged to trade, broker, clear and access our markets, and the rules and structure of our markets. As a result, members may not have the same economic interests as holders of our Class A common stock. In addition, our members may have differing interests among themselves depending on the roles they serve in our markets, their methods of trading and the products they trade. Consequently, members may advocate that we enhance and protect their clearing and trading opportunities and the value of their trading privileges over their investment in our Class A common stock, if any.
+
+Our members have been granted special rights, which protect their trading privileges and require that we maintain open outcry for options products still meeting certain volume thresholds and, in the case of our Class B shareholders, provide them with special board representation.
+
+Under the terms of the organizational documents of our exchanges, our exchange members have certain rights that relate primarily to trading right protections, certain trading fee protections and certain membership benefit protections. Additionally, our Class B shareholders, who are members of our CME exchange, are entitled to elect six directors to our board even if their Class A share ownership interest is very small or non-existent. We have limited ability to eliminate these election rights, and prior attempts to do so did not receive the necessary shareholder approvals. In connection with these rights, our ability to take certain actions that we may deem to be in the best interests of the company and its shareholders, including actions relating to certain pricing decisions, may be limited by the rights of our members.

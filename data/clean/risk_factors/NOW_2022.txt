@@ -1,0 +1,695 @@
+Investing in our securities involves risks. You should carefully consider the risks and uncertainties under “Risk Factors Summary” and the more detailed descriptions immediately following the summary, together with all of the other information in this Annual Report on Form 10-K, including our consolidated financial statements and related notes, before making an investment decision. The risks and uncertainties described below are not the only ones we face. The occurrence of any of the following risks or additional risks and uncertainties not presently known to us or that we currently believe to be immaterial could materially and adversely affect our business, financial condition or results of operations. Many risks affect more than one category, and the risks are not in order of significance or probability of occurrence because they have been grouped by categories. Our stock price could decline due to any of these risks.
+
+ Summary
+
+This summary of risks below is intended to provide an overview of the risks we face. Important information is included in the body of each risk factor that cannot be substituted for by reviewing only the summary
+
+•
+Risks Related to Our Ability to Grow Our Business
+
+•
+Privacy laws and concerns, evolving regulation of cloud computing, cross-border data transfer restrictions, other foreign and domestic regulations and standards related to data and the Internet may adversely affect our business.
+
+•
+Doing business with the public sector, including U.S. governments and agencies, heavily-regulated organizations and governments globally, subjects us to risks related to government procurement processes, regulations, and contracting requirements.
+
+•
+If we fail to comply with applicable anti-corruption and anti-bribery laws, export control or global trade laws, we could be subject to penalties and civil and/or criminal sanctions and our business could be materially adversely affected.
+
+•
+We participate in intensely competitive markets, and if we do not compete effectively, our business and operating results will be harmed.
+
+•
+If we fail to innovate in response to rapidly evolving technological and market developments and customer needs, our competitive position and business prospects may be harmed.
+
+•
+If we are unsuccessful in increasing our penetration of international markets or managing the risks associated with foreign markets, our business and operating results will be adversely affected.
+
+•
+We rely on our network of partners for an increasing portion of our revenues, and if these partners fail to perform, our ability to sell and distribute our products may be limited, and our operating results and growth rate may be harmed.
+
+•
+Delays in the release of, or actual or perceived defects in, our products may slow the adoption of our latest technologies, reduce our ability to efficiently provide services, decrease customer satisfaction, and adversely impact future product sales.
+
+•
+As more of our sales efforts are targeted at larger enterprise customers, our sales cycle may become longer and more expensive and we may encounter pricing pressure and implementation and configuration challenges.
+
+•
+As we acquire or invest in companies and technologies, we may not realize the expected business or financial benefits and the acquisitions and investments may divert our management’s attention and result in additional shareholder dilution.
+
+•
+Risks Related to the Operation of Our Business
+
+•
+If we or our third-party service providers experience an actual or perceived cyber-security event, our platform may be perceived as not being secure and we may lose customers and incur significant liabilities, any of which would harm our business and operating results.
+
+•
+If we lose key members of our management team or employees or are unable to attract and retain the employees we need, our compensation costs will increase and our business and operating results will be adversely affected.
+
+•
+Disruptions or defects in our services could damage our customers’ businesses, subject us to substantial liability and harm our reputation and financial results.
+
+•
+Lawsuits against us by third parties that allege we infringe their intellectual property rights could harm our business and operating results.
+
+•
+Our intellectual property protections may not provide us with a competitive advantage, and defending our intellectual property may result in substantial expenses that harm our operating results.
+
+•
+Our use of open source software could harm our ability to sell our products and services and subject us to possible litigation.
+
+•
+Various factors, including our customers’ business, integration, migration, compliance and security requirements, or errors by us, our partners, or our customers, may cause implementations of our products to be delayed, inefficient or otherwise unsuccessful.
+
+•
+Risks Related to the Financial Performance or Financial Position of Our Business
+
+12
+
+Table of Contents
+
+•
+Our operating results may vary significantly from period to period, and if we fail to meet the financial performance expectations of investors or securities analysts, the price of our common stock could decline substantially.
+
+•
+Because we generally recognize revenues from our subscription service over the subscription term, a decrease in new subscriptions or renewals during a reporting period may not be immediately reflected in our operating results for that period.
+
+•
+As our business grows, we expect our revenue growth rate to continue to decline.
+
+•
+Changes in our effective tax rate or disallowance of our tax positions may adversely affect our financial position and results.
+
+•
+If we are unable to maintain effective internal control over financial reporting, the accuracy and timeliness of our financial reporting may be adversely affected.
+
+•
+Risks Related to General Economic Conditions
+
+•
+The extent to which the ongoing COVID-19 pandemic will continue to impact our business and future results of operations and financial condition will depend on future developments, which are highly uncertain and difficult to predict.
+
+•
+Natural disasters, including climate change, and other events beyond our control could harm our business.
+
+•
+Global economic conditions may harm our industry, business and results of operations.
+
+•
+Foreign currency exchange rate fluctuations could harm our financial results.
+
+•
+Risks Related to Our 2030 Notes and 2022 Notes
+
+•
+Our debt service obligations may adversely affect our financial condition and cash flows from operations.
+
+•
+The conditional conversion feature of the 2022 Notes may adversely affect our financial condition and operating results.
+
+•
+The convertible note hedge and warrant transactions may affect the value of the 2022 Notes and our common stock.
+
+•
+We are subject to counterparty risk with respect to the 2022 Note Hedge.
+
+•
+Risks Related to Ownership of Our Common Stock
+
+•
+Our stock price is likely to continue to be volatile and could subject us to litigation.
+
+•
+We do not intend to pay dividends on our common stock, so any returns will be limited to changes in our stock price.
+
+•
+Provisions in our charter documents, Delaware law, 2030 Notes or 2022 Notes might discourage, delay or prevent a change of control or changes in our management and, therefore, depress our stock price.
+
+Risks Related to Our Ability to Grow Our Business
+
+Privacy laws and concerns, evolving regulation of cloud computing, cross-border data transfer restrictions, other foreign and domestic regulations and standards related to data and the Internet may adversely affect our business.
+
+National and local governments or agencies have adopted, and may continue to adopt, laws and regulations affecting data privacy, the use of the Internet as a commercial medium and data sovereignty or residency requirements concerning the location of data centers and support services. As a cloud-based service provider, we optimize performance of our products and services by utilizing data centers located in, and support provided from, different jurisdictions. Changing laws, regulations and standards applying to the collection, use, sharing, transfer or other processing of data, including personal data, could affect our ability to develop our products and services to maximize their utility, as well as our customers’ ability to use data or share data with service providers. Such changes may restrict our ability to use, store or otherwise process data of our customers in connection with providing and supporting our services. In some cases, this could impact our ability to offer our services in certain locations or our customers’ ability to deploy our services globally. 
+
+Compliance with, and other obligations imposed by, existing and upcoming laws globally, including Europe and state specific privacy laws in the United States (“US”), global trends to regulate the use of AI, the ruling of the European Court of Justice in Schrems v. Facebook Ireland and interpretations of that ruling by regulators and customers, recommendations issued by the European Data Protection Board, new Standard Contractual Clauses issued by the European Commission, and other privacy, data residency, sovereignty and transfer laws, regulations and standards (including self-regulatory standards) may cause us to incur substantial operational costs or require us to modify our data handling practices and/or policies, may limit the development, use and adoption of our services, and could reduce overall demand for our services. Laws or regulations related to the use of AI technology may impact our ability to use certain data for developing our products and may also become an impediment to the adoption of our products for customers regulated by such laws and regulations. Recently we began offering a European Union (“EU”) centric services delivery model, by which customers may elect to receive support from EU‑based ServiceNow teams, with an EU, cloud‑hosted digital workflow solution. This offering required a significant investment in financial and human resources, and we may see similar requests for local solutions in other territories. In addition, actual or perceived non-compliance could result in proceedings or investigations against us by regulatory authorities or others, lead to significant fines, damages, orders or reputational harm and may otherwise adversely impact our business, financial condition 
+
+13
+
+Table of Contents
+
+and operating results.
+
+Changes in our developed or acquired products and how such products utilize data could also alter or increase our compliance requirements. As a result, our innovation and business drivers in developing or acquiring new and emerging technologies and the demand for our products could be impacted.
+
+Doing business with the public sector, including U.S. governments and agencies, heavily-regulated organizations and governments globally, subjects us to risks related to government procurement processes, regulations, and contracting requirements.
+
+We provide products and services to the U.S. federal, state and local governments and heavily-regulated organizations directly and through our partners. We have made, and may continue to make, significant investments to support future sales opportunities in various government sectors. This includes obtaining and maintaining additional cloud security authorizations in the US for the ServiceNow Government Community Cloud, such as the U.S. Federal Risk and Authorization Management Program (“FedRAMP”) High Provisional Authority to Operate (“P-ATO”) from the Joint Authorization Board, and the U.S. Department of Defense Security Requirements Guide Impact Level 4 P-ATO for cloud computing by the Defense Information Systems Agency. We have also made significant investments to obtain security authorizations and certifications outside the US. However, government certification requirements may change, or we may be unable to achieve or sustain one or more government certification or authorization, including those mentioned above. As a result, if such requirements change, our ability to sell into the government sector could be restricted until we meet any revised requirements. 
+
+A substantial majority of our sales to date to government entities in the US have been made indirectly through our distributors, resellers or service provider partners. Doing business with government entities presents a variety of risks. The procurement process for governments and their agencies is highly competitive, time-consuming and may be subject to political influence and may involve different rules and conditions on the offering or pricing of products and services. We incur significant up-front time and expense, which subjects us to additional compliance risks and costs, without any assurance that we (or a third-party distributor, reseller or service provider) will win a contract. Beyond this, demand for our products and services may be adversely impacted by public sector budgetary cycles and funding availability that in any given fiscal cycle may be reduced or delayed, including in connection with an extended federal government shutdown or changes to government policy. Further, if we or our partners are successful in receiving a contract award, that award could be challenged during a bid protest process. Bid protests may result in an increase in expenses related to obtaining contract awards or an unfavorable modification or loss of an award. Even if a bid protest were unsuccessful, the delay in the startup and funding of the work under these contracts may cause our actual results to differ materially and adversely from those anticipated. 
+
+Our customers also include non-U.S. governments, to which government procurement risks similar to those present in U.S. government contracting and regulatory compliance also apply, particularly in certain emerging markets where our customer base is less established. We have seen challenges to successful awards through bid protest procedures in jurisdictions outside the US. As our non-US government business grows, we may see an increase in bid protests as part of the standard government procurement legal procedures that exist in many jurisdictions. In addition, compliance with complex regulations and contracting provisions in a variety of jurisdictions can be expensive and consume significant management resources. In certain jurisdictions, our ability to win business may be constrained by political and other factors unrelated to our competitive position in the market. Each of these difficulties could materially adversely affect our business and results of operations.
+
+In addition, public sector customers may have contractual, statutory or regulatory rights to terminate current contracts with us or our third-party distributors or resellers for convenience or due to a default, though such risk may be assumed by such third-party distributor or reseller. If a contract is terminated for convenience, we may only be able to collect fees for products or services delivered prior to termination and settlement expenses. If a contract is terminated due to a default, we may be liable for excess costs incurred by the customer for procuring alternative products or services or be precluded from doing further business with government entities. Further, we are required to comply with a variety of complex laws, regulations, and contractual provisions relating to the formation, administration, or performance of government contracts that give public sector customers substantial rights and remedies, many of which are not typically found in commercial contracts. These may include rights with respect to price protection, refund and setoff, the accuracy of information provided to the government, contractor compliance with supplier diversity policies, and other obligations that are particular to government contracts. These obligations may apply to us and/or our third-party resellers or distributors whose practices we may not control. Such parties’ non-compliance could impose repercussions with respect to contractual and customer satisfaction issues. 
+
+In addition, governments routinely investigate and audit contractors for compliance with these requirements. If, from an audit, it is determined that we have failed to comply with these requirements, we may be subject to civil and criminal penalties and administrative sanctions, including termination of contracts, forfeiture of profits, cost associated with the triggering of price 
+
+14
+
+Table of Contents
+
+reduction clauses, fines, and suspensions or debarment from future government business, all of which may cause us to suffer reputational harm.
+
+Further, we are increasingly doing business in heavily regulated industries, such as the financial services, telecommunication media and television and health care industries. Current and prospective customers in such industries may be required to comply with more stringent regulations in connection with subscribing to and implementing our services or particular regulations regarding third-party vendors that may be interpreted differently by different customers. In addition, regulatory agencies may impose requirements toward third-party vendors that we may not be able to, or may not choose to, meet. In addition, customers in these heavily-regulated industries often have a right to conduct audits of our systems, products and practices. If one or more customer determines that some aspect of our business does not meet regulatory requirements, we may be limited in our ability to continue or expand our business.
+
+If we fail to comply with applicable anti-corruption and anti-bribery laws, export control or global trade laws, we could be subject to penalties and civil and/or criminal sanctions and our business could be materially adversely affected.
+
+As we continue to expand our business internationally, we will inevitably do more business with large enterprises and the public sector in countries that are perceived to have heightened levels of public sector corruption. Increased business in countries perceived to have heightened levels of corruption could subject us and our officers and directors to increased scrutiny and increased liability from our business operations. We have implemented and continue to update our compliance program but there is a risk that our employees, partners and agents, as well as those companies to which we outsource certain of our business operations, could take actions in violation of our policies and applicable law, for which we may be ultimately held responsible. In addition, we are subject to global trade laws that apply to our worldwide operations, including restrictions on conducting business in certain restricted countries or with certain entities or individuals. Any violation of the U.S. Foreign Corrupt Practices Act of 1977, as amended (the “FCPA”), the UK Bribery Act, other applicable anti-corruption and anti-bribery laws, export control or global trade laws by our employees or third-party intermediaries could result in regulatory investigations and whistleblower complaints, which could subject us to significant risks such as adverse media coverage and/or severe criminal or civil sanctions, which could materially adversely affect our reputation, business, operating results, and prospects.
+
+We participate in intensely competitive markets, and if we do not compete effectively, our business and operating results will be harmed.
+
+The markets for our enterprise cloud solutions are rapidly evolving and highly competitive, with relatively low barriers to entry. As the market for digital workflow products and offerings matures and new technologies, in-house solutions and competitors enter the market, we find ourselves increasingly competing with solutions and alternative approaches to solving customer needs or experiencing reluctance or unwillingness from customers to migrate away from their current solutions. Further, as our offerings have become more widely adopted and successful in the market, more competitors are developing competing offerings. For example, while the Now Platform was designed to quickly integrate with and offers solutions that are complementary to the offerings of many well-established systems that traditionally operate as “systems of record,” competition in this space has been increasing. Some of the companies operating these “systems of record” offer, or plan to offer, workflow solutions similar to ours. Additionally, sources of alternative solutions and approaches include those provided by:
+
+•
+enterprise application software vendors, such as Oracle, SAP, Salesforce and Workday;
+
+•
+new technology vendors and entrants;
+
+•
+in-house solutions of current and prospective customers; and
+
+•
+cloud-based vendors.
+
+Some of our existing competitors and potential competitors are larger and have greater name recognition and scale, longer operating histories, more established customer relationships, larger marketing budgets and greater financial, technical and resources than we do. Competitors and new entrants may be able to respond more quickly and effectively to new or changing opportunities, technologies, standards, customer requirements and buying practices. They may introduce new technology, solve similar problems in different ways or more effectively utilize existing technology that reduces demand for our services. They may utilize acquisitions, integrations or consolidations to offer integrated or bundled products, enhanced functionality or other advantages. “Systems of record” operators may attempt to create technology solutions that would prevent our systems from integrating with theirs. Enterprise software application vendors may reduce the price of or offer free-of-charge competing products, services or subscriptions creating pricing pressures, or bundle them with their other offerings causing our offerings to appear relatively more expensive. Smaller competitors, new technology vendors and new entrants may also accelerate pricing pressures in the various markets in which we compete.
+
+Additionally, companies may expand their services to compete with our services, or we may shift our products and services to compete with current and future competitors in adjacent markets. They may invest in industry-specific solutions that claim to provide a unique solution for that industry. We have expanded and expect to continue to expand the breadth of our services to include offerings in new markets and industries, the use of our platform by developers and generally in low-code/no-code capabilities. As a result, we expect increasing competition from companies focused on these other areas. Also, as 
+
+15
+
+Table of Contents
+
+customers increasingly adopt a hybrid (on-premise and off-premise) approach for their IT workloads, our cloud services may fail to address evolving customer requirements, which could cause a decline in demand for our services and for us to experience lower growth. Competition from cloud-based vendors may increase as they partner with on-premise hardware providers to deliver their cloud platform as an on-premise solution. Further, the flexibility of future of work models may reduce entry barriers in the markets we operate or usher a new wave of innovation, increasing competition from new entrants and technologies and existing competitors. For these reasons, we may not be able to compete successfully. Competition could result in reduced sales and margins, losses or failure of our products to achieve or maintain market acceptance, any of which could harm our business.
+
+If we fail to innovate in response to rapidly evolving technological and market developments and customer needs, our competitive position and business prospects may be harmed.
+
+We compete in markets that continue to evolve rapidly. The pace of innovation will continue to accelerate as customers increasingly base their purchases on digital technologies and shift to modern cloud-based infrastructure and agile ways of working. As digital transformation accelerates across the enterprise, capabilities such as AI, machine learning, hyper automation, low-code/no-code application development, system observability, database scalability, consumer-grade user experiences, collaboration, Internet-connected devices, security, cryptography, internal software development operations, and application and service awareness become increasingly relevant to customers’ evolving needs. Our customers and prospective customers are either facing competing imperatives to adopt digital technologies, or are built on fully digital, modern, dynamic IT technologies. Accordingly, to compete effectively, we must: 
+
+•
+identify and innovate in the right emerging technologies,
+
+•
+accurately predict our customers’ changing digital transformation needs, priorities and adoption practices, including their technology infrastructures and buying and budgetary practices, 
+
+•
+invest in and continually optimize our own technology platform so that it continues to meet the very high performance expectations of our customers, 
+
+•
+successfully deliver new, scalable platform and database technologies and products to meet these needs and priorities, 
+
+•
+efficiently integrate with other technologies within our customers’ digital environments, 
+
+•
+expand our offerings into industries and to buyers who are not familiar with our offerings,
+
+•
+profitably market and sell products to companies in markets where our sales and marketing teams have less experience, 
+
+•
+successfully shift to a subscription-based, services model and sell such services; effectively secure our platform, data and customers’ data, and 
+
+•
+effectively deliver, directly or through our partner ecosystem, the digital transformation process planning, IT systems architecture planning, and product implementation services that our customers require to be successful. 
+
+If we fail to meet any of these requirements, our competitive position, strategic relevance and business prospects may be harmed. Further, we may make significant investments in changing the way we offer our products or services, such as starting the shift to a subscription-based model for support services, in response to evolving customer needs. Customers may be dissatisfied with the change in the manner and scope of how the services are delivered and the resulting change in the pricing model and may resist or be slow to adopt changes to our offerings, all of which may adversely impact our ability to compete.
+
+If we are unsuccessful in increasing our penetration of international markets or managing the risks associated with foreign markets, our business and operating results will be adversely affected.
+
+Sales outside of North America represented 36% and 35% of our total revenues for the years ended December 31, 2021 and 2020, respectively. Our business and future prospects depend on increasing our international sales as a percentage of our total revenues outside the US. The failure to grow internationally will harm our business. Additionally, operating in international markets requires significant investment and management attention and subjects us to different regulatory, political and economic risks from those in the US. We have made, and will continue to make, substantial investments in data centers, geographic specific service delivery models, advisory councils, cloud computing infrastructure, sales, marketing, partnership arrangements, personnel and facilities as we enter and expand in new geographic markets. When we make these investments, it is typically unclear whether, and when, sales in the new market will justify our investments. We may significantly underestimate the level of investment and time required to be successful, or whether we will be successful. Our rate of acquisition of new large enterprise customers, a factor affecting our growth, has been generally lower in territories where we are less established and where there may be increased or changing regulations and operational and IP risks, as compared to our more established locations. We have experienced, and may continue to experience, difficulties in some of our investments in geographic expansion, including hiring qualified sales management personnel, penetrating the target market, anticipating and ensuring compliance with regulatory requirements and developments, and managing foreign operations in such locales. Risks inherent with making our products and services available in international markets include without limitation:
+
+•
+compliance with multiple, conflicting and changing governmental laws and regulations, including employment, tax, competition, requirements to have local partner(s), local entity ownership limitations, technology transfer or sharing requirements, data residency and transfer laws and regulations, privacy and data protection laws and regulations, which may increase operational costs and restrictions;
+
+16
+
+Table of Contents
+
+•
+compliance by us and our business partners with international bribery and anti-corruption laws, including, but not limited to, the UK Bribery Act and the FCPA;
+
+•
+the risk that illegal or unethical activities of our local employees or business partners will be attributed to or result in liability to us or damage to our reputation;
+
+•
+the risk that we will fail to meet the requirements of the rules and regulations relating to government or other public sector contracting;
+
+•
+longer and potentially more complex sales and accounts receivable payment cycles and other collection difficulties;
+
+•
+tax treatment of revenues from international sources and changes to tax codes, including being subject to foreign tax laws and being liable for paying withholding, income or other taxes in foreign jurisdictions;
+
+•
+different pricing and distribution environments;
+
+•
+foreign currency fluctuations, which may cause transactional and translational remeasurement losses;
+
+•
+potential changes in international trade policies, tariffs, agreements and practices, including the adoption and expansion of formal or informal trade restrictions or regulatory frameworks favoring local competitors;
+
+•
+potential threatening state-sponsored actions, including cybersecurity threats directed at local data centers, customers or end-users;
+
+•
+local governmental direction, business practices and/or cultural norms that may favor local competitors; 
+
+•
+localization of our services, including translation into foreign languages and associated expenses; and
+
+•
+natural disasters, acts of war, terrorism or pandemics.
+
+If we are unable to manage these risks, if our required investments in these international markets are greater than anticipated, or if we are unsuccessful in increasing sales in emerging markets, our revenue growth rate, business and operating results will be adversely affected.
+
+We rely on our network of partners for an increasing portion of our revenues, and if these partners fail to perform, our ability to sell and distribute our products may be limited, and our operating results and growth rate may be harmed.
+
+An increasing portion of our revenues is generated by sales through our network of partners, including managed service providers and resellers. Increasingly, we and our customers rely on our partners to provide professional services, including customer implementations, and there may not be enough qualified implementation partners available to meet customer demand. While we provide our partners with training and programs, including accreditations and certifications, these programs may not be effective or utilized consistently. In addition, new partners may require extensive training and may require significant time and resources to achieve productivity. Our partners may subject us to lawsuits, potential liability, and reputational harm if, for example, any of our partners misrepresent the functionality of our platform or products to customers, fail to perform services to our customers’ expectations, or violate laws or our corporate policies. In addition, our partners may utilize our platform to develop products and services that could potentially compete with products and services that we offer currently or in the future. Concerns over competitive matters or IP ownership could constrain these partnerships. If we fail to effectively manage and grow our network of partners, or properly monitor the quality and efficacy of their service delivery, our ability to sell our products and efficiently provide our services may be impacted, and our operating results and growth rate may be harmed.
+
+Delays in the release of, or actual or perceived defects in, our products may slow the adoption of our latest technologies, reduce our ability to efficiently provide services, decrease customer satisfaction, and adversely impact future product sales.
+
+We must successfully continue to release new products and updates to existing products. The success of any release depends on a number of factors, including our ability to manage the risks associated with actual or perceived quality or other defects or deficiencies, delays in the timing of releases or the adoption of releases by customers, and other complications that may arise during the early stages of introducing our products. If releases are delayed or if customers perceive that our releases contain bugs or other defects or are difficult to implement, customer adoption of our new products or updates may be adversely impacted, customer satisfaction may decrease, our ability to efficiently provide our services may be reduced, and our growth prospects may be harmed.
+
+As more of our sales efforts are targeted at larger enterprise customers, our sales cycle may become longer and more expensive and we may encounter pricing pressure and implementation and configuration challenges. 
+
+As we target more of our sales efforts at larger enterprise customers, we may face heightened costs, longer sales cycles, greater competition and less predictability in completing some of our sales. With such customers, their decision to use our services may be an enterprise-wide decision. Such sales require considerable time for the customer to evaluate and test our platform prior to making a purchasing decision, require us to provide greater levels of education regarding the use and benefits of our services, as well as addressing concerns regarding data security, compliance with privacy and data protection laws and regulations of prospective customers with international operations or whose own customers operate internationally. In addition, larger enterprise customers may demand more configuration, integration services and features. As a result of these factors, these sales opportunities may require us to devote greater sales support and professional services resources to individual customers, 
+
+17
+
+Table of Contents
+
+driving up costs and time required to complete sales and diverting our own sales and professional services resources to a smaller number of larger transactions. Large enterprise customers may be switching from legacy on-premises solutions when purchasing our products, and may rely on third parties with whom we do not have relationships when making purchasing decisions. If we fail to effectively manage these risks associated with sales cycles and sales to larger enterprise customers, our business, financial condition, and results of operations may be affected. 
+
+As we acquire or invest in companies and technologies, we may not realize the expected business or financial benefits and the acquisitions and investments may divert our management’s attention and result in additional shareholder dilution.
+
+We have acquired or invested in companies and technologies as part of our business strategy and will continue to evaluate and execute potential strategic transactions, including acquisitions of or investments in businesses, technologies, services, products and other assets. We have and will continue to enter relationships with other businesses to expand our service offerings, go-to-market and sales efforts, functionality or our ability to provide services in international locations, which could involve preferred or exclusive licenses, additional channels of distribution, discount pricing or investments in other companies. Although we conduct reasonably extensive due diligence with each of the entities we engage for a strategic transaction, our efforts may not reveal every material concern with respect to the target entity or our assumptions surrounding the resulting combination. These strategic transactions involve numerous risks, including:
+
+•
+assimilating or integrating the businesses, technologies, products, personnel or operations of the acquired companies; 
+
+•
+failing to achieve the expected benefits of the acquisition or investment;
+
+•
+potential loss of key employees of the acquired company;
+
+•
+inability to maintain relationships with customers and partners of the acquired business;
+
+•
+potential adverse tax consequences;
+
+•
+disruption to our business and diversion of management attention and other resources;
+
+•
+potential financial and credit risks associated with acquired customers;
+
+•
+dependence on acquired technologies or licenses for which alternatives may not be available to us without significant cost or complexity; 
+
+•
+in the case of foreign acquisitions, the challenges associated with integrating operations across different cultures and languages and any currency and regulatory risks associated with specific countries; 
+
+•
+introducing increased complexity and burden to maintain the technology platform or introducing vulnerabilities or threats by integrating acquired technologies;
+
+•
+increased data security or privacy compliance requirements from integrating the acquired technology or company;
+
+•
+impairment to our investments if our investees are unable to obtain future funding on favorable terms or at all; and 
+
+•
+potential unknown liabilities associated with the acquired businesses.
+
+In addition, we have and may continue to pay cash and may have to incur debt or issue equity or equity-linked securities to pay for acquisitions, each of which could adversely affect our financial condition or our stock price. Furthermore, if we finance acquisitions by issuing equity, convertible or other debt securities or loans, our existing shareholders may be diluted, or we could face constraints related to the terms of and repayment obligation related to the incurrence of indebtedness that could affect our stock price. The occurrence of any of these risks could harm our business, operating results and financial condition.
+
+Risks Related to the Operation of Our Business
+
+If we or our third-party service providers experience an actual or perceived cyber-security event, our platform may be perceived as not being secure and we may lose customers and incur significant liabilities, any of which would harm our business and operating results.
+
+Our operations involve the storage, transmission and processing of our customers’ confidential, proprietary and sensitive data, which may include personally identifiable information, protected health information, financial information and, in some cases, government information. While we have security measures and a data governance framework in place designed to protect customer information and prevent data loss, these measures may contain legacy code vulnerabilities, have limited implementation or be breached because of employee error or intentional action or third-party actions, including unintentional events or deliberate attacks by cyber criminals or foreign state actors, and result in someone obtaining unauthorized access to our instances and ultimately our customers’ data or our data, IP and other confidential business information. For example, third parties have attempted to fraudulently induce employees, contractors, or users to disclose information or to gain access to our data or our customers’ data, and we have been the target of email scams that attempt to acquire personal information or company assets. Further, we have experienced increased cyberattacks and security challenges as the growing number of employees, vendors and other third parties that remotely access our systems increases our attack surface. We have also seen an increase in cyberattack volume, frequency, and sophistication driven by the global enablement of remote workforces.
+
+Computer malware, ransomware, viruses, hacking, phishing and denial of service attacks by third parties have become 
+
+18
+
+Table of Contents
+
+more prevalent in our industry, and they, or attempts, have occurred on our and our third-party service providers’ systems in the past and may occur again on these systems in the future. The frequency and sophistication of these malicious attacks have increased, and it appears that cyber crimes and cyber criminal networks, some of which may be state-supported, have been provided substantial resources and may target U.S. enterprises or our customers and their use of our products. In addition, we have established extensive development and testing environments for our engineers developing new products and features. Security protocols in those environments have necessarily been less rigorous than in environments housing customer data, but a vulnerability or security defect developed in that environment could become incorporated in code imported to our environments housing customer data. Similarly, in the unique circumstances where customer data may be utilized in developer environments for testing or learning, that data may be at greater risk. Because techniques used to sabotage, obtain unauthorized access to systems or prohibit authorized access to systems change frequently and generally may not be detected until successfully launched against a target, we have been and may continue to be unable to anticipate these techniques or to implement adequate preventative measures. This has included and may continue to include underlying infiltration of pre-existing systems, including those of our third-party service providers or customers, perpetrated by more sophisticated or state-supported attackers, including foreign cybersecurity attacks on U.S. technology companies identified in late 2020. It may also include exploitation of vulnerabilities in third party or open source software code that may be incorporated into our own or our customers’ systems, such as the vulnerability in the Java logging library known as “log4j” identified in late 2021 that affected many in our industry. The occurrence of these and other more sophisticated or state-supported attack campaigns may increase as geopolitical tensions and intermittent warfare escalate outside of the US. We devote significant financial and personnel resources to implement and maintain security measures while meeting customer expectations as to the performance of our systems; however, as cyber-security threats develop and grow more complex over time, we will continue to make significant further investments to protect data and infrastructure, but a residual risk may remain despite our preventative efforts. A security breach suffered by us or our third-party service providers, an attack against our service availability or unauthorized access or loss of data could result in a disruption to our service, litigation, service level agreement claims, indemnification and other contractual obligations, regulatory investigations, government fines and penalties, reputational damage, loss of sales and customers, mitigation and remediation expenses and other significant costs and liabilities. In addition, we may incur significant costs and operational consequences of paying to access data, investigating, remediating, complying with notice obligations and implementing additional measures designed to prevent actual or perceived security incidents. We also cannot be certain that our existing insurance coverage will continue to be available on acceptable terms or in sufficient amounts to cover the potentially significant losses that may result from a security incident or breach or the insurer will not deny coverage as to any future claim.
+
+Further, in most instances, our customers administer access to the data held in their particular instance for their employees and service providers. While we offer tools and support, customers are not required to utilize them and may suffer a cyber-security event on their own systems, unrelated to our own, and allow a malicious actor to obtain access to the customer’s information held on our platform. Even if such a breach is unrelated to our security programs or practices, such breach could result in our incurring significant economic and operational costs in investigating, remediating, and implementing additional measures to further protect our customers from their own vulnerabilities, and could result in reputational harm to us.
+
+Digital supply chain attacks have increased in frequency and severity. We cannot guarantee that third parties and our supply chain infrastructure have not been compromised or that they do not contain exploitable defects or bugs that could result in a breach of or disruption to our platform, systems and network or the systems and networks of third parties that support us and our business. Third parties may also exploit vulnerabilities in, or obtain unauthorized access to, platforms, systems, networks, or physical facilities utilized by us or our third-party vendors or service providers.
+
+If we lose key members of our management team or employees or are unable to attract and retain the employees we need, our compensation costs will increase and our business and operating results will be adversely affected.
+
+Competition for talent in the technology industry has become increasingly intense, particularly in the last several months. In 2021, there has been a dramatic increase in workers leaving their positions throughout our industry that is being referred to as the “great resignation,” and the market to build, retain and replace talent has become even more highly competitive. Our success depends substantially upon the continued services of our management team, particularly our chief executive officer, our chief product and engineering officer, and the other members of our executive staff. In response to this highly competitive environment, we recently made significant performance-based equity awards to our executive staff outside of our regular compensation program, but we cannot guarantee that this will be sufficient to retain all of these individuals. From time to time in the ordinary course of business, there may be changes in our management team resulting from the hiring or departure of executives. While we seek to manage these transitions carefully, including by establishing strong processes and procedures and succession planning, such changes may result in a loss of institutional knowledge, cause disruptions to our business and negatively affect our business.
+
+The technology industry is subject to substantial and continuous competition for diverse, talented product and engineering, sales and operations employees. Many key individual contributors, particularly in research and development, engineering and sales, are critical to our success and can command very significant compensation in the market. We have faced and may continue to face difficulties attracting, hiring and retaining highly-skilled personnel and with appropriate qualifications and may not be able to fill positions in desired geographic areas or at all. In particular, competition for experienced software 
+
+19
+
+Table of Contents
+
+and cloud computing infrastructure engineers in our primary operating locations (San Francisco Bay area, San Diego, Seattle, Hyderabad, Dublin, London, and Amsterdam) is intense. Such difficulties may be exacerbated by employees’ reactions to our policies related to COVID-19 vaccination or flexibility to remote working. As a result, we have also experienced and may continue to experience increased compensation and training costs that may not be offset by either improved productivity or higher sales, potentially resulting in a reduction in our profitability. Many of our employees, including all of our executive officers, are employed “at-will” and may terminate their employment with us at any time. If we fail to attract new personnel or fail to retain and motivate our current personnel, our business and future growth prospects could be adversely affected.
+
+In addition, we believe our corporate culture of fostering innovation, teamwork and employee satisfaction has been a key contributor to our success to date. However, in this period of the "great resignation," we have and may continue to face higher employee turnover rates. As we continue to grow and expand globally and navigate shifting workforce priorities, including a new hybrid work model in which many of our employees continue to work remote for part of the week and fully remote workers continue to increase, we may find it difficult to maintain important aspects of our corporate culture, which could negatively affect our ability to retain and recruit personnel who are essential to our future success and could ultimately have a negative impact on our ability to innovate our technology and our business. Further, as of December 31, 2021, approximately 31% of our employees have been employed by us for a year or less and we must be able to effectively integrate, develop and motivate a large number of new employees, while maintaining the effectiveness of our business execution and the beneficial aspects of our corporate culture. Such challenges may be exacerbated by the new hybrid work model.
+
+Disruptions or defects in our services could damage our customers’ businesses, subject us to substantial liability and harm our reputation and financial results.
+
+Our business depends on our platform to be available without disruption. From time to time, we experience defects, disruptions, outages and other performance and quality problems with our platform, and new defects may be detected in the future and may arise from our increasing use of the public cloud. For example, we provide regular updates to our services, which can contain undetected defects when first released. Defects may also be introduced by our use of third-party software, including open-source software. Disruptions may result from errors we make in developing, delivering, configuring or hosting our services, or designing, installing, expanding or maintaining our cloud infrastructure. Disruptions in service can also result from incidents that are outside of our control, including denial of service or ransomware attacks. We currently serve our customers primarily using equipment managed by us and co-located in third-party data centers operated by several different providers located around the world, and serve certain of our customers that are primarily in highly regulated markets, using data center facilities operated by public cloud service providers. These data centers are vulnerable to damage or interruption from earthquakes, hurricanes, floods, fires, power loss and similar events. They may also be subject to break-ins, sabotage, intentional acts of vandalism and similar misconduct, equipment failure and adverse events caused by operator error or negligence. Despite precautions taken at these centers, problems at these centers have occurred, resulting in interruptions in our services. Such problems could occur again and result in similar or lengthier service interruptions and the loss of customer data. In addition, our customers may use our services in ways that cause disruptions in service for other customers. In addition to data center providers, we also have a large ecosystem of service providers that we use in our delivery of our products. If there is a compromise to data or other incident with our critical service providers, it may impact our ability to provide our services. Our customers use our services to manage important aspects of their businesses, and our reputation and business will be adversely affected if our customers and potential customers believe our services are unreliable. Disruptions or defects in our services may reduce our revenues, cause us to issue credits or pay penalties, subject us to claims and litigation, cause our customers to delay payment or terminate or fail to renew their subscriptions, and adversely affect our ability to attract new customers. Similarly, customers may have unique requirements for system resiliency and performance depending on their business models and customers in highly regulated markets may have more demanding requirements that we may not be able to, or may not choose to, meet. The occurrence of payment delays, service credit, warranty or termination for material breach or other claims against us could result in an increase in our bad debt expense, an increase in collection cycles, an increase to our service level credit accruals, other increased expenses or risks of litigation. We may not have insurance sufficient to compensate us for potentially significant losses that may result from claims arising from disruptions to our services.
+
+Lawsuits against us by third parties that allege we infringe their intellectual property rights could harm our business and operating results.
+
+There is considerable patent and other IP development activity and claims and related litigation regarding patent and IP rights in our industry. Our competitors, other third parties and non-practicing entities, own large numbers of patents, copyrights, trademarks and trade secrets, which they may use to assert claims of infringement, misappropriation or other violations of IP rights against us. Moreover, the patent portfolios of many of our competitors are larger than ours. This disparity may increase the risk that our competitors may sue us for patent infringement and may limit our ability to counterclaim for patent infringement or settle through patent cross-licenses. We have recorded material charges for legal settlements of such claims in the past.
+
+In any IP litigation, regardless of the scope or merit, we may incur substantial costs and attorney’s fees and, if the claims are successfully asserted against us and we are found to be infringing upon, misappropriating or otherwise violating the IP rights of others, we could be required to: pay substantial damages and/or make substantial ongoing royalty payments; cease 
+
+20
+
+Table of Contents
+
+offering or modify our products and services; comply with other unfavorable terms, including settlement terms; and indemnify our customers and business partners, obtain costly licenses on their behalf, and/or refund fees or other payments previously paid to us. Further, upon expiration of the term of any agreements that allow us to use third-party IP, we may be unable to renew such agreements on favorable terms, if at all, in which case we may face IP litigation. The mere existence of any lawsuit, or any interim or final outcomes, and the public statements related to it (or absence of such statements) by the press, analysts and litigants could be unsettling to our customers and prospective customers. This could cause an adverse impact to our customer satisfaction and related renewal rates, cause us to lose potential sales, and could also be unsettling to investors or prospective investors and cause a substantial decline in our stock price. Any claim or litigation against us could be costly, time-consuming and divert the attention of management and key personnel from our business operations and harm our financial condition and operating results.
+
+Our intellectual property protections may not provide us with a competitive advantage, and defending our intellectual property may result in substantial expenses that harm our operating results.
+
+Our success depends to a significant degree on our ability to protect our proprietary technology and our brand under patent, copyright, trademark, trade secret and other IP protections in the US and other jurisdictions. Though we seek patent protection for our technology, we may not be successful in obtaining patent protection, and any patents acquired in the future may not provide competitive advantages or other value. In addition, any patents that have been or may be issued or acquired may be contested, circumvented, found unenforceable or invalidated, and we may not be able to prevent third parties from infringing upon them. Further, legal standards relating to the validity, enforceability and scope of protection of IP rights vary. 
+
+Despite our efforts to protect our proprietary rights, unauthorized parties may attempt to copy or obtain and use our technology to develop products and services that provide features and functionality similar to ours. Policing unauthorized use of our technology is difficult. Our competitors could also independently develop services equivalent to ours, and our IP rights may not be broad enough for us to prevent competitors from utilizing their developments to compete with us. Reverse engineering, unauthorized copying or other misappropriation of our proprietary technology could enable third parties to benefit from our technology without paying us for it, which would significantly harm our business. 
+
+Our IP rights may be challenged by others or invalidated through administrative processes or litigation. Effective patent, trademark, copyright and trade secret protection may not be available in every country in which we offer services. The laws of some foreign countries may not offer effective protection for or be as protective of IP rights as those in the US, and mechanisms for enforcement of IP rights or available remedies may be inadequate, ineffective or scarce. We may be required to spend significant resources to monitor and protect our IP rights. We have initiated and, in the future, may initiate claims or litigation against third parties for infringement or misappropriation of our proprietary rights or to establish the validity of our proprietary rights. Any litigation, whether or not resolved in our favor, could result in significant expense to us, divert the efforts of our technical and management personnel and may result in counter-claims with respect to infringement or misappropriation of IP rights by us. If we are unable to prevent third parties from infringing upon or misappropriating our IP rights or are required to incur substantial expenses defending our IP rights, our business and operating results may be adversely affected. 
+
+Our use of open source software could harm our ability to sell our products and services and subject us to possible litigation.
+
+Our products incorporate software licensed to us by third-party authors under open source licenses, and we expect to continue to incorporate open source software into our products and services in the future. We monitor our use of open source software in an effort to avoid subjecting our products and services to adverse licensing conditions. However, there can be no assurance that our efforts have been or will be successful. There is little or no legal precedent governing the interpretation of the terms of open source licenses, and therefore the potential impact of these terms on our business is uncertain and enforcement of these terms may result in unanticipated obligations regarding our products and services. For example, depending on which open source license governs certain open source software included within our products and services, we may be subjected to conditions requiring us to offer our products and services to users at no cost; make available the source code for modifications and derivative works based upon, incorporating or using such open source software; and license such modifications or derivative works under the terms of the particular open source license. Moreover, if an author or other third party that distributes such open source software were to allege that we had not complied with the conditions of one or more of these licenses, we could be required to incur significant legal costs defending ourselves against such allegations, be subject to significant damages or be enjoined from distributing our products and services. 
+
+Various factors, including our customers’ business, integration, migration, compliance and security requirements, or errors by us, our partners, or our customers, may cause implementations of our products to be delayed, inefficient or otherwise unsuccessful.
+
+21
+
+Table of Contents
+
+Our business depends upon the successful implementation of our products by our customers either through us or our partners. Further, our customers’ business, integration, migration, compliance and security requirements, or errors by us, our partners, or our customers, or other factors may cause implementations to be delayed, inefficient or otherwise unsuccessful. For example, changes in the functional requirements of our customers, delays in timeline, or deviations from recommended best practices may occur during the course of implementation. As a result of these and other risks, we or our customers may incur significant implementation costs in connection with the purchase, implementation and enablement of our products. Some customer implementations may take longer than planned or fail to meet our customers’ expectations, which may delay our ability to sell additional products or result in customers canceling or failing to renew their subscriptions before our products have been fully implemented. Some customers may lack the internal resources to manage a digital transformation such as our offering and, as a consequence, may be unable to see the benefits of our products. Unsuccessful, lengthy, or costly implementations and integrations could result in claims from customers, reputational harm, and opportunities for competitors to displace our products, each of which could have an adverse effect on our business and operating results. 
+
+Risks Related to the Financial Performance or Financial Position of Our Business
+
+Our operating results may vary significantly from period to period, and if we fail to meet the financial performance expectations of investors or securities analysts, the price of our common stock could decline substantially.
+
+Our operating results may vary significantly from period to period as a result of various factors, some of which are beyond our control. For any period, there is a risk that our financial performance will not meet the financial guidance we have previously given for that period, or we may otherwise fail to meet the financial performance expectations of the securities analysts who issue reports on our company and our common stock price or our investors. There is also a risk that we may issue forward-looking financial guidance for a period that fails to meet the expectations of such securities analysts or investors. If any of the foregoing occurs, for any reason, either within or outside of our control, the price of our common stock could decline substantially and investors in our common stock could incur substantial losses. Some of the important factors that may cause our financial performance to vary widely, or cause our forward-looking financial guidance to fall below the expectations of such securities analysts or investors, include:
+
+•
+our ability to attract new customers, retain and increase sales to existing customers, and satisfy customers’ requirements;
+
+•
+changes in our mix of products and services, including cloud and self-hosted offerings or customers use of our products;
+
+•
+our ability to increase sales and market penetration of our products or services;
+
+•
+volatility in foreign currency exchange rates and our ability to effectively hedge our foreign currency exposure;
+
+•
+the rate of expansion, retention and productivity of our sales and engineering organizations;
+
+•
+the number of new employees added;
+
+•
+the cost, timing and management effort for our development of new products and services;
+
+•
+general economic conditions that may adversely affect our customers’ or prospective customers’ purchasing decisions;
+
+•
+the amount and timing of operating costs and capital expenditures related to business operation and expansion;
+
+•
+seasonality of when we enter into customer agreements;
+
+•
+the length and complexity of the sales cycle and certification process for our services, especially for larger deals and sales to larger enterprises, government and regulated organizations;
+
+•
+changes in the size and complexity of our customer relationships;
+
+•
+changes to our management, sales and account management teams as we scale and evolve business priorities;
+
+•
+changes in our or our competitors’ pricing policies or models;
+
+•
+significant security breaches, technical difficulties or interruptions of our services;
+
+•
+new solutions or products introduced by our competitors;
+
+•
+changes in effective tax rates;
+
+•
+changes in the average contract term of our customer agreements, timing of renewals, renewal rates, expansion within our existing customers and billings duration; 
+
+•
+the timing of customer payments and payment defaults by customers;
+
+•
+extraordinary expenses such as litigation costs or damages, including settlement payments;
+
+•
+the costs associated with acquiring new businesses and technologies and the follow-on costs of integration, including the tax effects of acquisitions;
+
+•
+changes in laws or regulations impacting the delivery of our services;
+
+•
+our ability to comply with privacy laws and regulations;
+
+•
+significant litigation or regulatory actions relating to claims of IP infringement, violation of privacy laws, employment matters or any other significant matter;
+
+•
+the amount and timing of equity awards and the related financial statement expenses; 
+
+•
+the impact of new accounting pronouncements; and
+
+22
+
+Table of Contents
+
+•
+our ability to accurately estimate the total addressable market for our products and services.
+
+Because we generally recognize revenues from our subscription service over the subscription term, a decrease in new subscriptions or renewals during a reporting period may not be immediately reflected in our operating results for that period.
+
+We generally recognize revenues from customers ratably over the terms of their subscriptions. Net new annual contract value from new subscriptions and expansion contracts entered into during a period can generally be expected to generate revenues for the duration of the subscription term. As a result, a significant portion of the revenues we report in each period are derived from the recognition of deferred revenues relating to subscriptions entered into during previous periods. Consequently, a decrease in new or renewed subscriptions in any single reporting period will have a limited impact on our revenues for that period. Also, our ability to adjust our cost structure in the event of a decrease in new or renewed subscriptions may be limited.
+
+Further, a decline in new subscriptions, expansion contracts or renewals in a given period may not be fully reflected in our revenues for that period, but they will negatively affect our revenues in future periods. Accordingly, the effect of significant downturns in sales and market acceptance of our services, and changes in our rate of renewals, may not be fully reflected in our results of operations until future periods. Our subscription model also makes it difficult for us to rapidly increase our revenues through additional sales in any period, as revenues from new customers are generally recognized over the applicable subscription term. Additionally, due to the complexity of certain customer contracts, the actual revenue recognition treatment required under Accounting Standard Codification Topic 606, “Revenue from Contracts with Customers (“Topic 606”)” depends on contract-specific terms and may result in greater variability in revenues from period to period.
+
+A decrease in new subscriptions, expansion contracts or renewals in a reporting period may not immediately impact billings for that period because the decrease may be offset by an increase in billings duration, the dollar value of contracts with future start dates, or the dollar value of collections in the current period related to contracts with future start dates.
+
+As our business grows, we expect our revenue growth rate to continue to decline.
+
+We have experienced significant revenue growth in prior periods; however, our longer-term revenue growth rate is declining, and we expect that it will continue to decline into the foreseeable future due to a number of reasons, which may include maturation of our business, increasing competition, or decrease in the growth of our overall market. We also expect our costs to increase in future periods as we continue to invest in our strategic priorities, which may not result in increased revenues or growth in our business. You should not rely on our revenue from any prior period as an indication of our future revenue growth. If we are unable to maintain consistent revenue or revenue growth, our stock price could be volatile.
+
+Changes in our effective tax rate or disallowance of our tax positions may adversely affect our financial position and results.
+
+We are subject to income taxes in the US and various foreign jurisdictions. We believe that our provision for income taxes is reasonable, but the ultimate tax outcome may differ from the amounts recorded in our consolidated financial statements and may materially affect our financial results in the period or periods in which such outcome is determined. Our effective tax rate could be adversely affected by changes in the mix of earnings and losses in countries with differing statutory tax rates, certain non-deductible expenses, the valuation of deferred tax assets and liabilities and the effects of acquisitions. Increases in our effective tax rate would reduce our profitability or in some cases increase our losses.
+
+Additionally, our future effective tax rate could be impacted by changes in accounting principles or changes in federal, state or international tax laws or tax rulings. The Biden Administration has proposed increases to the U.S. corporate income tax rate, minimum tax on book income, and increased taxation of international business operations. The U.S. Department of Treasury has broad authority to issue regulations and interpretative guidance that may significantly impact how we will apply the law, which could affect our results of operations in the period issued. Many countries and organizations such as the Organization for Economic Cooperation and Development are actively considering changes to existing tax laws or have proposed or enacted new laws that could increase our tax obligations in countries where we do business or cause us to change the way we operate our business. Recent global tax developments applicable to multinational businesses and increased scrutiny under tax examinations could have a material impact on our business and negatively affect our financial results. Any changes in federal, state or international tax laws or tax rulings may increase our worldwide effective tax rate and harm our financial position and results of operations.
+
+In addition, we may be subject to income tax audits by tax jurisdictions throughout the world, many of which have not established clear guidance on the tax treatment of cloud computing companies. Although we believe our income tax liabilities are reasonably estimated and accounted for in accordance with applicable laws and principles, an adverse resolution of one or 
+
+23
+
+Table of Contents
+
+more uncertain tax positions in any period could have a material impact on our results of operations for that period. Further, many of our most important intangible assets are held outside the US and are subject to inter-company agreements regarding the development and distribution of those assets to other jurisdictions with potential challenge under permanent establishment or transfer pricing principles. While we believe that our position is appropriate and well founded, if our position was to be successfully challenged by taxing authorities in other jurisdictions, we may become subject to significant tax liabilities, which could harm our financial position and financial results.
+
+If we are unable to maintain effective internal control over financial reporting, the accuracy and timeliness of our financial reporting may be adversely affected.
+
+Section 404 of the Sarbanes-Oxley Act requires us to assess and report on the effectiveness of our internal control over financial reporting annually and at a reasonable assurance level of our disclosure controls and procedures quarterly, which must be attested to by our independent registered public accounting firm annually. Our independent registered public accounting firm may issue a report that is adverse if it is not satisfied with the level at which our controls are documented, designed or operating. Moreover, our testing, or the subsequent testing by our independent registered public accounting firm, may reveal material weaknesses or significant deficiencies. If material weaknesses are identified or we are not able to comply with the requirements of Section 404 in a timely manner, our reported financial results could be materially misstated or could subsequently require restatement, we could receive an adverse opinion regarding our internal control over financial reporting from our independent registered public accounting firm, we could be subject to investigations or sanctions by regulatory authorities and we could incur substantial expenses. We may not be able to effectively implement system and process changes required for new standards on a timely basis. Any delays or failure to update our systems and processes could also lead to a material weakness or significant deficiency.
+
+Risks Related to General Economic Conditions
+
+The extent to which the ongoing COVID-19 pandemic will continue to impact our business and future results of operations and financial condition will depend on future developments, which are highly uncertain and difficult to predict. 
+
+The COVID-19 pandemic has had, and continues to have, a significant impact around the world and it is difficult to assess or predict its continued impact on the global economic market, which will be highly dependent upon the continuing actions of governments, businesses and other organizations in response to the pandemic and the effectiveness of those actions. The status of global economic recovery remains uncertain and unpredictable, and will be impacted by developments in the pandemic including any subsequent waves of outbreak or new variant strains of the COVID-19 virus, which may require re-closures or other preventative measures. If the pandemic were to endure for the longer term, recession, depression or other sustained adverse market events may result. 
+
+Early in the COVID-19 pandemic, some customers or potential customers reduced their digital transformation spend or delayed their digital transformation initiatives. We also experienced some curtailed customer demand, reduced contract duration, changes in collection cycles, lengthened payment terms, and impact on our ability to land new customers. If we should see customers reduce or delay their digital transformation spend in response to the pandemic conditions or see increased competitive pressures due to changes in terms and conditions and pricing of our competitors’ products and services, our business, results of operations and overall financial performance in future periods could be materially and adversely impacted. 
+
+In the first quarter of 2020, we temporarily closed most of our offices (including our headquarters) around the world. Starting late 2021, many employees began to return to our offices for at least part of the week. Our return to work approach may vary among geographies depending on appropriate health protocols, and may change at any time. Certain employees who do not agree with our approach to health protocols may seek employment elsewhere. Additionally, our efforts to re-open our offices could expose our employees to health risks and could involve additional costs or liability. The COVID-19 pandemic will have a long-term effect on the nature of our office environment, remote working and how we innovate and operate. While we believe that this will be a positive development over the longer term, there may be operational and workplace culture challenges that may adversely affect our business, including talent retention, in the shorter term. 
+
+If the COVID-19 pandemic continues or worsens, especially in regions in which we have material operations or sales, our business activities from impacted areas, including sales-related activities, could be adversely affected. Disruptive activities could include continued business closures in impacted areas, further or continued restrictions on our employees’ and other service providers’ ability to travel, impacts to productivity if our employees or their family members experience health issues, and potential delays in hiring and onboarding mainly in our general and administrative functions. The COVID-19 pandemic could also impact our data center operations, including potential disruptions to the supply chain of hardware needed to maintain these third-party systems, and primary vendors we rely on for products and services that allow our employees to work remotely. 
+
+24
+
+Table of Contents
+
+The extent and continued impact of the COVID-19 pandemic on our business will depend on certain developments including the duration and spread of the outbreak and new variant strains of the virus; the availability and distribution of effective vaccines; the severity of the economic decline attributable to the pandemic and timing, nature and sustainability of economic recovery; and government responses, including vaccination or testing mandates, all of which are highly uncertain and unpredictable. While our revenues and earnings are relatively predictable as a result of our subscription-based business model, the effect of the COVID-19 pandemic may not be fully reflected in our results of operations and overall financial performance until future periods and could cause our future results of operations to vary significantly from period to period. 
+
+The effects of the COVID-19 pandemic also may heighten other risks, including significant volatility in the global markets, trading prices of our common stock, interest rate and foreign currency described in this “Risk Factors” section. Risks caused or heightened by the COVID-19 pandemic may continue for the duration of and possibly beyond the COVID-19 pandemic for an indefinite period. 
+
+Natural disasters, including climate change, and other events beyond our control could harm our business.
+
+Natural disasters or other catastrophic events may cause damage or disruption to our operations, international commerce and the global economy, and thus could have a negative effect on us. Our business operations are subject to interruption by natural disasters, flooding, fire, power shortages, pandemics such as COVID-19, terrorism, political unrest, telecommunications failure, vandalism, cyber-attacks, geopolitical instability, war, the effects of climate change and other events beyond our control. Although we maintain crisis management and disaster response plans, such events could make it difficult or impossible for us to deliver our services to our customers, could decrease demand for our services, and could cause us to incur substantial expense. Our insurance may not be sufficient to cover losses or additional expense that we may sustain. The majority of our research and development activities, offices, IT systems, and other critical business operations are located near major seismic faults in California and Washington. Customer data could be lost, significant recovery time could be required to resume operations and our financial condition and operating results could be adversely affected in the event of a major natural disaster or catastrophic event. 
+
+In addition, the impacts of climate change on the global economy and our industry are rapidly evolving. We may be subject to increased regulations, reporting requirements, standards or expectations regarding the environmental impacts of our business. While we seek to mitigate our business risks associated with climate change by establishing robust environmental programs and partnering with organizations who are focused on mitigating their own climate-related risks, there are inherent climate-related risks wherever business is conducted. Any of our primary locations may be vulnerable to the adverse effects of climate change. For example, our California headquarters have experienced and may continue to experience, climate-related events and at an increasing frequency, including drought, water scarcity, heat waves, wildfires and resultant air quality impacts and power shutoffs associated with the wildfires. Additionally, while more employees have returned to our offices under our new hybrid return-to-work model, it will remain difficult to mitigate the impact of these events on all our employees as remote work is part of such model. Changing market dynamics, global policy developments and increasing frequency and impact of extreme weather events on critical infrastructure in the US and elsewhere have the potential to disrupt our business, the business of our customers or third-party suppliers, and may cause us to experience higher attrition, losses and additional costs to maintain or resume operations.
+
+Global economic conditions may harm our industry, business and results of operations.
+
+We operate globally and as a result our business, revenues and profitability are impacted by global macroeconomic conditions. The success of our activities is affected by general economic and market conditions, including, among others, inflation rate fluctuations, interest rates, tax rates, economic uncertainty, political instability, changes in laws, and trade barriers and sanctions. In 2020, the U.S. capital markets experienced and continue to experience extreme volatility and disruption following the global outbreak of COVID-19. Recently, inflation rates in the US have increased to levels not seen in several years. Such economic volatility could adversely affect our business, financial condition, results of operations and cash flows, and future market disruptions could negatively impact us. These unfavorable economic conditions could increase our operating costs and, because our typical contracts with customers lock in our price for a few years, our profitability could be negatively affected. Geopolitical destabilization could impact global currency exchange rates, commodity prices, trade and movement of resources, which may adversely affect the buying power of our customers, our access to and cost of resources from our suppliers, and ability to grow our business. In addition, from time to time, the US and other key international economies have been impacted by geopolitical and economic instability, high levels of credit defaults, international trade disputes, changes in demand for various goods and services, high levels of persistent unemployment, wage and income stagnation, restricted credit, poor liquidity, reduced corporate profitability, volatility in credit, equity and foreign exchange markets, inflation, bankruptcies, international trade agreements, trade restrictions and overall economic uncertainty. These conditions can arise suddenly and affect the rate of IT spending and could adversely affect our customers’ or prospective customers’ ability or willingness to purchase our services, delay purchasing decisions, reduce the value or duration of their subscriptions, or affect renewal rates, all of which could harm our operating results. 
+
+25
+
+Table of Contents
+
+Foreign currency exchange rate fluctuations could harm our financial results.
+
+We conduct significant transactions, including revenue transactions and intercompany transactions, in currencies other than the U.S. Dollar or the functional operating currency of the transactional entities. In addition, our international subsidiaries maintain significant net assets that are denominated in the functional operating currencies of these entities. Accordingly, changes in the value of currencies relative to the U.S. Dollar may impact our consolidated revenues and operating results due to transactional and translational remeasurement that is reflected in our earnings. It is particularly difficult to forecast any impact from exchange rate movements, so there is risk that unanticipated currency fluctuations could adversely affect our financial results or cause our results to differ from investor expectations or our own guidance in any future periods. Volatility in exchange rates and global financial markets is expected to continue due to political and economic uncertainty globally.
+
+We use derivative instruments, such as foreign currency forwards, to hedge certain exposures to fluctuations in certain foreign currency exchange rates. These hedging contracts may reduce, but cannot entirely eliminate, the impact of adverse currency exchange rate movements. Further, unanticipated changes in currency exchange rates may result in poorer overall financial performance than if we had not engaged in any such hedging transactions. Moreover, for a number of reasons, we may not be able to establish a perfect correlation between such hedging instruments and the exposures being hedged. Any such imperfect correlation may prevent us from achieving the intended hedge, and could expose us to a greater overall risk of loss than if we had not hedged.
+
+Risks Related to Our 2030 Notes and 2022 Notes
+
+Our debt service obligations may adversely affect our financial condition and cash flows from operations.
+
+As of December 31, 2021, we have $1.5 billion aggregate principal amount of the 2030 Notes payable outstanding due on September 1, 2030, as described in Note 11 in the notes to our consolidated financial statements included elsewhere in this Annual Report on Form 10-K. Our ability to make payments on, repay or refinance the 2030 Notes in the future will depend on our future performance which is subject to a variety of risks and uncertainties, many of which are beyond our control. If we decide to refinance the 2030 Notes, we may be required to do so on different or less favorable terms or we may be unable to refinance the 2030 Notes at all, both of which may adversely affect our financial condition. Maintenance of our indebtedness, contractual restrictions, and additional issuances of indebtedness could:
+
+•
+cause us to dedicate a substantial portion of our cash flows from operations towards debt service obligations and principal repayments;
+
+•
+increase our vulnerability to adverse changes in general economic, industry and competitive conditions;
+
+•
+limit our flexibility in planning for, or reacting to, changes in our business and our industry;
+
+•
+impair our ability to obtain future financing for working capital, capital expenditures, acquisitions, general corporate or other purposes; and
+
+•
+due to limitations within the debt instruments, restrict our ability to grant liens on property, enter into certain mergers, dispose of all or substantially all of our or our subsidiaries’ assets, taken as a whole, materially change our business or incur subsidiary indebtedness, subject to customary exceptions.
+
+We are required to comply with the covenants set forth in the indentures governing the 2030 Notes. Our ability to comply with these covenants may be affected by events beyond our control. If we breach any of the covenants and do not obtain a waiver from the note holders or lenders, then, subject to applicable cure periods, any outstanding indebtedness may be declared immediately due and payable. In addition, changes by any rating agency to our credit rating may negatively impact the value and liquidity of our securities. Downgrades in our credit ratings could restrict our ability to obtain additional financing in the future and could affect the terms of any such financing.
+
+The conditional conversion feature of the 2022 Notes may adversely affect our financial condition and operating results.
+
+Prior to the close of business on the business day immediately preceding February 1, 2022, the holders of the 2022 Notes had the option to convert their notes during any calendar quarter if the last reported sale price of our common stock for at least 20 trading days during the period of 30 consecutive trading days ending on the last trading day of the immediately preceding calendar quarter is greater than or equal to $175.18. We have settled conversion requests and will settle additional conversion requests prior to the maturity of the 2022 Notes. We will settle all remaining conversion and maturity settlement obligations in cash, which could materially adversely affect our liquidity, financial position, results of operations and cash flows.
+
+26
+
+Table of Contents
+
+The convertible note hedge and warrant transactions may affect the value of the 2022 Notes and our common stock.
+
+In connection with the sale of the 2022 Notes, we entered into convertible note hedge (the “2022 Note Hedge”) transactions with certain financial institutions (“option counterparties”). We also entered into warrant transactions with the option counterparties pursuant to which we sold warrants for the purchase of our common stock (the “2022 Warrants”). The actual number of shares of our common stock issuable upon the automatic exercise of the remaining portion of the 2022 Warrants, if any, is unknown at this time. Refer to Note 11 in the notes to our consolidated financial statements included elsewhere in this Annual Report on Form 10-K for additional information.
+
+The option counterparties and/or their respective affiliates may modify their hedge positions by entering into or unwinding various derivatives with respect to our common stock and/or purchasing or selling our common stock in secondary market transactions prior to the maturity of the 2022 Notes (and are likely to do so during any observation period related to a conversion of the 2022 Notes, or following any repurchase of the 2022 Notes by us on any fundamental change repurchase date (as defined in the Indenture) or otherwise). This activity could also cause or avoid an increase or a decrease in our stock price or the 2022 Notes price and, to the extent the activity occurs during the final observation period related to the settlement of the remaining 2022 Notes, it could affect the amount and value of the consideration that note holders will receive.
+
+The potential effect, if any, of these transactions and activities on our stock price or the 2022 Notes price will depend in part on market conditions and cannot be ascertained at this time. Any of these activities could adversely affect the value of our common stock and the value of the 2022 Notes (and the resulting amount of cash and/or number of shares, if any, that note holders would receive upon the conversion).
+
+We are subject to counterparty risk with respect to the 2022 Note Hedge.
+
+The option counterparties are financial institutions, and we will be subject to the risk that any or all of them may default under the 2022 Note Hedge. Our exposure to the credit risk of the option counterparties will not be secured by any collateral. If an option counterparty becomes subject to insolvency proceedings, we will become an unsecured creditor in those proceedings, with a claim equal to our exposure at that time under our transactions with that option counterparty. Our exposure will depend on many factors but, generally, an increase in our exposure will be correlated to an increase in the stock price and in the volatility of our common stock. In addition, upon a default by an option counterparty, we may suffer adverse tax consequences. We can provide no assurances as to the financial stability or viability of the option counterparties. 
+
+Risks Related to Ownership of Our Common Stock
+
+Our stock price is likely to continue to be volatile and could subject us to litigation.
+
+Our stock price is likely to continue to be volatile and could be subject to wide fluctuations. In addition, technology companies in general have highly volatile stock prices, and the volatility in stock price and trading volume of securities is often unrelated or disproportionate to the financial performance of the companies issuing the securities. Factors affecting our stock price, some of which are beyond our control, include:
+
+•
+changes in the estimates of our operating results or changes in recommendations by securities analysts that elect to cover our common stock; 
+
+•
+announcements of new products, services or technologies, new applications or enhancements to services, strategic alliances, acquisitions, or other significant events by us or by our competitors;
+
+•
+fluctuations in company valuations, such as high-growth or cloud companies, investors perceive to be comparable to us; 
+
+•
+changes to our management team;
+
+•
+trading activity by directors, executive officers and significant shareholders, or the market’s perception that large shareholders intend to sell their shares;
+
+•
+the inclusion, exclusion, or deletion of our stock from any trading indices, such as the S&P 500 Index;
+
+•
+the size of our market float;
+
+•
+the trading volume of our common stock, including sales upon exercise of outstanding options or vesting of equity awards or sales and purchases of common stock issued in connection with settling the remaining portion of the 2022 Warrants;
+
+•
+the economy as a whole, market conditions in our industry, and the industries of our customers;
+
+•
+changes to our credit ratings;
+
+•
+environmental, social, governance and other issues impacting our reputation; and
+
+•
+overall performance of the equity markets.
+
+Following periods of volatility in the market price of a company’s securities, securities class action litigation has often been brought against that company. Securities litigation could result in substantial costs and divert management’s attention and resources from our business. This could materially adversely affect our business, operating results, and financial condition.
+
+27
+
+Table of Contents
+
+We do not intend to pay dividends on our common stock, so any returns will be limited to changes in our stock price.
+
+We have never declared or paid any cash dividends on our common stock and we do not intend to declare or pay any cash dividends for the foreseeable future. Our ability to pay cash dividends on our common stock may be prohibited or limited by the terms of any future debt financing arrangements. Return to shareholders will be limited to increased stock price, if any.
+
+Provisions in our charter documents, Delaware law, 2030 Notes or 2022 Notes might discourage, delay or prevent a change of control or changes in our management and, therefore, depress our stock price.
+
+Our restated certificate of incorporation, as amended (“Charter”), and restated bylaws contain provisions that could depress our stock price by acting to discourage, delay or prevent a change in control or changes in our management that the shareholders of our company may deem advantageous. These provisions among other things:
+
+•
+established a classified board, although our board will be fully declassified by our 2023 annual meeting of shareholders;
+
+•
+permit the board to establish the number of directors;
+
+•
+provide that directors may only be removed “for cause” and only with the approval of 66 2/3% of our shareholders;
+
+•
+require super-majority voting to amend some provisions in our Charter, and restated bylaws;
+
+•
+authorize issuance of “blank check” preferred stock that our board could use to implement a shareholder rights plan;
+
+•
+prohibit shareholder action by written consent, which requires all shareholder actions to be taken at a meeting;
+
+•
+provide that the board is expressly authorized to make, alter or repeal our restated bylaws; and
+
+•
+establish advance notice requirements for nominations for election to our board or proposing matters that can be acted upon by shareholders at annual shareholder meetings (though our restated bylaws have shareholder proxy access).
+
+Further, Section 203 of the Delaware General Corporation Law may discourage, delay or prevent a change in control of our company. Section 203 imposes certain restrictions on merger, business combinations and other transactions between us and certain shareholders. The fundamental change provisions of our 2022 Notes or change in control repurchase event provisions of our 2030 Notes may delay or prevent a change in control of our company, because those provisions allow note holders to require us to repurchase such notes upon the occurrence of a fundamental change or change in control repurchase event.
+
+28
+
+Table of Contents

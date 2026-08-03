@@ -1,0 +1,1659 @@
+You should carefully consider the following risks applicable to us. If any of the following risks actually occur, our business, 
+
+operating results, financial condition and the trading price of our common stock could be materially adversely affected. The 
+
+risks discussed below also include forward-looking statements, and our actual results may differ substantially from those 
+
+discussed in these forward-looking statements. See “Note Regarding Forward-Looking Statements” in this report.
+
+Risks related to information technology and security
+
+We are dependent on the efficient and uninterrupted operation of interconnected computer systems, telecommunications, 
+
+data centers and call centers, including technology and network systems managed by multiple third parties, which could 
+
+result in our inability to prevent disruptions in our services.
+
+Our ability to provide reliable service to customers, cardholders and other network participants depends upon uninterrupted 
+
+operation of our data centers and call centers as well as third-party labor and services providers. Incidents affecting these third 
+
+parties, including disruptions, system outages, technology failures or vulnerabilities, capacity constraints, insolvency, or other 
+
+cybersecurity incidents could disrupt our services and extend recovery times beyond our control. Our business involves 
+
+processing large numbers of transactions, the movement of large sums of money and the management of large amounts of data. 
+
+We rely on the ability of our employees, contractors, suppliers, systems and processes to complete these transactions in a 
+
+secure, uninterrupted and error-free manner.
+
+Our subsidiaries operate in various countries and country-specific factors, such as power availability, telecommunications 
+
+carrier redundancy, embargoes and regulations can adversely impact our information processing by, or for, our local 
+
+subsidiaries.
+
+We engage backup facilities for each of our processing centers for key systems and data. However, there could be material 
+
+delays in fully activating backup facilities depending on the nature of the breakdown, security breach, cyberattack or 
+
+catastrophic event (such as fire, explosion, flood, pandemic, natural disaster, power loss, telecommunications failure or physical 
+
+break-in). Although, we have controls and documented measures to mitigate these risks, these mitigating controls might not 
+
+reduce the duration, scope or severity of an outage in time to avoid adverse effects. Disruptions could result in transaction 
+
+delays or failure, financial losses, contractual penalties, regulatory scrutiny and damage to our reputation. In addition, evolving 
+
+regulatory frameworks focused on operational resilience and incident reporting may increase our obligations and potential 
+
+exposure arising from such events. 
+
+We may experience cybersecurity incidents, software defects, system errors, outages and development delays, which could 
+
+damage customer relationships, decrease our profitability and expose us to liability.
+
+Our business depends heavily on the reliability, availability and security of proprietary and third-party processing systems and 
+
+cloud infrastructure. A system outage could adversely affect our business, financial condition or results of operations, including 
+
+by damaging our reputation or exposing us to third-party liability. To successfully operate our business, we must be able to 
+
+protect our processing and other systems from interruption, including from events that may be beyond our control. Events that 
+
+could cause system interruptions include, but are not limited to, fire, natural disaster, unauthorized entry, power loss, 
+
+telecommunications failure, computer viruses, ransomware or other cybersecurity incidents, technology failures, software or 
+
+other vulnerabilities, terrorist acts and war. Although we have taken steps to protect against data loss and system failures, there 
+
+is still risk that we may lose critical data or experience system failures, and that our controls may not be effective in all 
+
+circumstances.
+
+Our solutions are based on sophisticated software and computing systems that are constantly evolving. We often encounter 
+
+delays and cost overruns in developing changes implemented to our systems. In addition, the underlying software may contain 
+
+undetected errors, viruses or defects. Defects in our software products and errors or delays in our processing of electronic 
+
+transactions could result in additional development costs, diversion of technical and other resources from our other 
+
+development efforts, loss of credibility with current or potential customers, harm to our reputation or exposure to liability 
+
+claims. In addition, we rely on technologies supplied to us by third parties that may also contain undetected errors, 
+
+vulnerabilities or defects that could adversely affect our business, financial condition or results of operations. Although we 
+
+attempt to limit our potential liability for warranty claims through disclaimers in our software documentation and limitation of 
+
+liability provisions in our licenses and other agreements with our customers, we cannot assure that these measures will be 
+
+successful in limiting our liability or covering all losses.
+
+We also operate in an evolving regulatory environment for cybersecurity and data privacy. New or expanded disclosure or 
+
+notification obligations could increase our compliance costs and exposure to enforcement or litigation following an incident. 
+
+We may not be able to adequately protect our systems or the data we collect from continually evolving cybersecurity and 
+
+data-protection risks, which could subject us to liability and damage our reputation.
+
+We electronically receive, process, store and transmit data and sensitive information about our customers and merchants, 
+
+including bank account information, social security numbers, expense data and credit card, debit card and checking account 
+
+numbers. We endeavor to keep this information confidential; however, our websites, networks, information systems, services 
+
+and technologies may be targeted for sabotage, disruption or misappropriation. The uninterrupted operation of our information 
+
+18
+
+Table of Contents
+
+systems and our ability to maintain the confidentiality of the customer and consumer information that resides on our systems 
+
+are critical to the successful operation of our business. Unauthorized access to our networks and computer systems could result 
+
+in the theft or publication of confidential information or the deletion or modification of records or could otherwise cause 
+
+interruptions in our service and operations.
+
+We are not aware of any recent m
+aterial breach of our or our associated third parties’ computer systems, although we and others 
+
+in our industry are regularly the subject of attempts by bad actors to gain unauthorized access to these computer systems and 
+
+data or to obtain, change or destroy confidential data (including personal consumer information of individuals) through a 
+
+variety of means. 
+
+Because techniques used to sabotage or obtain unauthorized access to our systems and the data we collect change frequently 
+
+and may not be recognized until launched against a target, especially considering heightened threats and risks associated with 
+
+artificial intelligence and other technologies, we may be unable to anticipate these techniques or to implement adequate 
+
+preventative measures. 
+An incident may not be detected until well after it occurs and the severity and potential impact may not 
+
+be fully known for a substantial period of time after it has been discovered. Our ability to address incidents may also depend on 
+
+the timing and nature of assistance that may be provided from relevant governmental or law enforcement agencies. 
+Threats to 
+
+our systems and our associated third parties’ systems can derive from human error, fraud or malice on the part of employees or 
+
+third parties, or may result from accidental technological failure. Computer viruses can be distributed and could infiltrate our 
+
+systems or those of our associated third parties. In addition, denial of service or other attacks could be launched against us for a 
+
+variety of purposes, including to interfere with our services or create a diversion for other malicious activities. Although we 
+
+believe we have sufficient controls in place to prevent disruption and misappropriation and to respond to such attacks, any 
+
+inability to prevent security breaches could have a negative impact on our reputation, expose us to liability, decrease market 
+
+acceptance of electronic transactions and cause our present and potential clients to choose another service provider.
+
+In addition, the risk of cyber-attacks has increased in connection with the military and geopolitical conflicts around the world, 
+
+including between Russia and Ukraine and within the Middle East. In light of those and other geopolitical events, nation-state 
+
+actors or their supporters may launch retaliatory cyber-attacks and may attempt to cause supply chain and other third-party 
+
+service provider disruptions, or take other geopolitically motivated retaliatory actions that may disrupt our business operations, 
+
+result in data compromise, or both. Nation-state actors have in the past carried out, and may in the future carry out, cyber-
+
+attacks to achieve their aims and goals, which may include espionage, information operations, monetary gain, ransomware, 
+
+disruption and destruction. 
+
+We could also be subject to liability for claims relating to misuse of personal information, such as unauthorized marketing 
+
+purposes and violation of data privacy laws. For example, we are subject to a variety of U.S. and international statutes, 
+
+regulations and rulings relevant to the direct email marketing and text-messaging industries. If we were ever found to be in 
+
+violation, our business, financial condition, operating results and cash flows could be materially adversely affected. We cannot 
+
+provide assurance that the contractual requirements related to security and privacy that we impose on our service providers who 
+
+have access to customer and consumer data will be followed or will be adequate to prevent the unauthorized use or disclosure 
+
+of data. In addition, we have agreed in certain agreements to take certain protective measures to ensure the confidentiality of 
+
+customer data. The costs of systems and procedures associated with such protective measures, as well as the cost of deploying 
+
+additional personnel, training our employees and hiring outside experts, may increase and could adversely affect our ability to 
+
+compete effectively. Any failure to adequately enforce or provide these protective measures could result in liability, protracted 
+
+and costly litigation, governmental and card network intervention and fines, remediation costs and with respect to misuse of 
+
+personal information of our customers, lost revenue and reputational harm. While we maintain insurance covering certain 
+
+security and privacy damages and claim expenses above a certain financial retention level, we may not carry insurance or 
+
+maintain coverage sufficient to compensate for all liability and such insurance may not be available for renewal on acceptable 
+
+terms or at all, and in any event, insurance coverage would not address the reputational damage that could result from a security 
+
+incident.
+
+In addition, under payment network rules, regulatory requirements and related obligations, we may be responsible for the acts 
+
+or failures to act of certain third parties, such as third-party service providers, vendors, partners and others, which we refer to 
+
+collectively as associated participants. The failure of our associated participants to safeguard cardholder data and other 
+
+information in accordance with such rules, requirements and obligations could result in significant fines and sanctions and 
+
+could harm our reputation and deter existing and prospective customers from using our services. We cannot assure you that 
+
+there are written agreements in place with every associated participant or that such written agreements will ensure the adequate 
+
+safeguarding of such data or information or allow us to seek reimbursement from associated participants. Any such 
+
+unauthorized use or disclosure of data or information also could result in litigation that could result in a material adverse effect 
+
+on our business, financial condition and results of operations.
+
+19
+
+Table of Contents
+
+Risks related to our business and operations
+
+If we fail to develop and implement new technology, products and services, adapt our products and services to changes in 
+
+technology, or if our ongoing efforts to upgrade our technology, products and services are not successful, we could lose 
+
+customers and partners.
+
+The markets for our solutions are highly competitive and characterized by rapid technological change, frequent introduction of 
+
+new products and services, evolving industry standards and evolving customer needs. We must respond to the technological 
+
+advances offered by our competitors, including the use of artificial intelligence and the requirements of regulators and our 
+
+customers and partners, in order to maintain and improve upon our competitive position and fulfill contractual obligations. We 
+
+may be unsuccessful in expanding our technological capabilities and developing, marketing, selling or encouraging adoption of 
+
+new or enhanced products and services that meet these changing demands, which could jeopardize our competitive position. 
+
+Similarly, if new technologies are developed that displace our offerings for use by businesses, we may be unsuccessful in 
+
+adequately responding to customer practices and our transaction volume may decline. In addition, we regularly engage in 
+
+significant efforts to upgrade our products, services and underlying technology, which may or may not be successful in 
+
+achieving market acceptance or their intended purposes, and may require more time or investment than planned.
+
+Artificial intelligence technologies, including machine learning and generative AI, are being rapidly adopted across the 
+
+payments and enterprise software industries to improve automation, analytics, fraud detection, customer support and decision-
+
+making. Our competitors, customers and partners may increasingly expect AI-enabled functionality and efficiencies in the 
+
+solutions they purchase and use. If we do not identify, develop, license, acquire and integrate AI technologies into our products 
+
+and operations on a timely basis, or if we are unable to obtain the data, computing resources or specialized personnel needed to 
+
+do so cost-effectively, our products and services may become less competitive, we may experience slower growth, reduced 
+
+transaction volumes, loss of customers or partners, and pressure on margins. In addition, AI-enabled products offered by 
+
+competitors or third parties could disintermediate aspects of our offerings or reduce demand for certain of our solutions.
+
+The solutions we deliver are designed to process complex transactions and provide reports and other information on those 
+
+transactions, all at high volumes and processing speeds. New or enhanced offerings can present performance, scalability or 
+
+interoperability challenges, and any failure to deliver effective and secure products or services, or any performance issue that 
+
+arises with a new product or service, could result in significant processing or reporting errors, customer dissatisfaction or other 
+
+losses. We may rely on third parties to develop or co-develop solutions or to incorporate our solutions into broader platforms 
+
+for commercial payments and adjacent use cases. We may not be able to enter into such relationships on attractive terms, or at 
+
+all, and these relationships may not be successful. In addition, partners, some of whom may be our competitors or potential 
+
+competitors, may choose to develop competing solutions on their own or with third parties.
+
+In order to remain competitive, we are continually involved in a number of projects, including the development of new 
+
+platforms, mobile payment applications, e-commerce services and other new offerings emerging in the payments technology 
+
+industry, including with respect to domestic and international corporate payments, and EVs. These projects carry the risks 
+
+associated with any development effort, including cost overruns, delays in delivery and performance problems. Additionally, 
+
+we may be unable to attract, develop and retain personnel with the skills necessary to execute our strategy in key locations and 
+
+at the pace required. Any delay in the delivery of new services or the failure to differentiate our services could render our 
+
+services less desirable to customers, or possibly even obsolete.
+
+We operate in a competitive business environment, and if we are unable to compete effectively, our business, operating 
+
+results, and financial condition would be adversely affected.
+
+The market for our solutions is highly competitive, and competition could intensify in the future. Our competitors vary in size 
+
+and in the scope and breadth of the products and services they offer. Our primary competitors in the Vehicle Payments solutions 
+
+are small regional and large independent fleet card providers (some providing vouchers for food, fuel, tolls and transportation), 
+
+major oil companies and petroleum marketers that issue their own fleet cards, banks and major financial services companies 
+
+that provide card services to major oil companies and petroleum marketers. Corporate Payments solutions face a variety of 
+
+competitors, some of which have greater financial resources, name recognition and scope and breadth of products and services. 
+
+Moreover, certain Corporate Payments competitors are able to operationalize and scale certain decentralized payment 
+
+technologies quicker like cryptocurrencies. Competitors in the Lodging Payments solutions include travel agencies, online 
+
+lodging discounters, internal corporate procurement and travel resources and independent lodging and services providers. 
+
+The most significant competitive factors in our business are the breadth of product and service features, network acceptance 
+
+size, customer service, payment terms, account management, and price. We may experience competitive disadvantages with 
+
+respect to any of these factors from time to time as potential customers prioritize or value these competitive factors differently. 
+
+As a result, a specific offering of our features, networks and pricing may serve as a competitive advantage with respect to one 
+
+customer and a disadvantage for another based on the customers’ preferences.
+
+Some of our existing and potential competitors have longer operating histories, greater brand name recognition, larger customer 
+
+bases, more extensive customer relationships or greater financial and technical resources than we do. In addition, our larger 
+
+competitors may have greater resources than we do to devote to the promotion and sale of their products and services and to 
+
+pursue acquisitions. Many of our competitors provide additional and unrelated products and services to customers, such as 
+
+treasury management, commercial lending and credit card processing, which allow them to bundle their products and services 
+
+20
+
+Table of Contents
+
+together and present them to existing customers with whom they have established relationships, sometimes at a discount. If 
+
+price competition continues to intensify, we may have to increase the incentives that we offer to our customers, decrease the 
+
+prices of our solutions or lose customers, each of which could adversely affect our operating results. In Vehicle Payments 
+
+solutions, major oil companies, petroleum marketers and large financial institutions may choose to integrate fuel card services 
+
+as a complement to their existing or complementary card products and services to adapt more quickly to new or emerging 
+
+technologies, such as EVs, and changing opportunities, standards or customer requirements. To the extent that our competitors 
+
+are regarded as leaders in specific categories, they may have an advantage over us as we attempt to further penetrate these 
+
+categories.
+
+Overall, increased competition and services in our markets could result in intensified pricing pressure, reduced profit margins, 
+
+increased sales and marketing expenses and a failure to increase, or a loss of, market share. We may not be able to maintain or 
+
+improve our competitive position against our current or future competitors, which could adversely affect our business, operating 
+
+results and financial condition.
+
+Adverse effects on demand for our business-related products and services, from unfavorable macroeconomic conditions, 
+
+weather conditions, natural catastrophes or public health crises or from changes to business purchasing practices, could 
+
+adversely affect our financial condition and operating results. 
+
+Adverse macroeconomic conditions within the U.S. or internationally, including but not limited to recessions or economic 
+
+downturns, inflation, rising or volatile interest rates, deteriorating credit conditions, labor shortages and disputes, high 
+
+unemployment, currency fluctuations, actual or anticipated large-scale defaults or failures, terrorist attacks, prolonged or 
+
+recurring government shutdowns, regional or domestic hostilities, and economic sanctions and export controls (including 
+
+tariffs), as well as the prospect or occurrence of more widespread conflicts, rising energy prices, a slowdown of global trade, 
+
+and reduced consumer, small business, government and corporate spending, have a direct impact on the demand for our 
+
+business-related products, including fuel, lodging and payment services. 
+
+Similarly, prolonged adverse weather events, travel bans as a result of medical quarantine, geopolitical conflicts or in response 
+
+to natural catastrophes, especially those that impact regions in which we process a large number and amount of payment 
+
+transactions, could adversely affect our transaction volumes. 
+While our lodging solutions generally benefit from weather-related 
+
+events, disasters or catastrophic events in the future, including the impact of such events on certain industries or the overall 
+
+economy, could have a negative effect on our business, results of operations and infrastructure, including our technology and 
+
+systems. Climate change may exacerbate certain of these threats, including the frequency and severity of weather-related events 
+
+and subsequent physical disruptions to supply chains.
+
+Likewise, recent political, investor and industry focus on greenhouse gas emissions and climate change issues, as well as 
+
+energy-transition dynamics and policies affecting fossil fuel demand, may adversely affect the volume of transactions or 
+
+business operations of the oil companies, merchants and truck stop owners with whom we maintain strategic relationships, 
+
+which could adversely impact our business.
+
+In addition, our transaction volume mix could be adversely affected if businesses do not continue to use our offerings or they 
+
+change and/or fail to increase their use of our offerings as a payment mechanism for their transactions.
+
+If we fail to adequately assess and monitor credit risks or fraud of or by, our customers or third parties, we could experience 
+
+an increase in credit loss.
+
+We are subject to the credit risk of our customers which range in size from small sole proprietorships to large publicly traded 
+
+companies. We use various methods to screen potential customers and establish appropriate credit limits, but these methods 
+
+cannot eliminate all potential credit risks and may not always prevent us from approving customer applications that are not 
+
+credit-worthy or are fraudulently completed. Changes in our industry, customer demand and, in relation to our fuel customers, 
+
+movement in fuel prices may result in periodic increases to customer credit limits and spending and, as a result, could lead to 
+
+increased credit losses. We may also fail to detect changes to the credit risk of customers over time. Further, during a declining 
+
+economic environment, we may experience increased customer defaults and preference claims by bankrupt customers. 
+
+Additionally, the counterparties to the derivative financial instruments that we use in our cross-border solution to reduce our 
+
+exposure to various market risks, including changes in foreign exchange rates, may fail to honor their obligations, which could 
+
+expose us to risks we had sought to mitigate. This risk includes the exposure generated when we write derivative contracts to 
+
+our customers as part of our cross-border solution, and we typically hedge the net exposure through offsetting contracts with 
+
+established financial institution counterparties. If a customer or financial institution counterparty becomes insolvent, files for 
+
+bankruptcy, commits fraud or otherwise fails to pay us, we may be exposed to the value of one or more relevant offsetting 
+
+positions or may bear financial risk for those receivables where we have offered trade credit. If we fail to adequately manage 
+
+our credit risks or monitor for fraud, our bad debt expense could be significantly higher than historic levels and adversely affect 
+
+our business, operating results and financial condition. 
+
+As a result of being subject to the Federal Reserve Board's and Federal Deposit Insurance Corporation's (FDIC's) rules on 
+
+qualified financial contracts (QFCs) and similar rules in other jurisdictions, we may not be able to exercise remedies against 
+
+counterparties and, as this regime has not yet been tested, we may suffer risks or losses that we would not have expected to 
+
+suffer if we could immediately close out transactions upon a termination event. The International Swaps and Derivatives 
+
+21
+
+Table of Contents
+
+Association (ISDA) Protocols and these rules and regulations extend to repurchase agreements and other instruments that are 
+
+not derivative contracts. 
+
+If one or more of our counterparty financial institutions default on their financial or performance obligations to us or fail, 
+
+we may incur significant losses. 
+
+We have significant amounts of cash, cash equivalents, receivables outstanding and other investments on deposit or in accounts 
+
+with banks or other financial institutions in the U.S. and international jurisdictions. Among other services, certain banks and 
+
+other financial institutions are lenders under our credit facilities, hold customer deposits for customers funds payable on 
+
+demand and hold cash collateral received from customers for derivative transactions as part of our cross-border solution. We 
+
+regularly monitor our concentration of, and exposure to, counterparty risk and actively manage this exposure to mitigate the 
+
+associated risk. Despite these efforts, we may be exposed to the risk of default on obligations by, or deteriorating operating 
+
+results or financial condition or failure of, these counterparty financial institutions. If one of our counterparty financial 
+
+institutions were to become insolvent, placed into receivership, or file for bankruptcy, our ability to recover losses incurred as a 
+
+result of default or to access or recover our assets that are deposited, held in accounts with, or otherwise due from, such 
+
+counterparty may be limited due to the insufficiency of the failed institutions’ estate to satisfy all claims in full or the applicable 
+
+laws or regulations governing the insolvency, bankruptcy, or resolution proceedings. We could also face liquidity constraints if 
+
+we are unable to timely transfer or access funds, securities or collateral. In the event of default on obligations by, or the failure 
+
+of, one or more of these counterparties, we could incur significant losses, which could negatively impact our results of 
+
+operations and financial condition.
+
+Our business may be adversely affected by geopolitical risks
+
+We have foreign operations in, or provide services for customers in more than 200 countries throughout North America, South 
+
+America, Europe, Africa and Asia. We also expect to seek to expand our operations into various additional countries in Asia, 
+
+Europe and Latin America as part of our growth strategy. 
+
+Some of the countries where we operate, and other countries where we will seek to operate, have undergone significant 
+
+political, economic and social change and events (such as the military conflicts in Ukraine and the Middle East) in recent years, 
+
+including the U.S. In addition, changes in laws or regulations, including with respect to payment service providers, taxation, 
+
+tariffs, information technology, data transmission and revenues from non-U.S. operations, or in the interpretation of such 
+
+existing laws or regulations, whether caused by a change in government or otherwise, could materially adversely affect our 
+
+business, operating results and financial condition.
+
+We are actively monitoring the changes and events and assessing the impact on our business. The extent, severity, duration and 
+
+outcome of market disruptions could be significant and could potentially have substantial impact on the global economy and 
+
+our business for an unknown period of time.
+ Responses by countries
+, such as sanctions, export controls and tariffs, will 
+
+adversely affect the global economy and financial markets and could adversely affect our business, financial condition and 
+
+results of operations or otherwise aggravate the other risk factors that we identify herein. We cannot predict the scope of 
+
+macroeconomic factors because these measures are complex and evolving, and may require rapid changes to our products, 
+
+services or customer onboarding and screening processes. Our efforts to comply with changes may be costly and time 
+
+consuming and will divert the attention of management. Any alleged or actual failure to comply with these measures may 
+
+subject us to government scrutiny, civil or criminal proceedings, sanctions and other liabilities, which may have a material and 
+
+adverse effect on our business, financial condition and results of operations. We continue to refine our business continuity plan, 
+
+which includes crisis response materials designed to mitigate the impact of significant disruptions to our business, but there can 
+
+be no assurance that our plan will successfully mitigate all disruptions.
+
+In addition, conducting and expanding our international operations subjects us to other political, economic, technological, 
+
+operational and regulatory risks and difficulties that we do not generally face in the U.S. including exchange controls, capital 
+
+repatriation restrictions, shifting import and export regimes, evolving local payments regulations and heightened enforcement 
+
+uncertainty. We cannot be certain that the investment and additional resources required to establish, acquire or integrate 
+
+operations in other countries will produce desired levels of revenue or profitability.
+
+We may incur substantial losses due to fraudulent use of our payment solutions.
+
+Under certain circumstances, when we fund customer transactions, we may bear the risk of substantial losses due to fraudulent 
+
+use of our payment solutions. We do not maintain insurance to protect us against all of such losses. We bear similar risk relating 
+
+to fraudulent acts of employees or contractors, for which we maintain insurance. However, the conditions or limits of coverage 
+
+may be insufficient to protect us against such losses.
+
+Criminals are using increasingly sophisticated methods to engage in illegal activities involving financial products, such as 
+
+skimming and counterfeiting payment cards, account takeovers and identity theft. A single significant incident of fraud, or 
+
+increases in the overall level of fraud, involving our cards and other products and services, could result in reputational damage 
+
+to us, which could reduce the use and acceptance of our cards and other payment solutions and services or lead to greater 
+
+regulation that would increase our compliance costs. Fraudulent activity could also result in the imposition of regulatory 
+
+sanctions, including significant monetary fines, which could have a material adverse effect on our business, financial condition 
+
+and results of operations.
+
+22
+
+Table of Contents
+
+Any decrease in our receipt of fees and charges, or limitations on our fees and charges, could adversely affect our business, 
+
+results of operations and financial condition.
+
+Our card solutions include a variety of fees and charges associ
+ated with transactions, cards, repo
+
+rts, optional services and late 
+
+payments. Revenues for late fees and finance charges represented
+ approximately 
+3%
+ of our consolidated revenue for the year 
+
+ended 
+December 31, 2025
+. If the users of our cards decrease their transaction activity, or the extent to which they use optional 
+
+services or pay invoices late, our revenue could be materially adversely affected. In addition, several market factors can affect 
+
+the amount of our fees and charges, including the market for similar charges for competitive card products and the availability 
+
+of alternative payment methods. Furthermore, regulators and Congress have passed, and continue to consider, new legislation 
+
+and regulations that change the electronic payments industry’s pricing, charges and other practices related to its customers. Any 
+
+restrictions on our ability to price our products and services, including caps on late fees and finance charges, network fee 
+
+changes or requirements to modify billing, disclosure or dispute practices, could materially and adversely affect our revenue.
+
+We are subject to risks related to volatility in the macroeconomic environment, which could adversely affect our revenue and 
+
+operating results.
+
+As a result of our foreign operations, we are subject to risks related to changes in currency rates for revenue generated in 
+
+currencies other than the U.S. dollar. 
+For the year ended 
+December 31, 2025
+, 
+approximately 
+51%
+ of our revenue was 
+
+denominated in currencies other than the U.S. dollar (primarily, Brazilian real, British pound, euro, Canadian dollar, Australian 
+
+dollar, Mexican peso, Czech koruna and New Zealand dollar). Revenue and profit generated by international operations may 
+
+increase or decrease compared to prior periods as a result of changes in foreign currency exchange rates. Resulting exchange 
+
+gains and losses are included in our net incom
+e. 
+
+In addition, we earn revenue in our cross-border solution from exchanges of currency at spot rates, which enable customers to 
+
+make cross-currency payments. The cross-border solution also writes foreign currency derivative contracts for our customers. 
+
+The duration of these derivative contracts at inception is generally less than one year. The credit risk associated with our 
+
+derivative contracts increases when foreign currency exchange rates move against our customers, possibly impacting their 
+
+ability to honor their obligations to deliver currency to us or to maintain appropriate collateral with us. 
+
+Additionally, from time to time, we have and expect to continue to enter into cross-currency swap agreements with financial 
+
+institutions to hedge against the effect of variability in the U.S. dollar to foreign exchange rates. The swap agreements require 
+
+an exchange of the notional amounts between us and the counterparties upon expiration or earlier termination of the 
+
+agreements. If, at the expiration or earlier termination of the swap agreements, the U.S. dollar to applicable foreign exchange 
+
+rate has declined from the rate in effect on the execution date, we are required to pay the counterparties an amount equal to the 
+
+excess of the U.S. dollar value over the respective foreign currency principal amount. In the event of a significant decline in the 
+
+applicable exchange rate, our payment obligations to the counterparties could have a material adverse effect on our cash flows. 
+
+Furthermore, we are subject to exchange control regulations that restrict or prohibit the conversion of more than a specified 
+
+amount of our foreign currencies into U.S. dollars and, as we continue to expand, we may become subject to further exchange 
+
+control regulations that limit our ability to freely utilize and transfer currency in and out of particular jurisdictions. 
+
+We estimate during the year ended 
+December 31, 2025
+, approximately
+ 8%
+ of our consolidated revenue was directly influenced 
+
+by the absolute price of fuel. Approximately 
+4%
+
+of our consolidated revenue dur
+ing the year ended 
+December 31, 2025
+ was 
+
+derived from transactions where our revenue is tied to fuel price spread
+s. When our fleet customers purchase fuel, certain 
+
+arrangements in our Vehicle Payments solutions generate revenue as a percentage of the fuel transaction purchase amount and 
+
+other arrangements generate revenue based on fuel price spreads. The fuel price that we charge to any Vehicle Payments 
+
+customer is dependent on several factors including, among others, the fuel price paid to the fuel merchant, posted retail fuel 
+
+prices and competitive fuel prices. The significant volatility in fuel prices can impact these revenues by lowering total fuel 
+
+transaction purchase amounts and tightening fuel price spreads. We experience fuel price spread contraction when the 
+
+merchant’s wholesale cost of fuel increases at a faster rate than the fuel price we charge to our Vehicle Payments customers, or 
+
+the fuel price we charge to our Vehicle Payments customers decreases at a faster rate than the merchant’s wholesale cost of 
+
+fuel. 
+
+The volatility could be due to many factors outside our control, such as geopolitical risk, pandemics, new oil production or 
+
+slowdowns, shifting of customer preferences (e.g., shift to EV), actions by the Organization of the Petroleum Exporting 
+
+Countries (OPEC) and others, speculative trading, changing government regulation, and weather and general economic 
+
+conditions. Such volatility could make it more difficult to effectively utilize the cash generated by our operations, and may 
+
+adversely affect our financial condition.
+
+The value of certain of our solutions depend, in part, on relationships with bank partners, oil companies, fuel and lodging 
+
+merchants, truck stop operators, airlines, sales channels and other channels and partnerships to grow our business. The 
+
+failure to maintain and grow existing relationships, or establish new relationships, could adversely affect our revenues and 
+
+operating results.
+
+The success of our solutions is in part dependent on our ability to maintain relationships with bank partners, major oil 
+
+companies, petroleum marketers, closed-loop fuel and lodging merchants, truck stop operators, airlines, sales channels and 
+
+other channels and partnerships (each of whom we refer to as our “partners”). 
+
+23
+
+Table of Contents
+
+These relationships vary in length and may be renegotiated at the end of their respective terms. Due to the highly competitive, 
+
+and at times exclusive, nature of these relationships, we often must participate in a competitive bidding process to establish or 
+
+continue the relationships. Such bidding processes may focus on a limited number of factors, including pricing, which may 
+
+affect our ability to effectively compete for these relationships.  
+
+The loss of, failure to maintain, or failure to establish new relationships, or the weakness or decrease in size of companies with 
+
+whom we maintain relationships, could adversely affect our ability to serve our customers, as well as adversely affect our 
+
+solutions and operating results.
+
+If the various partners with whom we maintain relationships experience bankruptcy, financial distress, or otherwise are forced 
+
+to contract their operations, our solutions could be adversely impacted. Similarly, because some of our solutions are 
+
+independently marketed, certain other adverse events outside our control, like those companies’ failure to maintain their brands 
+
+or a decrease in the size of their branded networks may adversely affect our ability to grow our revenue.
+
+Furthermore, we facilitate payment and foreign exchange solutions for enterprises of all sizes using a global network of bank 
+
+relationships. Increased regulation and compliance requirements are impacting these businesses and our bank relationships by 
+
+making it more costly for us to provide our solutions or by making it more cumbersome for businesses to do business with us. 
+
+Any factors that increase the cost for us, our bank relationships, or customers or that restrict, delay, or make delivering our 
+
+solutions more difficult or impractical, such as trade policy or higher tariffs, could negatively impact our revenues and harm our 
+
+business. We may also have difficulty establishing or maintaining banking relationships needed to conduct our services due to 
+
+evolving banks’ policies, risk profiles and compliance requirements, which may vary by financial institution.
+
+We must comply with various rules and requirements, including the payment of fees, of Mastercard and our sponsor banks 
+
+in order to remain registered to participate in the Mastercard networks.
+
+A significant source of our revenue comes from processing transactions through the Mastercard networks. In order to offer 
+
+Mastercard programs to our customers, one of our subsidiaries is registered as a member service provider with Mastercard 
+
+through sponsorship by Mastercard member banks in both the U.S. and Canada. Registration as a service provider is dependent 
+
+upon our being sponsored by member banks. If our sponsor banks should stop providing sponsorship for us or determine to 
+
+provide sponsorship on materially less favorable terms, we would need to find other financial institutions to provide those 
+
+services or we would need to become a Mastercard member, either of which could prove to be difficult and expensive. Even if 
+
+we pursue sponsorship by alternative member banks, similar requirements and dependencies would likely still exist
+.
+ In addition, 
+
+Mastercard routinely updates and modifies its membership requirements. Changes in such requirements may make it 
+
+significantly more expensive for us to provide these services, or may require product or process changes within compressed 
+
+timelines. If we do not comply with Mastercard requirements, it could seek to fine us, suspend us or terminate our registration, 
+
+which allows us to process transactions on its networks. The termination of our registration, or any changes in the payment 
+
+network rules that would impair our registration, could require us to stop providing Mastercard payment processing services. If 
+
+we are unable to find a replacement financial institution to provide sponsorship or become a member, we may no longer be able 
+
+to provide such services to the affected customers.
+
+Changes in Mastercard interchange fees could decrease our revenue.
+
+A portion of our revenue is generated by network processing fees charged to merchants, known as interchange fees, associated 
+
+with transactions processed using our Mastercard-branded cards. Interchange fee amounts associated with our Mastercard 
+
+network cards are affected by a number of factors, including regulatory limits in the U.S. and Europe and fee changes imposed 
+
+by Mastercard. In addition, interchange fees are the subject of intense legal, political and regulatory scrutiny and competitive 
+
+pressures in the electronic payments industry, which could result in lower interchange fees generally in the future.
+
+Increasing scrutiny and changing expectations from investors, customers and our employees with respect to our 
+
+environmental, social and governance (ESG) practices may impose additional costs on us or expose us to new or additional 
+
+risks.
+
+There is increasing and, in some jurisdictions, diverging focus by governmental organizations, investors, employees, customers 
+
+and partners, on ESG topics, including environmental stewardship, climate, diversity and inclusion, workplace conduct and 
+
+related disclosure. Shifts in expectations, together with evolving climate and sustainability reporting regimes and anti-ESG 
+
+trends, may require changes to our governance practices and increased compliance and disclosure costs, and will subject us to 
+
+heightened scrutiny. Negative public perception, adverse publicity or negative social media commentary could damage our 
+
+reputation if we do not, or are not perceived to, adequately address these issues or if we are viewed as over-emphasizing or 
+
+under-emphasizing particular ESG positions. Any harm to our reputation could affect employee engagement and retention and 
+
+the willingness of customers and partners to do business with us.  
+
+In addition, organizations that inform investors on corporate governance and sustainability matters, including ratings providers, 
+
+proxy advisors and index compilers, continue to update their methodologies. Unfavorable ratings, downgrades, or exclusion 
+
+from indices, as well as perceived misalignment with stakeholder expectations, may lead to negative investor sentiment, 
+
+reduced demand for our securities and the diversion of investment to other companies or industries.
+
+Maintaining and enhancing our brands is critical to our business relationships and operating results.
+
+24
+
+Table of Contents
+
+We believe that maintaining and enhancing our brands is critical to our customer relationships and our ability to obtain partners 
+
+and retain employees. The successful promotion of our brands will depend upon our marketing and public relations efforts, our 
+
+ability to continue to offer high-quality products and services and our ability to successfully differentiate our solutions from 
+
+those of our competitors. In addition, future extension of our brands to add new products or services different from our current 
+
+offerings may dilute our brands, particularly if we fail to maintain our quality standards in these new areas. The promotion of 
+
+our brands will require us to make substantial expenditures, and we anticipate that the expenditures will increase as our markets 
+
+become more competitive and we expand into new markets. Even if these activities increase our revenues, this revenue may not 
+
+offset the expenses we incur. There can be no assurance that our brand promotion activities will be successful.
+
+Our expansion through acquisitions may divert our management’s attention and result in unexpected operating or 
+
+integration difficulties or increased costs and dilution to our stockholders, and we may never realize the anticipated benefits.
+
+We have been an active acquirer in the U.S. and internationally, and, as part of our growth strategy, we expect to seek to 
+
+acquire businesses, commercial account portfolios, technologies, services and products in the future. We have substantially 
+
+expanded our overall portfolio of solutions, customer base, headcount and operations through acquisitions. The acquisition and 
+
+integration of each business involves a number of risks and may result in unforeseen operating difficulties, delays and 
+
+expenditures in assimilating or integrating the businesses, technologies, products, personnel or operations of the acquired 
+
+business, all of which may divert resources and management attention otherwise available to grow our existing portfolio. We 
+
+may also have new or heightened regulatory requirements that we are required to comply with as a result of our acquisitions 
+
+which may lead to increased expense or a further diversion of management attention. 
+
+Acquisitions may expose us to geographic or business markets in which we have little or no prior experience, present 
+
+difficulties in retaining the customers of the acquired business and present difficulties and expenses associated with new 
+
+regulatory requirements, competition controls or investigations. International acquisitions often involve additional or increased 
+
+risks including difficulty managing geographically separated organizations, systems and facilities, difficulty integrating 
+
+personnel with diverse business backgrounds, languages and organizational cultures, difficulty and expense introducing our 
+
+corporate policies or controls and increased expense to comply with foreign regulatory requirements applicable to acquisitions.
+
+Integration of acquisitions could also result in the distraction of our management, the disruption of our ongoing operations or 
+
+inconsistencies on our services, standards, controls, procedures and policies, any of which could affect our ability to achieve the 
+
+anticipated benefits of an acquisition or otherwise adversely affect our operations and financial results.
+
+To complete future acquisitions, we may determine that it is necessary to use a substantial amount of our cash or engage in 
+
+equity or debt financing. If we raise additional funds through further issuances of equity or convertible debt securities, our 
+
+existing stockholders could suffer significant dilution, and any new equity securities we issue could have rights, preferences and 
+
+privileges senior to those of holders of our common stock. In addition, we may not be able to obtain additional financing on 
+
+terms favorable to us, if at all, which could limit our ability to engage in acquisitions. Moreover, we can make no assurances 
+
+that the anticipated benefits of any acquisition, such as operating improvements or anticipated cost savings, would be realized. 
+
+Further, an acquisition may negatively affect our operating results because it may require us to incur charges and substantial 
+
+debt or other liabilities, may cause adverse tax consequences, substantial depreciation and amortization or deferred 
+
+compensation charges, may require the amortization, write-down or impairment of amounts related to deferred compensation, 
+
+goodwill and other intangible assets, and may include existing or future arrangements that obligate us to make substantial cash 
+
+payments, such as contingent consideration, earn-outs, option exercise payments, guarantees or minimum return, make-whole 
+
+commitments, or other payments that reduce our earnings during the quarter in which incurred and may result in insufficient 
+
+financial return to offset acquisition costs.
+
+For example, (a) our limited partnership agreement with TPG requires us, under specified circumstances, to deliver minimum 
+
+return payments to third-party investors up to 1.6 times invested capital in connection with a subsequent sale or other exit event, 
+
+and (b) Mastercard has a limited right to sell, or put, its interest back to the Company for a period of six months, after which, 
+
+the Company has a limited six-month reciprocal right to repurchase, or call, Mastercard’s interest. Any payment under these 
+
+provisions could be material, would reduce cash otherwise available upon a sale, and may require us to use cash or obtain 
+
+additional financing, which may adversely affect our liquidity, leverage, covenant compliance and strategic flexibility.
+
+In addition, from time to time, we may divest businesses, for, among other things, alignment with our strategic objectives. We 
+
+may not be able to complete desired or proposed divestitures on terms favorable to us. Gains or losses on the sales of, or lost 
+
+operating income from, those businesses may affect our profitability and margins. Moreover, we may incur asset impairment 
+
+losses related to divestitures that reduce our profitability. Our divestiture activities may present financial, managerial and 
+
+operational risks. Those risks include diversion of management attention from existing businesses, difficulties separating 
+
+personnel and financial and other systems, possible need for providing transition services to buyers, adverse effects on existing 
+
+business relationships with suppliers and customers and indemnities and potential disputes with the buyers. Any of these factors 
+
+could adversely affect our business, financial condition and results of operations.
+
+Derivative transactions and delayed settlements may expose us to unexpected risk and potential losses.
+
+In connection with our cross-border solution, we are party to a large number of derivative transactions. Many of these 
+
+derivative instruments are individually negotiated and non-standardized, which can make exiting, transferring or settling 
+
+25
+
+Table of Contents
+
+positions difficult. Derivative transactions may also involve the risk that documentation has not been properly executed, that 
+
+executed agreements may not be enforceable against the counterparty, or that obligations under such agreements may not be 
+
+able to be "netted" against other obligations with such counterparty. In addition, counterparties may claim that such transactions 
+
+were not appropriate or authorized.
+
+Derivative contracts and other transactions entered into with third parties often don’t require performance until a future date, 
+
+which can be months away and are not always settled on a timely basis. While the transaction remains open there is always the 
+
+chance of non-performance, especially if market movements make the contract less attractive, subjecting us to heightened credit 
+
+and operational risk. In addition, as new complex derivative products are created, disputes about the terms of the underlying 
+
+contracts could arise, which could impair our ability to effectively manage our risk exposures from these products and subject 
+
+us to increased costs. The provisions of the Dodd-Frank Act requiring central clearing of over-the-counter (OTC) derivatives, or 
+
+a market shift toward standardized derivatives, could reduce the risk associated with such transactions, but under certain 
+
+circumstances could also limit our ability to develop derivatives that best suit the needs of our clients and to hedge our own 
+
+risks and could adversely affect our profitability and increase our credit exposure to such platform. We rely on licensed third 
+
+party software to calculate our daily net derivative positions for the purpose of hedging our financial market exposures. Any 
+
+failure of these systems to accurately calculate our net positions due to design weakness, capacity degradation or input errors 
+
+could result in unintended financial losses.
+
+Our payment solutions' results are subject to seasonality, which could result in fluctuations in our quarterly financial 
+
+results.
+
+Our Vehicle Payments solutions are typically subject to seasonal fluctuations in revenues and profit, which are impacted during 
+
+the first and fourth quarter each year by the weather, holidays in the U.S. and lower business levels in Brazil due to summer 
+
+break and the Carnival celebration. Our gift solutions are typically subject to seasonal fluctuations in revenues as a result of 
+
+consumer spending patterns. Historically, gift revenues have been strongest in the third and fourth quarters and weakest in the 
+
+first and second quarters, as the retail industry has its highest level of activity during and leading up to the Christmas holiday 
+
+season.
+
+If stablecoins and other blockchain-based payments achieve broad adoption, our cross-corder solutions could be impacted 
+
+and we may be required to make significant investments in new technologies and compliance frameworks, any of which 
+
+could materially adversely affect our business, financial condition and results of operations.
+
+Stablecoins and blockchain-based payments are continuing to evolve and garnering attention from financial institutions, 
+
+payment providers and end users. If we are unable to provide blockchain-based payments solutions to satisfy customer demand, 
+
+there is a risk of decreased demand for our cross-corder solution. Because our cross-corder solution relies on carefully curated 
+
+bank relationships, our exposure to these dynamics may be greater than that of certain competitors that are less dependent on 
+
+traditional banking models. 
+
+The success of stablecoin and blockchain-based payments could increase price competition and diminish volume on our 
+
+existing solutions. To remain competitive, we are integrating certain stablecoin and blockchain capabilities, but there is no 
+
+assurance that our efforts will be sufficient. These efforts could require significant time and expense, specialized talent and 
+
+technology, and may divert management attention. Our potential pursuit of stablecoin-enabled solutions could also increase our 
+
+dependence on third parties that may experience outages, security incidents, insolvency, regulatory restrictions or changes in 
+
+terms that impair our services or increase our costs. We cannot assure you that any such initiatives will be timely, successful or 
+
+accepted by customers, or that they will offset any deterioration in our current offerings.
+
+In addition, the regulatory landscape for stablecoins and blockchain-based payments remains unsettled. Changes in, or 
+
+inconsistent application of, laws and regulations relating to stablecoins could impose new licensing obligations, operational 
+
+controls, reporting and disclosure obligations or other burdens. If we or our partners are unable to obtain or maintain necessary 
+
+approvals or licenses, or if regulatory authorities impose restrictions on stablecoin issuance, redemption, use or distribution, we 
+
+may be required to modify, suspend or discontinue related services, potentially at short notice. Compliance with multiple, 
+
+evolving regimes could increase cost and complexity.
+
+Risks related to our intellectual property
+
+If we are unable to protect our intellectual property rights and confidential information, our competitive position could be 
+
+harmed and we could be required to incur significant expenses in order to enforce our rights.
+
+To protect our proprietary technology, we rely on copyright, trade secret, patent and other intellectual property laws and 
+
+confidentiality agreements with employees and third parties, all of which offer only limited protection. Despite our precautions, 
+
+it may be possible for third parties to obtain and use without our consent confidential information or infringe on our intellectual 
+
+property rights, and our ability to police that misappropriation or infringement is uncertain, particularly in countries outside of 
+
+the U.S. In addition, our confidentiality agreements with employees, vendors, customers and other third parties may not 
+
+effectively prevent disclosure or use of proprietary technology or confidential information and may not provide an adequate 
+
+remedy in the event of such unauthorized use or disclosure.
+
+26
+
+Table of Contents
+
+Protecting against the unauthorized use of our intellectual property and confidential information is expensive, difficult and not 
+
+always possible. Litigation may be necessary in the future to enforce or defend our intellectual property rights, to protect our 
+
+confidential information, including trade secrets, or to determine the validity and scope of the proprietary rights of others. This 
+
+litigation could be costly and divert management resources, either of which could harm our business, operating results and 
+
+financial condition. Accordingly, despite our efforts, we may not be able to prevent third parties from infringing upon or 
+
+misappropriating our intellectual property and proprietary information.
+
+We cannot be certain that the steps we have taken will prevent the unauthorized use or the reverse engineering of our 
+
+proprietary technology. Moreover, others may independently develop technologies that are competitive to ours or infringe our 
+
+intellectual property. The enforcement of our intellectual property rights also depends on our legal actions against these 
+
+infringers being successful, and we cannot be sure these actions will be successful, even when our rights have been infringed. 
+
+Furthermore, effective patent, trademark, service mark, copyright and trade secret protection may not be available in every 
+
+country in which we may offer our products and services.
+
+Claims by others that we or our customers infringe their intellectual property rights could harm our business.
+
+Third parties have in the past, and could in the future, claim that our technologies and processes underlying our products and 
+
+services infringe their intellectual property. In addition, to the extent that we gain greater visibility, market exposure and add 
+
+new products and services, we may face a higher risk of being the target of intellectual property infringement claims asserted by 
+
+third parties. We may, in the future, receive notices alleging that we have misappropriated or infringed a third party’s 
+
+intellectual property rights. There may be third-party intellectual property rights, including patents and pending patent 
+
+applications that cover significant aspects of our technologies, processes or business methods. Any claims of infringement or 
+
+misappropriation by a third party, even those without merit, could cause us to incur substantial defense costs and could distract 
+
+our management from our business, and there can be no assurance that we will be able to prevail against such claims. Some of 
+
+our competitors may have the capability to dedicate substantially greater resources to enforcing their intellectual property rights 
+
+and to defending claims that may be brought against them than we do. Furthermore, a party making such a claim, if successful, 
+
+could secure a judgment that requires us to pay substantial damages, potentially including treble damages if we are found to 
+
+have willfully infringed a patent. A judgment could also include an injunction or other court order that could prevent us from 
+
+offering our products and services. In addition, we might be required to seek a license for the use of a third party’s intellectual 
+
+property, which may not be available on commercially reasonable terms or at all. Alternatively, we might be required to 
+
+develop non-infringing technology, which could require significant time, effort and expense and might ultimately not be 
+
+successful.
+
+Third parties may also assert infringement claims against our customers relating to their use of our technologies or processes. 
+
+Any of these claims might require us to defend protracted and costly litigation or arbitration on their behalf, regardless of the 
+
+merits of these claims, because under certain conditions we may agree to indemnify our customers from third-party claims of 
+
+intellectual property infringement. If any of these claims succeed, we might be forced to pay damages on behalf of our 
+
+customers, or to modify or cease offerings, which could adversely affect our business, operating results and financial condition.
+
+Finally, we use open source software in connection with our technology and services. Companies that incorporate open source 
+
+software into their products, from time to time, face claims challenging the ownership of open source software. As a result, we 
+
+could be subject to suits by parties claiming ownership of what we believe to be open source software. Open source software is 
+
+also provided without warranty and may therefore include bugs, security vulnerabilities or other defects for which we have no 
+
+recourse or recovery. Some open source software licenses require users of such software to publicly disclose all or part of the 
+
+source code to their software and/or make available any derivative works of the open source code on unfavorable terms or at no 
+
+cost. While we monitor the use of open source software in our technology and services and try to ensure that none is used in a 
+
+manner that would require us to disclose the source code to the related technology or service, such use could inadvertently 
+
+occur and any requirement to disclose our proprietary source code could be harmful to our business, financial condition and 
+
+results of operations.
+
+Our success is dependent, in part, upon our executive officers and other key personnel, and the loss of key personnel could 
+
+materially adversely affect our business.
+
+Our success depends, in part, on our executive officers and other key personnel. Our senior management team has significant 
+
+industry experience and would be difficult to replace. The market for qualified individuals is competitive, especially in certain 
+
+fields, including information technology, and we may not be able to attract and retain qualified personnel or candidates to 
+
+replace or succeed members of our senior management team or other key personnel. The loss of key personnel could materially 
+
+adversely affect our business.
+
+Risks related to regulatory matters and litigation
+
+Changes in laws, regulations and enforcement activities may adversely affect our products and services and the markets in 
+
+which we operate.
+
+The electronic payments industry is subject to increasing regulation in the U.S. and internationally. The laws and regulations 
+
+applicable to us, including those enacted prior to the advent of digital payments, continue to evolve through legislative and 
+
+regulatory action and judicial interpretation. Domestic and foreign government regulations impose compliance obligations on 
+
+27
+
+Table of Contents
+
+us and restrictions on our operating activities, which can be difficult to administer because of their scope, mandates and varied 
+
+requirements. We are subject to government regulations covering a number of different areas, including, among others: interest 
+
+rate and fee restrictions; credit access and disclosure requirements; licensing and registration requirements, including money 
+
+transmitter licenses; collection and pricing regulations; compliance obligations; security, privacy and data breach requirements; 
+
+identity theft protection programs; countering terrorist financing; anti-money laundering laws and regulations; and consumer 
+
+protection laws and regulations. While a large portion of these regulations focuses on individual consumer protection, 
+
+legislatures and regulators continue to consider whether to include business customers, especially smaller business customers, 
+
+within the scope of these regulations. As a result, new or expanded regulation focusing on business customers or changes in 
+
+interpretation or enforcement of regulations, as well as increased penalties and enforcement actions related to non-compliance, 
+
+may have an adverse effect on our business and operating results, due to increased compliance costs and new restrictions 
+
+affecting the terms under which we offer our products and services.
+
+Changes in this regulatory environment, including changing interpretations and the implementation of new or varying 
+
+regulatory requirements by the government, may significantly affect or change the manner in which we currently conduct some 
+
+aspects of our business.
+
+As a service provider to certain of our bank sponsors, we may be subject to direct supervision and examination by certain 
+
+government agencies. Rules, examinations and enforcement actions may require us to adjust our activities and may increase our 
+
+compliance costs. In addition, our bank partners are subject to regulation by federal and state banking authorities and, as a 
+
+result, could pass through some of those compliance obligations to us or alter the extent or the terms of their dealings with us in 
+
+ways that may have adverse consequences for our business.
+
+Many of these laws and regulations are evolving, unclear and inconsistent across various jurisdictions, and ensuring compliance 
+
+with them is difficult and costly. With increasing frequency, federal and state regulators are holding businesses like ours to 
+
+higher standards of training, monitoring and compliance, including monitoring for possible violations of laws by our customers 
+
+and people who do business with our customers while using our products. If we fail or are unable to comply with existing or 
+
+changed government regulations in a timely and appropriate manner, we may be subject to injunctions, other sanctions or the 
+
+payment of fines and penalties, and our reputation may be harmed, which could have a material adverse effect on our business, 
+
+financial condition and results of operations. Further, as we interact directly with consumers, in conjunction with our existing 
+
+customers and partners or directly on our own behalf, our compliance obligations may expand. 
+
+For more information about laws, regulations and enforcement activities that may adversely affect our products and services 
+
+and the markets in which we operate, see “Business- Regulatory.”
+
+Derivatives regulations have added costs to our business and any additional requirements, such as future registration 
+
+requirements and increased regulation of derivative contracts, may result in additional costs or impact the way we conduct 
+
+our hedging activities, as well as impact how we conduct our business within our international payments provider 
+
+operations.
+
+OTC derivatives are a core product offered by the cross-border solution. Non-centrally cleared OTC derivatives can have 
+
+certain advantages over exchange-traded and centrally cleared derivatives. Some derivative types are only available to be traded 
+
+as non-centrally cleared OTC. In other cases, exchange-traded equivalents are less liquid or less cost-effective in gaining or 
+
+hedging certain market exposures. Further, OTC derivatives offer investors more flexibility in structure because, unlike the 
+
+standardized cleared products, they can be tailored or customized to fit specific needs or investment goals. In order to best meet 
+
+a client’s risk management objectives, our cross-border solution would like to preserve the ability to continue trading these 
+
+types of OTC derivatives when possible. The most broadly used OTC derivative within the cross-border solution are foreign 
+
+currency forwards, the most common financial tool used in the marketplace to hedge currency risk. 
+
+Rules adopted under the Dodd-Frank Act by the CFTC in the U.S., provisions of the European Market Infrastructure Regulation 
+
+and its technical standards in the U.K. and EU, as well as derivative reporting in Canada and Australia, subject certain of the 
+
+foreign exchange derivative contracts we offer to our customers as part of our cross-border solutions to reporting, record 
+
+keeping and other requirements. Additionally, certain foreign exchange derivatives transactions we may enter into in the future 
+
+may be subject to centralized clearing requirements or may be subject to margin requirements in the U.S., U.K., and EU or 
+
+other jurisdictions.  
+
+Our compliance with these requirements has resulted, and may continue to result, in additional costs to our business and may 
+
+impact our cross-border solution. Furthermore, our failure to comply with these requirements could result in fines and other 
+
+sanctions, as well as necessitate a temporary or permanent cessation to some or all of our derivative related activities. Any such 
+
+fines, sanctions or limitations on our business could adversely affect our operations and financial results. Additionally, the 
+
+regulatory regimes for derivatives in the U.S., U.K. and EU, such as under the Dodd-Frank Act and the Markets in Financial 
+
+Instruments Directive (MiFID II) continue to evolve and changes to such regimes, our status under such regimes, our associated 
+
+costs for entering into derivatives transactions or the implementation of new rules under such regimes, such as future 
+
+registration requirements and increased regulation of derivative contracts, may result in additional costs to our business. Other 
+
+jurisdictions outside the U.S., U.K. and the EU are considering, have implemented, or are implementing regulations similar to 
+
+those described above and these may result in greater costs to us as well.
+
+28
+
+Table of Contents
+
+With respect to its bank counterparties, the cross-border solution may be subject to additional regulatory requirements from 
+
+time to time associated with trading non-centrally cleared OTC derivatives pursuant to the Uncleared Margin Rules (UMR). We 
+
+will need to monitor and manage carefully the initial and variation margin requirements under the UMR, as and when they 
+
+apply to portions of the cross-border solution. 
+
+In cases where the currency market experiences significant disruption, our clients may take longer to remit funds for out-of-the-
+
+money positions and/or post collateral than what is required of our cross-border solution related to its own banking 
+
+counterparties, resulting in extended periods of elevated liquidity risk.
+
+Laws, governmental regulations and contractual obligations designed to protect or limit access to personal information 
+
+could adversely affect our ability to effectively provide our services.
+
+Governmental bodies in the U.S. and abroad have adopted, or are considering the adoption of, laws and regulations granting 
+
+consumer rights to, restricting the transfer of and requiring safeguarding of, personal information. For example, in the U.S., all 
+
+financial institutions must undertake certain steps to help protect the privacy and security of consumer financial information. In 
+
+connection with providing services to our clients, we are required by regulations and arrangements with payment networks, our 
+
+sponsor banks and certain clients to provide assurances regarding the confidentiality and security of non-public consumer 
+
+information. These arrangements require periodic audits by independent companies regarding our compliance with industry 
+
+standards such as PCI standards and also allow for similar audits regarding best practices established by regulatory guidelines. 
+
+The compliance standards relate to our infrastructure, components and operational procedures designed to safeguard the 
+
+confidentiality and security of non-public consumer personal information received from our customers. Our ability to maintain 
+
+compliance with these standards and satisfy these audits will affect our ability to attract and maintain business in the future. If 
+
+we fail to comply with these regulations, we could be exposed to suits for breach of contract or to governmental proceedings. In 
+
+addition, our client relationships and reputation could be harmed, and we could be inhibited in our ability to obtain new clients. 
+
+If more restrictive privacy laws or rules are adopted by authorities in the future on the federal or state level or internationally, 
+
+our compliance costs may increase, our opportunities for growth may be curtailed by our compliance capabilities or reputational 
+
+harm and our potential liability for security breaches or privacy non-compliance may increase, all of which could have a 
+
+material adverse effect on our business, financial condition and results of operations.
+
+Legislation and regulation of greenhouse gases (“GHG”) and related divestment and other efforts could adversely affect our 
+
+business.
+
+We are aware of the increasing focus of local, state, regional, national and international regulatory bodies on GHG emissions 
+
+and climate change issues. Legislation to regulate GHG emissions has periodically been introduced in the U.S. Congress, and 
+
+there has been a wide-ranging policy debate, both in the U.S. and internationally, regarding the impact of these gases and 
+
+possible means for their regulation. Several states and geographic regions in the U.S. have adopted legislation and regulations 
+
+to reduce emissions of GHGs. Additional legislation or regulation by these states and regions, the EPA and/or any international 
+
+agreements to which the U.S. may become a party, that control or limit GHG emissions or otherwise seek to address climate 
+
+change could adversely affect our partners’ and merchants’ operations and therefore ours. Because our business depends on the 
+
+level of activity in the oil industry, existing or future laws or regulations related to GHGs and climate change, including 
+
+incentives to conserve energy or use alternative energy sources, could have a negative impact on our business if such laws or 
+
+regulations reduce demand for fuel. Further, we may not be able to successfully execute our EV strategy, which could further 
+
+adversely affect our business.
+
+We contract with government entities and are subject to risks related to our governmental contracts.
+
+In the course of our business we contract with domestic and foreign government entities, including state and local government 
+
+customers, as well as federal government agencies. As a result, we are subject to various laws and regulations that apply to 
+
+companies doing business with federal, state and local governments. The laws relating to government contracts differ from 
+
+other commercial contracting laws and our government contracts may contain unique pricing, audit, disclosure, data protection 
+
+and compliance obligations that are not common among commercial contracts. In addition, we may be subject to investigation 
+
+from time to time concerning our compliance with the laws and regulations relating to our government contracts. Our failure to 
+
+comply with these laws and regulations may result in suspension of these contracts or administrative or other penalties.
+
+Government budgets, policy shifts, prolonged or recurring government shutdowns and funding delays can affect the timing of 
+
+awards, renewals and payments, and may reduce or pause spending under existing contracts or impede new awards. Any of the 
+
+foregoing could adversely affect our business, operating results and financial condition.
+
+Litigation and regulatory actions could subject us to significant fines, penalties or requirements resulting in significantly 
+
+increased expenses, damage to our reputation and/or material adverse effects on our business.
+
+We are, or may from time to time be, subject to claims in the ordinary course of our operations, including individual and class 
+
+action lawsuits, arbitration proceedings, government and regulatory investigations, inquiries, actions or requests and other 
+
+proceedings alleging violations of laws, rules and regulations with respect to competition, antitrust, intellectual property, 
+
+privacy, data protection, information security, anti-money laundering, counter-terrorist financing, sanctions, anti-bribery, anti-
+
+corruption, consumer protection (including unfair, deceptive, or abusive acts or practices), fraud, accessibility, securities, tax, 
+
+labor and employment, commercial disputes, product liability, use of our services for illegal purposes and other matters. The 
+
+29
+
+Table of Contents
+
+number and significance of these disputes and inquiries is expected to continue to increase as our products, services and 
+
+business expand in complexity, scale, scope and geographic reach, including through acquisitions of businesses and technology. 
+
+Responding to proceedings may be difficult and expensive, and we may not prevail. In some proceedings, the claimant seeks 
+
+damages as well as other relief, which, if granted, would require expenditures on our part or changes in how we conduct 
+
+business. There can be no certainty that we will not ultimately incur charges in excess of presently established or future 
+
+financial accruals or insurance coverage, or that we will prevail with respect to such proceedings. Regardless of whether we 
+
+prevail or not, such proceedings could have a material adverse effect on our business, reputation, financial condition and results 
+
+of operations. Further, these types of matters could divert our management’s attention and other resources away from our 
+
+business. In addition, from time to time, we have had, and expect to continue to receive, inquiries from regulatory bodies and 
+
+administrative agencies relating to the operation of our business. Any potential claims or any such inquiries or potential claims 
+
+have resulted in, and may continue to result in, various audits, reviews and investigations, which can be time consuming and 
+
+expensive. These types of inquiries, audits, reviews and investigations could result in the institution of administrative or civil 
+
+proceedings, sanctions and the payment of fines and penalties, various forms of injunctive relief and redress, changes in 
+
+personnel and increased review and scrutiny by customers, regulatory authorities, the media and others, which could be 
+
+significant and could have a material adverse effect on our business, reputation, financial condition and results of operations.
+
+As described in the Legal Proceedings section below, we are required to comply with an Order issued by the U.S. District Court 
+
+for the Northern District of Georgia on June 8, 2023 (the “FTC Order”). The FTC Order requires us, among other things, to 
+
+comply with certain advertising, contracting, record maintenance and reporting requirements for the U.S. fuel card business. 
+
+Material failures to comply with the obligations under the FTC Order may subject us to enforcement proceedings, which could 
+
+result in significant fines, penalties or liabilities that may impact our financial performance.
+
+Failure to comply with the FCPA, AML regulations, economic and trade sanctions regulations and similar laws and 
+
+regulations applicable to our international activities, could subject us to penalties and other adverse consequences.
+
+As we continue to expand our business internationally, we may continue to expand into certain foreign countries, particularly 
+
+those with developing economies, where companies often engage in business practices that are prohibited by U.S., U.K. and 
+
+other foreign regulations, including the FCPA, the U.K. Bribery Act, Canada’s PCMLTFA and Australia’s AML/CTF Act. 
+
+These laws and regulations generally prohibit our employees, consultants and agents from bribing, being bribed or making 
+
+other prohibited payments to government officials or other persons to obtain or retain business or gain some other business 
+
+advantage. We have implemented policies to discourage such practices; however, there can be no assurances that all of our 
+
+employees, consultants and agents, including those that may be based in or from countries where practices that violate these 
+
+laws may be customary, will not take actions in violation of our policies for which we may be ultimately responsible.
+
+In addition, we are subject to AML laws and regulations, including the BSA. Among other things, the BSA requires money 
+
+services businesses (such as money transmitters and providers of prepaid access) to develop and implement risk-based AML 
+
+programs, verify the identity of our customers, report large cash transactions and suspicious activity and maintain transaction 
+
+records.
+
+We are also subject to certain economic and trade sanctions programs that are administered by OFAC, which prohibit or restrict 
+
+transactions to or from or dealings with specified countries, their governments, and in certain circumstances, their nationals, and 
+
+with individuals and entities that are specially designated nationals of those countries, narcotics traffickers and terrorists or 
+
+terrorist organizations. Other group entities may be subject to additional foreign or local sanctions requirements in other 
+
+relevant jurisdictions.
+
+Similar AML and counter-terrorist financing and proceeds of crime laws apply to movements of currency and payments 
+
+through electronic transactions and to dealings with persons specified in lists maintained by the country equivalent to OFAC 
+
+lists in several other countries and require specific data retention obligations to be observed by intermediaries in the payment 
+
+process. Our businesses in those jurisdictions are subject to those data retention obligations.
+
+Violations of these laws and regulations may result in severe criminal or civil sanctions and, in the U.S., suspension or 
+
+debarment from U.S. government contracting. Likewise, any investigation of any potential violations of these laws and 
+
+regulations by U.S. or foreign authorities could also have an adverse impact on our reputation and operating results. In addition, 
+
+we cannot predict the nature, scope or effect of future regulatory requirements to which our international operations might be 
+
+subject or the manner in which existing laws and regulations might be administered or interpreted.
+
+Risks related to our debt
+
+Our debt obligations, or our incurrence of additional debt obligations, could limit our flexibility in managing our business 
+
+and could materially and adversely affect our financial performance.
+
+At 
+December 31, 2025
+, we had 
+approximately 
+$10.0 billion
+ of d
+ebt outs
+
+tanding under our Credit Facility and Securitization 
+
+Facility (each as defined herein). In addition, we are permitted under our credit agreement to incur additional indebtedness, 
+
+subject to specified limitations. Our indebtedness currently outstanding, or as may be outstanding if we incur additional 
+
+indebtedness, could have important consequences, including the following:
+
+30
+
+Table of Contents
+
+•
+we may have difficulty satisfying our obligations under our debt facilities and, if we fail to satisfy these obligations, an 
+
+event of default could result;
+
+•
+we may be required to dedicate a substantial portion of our cash flow from operations to required payments on our 
+
+indebtedness or posting collateral to our bank counterparties, thereby reducing the availability of cash flow for 
+
+acquisitions, working capital, capital expenditures and other general corporate activities. See “Management’s 
+
+Discussion and Analysis of Financial Condition and Results of Operations-Material Cash Requirements and Uses of 
+
+Cash;”
+
+•
+covenants relating to our debt may limit our ability to enter into certain contracts, pay dividends or to obtain additional 
+
+financing for acquisitions, working capital, capital expenditures and other general corporate activities, including to 
+
+react to changes in our business or the industry in which we operate;
+
+•
+events outside our control, including volatility in the credit markets or a significant rise in fuel prices, may make it 
+
+difficult to renew our Securitization Facility on terms acceptable to us and limit our ability to timely fund our working 
+
+capital needs;
+
+•
+the amount of receivables that qualify under our Securitization Facility could decrease, which could materially and 
+
+adversely impact our liquidity;
+
+•
+we may be more vulnerable than our less leveraged competitors to the impact of economic downturns, significant 
+
+global events and adverse developments in the industry in which we operate; and
+
+•
+we are exposed to the risk of increased interest rates because our borrowings are generally subject to floating rates of 
+
+interest.
+
+We and our subsidiaries may incur substantial additional indebtedness in the future, including through our Securitization 
+
+Facility. Although our credit agreements contain restrictions on the incurrence of additional indebtedness, these restrictions are 
+
+subject to a number of significant qualifications and exceptions, and under certain circumstances, the amount of additional 
+
+indebtedness that could be incurred in compliance with these restrictions could be substantial. If new debt is added to our 
+
+existing debt levels, the related risks that we will face would increase.
+
+In addition, any financial turmoil affecting the banking system or financial markets could cause significant financial service 
+
+institution failures, new or incremental tightening in the credit markets, low liquidity and extreme volatility or distress in the 
+
+fixed income, credit, currency and equity markets, which could have a material adverse impact on our business. We require 
+
+liquidity and access to capital to fund our global operations, including providing collateral to bank counterparties, funding 
+
+working capital and other cash needs, and financing acquisitions. Certain subsidiaries are authorized and supervised as payment 
+
+and/or e‑money institutions and are subject to customer fund safeguarding requirements. These regimes permit safeguarding 
+
+through segregation of customer funds in designated safeguarding accounts and, in certain cases, through insurance policies or 
+
+comparable guarantees, and may permit a combination of methods.  We maintain a safeguarding and liquidity management 
+
+framework intended to minimize the risk of loss or diminution of relevant funds through fraud, misuse, negligence or poor 
+
+administration.
+
+Our balance sheet includes significant amounts of goodwill and intangible assets. We have recently recorded impairment 
+
+losses on these assets and any further impairment of a significant portion of these assets would negatively affect our 
+
+financial results.
+
+Our balance sheet includes goodwill and intangible assets that represent
+ approximately 
+41%
+
+of
+ o
+
+ur total assets at 
+December 31, 
+
+2025
+. These assets consist primarily of goodwill and identified intangible assets associated with our acquisitions, which may 
+
+increase in the future in connection with new acquisitions. Under current accounting standards, we are required to amortize 
+
+certain intangible assets over the useful life of the asset, while goodwill and indefinite-lived intangible assets are not amortized. 
+
+On at least an annual basis, we assess whether there have been impairments in the carrying value of goodwill and indefinite-
+
+lived intangible assets. If the carrying value of the asset is determined to be impaired, it is written down to fair value by a 
+
+charge to operating earnings.

@@ -1,0 +1,479 @@
+.
+
+     In addition to the normal risks of business, we are subject to significant risks and
+uncertainties, including those listed below and others described elsewhere in this Annual Report on
+Form 10-K. Any of the risks described herein could result in a significant adverse effect on our
+results of operation and financial condition.
+
+If we fail to adapt our services to changes in technology or in the marketplace, or if our ongoing
+efforts to upgrade our technology are not successful, we could lose customers and have difficulty
+attracting new customers for our services.
+
+     The markets for our services are characterized by constant technological changes, frequent
+introductions of new services and evolving industry standards. Our future success will be
+significantly affected by our ability to enhance our current services, and develop and introduce
+new services that address the increasingly sophisticated needs of our customers and their clients.
+These
+
+8
+
+Table of Contents
+
+initiatives carry the risks associated with any new service development effort, including cost
+overruns, delays in delivery, and performance issues. There can be no assurance that we will be
+successful in developing, marketing and selling new services that meet these changing demands, that
+we will not experience difficulties that could delay or prevent the successful development,
+introduction, and marketing of these services, or that our new services and their enhancements will
+adequately meet the demands of the marketplace and achieve market acceptance.
+
+We may experience defects, development delays, installation difficulties and system failures with
+respect to our technology solutions, which would harm our business and reputation and expose us to
+potential liability.
+
+     Many of our services are based on sophisticated software and computing systems, and we may
+encounter delays when developing new technology solutions and services. Further, the technology
+solutions underlying our services have occasionally contained and may in the future contain
+undetected errors or defects when first introduced or when new versions are released. In addition,
+we may experience difficulties in installing or integrating our technologies on platforms used by
+our customers. Finally, our systems and operations could be exposed to damage or interruption from
+fire, natural disaster, power loss, telecommunications failure, unauthorized entry and computer
+viruses. Defects in our technology solutions, errors or delays in the processing of electronic
+transactions, or other difficulties could result in: (i) interruption of business operations; (ii)
+delay in market acceptance; (iii) additional development and remediation costs; (iv) diversion of
+technical and other resources; (v) loss of customers; and (vi) negative publicity; or exposure to
+liability claims.
+
+     Any one or more of the foregoing could have a material adverse effect on our business,
+financial condition and results of operations. Although we attempt to limit our potential liability
+through disclaimers and limitation-of-liability provisions in our license and customer agreements,
+we cannot be certain that these measures will always be successful in limiting our liability.
+
+We operate in a competitive business environment, and if we are unable to compete effectively our
+results of operations and financial condition may be adversely affected.
+
+     The market for our services is intensely competitive. Our competitors vary in size and in the
+scope and breadth of the services they offer. Some of our competitors have substantial resources.
+We face direct competition from third parties, and since many of our larger potential customers
+have historically developed their key applications in-house and therefore view their system
+requirements from a make-versus-buy perspective, we often compete against our potential customers’
+in-house capacities. In addition, we expect that the markets in which we compete will continue to
+attract new competitors and new technologies. There can be no assurance that we will be able to
+compete successfully against current or future competitors or that competitive pressures we face in
+the markets in which we operate will not materially adversely affect our business, financial
+condition, and results of operations.
+
+Our revenues from the sale of services to members of VISA, MasterCard, American Express and other
+similar organizations are dependent upon our continued certification and sponsorship, and the loss
+or suspension of certification or sponsorship could adversely affect our business.
+
+     In order to provide our card processing services, we must be certified by Visa, MasterCard,
+American Express and other similar organizations. These certifications are dependent upon our
+continued adherence to the standards of the issuing bodies. The member financial institutions, some
+of which are our competitors, set the standards with which we must comply. If we fail to comply
+with these standards, our certifications could be suspended or terminated. The termination of our
+certifications, or any changes in the rules and regulations governing VISA, MasterCard, American
+Express or other similar organizations could prevent our registration or otherwise limit our
+ability to provide services, which could result in a reduction in revenue or increased costs of
+operation, which in turn could have a material adverse effect on our business.
+
+Potential customers may be reluctant to switch to a new vendor, which may adversely affect our
+growth, both in the U.S. and internationally.
+
+     For banks and other potential customers of our financial information software and services,
+switching from one vendor of bank core processing or related software and services (or from an
+internally-developed system) to a new vendor is a significant undertaking. Many potential customers
+worry about potential disadvantages such as loss of accustomed functionality, increased costs and
+business disruption. As a result, potential customers, both in the U.S. and internationally, often
+resist change. We seek to overcome this resistance through strategies such as making investments to
+enhance the functionality of our software. However, there can be no assurance that our strategies
+for overcoming potential customers’ reluctance to change vendors will be successful, and this
+resistance may adversely affect our growth, both in the U.S. and internationally.
+
+9
+
+Table of Contents
+
+Demand for many of our services is sensitive to the level of consumer transactions generated by our
+customers, and accordingly, our revenues could be impacted negatively by the current recession or
+any other event causing a material slowing of consumer spending.
+
+     A significant portion of our revenue is derived from transaction processing fees. Any changes
+in economic factors, such as the current recession, that adversely affect consumer spending and
+related consumer debt, or lead to a reduction in check writing or credit and debit card usage,
+could reduce the volume of transactions that we process, and have an adverse effect on our
+business, financial condition and results of operations.
+
+We have a long sales cycle for many of our applications and if we fail to close sales after
+expending significant time and resources to do so, our business, financial condition, and results
+of operations may be adversely affected.
+
+     The implementation of many of our applications often involves significant capital commitments
+by our customers, particularly those with smaller operational scale. Potential customers generally
+commit significant resources to an evaluation of available software and require us to expend
+substantial time, effort, and money educating them as to the value of our software and services. We
+incur substantial costs in order to obtain each new customer. We may expend significant funds and
+management resources during the sales cycle and ultimately fail to close the sale. Our sales cycle
+may be extended due to our customers’ budgetary constraints or for other reasons. If we are
+unsuccessful in closing sales after expending significant funds and management resources or we
+experience delays, it could have a material adverse effect on our business, financial condition,
+and results of operations.
+
+Many of our customers are subject to a regulatory environment and to industry standards that may
+change in a manner that reduces the number of transactions in which our customers engage and
+therefore reduces our revenues.
+
+     Our customers are subject to a number of government regulations and industry standards with
+which our services must comply. For example, our services are affected by VISA, MasterCard,
+American Express and electronic payment standards that are generally updated twice annually. In
+addition, action by regulatory authorities relating to credit availability, data usage, privacy, or
+other related regulatory developments could have an adverse effect on our customers and therefore
+could have a material adverse effect on our business, financial condition, and results of
+operations.
+
+Security breaches or our own failure to comply with privacy regulations imposed on providers of
+services to financial institutions could harm our business by disrupting our delivery of services
+and damaging our reputation.
+
+     As part of our business, we electronically receive, process, store and transmit sensitive
+business information of our customers. In addition, we collect personal consumer data, such as
+names and addresses, social security numbers, driver’s license numbers and payment history records.
+Unauthorized access to our computer systems or databases could result in the theft or publication
+of confidential information or the deletion or modification of records or could otherwise cause
+interruptions in our operations. These concerns about security are increased when we transmit
+information over the Internet.
+
+     Additionally, as a provider of services to financial institutions, we are bound by the same
+limitations on disclosure of the information we receive from our customers as apply to the
+financial institutions themselves. If we fail to comply with these regulations, we could be exposed
+to suits for breach of contract or to governmental proceedings. In addition, if more restrictive
+privacy laws or rules are adopted in the future on the federal or state level, that could have an
+adverse impact on us. Any inability to prevent security or privacy breaches could cause our
+existing customers to lose confidence in our systems and terminate their agreements with us, and
+could inhibit our ability to attract new customers and/or adversely impact our relationship with
+administrative agencies.
+
+Misappropriation of our intellectual property and proprietary rights could impair our competitive
+position.
+
+     Our ability to compete depends upon proprietary systems and technology. Despite our efforts to
+protect our proprietary rights, unauthorized parties may attempt to copy aspects of our services or
+to obtain and use information that we regard as proprietary. Policing unauthorized use of our
+proprietary rights is difficult. We cannot make any assurances that the steps we have taken will
+prevent misappropriation of technology or that the agreements entered into for that purpose will be
+enforceable. Effective trademark, service mark, copyright, and trade secret protection may not be
+available in every country in which our applications and services are made available online.
+Misappropriation of our intellectual property or potential litigation concerning such matters could
+have a material adverse effect on our results of operations or financial condition.
+
+10
+
+Table of Contents
+
+We face liability to our merchant customers if checks that we have guaranteed are dishonored by the
+check writer’s bank.
+
+     If a check that we have guaranteed is dishonored by the check writer’s bank, we must reimburse
+our merchant customer for the check’s face value and pursue collection of the amount from the check
+writer. In some cases, we recognize a liability to our merchant customers for estimated check
+returns and a receivable for amounts we estimate we will recover from the check writers, based on
+historical experience and other relevant factors. The estimated check returns and recovery amounts
+are subject to the risk that actual amounts returned may exceed our estimates and actual amounts
+recovered may be less than our estimates.
+
+If our applications or services are found to infringe the proprietary rights of others, we may be
+required to change our business practices and may also become subject to significant costs and
+monetary penalties.
+
+     As our information technology applications and services develop, we may become increasingly
+subject to infringement claims. Any claims, whether with or without merit, could: (i) be expensive
+and time-consuming to defend; (ii) cause us to cease making, licensing or using applications that
+incorporate the challenged intellectual property; (iii) require us to redesign our applications, if
+feasible; (iv) divert management’s attention and resources; and (v) require us to enter into
+royalty or licensing agreements in order to obtain the right to use necessary technologies.
+
+Our business is subject to the risks of international operations, including movements in foreign
+currency exchange rates.
+
+     We derive a significant portion of our revenue and earnings from international operations. As
+a result, our financial condition and operating results could be significantly affected by risks
+associated with international activities, including economic and labor conditions, political
+instability, tax laws (including U.S. taxes on foreign subsidiaries), and changes in the value of
+the U.S. Dollar versus local currencies. In addition, we are less well-known internationally than
+in the United States, have less experience with local business conditions and will face challenges
+in successfully managing small operations located far from our headquarters, because of the greater
+difficulty in overseeing and guiding operations from a distance.
+
+     As we expand our international operations, more of our customers may pay us in foreign
+currencies. Conducting business in currencies other than U.S. Dollars subjects us to fluctuations
+in currency exchange rates. Our primary exposure to movements in foreign currency exchange rates
+relate to foreign currencies in Brazil, Europe, Australia and parts of Asia. The U.S. Dollar value
+of our net investments in foreign operations, the periodic conversion of foreign-denominated
+earnings to the U.S. Dollar (our reporting currency), our results of operations and, in some cases,
+cash flows, could be adversely affected in a material manner by movements in foreign currency
+exchange rates. During the twelve months ended December 31, 2008, approximately 17% of our revenues
+were denominated in currencies other than the U.S. Dollar, including the Brazilian Real, British
+pound and Euro. These risks could cause a material adverse effect on our business, financial
+position and results of operations and could cause the market value of our common stock to decline.
+
+Our existing levels of leverage and debt service requirements may adversely affect our financial
+and operational flexibility.
+
+     As of December 31, 2008, we had total debt of approximately $2.5 billion. This level of debt
+could have important consequences to us, including the following: (i) the debt level may cause us
+to have difficulty borrowing money in the future for working capital, capital expenditures,
+acquisitions or other purposes and limits our ability to pursue other business opportunities and
+implement certain business strategies; (ii) we use a large portion of the money we earn to pay
+principal and interest on our senior credit facilities, which reduces the amount of money available
+to finance operations, acquisitions and other business activities, repay other indebtedness and pay
+shareholder dividends; (iii) some of our debt has a variable rate of interest, which exposes us to
+the risk of increased interest rates; and (iv) we have a higher level of debt than some of our
+competitors, which may cause a competitive disadvantage and may reduce flexibility in responding to
+changing business and economic conditions, including increased competition.
+
+     In addition, the terms of our senior credit facilities may restrict us from taking actions,
+such as making significant acquisitions or dispositions or entering into certain agreements, which
+we might believe to be advantageous to us.
+
+If we are unable to successfully consummate and integrate acquisitions, our results of operations
+may be adversely affected.
+
+     We have made numerous acquisitions in recent years as a part of our growth strategy. We
+anticipate that we will continue to seek to acquire complementary businesses and services. This
+strategy will depend on the ability to find suitable acquisitions and finance them
+
+11
+
+Table of Contents
+
+on acceptable terms. We may require additional debt or equity financing for future
+acquisitions, and doing so will be made more difficult by our existing debt. If we are unable to
+acquire suitable acquisition candidates, we may experience slower growth. Further, after
+successfully completing acquisitions, we face challenges in integrating acquired businesses. These
+challenges include eliminating redundant operations, facilities and systems, coordinating
+management and personnel, retaining key employees, managing different corporate cultures, and
+achieving cost reductions and cross-selling opportunities. There can be no assurance that we will
+be able to fully integrate all aspects of acquired businesses successfully or fully realize the
+potential benefits of bringing them together, and the process of integrating these acquisitions may
+disrupt our business and divert our resources.
+
+We may be unable to achieve some or all of the benefits that we expect from the LPS spin-off.
+
+     We may not be able to achieve the strategic and financial benefits we expected to result from
+the LPS spin-off or such benefits may be delayed. These outcomes may occur due to, among other
+things, the loss of synergies, excess costs the two companies will incur as stand-alone entities,
+or the obligations imposed on us to avoid certain transactions in respect of our capital stock in
+order to preserve the planned tax-free nature of the transactions.
+
+If any part of the LPS spin-off is determined to be a taxable transaction, then additional taxes
+could be imposed on us and our shareholders.
+
+     On June 20, 2008, we received a favorable private letter ruling from the Internal Revenue
+Service (“IRS”) regarding the contribution of our interest in the assets, liabilities, businesses
+and employees related to our lender processing services operations in exchange for the receipt by
+us of LPS common stock and LPS debt obligations, which we refer to as the contribution, the
+exchange by us of LPS debt obligations for certain outstanding FIS debt, which we refer to as the
+debt exchange, and the distribution of LPS common stock to our shareholders, which we refer to as
+the spin-off. The IRS ruling was to the effect that: (i) the contribution taking into account the
+spin-off will qualify as a reorganization within the meaning of Section 368(a) of the Internal
+Revenue Code of 1986, as amended, which we refer to as the Code, in which neither we nor LPS will
+recognize any gain or loss; (ii) no gain or loss will be recognized by us in the debt exchange,
+pursuant to Section 361 of the Code; and (iii) no gain or loss will be recognized by us or our
+shareholders on the spin-off, pursuant to Section 355 and related provisions of the Code (including
+Section 361(c) of the Code), except that any gain that our shareholders realize on cash received in
+lieu of any fractional shares of our common stock to which such shareholders may be entitled in the
+spin-off generally will be taxable to our shareholders.
+
+     Notwithstanding our receipt of the IRS private letter ruling, the IRS could determine that the
+contribution, debt exchange and/or spin-off constitute taxable transactions if it determines that
+there was a misstatement or omission of any of the facts, representations, or undertakings that
+were included in the request for the private letter ruling, or if it disagrees with our conclusions
+reached regarding certain factual requirements that, consistent with the IRS’ standard ruling
+policy, were not covered by the IRS ruling.
+
+     If one or more of the contribution, debt exchange or spin-off transactions ultimately were
+determined to be subject to tax, we would recognize gain and the amount of that gain would be up to
+the excess of the fair market value of the LPS stock and debt obligations we received in the
+contribution over our basis in the assets we contributed to LPS in the contribution. The amount of
+such gain could be substantial. Further, if the spin-off transaction were subject to tax, in
+addition to tax imposed on us, our shareholders generally would be treated as if they received a
+taxable distribution equal to the full fair market value of LPS stock on the distribution date. In
+addition, we could be subject to tax on certain of the preliminary asset transfers that were made
+in connection with the contribution transaction.
+
+     Notwithstanding the favorable IRS ruling that the spin-off qualified for tax-free treatment,
+it would become taxable to us, pursuant to Section 355(e) of the Code, if 50% or more of the shares
+of either our common stock or LPS common stock were acquired, directly or indirectly, as part of a
+plan or series of related transactions that included the spin-off. If the IRS were to determine
+that acquisitions of our common stock or of LPS common stock, either before or after the spin-off,
+were part of a plan or series of related transactions that included the spin-off, this
+determination could result in the recognition of substantial gain by us under Section 355(e).
+
+     Although the taxes resulting from the contribution, debt exchange or spin-off not qualifying
+for tax-free treatment for United States Federal income tax purposes generally would be imposed on
+us and our shareholders, under the tax disaffiliation agreement entered into by us and LPS in
+connection with the distribution, LPS would be required to indemnify us and our affiliates against
+all tax related liabilities caused by the failure of any of those transactions to qualify for
+tax-free treatment for United States Federal income tax purposes (including as a result of Section
+355(e) of the Code) to the extent these liabilities arise as a result of any action taken by LPS or
+any of LPS’ affiliates following the spin-off or otherwise result from any breach of any
+representation, covenant or obligation of LPS or any of LPS’ affiliates under the tax
+disaffiliation agreement.
+
+12
+
+Table of Contents
+
+     There is no guaranty that LPS will have financial resources to satisfy any such
+indemnification obligation described above.
+
+The executive chairman of our board of directors and other officers and directors have interests
+and positions that could present potential conflicts.
+
+     We and certain of our subsidiaries are parties to a variety of related party agreements with
+FNF and LPS. William P. Foley, II, who is our Executive Chairman, is currently the Chairman of the
+board of directors of both FNF and LPS. Lee A. Kennedy, who serves as President and Chief Executive
+Officer of our company, is also a director of LPS. Brent B. Bickett, who is an officer of FIS, is
+also an officer of FNF and LPS. William P. Foley, II and Brent B. Bickett also own or hold
+substantial amounts of LPS and FNF stock and stock options. Thomas M. Hagerty and Richard N.
+Massey, who are both directors of FIS, are also directors of FNF. As a result of the foregoing,
+there may be circumstances where certain of our executive officers and directors may be subject to
+conflicts of interest with respect to, among other things: (i) our past and ongoing relationships
+with FNF and LPS, including related party agreements and other arrangements with respect to the
+administration of tax matters, employee benefits and indemnification; (ii) the quality, pricing and
+other terms associated with services that we provide to FNF and LPS, or that they provide to us,
+under related party agreements; (iii) business opportunities arising for either us, FNF or LPS,
+that could be pursued by either us, or by FNF or LPS; and (iv) conflicts of time with respect to
+matters potentially or actually involving or affecting FIS.
+
+     We seek to manage these potential conflicts through, abstention, oversight by independent
+members of our board of directors and provisions in our agreements with FNF and LPS. However, there
+can be no assurance that such measures will be effective or that we will be able to resolve all
+potential conflicts with FNF and LPS, or that the resolution of any such conflicts will be no less
+favorable to us than if we were dealing with an unaffiliated third party.
+
+We have substantial investments in recorded goodwill and other intangible assets as a result of
+prior acquisitions, and a further more severe or continued economic downturn could cause these
+investments to become impaired, requiring write-downs that would reduce our operating income.
+
+     As of December 31, 2008, goodwill aggregated to approximately $4,194.0 million, 55.8% of
+total assets, and other indefinite lived intangible assets aggregated to approximately $152.0
+million, 2.0% of total assets. Current accounting rules require goodwill and other indefinite
+lived intangible assets to be assessed for impairment at least annually or whenever changes in
+circumstances indicate potential impairment. Factors that may be considered a change in circumstance include significant
+underperformance relative to historical or projected future operating results, a significant
+decline in our stock price and market capitalization, and negative industry or economic trends.
+The results of our fiscal year 2008 annual assessment of the recoverability of goodwill indicated
+that the fair value of the Company’s reporting units were in excess of the carrying value of those
+reporting units, and thus no goodwill impairment existed as of December 31, 2008. Additionally,
+other than with respect to our Certegy Check business, where we recorded an impairment charge of
+$52.0 million in the fourth quarter of 2008, the fair value of indefinite lived intangible assets
+was in excess of the carry value of those assets. However, if the current worldwide economic
+downturn continues, the carrying amount of our goodwill and other indefinite lived intangible
+assets may no longer be recoverable, and we may be required to record an impairment charge, which
+would have a negative impact on our results of operations and financial condition. We will continue
+to monitor the fair value of our other indefinite lived intangible assets as well as our market
+capitalization and the impact of the current economic downturn on our business to determine if
+there is an impairment in future periods.
+
+Consolidations and failures in the banking and financial services industry could adversely affect
+our business by eliminating some of our existing and potential customers and making us more
+dependent on a more limited number of customers.
+
+     There has been and continues to be substantial consolidation activity in the banking and
+financial services industry. In addition, many financial institutions that experienced negative
+operating results, including some of our customers, have failed.
+
+     The failures and consolidations reduce the number of our customers and potential customers,
+which could adversely affect our revenues even if the events do not reduce the aggregate activities
+of the consolidated entities. Further, if our customers fail and/or merge with or are acquired by
+other entities that are not our customers, or that use fewer of our services, they may discontinue
+or reduce use of our services. It is also possible that larger financial institutions resulting
+from consolidations would have greater leverage in negotiating terms or could decide to perform
+in-house some or all of the services which we currently provide or could provide. Any of these
+developments could have a material adverse effect on our business, results of operations and
+financial condition.
+
+13
+
+Table of Contents
+
+Losses, consolidations and failures in the financial services industry may impact our ability to
+borrow funds or the ability of our lenders to fulfill their obligations under our interest rate
+swap agreements.
+
+     Many financial institutions are currently experiencing negative operating results. In some
+cases, these negative operating results have led to financial institution failures and/or
+consolidations, including, in some cases, lenders that are parties to our Credit Agreement and
+interest rate swap agreements. As a result, lenders may become insolvent or tighten lending
+standards, which could in turn make it more difficult or impossible for lenders to perform their
+obligations under our interest rate swap agreements or for us to borrow under our Credit Agreement,
+obtain financing on favorable terms, or obtain financing or interest rate swap agreements at all.
+Our financial condition and results of operations could be adversely affected if a financial
+institution fails to fulfill its obligations under our interest rate swap agreements or we are
+unable to draw funds under our Credit Agreement or obtain other cost-effective financing.
+
+Statement Regarding Forward-Looking Information
+
+     The statements contained in this Form 10-K or in our other documents or in oral presentations
+or other statements made by our management that are not purely historical are forward-looking
+statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the
+Securities Exchange Act of 1934, including statements regarding our expectations, hopes,
+intentions, or strategies regarding the future. These statements relate to, among other things, our
+future financial and operating results. In many cases, you can identify forward-looking statements
+by terminology such as “may,” “will,” “should,” “expect,” “plan,” “anticipate,” “believe,”
+“estimate,” “predict,” “potential,” or “continue,” or the negative of these terms and other
+comparable terminology. Actual results could differ materially from those anticipated in these
+statements as a result of a number of factors, including, but not limited to:
+
+•
+
+general political, economic, and business conditions, including the possibility of intensified international hostilities,
+acts of terrorism, and general volatility in the capital markets;
+
+•
+
+failures to adapt our services to changes in technology or in the marketplace;
+
+•
+
+consolidation or failures in the banking industry;
+
+•
+
+consolidation or failures in the retail industry;
+
+•
+
+security breaches of our systems and computer viruses affecting our software;
+
+•
+
+the impact of competitive services and pricing;
+
+•
+
+the ability to identify suitable acquisition candidates and the ability to finance such acquisitions, which depends upon
+the availability of adequate cash reserves from operations or of acceptable financing terms and the variability of our
+stock price;
+
+•
+
+our ability to integrate any acquired business’ operations, services, clients, and personnel;
+
+•
+
+the effect of our substantial leverage, which may limit the funds available to make acquisitions and invest in our business;
+
+•
+
+changes in, or the failure to comply with, government regulations, including privacy regulations; and
+
+•
+
+other risks detailed elsewhere in this Risk Factors section and in our other filings with the Securities and Exchange
+Commission.
+
+     We are not under any obligation (and expressly disclaim any such obligation) to update or
+alter our forward-looking statements, whether as a result of new information, future events or
+otherwise. You should carefully consider the possibility that actual results may differ materially
+from our forward-looking statements.

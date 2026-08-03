@@ -1,0 +1,2007 @@
+, and 
+Item 7—Management’s Discussion and Analysis of Financial Condition and Results of Operations
+, and in other sections of this Form 10-K, or incorporated certain statements by reference into this Form 10-K, that are forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), and the Private Securities Litigation Reform Act of 1995. In some cases, these forward-looking statements can be identified by words with prospective meanings such as “intend,” “plan,” “estimate,” “believe,” “anticipate,” “expect,” “predict,” “project,” “assume,” “forecast,” “likely,” “uncertain,” “outlook,” “future,” “pending,” “goal,” “objective,” “potential,” “continue,” “seek to,” “may,” “can,” “should,” “will” and “could” or the negative of such terms or other variations or similar expressions. Forward-looking statements may relate to, among other things, our future financial performance, including our operation and maintenance (“O&M”) efficiency ratio, cash flows, our growth and portfolio optimization strategies, our projected capital expenditures and related funding requirements, our ability to repay debt, our projected strategy to finance current operations and growth initiatives, the impact of legal proceedings and potential fines and penalties, business process and technology improvement initiatives, trends in our industry, regulatory, legislative, tax policy or legal developments or rate adjustments, including rate case filings, filings for infrastructure surcharges and filings to address regulatory lag.
+
+Forward-looking statements are predictions based on our current expectations and assumptions regarding future events. They are not guarantees or assurances of any outcomes, financial results or levels of activity, performance or achievements, and you are cautioned not to place undue reliance upon them. These forward-looking statements are subject to a number of estimates and assumptions, and known and unknown risks, uncertainties and other factors. Our actual results may vary materially from those discussed in the forward-looking statements included herein as a result of the factors discussed under 
+Item 1A—Risk Factors
+, and the following important factors:
+
+•
+
+the decisions of governmental and regulatory bodies, including decisions to raise or lower customer rates;
+
+•
+
+the timeliness and outcome of regulatory commissions’ actions concerning rates, capital structure, authorized return on equity, capital investment, system acquisitions, taxes, permitting and other decisions;
+
+•
+
+changes in customer demand for, and patterns of use of, water, such as may result from conservation efforts;
+
+•
+
+limitations on the availability of our water supplies or sources of water, or restrictions on our use thereof, resulting from allocation rights, governmental or regulatory requirements and restrictions, drought, overuse or other factors;
+
+•
+
+changes in laws, governmental regulations and policies, including with respect to environmental, health and safety, water quality and emerging contaminants, public utility and tax regulations and policies, and impacts resulting from U.S., state and local elections;
+
+•
+
+weather conditions and events, climate variability patterns, and natural disasters, including drought or abnormally high rainfall, prolonged and abnormal ice or freezing conditions, strong winds, coastal and intercoastal flooding, earthquakes, landslides, hurricanes, tornadoes, wildfires, electrical storms and solar flares;
+
+•
+
+the outcome of litigation and similar governmental proceedings, investigations or actions, including matters related to the Freedom Industries chemical spill in West Virginia and the preliminarily approved global class action settlement agreement related to this chemical spill;
+
+•
+
+our ability to appropriately maintain current infrastructure, including our operational and information technology (“IT”) systems, and manage the expansion of our business;
+
+•
+
+exposure or infiltration of our critical infrastructure, operational technology and IT systems, including the disclosure of sensitive or confidential information contained therein, through physical or cyber attacks or other means;
+
+•
+
+our ability to obtain permits and other approvals for projects;
+
+•
+
+changes in our capital requirements;
+
+•
+
+our ability to control operating expenses and to achieve efficiencies in our operations;
+
+•
+
+the intentional or unintentional actions of a third party, including contamination of our water supplies or water provided to our customers;
+
+•
+
+our ability to obtain adequate and cost-effective supplies of chemicals, electricity, fuel, water and other raw materials that are needed for our operations;
+
+•
+
+our ability to successfully meet growth projections for our business and capitalize on growth opportunities, including our ability to, among other things, acquire and integrate water and wastewater systems into our regulated operations, and enter into contracts and other agreements with, or otherwise obtain, new customers in our market-based businesses;
+
+•
+
+risks and uncertainties associated with contracting with the U.S. government, including ongoing compliance with applicable government procurement and security regulations;
+
+1
+
+Table of Contents
+
+•
+
+cost overruns relating to improvements in or the expansion of our operations;
+
+•
+
+our ability to maintain safe work sites;
+
+•
+
+our exposure to liabilities related to environmental laws and similar matters resulting from, among other things, water and wastewater service provided to customers, including, for example, our water service and management solutions that are focused on customers in the natural gas exploration and production market;
+
+•
+
+changes in general economic, political, business and financial market conditions;
+
+•
+
+access to sufficient capital on satisfactory terms and when and as needed to support operations and capital expenditures;
+
+•
+
+fluctuations in interest rates;
+
+•
+
+restrictive covenants in or changes to the credit ratings on us or our current or future debt that could increase our financing costs or funding requirements or affect our ability to borrow, make payments on debt or pay dividends;
+
+•
+
+fluctuations in the value of benefit plan assets and liabilities that could increase our cost and funding requirements;
+
+•
+
+changes in federal or state general, income and other tax laws, including any further rules, regulations, interpretations and guidance by the U.S. Department of the Treasury and state or local taxing authorities (collectively, the “Related Interpretations”) related to the enactment of the Tax Cuts and Jobs Act (the “TCJA”), the availability of tax credits and tax abatement programs, and our ability to utilize our U.S. federal and state income tax net operating loss (“NOL”) carryforwards;
+
+•
+
+migration of customers into or out of our service territories;
+
+•
+
+the use by municipalities of the power of eminent domain or other authority to condemn our systems, or the assertion by private landowners of similar rights against us;
+
+•
+
+difficulty or inability to obtain insurance, our inability to obtain insurance at acceptable rates and on acceptable terms and conditions, or our inability to obtain reimbursement under existing insurance programs for any losses sustained;
+
+•
+
+the incurrence of impairment charges related to our goodwill or other assets;
+
+•
+
+labor actions, including work stoppages and strikes;
+
+•
+
+the ability to retain and attract qualified employees;
+
+•
+
+civil disturbances or terrorist threats or acts, or public apprehension about future disturbances or terrorist threats or acts; and
+
+•
+
+the impact of new, and changes to existing, accounting standards.
+
+These forward-looking statements are qualified by, and should be read together with, the risks and uncertainties set forth above and the risk factors included in 
+Item 1A—Risk Factors
+ and other statements contained in this Form 10-K, and you should refer to such risks, uncertainties and risk factors in evaluating such forward-looking statements. Any forward-looking statements we make speak only as of the date this Form 10-K was filed with the United States Securities and Exchange Commission (“SEC”). Except as required by the federal securities laws, we do not have any obligation, and we specifically disclaim any undertaking or intention, to publicly update or revise any forward-looking statements, whether as a result of new information, future events, changed circumstances or otherwise. New factors emerge from time to time, and it is not possible for us to predict all such factors. Furthermore, it may not be possible to assess the impact of any such factor on our businesses, either viewed independently or together, or the extent to which any factor, or combination of factors, may cause results to differ materially from those contained in any forward-looking statement. The foregoing factors should not be construed as exhaustive.
+
+2
+
+Table of Contents
+
+PART I
+
+ITEM 1.
+
+BUSINESS
+
+Our Company
+
+With a history dating back to 
+1886
+, American Water is the largest and most geographically diverse, publicly-traded water and wastewater utility company in the United States, as measured by both operating revenues and population served. A holding company originally incorporated in Delaware in 
+1936
+, we employ approximately 
+6,900
+ professionals who provide drinking water, wastewater and other related services to an estimated 
+15 million
+ people in 
+46
+ states, the District of Columbia and Ontario, Canada. The largest component of the Company’s business includes rate regulated subsidiaries that provide water and wastewater services, collectively presented as our “
+Regulated Businesses
+.” We conduct the majority of our business through the 
+Regulated Businesses
+ segment. We also operate several market-based businesses that provide a broad range of related and complementary water and wastewater services within 
+four
+ operating segments that individually do not meet the criteria of a reportable segment in accordance with generally accepted accounting principles in the United States (“GAAP”). These 
+four
+, non-reportable operating segments are collectively presented as our “
+Market-Based Businesses
+,” which is consistent with how management assesses the results of these businesses.
+
+Throughout this 
+Annual Report on Form 10-K
+ (this “Form 10-K”), unless the context otherwise requires, references to “we,” “us,” “our,” the “Company,” and “American Water” mean American Water Works Company, Inc. and its subsidiaries, taken together as a whole. References to “parent company” mean American Water Works Company, Inc., without its subsidiaries.
+
+Regulated Businesses
+
+Our primary business involves the ownership of utilities that provide water and wastewater services to residential, commercial, industrial, public authority, fire service and sale for resale customers. Our utilities operate in approximately 
+1,600
+ communities in 
+16
+ states in the United States, with approximately 
+3.4 million
+ active customer connections to our water and wastewater networks. Services provided by our utilities are generally subject to economic regulation by certain state utility commissions or other entities engaged in utility regulation, collectively referred to as Public Utility Commissions (“PUCs” or “Regulators”). Certain federal, state and local governments also regulate environmental, health and safety, and water quality matters. We report the results of the services provided by our utilities in our 
+Regulated Businesses
+ segment. Operating revenues for our 
+Regulated Businesses
+ were 
+$2,958 million
+ for 
+2017
+, 
+$2,871 million
+ for 
+2016
+ and 
+$2,743 million
+ for 
+2015
+, accounting for 
+88%
+, 
+87%
+ and 
+87%
+, respectively, of the Company’s total operating revenues for the same periods. 
+
+The following table geographically summarizes our 
+Regulated Businesses
+’ operating revenues and the number of customers we serve by type of service, each as of and for the year ended 
+December 31, 2017
+: 
+
+Operating Revenues (In millions)
+
+Number of Customers (In thousands)
+
+Water (a)
+
+Wastewater
+
+Total
+
+% of Total
+
+Water
+
+Wastewater
+
+Total
+
+% of Total
+
+New Jersey
+
+$
+
+698
+
+$
+
+41
+
+$
+
+739
+
+25.0
+
+%
+
+639
+
+48
+
+687
+
+20.5
+
+%
+
+Pennsylvania
+
+617
+
+44
+
+661
+
+22.3
+
+%
+
+658
+
+64
+
+722
+
+21.5
+
+%
+
+Illinois
+
+284
+
+20
+
+304
+
+10.3
+
+%
+
+284
+
+33
+
+317
+
+9.5
+
+%
+
+Missouri
+
+280
+
+9
+
+289
+
+9.8
+
+%
+
+466
+
+13
+
+479
+
+14.3
+
+%
+
+Indiana
+
+222
+
+—
+
+222
+
+7.5
+
+%
+
+302
+
+—
+
+302
+
+9.0
+
+%
+
+California
+
+219
+
+3
+
+222
+
+7.5
+
+%
+
+175
+
+3
+
+178
+
+5.3
+
+%
+
+West Virginia
+
+143
+
+1
+
+144
+
+4.9
+
+%
+
+166
+
+1
+
+167
+
+5.0
+
+%
+
+Total - Top Seven States 
+(b) 
+
+2,463
+
+118
+
+2,581
+
+87.3
+
+%
+
+2,690
+
+162
+
+2,852
+
+85.1
+
+%
+
+Other states 
+(c)
+
+353
+
+24
+
+377
+
+12.7
+
+%
+
+470
+
+31
+
+501
+
+14.9
+
+%
+
+Total Regulated Businesses
+
+$
+
+2,816
+
+$
+
+142
+
+$
+
+2,958
+
+100.0
+
+%
+
+3,160
+
+193
+
+3,353
+
+100.0
+
+%
+
+(a)
+
+Includes Other operating revenues, consisting primarily of fees, miscellaneous service charges and rents.
+
+(b)
+
+Our “Top Seven States” are determined based upon operating revenues.
+
+(c)
+
+Includes our utilities in the following states: Georgia, Hawaii, Iowa, Kentucky, Maryland, Michigan, New York, Tennessee and Virginia.
+
+See 
+Item 7—Management’s Discussion and Analysis of Financial Condition and Results of Operations
+ and 
+Note 19—Segment Information
+ in the Notes to Consolidated Financial Statements for additional information.
+
+3
+
+Table of Contents
+
+Customers
+
+Our 
+Regulated Businesses
+ have a large and geographically diverse customer base. A customer is defined as a person, business, municipality or any other entity that purchases our water or wastewater services as of the last business day of a reporting period. One single customer may purchase our services for use by multiple individuals or businesses, as is the case in many homes, apartment complexes, businesses and governmental entities. 
+
+The vast majority of our regulated water customers are metered, which allows us to measure and bill for our customers’ water usage, typically on a monthly basis. We employ a variety of methods of customer meter reading to monitor consumption. These methods range from meters with mechanical registers where consumption is manually recorded by meter readers, to meters with electronic registers capable of transmitting consumption data to proximity devices (touch read) or via radio frequency to mobile or fixed network data collectors. Our wastewater customers are billed either a flat rate or based upon their water consumption.
+
+Residential customers make up a substantial portion of our customer base in all of the states in which we operate. We also serve: (i) commercial customers, such as hospitals, food and beverage providers and energy suppliers; (ii) industrial customers, such as large-scale manufacturers, mining and production operations; and (iii) public authorities, such as government buildings and other public sector facilities, including schools. In addition, we supply water through our distribution systems to public fire hydrants for firefighting purposes, to private fire customers for use in fire suppression systems in office buildings and other facilities, and to other water utilities and community water systems in the form of bulk water supplies for distribution to their own customers.
+
+The following chart depicts the allocation of our 
+Regulated Businesses
+’ operating revenue by type, including a breakout of the total water services revenues by class of customer, for the year ended 
+December 31, 2017
+:
+
+4
+
+Table of Contents
+
+The following table summarizes the number of water and wastewater customers we served by class as of December 31:
+
+2017
+
+2016
+
+2015
+
+(In thousands)
+
+Water
+
+Wastewater 
+(a)
+
+Water
+
+Wastewater
+
+Water
+
+Wastewater
+
+Residential 
+
+2,872
+
+182
+
+2,846
+
+171
+
+2,829
+
+133
+
+Commercial
+
+221
+
+11
+
+220
+
+10
+
+219
+
+8
+
+Industrial
+
+4
+
+—
+
+4
+
+—
+
+4
+
+—
+
+Public & other
+
+63
+
+—
+
+61
+
+—
+
+60
+
+—
+
+Total
+
+3,160
+
+193
+
+3,131
+
+181
+
+3,112
+
+141
+
+(a)
+
+In 2017, we acquired substantially all of the wastewater collection and treatment system assets of the Municipal Authority of the City of McKeesport, Pennsylvania (the “McKeesport system”). This acquisition included approximately 
+22,000
+ customer equivalents in total; comprised of 
+11,000
+ customer connections, which are reflected in the 2017 residential customer count in the table above, as well as service to an additional 
+11,000
+ customers under bulk contracts to 
+13
+ municipalities in Allegheny County, Pennsylvania.
+
+Customer growth in our 
+Regulated Businesses
+ is primarily driven by: (i) adding new customers to our customer base through acquisitions of water and/or wastewater utility systems; (ii) organic population growth (or decline) in our authorized service areas; and (iii) sale of water to other water utilities and community water systems.
+
+Capital Investment 
+
+On an annual basis, approximately 
+2 trillion
+ gallons of treated water are lost in the United States through more than 
+240,000
+ main breaks at an estimated cost of 
+$2.6 billion
+. This represents approximately 
+20%
+ of all treated water in the country. In addition, every year approximately 
+900 billion
+ gallons of untreated sewage is discharged into the country’s rivers and streams. The aging water and wastewater infrastructure in the United States is in need of replacement and modernization. In 2017, the American Society of Civil Engineers published its 
+Report Card for America’s Infrastructure,
+ in which it gave the drinking water industry a grade of “D” and the wastewater infrastructure a grade of “D+,” primarily because much of the infrastructure is nearing the end of its useful life. As documented in the American Water Works Association’s (the “AWWA”) 
+Buried No Longer: Confronting America’s Water Infrastructure Challenge
+, restoring the country’s existing water systems as they reach the end of their useful lives and expanding them to serve a growing population will cost at least $1 trillion between 2011 and 2035, if we are to maintain current levels of water service. In addition, increased regulation related to water quality and the management of water and wastewater residuals’ discharges, which began with the passage of the Clean Water Act in 1972 and the Safe Drinking Water Act in 1974, is also a primary driver for the need to modernize.
+
+To address the growing infrastructure needs in the areas we serve, we plan to invest 
+$7.2 billion
+ over the next five years, including a range of 
+$1.4 billion
+ to 
+$1.5 billion
+ in 2018, for capital improvements to our Regulated Businesses’ water and wastewater infrastructure, largely aimed for pipe replacement and upgrading aging water and wastewater treatment facilities. We have proactively doubled our pipe renewal rate over a five year period, from 2011 to 2016, from a 250 year replacement cycle to a 120 year replacement cycle, which we anticipate will enable us to replace nearly 2,000 miles of mains and collection pipes over the next five years. In addition, during this same five year period, capital investment in treatment plants, storage tanks and other key, above-ground facilities has increased over 10%, further addressing aging infrastructure and emerging regulatory compliance needs. 
+
+Economic Regulation and Rate Making
+
+Our 
+Regulated Businesses
+ operate under a regulatory compact whereby, in exchange for exclusive rights to provide water and wastewater services in defined service territories, we have an obligation to serve customers within those territories requesting service, within reasonable limits. In return for agreeing to invest capital into our water and wastewater systems, we are given the opportunity to recover our costs of doing business and earn a reasonable rate of return on our investments.
+
+The operations of our 
+Regulated Businesses
+ are generally subject to economic regulation by PUCs in the state in which they operate, with the primary responsibility of the PUCs to promote the overall public interest by balancing the interest of customers and utility investors. Specific authority might differ from state to state, but in most states PUCs approve rates charged to customers, accounting treatments, long-term financing programs and cost of capital, capital expenditures, O&M expenses, taxes, transactions and affiliate relationships, reorganizations and mergers and acquisitions. Regulatory policies vary from state to state and could potentially change over time. These policies will affect the timing, as well as the extent, of recovery of expenses and the realized return on invested capital.
+
+5
+
+Table of Contents
+
+The process to obtain approval for a change in rates generally occurs by way of a rate case filed by the utility with the PUC on a periodic basis. The timing of rate case filings is typically determined by either periodic requirements in the regulatory jurisdiction or by the utility’s need to increase its revenue to recover capital investment costs, changes in operating revenues, operating costs or other market conditions. Our rate case management program is guided by the principles of obtaining timely recovery of capital investment costs, recognition of declining sales resulting from reduced consumption and appropriate recovery of utility operating and maintenance costs, including costs incurred for compliance with environmental regulations. The program attempts to minimize “regulatory lag,” the time between the occurrence of an event that triggers a change in the utility’s revenue requirement and its recognition in rates. It is, for example, the time between when an investment in plant is placed into service for the benefit of the customer and when the Company can begin earning a return of and on the investment through the ratemaking process. It also applies to the lag in the recognition in rate recovery of changes in expenses and revenues.
+
+Our 
+Regulated Businesses
+ support regulatory practices at the PUCs and state legislatures that mitigate the adverse impact of regulatory lag. Examples of approved regulatory practices include:
+
+Regulatory Practices
+
+Description
+
+States Allowed
+
+Infrastructure replacement surcharges
+
+Allows rates to change periodically, outside a general rate proceeding, to reflect recovery of investments made to replace infrastructure necessary to sustain safe, reliable services for our customers. These mechanisms typically involve periodic filings and reviews, to ensure transparency.
+
+IA, IL, IN, MO, NJ, NY, PA, TN, VA, WV
+
+Future test year
+
+A test period used for setting rates, that begins with the date new rates are effective. This allows current or projected revenues, expenses and investments to be collected on a timelier basis.
+
+CA, HI, IL, IN, KY, NY, PA, TN, VA
+
+Hybrid test year
+
+Allows an update to historical data for “known and measurable” changes that occur subsequent to the historical test year.
+
+IA, MD, MO, NJ, WV
+
+Utility plant recovery mechanisms
+
+Allows recovery of the full return on utility plant costs during the construction period, instead of capitalizing an allowance for funds used during construction. In addition, some states allow the utility to seek pre-approval of certain capital projects and associated costs. In this pre-approval process, the PUC may assess the prudency of such projects.
+
+CA, IL, KY, NY, PA, TN, VA
+
+Expense mechanisms
+
+Allows changes in certain operating expenses, which may fluctuate based on conditions beyond the utility’s control, to be recovered outside of a general rate proceeding or deferred until the next general rate proceeding.
+
+CA, IL, MD, MO, NJ, NY, PA, TN, VA, WV
+
+Revenue stability mechanisms
+
+Separates a water utility’s cost recovery from the amount of water it sells to recover its fixed costs and on-going infrastructure investment needs. Such a mechanism adjusts rates periodically to ensure that a utility’s revenue will be sufficient to cover its costs regardless of sales volume, including recognition of declining sales resulting from reduced consumption, while providing an incentive for customers to use water more efficiently.
+
+CA, IL, NY
+
+Consolidated tariffs
+
+Use of a unified rate structure for water systems owned and operated by a single utility, which may or may not be physically interconnected. The consolidated tariff pricing structure may be used fully or partially in a state and is generally used to prioritize capital investments and moderate the impact of periodic fluctuations in local costs while lowering administrative costs for customers. Pennsylvania also permits a blending of water and wastewater revenue requirements.
+
+IA, IL, IN, KY, MD, MO, NJ, PA, VA, WV
+
+We pursue or seek enhancement to these regulatory practices to facilitate efficient recovery of our costs and investments in order to continue to provide safe, reliable and affordable services to our customers. The ability to seek regulatory treatment as described above does not guarantee that the state PUCs will accept our proposal in the context of a particular rate case, and these practices may reduce, but not eliminate, regulatory lag associated with traditional rate making processes. It is also our strategy to expand their use in areas where they may not currently apply. 
+
+6
+
+Table of Contents
+
+Acquisitions and Strategic Growth
+
+The U.S. water and wastewater industries include investor-owned systems as well as municipal systems that are owned and operated by local governments or governmental subdivisions. Both industries are highly fragmented. According to the Environmental Protection Agency (“EPA”), approximately 
+84%
+ of the United States water market is served by municipal systems and approximately 
+98%
+ of the country’s wastewater systems are government owned. The EPA also estimates that there are approximately 
+50,000
+ community water systems and approximately 
+20,000
+ community wastewater systems in the United States, with over half of the community water systems serving a population of 
+500
+ or less. This large number of relatively small, fragmented water and wastewater systems may result in inefficiencies in the marketplace, since such utilities may not have the operating expertise, financial and technological capability or economies of scale to provide services or raise capital as efficiently as larger utilities. Larger utilities that have greater access to capital are generally more capable of making mandated and other necessary infrastructure upgrades to their water and wastewater systems. In addition, water and wastewater utilities with large customer bases, spread across broad geographic regions, may more easily absorb the impact of significant variations in precipitation and temperatures, such as droughts, excessive rain and cool or warm temperatures in specific areas. Larger utilities generally are able to spread support services over a larger customer base, thereby reducing the costs to serve each customer. Since many administrative and support activities can be efficiently centralized to gain economies of scale, companies that participate in industry consolidation have the potential to improve operating efficiencies, lower costs per unit and improve service at the same time.
+
+A fundamental aspect of our growth strategy is to pursue acquisitions of small and medium water and/or wastewater systems of between 1,000 and 30,000 customer connections, in close geographic proximity to areas where we operate our 
+Regulated Businesses
+. The close proximity of acquisition opportunities to our regulated footprint allows us to integrate and manage the acquired systems and operations primarily using our existing management and to achieve operational efficiencies and prioritize capital investment needs. Our current customer mix of 
+94%
+ water and 
+6%
+ wastewater also presents strategic opportunities for wastewater growth and systems consolidation, adding wastewater customers where we already serve water customers. We intend to continue to expand our regulated footprint geographically by acquiring water and wastewater systems in our existing markets and, if appropriate, pursue acquisition opportunities in certain domestic markets where we do not currently operate our 
+Regulated Businesses
+. Before entering new regulated markets, we will evaluate the business and regulatory climates to ensure that we will have the opportunity to achieve an appropriate rate of return on our investment while maintaining our high standards for providing safe, reliable and affordable services to our customers, as well as a line of sight to grow our base customers to a significant level to attain efficiencies after entering the new market. 
+
+More stringent environmental, health and safety, and water quality regulations, the amount of infrastructure in need of significant capital investment and financial challenges are driving more municipalities to consider selling their water and wastewater assets. For example, in 2015, New Jersey enacted the Water Infrastructure Protection Act, which allows municipalities with a water or wastewater system that meets certain emergent conditions, to allow it to sell the system on an expedited basis without a referendum. Also, in 2017, New Jersey enacted the Water Quality Accountability Act, which sets new operational standards for all water utilities in New Jersey, including municipal and investor-owned utilities. This law imposes new requirements in areas such as cybersecurity, asset management, water quality reporting, remediation of notices of violation, and hydrant and valve maintenance.
+
+We also support full optionality for municipalities, including state legislation that enables the consolidation of the largely fragmented water and wastewater industries through fair market valuations of purchased property and the consolidation of water and wastewater rates. Our 
+Regulated Businesses
+ in California, Illinois, Indiana, Missouri, New Jersey and Pennsylvania have access to fair market value legislation for private sector investment in public sector systems. Fair market value assessment of water and wastewater systems is an alternative to the traditional depreciated original cost method of valuation, providing municipalities with a fair and objective purchase price that is more reflective of the assets’ value, while the utility has increased assurance of recovering investment over the life of the assets. Ultimately, we believe that many communities could benefit from receiving safe and reliable water and wastewater service from an experienced utility with proven access to capital and financial, technical, and managerial resources.
+
+Consolidated tariffs use a unified rate structure for systems owned and operated by a single utility, which may or may not be physically interconnected. Consolidated tariff pricing moderates the impact of periodic fluctuations in local costs and promotes a more universal water infrastructure investment in the state. As a result, consolidated tariffs can make it easier to incorporate new systems into an existing utility and can ensure economies of scale for even the smallest of systems and prioritize capital needs across the state. Overall, this brings cost-effective, higher quality services to a larger number of citizens. Ten of our regulated subsidiaries currently have some form of consolidated tariff pricing, including Illinois, Indiana, Iowa, Kentucky, Maryland, Missouri, New Jersey, Pennsylvania, Virginia, and West Virginia. 
+
+7
+
+Table of Contents
+
+Competition
+
+In our 
+Regulated Businesses
+, we generally do not face direct competition in our existing markets because: (i) we operate in those markets pursuant to certificates of public convenience and necessity (or similar authorizations) issued by state PUCs; and (ii) the high cost of constructing a new water and wastewater system in an existing market creates a high barrier to market entry. However, our 
+Regulated Businesses
+ do face competition from governmental agencies, other investor-owned utilities, large industrial customers with the ability to provide their own water supply/treatment process and strategic buyers that are entering new markets and/or making strategic acquisitions. When pursuing acquisitions, our largest investor-owned competitors, based on a comparison of operating revenues and population served, are Aqua America, Inc., Suez North America, American States Water Company and California Water Service Group. From time to time, we also face competition from infrastructure funds, multi-utility companies and others, such as Algonquin Power and Utilities Corp. and Corix.
+
+Condemnation and Eminent Domain
+
+All or portions of our 
+Regulated Businesses
+’ utility assets could be acquired by state, municipal or other government entities through one or more of the following methods: (i) eminent domain (also known as condemnation); (ii) the right of purchase given or reserved by a municipality or political subdivision when the original certificate of public convenience and necessity was granted; and (iii) the right of purchase given or reserved under the law of the state in which the utility subsidiary was incorporated or from which it received its certificate. The acquisition consideration related to such a proceeding initiated by a local government may be determined consistent with applicable eminent domain law, or may be negotiated or fixed by appraisers as prescribed by the law of the state or in the particular franchise or charter. 
+
+Furthermore, the law in certain jurisdictions in which our 
+Regulated Businesses
+ operate, including, for example, California, provides for eminent domain rights allowing private property owners to seek just compensation against a public utility, if a public utility’s infrastructure has been determined to be a substantial cause of damage to that property. In these actions, the plaintiff would not have to prove that the public utility acted negligently. These actions have occurred in connection with events such as floods, mudslides and debris flow, broken water mains, landslides and wild and brush fires.
+
+Water Supply and Wastewater Services
+
+Our 
+Regulated Businesses
+ generally own the physical assets used to store, pump, treat and deliver water to our customers and collect, treat, transport and recycle wastewater. Typically, we do not own the water itself, which is held in public trust and is allocated to us through contracts, permits and allocation rights granted by federal and state agencies or through the ownership of water rights pursuant to local law. We are dependent on defined sources of water supply and obtain our water supply from surface water sources such as reservoirs, lakes, rivers and streams; from groundwater sources, such as wells and aquifers; and water purchased from third party water suppliers. The level of treatment we apply to the water varies significantly depending upon the quality of the water source and customer stipulations. Surface water sources typically generally require significant treatment, while groundwater sources require chemical treatment only.
+
+8
+
+Table of Contents
+
+The following chart depicts our sources of water supply as of 
+December 31, 2017
+: 
+
+The percentages of water supply by source type for our top seven states for 
+2017
+ were as follows:
+
+Surface Water
+
+Ground Water
+
+Purchased Water
+
+New Jersey
+
+72%
+
+24%
+
+4%
+
+Pennsylvania
+
+91%
+
+7%
+
+2%
+
+Illinois
+
+53%
+
+36%
+
+11%
+
+Missouri
+
+80%
+
+19%
+
+1%
+
+Indiana
+
+44%
+
+56%
+
+—
+
+California
+
+—
+
+65%
+
+35%
+
+West Virginia
+
+100%
+
+—
+
+—
+
+Our ability to meet the existing and future water demands of our customers depends on an adequate water supply. Drought, governmental restrictions, overuse of sources of water, the protection of threatened species or habitats, contamination or other factors may limit the availability of ground and surface water. We employ a variety of measures in an effort to obtain adequate sources of water supply, both in the short-term and over the long-term. The geographic diversity of our service areas may mitigate some of the economic effects on the water supply associated with weather extremes we might encounter in any particular service territory. For example, in any given summer, some areas may experience drier than average weather, which may reduce the amount of source water available, while other areas we serve may experience wetter than average weather.
+
+9
+
+Table of Contents
+
+In our long-term planning, we evaluate quality, quantity, growth needs and alternate sources of water supply as well as transmission and distribution capacity. Water supply is seasonal in nature and weather conditions can have a pronounced effect on supply. In order to ensure that we have adequate water supply, we use long-term planning processes and maintain contingency plans to minimize the potential impact on service caused by climate variability and a wide range of weather fluctuations. In connection with supply planning for most surface or groundwater sources, we employ models to determine safe yields under different rainfall and drought conditions. Surface and ground water levels are routinely monitored so that supply capacity deficits may, to the extent possible, be predicted and mitigated through demand management and additional supply development. An example of our use of long-term planning to ensure that we have adequate water supply is our involvement in the Monterey Peninsula Water Supply Project (the “Water Supply Project”) in California. The Water Supply Project includes the construction of a desalination plant, owned by California-American Water Company (“Cal Am”), our wholly owned subsidiary, and the construction of wells that would supply water to the desalination plant. In addition, the Water Supply Project also includes Cal Am’s purchase of water from a groundwater replenishment project between the Monterey Regional Water Pollution Control Agency and the Monterey Peninsula Water Management District (the “MPWMD”). The Water Supply Project is intended, among other things, to fulfill obligations of Cal Am to eliminate unauthorized diversions from the Carmel River as required under orders of the California State Water Resources Control Board (the “SWRCB”).
+
+Wastewater services involve the collection of wastewater from customers’ premises through sewer lines. The wastewater is then transported through a sewer network to a treatment facility, where it is treated to meet required regulatory standards for wastewater before being returned to the environment. The solid waste by-product of the treatment process is disposed of or recycled in accordance with applicable standards and regulations.
+
+Seasonality
+
+Customer demand for our water service is affected by weather and tends to vary with temperature, rainfall levels and the frequency of rainfall. Customer demand is generally greater during the warmer months, primarily due to increased water usage for irrigation systems and other outdoor water use. As such, we typically expect our operating revenues to be the highest in the third quarter of each year. Weather that is hotter and drier than average generally increases operating revenues whereas, weather that is cooler and/or wetter than average generally serves to suppress customer water demand and can reduce water operating revenues. Three of our jurisdictions, California, Illinois and New York, have adopted revenue stability mechanisms which permit us to collect state PUC-authorized revenue for a given period which is not tied to the volume of water sold during that period, thereby lessening the impact of weather variability. See “
+Economic Regulation and Rate Making
+” for additional information regarding revenue stability mechanisms.
+
+Market-Based Businesses
+
+Through our 
+Market-Based Businesses
+, we provide a broad range of related and complementary water and wastewater services to military bases, municipalities, gas exploration and production companies, as well as commercial, industrial and residential customers. These businesses are not subject to economic regulation by state PUCs and the services provided do not require significant capital investment. Operating revenues for our 
+Market-Based Businesses
+ were 
+$422 million
+ for 
+2017
+, 
+$451 million
+ for 
+2016
+ and 
+$434 million
+ for 
+2015
+, accounting for 
+13%
+, 
+14%
+ and 
+14%
+, respectively, of the Company’s total operating revenues for the same periods. Included within our 
+Market-Based Businesses
+’ results is operating revenues attributed to Canadian operations of 
+$5 million
+ for 
+2017
+ and 
+$6 million
+ for both 
+2016
+ and 
+2015
+, respectively.
+
+Our 
+Market-Based Businesses
+ are comprised of 
+four
+ operating segments:
+
+•
+
+Military Services Group, which enters into long-term contracts with the U.S. government to provide water and wastewater services on various military bases;
+
+•
+
+Homeowner Services Group, which provides warranty-type services to homeowners and smaller commercial customers to protect against the cost of repairing broken or leaking water pipes and clogged or blocked sewer pipes on their premises, and other services;
+
+•
+
+Contract Operations Group, which enters into contracts with municipal, commercial and industrial customers, primarily to operate and manage water and wastewater facilities and other related services; and
+
+•
+
+Keystone Clearwater Solutions, LLC (“Keystone”), which provides customized water service and management solutions for natural gas exploration and production companies and customers in the municipal water services market.
+
+10
+
+Table of Contents
+
+Military Services Group
+
+Our Military Services Group has been granted contracts to operate on 
+13
+ military bases under 50-year contracts with the U.S. government as part of its Utility Privatization Program. See 
+Item 7—Management’s Discussion and Analysis of Financial Condition and Results of Operations
+—Strategic Focus and 2017 Achievements—Growth for additional information. The scope of these contracts generally includes the O&M of the bases’ water and wastewater systems and a capital program focused on asset replacement and, in certain instances, systems expansion. The replacement of assets assumed when a contract is awarded to the Company is funded from the contract fee. At times, new assets are required to support the base’s mission and the construction of these assets are funded by the U.S. government as additional work under the contract. The current capital program does not use the Company’s equity or debt borrowings; however, we may make limited short-term working capital investments under these contracts and some working capital is used to fund work-in-process until paid by the U.S. government.
+
+The contract price for
+
+nine
+ of our contracts with the U.S. government is subject to redetermination two years after commencement of operations, and every three years thereafter. Price redetermination is a contract mechanism to periodically adjust the service fee in the next period to reflect changes in contract obligations and anticipated market conditions. The remaining 
+four
+ contracts with the U.S. government are subject to annual price adjustments under a mechanism similar to price redetermination, called “Economic Price Adjustment.” All of these contracts may be terminated, in whole or in part, prior to the end of the 50-year term for convenience of the U.S. government or as a result of default or non-performance by the subsidiary performing the contract. In either event, pursuant to termination provisions applicable to these contracts, we would be entitled to recover allowable costs that we may have incurred under the contract, plus the contract profit margin on incurred costs. Our backlog of revenue associated with our contracts with the U.S. government is approximately
+
+$3.6 billion
+, with an average remaining contract term of 42 years.
+
+Homeowner Services Group 
+
+Our Homeowner Services Group, through our various protection programs, provides services to domestic homeowners and smaller commercial customers to protect against repair costs for interior and external water and sewer lines, interior electric lines, heating and cooling systems and water heaters, as well as power surge protection and other related services. Our LineSaver™ program involves partnering with utilities, municipalities and other organizations to offer our protection programs to customers serviced by or affiliated with those municipalities and organizations. Terms of these partnership agreements are typically three to five years in length, with optional renewals. As of 
+December 31, 2017
+, our Homeowner Services Group had approximately 
+1.7 million
+ customer contracts in 
+43
+ states and the District of Columbia, and 
+10
+ LineSaver™ partnership agreements with municipalities and other organizations.
+
+Contract Operations Group 
+
+Our Contract Operations Group enters into contracts to provide O&M services, including the delivery of design-build-operate projects and the provision of water and wastewater operations, maintenance and management services, to municipal and regional governmental entities through public-private partnerships, as well as industrial customers who possess a wide range of water quality and regulatory compliance needs. Historically, we have made minimal long-term capital investment under these contracts; instead we perform our services for a fee. Occasionally, we provide our customers with financing for capital projects as part of a long-term O&M partnership. As of 
+December 31, 2017
+, our Contract Operations Group had 
+33
+ contracts across the United States and Canada, varying in size and scope, with an average remaining contract term of 3
+
+years. In the course of pursuing our long-term strategy and growth initiatives for our Market-Based Businesses, we will concentrate on optimizing the portfolio of contracts in our Contract Operations Group, which will involve strategic decisions around the pursuit of renewals of our current contracts approaching expiration, as well as the sale of certain contracts that fall outside of our strategic focus.
+
+Keystone
+
+In July 2015, we acquired a 
+95%
+ interest in Water Solutions Holdings, LLC, including its wholly owned subsidiary, Keystone. Keystone is a water service and management solutions company that serves natural gas exploration and production customers in the Appalachian Basin, as well as customers in the municipal water services market. Keystone is primarily focused on customized water transfer, sourcing, recycling and storage services, along with pipeline construction and related O&M services. Keystone operates under master service agreements that are generally shorter term in nature. When the initial term of these agreements expire, they typically renew automatically on an annual basis and generally are cancelable by either party with 30 days prior notice. As of 
+December 31, 2017
+, Keystone serves approximately 
+35
+ customers.
+
+11
+
+Table of Contents
+
+Competition 
+
+We face competition in our 
+Market-Based Businesses
+ from a number of service providers, including American States Water Company, Suez North America, and Veolia Environnement S.A. in our Military Services Group, and Pivotal Home Solutions (owned by Southern Company Gas) and HomeServe USA in our Homeowner Services Group. Our Contract Operations Group competes in a highly competitive market in order to secure new O&M contracts, as these contracts are awarded based on a combination of customer relationships, service levels, competitive pricing, references and technical expertise. We also face competition in maintaining existing O&M contracts to which we are a party, as the municipal and industrial fixed term contracts frequently come up for renegotiation and are subject to an open bidding process. Competitors of our Contract Operations Group include Suez North America, Veolia Environnement S.A., Inframark, LLC and Woodard & Curran. Keystone currently faces competition from water service providers that typically provide particular segments of the water management cycle, such as Select Energy Services, Inc., TETRA Technologies, Inc. and Fluid Delivery Solutions, LLC.
+
+Environmental, Health and Safety, and Water Quality Regulation 
+
+Our water and wastewater operations, including the services provided by both our 
+Regulated Businesses
+ and 
+Market-Based Businesses
+, are subject to extensive federal, state and local laws and regulations, and in the case of our Canadian operations, Canadian laws and regulations governing the protection of the environment, health and safety, the provision of water and wastewater services, particularly with respect to the quality of water we deliver to our customers, and the manner in which we collect, treat, discharge, recycle and dispose of wastewater. These regulations include the Safe Drinking Water Act, the Lead and Copper Rule (“LCR”), the Reduction of Lead in Drinking Water Act and the Clean Water Act. We are subject to various federal, state, local and Canadian laws and regulations governing the storage of hazardous materials, the management and disposal of hazardous and solid wastes, discharges to air and water, the cleanup of contaminated sites, dam safety and other matters relating to the protection of the environment and health and safety. State PUCs also set conditions and standards for the water and wastewater services we deliver.
+
+Environmental, health and safety, and water quality regulations are complex and change frequently. For example, in 2017, the New Jersey Department of Environmental Protection announced that it would seek to adopt more stringent maximum contaminant levels for perfluorooctoanic acid, or PFOA, and perfluorononanoic acid, or PFNA. The overall trend has been that they have become increasingly stringent over time. As newer or stricter standards are introduced, our capital and operating costs could increase. We incur substantial costs associated with compliance with the environmental, health and safety, and water quality standards to which our operations are subject. In the past, our 
+Regulated Businesses
+ have generally been able to recover the costs associated with compliance; however, this recovery is affected by regulatory lag and the corresponding uncertainties surrounding rate recovery. We estimate that we will make capital expenditures of 
+$96 million
+ during 
+2018
+ and 
+$138 million
+ during 
+2019
+ for environmental control facilities, which we define for this purpose as any project (or portion thereof) that involves the preservation of air, water or land. We also maintain an environmental program that includes responsible business practices, compliance with environmental laws and regulations, and effective use of natural resources. We believe that our operations are materially in compliance with, and in many cases surpass, minimum standards required by applicable environmental laws and regulations. 
+
+Our operations also involve the use, storage and disposal of hazardous substances and wastes. For example, our water and wastewater treatment facilities store and use chlorine and other chemicals that generate wastes that require proper handling and disposal under applicable environmental requirements. We also could incur remedial costs in connection with any contamination relating to our operations or facilities or our off-site disposal of wastes. The Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (“CERCLA”), authorizes the EPA, and comparable state laws authorize state environmental authorities, to issue orders and bring enforcement actions to compel responsible parties to investigate and take remedial actions at any site that is determined to present an actual or potential threat to human health or the environment because of an actual or threatened release of one or more hazardous substances. Parties that generated or transported hazardous substances to such sites, as well as the owners and operators of such sites, may be deemed liable, without regard to fault, under CERCLA or comparable state laws. Although we are not aware of any material cleanup or decontamination obligations, the discovery of contamination or the imposition of such obligations in the future could result in additional costs. Our facilities and operations are also subject to requirements under the U.S. Occupational Safety and Health Act and inspections thereunder. Certain of our subsidiaries are involved in pending legal proceedings relating to environmental matters. See 
+Item 3—Legal Proceedings
+ for additional information.
+
+Safe Drinking Water Act
+
+The Safe Drinking Water Act and related regulations establish national quality standards for drinking water. The EPA has issued rules governing the levels of numerous, naturally occurring and man-made chemical and microbial contaminants and radionuclides allowable in drinking water, and continues to propose new rules. These rules also prescribe testing requirements for detecting regulated contaminants, the treatment systems that may be used for removing those contaminants, and other requirements. To date, the EPA has set standards for approximately 90 contaminants and indicators for drinking water, and there is a process in place to make a regulatory determination on at least five additional compounds every five years.
+
+12
+
+Table of Contents
+
+To help formulate the basis for future regulations, the EPA has the authority to require monitoring for additional, unregulated contaminants under the Unregulated Contaminant Monitoring Rule (the “Rule”). Our laboratory and many of our treatment systems are preparing for the fourth round of testing under the Rule, which will begin in 2018. There are thousands of other chemical compounds that are not regulated, many of which are lacking a testing methodology, occurrence data, health effects information and/or treatment technology. The process of developing new drinking water standards is long and complex, but we actively participate with the EPA and other water industry groups by sharing research and water quality operational knowledge. See Item 1—Business—Research and Development—Emerging Containments for further discussion.
+
+To effect the removal or inactivation of microbial organisms, the EPA has established various rules to improve the disinfection and filtration of drinking water and to reduce consumers’ exposure to disinfectants and by-products of the disinfection process. In 2006, the EPA issued the Long-Term 2 Enhanced Surface Water Treatment Rule and the Stage 2 Disinfectants and Disinfection Byproduct Rule and, later in 2006, finalized the Ground Water Rule, applicable to systems providing water from underground sources. In 2016, the revised Total Coliform Rule implemented a “find and fix” process where exceeding bacterial trigger levels requires an assessment to correct any sanitary defects. We are within the EPA’s time frame for compliance of these standards, which includes sample collection, data analysis, engineering planning and system implementation. Recent monitoring under the Long-Term 2 Rule has resulted in the need for more than 30 of our surface water systems to provide additional protection against cryptosporidium. In most cases, this will involve installing UV disinfection at an estimated cost ranging from $150 million to $250 million. Further, the EPA is actively considering regulations for a number of contaminants, including strontium, hexavalent chromium, fluoride, nitrosamines, perchlorate, some pharmaceuticals and certain volatile organic compounds. We do not anticipate that any such regulations, if enacted, will require implementation in 2018.
+
+Across the Company, we conduct over one million water quality tests each year at our laboratory facilities and plant operations, including continuous on-line instrumentations such as monitoring turbidity levels, disinfectant residuals and adjustments to chemical treatment based on changes in incoming water. We participate in the Partnership for Safe Water, the EPA’s voluntary program to meet more stringent goals for reducing microbial contaminants. With 
+68
+ of our 
+72
+ surface water treatment plants receiving the EPA program’s “Director” award, which recognizes utilities that: (i) have completed a comprehensive self-assessment report; (ii) created an action plan for continuous improvement; and (iii) produced high quality drinking water, we account for approximately one-third of the plants receiving such awards nationwide. In addition, 
+66
+ of our surface water treatment plants have received the “Five-Year Phase III” award, 
+61
+ plants have received the “Ten-Year Phase III” award and 
+54
+ plants have received the “Fifteen-Year Phase III” award; these awards recognize plants that have met the Director award status for five, 10 and 15 years, respectively. Further, 
+nine
+ of our surface water plants have received the “Presidents” award, which recognizes treatment plants that achieve the Partnership’s rigorous individual filter effluent turbidity standards.
+
+Although it is difficult to project the ultimate costs of complying with the above or other pending or future requirements, we expect current requirements under the Safe Drinking Water Act and other similar laws to be recoverable through the regulatory process and therefore compliance costs are not expected to have a material impact on our operations or financial condition. In addition, capital expenditures and operating costs to comply with environmental mandates have been traditionally recognized by the state PUCs as appropriate for inclusion in establishing rates. As a result, we expect to recover the operating and capital costs resulting from these pending or future requirements.
+
+Lead and Copper Rule and Lead in Drinking Water Act
+
+Across the country, there is a renewed focus on the potential risk of lead in drinking water. In 1991, the EPA published the LCR to control lead and copper in drinking water and, since that time, has issued minor revisions in 2000, 2004 and 2007, enhancing monitoring, reporting and public education requirements. In 2011, Congress enacted the Reduction of Lead in Drinking Water Act regarding the use and introduction into commerce of lead pipes, plumbing fittings for fixtures, solder and flux. While these advances have made an impact in reducing lead exposure in drinking water, legacy lead plumbing materials, primarily in building plumbing, still remain in many communities. The EPA is currently working to develop long-term revisions to the LCR, with a revised draft likely in 2018. It is currently estimated that approximately 5% of our service lines contain lead. We have reviewed our related practices and are working with stakeholders to develop feasible solutions to remove legacy lead from service lines in older neighborhoods. A fundamental step in this effort is the ongoing project to inventory lead service lines across our footprint. Our goal is to replace our lead service lines in most areas over an approximate 10 year time frame, at an estimated cost ranging from $600 million to $1.2 billion. In cases where we are replacing an American Water owned lead service line, our standard approach will be to replace the company-owned portion of the service line, and work with the customer to replace the customer-owned portion of the service line. Replacing the full service line is considered a best practice as advised by the Lead Service Line Replacement Collaborative, an association of leading water industry organizations. The prioritization of this work will depend on several factors, including our planned water main and service line renewal projects, adjacent projects by municipalities or other utilities, LCR compliance monitoring results and cooperation with our customers with respect to the customer-owned portion of the service line.
+
+13
+
+Table of Contents
+
+Clean Water Act
+
+The Clean Water Act regulates discharges from drinking water and wastewater treatment facilities into lakes, rivers, streams and groundwater. In addition to requirements applicable to our wastewater collection systems, our operations require discharge permits under the National Pollutant Discharge Elimination System (“NPDES”) permit program established under the Clean Water Act, which must be renewed every five years. Pursuant to the NPDES permit program, the EPA and implementing states set maximum discharge limits for wastewater effluents and overflows from wastewater collection systems. Discharges that exceed the limits specified under NPDES permits can lead to the imposition of penalties, and persistent non-compliance could lead to significant penalties and compliance costs. In addition, the difficulty of obtaining and complying with NPDES permits, and renewing expiring permits, may impose time and cost burdens on our operations. From time to time, discharge violations occur at our facilities, some of which result in fines. We do not expect any such violations or fines to have a material impact on our results of operations or financial condition.
+
+Environmental, Social Responsibility and Governance 
+
+Integrating environmental, social responsibility and governance (“ESG”) policies and practices into our daily operations emphasizes our belief that the only way to do business is to do it responsibly, by delivering value to our customers, building strong communities, leveraging innovation to develop our industry and supporting the expertise and dedication of our people. This focus is derived from our vision statement, “clean water for life”, and our core values: (i) safety; (ii) trust; (iii) environmental leadership; (iv) teamwork; and (v) high performance, the principles by which we work and live. Our vision and values drive our company strategy, which is centered on five central themes: 
+
+•
+
+Customers—Our customers are at the center of everything we do, helping us to shape our strategic priorities. We challenge ourselves so that if our regulated utility customers had a choice of providers, we would want them to choose us. 
+
+•
+
+Safety—The safety of our employees and our customers is the number one focus for American Water. 
+
+•
+
+People—Maintaining an environment which is open, diverse and inclusive, and where our people feel valued, included and accountable is critical to our ability to serve our customers every day. 
+
+•
+
+Technology and Operational Efficiency—Our technology and operational efficiency strategy helps us to continually find better and more efficient ways to do business and provide the best services at affordable costs for our customers.
+
+•
+
+Growth—We believe that when companies grow, they can invest more in creating stable jobs, training, benefits, infrastructure and our communities. Growth, in turn, benefits all stakeholders. 
+
+In 2017, we issued our fourth biennial Corporate Responsibility Report, covering our performance in 2015 to 2016. Our first report was issued in 2011, making us the first large water services company to measure its performance against the Global Reporting Index. In addition, our sustainability practices have supported our inclusion in the Dow Jones Sustainability North America Index in 2012, 2013 and 2015, and we have also maintained our position in the Euronext Vigeo
+®
+
+ U.S. 50 index, which includes the 50 most advanced companies in the nation with respect to their environmental, social and governance performance, based on a review of hundreds of indicators.
+
+Highlights of our commitment to our ESG policies and practices, many of which are detailed in our most recent Corporate Responsibility Report, are summarized below:
+
+Environmental
+
+•
+
+Expect to spend between 
+$8.0 billion
+ and 
+$8.6 billion
+ on capital investments from 2018 to 2022, including: 
+
+•
+
+$7.2 billion
+ for regulated capital expenditures to address aging infrastructure, reduce/eliminate leaks, improve cyber/physical security, and increase resiliency of critical assets to climate variability; 
+
+•
+
+$600 million
+ to 
+$1.2 billion
+ to acquire financially distressed municipal water and wastewater systems which tend to have a strong need for capital investment; and
+
+•
+
+$200 million
+ for strategic capital investments with approximately 
+$164 million
+ focused on construction of our new corporate headquarters in Camden, New Jersey, as part of the revitalization effort in this community.
+
+•
+
+Lowered our greenhouse gas emissions by approximately 26% since our base year of 2007.
+
+•
+
+Reduced water use by 3.5 billion gallons year over year, through our conservation efforts and programs.
+
+•
+
+Recycled over 2 billion gallons of water annually and produced reuse water at 30 of our facilities.
+
+Social Responsibility
+
+•
+
+On average, more than 60,000 hours of safety training given annually to our employees.
+
+•
+
+Achieved top quartile in the water industry for customer satisfaction. 
+
+14
+
+Table of Contents
+
+•
+
+Increased our annual spend with Tier 1 diverse suppliers to over $385 million.
+
+•
+
+More than 4,000 hours of Company-sponsored community service performed annually by our employees.
+
+•
+
+Company-sponsored workplace giving campaigns with the United Way and Water For People, as well annual contributions from the American Water Charitable Foundation, focused on supporting employees in their own charitable endeavors, providing support for disaster relief efforts, and providing funding for initiatives related to clean water, conservation, education and community sustainability. 
+
+•
+
+Over 85% of our job requisitions had a diverse candidate pool, with more than 50% of transfers or promotions filled by minority, female, veteran or disabled individuals.
+
+Governance
+
+•
+
+Our Board of Directors is led by an independent, non-executive chairman, and has an average director tenure, including our two new directors, of approximately 6 years.
+
+•
+
+Including our two new directors, we have achieved gender parity among the members of the Board of Directors.
+
+•
+
+Stock ownership guidelines and retention requirements that align equity ownership of executives and directors with the long-term interests of our stockholders.
+
+Research and Development
+
+Our Research and Development Program
+
+We maintain an industry-leading Research and Development (“R&D”) program that is designed to enhance our services, help ensure compliance, and improve quality and operational effectiveness. Our R&D personnel are located in New Jersey and Illinois, the latter housing our quality control and testing laboratory, which supports our R&D activities through testing and analysis. Approximately one-third of our research budget is funded by competitively awarded outside research grants. Such grants reduce the cost of research and allow collaboration with leading national and international researchers. I
+n
+
+2017
+, we spent 
+$3 million
+ on research in total, including 
+$1 million
+ funded by grants. Spending on research amounted to 
+$4 million
+, including 
+$1 million
+ funded by grants, in each of 
+2016
+ and 
+2015
+.
+
+We continue to leverage the Company’s expertise and collaborate with the EPA to help establish effective environmental, health and safety, and water quality standards and regulation. This relationship includes the sharing of our research, such as our treatment and distribution system optimization research and our and national water quality monitoring data. Our engagement with the EPA provides us with early insight into emerging regulatory issues and initiatives, thereby allowing us to anticipate and to accommodate our future compliance requirements. We also frequently engage with the Centers for Disease Control and other state environmental agencies. We believe that continued R&D activities are critical for providing safe, reliable and affordable services, as well as maintaining our leadership position in the industry, which provides us with a competitive advantage as we seek additional business with new and existing customers.
+
+Emerging Contaminants
+
+Emerging contaminants include chemicals such as pharmaceuticals, personal care products, pesticides, herbicides and endocrine disrupting compounds, which have been detected in drinking water supplies, for which the risk to the public’s health is not fully understood and/or has not been quantified. While these contaminants have been present in our drinking water for as long as they have been in use, technological advances have only recently made it possible to detect many of them. The ability to detect contaminants, even at trace levels, has raised questions among regulators and government agencies, further affecting the public’s perception of drinking water quality. 
+
+The Chemicals Abstract Service Registry contains over 130 million registered chemicals, with a new substance being produced approximately every 3 seconds from chemical breakdown and reformation. We are continually investigating new substances and contaminants, employing a team of scientists, engineers and public health professionals to identify threats to our water supply, to act on emerging regulations and new health advisories, and to research the influx of advanced treatment technologies. We maintain state-of-the-art water quality testing equipment and implement new and emerging technologies to help predict and manage potential water supply contamination issues. Examples of our efforts include:
+
+•
+
+using our research findings to communicate information to our customers (via a web site) on the actions they can take to manage Legionella (the Centers for Disease Control statistics indicate that water-associated disease from Legionella is on the rise, with exposure typically associated with plumbing systems in large buildings);
+
+•
+
+aerial drone testing to detect harmful algal blooms and ultrasonic technology testing to help prevent taste and odor events and to eliminate cyanotoxins before they get to the water treatment plant;
+
+•
+
+the implementation of 
+water source assessment tools, including sensors and analytics, 
+to evaluate and track chemical storage and transport through watersheds and to detect source water contamination events; and
+
+15
+
+Table of Contents
+
+•
+
+the implementation of activated carbon and biofiltration for the control of emerging contaminants.
+
+Support Services
+
+American Water Works Service Company, Inc. (the “Service Company”) is our wholly owned subsidiary that provides support and operational services to the Company’s operating subsidiaries. These services are predominantly provided to our 
+Regulated Businesses
+ under contracts that have been approved by PUCs, where necessary, and are also provided to (i) our three 
+Market-Based Businesses
+ organized under American Water Enterprises, Inc., our wholly owned subsidiary (“AWE”), and (ii) Keystone as requested or may be necessary. Services provided by the Service Company may include accounting and finance, administration, business development, communications, compliance, education and training, engineering, health and safety, human resources, information systems, internal audit, investor relations, legal and governance, operations, procurement, rates and regulatory support, security, risk management, treasury, water quality and R&D. The Service Company also operates two national customer service centers located in Alton, Illinois and Pensacola, Florida, which provide customer relations, field service and operational support to our 
+Regulated Businesses
+. Services are provided by the Service Company at cost, enabling our operating subsidiaries to fulfill their responsibilities in a cost-effective manner, while providing them access to in-depth, functional expertise.
+
+Our security team provides oversight and policy guidance on physical, cyber and information security, as well as business continuity, throughout our operations. It is responsible for designing, implementing, monitoring and supporting effective physical and technical security controls for our physical assets, business systems and operational technologies. Risk assessments are conducted periodically to evaluate the effectiveness of existing security controls and serve as the basis for additional safeguards, security controls and measures. Operational and technical security controls are deployed and integrated as safeguards against unauthorized access to the Company’s information systems. These controls: (i) are aimed at assuring the continuity of business processes that are dependent upon automation; (ii) seek to maintain the integrity of our data; (iii) support regulatory and legislative compliance requirements; and (iv) are aimed at maintaining safe and reliable service to our customers. We engage in partnerships with U.S. federal, state and local law enforcement agencies to coordinate and improve the security of our water delivery systems and to safeguard our water supply and operations.
+
+Employee Matters
+
+As of 
+December 31, 2017
+, approximately 
+46%
+ of our workforce was represented by unions, which include 
+76
+ collective bargaining agreements with 
+19
+ different unions. Additionally, as of 
+December 31, 2017
+ we had one collective bargaining agreement beyond expiration, affecting approximately 
+180
+ employees, all of which are actively working under the terms of the existing agreement, and another collective bargaining agreement in the process of being implemented, affecting approximately 
+20
+ employees. During 
+2018
+, 
+20
+ of our collective bargaining agreements, and our national benefits agreement with most of the labor unions representing employees in our 
+Regulated Businesses
+, will be expiring in accordance with their terms.
+
+Executive Officers
+
+The following table summarizes the name, age, offices held and business experience for each of our executive officers, as of 
+February 20, 2018
+:
+
+Name
+
+Age
+
+Office and Experience
+
+Susan N. Story
+
+58
+
+President and Chief Executive Officer. 
+Ms. Story has served as President and Chief Executive Officer of the Company since May 2014. Ms. Story served as Senior Vice President and Chief Financial Officer of the Company from April 2013 until May 2014. Prior to joining American Water, she served as President and Chief Executive Officer of Southern Company Services, a subsidiary of Southern Company, from January 2011 until March 2013 and President and Chief Executive Officer of Gulf Power Company, also a subsidiary of Southern Company, from 2003 until December 2010. Since 2008, Ms. Story has served as a member of the board of directors of Raymond James Financial, Inc., a diversified financial services company, and as lead director since 2016. Since January 2017, Ms. Story has also served on the board of directors of Dominion Energy, Inc., a producer and transporter of energy.
+
+Brian Chin
+
+44
+
+Senior Vice President, Planning and Strategy Integration. 
+Mr. Chin joined the Company as its Senior Vice President, Planning and Strategy Integration on June 20, 2017. Prior to joining the Company, from May 2013 to April 2017, Mr. Chin served as the lead utility analyst for the North America research function at Bank of America Merrill Lynch. From 2001 to 2013, Mr. Chin worked in Electric Utilities Research at Citigroup. Within that period, Mr. Chin was the global head of Electric Utilities Research for Citigroup.
+
+Deborah A. Degillio
+
+46
+
+President, AWE. 
+Ms. Degillio has been President of AWE since May 2016.
+
+From January 2015 to May 2016, Ms. Degillio
+
+served as the Company’s Vice President and Treasurer. Prior to that time, Ms. Degillio served as Vice President of Finance of AWE from November 2013 to February 2015, as a Vice President in the Company’s Finance team for its Eastern Division from June 2009 until October 2013, and as Director of Financial Planning and Analysis for American Water’s then Western states, from April 2007 until May 2009.
+
+16
+
+Table of Contents
+
+Name
+
+Age
+
+Office and Experience
+
+Melanie M. Kennedy
+
+44
+
+Senior Vice President, Human Resources. 
+Since March 1, 2017, Ms. Kennedy has served as the Company’s Senior Vice President, Human Resources. From August 2014 until February 2017, Ms. Kennedy served as Vice President, Human Resources of the Company, and from August 2012 to August 2014, she served as Director, Human Resources in our Northeast Division. Ms. Kennedy initially joined the Company in 2007, and before that time, she practiced law for nine years.
+
+Walter J. Lynch
+
+55
+
+Executive Vice President and Chief Operating Officer. 
+Mr. Lynch has over 20 years of experience in the water and wastewater industry. Mr. Lynch has served as the Company’s Executive Vice President and Chief Operating Officer since January 2016, as Chief Operating Officer of Regulated Operations from February 2010 to December 2015, and President of Regulated Operations from July 2008 to December 2015. Mr. Lynch joined us in 2001. Mr. Lynch is on the Board of Directors of the National Association of Water Companies and serves on its Executive Committee. In addition, Mr. Lynch also serves on the Water Research Foundation Board of Trustees.
+
+Bradley A. Okoniewski
+
+51
+
+Vice President, Safety and Environmental Leadership
+. Mr. Okoniewski joined the Company on May 1, 2017 as its Vice President, Safety and Environmental Leadership. Prior to that, from April 2016 to May 2017, Mr. Okoniewski served as the global environmental, occupational health and safety director for Campbell Soup Company, a publicly-traded consumer products company based in Camden, New Jersey. Prior to that, Mr. Okoniewski served as the global director, safety, health and environmental affairs for Carpenter Technology Company, a publicly-traded specialty metals company based in Philadelphia, Pennsylvania, from February 2013 to March 2016.
+
+Michael A. Sgro
+
+59
+
+Executive Vice President, General Counsel and Secretary. 
+Mr. Sgro has over 20 years of experience in the water and wastewater industry. He has served as the Company’s Executive Vice President, General Counsel and Secretary since January 1, 2016 and its Senior Vice President, General Counsel and Secretary from February 2015 to January 2016. Prior to that, he served as the Company’s Interim General Counsel and Secretary from January 2015 until February 2015 and as Vice President, General Counsel and Secretary of American Water’s Northeast Division beginning in 2002.
+
+Linda G. Sullivan
+
+54
+
+Executive Vice President and Chief Financial Officer. 
+Ms. Sullivan has served as the Company’s Executive Vice President and Chief Financial Officer since January 1, 2016 and the Company’s Senior Vice President and Chief Financial Officer from May 2014 to December 31, 2015. Prior to joining American Water, Ms. Sullivan served as the Senior Vice President and Chief Financial Officer of Southern California Edison Company, a subsidiary of Edison International, from July 2009 until May 2014, and Vice President and Controller of both Edison International and Southern California Edison Company, from July 2004 until July 2009. Ms. Sullivan is a Certified Public Accountant (inactive) and a Certified Management Accountant. On April 27, 2017, Ms. Sullivan was elected to the Board of Directors of NorthWestern Corp. and serves on its Audit Committee. In addition, Ms. Sullivan serves on the board of directors of University of Maryland University College Ventures and on its Audit & Finance Committee and is a member of the EPA’s Finance Advisory Board.
+
+Radhakrishnan Swaminathan
+
+56
+
+Senior Vice President, Chief Technology and Information Officer. 
+Mr. Swaminathan has served as Senior Vice President, Chief Technology and Innovation Officer of the Company since November 1, 2017. Mr. Swaminathan joined the Company in March 2016 as our Chief Technology and Innovation Officer. Prior to that, from October 2012 through February 2016, he served as Vice President and Chief Technology Officer, Energy, Natural Resources and Utilities, of WIPRO Technologies. Prior to that, he served as the Director of Smart Grid Technologies at NextEra Energy, Inc. from January 2009 through September 2012.
+
+Loyd “Aldie” Warnock
+
+58
+
+Senior Vice President of External Affairs and Business Development. 
+Mr. Warnock has served as the Company’s Senior Vice President of External Affairs and Business Development since August 1, 2017. From April 2014 to July 31, 2017, Mr. Warnock served as the Company’s Senior Vice President of External Affairs, Communications and Public Policy. Prior to joining the Company, he served as Senior Vice President of External Affairs at Midwest Independent System Operator, Inc., a non-profit, self-governing organization, from March 2011 to April 2014. Prior to that, he served as Vice President of External Affairs for Allegheny Energy, Inc. from December 2005 to February 2011 and Senior Vice President of Governmental and Regulatory Affairs at Mirant Corporation from July 2004 to November 2005. Mr. Warnock serves on the Board of Directors of the National Association of Water Companies and on the Executive Advisory Board of the Mississippi State University College of Business.
+
+Melissa K. Wikle
+
+52
+
+Vice President and Controller. 
+Ms. Wikle joined the Company in July 2016 as its Vice President and Controller, and assumed the duties of the Company’s principal accounting officer in August 2016. Prior to joining the Company, Ms. Wikle served as Corporate Controller and Chief Accounting Officer of Columbus McKinnon Corporation, a publicly-traded worldwide designer, manufacturer and marketer of material handling products, systems and services, since April 2011. Ms. Wikle is a Certified Public Accountant.
+
+Charles Witherspoon
+
+50
+
+Vice President and Treasurer. 
+Mr. Witherspoon has served as the Company’s Vice President and Treasurer since February 14, 2018 and has over 24 years of collective experience in corporate treasury, marketing, finance and audit roles. Mr. Witherspoon joined the Company in January 2016 as its Assistant Treasurer. Prior to joining the Company, Mr. Witherspoon served as Vice President of Finance and Corporate Treasurer of Church & Dwight Co., Inc., a publicly-traded packaged goods company, from December 2007 to January 2016. Before that, Mr. Witherspoon held finance and treasury roles for Johnson & Johnson and FMC Corporation. Mr. Witherspoon is a Certified Public Accountant and a Certified Treasury Professional.
+
+Each executive officer is elected annually by the Board of Directors and serves until his or her respective successor has been elected and qualified or his or her earlier death, resignation or removal.
+
+17
+
+Table of Contents
+
+Available Information
+
+We are subject to the reporting requirements of the Exchange Act. We file or furnish annual, quarterly and current reports, proxy statements and other information with the SEC. You may obtain a copy of our annual reports on Form 10-K, our quarterly reports on Form 10-Q or our current reports on Form 8-K, or any amendments to them, that are filed with or furnished to the SEC, free of charge, from the Investor Relations section of our website, 
+http://ir.amwater.com,
+ as soon as reasonably practicable after we file or furnish the information to the SEC. Information contained on our website shall not be deemed incorporated into, or to be a part of, this report, and any website references included herein are not intended to be made through active hyperlinks. We recognize our website as a key channel of distribution to reach public investors and as a means of disclosing material non-public information to comply with our disclosure obligations under SEC Regulation FD.
+
+The American Water corporate governance guidelines and the charters for each of the standing committees of the Board of Directors, together with the American Water Code of Ethics and additional information regarding our corporate governance, are available on our Investor Relations website, 
+http://ir.amwater.com,
+ and will be made available, without charge, in print to any stockholder who requests such documents from our Investor Relations Department, American Water Works Company, Inc., 1025 Laurel Oak Road, Voorhees, NJ, 08043.
+
+ITEM 1A.
+
+
+
+We operate in a market and regulatory environment that involves significant risks, many of which are beyond our control. In addition to the other information included or incorporated by reference in this Form 10-K, the following factors should be considered in evaluating our business and future prospects. Any of the following risks, either alone or taken together, could materially and adversely affect our business, financial position, results of operations, cash flows and liquidity.
+
+Risks Related to Our Industry and Business Operations
+
+Our utility operations are subject to extensive economic regulation by state PUCs and other regulatory agencies, which significantly affects our business, financial condition, results of operations and cash flows. Our utility operations also may be subject to fines, penalties and other sanctions for the inability to meet these regulatory requirements.
+
+Our 
+Regulated Businesses
+ provide water and wastewater services to our customers through subsidiaries that are subject to economic regulation by state PUCs. Economic regulation affects the rates we charge our customers and has a significant impact on our business and results of operations. Generally, the state PUCs authorize us to charge rates that they determine are sufficient to recover our prudently incurred operating expenses, including, but not limited to, operating and maintenance costs, depreciation, financing costs and taxes, and provide us the opportunity to earn an appropriate rate of return on invested capital.
+
+Our ability to successfully implement our business plan and strategy depends on the rates authorized by the various state PUCs. We periodically file rate increase applications with state PUCs. The ensuing administrative process may be lengthy and costly. Our rate increase requests may or may not be approved, or may be partially approved, and any approval may not occur in a timely manner. Moreover, a PUC may not approve a rate request to an extent that is sufficient to:
+
+•
+
+cover our expenses, including purchased water and costs of chemicals, fuel and other commodities used in our operations;
+
+•
+
+enable us to recover our investment; and
+
+•
+
+provide us with an opportunity to earn an appropriate rate of return on our investment.
+
+Approval of the PUCs is also required in connection with other aspects of our utilities’ operations. Some state PUCs are empowered to impose financial penalties, fines and other sanctions for non-compliance with applicable rules and regulations. Our utilities are also required to have numerous permits, approvals and certificates from the PUCs that regulate their businesses and authorize acquisitions. Although we believe that each utility subsidiary has obtained or sought renewal of the material permits, approvals and certificates necessary for its existing operations, we are unable to predict the impact that future regulatory activities may have on our business.
+
+In any of these cases, our business, financial condition, results of operations, cash flows and liquidity may be adversely affected. Even if rates are sufficient, we face the risk that we will not achieve the rates of return on our invested capital to the extent permitted by state PUCs. This could occur if certain conditions exist, including but not limited to, if water usage is less than the level anticipated in establishing rates, or if our investments or expenses prove to be higher than the level estimated in establishing rates.
+
+18
+
+Table of Contents
+
+Our operations and the quality of water we supply are subject to extensive and increasingly stringent environmental, water quality and health and safety laws and regulations, including with respect to emerging contaminants, compliance with which could impact our operating costs, and violations of which could subject us to substantial liabilities and costs, as well as damage to our reputation.
+
+Our water and wastewater operations and the operations of our 
+Market-Based Businesses
+ are subject to extensive federal, state and local laws and regulations and, in the case of our Canadian operations, Canadian laws and regulations that govern the protection of the environment, health and safety, the quality of the water we deliver to our customers, water allocation rights, and the manner in which we collect, treat, discharge and dispose of wastewater. These requirements include CERCLA, the Clean Water Act and the Safe Drinking Water Act, and similar state and Canadian laws and regulations. For example, CERCLA authorizes the EPA to issue orders and bring enforcement actions to compel responsible parties to investigate and take remedial actions with respect to actual or threatened releases of hazardous substances, and can impose joint and several liability, without regard to fault, on responsible parties for the costs thereof. We are also required to obtain various environmental permits from regulatory agencies for our operations.
+
+In addition, state PUCs also set conditions and standards for the water and wastewater services we deliver. If we deliver water or wastewater services to our customers that do not comply with regulatory standards, or otherwise violate environmental laws, regulations or permits, or other health and safety and water quality regulations, we could incur substantial fines, penalties or other sanctions or costs, as well as damage to our reputation. In the most serious cases, regulators could reduce requested rate increases or force us to discontinue operations and sell our operating assets to another utility or to a municipality. Given the nature of our business which, in part, involves supplying water for human consumption, any potential non-compliance with, or violation of, environmental, water quality and health and safety laws or regulations would likely pose a more significant risk to us than to a company not similarly involved in the water and wastewater industry.
+
+We incur substantial operating and capital costs on an ongoing basis to comply with environmental, water quality and health and safety laws and regulations. These laws and regulations, and their enforcement, generally have become more stringent over time, and new or stricter requirements could increase our costs. Although we may seek to recover ongoing compliance costs in our Regulated Businesses through customer rates, there can be no guarantee that the various state PUCs or similar regulatory bodies that govern our 
+Regulated Businesses
+ would approve rate increases that would enable us to recover such costs or that such costs will not materially and adversely affect our financial condition, results of operations, cash flows and liquidity.
+
+We may also incur liabilities if, under environmental laws and regulations, we are required to investigate and clean up environmental contamination at our properties, including potential spills of hazardous chemicals, such as chlorine, which we use to treat water, or at off-site locations where we have disposed of waste or caused an adverse environmental impact. The discovery of previously unknown conditions, or the imposition of cleanup obligations in the future, could result in significant costs and could adversely affect our financial condition, results of operations, cash flows and liquidity. Such remediation costs may not be covered by insurance and may make it difficult for us to secure insurance at acceptable rates in the future.
+
+Attention is being given to emerging contaminants, including, without limitation, chemicals and other substances that currently do not have any regulatory standard in drinking water or have been recently created or discovered (including by means of scientific achievements in the analysis and detection of trace amounts of substances). Examples of sources of emerging contaminants include, but are not limited to, newly created chemical compounds (including, for example, perfluorinated compounds and manufactured nanomaterials); human and veterinary products; microbes, viruses, amoebae and other pathogens; and residual by-products of disinfection. We rely upon governmental agencies to set appropriate regulatory standards to protect the public from these and other contaminants. Our role is to meet or surpass those standards, when established. In some of our states, PUCs may disapprove of cost recovery, in whole or in part, for implementation of treatment infrastructure for an emerging contaminant in the absence of a regulatory standard. Furthermore, given the rapid pace at which emerging contaminants are being created and/or discovered, we may not be able to detect and/or mitigate all such substances in our drinking water system or supplies, which could have a material adverse impact on our financial condition, results of operations and reputation. In addition, we believe emerging contaminants may form the basis for additional or increased federal or state regulatory initiatives and requirements in the future, which could significantly increase the cost of our operations.
+
+19
+
+Table of Contents
+
+Limitations on availability of water supplies or restrictions on our use of water supplies as a result of government regulation or action may adversely affect our access to sources of water, our ability to supply water to customers or the demand for our water services.
+
+Our ability to meet the existing and future demand of our customers depends on the availability of an adequate supply of water. As a general rule, sources of public water supply, including rivers, lakes, streams and groundwater aquifers, are held in the public trust and are not owned by private interests. As a result, we typically do not own the water that we use in our operations, and the availability of our water supply is established through allocation rights (determined by legislation or court decisions) and passing-flow requirements set by governmental entities. Passing-flow requirements set minimum volumes of water that must pass through specified water sources, such as rivers and streams, in order to maintain environmental habitats and meet water allocation rights of downstream users. Allocation rights are imposed to ensure sustainability of major water sources and passing-flow requirements are most often imposed on source waters from smaller rivers, lakes and streams. These requirements, which can change from time to time, may adversely impact our water supply. Supply issues, such as drought, overuse of sources of water, the protection of threatened species or habitats, contamination or other factors may limit the availability of ground and surface water.
+
+For example, in our Monterey County, California operations, we are seeking to augment our sources of water supply, principally to comply with an October 20, 2009 cease and desist order (the “2009 Order”), as amended by an order in July 2016 (the “2016 Order”), of the SWRCB that requires Cal Am to significantly decrease its diversions from the Carmel River in accordance with a reduction schedule that terminates on December 31, 2021 (the “2021 Deadline”). We are also required to augment our Monterey County sources of water supply to comply with the requirements of the Endangered Species Act. We cannot predict whether Cal Am will be able to secure alternative sources of water, or if Cal Am will be exposed to liabilities if it is unable to meet the 2021 Deadline under the 2009 Order and the 2016 Order. If Cal Am or any of our other subsidiaries are unable to secure an alternative source of water, or if other adverse consequences result from the events described above, our business, financial condition, results of operations and cash flows could be adversely affected. See 
+Item 3—Legal Proceedings
+—Alternative Water Supply in Lieu of Carmel River Diversions, which includes additional information regarding this matter.
+
+The current regulatory rate setting process may result in a significant delay, also known as “regulatory lag,” from the time that we invest in infrastructure improvements, incur increased operating expenses or experience declining water usage, to the time at which we can seek to address these events in rate case applications; our inability to minimize regulatory lag could adversely affect our business.
+
+There is typically a delay, known as “regulatory lag,” between the time one of our regulated subsidiaries makes a capital investment or incurs an operating expense increase and the time when those costs are reflected in rates. In addition, billings permitted by state PUCs typically are, to a considerable extent, based on the volume of water usage in addition to a minimum base rate. Thus, we may experience regulatory lag between the time our revenues are affected by declining usage and the time we are able to adjust the rate per gallon of usage to address declining usage. Our inability to reduce this regulatory lag could have an adverse effect on our financial condition, results of operations, cash flows and liquidity.
+
+We endeavor to reduce regulatory lag by pursuing constructive regulatory policies. For example, ten of our state PUCs permit rates to be adjusted outside of the rate case application process through surcharges that address certain capital investments, such as replacement of aging infrastructure. These surcharges are adjusted periodically based on factors such as project completion or future budgeted expenditures, and specific surcharges are eliminated once the related capital investment is incorporated in new PUC approved rates. Furthermore, in setting rates, nine of our state PUCs allow us to use future test years, which extend beyond the date a rate request is filed to allow for current or projected revenues, expenses and investments to be reflected in rates on a more timely basis. Other examples of such programs include states that allow us to increase rates for certain cost increases that are beyond our control, such as purchased water costs, property or other taxes, or power, conservation, chemical or other expenditures. These surcharge mechanisms enable us to adjust rates in less time after costs have been incurred than would be the case under the rate case application process.     
+
+While these programs have reduced regulatory lag in several of our regulated states, we continue to seek expansion of programs to reduce regulatory lag in those jurisdictions that have not approved such programs. Furthermore, PUCs may fail to adopt new surcharge programs and existing programs may not continue in their current form, or at all. Although we intend to continue our efforts to expand state PUC approval of surcharges to address issues of regulatory lag, our efforts may not be successful, or even if successful they may not completely address our regulatory lag, in which case our business, financial condition, results of operations, cash flows and liquidity may be materially and adversely affected.
+
+20
+
+Table of Contents
+
+Changes in laws and regulations and changes in certain agreements can significantly affect our business, financial condition, results of operations, cash flows and liquidity.
+
+New legislation, regulations, government policies or court decisions, including without limitation with respect to federal and state income and other tax laws, can materially affect our operations, results of operations and cash flows. The individuals who serve as regulators are elected or political appointees. Therefore, elections which result in a change of political administration or new appointments may also result in changes in the individuals who serve as regulators and the policies of the regulatory agencies that they serve. New laws or regulations, new interpretations of existing laws or regulations, changes in agency policy, including those made in response to shifts in public opinion, or conditions imposed during the regulatory hearing process could have the following consequences, among others:
+
+•
+
+making it more difficult for us to raise our rates and, as a consequence, to recover our costs or earn our expected rates of return;
+
+•
+
+changing the determination of the costs, or the amount of costs, that would be considered recoverable in rate cases;
+
+•
+
+restricting our ability to terminate our services to customers who owe us money for services previously provided or limiting our bill collection efforts;
+
+•
+
+requiring us to provide water or wastewater services at reduced rates to certain customers;
+
+•
+
+limiting or restricting our ability to acquire water or wastewater systems, purchase or dispose of assets or issue securities, or making it less cost-effective for us to do so;
+
+•
+
+negatively impacting the deductibility of expenses under federal or state tax laws, the amount of tax credits or tax abatement benefits that may be available, the amount of taxes owed, or the ability to utilize our net operating loss carryforwards;
+
+•
+
+changing regulations that affect the benefits we expected to receive when we began offering services in a particular area;
+
+•
+
+increasing the costs associated with complying with environmental, health, safety and water quality regulations to which our operations are subject;
+
+•
+
+changing or placing additional limitations on change in control requirements relating to any concentration of ownership of our common stock;
+
+•
+
+making it easier for governmental entities to convert our assets to public ownership via condemnation, eminent domain or other similar process, or for governmental agencies or private plaintiffs to assess liability against us for damages under these or similar processes;
+
+•
+
+placing limitations, prohibitions or other requirements with respect to the sharing of information and participation in transactions by or between a regulated subsidiary and us or our other affiliates, including Service Company and any of our other subsidiaries;
+
+•
+
+restricting or prohibiting our extraction of water from rivers, streams, reservoirs or aquifers; and
+
+•
+
+revoking or altering the terms of the certificates of public convenience and necessity (or similar authorizations) issued to us by state PUCs.
+
+Any of the foregoing consequences could have an adverse effect on our business, financial condition, results of operations, cash flows and liquidity. 
+
+21
+
+Table of Contents
+
+In addition, new Federal, state and local laws, changes in existing laws, rules or regulations, or administrative interpretations thereof, could impact us. On December 22, 2017, the TCJA was signed into law, which, among other things, enacted significant and complex changes to the Internal Revenue Code of 1986, including a reduction in the maximum U.S. federal corporate income tax rate from 35% to 21% as of January 1, 2018, and certain other provisions related specifically to the public utility industry, including continuation of interest expense deductibility, the exclusion from utilizing bonus depreciation and the normalization of deferred income taxes. The enactment of the TCJA required a re-measurement of our deferred income taxes that materially impacted our 2017 results of operations and financial position. We have assumed that the predominant majority of our deferred tax assets and liabilities at our utility subsidiaries will remain subject to a normalization method of accounting pursuant to the U.S. tax code or applicable PUC regulations and that we will be able to deduct for U.S. federal corporate income tax purposes substantially all of our interest expense, based upon our interpretation of U.S. tax law debt allocation methodologies , at the TCJA’s 21% corporate tax rate. The adoption or issuance of any Related Interpretations that impact these assumptions or with respect to provisions related specifically to the public utility industry or to corporate taxpayers in general may also impact our future financial performance, including our results of operations, cash flows and liquidity, which impacts will largely be determined through future regulatory proceedings. All of our 14 jurisdictions subject to economic regulation have opened formal proceedings related to the TCJA, and we have open rate cases in three of them. At this time, we cannot predict the impacts of any Related Interpretations, if and when issued, on us, or the regulatory treatment of the TCJA in each of our regulatory jurisdictions. Moreover, we are unable to determine or predict the potential impacts, if any, of any other new or amended laws, rules or regulations, or interpretations thereof, to the extent they may be ultimately enacted, adopted or issued, on us or our businesses, financial condition, results of operations, cash flows and liquidity.
+
+Service disruptions caused by severe weather conditions, climate variability patterns or natural disasters may disrupt our operations or reduce the demand for our water services, which could adversely affect our financial condition, results of operations, cash flows and liquidity.
+
+Service interruptions due to severe weather, climate variability patterns and other natural events are possible across all our businesses. These include, among other things, storms, freezing conditions, high wind conditions, hurricanes, tornadoes, earthquakes, landslides, wildfires, coastal and intercoastal floods or high water conditions, including those in or near designated flood plains, severe electrical storms and solar flares. Weather and other natural events such as these may affect the condition or operability of our facilities, limiting or preventing us from delivering water or wastewater services to our customers, or requiring us to make substantial capital expenditures to repair any damage. Tariffs in place or cost recovery proceedings with respect to our Regulated Businesses may not provide reimbursement to us, in whole or in part, for any of these impacts.
+
+Government restrictions on water use may also result in decreased use of water services, even if our water supplies are sufficient to serve our customers, which may adversely affect our financial condition, results of operations and cash flows. Seasonal drought conditions that may impact our water services are possible across all of our service areas. Governmental restrictions imposed in response to a drought may apply to all systems within a region independent of the supply adequacy of any individual system. As examples, drought conditions had persisted in California over a five-year period, and had been declared in New Jersey in 2016. In 2017, these droughts were declared concluded, but other droughts that may occur from time to time may result in the imposition of voluntary or mandatory water use targets, rationing restrictions, water conservation regulations, and requirements to minimize water system leaks. While expenses incurred in implementing water conservation and rationing plans may generally be recoverable provided the relevant PUC determines they were reasonable and prudent, we cannot assure that any such expenses incurred will, in fact, be fully recovered. Moreover, reductions in water consumption, including those resulting from installation of equipment or changed consumer behavior, may persist even after drought restrictions are repealed and the drought has ended, which could adversely affect our business, financial condition, results of operations and cash flows.
+
+Climate variability may cause increased volatility in weather and may impact water usage and related revenue or require additional expenditures, all of which may not be fully recoverable in rates or otherwise.
+
+The issue of climate variability is receiving increasing attention worldwide. Some scientific experts are predicting a worsening of weather volatility in the future associated with climate variability. Many climate variability predictions, if true, present several potential challenges to water and wastewater utilities, such as:
+
+•
+
+increased frequency and duration of droughts;
+
+•
+
+increased precipitation and flooding;
+
+•
+
+challenges associated with changes in temperature or increases in ocean levels;
+
+•
+
+potential degradation of water quality;
+
+•
+
+decreases in available water supply and changes in water usage patterns; 
+
+•
+
+increases in disruptions in service; 
+
+•
+
+increased costs to repair damaged facilities; or 
+
+22
+
+Table of Contents
+
+•
+
+increased costs to reduce risks associated with the increasing frequency of natural events, including to improve the resiliency and reliability of our water production and delivery facilities and systems.
+
+Because of the uncertainty of weather volatility related to climate variability, we cannot predict its potential impact on our business, financial condition, results of operations, cash flows and liquidity. Although some or all potential expenditures and costs with respect to our Regulated Businesses could be recovered through rates, infrastructure replacement surcharges or other regulatory mechanisms, there can be no assurance that state PUCs would authorize rate increases to enable us to recover such expenditures and costs, in whole or in part.
+
+A loss of one or more large industrial customers could have a material adverse impact upon the results of operations of one or more of our Regulated Businesses.
+
+Adverse economic conditions or other factors can cause our customers, particularly industrial customers, to curtail operations. A curtailment of operations by an industrial customer would typically result in reduced water usage by that customer. In more severe circumstances, the decline in usage could be permanent. Any decrease in demand resulting from difficult economic conditions affecting these industrial customers could adversely affect our financial condition and results of operations. Tariffs in place with respect to our Regulated Businesses may not reimburse us, in whole or in part, for any of these impacts.
+
+Our 
+Regulated Businesses
+ require significant capital expenditures and may suffer if we fail to secure appropriate funding to make investments, or if we experience delays in completing major capital expenditure projects.
+
+The water and wastewater utility business is capital intensive. We invest significant amounts of capital to add, replace and maintain property, plant and equipment, and to improve aging infrastructure. In 
+2017
+, we invested 
+$1.4 billion
+ in net Company-funded capital improvements. The level of capital expenditures necessary to maintain the integrity of our systems will likely increase in the future. We expect to fund capital improvement projects using cash generated from operations, borrowings under our revolving credit facility and commercial paper programs and issuances of long-term debt. We may not be able to access our revolving credit facility or the commercial paper, long-term debt and equity capital markets, when necessary or desirable to fund capital improvements on favorable terms or at all. If we are not able to obtain sufficient financing, we could be unable to maintain our existing property, plant and equipment, fund our capital investment strategies, meet our growth targets and expand our rate base to enable us to earn satisfactory future returns on our investments. Even with adequate financial resources to make required capital expenditures, we face the additional risk that we will not complete our major capital projects on time, as a result of construction delays, permitting delays, labor shortages or other disruptions, environmental restrictions, or other obstacles. Each of these outcomes could adversely affect our financial condition, results of operations and cash flows.
+
+Seasonality could adversely affect the volume of water sold and our revenues.
+
+The volume of water we sell during the warmer months, typically in the summer, is generally greater than during other months, due primarily to increased water usage for irrigation systems, swimming pools, cooling systems and other applications. Throughout the year, and particularly during typically warmer months, the volume of water sold tends to vary with temperature, rainfall levels and rainfall frequency. In the event that temperatures during the typically warmer months are cooler than normal, or if there is more rainfall than normal, the amount of water we sell may decrease and adversely affect our revenues.
+
+Three of our jurisdictions, California, Illinois and New York, have adopted revenue stability mechanisms, which permit us to collect state PUC-authorized revenue for a given period which is not tied to the volume of water sold during that period. Revenue stability mechanisms are designed to allow utilities to recover the fixed cost of operations while supporting water conservation goals. In those jurisdictions that have not adopted a revenue stability mechanism, operating results could continue to be affected by seasonality.
+
+Regulatory and environmental risks associated with the collection, treatment and disposal of wastewater may impose significant costs.
+
+The wastewater collection, treatment and disposal operations of our subsidiaries are subject to substantial regulation and involve environmental risks. If collection, treatment or disposal systems fail, overflow, or do not operate properly, untreated wastewater or other contaminants could spill onto nearby properties or into nearby streams and rivers, causing damage to persons or property, injury to aquatic life and economic damages. This risk is most acute during periods of substantial rainfall or flooding, which are the main causes of sewer overflow and system failure. Liabilities resulting from such damage could adversely and materially affect our business, financial condition, results of operations and cash flows.
+
+23
+
+Table of Contents
+
+Contamination of water supplies or our water service provided to our customers could result in service limitations and interruptions and exposure to substances not typically found in potable water supplies, and could subject us and our subsidiaries to reductions in usage and other responsive obligations, government enforcement actions, damage to our reputation and private litigation.
+
+The water supplies that flow into our treatment plants or are delivered through our distribution system, or the water service that is provided to our customers, may be subject to contamination, including, among other items, contamination from naturally-occurring compounds, chemicals in groundwater systems, pollution resulting from man-made sources (such as perchlorate, methyl tertiary butyl ether, lead and other materials, chemical spills or other accidents that result in contaminants entering the water source), and possible terrorist attacks. In addition, new categories of these substances continue to emerge in the water treatment industry. If one of our water supplies or the water service provided to our customers is contaminated, depending on the nature of the contamination, we may have to take responsive actions that could include, among other things (1) continuing limited use of the water supply under a “Do Not Use” protective order that enables continuation of basic sanitation and essential fire protection, or (2) interrupting the use of that water supply. If service is disrupted, our financial condition, results of operations, cash flows, liquidity and reputation may be adversely affected. In addition, we may incur significant costs in order to treat the contaminated source through the expansion of our current treatment facilities or the development of new treatment methods. We may be unable to recover costs associated with treating or decontaminating water supplies through insurance, customer rates, tariffs or contract terms. Any recovery of these costs that we are able to obtain through regulatory proceedings or otherwise may not occur in a timely manner. Moreover, we could be subject to claims for damages arising from government enforcement actions or toxic tort or other lawsuits arising out of an interruption of service or human exposure to hazardous substances in our drinking water and water supplies.
+
+In this regard, on January 9, 2014, a chemical storage tank owned by Freedom Industries, Inc. leaked two substances into the Elk River near the West Virginia-American Water Company (“WVAWC”) treatment plant intake in Charleston, West Virginia. On September 21, 2017, the U.S. District Court for the Southern District of West Virginia granted preliminary approval of a settlement class and proposed global class action settlement (the “Settlement”) of claims involving WVAWC and its affiliates arising out of the Freedom Industries chemical spill. Under the terms of the Settlement, WVAWC has agreed that it will not seek rate recovery from the Public Service Commission of West Virginia (the “PSC”) for the amounts paid by WVAWC, net of insurance recoveries, under the Settlement. See 
+Item 3—Legal Proceedings
+—West Virginia Elk River Freedom Industries Chemical Spill, which includes additional information regarding this matter.
+
+Since we engage in the business of providing water service to our customers, contamination of the water supply, or the water service provided to our customers, could result in substantial injury or damage to our customers, employees or others and we could be exposed to substantial claims and litigation. Such claims could relate to, among other things, personal injury, loss of life, business interruption, property damage, pollution, and environmental damage and may be brought by our customers or third parties. Litigation and regulatory proceedings are subject to inherent uncertainties and unfavorable rulings can and do occur, and we may not be protected from these claims or negative impacts therefrom in whole or in part by tariffs or other contract terms. Negative impacts to our reputation may occur even if we are not liable for any contamination or other environmental damage or the consequences arising out of human exposure to contamination or hazardous substances in the water or water supplies. In addition, insurance coverage may not cover all or a portion of these losses, and are subject to deductibles and other limitations. Pending or future claims against us could have a material adverse impact on our business, financial condition, results of operations and cash flows.
+
+We may sustain losses that exceed or are excluded from our insurance coverage or for which we are self-insured.
+
+We maintain insurance coverage as part of our overall legal and risk management strategy to minimize potential liabilities arising from our utility operations, as well as the operations of our 
+Market-Based Businesses
+. Our insurance programs have varying coverage limits, exclusions and maximums, and insurance companies may seek to deny claims we might make. Generally, our insurance policies cover property damage, worker’s compensation, employer’s liability, general liability, terrorism risks and automobile liability. Each policy includes deductibles or self-insured retentions and policy limits for covered claims. As a result, we may sustain losses that exceed or that are excluded from our insurance coverage or for which we are self-insured.
+
+Although in the past we have been generally able to cover our insurance needs, there can be no assurance that we can secure all necessary or appropriate insurance in the future, or that such insurance can be economically secured. For example, catastrophic events can result in decreased coverage limits, more limited coverage, increased premium costs or deductibles.
+
+24
+
+Table of Contents
+
+We are subject to adverse publicity and reputational risks, which make us vulnerable to negative customer perception and could lead to increased regulatory oversight or other sanctions.
+
+Water and wastewater utilities, including our regulated subsidiaries and our 
+Market-Based Businesses
+, have a large direct and indirect customer base and as a result are exposed to public criticism regarding, among other things, the reliability of their water, wastewater and related or ancillary services, the quality of water provided, and the amount, timeliness, accuracy and format of bills that are provided for such services. Adverse publicity and negative consumer sentiment may render legislatures and other governing bodies, state PUCs and other regulatory authorities, and government officials less likely to view us in a favorable light, and may cause us to be susceptible to less favorable legislative, regulatory and economic outcomes, as well as increased regulatory or other oversight and more stringent regulatory or economic requirements. Unfavorable regulatory and economic outcomes may include the enactment of more stringent laws and regulations governing our operations and less favorable economic terms in our agreements related to our 
+Market-Based Businesses
+, as well as fines, penalties or other sanctions or requirements. The imposition of any of the foregoing could have a material negative impact on us and our financial condition, results of operations and cash flows.
+
+The failure of, or the requirement to repair, upgrade or dismantle, any of our dams may adversely affect our financial condition, results of operations, cash flows and liquidity.
+
+The properties of our 
+Regulated Businesses
+ segment include 
+80
+ dams, a failure of any of which could result in personal injury and downstream property damage for which we may be liable. The failure of a dam would also adversely affect our ability to supply water in sufficient quantities to our customers and could adversely affect our financial condition and results of operations. Any losses or liabilities incurred due to a failure of one of our dams might not be covered by insurance policies or be recoverable in rates, and such losses may make it difficult for us to secure insurance at acceptable rates in the future.
+
+We also are required from time to time to decommission, repair or upgrade the dams that we own. The cost of such repairs or upgrades can be and has been material. The federal and state agencies that regulate our operations may adopt rules and regulations requiring us to dismantle our dams, which also could entail material costs. Although in most cases, the PUC has permitted recovery of expenses and capital investment related to dam rehabilitation, we might not be able to recover costs of repairs, upgrades or dismantling through rates in the future. The inability to recover these costs or delayed recovery of the costs as a result of regulatory lag can affect our financial condition, results of operations, cash flows and liquidity.
+
+Any failure of our network of water and wastewater pipes and water reservoirs could result in losses and damages that may affect our financial condition and reputation.
+
+Our operating subsidiaries distribute water and collect wastewater through an extensive network of pipes and storage systems located across the United States. A failure of major pipes or reservoirs could result in injuries and property damage for which we may be liable. The failure of major pipes and reservoirs may also result in the need to shut down some facilities or parts of our network in order to conduct repairs. Such failures and shutdowns may limit our ability to supply water in sufficient quantities to our customers and to meet the water and wastewater delivery requirements prescribed by government regulators, including state PUCs with jurisdiction over our operations, and adversely affect our financial condition, results of operations, cash flows, liquidity and reputation. Any business interruption or other losses might not be covered by insurance policies or be recoverable in rates, and such losses may make it difficult for us to secure insurance at acceptable rates in the future. Moreover, to the extent such business interruptions or other losses are not covered by insurance, they may not be recovered through rate adjustments.
+
+An important part of our growth strategy is the acquisition of water and wastewater systems, which involves risks, including competition for acquisition opportunities from other regulated utilities, governmental entities and other buyers, that may hinder or limit our ability to grow our business.
+
+An important element of our growth strategy is the acquisition of water and wastewater systems in order to broaden our current, and move into new, service areas. We may not be able to acquire other businesses if we cannot identify suitable acquisition opportunities or reach mutually agreeable terms with acquisition candidates. Further, competition for acquisition opportunities from other regulated utilities, governmental entities, and other buyers may hinder our ability to expand our business.
+
+The negotiation of potential acquisitions as well as the integration of acquired businesses with our existing operations could require us to incur significant costs and cause diversion of our management’s time and resources. Future acquisitions by us could result in, among other things:
+
+•
+
+incurrence or assumption of debt, contingent liabilities and environmental liabilities of or with respect to an acquired business, including liabilities that were unknown at the time of acquisition;
+
+•
+
+failure to recover acquisition premiums;
+
+•
+
+unanticipated capital expenditures;
+
+25
+
+Table of Contents
+
+•
+
+failure to maintain effective internal control over financial reporting;
+
+•
+
+recording goodwill and other intangible assets at values that ultimately may be subject to impairment charges;
+
+•
+
+fluctuations in quarterly results;
+
+•
+
+unanticipated acquisition-related expenses;
+
+•
+
+failure to realize anticipated benefits, such as cost savings and revenue enhancements; and
+
+•
+
+difficulties in assimilating personnel, benefits, services and systems.
+
+Some or all of these items could have a material adverse effect on our business. The businesses we acquire in the future may not achieve anticipated sales and profitability, and any difficulties we encounter in the integration process could interfere with our operations, reduce our operating margins and adversely affect our internal control over financial reporting.
+
+We compete with governmental entities, other regulated utilities, and strategic and financial buyers for acquisition opportunities. If consolidation becomes more prevalent in the water and wastewater industries and competition for acquisitions increases, the prices for suitable acquisition candidates may increase and limit our ability to expand through acquisitions.
+
+Our 
+Regulated Businesses
+ are subject to condemnation and other proceedings through eminent domain or other similar authorized process, which could materially and adversely affect their results of operations and financial condition.
+
+Municipalities and other government subdivisions have historically been involved in the provision of water and wastewater services in the United States, and organized efforts may arise from time to time in one or more of the service areas in which our 
+Regulated Businesses
+ operate to convert our assets to public ownership and operation through exercise of the governmental power of eminent domain, or another similar authorized process. Should a municipality or other government subdivision or a citizen group seek to acquire our assets through eminent domain or such other process, either directly or indirectly as a result of a citizen petition, we may resist the acquisition.
+
+Furthermore, the law in certain jurisdictions in which our 
+Regulated Businesses
+ operate, including, for example, California, provide for eminent domain rights allowing private property owners to seek just compensation against a public utility if the public utility’s infrastructure has been determined to be a substantial cause of damage to that property. In these actions, the plaintiff would not have to prove that the public utility acted negligently. These actions have occurred in connection with events such as floods, mudslides and debris flow, broken water mains, landslides and wild and brush fires.
+
+Contesting an exercise of condemnation, eminent domain or other similar process, or responding to a citizen petition, may result in costly legal proceedings and may divert the attention of management of affected 
+Regulated Businesses
+ from the operation of those businesses. Moreover, our efforts to resist the condemnation, eminent domain or other process may not be successful, which may require us to sell the operations at issue in a condemnation proceeding or to pay a private property owner compensation for the property damage suffered. If a municipality or other government subdivision succeeds in acquiring the assets of one or more of our 
+Regulated Businesses
+ through eminent domain or other process, there is a risk that we will not receive adequate compensation for the business, that we will not be able to keep the compensation, or that we will not be able to divest the business without incurring significant charges. Any of these outcomes may have a material adverse effect on our business, results of operations, financial condition, cash flows and liquidity.
+
+We rely on technology systems to facilitate the management of our business and customer and supplier relationships, and a disruption of these systems could adversely affect our business.
+
+Our technology systems, particularly our operational technology and IT systems, are an integral part of our business, and any disruption of these systems could significantly limit our ability to manage and operate our business efficiently, which, in turn, could cause our business and competitive position to suffer and adversely affect our results of operations. For example, we depend on these systems to bill customers, process orders, provide customer service, manage certain plant operations and construction projects, manage our financial records, track assets, remotely monitor certain of our plants and facilities and manage human resources, inventory and accounts receivable collections. These systems also enable us to purchase products from our suppliers and bill customers on a timely basis, maintain cost-effective operations and provide service to our customers.
+
+Although we do not believe that these systems are at a materially greater risk of failure or cybersecurity incidents than other similar organizations, our operational technology and IT systems remain vulnerable to damage or interruption from:
+
+•
+
+power loss, computer systems failures, and internet, telecommunications or data network failures;
+
+•
+
+operator error or improper operation by, or the negligent or improper supervision of, employees and contractors;
+
+26
+
+Table of Contents
+
+•
+
+physical and electronic loss of customer or employee data due to security breaches, cyber attacks, misappropriation and similar events;
+
+•
+
+computer viruses;
+
+•
+
+intentional security breaches, hacking, denial of services actions, misappropriation of data and similar events; and
+
+•
+
+severe weather and other events, including without limitation, hurricanes, tornadoes, fires, floods, earthquakes and other disasters.
+
+These events may result in physical and electronic loss of customer, employee or financial data, security breaches, misappropriation and other adverse consequences. In addition, a lack of or inadequate levels of redundancy for certain of these systems, including billing systems, could exacerbate the impact of any of these events on us. We may not be successful in developing or acquiring technology that is competitive and responsive to the needs of our business, and we might lack sufficient resources to make the necessary upgrades or replacements of outdated existing technology to enable us to continue to operate at our current level of efficiency.
+
+We may be subject to physical and/or cyber attacks.
+
+As operators of critical infrastructure, we may face a heightened risk of physical and/or cyber attacks. Our water and wastewater systems may be vulnerable to disability or failures as a result of physical or cyber acts of war or terrorism, vandalism or other causes. Our operational technology and IT systems throughout our businesses may be vulnerable to unauthorized access due to hacking, viruses, acts of war or terrorism, and other causes. Unauthorized access to confidential information located or stored on these systems could negatively and materially impact our customers, employees, suppliers and other third parties. While we have instituted certain safeguards to protect our operational technology and IT systems, those safeguards may not always be effective due to the evolving nature of cyber attacks and cyber vulnerabilities. We cannot guarantee that such protections will be completely successful in the event of a cyber attack.
+
+If, despite our security measures, a significant physical attack or cyber breach occurred, our operations could be disrupted, property damaged, and customer and other confidential information lost or stolen; experience substantial loss of revenues, response costs and other financial loss; suffer a loss of management time, attention and resources from our regular business operations; and be subject to increased regulation, litigation, and damage to our reputation, any of which could have a negative impact on our business, results of operations and cash flows. These types of events, either impacting our facilities or the industry in general, could also cause us to incur additional security and insurance related costs. Losses resulting from a physical or cyber attack against us or our operations or assets may not be covered by, or may exceed the coverage provided by, applicable insurance policies.
+
+In addition, in the ordinary course of business, we collect and retain sensitive information, including personally identifiable information, about our customers and employees. In many cases, we outsource administration of certain functions to vendors that could be targets of cyber attacks. Any theft, loss and/or fraudulent use of customer, employee or proprietary data as a result of a cyber attack could subject us to significant litigation, liability and costs, as well as adversely impact our reputation with customers and regulators, among others.
+
+Our inability to efficiently upgrade and improve our operational technology and IT systems, or implement new systems, could result in higher than expected costs or otherwise adversely impact our internal controls environment, operations and profitability.
+
+Upgrades and improvements to computer systems and networks, or the implementation of new systems, may require substantial amounts of management’s time and financial resources to complete, and may also result in system or network defects or operational errors due to multiple factors, including employees’ ability to effectively use the new or upgraded system. We continue to implement technology to improve our business processes and customer interactions, and have installed new, and upgraded existing, technology systems. These efforts support our broader strategic initiatives and are intended to improve our operations and enhance our customer service capabilities. Any technical or other difficulties in upgrading and improving existing or implementing new technology systems may increase costs beyond those anticipated and have an adverse or disruptive effect on our operations and reporting processes, including our internal control over financial reporting. We may also experience difficulties integrating current systems with new or upgraded systems, which may impact our ability to serve our customers effectively or efficiently. Although we make efforts to minimize any adverse impact on our controls, business and operations, we cannot assure that all such impacts have been or will be mitigated, and any such impacts could harm our business (individually or collectively) and have a material adverse effect on our results of operations, financial condition and cash flows.
+
+Our business has inherently dangerous workplaces. If we fail to maintain safe work sites, we may experience workforce injuries or loss of life, and be exposed to financial losses, including penalties and other liabilities.
+
+Our safety record is critical to our reputation. We maintain health and safety standards to protect our employees, customers, contractors, vendors and the public. Although we intend to adhere to such health and safety standards and aim for zero injuries, it is extremely difficult to avoid accidents at all times.
+
+27
+
+Table of Contents
+
+Our business sites, including construction and maintenance sites, often put our employees, contractors and others in close proximity with large pieces of equipment, moving vehicles, pressurized water, underground trenches and vaults, chemicals and other regulated materials. On many sites we are responsible for safety and, accordingly, must implement safety procedures. If we fail to implement such procedures or if the procedures we implement are ineffective or are not followed by our employees or others, our employees, contractors and others may be injured or die. Unsafe work sites also have the potential to increase employee turnover, expose us to litigation and raise our operating costs. Any of the foregoing could result in financial losses, which could have a material adverse impact on our business, financial condition, results of operations and cash flows.
+
+In addition, our operations can involve the handling and storage of hazardous chemicals, which, if improperly handled, stored or disposed of, could subject us to penalties or other liabilities. We are also subject to regulations dealing with occupational health and safety. Although we maintain functional employee groups whose primary purpose is to ensure we implement effective health, safety, and environmental work procedures throughout our organization, including construction sites and maintenance sites, the failure to comply with such regulations or procedures could subject us to liability.
+
+Work stoppages and other labor relations matters could adversely affect our results of operations.
+
+As of 
+December 31, 2017
+, approximately 
+46%
+ of our workforce was represented by unions, and we had 
+76
+ collective bargaining agreements in place with 
+19
+ different unions representing our unionized employees. These collective bargaining agreements, including 
+35
+ which expired in 
+2017
+, and 
+20
+ which will expire during 
+2018
+, are subject to periodic renewal and renegotiation. Moreover, our national benefits agreement with most of the labor unions that represent employees in our Regulated Businesses expires on July 31, 2018 and will be renegotiated during 2018. We may not be able to successfully renew or renegotiate these labor contracts on terms that are fair to us. Any negotiations or dispute resolution processes undertaken in connection with our labor contracts could be delayed or affected by labor actions or work stoppages. Labor actions, work stoppages or the threat of work stoppages, and our failure to obtain favorable labor contract terms during renegotiations, may disrupt our operations and result in higher labor costs, which could adversely affect our financial condition, results of operations, cash flows and liquidity. While we have developed contingency plans to be implemented as necessary if a work stoppage or strike does occur, a strike or work stoppage may have a material adverse impact on our financial position, results of operations and cash flows.
+
+Our continued success is dependent upon our ability to hire, retain, and utilize qualified personnel.
+
+The success of our business is dependent upon our ability to hire, retain, and utilize qualified personnel, including engineers, licensed operators, water quality and other operating and craft personnel, and management professionals who have the required experience and expertise. From time to time, it may be difficult to attract and retain qualified individuals with the expertise and in the timeframe demanded for our business needs. In certain geographic areas, for example, we may not be able to satisfy the demand for our services because of our inability to successfully hire and retain qualified personnel.
+
+In addition, as some of our key personnel approach retirement age, we need to have appropriate succession plans in place and to successfully implement such plans. If we cannot attract and retain qualified personnel or effectively implement appropriate succession plans, it could have a material adverse impact on our business, financial condition, results of operations and cash flows.
+
+Financial and Market-Related Risks
+
+Our indebtedness could affect our business adversely and limit our ability to plan for or respond to changes in our business, and we may be unable to generate sufficient cash flows to satisfy our liquidity needs.
+
+As of 
+December 31, 2017
+, our aggregate long-term and short-term debt balance (including preferred stock with mandatory redemption requirements) was 
+$7.7 billion
+, and our working capital (defined as current assets less current liabilities) was in a deficit position. Our indebtedness could have important consequences, including:
+
+•
+
+limiting our ability to obtain additional financing to fund future working capital requirements or capital expenditures;
+
+•
+
+exposing us to interest rate risk with respect to the portion of our indebtedness that bears interest at variable rates;
+
+•
+
+limiting our ability to pay dividends on our common stock or make payments in connection with our other obligations;
+
+•
+
+impairing our access to the capital markets for debt and equity;
+
+•
+
+requiring that an increasing portion of our cash flows from operations be dedicated to the payment of the principal and interest on our debt, thereby reducing funds available for future operations, dividends on our common stock or capital expenditures;
+
+•
+
+limiting our ability to take advantage of significant business opportunities, such as acquisition opportunities, and to react to changes in market or industry conditions; and
+
+•
+
+placing us at a competitive disadvantage compared to those of our competitors that have less debt.
+
+28
+
+Table of Contents
+
+In order to meet our capital expenditure needs, we may be required to make additional borrowings under our revolving credit facility or issue new short-term and long-term debt securities. Moreover, additional borrowings may be required to refinance outstanding indebtedness. Debt maturities and sinking fund payments in 
+2018
+, 
+2019
+ and 
+2020
+ will be 
+$322 million
+, 
+$170 million
+ and 
+$51 million
+, respectively. We can provide no assurance that we will be able to access the debt capital markets on favorable terms, if at all. Moreover, if new debt is added to our current debt levels, the related risks we now face could intensify, limiting our ability to refinance existing debt on favorable terms.
+
+In an attempt to manage our exposure to interest rate risk associated with our issuance of variable and fixed-rate debt, we have entered into, and in the future may enter into, financial derivative instruments, including without limitation, interest rate swaps, forward starting swaps, swaptions and U.S. Treasury lock agreements. See 
+Item 7A—Quantitative and Qualitative Disclosures About Market Risk
+. However, these efforts may not be effective to fully mitigate interest rate risk, and may expose us to other risks and uncertainties, including quarterly “mark to market” valuation risk associated with these instruments, that could negatively and materially affect our financial condition, results of operations and cash flows.
+
+We will depend primarily on cash flows from operations to fund our expenses and to pay the principal and interest on our outstanding debt. Therefore, our ability to pay our expenses and satisfy our debt service obligations depends on our future performance, which will be affected by financial, business, economic, competitive, legislative (including tax initiatives and reforms, and other similar legislation or regulation), regulatory and other factors largely beyond our control. If we do not have sufficient cash flows to pay the principal and interest on our outstanding debt, we may be required to refinance all or part of our existing debt, reduce capital investments, sell assets, borrow additional funds or sell additional equity. In addition, if our business does not generate sufficient cash flows from operations, or if we are unable to incur indebtedness sufficient to enable us to fund our liquidity needs, we may be unable to plan for or respond to changes in our business, which could cause our financial condition, operating results and prospects to be affected adversely.
+
+Our inability to access the capital or financial markets or other events could affect our ability to meet our liquidity needs at reasonable cost and our ability to meet long-term commitments, which could adversely affect our financial condition and results of operations.
+
+In addition to cash from operations, we rely primarily on our revolving credit facility, commercial paper programs, and the capital markets to satisfy our liquidity needs. In this regard, our principal external sources of short-term liquidity are our 
+$1.6 billion
+ commercial paper program and our 
+$1.75 billion
+ revolving credit facility. Our revolving credit facility expires in accordance with its terms in June 2020. We regularly use our commercial paper program under this revolving credit facility as a principal source of short-term borrowing due to the generally more attractive rates we generally can obtain in the commercial paper market. As of 
+December 31, 2017
+, American Water Capital Corp. (“AWCC”), our wholly owned financing subsidiary, had no outstanding borrowings under the revolving credit facility, and had 
+$905 million
+ of commercial paper outstanding and 
+$84 million
+ in outstanding letters of credit. There can be no assurance that AWCC will be able to continue to access its commercial paper program or its revolving credit facility, when, as and if desired, or that the amount of capital available thereunder will be sufficient to meet all of our liquidity needs at a reasonable, or any, cost.
+
+Under the terms of our revolving credit facility, our consolidated debt cannot exceed 70% of our consolidated capitalization, as determined under the terms of the credit facility. If our equity were to decline or debt were to increase to a level that caused our debt to exceed this limit, lenders under the credit facility would be entitled to refuse any further extension of credit and to declare all of the outstanding debt under the credit facility immediately due and payable. To avoid such a default, a waiver or renegotiation of this covenant would be required, which would likely increase funding costs and could result in additional covenants that would restrict our operational and financing flexibility.
+
+Our ability to comply with this and other covenants contained in the revolving credit facility and our other consolidated indebtedness is subject to various risks and uncertainties, including events beyond our control. For example, events that could cause a reduction in equity include, without limitation, a significant write-down of our goodwill. Even if we are able to comply with this or other covenants, the limitations on our operational and financial flexibility could harm our business by, among other things, limiting our ability to incur indebtedness or reduce equity in connection with financings or other corporate opportunities that we may believe would be in our best interests or the interests of our stockholders to complete.
+
+29
+
+Table of Contents
+
+Disruptions in the capital markets or changes in our credit ratings could also limit our ability to access capital on terms favorable to us or at all. While the lending banks that participate in our revolving credit facility have met all of their obligations, disruptions in the credit markets, changes in our credit ratings, or deterioration of the banking industry’s financial condition could discourage or prevent lenders from meeting their existing lending commitments, extending the terms of such commitments, or agreeing to new commitments. These or other occurrences may cause our lenders to not meet their existing commitments, and we may not be able to access the commercial paper or loan or debt markets in the future on terms acceptable to us or at all. Furthermore, our inability to maintain, renew or replace commitments under this facility could materially increase our cost of capital and adversely affect our financial condition, results of operations and liquidity. Longer term disruptions in the capital and credit markets as a result of uncertainty, including as a result of changes in U.S. tax and other laws, reduced financing alternatives, or failures of significant financial institutions could adversely affect our access to the liquidity needed for our business. Any significant disruption in the capital, debt or credit markets, or financial institution failures could require us to take measures to conserve cash until the market stabilizes or until alternative financing can be arranged. Such measures could include deferring capital expenditures, reducing or suspending dividend payments, and reducing other discretionary expenditures.
+
+Any of the foregoing events that impede our access to the capital markets, or the failure of any of our lenders to meet their commitments that result from financial market disruptions, could expose us to increased interest expense, require us to institute cash conservation measures or otherwise adversely and materially affect our business, financial condition, results of operations, cash flows and liquidity.
+
+American Water may be unable to meet its ongoing and future financial obligations and to pay dividends on its common stock if its subsidiaries are unable to pay upstream dividends or repay funds to American Water.
+
+American Water is a holding company and, as such, American Water has no operations of its own. Substantially all of our consolidated assets are held by subsidiaries. American Water’s ability to meet its financial obligations and to pay dividends on its common stock is primarily dependent on the net income and cash flows of its subsidiaries and their ability to pay upstream dividends to American Water or repay indebtedness to American Water. Prior to paying dividends to American Water, American Water’s regulated subsidiaries must comply with applicable regulatory restrictions and financial obligations, including, for example, debt service and preferred and preference stock dividends, as well as applicable corporate, tax and other laws and regulations and agreements, and covenants and other agreements made or entered into by American Water and its subsidiaries. American Water’s subsidiaries are separate legal entities and have no obligation to pay dividends to American Water. A failure or inability of any of these subsidiaries to pay such dividends or repay intercompany obligations could have a material adverse impact on American Water’s liquidity and its ability to pay dividends on its common stock and meet its other obligations.
+
+We may not be able to fully utilize our U.S. and state net operating loss carryforwards.
+
+As of 
+December 31, 2017
+, we had U.S. federal and state NOL carryforwards of approximately 
+$1.05 billion
+ and 
+$322 million
+, respectively, and management believes it is more likely than not that these NOL carryforwards will be recovered in the future. With the enactment of the TCJA, the Company analyzed the impacts of the reduction in the U.S. federal corporate income tax rate from 35% to 21% on the Company’s deferred tax assets and liabilities, including its NOL carryforwards, and as a result, remeasured those NOL carryforwards as of the date of enactment of the TCJA based on this tax rate change.
+
+Our federal NOL carryforwards will begin to expire in 
+2028
+, and our state NOL carryforwards will begin to expire in 2018 through 2037. Our ability to utilize our NOL carryforwards is primarily dependent upon our ability to generate sufficient taxable income. We have, in the past, been unable to utilize certain of our state NOL carryforwards, and the establishment or increase of a valuation allowance in the future would reduce our deferred income tax assets and our net income.
+
+Our actual results may differ from those estimated by management in making its assessment as to our ability to use the NOL carryforwards. Moreover, adoption of Related Interpretations with respect to the TCJA and other changes in income tax laws, the economy and the general business environment could affect the future utilization of our NOL carryforwards. If we are unable to fully utilize our NOL carryforwards to offset taxable income generated in the future, our financial position, results of operations and cash flows could be materially adversely affected.
+
+We have recorded a significant amount of goodwill, and we may never realize the full value of our intangible assets, causing us to record impairments that may negatively affect our results of operations.
+
+Our total assets include 
+$1.4 billion
+ of goodwill at 
+December 31, 2017
+. The goodwill is primarily associated with the acquisition of American Water by an affiliate of our previous owner in 2003 and the acquisition of E’town Corporation by a predecessor to our previous owner in 2001, and, to a lesser extent, the acquisition of Keystone in 2015. Goodwill represents the excess of the purchase price the purchaser paid over the fair value of the net tangible and other intangible assets acquired. Goodwill is recorded at fair value on the date of an acquisition and is reviewed annually or more frequently if changes in circumstances indicate the carrying value may not be recoverable. As required by the applicable accounting rules, we have taken significant non-cash charges to operating results for goodwill impairments in the past.
+
+30
+
+Table of Contents
+
+We may be required to recognize an impairment of goodwill in the future due to market conditions or other factors related to our performance or the performance of an acquired business. These market conditions could include a decline over a period of time of our stock price, a decline over a period of time in valuation multiples of comparable water utilities, market price performance of our common stock that compares unfavorably to our peer companies, decreases in control premiums, or, with respect to Keystone, fluctuations in the level of exploration and production activities in the Marcellus and Utica shale regions served by Keystone, a prolonged depression of natural gas prices or other factors that negatively impact our current or future forecasts of operating results, cash flows or key assumptions. A decline in the results forecasted in our business plan due to events such as changes in rate case results, capital investment budgets or interest rates, could also result in an impairment charge. Recognition of impairments of goodwill would result in a charge to income in the period in which the impairment occurred, which may negatively affect our financial condition, results of operations and total capitalization. The effects of any such impairment could be material and could make it more difficult to maintain our credit ratings, secure financing on attractive terms, maintain compliance with debt covenants and meet the expectations of our regulators.
+
+Market conditions may impact the value of benefit plan assets and liabilities, as well as assumptions related to the benefit plans, which may require us to provide significant additional funding.
+
+The performance of the capital markets affects the values of the assets that are held in trust to satisfy significant future obligations under our pension and postretirement benefit plans. The value of these assets is subject to market fluctuations, which may cause investment returns to fall below our projected return rates. A decline in the market value of the pension and postretirement benefit plan assets can increase the funding requirements under our pension and postretirement benefit plans. Additionally, our pension and postretirement benefit plan liabilities are sensitive to changes in interest rates. If interest rates decrease, our liabilities would increase, potentially increasing benefit expense and funding requirements. Further, changes in demographics, such as increases in life expectancy assumptions and increasing trends in health care costs may also increase our funding requirements. Future increases in pension and other postretirement costs as a result of reduced plan assets may not be fully recoverable in rates, in which case our results of operations and financial position could be negatively affected.
+
+In addition, market factors can affect assumptions we use in determining funding requirements with respect to our pension and postretirement plans. For example, a relatively modest change in our assumptions regarding discount rates can materially affect our calculation of funding requirements. To the extent that market data compels us to reduce the discount rate used in our assumptions, our benefit obligations could be materially increased, which could adversely affect our financial position, results of operations and cash flows.
+
+New accounting standards or changes to existing accounting standards could materially impact how we report our results of operations, cash flow and financial condition.
+
+Our Consolidated Financial Statements are prepared in accordance with GAAP. The SEC, the Financial Accounting Standards Board or other authoritative bodies or governmental entities may issue new pronouncements or new interpretations of existing accounting standards that may require us to change our accounting policies. These changes are beyond our control, can be difficult to predict and could materially impact how we report our results of operations, cash flow and financial condition. We could be required to apply a new or revised standard retroactively, which could adversely affect our results of operations, cash flow and financial condition.
+
+Undetected errors in internal controls and information reporting could result in the disallowance of cost recovery and noncompliant disclosure.
+
+Our internal controls, accounting policies and practices and internal information systems are designed to enable us to capture and process transactions and information in a timely and accurate manner in compliance with GAAP, taxation requirements, federal securities laws and regulations and other laws and regulations applicable to us. Such compliance permits us to, among other things, disclose and report financial and other information in connection with the recovery of our costs and with the reporting requirements under federal securities, tax and other laws and regulations.
+
+We have implemented corporate governance, internal control and accounting policies and procedures in connection with the Sarbanes-Oxley Act of 2002 (the “Sarbanes-Oxley Act”) and relevant SEC rules, as well as other applicable regulations. Such internal controls and policies have been and continue to be closely monitored by our management and Board of Directors to ensure continued compliance with these laws, rules and regulations. Management is also responsible for establishing and maintaining internal control over financial reporting and is required to assess annually the effectiveness of these controls. While we believe these controls, policies, practices and systems are adequate to verify data integrity, unanticipated and unauthorized actions of employees or temporary lapses in internal controls due to shortfalls in oversight or resource constraints could lead to undetected errors that could result in the disallowance of cost recovery and noncompliant disclosure and reporting. The consequences of these events could have a negative impact on our results of operations and financial condition. The inability of management to certify as to the effectiveness of these controls due to the identification of one or more material weaknesses in these controls could also increase financing costs or could also adversely affect our or AWCC’s ability to access the capital markets.
+
+31
+
+Table of Contents
+
+Additional Risks Related to Our 
+Market-Based Businesses
+
+We (excluding our regulated subsidiaries) provide performance guarantees with respect to certain obligations of our 
+Market-Based Businesses
+, including financial guarantees or deposits, to our public-sector and public clients, and these clients may seek to enforce the guarantees if our 
+Market-Based Businesses
+ do not satisfy these obligations.
+
+Under the terms of some of our agreements for the provision of services to water and wastewater facilities with municipalities, other governmental entities and other customers, American Water (excluding our regulated subsidiaries) provides guarantees of specified performance obligations of our 
+Market-Based Businesses
+, including financial guarantees or deposits. In the event our 
+Market-Based Businesses
+ fail to perform these obligations, the entity holding the guarantees may seek to enforce the performance commitments against us or proceed against the deposit. In that event, our financial condition, results of operations, cash flows, and liquidity could be adversely affected.
+
+At 
+December 31, 2017
+, we had remaining performance commitments as measured by remaining contract revenue totaling approximately 
+$3.6 billion
+, and this amount is likely to increase if our 
+Market-Based Businesses
+ expand. The presence of these commitments may adversely affect our financial condition and make it more difficult for us to secure financing on attractive terms.
+
+AWE’s operations are subject to various risks associated with doing business with the U.S. government.
+
+We enter into contracts with the U.S. government for the operation and maintenance of water and wastewater systems, which contracts may be terminated, in whole or in part, prior to the end of the 50-year term for convenience of the U.S. government or as a result of default or non-performance by the subsidiary performing the contract. In addition, the contract price for each of these military contracts is typically subject to redetermination two years after commencement of operations and every three years thereafter. Price redetermination is a contract mechanism to periodically adjust the service fee in the next period to reflect changes in contract obligations and anticipated market conditions. Any early contract termination or unfavorable price redetermination could adversely affect our financial condition, results of operations and cash flows.
+
+Moreover, entering into contracts with the U.S. government subjects us to a number of operational and compliance risks, including dependence on the level of government spending and compliance with and changes in governmental procurement and security regulations. We are subject to potential government investigations of our business practices and compliance with government procurement and security regulations, which are complex, and compliance with these regulations can be expensive and burdensome. If we were charged with wrongdoing as a result of an investigation, we could be suspended or barred from bidding on or receiving awards of new contracts with the U.S. government, which could have a material adverse effect on our results of operations and cash flows.
+
+AWE operates a number of water and wastewater systems under O&M contracts and faces the risk that the owners of those systems may fail to provide capital to properly maintain those systems, which may negatively affect AWE as the operator of the systems.
+
+AWE operates a number of water and wastewater systems under O&M contracts. Pursuant to these contracts, AWE operates the system according to the standards set forth in the applicable contract, and it is generally the responsibility of the owner of the system to undertake capital improvements. In some cases, AWE may not be able to convince the owner to make needed improvements in order to maintain compliance with applicable regulations. Although violations and fines incurred by water and wastewater systems may be the responsibility of the owner of the system under these contracts, those non-compliance events may reflect poorly on AWE as the operator of the system and us, and damage our reputation, and in some cases, may result in liability to us to the same extent as if we were the owner.
+
+AWE’s 
+Market-Based Businesses
+ are party to long-term contracts to operate and maintain water and wastewater systems under which we may incur costs in excess of payments received.
+
+Some of AWE’s 
+Market-Based Businesses
+ enter into long-term contracts under which they agree to operate and maintain a municipality’s, federal government’s or other party’s water or wastewater treatment and delivery facilities, which includes specified major maintenance for some of those facilities, in exchange for an annual fee. These 
+Market-Based Businesses
+ are generally subject to the risk that costs associated with operating and maintaining the facilities, including production costs such as purchased water, electricity, fuel and chemicals used in water treatment, may exceed the fees received from the municipality or other contracting party. Losses under these contracts or guarantees may adversely affect our financial condition, results of operations, cash flows and liquidity.
+
+32
+
+Table of Contents
+
+Keystone’s operations may expose us to substantial costs and liabilities with respect to environmental laws and matters.
+
+Keystone’s operations, and the operation generally of natural gas and oil exploration and production facilities by Keystone’s customers, are subject to stringent federal, state and local laws, rules, regulations and ordinances governing the release of materials into the environment or otherwise relating to environmental protection. These provisions may require the acquisition by Keystone of permits or licenses before providing its services to customers, prohibit the release of substances defined thereunder as hazardous in connection with these activities, and impose substantial liabilities for the violation thereof that may result from these operations. Failure to comply with these laws, rules, regulations and ordinances may result in substantial environmental remediation and other costs to Keystone, the assessment of administrative, civil and criminal penalties or the issuance of injunctions restricting or prohibiting certain activities. Under existing environmental laws and regulations, Keystone could be held strictly liable for the removal or remediation of previously released materials or property contamination regardless of whether the release resulted from its operations, or whether its operations were in compliance with all applicable laws at the time they were performed. While we have structured and maintained our ownership and control of Keystone’s operations in such a way that we believe should insulate the Company, its regulated subsidiaries and its other 
+Market-Based Businesses
+ from any liabilities associated with Keystone’s operations, including liabilities for environmental matters, there can be no assurance that such efforts will be sufficient to prevent the Company from incurring liability for the operations of Keystone.
+
+Changes in environmental laws and regulations occur frequently, and any changes to these or other laws governing the natural gas and oil exploration industry that result in more stringent or costly water or wastewater handling, storage, transport, disposal or cleanup requirements could require Keystone to make significant expenditures to maintain compliance with such requirements, may harm Keystone’s business and results of operations by reducing the demand for Keystone’s water and related services, and may otherwise have a material adverse effect on Keystone’s competitive position, financial condition, results of operations and cash flows.

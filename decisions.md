@@ -245,3 +245,65 @@ pitfall #5's caveat), and the remaining 27 are thin one-offs scattered
 across 2006-2024 (plausible genuine gaps — mid-year bankruptcies, brief
 index membership, etc.) to be characterized properly in checkpoint 6's
 missingness dataset rather than hand-waved here.
+
+## 2026-08-02 — Checkpoint 4: Item 1A extraction, parser reuse, and a targeted secondary-document fix
+
+**Decision:** Reused `risk_factors_parser.py` from project 13 essentially
+as-is (adapted import paths only). Unlike the CIK resolution work, this
+component isn't identity-sensitive — its correctness is independently
+checkable by inspecting extracted section length/content — and it already
+encodes several confirmed real-world edge cases (ToC false starts, inline
+cross-references in Exxon's filings, McDonald's glossy-annual-report format
+with bare unprefixed headings, mid-word line breaks). Rewriting from
+scratch would just re-discover the same edge cases with no benefit.
+
+**First-pass result:** 7,205/7,312 filings (98.5%) extracted successfully,
+0 fetch failures. This is squarely in the "high 90s%" range pitfall #3
+anticipated.
+
+**Investigated the 107 misses instead of accepting the number blindly**
+(per pitfall #7): they were NOT random noise — 61% concentrated in just 6
+tickers (CLX 20, CINF 13, HAL 10, USB 10, C 7, KDP 5). Traced one
+(JNJ 2006) by hand: the primary document SEC lists for that filing is a
+173KB "Form 10-K Cross-Reference Index" — a bare page-number table with no
+substantive text at all — while the actual annual report content
+(including Item 1A) lives in a separate exhibit document within the same
+filing accession, a common older-era pattern for incorporating an annual
+report by reference. This is the same underlying phenomenon the parser's
+McDonald's handling addresses, except McDonald's embeds the annual report
+text directly in the primary document (bare, unprefixed headings) while
+these filers split it into a genuinely separate file.
+
+**Targeted fix (`03b_retry_missing_item_1a.py`):** for each miss, fetch the
+filing's `index.json` (lists every document in the accession) and try each
+non-primary document until one parses successfully. Recovered only 6/107
+(FCX 2006, USB 2008/2009/2010/2019/2020) — all recovered from the
+filing's full concatenated submission `.txt` file, not a dedicated exhibit;
+spot-checked USB 2008's recovered text and it's genuine risk-factors prose,
+not boilerplate. The much lower yield than the concentration pattern
+suggested means most of the remaining misses (JNJ, CLX, CINF, HAL, KDP,
+etc.) either don't have a machine-findable secondary document with a
+parseable heading, or genuinely have unusually-formatted risk sections this
+parser's heading patterns don't catch. This retry pass alone took ~40
+minutes for 107 rows (multiple documents fetched and parsed per miss,
+mostly failing) for a 5.6% recovery rate within that batch — a clear
+diminishing-returns signal.
+
+**Final result:** 7,211/7,312 (98.6%). Stopped here rather than chasing
+further per pitfall #3's explicit guidance ("expect to land in the high
+90s%... document the remainder rather than chasing it indefinitely") —
+the concentration pattern was worth one targeted fix, and that fix has now
+been tried and found to have a low ceiling for further gains.
+
+**Rejected alternative:** keep iterating on the secondary-document fallback
+(e.g. trying every remaining document type, adding OCR for scanned
+exhibits, loosening the parser's heading match further). Rejected given
+the measured 5.6% marginal recovery rate against a 40-minute cost for just
+this batch — not a good use of remaining project time relative to the
+other checkpoints still ahead.
+
+**Storage note:** extracted text totals 474MB across 7,211 `.txt` files in
+`data/clean/risk_factors/`, committed to git directly (same convention as
+project 13, which also committed its equivalent 534MB corpus) — DuckDB
+holds the manifest (`file_path` column) and provenance, not the blob text
+itself, per the project's stated storage convention.

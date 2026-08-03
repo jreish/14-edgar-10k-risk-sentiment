@@ -1,0 +1,240 @@
+Our operations and financial results are subject to various risks and uncertainties,
+including those described below, that could adversely affect our business, financial condition, results of operations, cash flows, and trading price of our common stock. 
+
+Challenges to our business model may reduce our revenues and operating margins.    Our business model has been based upon customers paying a fee to license software that we developed and distributed. Under this
+license-based software model, software developers bear the costs of converting original ideas into software products through investments in research and development, offsetting these costs with the revenue received from the distribution of their
+products. In recent years, certain “open source” software business models have evolved into a growing challenge to our license-based software model. Open source commonly refers to software whose source code is subject to a license allowing
+it to be modified, combined with other software and redistributed, subject to restrictions set forth in the license. A number of commercial firms compete with us using an open source business model by modifying and then distributing open source
+software to end users at nominal cost and earning revenue on complementary services and products. These firms do not have to bear the full costs of research and development for the software. A prominent example of open source software is the Linux
+operating system. Although we believe our products provide customers with significant advantages in security, productivity, and total cost of ownership, the popularization of the open source software model continues to pose a significant challenge
+to our business model, including continuing efforts by proponents of open source software to convince governments worldwide to mandate the use of open source software in their purchase and deployment of software products. To the extent open source
+software gains increasing market acceptance, sales of our products may decline, we may have to reduce the prices we charge for our products, and revenue and operating margins may consequently decline. 
+
+Another development is the software-as-a-service business model, by which companies provide applications, data, and related services over the Internet. Providers
+use primarily advertising or subscription-based revenue models. Recent advances in computing and communications technologies have made this model viable and enabled the rapid growth of some of our competitors. We are devoting significant resources
+toward developing our own competing software plus services strategies. It is uncertain whether these strategies will prove successful. 
+
+We face intense
+competition.    We continue to experience intense competition across all markets for our products and services. Our competitors range in size from Fortune 100 companies to small, specialized single-product businesses and open
+source community-based projects. Although we believe the breadth of our businesses and product portfolio are a competitive advantage, our competitors that are focused on narrower product lines may be more effective in devoting technical, marketing,
+and financial resources to compete with us. In addition, barriers to entry in our businesses generally are low and products, once developed, can be distributed broadly and quickly at relatively low cost. Open source software vendors are devoting
+considerable efforts to developing software that mimics the features and functionality of our products. In response to competition, we are developing versions of our products with basic functionality that are sold at lower prices than the standard
+versions. These competitive 
+
+PAGE
+
+12
+
+Table of Contents
+
+ Part I  
+
+Item 1A 
+
+pressures may result in decreased sales volumes, price reductions, and/or increased operating costs, such as for marketing and sales incentives, resulting in lower
+revenue, gross margins and operating income. 
+
+We may not be able to adequately protect our intellectual property rights.    Protecting our
+global intellectual property rights and combating unlicensed copying and use of software and other intellectual property is difficult. While piracy adversely affects U.S. revenue, the impact on revenue from outside the U.S. is more significant,
+particularly in countries where laws are less protective of intellectual property rights. Similarly, the absence of harmonized patent laws makes it more difficult to ensure consistent respect for patent rights. Throughout the world, we actively
+educate consumers about the benefits of licensing genuine products and obtaining indemnification benefits for intellectual property risks, and we educate lawmakers about the advantages of a business climate where intellectual property rights are
+protected. However, continued educational and enforcement efforts may fail to enhance revenue. Reductions in the legal protection for software intellectual property rights or additional compliance burdens could both adversely affect revenue.
+
+Third parties may claim we infringe their intellectual property rights.    From time to time we receive notices from others claiming we
+infringe their intellectual property rights. The number of these claims may grow. To resolve these claims we may enter into royalty and licensing agreements on less favorable terms, stop selling or redesign affected products, or pay damages to
+satisfy indemnification commitments with our customers. Such agreements may cause operating margins to decline. We have made and expect to continue making significant expenditures to settle claims related to the use of technology and intellectual
+property rights as part of our strategy to manage this risk. 
+
+We may not be able to protect our source code from copying if there is an unauthorized disclosure of
+source code.    Source code, the detailed program commands for our operating systems and other software programs, is critical to our business. Although we license portions of our application and operating system source code
+to a number of licensees, we take significant measures to protect the secrecy of large portions of our source code. If an unauthorized disclosure of a significant portion of our source code occurs, we could potentially lose future trade secret
+protection for that source code. This could make it easier for third parties to compete with our products by copying functionality, which could adversely affect our revenue and operating margins. Unauthorized disclosure of source code could also
+increase the security risks described in the next paragraph. 
+
+Security vulnerabilities in our products could lead to reduced revenues or to liability
+claims.    Maintaining the security of computers and computer networks is a critical issue for us and our customers. Hackers develop and deploy viruses, worms, and other malicious software programs that attack our products.
+Although this is an industry-wide problem that affects computers across all platforms, it affects our products in particular because hackers tend to focus their efforts on the most popular operating systems and programs and we expect them to
+continue to do so. We devote significant resources to address security vulnerabilities through: 
+
+•
+
+ engineering more secure products; 
+
+•
+
+ enhancing security and reliability features in our products; 
+
+•
+
+ helping our customers make the best us of our products and services to protect against computer viruses and other attacks; 
+
+•
+
+ improving the deployment of software updates to address security vulnerabilities; 
+
+•
+
+ investing in mitigation technologies that help to secure customers from attacks even when such software updates are not deployed; and 
+
+•
+
+ providing customers online automated security tools, published security guidance, and security software such as firewalls, anti-virus, and other security software.
+
+The cost of these steps could reduce our operating margins. Despite these efforts, actual or perceived security vulnerabilities in
+our products could lead some customers to seek to return products, to reduce or delay future purchases, or to use competing products. Customers may also increase their expenditures on protecting their existing computer systems from attack, which
+could delay adoption of new technologies. Any of these actions by customers could adversely affect our revenue. In addition, actual or perceived vulnerabilities may lead to claims against us. Although our license agreements typically contain
+provisions that eliminate or limit our exposure to such liability, there is no assurance these provisions will be held effective under applicable laws and judicial decisions. 
+
+PAGE
+
+13
+
+Table of Contents
+
+ Part I  
+
+Item 1A 
+
+We are subject to government litigation and regulatory activity that
+affects how we design and market our products.    As a leading global software maker, we receive close scrutiny from government agencies under U.S. and foreign competition laws. Some jurisdictions also provide private rights
+of action for competitors or consumers to assert claims of anti-competitive conduct. For example, we have been involved in the following actions. 
+
+Lawsuits brought by the U.S. Department of Justice, 18 states, and the District of Columbia in two separate actions were resolved through a Consent Decree that took effect in November 2001 and a Final Judgment entered in November 2002.
+These proceedings imposed various constraints on our Windows operating system businesses. These include limits on certain contracting practices, mandated disclosure of certain software program interfaces and protocols, and rights for computer
+manufacturers to limit the visibility of certain Windows features in new PCs. Some of these rules will expire in November 2007; others will stay in force until November 2009 or later. Although we believe we are in full compliance with these rules,
+if we fail to comply with them, additional restrictions could be imposed on us that would adversely affect our business. 
+
+In March 2004, the European
+Commission ordered us to create new versions of Windows that do not include certain multimedia technologies to provide our competitors with specifications for how to implement certain proprietary Windows communications protocols in their own
+products. The design of these special versions of Windows and the terms on which we make our protocol technology available are closely regulated by the Commission. The product design aspect of the Commission decision may limit our ability to
+innovate in Windows in the future, diminish the developer appeal of the Windows platform and increase our product development costs. The availability of protocol licenses may enable competitors to develop software products that better mimic the
+functionality of Microsoft’s own products which could result in a reduction in sales of our products. Pending resolution of Microsoft’s appeal, there will remain uncertainty about the legal principles that govern product design and
+intellectual properties for future releases of Microsoft products in Europe. 
+
+In February 2006, the Korean Fair Trade Commission (“KFTC”)
+issued a decision requiring us to offer two versions of Windows PC operating systems, one with Windows Media Player and instant messaging software removed and another with those functionalities included but also including promotional links to
+competing software products. If upheld on appeal, these remedies could adversely affect the utility and competitive position of Windows PC operating systems in Korea. 
+
+Government regulatory actions and court decisions may hinder our ability to provide the benefits of our software to consumers and businesses, thereby reducing the attractiveness of our products and the revenues that come from
+them. New legal actions could be initiated at any time, either by these or other governments or private claimants including with respect to new versions of Windows or other Microsoft products. The outcome of such legal actions could adversely affect
+us in a variety of ways, including: 
+
+•
+
+ We may have to choose between withdrawing products from certain geographies to avoid fines or designing and developing alternative versions of those products to meet mandated
+government specifications, which may entail removing functionality that customers want or developers rely on. 
+
+•
+
+ Creating mandated alternative versions of our products may cause confusion that harms our reputation, including among consumers and with software and Web site developers who
+rely on the functionality removed from these alternative versions. 
+
+•
+
+ Government agencies may require that we make available licenses to our proprietary protocol technologies on terms that do not reflect their fair market value or do not
+protect our associated intellectual property. 
+
+•
+
+ If not reversed or limited on appeal, the rulings described above may be cited as a precedent in other proceedings that seek to limit our ability to continue to improve
+Windows by adding new functionality in response to consumer demand or to build our own software development efforts. 
+
+Our software and services
+online offerings are subject to government regulation of the Internet domestically and internationally in many areas including user privacy, telecommunications, data protection, and online content. The application of these laws and regulations to
+our business is often unclear and sometimes may conflict. Compliance with these regulations may involve significant costs or require changes in business practices that result in reduced revenue. Noncompliance could result in penalties being imposed
+on us or orders that we stop doing the alleged noncompliant activity. 
+
+Our business depends largely on our ability to attract and retain talented
+employees.    Our business is based on successfully attracting and retaining talented employees. The market for highly skilled workers and leaders in our 
+
+PAGE
+
+14
+
+Table of Contents
+
+ Part I  
+
+Item 1A 
+
+industry is extremely competitive. We are limited in our ability to recruit internationally by restrictive domestic immigration laws. If we are less successful in our
+recruiting efforts, or if we are unable to retain key employees, our ability to develop and deliver successful products and services may be adversely affected. Effective succession planning is also important to our long-term success. Failure to
+ensure effective transfer of knowledge and smooth transitions involving key employees could hinder our strategic planning and execution. 
+
+Delays in product
+development schedules may adversely affect our revenues.    The development of software products is a complex and time-consuming process. New products and enhancements to existing products can require long development and
+testing periods. Significant delays in new product releases or significant problems in creating new products could adversely affect our revenue. 
+
+We make
+significant investments in new products and services that may not be profitable.    We have made and will continue to make significant investments in research, development, and marketing for new products, services, and
+technologies, including Windows Vista, the 2007 Microsoft Office system, Xbox 360, Live Search, Windows Server, Zune, and Windows Live. Investments in new technology are inherently speculative. Commercial success depends on many factors including
+innovativeness, developer support, and effective distribution and marketing. We may not achieve significant revenue from new product and service investments for a number of years, if at all. Moreover, new products and services may not be profitable,
+and even if they are profitable, operating margins for new products and businesses may not be as high as the margins we have experienced historically. 
+
+Adverse
+economic conditions may harm our business.    Inflation, softness in corporate information technology spending, or other changes in general economic conditions that affect demand for computer hardware or software could
+adversely affect our revenue or our investment portfolio. If overall market demand for PCs, servers, and other computing devices declines significantly, or consumer or corporate spending for such products declines, our revenue will be adversely
+affected. In addition, our revenue would be unfavorably impacted if customers reduce their purchases of new software products or upgrades because new offerings such as Windows Vista and the 2007 Microsoft Office system are not perceived as providing
+significant new functionality or other value to prospective purchasers. 
+
+We have claims and lawsuits against us that may result in adverse
+outcomes.    We are subject to a variety of claims and lawsuits. Adverse outcomes in some or all of the claims pending against us may result in significant monetary damages or injunctive relief against us that could adversely
+affect our ability to conduct our business. Although management currently believes that resolving all of these matters, individually or in the aggregate, will not have a material adverse impact on our financial position, results of operations, or
+cash flows, the litigation and other claims are subject to inherent uncertainties and management’s view of these matters may change in the future. There exists the possibility of a material adverse impact on our financial position, results of
+operations, and cash flows for the period in which the effect of an unfavorable final outcome becomes probable and reasonably estimable. 
+
+We may have additional
+tax liabilities.    We are subject to income taxes in both the United States and numerous foreign jurisdictions. Significant judgment is required in determining our worldwide provision for income taxes. In the ordinary course
+of our business, there are many transactions and calculations where the ultimate tax determination is uncertain. We are regularly under audit by tax authorities. Although we believe our tax estimates are reasonable, the final determination of tax
+audits and any related litigation could be materially different from our historical income tax provisions and accruals. The results of an audit or litigation could have a material effect on our income tax provision, net income or cash flows in the
+period or periods for which that determination is made. 
+
+Our consumer hardware products may experience quality or supply problems.    Our
+hardware products such as the Xbox 360 console are highly complex and can have defects in design, manufacture or associated software. We could incur significant expenses, lost revenue, and reputational harm if we fail to detect or effectively
+address such issues through design, testing or warranty repairs. 
+
+We obtain some components of our hardware devices from sole suppliers. If a
+component delivery from a sole-source supplier is delayed or becomes unavailable or industry shortages occur, we may be unable to obtain replacement supplies on a timely basis, resulting in reduced sales. Either component shortages or excess
+inventory may require us to record charges to cost of revenue. Xbox 360 consoles are assembled in Asia; disruptions in the supply chain may result in console shortages that would affect our revenues and operating margins. 
+
+PAGE
+
+15
+
+Table of Contents
+
+ Part I  
+
+Item 1A, 1B 
+
+If our goodwill or amortizable intangible assets become impaired
+we may be required to record a significant charge to earnings.    Under generally accepted accounting principles, we review our amortizable intangible assets for impairment when events or changes in circumstances indicate the
+carrying value may not be recoverable. Goodwill is tested for impairment at least annually. Factors that may be considered a change in circumstances indicating that the carrying value of our goodwill or amortizable intangible assets may not be
+recoverable include a decline in stock price and market capitalization, reduced future cash flow estimates, and slower growth rates in our industry. We may be required to record a significant charge to earnings in our financial statements during the
+period in which any impairment of our goodwill or amortizable intangible assets is determined, negatively impacting our results of operations. 
+
+We operate a
+global business that exposes us to additional risks.    We operate in over 100 countries and a significant part of our revenue comes from international sales. Pressure to make our pricing structure uniform might require that
+we reduce the sales price of our software in the United States and other countries. Operations outside the United States may be affected by changes in trade protection laws, policies and measures, and other regulatory requirements affecting trade
+and investment; changes in regulatory requirements for software; social, political, labor or economic conditions in a specific country or region; and difficulties in staffing and managing foreign operations. Although we hedge a portion of our
+international currency exposure, significant fluctuations in exchange rates between the U.S. dollar and foreign currencies may adversely affect our net revenues. 
+
+Catastrophic events or geo-political conditions may disrupt our business.    A disruption or failure of our systems or operations in the event of a major earthquake, weather event, cyber-attack, terrorist attack,
+or other catastrophic event could cause delays in completing sales, providing services or performing other mission-critical functions. Our corporate headquarters, a significant portion of our research and development activities, and certain other
+critical business operations are located in the Seattle, Washington area, and we have other business operations in the Silicon Valley area of California, both of which are near major earthquake faults. A catastrophic event that results in the
+destruction or disruption of any of our critical business or information technology systems could severely affect our ability to conduct normal business operations and, as a result, our operating results could be adversely affected. Abrupt political
+change, terrorist activity, and armed conflict pose a risk of general economic disruption in affected countries or operating costs. These conditions may lend additional uncertainty to the timing and budget for technology investment decisions by our
+customers. 
+
+Acquisitions and joint ventures may have an adverse effect on our business.    We expect to continue making acquisitions or
+entering into joint ventures as part of our long-term business strategy. These transactions involve significant challenges and risks including that the transaction does not advance our business strategy, that we don’t realize a satisfactory
+return on the investment we make, or that we experience difficulty in the integration of new employees, business systems, and technology, or diversion of management’s attention from our other businesses. These factors could adversely affect our
+operating results or financial condition. 
+
+Improper disclosure of personal data could result in liability and harm our reputation.    We
+store and process significant amounts of personally identifiable information. It is possible that our security controls over personal data, our training of employees and vendors on data security, and other practices we follow may not prevent the
+improper disclosure of personally identifiable information. Such disclosure could harm our reputation and subject us to liability under laws that protect personal data, resulting in increased costs or loss of revenue. Our software products also
+enable our customers to store and process personal data. Perceptions that our products do not adequately protect the privacy of personal information could inhibit sales of our products. 
+
+Other risks that may affect our business.    Other factors that may affect our performance may include sales channel disruption, such as the bankruptcy of a major distributor, and our ability to
+implement operating cost structures that align with revenue growth.

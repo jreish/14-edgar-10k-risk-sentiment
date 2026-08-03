@@ -1,0 +1,361 @@
+below, which is incorporated into this section by reference.
+
+Environmental Sustainability
+
+At PTC, we’re working to contribute to the decarbonization and circularity of global manufacturing. While we have a climate action plan committed to reducing our company’s “footprint,” we believe far larger benefits will flow from our “handprint” stemming from our software offerings. Our software solutions enable manufacturers to design, build, and service their products more sustainably.
+
+Footprint
+
+Our emission reduction plan was validated by the Science Based Targets initiative (SBTi) in September 2024. Our near-term commitment is to reduce by 2030 combined Scope 1 (direct emissions from owned/controlled operations) and Scope 2 (indirect energy use) emissions by 50% and reduce Scope 3 - Category 1 (Purchased Goods and Services) by 25% compared to our 2022 baseline. Our long-term net-zero commitment is to reach net-zero across all scope emissions by 2050, with absolute reductions of over 90% across Scopes 1-3, with accredited carbon removal offsets for the remaining 10% (or less) as needed.
+
+We have already begun to implement programs and pursue initiatives to reduce our emissions and carbon footprint, including:
+
+•
+entering into a Virtual Power Purchase Agreement (VPPA) to reduce our future carbon footprint;
+
+•
+prioritizing energy efficiency and accessibility to public transportation when selecting office space; 
+
+•
+providing a subsidy for employee’s public transportation commute costs; and 
+
+•
+selecting suppliers with decarbonization targets.
+
+Handprint
+
+Environmental sustainability is integral to our product offerings. With our software, manufacturers can support their sustainability and compliance initiatives, including by designing with less material, enhancing product repairability and circularity, improving factory efficiency, and enabling remote service.
+
+4
+
+Table of Contents
+
+People and Culture
+
+Within our work environment we seek to create an equitable and inclusive culture in which all employees can thrive. This is a key aspect of our talent strategy. Our approach is focused on promoting an agile culture, an increased sense of belonging, engaged work environments, and high-performing teams.
+
+5
+
+Table of Contents
+
+PTC at-a-Glance
+
+As of September 30, 2024, PTC had 7,501 full-time employees. Our employee population is geographically diverse and serves a geographically diverse customer and partner network.
+
+Worldwide Employee Representation
+
+United States Employee Representation
+
+6
+
+Table of Contents
+
+Compensation and Benefits
+
+PTC provides a comprehensive and competitive compensation and benefits package designed to attract, retain, motivate, and engage talent around the world, including base salaries, and, for eligible roles, incentive and equity compensation. Employees also have the opportunity to purchase PTC stock at a discount through our Employee Stock Purchase Plan.
+
+Our benefit offerings are designed to meet the needs of our employees and their families around the world. Specific offerings differ country by country due to cultural norms, market dynamics, and legal requirements, but we provide a wide variety of core health and financial programs such as healthcare, life and disability insurance, employee assistance plans, retirement savings and pension benefit plans, and generous paid family leave and vacation time.
+
+ Talent Development & Employee Engagement
+
+As we focus on enhancing the employee experience, we are increasing our efforts to invest in our people and create meaningful opportunities to learn, grow, develop, and advance their careers. We have specific development programs and coaching programs, as well as numerous other self-led learning paths. The variety of options means that employees have the ability to focus on the development path most meaningful to them.
+
+Diversity, Equity, and Inclusion (DEI)
+
+Commitment to our values and diversity in our workforce is supported by various ongoing efforts. We mitigate bias by coaching managers and leaders in fostering psychologically safe environments. We also review and revise our processes based on feedback and engagement scores from employee pulse surveys. We embed equitable practices into the planning and execution of how we attract, select, develop, and retain talent. Meanwhile, our DEI ambassadors are aligned with business functions to amplify and enhance our efforts in these areas. Finally, to cultivate a community of belonging, our 11 Employee Resource Groups foster an inclusive culture and facilitate safe spaces for employees to navigate social issues and challenges.
+
+Additional Information About Our Employee Initiatives
+
+You can find more information about our employee initiatives in our 2024 Impact Report, which we expect to release in early 2025.
+
+Available Information
+
+We make available free of charge on our website at www.ptc.com the following reports as soon as reasonably practicable after electronically filing them with, or furnishing them to, the SEC: our Annual Reports on Form 10-K; our Quarterly Reports on Form 10-Q; our Current Reports on Form 8-K; and amendments to those reports filed or furnished pursuant to Sections 13(a) or 15(d) of the Securities Exchange Act of 1934. Our Proxy Statements for our Annual Meetings and Section 16 trading reports on SEC Forms 3, 4 and 5 also are available on our website.
+
+Corporate Information
+
+PTC was incorporated in Massachusetts in 1985 and is headquartered in Boston, Massachusetts.
+
+7
+
+Table of Contents
+
+
+
+The following are important factors we have identified that could affect an investment in our securities. You should consider them carefully when evaluating an investment in PTC securities, because these factors could cause actual results to differ materially from historical results or any forward-looking statements. The risks described below are not the only risks we face. Additional risks and uncertainties not currently known to us or that we currently deem to be immaterial may also materially adversely affect our business, financial condition, operating results, and prospects.
+
+I. Risks Related to Our Business Operations and Industry
+
+We face significant competition, which could adversely affect our business, financial condition, operating results, and prospects if we are unable to successfully compete.
+
+The markets for our products and solutions are rapidly changing and characterized by intense competition, disruptive technology developments, evolving distribution models and increasingly lower barriers to entry. If we are unable to provide products and solutions that address customers’ needs as well as our competitors’ products and solutions do, or to align our pricing, licensing and delivery models with customer preferences, we could lose customers and/or fail to attract new customers, which could adversely affect our business, financial condition, operating results, and prospects.
+
+For example, customer demand for SaaS solutions is increasing. While our Arena, ServiceMax, and Onshape solutions are cloud-native SaaS solutions, and we have introduced our Windchill+, Creo+, and Kepware+ SaaS solutions, customers may not adopt them as we expect. If we are unable to compete successfully with competitors offering SaaS solutions, we could lose customers and/or fail to attract new customers, which could adversely affect our business, financial condition, operating results, and prospects.
+
+Our current and potential competitors range from large and well-established companies to emerging start-ups. Some of our competitors and potential competitors have greater name recognition in the markets we serve and greater financial, technical, sales and marketing, and other resources, which could limit our ability to gain customer recognition and confidence in our products and solutions and successfully sell our products and solutions, which could adversely affect our ability to grow our business.
+
+A breach of security in our products or computer systems, or those of our third-party service providers, could compromise the integrity of our products, cause loss of data, harm our reputation, create additional liability and adversely affect our business, financial condition, operating results, and prospects.
+
+We have implemented and continue to implement measures intended to maintain the security and integrity of our products, source code and IT systems. The potential for a security breach or system disruption has significantly increased over time as the scope, number, intensity and sophistication of attempted cyberattacks and cyber intrusions have increased – particularly cyberattacks and intrusions designed to access and exfiltrate information and to disrupt and lock up access to systems for the purpose of demanding a ransom payment. It is impossible for us to eliminate the risk of a successful cyberattack or intrusion, and, in fact, we regularly deal with security issues and have experienced security incidents from time to time. Accordingly, there is a risk that a cyberattack or intrusion will be successful and that such event will be material.
+
+In addition, we offer cloud services to our customers and some of our products, including our SaaS products, are hosted by third-party service providers, which expose us to additional risks as those repositories of our customers’ proprietary data may be targeted and a cyberattack or intrusion may be successful and material. Interception of data transmission, misappropriation or modification of data, corruption of data and attacks against our service providers may adversely affect our products or product and service delivery. Malicious code, viruses or vulnerabilities that are undetected by us or our service providers may disrupt our business operations generally and may have a disproportionate effect on those of our products that are developed and delivered in the cloud environment.
+
+8
+
+Table of Contents
+
+While we devote resources to maintaining the security and integrity of our products and systems, as well as performing due diligence of our third-party service providers, security breaches that have not had a material effect on our business or that of our customers have occurred, and we will continue to face cybersecurity threats and exposure. A significant breach of the security and/or integrity of our products or systems, or those of our third-party service providers, whether intentional or by human error by our employees or others, could disrupt our business operations or those of our customers, could prevent our products from functioning properly, could enable access to sensitive, proprietary or confidential information of our customers, or could enable access to our sensitive, proprietary or confidential information. This could require us to incur significant costs of investigation, remediation and/or payment of a ransom; harm our reputation; cause customers to stop buying our products; and cause us to face lawsuits and potential liability, any of which could have a material adverse effect on our business, financial condition, operating results, and prospects.
+
+We have a large ecosystem of strategic, technology, and software partners and system integrators that enable us to enhance our products and offerings, expand our market reach, and accelerate our customers’ digital transformation journeys. Failures by those partners or termination of those relationships could adversely affect our business, financial condition, operating results, and prospects.
+
+We have many strategic, technology, and software partner and system integrator relationships with other companies that provide technologies and software that we embed in our solutions, that provide implementation services to our customers, that we work with to offer complementary solutions and services, and that market and sell our solutions. If these companies fail to perform as we expect, or if a company terminates or substantially alters the terms of the relationship, we could experience delays in product development, reduced or delayed sales, customer dissatisfaction, and additional expenses, and our business, financial condition, results of operations, and prospects could be materially adversely affected.
+
+We increasingly rely on third-party providers of cloud infrastructure services to deliver our offerings to users on our platform, and any disruption of or interference with our use of these services could adversely affect our business, financial condition, operating results, and prospects.
+
+Our continued growth depends in part on the ability of our existing and potential customers to use and access our cloud services or our website in order to download our software or encrypted access keys for our software within an acceptable amount of time. We use a number of third-party service providers that we do not control for key components of our infrastructure, particularly with respect to development and delivery of our cloud-based products. The use of these service providers gives us greater flexibility in efficiently delivering a more tailored, scalable customer experience, but also exposes us to additional risks and vulnerabilities. Third-party service providers operate their own platforms that we access, and we are, therefore, vulnerable to their service interruptions. We may experience interruptions, delays and outages in service and availability from time to time as a result of problems with our third-party service providers’ infrastructure. Lack of availability of this infrastructure could be due to a number of potential causes including technical failures, natural disasters, fraud or security attacks that we cannot predict or prevent. Such outages could adversely impact our business, financial condition, results of operations, and prospects.
+
+If we are unable to renew our agreements with our cloud service providers on commercially reasonable terms, or any of our agreements are prematurely terminated, or we need to add new cloud services providers to increase capacity and uptime, we could experience interruptions, downtime, delays, and additional expenses related to transferring to and providing support for these new platforms. Any of the above circumstances or events may harm our reputation and brand, reduce the availability or usage of our platforms and impair our ability to attract new users, any of which could adversely affect our business, financial condition, results of operations, and prospects.
+
+9
+
+Table of Contents
+
+We may be unable to hire or retain employees with the necessary skills to operate and grow our business, which could adversely affect our ability to compete and adversely affect our business, financial condition, results of operations, and prospects.
+
+Our success depends upon our ability to attract and retain highly skilled employees to develop and sell our products and solutions and to operate and grow our business. Competition for such employees in our industry is intense worldwide.
+
+If we are unable to attract and retain employees with the requisite skills to develop and sell our products and solutions, or to guide, operate and support our business, we may be unable to compete successfully, which would adversely affect our business, financial condition, results of operations, and prospects.
+
+We depend on sales within the discrete manufacturing sector and our business could be adversely affected if manufacturing activity does not grow or if it contracts, or if manufacturers are adversely affected by other macroeconomic factors.
+
+A large amount of our sales are to customers in the discrete manufacturing sector. Manufacturers worldwide continue to face uncertainty about the global macroeconomic environment due to, among other factors, the effects of earlier and ongoing supply chain disruptions, high interest rates and inflation, volatile foreign exchange rates and the current relative strength of the U.S. Dollar, and the U.S. government’s focus on technology transactions with non-U.S. entities. Customers may delay, reduce, or forego purchases of our solutions due to these challenges and concerns, which could adversely affect our business, financial condition, results of operations, and prospects.
+
+If we fail to successfully transform our operations to support the sale of SaaS solutions and to develop competitive SaaS solutions, our business and prospects could be adversely affected.
+
+Transforming our business to offer and support SaaS solutions requires considerable additional investment in our organization. Whether we will be successful and will accomplish our business and financial objectives is subject to risks and uncertainties, including but not limited to: our ability to further develop and scale infrastructure, our ability to include functionality and usability in such offerings that address customer requirements, our ability and the ability of our partners to transition existing customer implementations to SaaS, customer demand, attach and renewal rates, channel adoption, and our costs. If we are unable to successfully establish these new offerings and navigate our business transition, our business, financial condition, results of operations, and prospects could be adversely affected.
+
+Because our sales and operations are globally dispersed, we face additional compliance risks, and any compliance failure could adversely affect our business and prospects.
+
+We sell and deliver software and services, and maintain support operations, in many countries whose laws and practices differ from one another and are subject to unexpected changes. Managing these geographically dispersed operations requires significant attention and resources to ensure compliance with laws of those countries and those of the U.S. governing our activities in non-U.S. countries.
+
+Those laws include, but are not limited to, anti-corruption laws and regulations (including the U.S. Foreign Corrupt Practices Act (FCPA) and the U.K. Bribery Act 2010), data privacy laws and regulations (including the European Union's General Data Privacy Regulation), and trade and economic sanctions laws and regulations (including laws administered by the U.S. Department of the Treasury’s Office of Foreign Assets Control, the U.S. State Department, the U.S. Department of Commerce, the United Nations Security Council and other sanctions authorities). Our compliance risks are heightened due to the go-to-market approach for our business that relies heavily on a partner ecosystem, the fact that some of the countries we operate in have a higher incidence of corruption and fraudulent business practices, the fact that we sell to governments and state-owned business enterprises, and the fact that global enforcement of laws has significantly increased.
+
+10
+
+Table of Contents
+
+Accordingly, while we strive to maintain a comprehensive compliance program, an employee, agent or business partner may violate our policies or U.S. or other applicable laws, as has occurred in the past, or we may inadvertently violate such laws. Investigations of alleged violations of those laws can be expensive and disruptive. Violations of such laws can lead to civil and/or criminal prosecutions, substantial fines and other sanctions, including the revocation of our rights to continue certain operations, and also cause business loss and reputational harm, which could adversely affect our business, financial condition, results of operations, and prospects.
+
+We and our customers are subject to an increasing number of laws and regulations related to sustainability matters, compliance with which could adversely affect our business, financial condition, results of operations, and prospects.
+
+We are subject to an increasing number of laws and regulations promulgated by multiple countries and jurisdictions that require new and expansive disclosure on sustainability topics and, in some cases, remediation of adverse effects, that will increase our compliance costs and expose us to risks associated with regulatory compliance.
+
+These laws and regulations include those promulgated pursuant to the European Union’s Corporate Sustainability Reporting Directive (“CSRD”) and its Corporate Sustainability Due Diligence Directive (“CSDDD”). CSRD requires new and expansive disclosures related to sustainability risks and opportunities. CSDDD will require us to conduct due diligence to identify, prevent, mitigate, and account for actual and potential adverse impacts on human rights and the environment arising from our own operations and our value chains and to remediate any such adverse impacts. Compliance with these directives requires significant investment in resources, including the implementation of new reporting systems, data collection processes, and due diligence procedures.
+
+As many of our customers and potential customers, particularly those in Germany and elsewhere in the European Union, are also subject to such laws and directives, those companies will increasingly be required to assess our sustainability efforts and impacts; if we are unable to satisfactorily address their requests for information or other sustainability related requests, contracting periods with those companies may be extended or those companies may elect to use other suppliers or switch suppliers, which could adversely affect our business, financial condition, results of operations, and prospects.
+
+The regulatory landscape for sustainability continues to evolve and expand and the introduction of additional laws or regulatory requirements may impose further compliance burdens and further increase our compliance costs. We are committed to meeting existing and future regulatory requirements; however, the financial and operational impact of current and future laws and regulations remains uncertain and could materially adversely affect our business, financial condition, results of operations and prospects.
+
+Increased scrutiny and expectations around environmental, social, and governance (“ESG”) matters may require us to incur additional costs or otherwise adversely impact our reputation, business, and prospects.
+
+Our stakeholders, including investors, customers, suppliers, and employees, are placing greater emphasis on our ESG performance and transparency. This increasing stakeholder attention to and expectations around ESG matters, particularly sustainability matters, and our response to the same, may result in higher costs (including higher costs related to compliance, stakeholder engagement, and contracting), adversely impact our reputation, or otherwise negatively affect our business performance and prospects.
+
+Our statements about our sustainability, environmental and human capital initiatives and goals, and progress against those goals, may be based on standards for measuring progress that are still developing, internal controls and processes that continue to evolve, and assumptions that are subject to change. If our related data, processing and reporting are incomplete or otherwise inaccurate, or if we fail to achieve progress on our stated targets or initiatives when or as expected, our business, financial condition, operating results, and prospects could be adversely affected.
+
+11
+
+Table of Contents
+
+II. Risks Related to Our Intellectual Property
+
+We may be unable to adequately protect our proprietary rights, which could adversely affect our business and our prospects.
+
+Our software products are proprietary. We protect our intellectual property rights in these items by relying on copyrights, trademarks, patents and common law safeguards, including trade secret protection, as well as restrictions on disclosures and transferability contained in our agreements with other parties. Despite these measures, the laws of all relevant jurisdictions may not afford adequate protection to our products and other intellectual property. In addition, we frequently encounter attempts by individuals and companies to pirate our software. If our measures to protect our intellectual property rights fail, others may be able to use those rights, which could reduce our competitiveness and adversely affect our business, financial condition, operating results, and prospects.
+
+In addition, any legal action to protect our intellectual property rights that we may bring or be engaged in could be costly, may distract management from day-to-day operations and may lead to additional claims against us, and we may not succeed, all of which could adversely affect our business, financial condition, operating results, and prospects.
+
+Intellectual property infringement claims could be asserted against us, which could be expensive to defend, could result in limitations on our use of the claimed intellectual property, and could adversely affect our business and prospects.
+
+The software industry is characterized by frequent litigation regarding copyright, patent and other intellectual property rights. We have faced such lawsuits from time to time. Any such claim could result in significant expense to us and divert the efforts of our technical and management personnel. We cannot be sure that we would prevail against any such asserted claims. If we did not prevail, we could be prevented from using the claimed intellectual property or be required to enter into royalty or licensing agreements, which might not be available on terms acceptable to us. In addition to possible claims with respect to our proprietary products, some of our products contain technology developed by and licensed from third parties and we may likewise be susceptible to infringement claims with respect to these third-party technologies.
+
+12
+
+Table of Contents
+
+III. Risks Related to Acquisitions
+
+Businesses we acquire may not generate the sales and earnings we anticipate and may otherwise adversely affect our business and prospects.
+
+We have acquired, and intend to continue to acquire, new businesses and technologies. If we fail to successfully integrate and manage the businesses and technologies we acquire, if an acquisition does not further our business strategy or return a level of sales as we expect, or if a business we acquire has unexpected legal or financial liabilities, our business, financial condition, results of operations, and prospects could be adversely affected.
+
+The types of issues that we may face in integrating and operating the acquired business include:
+
+•
+difficulties managing an acquired company’s technologies or lines of business or entering new markets where we have limited or no prior experience or where competitors may have stronger market positions;
+
+•
+unanticipated operating difficulties in connection with the acquired entities, including potential declines in sales of the acquired entity;
+
+•
+complications relating to the assumption of pre-existing contractual relationships of an acquired company that we would not have otherwise entered into, the termination or modification of which may be costly or disruptive to our business;
+
+•
+litigation arising from the transaction, including potential intellectual property claims or disputes following an acquisition;
+
+•
+diversion of management and employee attention;
+
+•
+challenges with implementing adequate and appropriate controls, procedures and policies in an acquired business;
+
+•
+potential loss of key personnel in connection with an acquisition; and
+
+•
+potential incompatibility of business cultures.
+
+Further, if we do not achieve the expected return on our investments, it could impair the intangible assets and goodwill that we recorded as part of an acquisition, which could require us to record a reduction to the value of those assets.
+
+We may incur significant debt or issue a material amount of debt or equity securities to finance an acquisition, which could adversely affect our operating flexibility, business and prospects.
+
+If we were to incur a significant amount of debt—whether by borrowing funds under our credit facility or otherwise or issuing new debt securities—to finance an acquisition, our interest expense, debt service requirements and leverage would increase significantly. The increases in these expenses and in our leverage could constrain our ability to operate as we might otherwise or to borrow additional amounts and could adversely affect our business, financial condition, results of operations, and prospects.
+
+If we were to issue a significant amount of equity securities in connection with an acquisition, existing stockholders would be diluted and our stock price could decline.
+
+13
+
+Table of Contents
+
+IV. Risks Related to Our Indebtedness
+
+Our substantial indebtedness could adversely affect our business, financial condition, results of operations, and prospects, as well as our ability to meet our payment obligations under our debt.
+
+We have a substantial amount of indebtedness. As of November 14, 2024, our total debt outstanding was approximately $1,668
+
+million, $1 billion of which was associated with the 3.625% Senior Notes and 4.000% Senior Notes (together, “Senior Notes”) issued in February 2020, which mature in February 2025 and 2028, respectively, and are unsecured; $177 million of which was borrowed under our credit facility revolving line, which matures in January 2028; and $491 million of which was borrowed under our credit facility term loan [which began amortizing in March 2024]. All amounts outstanding under the credit facility and the Senior Notes will be due and payable in full on their respective maturity dates. As of November 14, 2024, we had unused commitments under our credit facility of approximately $1,073 million. PTC Inc. and one of our foreign subsidiaries are eligible borrowers under the credit facility and certain other foreign subsidiaries may become borrowers under our credit facility in the future, subject to certain conditions.
+
+Specifically, our level of debt could:
+
+•
+make it more difficult for us to satisfy our debt obligations and other ongoing business obligations, which may result in defaults;
+
+•
+result in an event of default if we fail to comply with the financial and other covenants contained in the agreements governing our debt instruments, which could result in all of our debt becoming immediately due and payable or require us to negotiate an amendment to financial or other covenants that could cause us to incur additional fees and expenses;
+
+•
+limit our ability to obtain additional financing to fund future working capital, capital expenditures, acquisitions or other general corporate requirements;
+
+•
+reduce the availability of our cash to fund working capital, capital expenditures, acquisitions and other general corporate purposes and limit our ability to obtain additional financing for these purposes;
+
+•
+increase our vulnerability to adverse economic and industry conditions;
+
+•
+amplify the risk of increased interest rates as certain of our borrowings, including borrowings under our credit facility, are at variable rates of interest;
+
+•
+limit our flexibility in planning for, or reacting to, and increasing our vulnerability to, changes in our business, the industries in which we operate, and the overall economy; and
+
+•
+place us at a competitive disadvantage compared to other, less leveraged competitors.
+
+Any of the above-listed factors could have an adverse effect on our business, financial condition, results of operations, and prospects, and our ability to meet our payment obligations under our debt agreements.
+
+Despite our current level of indebtedness, we and our subsidiaries might incur substantially more debt and other obligations. This could further exacerbate the risks to our business, financial condition, and prospects described above.
+
+We and our subsidiaries might incur significant additional indebtedness and other obligations in the future, including secured debt. Although the credit agreement governing our credit facility contains restrictions on the incurrence of additional indebtedness, these restrictions are subject to a number of qualifications and exceptions. The additional indebtedness incurred in compliance with these restrictions could be substantial. In addition, the credit agreement and the indenture governing our Senior Notes due 2025 and 2028, will not prevent us from incurring obligations that do not constitute indebtedness. If new
+
+14
+
+Table of Contents
+
+debt is added to our current debt levels, or we incur other obligations, the related risks that we now face could increase.
+
+We may not be able to generate enough cash to service all our indebtedness and may be forced to take other actions to satisfy our obligations under our indebtedness, which may not be successful, and could harm our business and prospects.
+
+Our ability to make scheduled payments on or refinance our debt obligations depends on our financial condition and operating performance, which are subject to prevailing economic and competitive conditions and to certain financial, business, legislative, regulatory and other factors, some of which are beyond our control. We may be unable to maintain a level of cash flows from operating activities sufficient to permit us to pay the principal, premium, if any, and interest on our indebtedness.
+
+If our cash flows and capital resources are insufficient to fund our debt service obligations, we could face substantial liquidity problems and could be forced to reduce or delay investments and capital expenditures or to dispose of material assets or operations, seek additional debt or equity capital, or restructure or refinance our indebtedness. We may not be able to effect any such alternative measures, if necessary, on commercially reasonable terms or at all and, even if successful, those alternative actions may not allow us to meet our scheduled debt service obligations. Our debt agreements restrict our ability to dispose of assets and use the proceeds from those dispositions and may also restrict our ability to raise debt or equity capital to be used to repay other indebtedness when it becomes due. We may not be able to consummate those dispositions or to obtain proceeds in an amount sufficient to meet any debt service obligations then due.
+
+Our inability to generate sufficient cash flows to satisfy our debt obligations, or to refinance our indebtedness on commercially reasonable terms or at all, would materially and adversely affect our ability to satisfy our debt obligations.
+
+If we cannot make scheduled payments on our debt, we will be in default and the lenders under our credit facility could terminate their commitments to loan money, the lenders could foreclose against the assets securing their borrowings, the holders of our Senior Notes could declare all outstanding principal, premium, if any, and interest to be due and payable, and we could be forced into bankruptcy or liquidation. These events could result in a loss of your investment.
+
+We are required to comply with certain financial and operating covenants under our debt agreements. Any failure to comply with those covenants could cause amounts borrowed to become immediately due and payable and/or prevent us from borrowing under the credit facility.
+
+We are required to comply with specified financial and operating covenants under our debt agreements and to make payments under our debt, which limit our ability to operate our business as we otherwise might operate it. Our failure to comply with any of these covenants or to meet any debt payment obligations could result in an event of default which, if not cured or waived, would result in any amounts outstanding, including any accrued interest and/or unpaid fees, becoming immediately due and payable. We might not have enough working capital or liquidity to satisfy any repayment obligations if those obligations were accelerated. In addition, if we are not in compliance with the financial and operating covenants under the credit facility when we wish to borrow funds, we will be unable to borrow funds to pursue certain corporate initiatives, including strategic acquisitions, which could adversely affect our business and prospects.
+
+15
+
+Table of Contents
+
+V. Risks Related to Our Common Stock
+
+Our stock price has been volatile, which may make it harder to resell shares at a favorable time and price.
+
+Market prices for securities of software companies are generally volatile and are subject to significant fluctuations that may be unrelated or disproportionate to the operating performance of these companies. Accordingly, the trading prices and valuations of software companies’ stocks, and of ours, may not be predictable. Negative changes in the public’s perception of the prospects of software companies, or of PTC or the markets we serve, could depress our stock price regardless of our operating results.
+
+Also, a large percentage of our common stock is held by institutional investors. Purchases and sales of our common stock by these investors could have a significant impact on the market price of our stock.
+
+If our results of operations do not meet market or analysts’ expectations, our stock price could decline.
+
+Our quarterly operating results fluctuate depending on many factors, including the effect of ASC 606 on revenue recognition for the on-premises software subscriptions we offer, variability in the timing of start dates for our subscription offerings, length of contracts, and renewals, and significant unexpected expenses in a quarter. Accordingly, our quarterly results are difficult to predict and we may be unable to confirm or adjust expectations with respect to our operating results for a quarter until that quarter has closed. If our quarterly operating results do not meet market or analysts’ expectations, our stock price could decline.
+
+VI. General Risk Factors
+
+Our international businesses present economic and operating risks, which could adversely affect our business and prospects.
+
+We expect that our international operations will continue to expand and to account for a significant portion of our total revenue. Because we transact business in various foreign currencies, the volatility of foreign exchange rates has had and may in the future have a material adverse effect on our revenue, expenses, cash flows and operating results.
+
+Other risks inherent in our international operations include, but are not limited to, the following:
+
+•
+difficulties in staffing and managing foreign sales and development operations;
+
+•
+exposure of our operations and employees to political instability and armed conflict in the countries and regions in which we operate, including Israel;
+
+•
+increased financial accounting and reporting burdens and complexities;
+
+•
+increased regulatory and compliance risks;
+
+•
+inadequate local infrastructure; and
+
+•
+greater difficulty in protecting our intellectual property.
+
+16
+
+Table of Contents
+
+We may have exposure to additional tax liabilities and our effective tax rate may increase or fluctuate, which could increase our income tax expense, reduce our net income, and increase our tax payment obligations.
+
+As a multinational organization, we are subject to income taxes as well as non-income based taxes in the U.S. and in various foreign jurisdictions. Significant judgment is required in determining our worldwide income tax provision and other tax liabilities. In the ordinary course of a global business, there are many intercompany transactions and calculations where the ultimate tax determination is uncertain. Our tax returns are subject to review by various taxing authorities. Although we believe that our tax estimates are reasonable, the final determination of tax audits or tax disputes could be different from what is reflected in our reported income tax provisions and accruals.
+
+Our effective tax rate and tax payment obligations can be adversely affected by several factors, many of which are outside of our control, including:
+
+•
+changes in tax laws (for example, the introduction of an amendment to Section 174 of the U.S. tax legislation), regulations, and interpretations in multiple jurisdictions in which we operate;
+
+•
+assessments, and any related tax interest or penalties, by taxing authorities;
+
+•
+changes in the relative proportions of revenues and income before taxes in the various jurisdictions in which we operate that have differing statutory tax rates;
+
+•
+changes to the financial accounting rules for income taxes;
+
+•
+unanticipated changes in tax rates; and
+
+•
+changes to a valuation allowance on net deferred tax assets, if any.
+
+17
+
+Table of Contents

@@ -1,0 +1,862 @@
+”;
+
+•
+changes in accounting policies or procedures as may be required by the Financial Accounting Standards Board (“FASB”) or regulatory agencies;
+
+•
+risks and uncertainties related to the ability to obtain shareholder and regulatory approvals when required, or the possibility that such approvals may be delayed;
+
+•
+new legal claims against the Bank, including litigation, arbitration and proceedings brought by governmental or self-regulatory agencies, or changes in existing legal matters;
+
+•
+economies of scale attendant to the development of digital and other technologies by much larger bank and nonbank competitors, and the possible entry of technology “platform” companies into the financial services business;
+
+•
+the Bank’s ability to develop and maintain secure and reliable information technology systems, including as necessary to guard against fraud, cybersecurity and privacy risks; and
+
+•
+the Bank’s implementation of new technologies, including its core deposit system, to remain competitive.
+
+Except to the extent required by law, the Bank specifically disclaims any obligation to update any factors or to publicly announce the result of revisions to any of the forward-looking statements included herein to reflect future events or developments.
+
+GLOSSARY OF ACRONYMS AND ABBREVIATIONS
+
+ACL
+
+Allowance for Credit Losses
+
+CECL
+
+Current Expected Credit Loss
+
+AFS
+
+Available-for-Sale
+
+CET1
+
+Common Equity Tier 1 (Basel III)
+
+ALCO
+
+Asset/Liability Committee
+
+CFPB
+
+Consumer Financial Protection Bureau
+
+ALLL
+
+Allowance for Loan and Lease Losses
+
+CLTV
+
+Combined Loan-to-Value Ratio
+
+ALM
+
+Asset Liability Management
+
+CMC
+
+Capital Management Committee
+
+Amegy
+
+Amegy Bank, a division of Zions Bancorporation, National Association
+
+COSO
+
+Committee of Sponsoring Organizations of the Treadway Commission
+
+AOCI
+
+Accumulated Other Comprehensive Income
+
+CRA
+
+Community Reinvestment Act
+
+ASC
+
+Accounting Standards Codification
+
+CRE
+
+Commercial Real Estate
+
+ASU
+
+Accounting Standards Update
+
+CSA
+
+Credit Support Annex
+
+ATM
+
+Automated Teller Machine
+
+CSV
+
+Cash Surrender Value
+
+BOLI
+
+Bank-Owned Life Insurance
+
+Dodd-Frank Act
+
+Dodd-Frank Wall Street Reform and Consumer Protection Act
+
+bps
+
+basis points
+
+DTA
+
+Deferred Tax Asset
+
+CB&T
+
+California Bank & Trust, a division of Zions Bancorporation, National Association
+
+EaR
+
+Earnings at Risk
+
+4
+
+Table of Contents
+
+ZIONS BANCORPORATION, NATIONAL ASSOCIATION AND SUBSIDIARIES
+
+EITF
+
+Emerging Issues Task Force
+
+NSB
+
+Nevada State Bank, a division of Zions Bancorporation, National Association
+
+ERM
+
+Enterprise Risk Management
+
+OCC
+
+Office of the Comptroller of the Currency
+
+ERMC
+
+Enterprise Risk Management Committee
+
+OCI
+
+Other Comprehensive Income
+
+EVE
+
+Economic Value of Equity at Risk
+
+OREO
+
+Other Real Estate Owned
+
+FASB
+
+Financial Accounting Standards Board
+
+OTTI
+
+Other-Than-Temporary Impairment
+
+FAMC
+
+Federal Agricultural Mortgage Corporation, or “Farmer Mac”
+
+PCAOB
+
+Public Company Accounting Oversight Board
+
+FDIC
+
+Federal Deposit Insurance Corporation
+
+PEI
+
+Private Equity Investment
+
+FDICIA
+
+Federal Deposit Insurance Corporation Improvement Act
+
+PPNR
+
+Pre-provision Net Revenue
+
+FHLB
+
+Federal Home Loan Bank
+
+ROC
+
+Risk Oversight Committee
+
+FINRA
+
+Financial Industry Regulatory Authority
+
+ROU
+
+Right-of-Use
+
+FTP
+
+Funds Transfer Pricing
+
+RULC
+
+Reserve for Unfunded Lending Commitments
+
+GAAP
+
+Generally Accepted Accounting Principles
+
+S&P
+
+Standard and Poor's
+
+HECL
+
+Home Equity Credit Line
+
+SBA
+
+Small Business Administration
+
+HTM
+
+Held-to-Maturity
+
+SBIC
+
+Small Business Investment Company
+
+IMG
+
+International Manufacturing Group
+
+SEC
+
+Securities and Exchange Commission
+
+ISDA
+
+International Swaps and Derivative Association
+
+SIFI
+
+Systemically Important Financial Institution
+
+LCR
+
+Liquidity Coverage Ratio
+
+TCBW
+
+The Commerce Bank of Washington, a division of Zions Bancorporation, National Association
+
+LIBOR
+
+London Interbank Offered Rate
+
+TDR
+
+Troubled Debt Restructuring
+
+MD&A
+
+Management’s Discussion and Analysis
+
+Tier 1
+
+Common Equity Tier 1 (Basel III) and Additional Tier 1 Capital
+
+Municipalities
+
+State and Local Governments
+
+Topic 842
+
+ASU 2016-02, Leases
+
+NASDAQ
+
+National Association of Securities Dealers Automated Quotations
+
+U.S.
+
+United States
+
+NAV
+
+Net Asset Value
+
+Vectra
+
+Vectra Bank Colorado, a division of Zions Bancorporation, National Association
+
+NBAZ
+
+National Bank of Arizona, a division of Zions Bancorporation, National Association
+
+VIE
+
+Variable Interest Entity
+
+NIM
+
+Net Interest Margin
+
+Zions Bancorporation, N.A.
+
+Zions Bancorporation, National Association
+
+NM
+
+Not Meaningful
+
+Zions Bank
+
+Zions Bank, a division of Zions Bancorporation, National Association
+
+NRE
+
+National Real Estate
+
+ITEM 1. BUSINESS
+
+DESCRIPTION OF BUSINESS
+
+Zions Bancorporation, National Association and its subsidiaries (collectively “Zions Bancorporation, N.A.,” “the Bank,” “we,” “our,” “us”) is a national commercial bank headquartered in Salt Lake City, Utah. The Bank owns and operates 434 branches at year-end 2019, and is currently planning to close 12 branches during 2020. The Bank provides a full range of banking and related services, primarily in Arizona, California, Colorado, Idaho, Nevada, New Mexico, Oregon, Texas, Utah, Washington, and Wyoming. The Bank conducts its operations through seven separately managed and branded segments, which we sometimes refer to as “affiliates” or by reference to their respective brands. Full-time equivalent employees totaled 10,188 at December 31, 2019, and due to position eliminations in early January, the amount of full-time equivalent employees as of January 31, 2020 was 9,873. For further information about the Bank’s industry segments, see “Business Segment Results” on page 45 in MD&A and Note 22 of the Notes to Consolidated Financial Statements. For information about the Bank’s foreign operations, 
+
+5
+
+Table of Contents
+
+ZIONS BANCORPORATION, NATIONAL ASSOCIATION AND SUBSIDIARIES
+
+see “Foreign Exposure and Operations” on page 52 in MD&A. The “Executive Summary” on page 31 in MD&A provides further information about the Bank.
+
+Zions Bancorporation, National Association is the successor to Zions Bancorporation by merger of Zions Bancorporation into ZB, N.A. on September 30, 2018. References to “Zions Bancorporation, N.A.,” “the Bank,” “we,” “our,” and “us” are intended to refer to Zions Bancorporation and its subsidiaries for periods prior to the merger and to Zions Bancorporation, National Association, and its subsidiaries for periods on and after the merger.
+
+PRODUCTS AND SERVICES
+
+The Bank focuses on providing community banking services by continuously strengthening its core business lines of (1) small- and medium-sized business and corporate banking; (2) commercial and residential development, construction and term lending; (3) retail banking; (4) treasury cash management and related products and services; (5) residential mortgage lending and servicing; (6) trust and wealth management; (7) capital markets activities, including municipal finance advisory and underwriting; and (8) investment activities. It operates primarily through seven geographic regions, each with its own local branding, chief executive officer and management team.
+
+In addition to providing a wide variety of commercial products and services, the Bank provides a range of personal banking services to individuals, including home mortgages, bankcard, other installment loans, home equity lines of credit, checking accounts, savings accounts, certificates of deposit of various types and maturities, trust services, safe deposit facilities, and internet and mobile banking. The Bank provides services to key market segments through its Private Client Services and Executive Banking groups. It offers self-directed brokerage services through Zions Direct and also offers comprehensive and personalized wealth management and investment services.
+
+The Bank has built specialized lines of business in capital markets and public finance and is a leader in small business administration (“SBA”) lending. The Bank is one of the nation’s largest providers of SBA 7(a) and SBA 504 financing to small businesses. The Bank owns equity interests in FAMC and is one of its top originators of secondary market agricultural real estate mortgage loans. The Bank provides finance advisory and corporate trust services for municipalities. The Bank also provides bond transfer, stock transfer, and escrow services nationally in its corporate trust business.
+
+COMPETITION
+
+The Bank operates in a highly competitive environment. The Bank’s most direct competition for loans and deposits comes from other commercial banks, credit unions, and thrifts, including institutions that do not have a physical presence in our market footprint but solicit via the internet and other means. In addition, the Bank competes with finance companies, mutual funds, insurance companies, brokerage firms, securities dealers, investment banking companies, financial technology and other nontraditional lending and banking companies, and a variety of other types of companies. These companies may have fewer regulatory constraints and some have lower cost structures or tax burdens.
+
+The primary factors in competing for business include the quality of service delivered, our local community knowledge, convenience of office locations, online banking functionality and other delivery methods, range of products offered, pricing, and the overall relationship with our clients. The Bank must compete effectively along all of these dimensions to remain successful.
+
+SUPERVISION AND REGULATION
+
+This section describes the material elements of selected laws and regulations applicable to the Bank. The descriptions are not intended to be complete and are qualified in their entirety by reference to the full text of the statutes and regulations described. Changes in applicable laws or regulations, and in their application by regulatory agencies, cannot be predicted; however, they may have a material effect on the business and results of the Bank.
+
+On September 30, 2018, we completed the merger of Zions Bancorporation, the Bank’s former holding company, with and into Zions Bancorporation, N.A., sometimes referred to herein as the “restructuring.” More information 
+
+6
+
+Table of Contents
+
+ZIONS BANCORPORATION, NATIONAL ASSOCIATION AND SUBSIDIARIES
+
+about the restructuring and its effects can be found in the proxy statement filed by Zions Bancorporation with the SEC on July 24, 2018. In connection with completing the restructuring, we also received approval of an application filed with the Financial Stability Oversight Council (“FSOC”) seeking a determination that the Bank is not “systemically important” as defined by provisions of the Dodd-Frank Wall Street Reform and Consumer Protection Act (“Dodd-Frank Act”). 
+
+The banking and financial services business in which we engage is highly regulated. Such regulation is intended to improve the stability of banking and financial companies and to protect the interests of customers and taxpayers. These regulations are not, however, generally intended to protect the interests of our shareholders or creditors, and in fact may have the consequence of reducing returns to our shareholders. Banking laws and regulations have given financial regulators expanded powers over many aspects of the financial services industry, which have reduced and may continue to reduce returns earned by shareholders.
+
+Legislative changes to laws governing the financial industry occur frequently; some of this legislation materially affects the manner in which we and other financial institutions operate, including increasing the costs and other burdens of conducting our businesses. In addition, the banking agencies regularly promulgate new regulations or modify existing regulations, which also have significant impact on the financial industry. The content and impact of such regulatory changes cannot presently be determined. The Bank is committed to both satisfying regulatory expectations and providing attractive shareholder returns. However, given the ever-evolving regulatory environment, the results of these efforts cannot yet be known.
+
+General
+
+The Bank is subject to the provisions of the National Bank Act and other statutes governing national banks, as well as the rules and regulations of the OCC, the CFPB, and the FDIC. It is also subject to examination and supervision by the OCC and examination by the CFPB in respect of federal consumer financial regulations. The Bank, as well as some of its subsidiaries, is also subject to regulation by other federal and state agencies. These regulatory agencies may exert considerable influence over our activities through their supervisory and examination roles. Our brokerage and investment advisory subsidiaries are regulated by the SEC, Financial Industry Regulatory Authority (“FINRA”) and/or state securities regulators.
+
+The National Bank Act
+
+Prior to the restructuring, Zions Bancorporation’s corporate affairs were governed by Utah state law and securities law matters were governed by the federal securities laws, including the Securities Act of 1933 (“Securities Act”) and the Securities Exchange Act of 1934 (“Exchange Act”), as administered by the SEC. Each of these legal regimes is well-developed and used widely by public companies.
+
+Following the restructuring, the Bank’s corporate affairs are governed by the National Bank Act and related regulations administered by the OCC. With respect to securities matters, the Bank is not subject to the Securities Act, but is subject to OCC regulations governing securities offerings. The Bank’s common stock and certain other securities are registered or deemed registered under the Exchange Act, which vests the OCC with the power to administer and enforce certain sections of the Exchange Act applicable to banks such as the Bank, though the Bank continues to make filings required by the Exchange Act with the SEC as a voluntary filer. These statutory and regulatory regimes are not as well developed as the corporate and securities law regimes applicable to many other publicly held corporations. See discussion under “
+Risk Factors
+.”
+
+The Dodd-Frank Act
+
+The Dodd-Frank Act and related regulations broadly affect the financial services industry. Among other things, the Dodd-Frank Act involves mandatory divestiture of certain equity investments, increasing regulation of executive and incentive-based compensation, requiring banks to pay increased fees to regulatory agencies, and requiring numerous other provisions aimed at strengthening the sound operation of the financial services sector.
+
+Regulations promulgated under the Dodd-Frank Act require many banks to maintain greater levels of capital and liquid assets than was generally the case prior to the enactment of the Dodd-Frank Act and limit the forms of capital 
+
+7
+
+Table of Contents
+
+ZIONS BANCORPORATION, NATIONAL ASSOCIATION AND SUBSIDIARIES
+
+that such banks rely upon for regulatory purposes. Certain bank holding companies and other financial institutions, known as systemically important financial institutions ("SIFIs") are required to adhere to “enhanced prudential supervision” requirements of the Dodd-Frank Act and the annual Comprehensive Capital Analysis (“CCAR”) process administered by the FRB, which in effect requires SIFIs to maintain capital based on hypothetical scenarios dictated by the FRB. As a result of the restructuring and FSOC approval, the Bank is no longer subject to these requirements. However, the Bank continues to be subject to the OCC’s heightened standard guidelines, which establish enhanced requirements for national banks with assets of $50 billion or more, and other regulatory requirements that reduce its flexibility to return capital to shareholders and respond to market developments and opportunities in such areas as capital raising and acquisitions. Additionally, in May 2018, the Economic Growth, Regulatory Relief, and Consumer Protection Act, also known as “the Crapo Bill,” was signed into law, reducing regulatory requirements for many banking institutions and exempting the Bank from the capital planning actions as required by the Dodd-Frank Act.
+
+The Dodd-Frank Act’s provisions and related regulations also affect the fees we must pay to regulatory agencies and the pricing of certain products and services, including the following:
+
+•
+The assessment base for federal deposit insurance was changed to consolidated assets less tangible capital instead of the amount of insured deposits. 
+
+•
+The federal prohibition on the payment of interest on business transaction accounts was repealed. 
+
+•
+The FRB was authorized to issue and did issue regulations governing debit card interchange fees.
+
+The Dodd-Frank Act also created the CFPB, which is responsible for promulgating regulations designed to protect consumers’ financial interests and examining large financial institutions for compliance with, and enforcing, those regulations. The Dodd-Frank Act adds prohibitions on unfair, deceptive or abusive acts and practices to the scope of consumer protection regulations overseen and enforced by the CFPB. The Dodd-Frank Act subjected national banks to the possibility of further regulation by restricting the preemption of state laws by federal laws. Restricting the scope of federal preemption could burden national banks with the requirement that they also comply with certain state laws covering matters already covered by federal law. In addition, the Dodd-Frank Act gives greater power to state attorneys general to pursue legal actions against banking organizations for violations of federal law. 
+
+The Bank and other companies subject to the Dodd-Frank Act are subject to a number of requirements regarding the time, manner and form of compensation given to its key executives and other personnel receiving incentive compensation, which are being imposed through the supervisory process as well as published guidance and proposed rules. These restrictions imposed by the Dodd-Frank Act include documentation and governance, deferral, risk-balancing, and clawback requirements. Any deficiencies in compensation practices that are identified may be incorporated into the organization’s supervisory ratings, which can affect its ability to make acquisitions or engage in other activities, or could result in regulatory enforcement actions. 
+
+During the second quarter of 2016, the U.S. financial regulators, including the FRB and the SEC, proposed revised rules on incentive-based payment arrangements at specified regulated entities having at least $1 billion in total assets (including the Bank). The proposed revised rules would establish general qualitative requirements applicable to all covered entities, additional specific requirements for entities with total consolidated assets of at least $50 billion, such as the Bank, and further, more stringent requirements for those with total consolidated assets of at least $250 billion. The general qualitative requirements include: (i) prohibiting incentive arrangements that encourage inappropriate risks by providing excessive compensation; (ii) prohibiting incentive arrangements that encourage inappropriate risks that could lead to a material financial loss; (iii) establishing requirements for performance measures to appropriately balance risk and reward; (iv) requiring board of director oversight of incentive arrangements; and (v) mandating appropriate record-keeping. For larger financial institutions, including the Bank, the proposed revised regulations would also introduce very prescriptive requirements relating to the types and percentages, the timing of the realization, and the risk of forfeiture of incentive compensation awarded to “senior executive officers” and “significant risk-takers.” The regulators have not yet issued any final rules.
+
+8
+
+Table of Contents
+
+ZIONS BANCORPORATION, NATIONAL ASSOCIATION AND SUBSIDIARIES
+
+Capital Standards – Basel Framework
+
+In 2013, the FRB, FDIC and OCC published final rules (the “Basel III capital rules”) establishing a new comprehensive capital framework for U.S. banking organizations. The Basel III capital rules effectively replaced the Basel I capital rules and implemented the Basel Committee’s December 2010 framework, commonly referred to as Basel III, for strengthening international capital standards as well as certain provisions of the Dodd-Frank Act. The Basel III capital rules substantially revised the risk-based capital requirements applicable to bank holding companies and depository institutions, including the Bank, compared to the Basel I U.S. risk-based capital rules. The Basel III capital rules became effective for the Bank on January 1, 2015 and were subject to phase-in periods for certain of their components. In November 2017, the FRB, FDIC and OCC published a final rule that extended the 2017 transition provisions for certain U.S. Basel III capital rules for nonadvanced approaches banks, such as the Bank. Effective January 1, 2018, the final rule retains the 2017 Basel III transitional treatment of certain DTAs and mortgage servicing assets, among others. As a result, since January 1, 2018, our DTAs and mortgage servicing assets retained their 2017 risk weight treatment until the federal banking regulators revise the extended transitional treatment under the November 2017 transitional rule.
+
+The Basel III capital rules define the components of capital and address other issues affecting the numerator in banking institutions’ regulatory capital ratios. The Basel III capital rules also address risk weights and other issues affecting the denominator in banking institutions’ regulatory capital ratios and replaced the risk-weighting approach derived from Basel I capital accords of the Basel Committee, with a more risk-sensitive approach based, in part, on the standardized approach in the Basel Committee’s 2004 Basel II capital accords. The Basel III capital rules also implemented the requirements of Section 939A of the Dodd-Frank Act to remove references to credit ratings from the federal banking agencies’ rules.
+
+The Basel III capital rules, among other things, (i) introduced a new capital measure called “Common Equity Tier 1” (“CET1”), (ii) specified that Tier 1 capital consists of CET1 and “Additional Tier 1 capital” instruments meeting specified requirements, (iii) applied most deductions/adjustments to regulatory capital measures to CET1 and not to the other components of capital, thus potentially requiring higher levels of CET1 in order to meet minimum ratios, and (iv) expanded the scope of the deductions/adjustments from capital, as compared to prior regulations. 
+
+Under the Basel III capital rules, the minimum capital ratios are as follows:
+
+•
+4.5% CET1 to risk-weighted assets;
+
+•
+6.0% Tier 1 capital (i.e., CET1 plus Additional Tier 1) to risk-weighted assets;
+
+•
+8.0% Total capital (i.e., Tier 1 plus Tier 2) to risk-weighted assets; and
+
+•
+4.0% Tier 1 capital to average consolidated assets as reported on consolidated financial statements (known as the “leverage ratio”).
+
+As of January 1, 2019, the Basel III capital rules also require the Bank to maintain a 2.5% “capital conservation buffer” designed to absorb losses during periods of economic stress, composed entirely of CET1, on top of the minimum risk-weighted asset ratios, effectively resulting in minimum ratios of (i) CET1 to risk-weighted assets of at least 7.0%, (ii) Tier 1 capital to risk-weighted assets of at least 8.5%, and (iii) Total capital to risk-weighted assets of at least 10.5%. Banking institutions with a ratio of CET1 to risk-weighted assets above the minimum but below the capital conservation buffer face constraints on dividends, equity repurchases, and compensation based on the amount of the shortfall. The severity of the constraint depends on the amount of the shortfall and the institution’s “eligible retained income” (that is four quarter trailing net income, net of distributions and tax effect not reflected in net income).
+
+The Basel III capital rules also prescribed a standardized approach for calculating risk-weighted assets that expanded the risk-weighting categories from Basel I-derived categories (0%, 20%, 50% and 100%) to a much larger and more risk-sensitive number of categories, depending on the nature of the assets, generally ranging from 0% for U.S. government and agency securities, to 600% for certain equity exposures, to 1,250% for certain securitization exposures, and resulting in higher risk weights for a variety of asset categories. In addition, the Basel III capital rules provided more advantageous risk weights for derivatives and repurchase-style transactions cleared through a 
+
+9
+
+Table of Contents
+
+ZIONS BANCORPORATION, NATIONAL ASSOCIATION AND SUBSIDIARIES
+
+qualifying central counterparty and increased the scope of eligible guarantors and eligible collateral for purposes of credit risk mitigation.
+
+The Basel III capital rules provided for a number of deductions from and adjustments to CET1. These include, for example, the requirement that mortgage servicing rights, DTAs dependent upon future taxable income, and significant investments in common equity issued by nonconsolidated financial entities be deducted from CET1 to the extent that any one such category exceeds 10% of CET1 or all such categories in the aggregate exceed 15% of CET1. The application of this part of the rule did not result in any deductions from CET1 for us. 
+
+Under prior Basel I capital standards, the effects of accumulated other comprehensive income (“AOCI”) items included in capital were excluded for purposes of determining regulatory capital and capital ratios. As a “nonadvanced approaches banking organization,” we made a one-time permanent election as of January 1, 2015 to continue to exclude these items, as allowed under the Basel III capital rules.
+
+Basel III also required additional regulatory capital disclosures to be made that are commonly referred to as “Pillar 3” disclosures. These disclosures require the Bank to make prescribed regulatory disclosures on a quarterly basis regarding its capital structure adequacy and risk-weighted assets. The Bank began publishing these Pillar 3 disclosures in 2015, and such disclosures are available on the Bank’s website.
+
+The Basel Committee has issued a series of updates that propose other changes to capital regulations. In one of these, the Basel Committee finalized a revised framework for calculating minimum capital requirements for market risk, which is expected to increase market risk capital requirements for most banking organizations. The Basel Committee has set an effective date for reporting under the revised framework for market risk capital of January 1, 2022. The U.S. federal bank regulatory agencies have not yet proposed rules implementing these revisions for U.S. banking organizations. The Bank met all capital adequacy requirements under the Basel III capital rules as of December 31, 2019.
+
+Capital Planning and Stress Testing
+
+As a result of the successful completion of the restructuring and FSOC approval described elsewhere in this report, and the enactment of the Crapo Bill, the Bank is no longer required to participate in the FRB’s CCAR process or publicly disclose the results of stress testing or the Bank’s proposed capital actions. We continue to utilize stress testing as an important mechanism to inform our decisions on the appropriate level of capital, based upon actual and hypothetically-stressed economic conditions. The stress test results reflect a set of forward-looking stress tests based upon hypothetical economic scenarios. The Bank utilizes a Moody's baseline scenario based on a variety of surveys of baseline forecasts of the U.S. economy. Moody’s Protracted Slump scenario, a downside 4% scenario, is the primary stress scenario considered by the Bank for its internal stress scenario, certain variables of which are adjusted by the Bank to test certain idiosyncrasies that may be unique to the Bank. Detailed disclosure of the Bank’s 2019 internal stress test results can be found on our website. The 2019 results of the stress test indicated that the Bank would maintain capital ratios at levels adequate for its risk profile throughout the nine-quarter horizon for the hypothetical stress test.
+
+Liquidity
+
+Historically, reg
+ulation and monitoring of bank liquidity has been addressed as a supervisory matter, both in the United States and internationally, without required formulaic measures. However, in January 2016, the FRB and other banking regulators adopted final rules (“Final Liquidity Coverage Ratio (“LCR”) Rule”) implementing a U.S. version of the Basel Committee’s LCR requirement. The LCR is intended to ensure that banks hold sufficient amounts of securities and other liquid assets to cover the anticipated net cash outflows during a hypothetical acute 30-day stress scenario. The Final LCR Rule applies to large, internationally active banking organizations (those with at least $250 billion in total assets or at least $10 billion in on-balance sheet foreign exposure). Although, as a result of the restructuring, the LCR regulation does not apply to Zions Bancorporation, the Bank uses many of the factors embedded in the LCR calculation to determine an appropriate level of highly liquid assets. Furthermore, the Bank utilizes internal liquidity stress tests as its primary tool for establishing and managing liquidity guidelines 
+
+10
+
+Table of Contents
+
+ZIONS BANCORPORATION, NATIONAL ASSOCIATION AND SUBSIDIARIES
+
+including, but not limited to, holdings of investment securities and other liquid assets, maintaining levels of readily available contingency funding, concentrations of funding sources, and maturity profile of liabilities.
+
+Financial Privacy and Cyber Security
+
+The federal banking regulators have adopted rules that limit the ability of banks and other financial institutions to disclose nonpublic information about consumers to nonaffiliated third parties, including provisions of the Gramm-Leach-Bliley Act dealing with privacy for nonpublic personal information of individual customers. These limitations require disclosure of privacy policies to consumers and, in some circumstances, allow consumers to prevent disclosure of certain personal information to a nonaffiliated third party. These regulations affect how consumer information is transmitted through diversified financial companies and conveyed to outside vendors. In addition, consumers may also prevent disclosure of certain information among affiliated companies that is assembled or used to determine eligibility for a product or service, such as that shown on consumer credit reports and asset and income information from applications. Consumers also have the option to direct banks and other financial institutions not to share information about transactions and experiences with affiliated companies for the purpose of marketing products or services. Federal law makes it a criminal offense, except in limited circumstances, to obtain or attempt to obtain customer information of a financial nature by fraudulent or deceptive means.
+
+In October 2016, the federal banking regulators jointly issued an advance notice of proposed rulemaking on enhanced cyber risk management standards that are intended to increase the operational resilience of large and interconnected entities under their supervision. The advance notice of proposed rulemaking addressed five categories of cyber standards: (1) cyber risk governance; (2) cyber risk management; (3) internal dependency management; (4) external dependency management; and (5) incident response, cyber resilience, and situational awareness. The comment period expired in February 2017; however, the regulators have not yet issued any revised proposed rules or final rules.
+
+State regulators have been increasingly active in implementing privacy and cybersecurity standards and regulations. Recently, several states have adopted regulations requiring certain financial institutions to implement cybersecurity programs and providing detailed requirements with respect to these programs, including data encryption requirements. Many states have also recently implemented or modified their data breach notification and data privacy requirements. In June 2018, the California legislature passed the California Consumer Privacy Act of 2018 (the “CCPA”), which took effect on January 1, 2020. The CCPA, which covers businesses that obtain or access personal information on California resident consumers, grants consumers enhanced privacy rights and control over their personal information and imposes significant requirements on covered companies with respect to consumer data privacy rights. Some of the rights afforded to California resident consumers also extend to California employees, though the California legislature exempted certain employee information and employer usage from some of the act’s provisions until at least January 1, 2021. Other states have implemented, or are considering, similar privacy laws. We expect this trend of state-level activity to continue and are continually monitoring developments in the states in which we operate.
+
+In May 2018, the General Data Protection Regulation (the “GDPR”) established new requirements regarding the handling of personal data. We believe the applicability of the GDPR to us is minimal as we do not offer goods or services to EU residents or monitor their behaviors. Data and cybersecurity laws and regulations are evolving rapidly, remain a focus of state and federal regulators and will continue to have a significant impact on the Bank's risk management practices.
+
+Prompt Corrective Action
+
+The Federal Deposit Insurance Corporation Improvement Act (“FDICIA”) requires each federal banking agency to take prompt corrective action to resolve the problems of insured depository institutions, including but not limited to those that fall below one or more prescribed minimum capital ratios. Pursuant to FDICIA, the FDIC promulgated regulations defining the following five categories in which an insured depository institution will be placed, based on the level of its capital ratios: well-capitalized, adequately capitalized, undercapitalized, significantly under-capitalized, and critically under-capitalized. Under the prompt corrective action provisions of FDICIA as modified by the Basel III capital rules, an insured depository institution generally will be classified as well-capitalized if it 
+
+11
+
+Table of Contents
+
+ZIONS BANCORPORATION, NATIONAL ASSOCIATION AND SUBSIDIARIES
+
+has a CET1 ratio of at least 6.5%, a Tier 1 risk-based capital ratio of at least 8%, a total capital ratio of at least 10% and a Tier 1 leverage ratio of at least 5%. In addition, an insured depository institution generally will be classified as under-capitalized if its CET1 ratio is under 4.5%, its total risk-based capital ratio is less than 8%, its Tier 1 risk-based capital ratio is less than 6%, or its Tier 1 leverage ratio is less than 4%. An institution that, based upon its capital levels, is classified as “well-capitalized,” “adequately capitalized,” or “under-capitalized,” may be treated as though it were in the next lower capital category if the appropriate federal banking agency, after notice and opportunity for hearing, determines that an unsafe or unsound condition or an unsafe or unsound practice warrants such treatment. At each successive lower capital category, an insured depository institution is subject to more restrictions and prohibitions, including restrictions on growth, restrictions on interest rates paid on deposits, restrictions or prohibitions on payment of dividends and restrictions on the acceptance of brokered deposits. Furthermore, if a bank is classified in one of the under-capitalized categories, it is required to submit a capital restoration plan to the Federal bank regulator.
+
+Other Regulations
+
+The Bank is subject to a wide range of other requirements and restrictions contained in both the laws of the United States and the states in which it and its subsidiaries operate. These regulations include but are not limited to the following:
+
+•
+Limitations on dividends payable to shareholders. The Bank’s ability to pay dividends on both its common and preferred stock is subject to regulatory restrictions. See Note 15 of the Notes to Consolidated Financial Statements for additional information.
+
+•
+Safety and soundness requirements. Federal law requires that the Bank be operated in a safe and sound manner. We are subject to additional safety and soundness standards prescribed in the FDICIA, including standards related to internal controls, information systems, internal audit, loan documentation, credit underwriting, interest rate exposure, asset growth and compensation, as well as other operational and management standards deemed appropriate by the federal banking agencies. The safety and soundness requirements give bank regulatory agencies significant latitude in their supervisory authority over us.
+
+•
+Requirements for approval of acquisitions and activities and restrictions on other activities. The National Bank Act requires regulatory and shareholder approval of all mergers between a national bank and another national or state bank and do not allow for the direct merger into a national bank of a nonaffiliated nonbank. See discussion under “
+Risk Factors
+.” Other laws and regulations governing national banks contain similar provisions concerning acquisitions and activities.
+
+•
+Limits on bank organization activities, which are more limited than activities that can be conducted by bank holding company organizations.
+
+•
+Limitations on the amount of loans to a borrower and its affiliates.
+
+•
+Limitations on transactions with affiliates, as expanded by the Dodd-Frank Act.
+
+•
+Restrictions on the nature and amount of any investments and ability to underwrite certain securities.
+
+•
+Requirements for opening of branches and the acquisition of other financial entities.
+
+•
+Fair lending and truth in lending requirements to provide equal access to credit and to protect consumers in credit transactions.
+
+•
+Broker-dealer and investment advisory regulations. One of our subsidiaries is a broker-dealer that is authorized to engage in securities underwriting and other broker-dealer activities. This company is registered with the SEC and is a member of FINRA. Another subsidiary is a registered investment adviser under the Investment Advisers Act of 1940, as amended, and as such is supervised by the SEC. Certain of our subsidiaries are also subject to various U.S. federal and state laws and regulations. These laws and regulations generally grant supervisory agencies broad administrative powers, including the power to limit or restrict the carrying on of business for failure to comply with such laws.
+
+•
+Community Reinvestment Act (“CRA”) requirements. The CRA requires banks to help serve the credit needs in their communities, including providing credit to low and moderate income individuals. If the Bank fails to adequately serve its communities, penalties may be imposed including denials of applications to add branches, 
+
+12
+
+Table of Contents
+
+ZIONS BANCORPORATION, NATIONAL ASSOCIATION AND SUBSIDIARIES
+
+relocate, add subsidiaries and affiliates, and merge with or purchase other financial institutions. A notice of proposed rulemaking (“NPR”), issued jointly by the FDIC and OCC in November 2019, proposes certain amendments to the CRA, including changes in what qualifies for CRA credit, where CRA activity counts, what method should be used to measure CRA activity, and how banks should collect, record and report data. The NPR is subject to a public comment period. Although the NPR proposes to make changes to the CRA regulatory framework, it is too early to predict the content or effects of any final rulemaking that may result from the NPR.
+
+•
+Anti-money laundering regulations. The Bank Secrecy Act, Title III of the Uniting and Strengthening of America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001 (“USA Patriot Act”), and other federal laws require financial institutions to assist U.S. government agencies in detecting and preventing money laundering and other illegal acts by maintaining policies, procedures and controls designed to detect and report money laundering, terrorist financing, and other suspicious activity.
+
+The Bank is subject to the Sarbanes-Oxley Act of 2002, certain provisions of the Dodd-Frank Act, and other federal and state laws and regulations which address, among other issues, corporate governance, auditing and accounting, executive compensation, and enhanced and timely disclosure of corporate information. The National Association of Securities Dealers Automated Quotations (“NASDAQ”) has also adopted corporate governance rules, which are intended to allow shareholders and investors to more easily and efficiently monitor the performance of companies and their directors.
+
+The Board of Directors of the Bank has overseen management’s establishment of a comprehensive system of corporate governance and risk practices. This system includes policies and guidelines such as Corporate Governance Guidelines; a Code of Business Conduct and Ethics for Employees; a Directors Code of Conduct; a Related Party Transaction Policy; Stock Ownership and Retention Guidelines; a Compensation Clawback Policy; an insider trading policy including provisions prohibiting hedging and placing restrictions on the pledging of bank stock by insiders; and charters for the Executive, Audit, Risk Oversight, Compensation, and Nominating and Corporate Governance Committees. More information on the Bank’s corporate governance practices is available on the Bank’s website at www.zionsbancorporation.com. (The Bank’s website is not part of this Annual Report on Form 10-K). 
+
+The Bank has adopted policies, procedures and controls to address compliance with the requirements of the banking, securities, and other laws and regulations described above or otherwise applicable to the Bank. Management monitors these laws and regulations and regularly reviews and updates its policies, procedures and controls in anticipation of industry and regulatory changes.
+
+Regulators, Congress, state legislatures, and international consultative bodies continue to enact rules, laws, and policies to regulate the financial services industry and public companies and to protect consumers and investors. The nature of these laws and regulations and the effect of such policies on future business and earnings of the Bank cannot be predicted.
+
+GOVERNMENT MONETARY POLICIES 
+
+The earnings and business of the Bank are affected not only by general economic conditions, but also by policies adopted by various governmental authorities. The Bank is particularly affected by the monetary policies of the FRB, which affect both short-term and long-term interest rates and the national supply of bank credit.
+
+In view of the changing conditions in the economy and the effect of the FRB’s monetary policies, it is difficult to predict future changes in loan demand, deposit levels and interest rates, or their effect on the business and earnings of the Bank. FRB monetary policies have had a significant effect on the operating results of commercial banks in the past and are expected to continue to do so in the future. 
+
+13
+
+Table of Contents
+
+ZIONS BANCORPORATION, NATIONAL ASSOCIATION AND SUBSIDIARIES
+
+
+
+The Bank’s growth strategy is driven by key factors while adhering to defined risk parameters. The key elements of the Bank’s strategy reflect its prudent risk-taking philosophy. The Bank generates revenue by taking prudent and appropriately priced risks. These factors are outlined in the Bank’s Risk Appetite Framework.
+
+The Bank’s Board of Directors has established a Risk Oversight Committee of the Board, approved an Enterprise Risk Management Framework, and appointed an Enterprise Risk Management Committee (“ERMC”) to oversee and implement the Framework. The ERMC is comprised of senior management of the Bank and is chaired by the Chief Risk Officer. The Bank’s most significant risk exposure has traditionally come from the acceptance of credit risk inherent in prudent extension of credit to relationship customers. In addition to credit risk, these committees also monitor the following level one risk areas: market and interest rate risk; liquidity risk; strategic, business and corporate governance risk; operational/technology risk; cyber risk; capital/financial reporting risk; legal/compliance risk (including regulatory risk); and reputational risk as outlined in the bank’s risk taxonomy. Additional governance and oversight includes Board-approved policies and management committees with direct focus on these specific risk categories.
+
+Although not comprehensive, the following describes several risk factors that are significant to the Bank:
+
+Credit Risk
+
+Credit quality has adversely affected us in the past and may adversely affect us in the future.
+
+Credit risk is one of our most significant risks. A decline in the strength of the U.S. economy in general or the local economies in which we conduct operations could result in, among other things, deterioration in credit quality and/or reduced demand for credit, including a resultant adverse effect on the income from our loan portfolio, an increase in charge-offs, and an increase in the allowance for loan and lease losses (“ALLL”).
+
+We have concentrations of risk in our loan portfolio, including loans secured by real estate, leveraged and enterprise value lending, and oil and gas-related lending, which may have unique risk characteristics that may adversely affect our results. 
+
+Concentration or counterparty risk could adversely affect the Bank. Concentration risk across our loan and investment portfolios could pose significant additional credit risk to the Bank due to exposures which perform in a similar fashion. Counterparty risk could also pose additional credit risk.
+
+We engage in commercial construction and land acquisition and development lending, as well as commercial term lending, primarily in our Western states footprint. The Bank, as a whole, has relatively larger concentrations of such lending than many other peer institutions. In addition, we have a concentration in oil and gas-related lending, primarily in Texas. Both commercial real estate (“CRE”) and oil and gas-related lending are subject to specific risks, including volatility and potential significant and prolonged declines in collateral-values and activity levels. In addition, our real estate lending is concentrated in the Western states, and values there may behave differently than in other parts of the United States. We may have other unidentified concentrated or correlated risks in our loan portfolio.
+
+Our business is highly correlated to local economic conditions in a specific geographic region of the United States.
+
+The Bank provides a full range of banking and related services through its local management teams and unique brands in Arizona, California, Colorado, Idaho, Nevada, New Mexico, Oregon, Texas, Utah, Washington, and Wyoming. Approximately 76% and 75% of the Bank’s total net interest income relates to our banking operations in Utah, Texas, and California for the years ended December 31, 2019 and December 31, 2018, respectively. As a result of this geographic concentration, our financial results depend largely upon economic conditions in these market areas. Accordingly, adverse economic conditions affecting these three states in particular could significantly affect our consolidated operations and financial results. For example, our credit risk could be elevated to the extent that our lending practices in these three states focus on borrowers or groups of borrowers with similar economic characteristics, which are similarly affected by the same adverse economic events. At December 31, 2019, loan 
+
+14
+
+Table of Contents
+
+ZIONS BANCORPORATION, NATIONAL ASSOCIATION AND SUBSIDIARIES
+
+balances associated with our banking operations in Utah, Texas, and California comprised 79% of the Bank’s commercial lending portfolio, 72% of the CRE lending portfolio, and 72% of the consumer lending portfolio.
+
+We could be negatively affected by adverse economic conditions.
+
+Adverse economic conditions negatively affect the Bank’s assets, including its loan and securities portfolios, capital levels, results of operations, and financial condition. The most recent financial crisis resulted in significant regulatory changes that continue to affect the Bank. Although economic conditions have improved since the most recent financial crisis, it is possible that economic conditions may weaken. Economic and fiscal conditions in the United States and other countries may directly or indirectly adversely impact economic and market conditions faced by the Bank and its customers. Any sustained weakness or further weakening in economic conditions would adversely affect the Bank.
+
+Market and Interest Rate Risk
+
+Failure to effectively manage our interest rate risk and prolonged periods of low interest rates could adversely affect us.
+
+Net interest income is the largest component of the Bank’s revenue. A prolonged period of low interest rates can have a materially adverse impact on the Bank's net interest income and result in declining net interest margins. Interest rate risk is managed by the Asset Liability Management Committee, which is established by the Bank’s Board of Directors. Failure to effectively manage our interest rate risk could adversely affect the Bank. Factors beyond the Bank’s control can significantly influence the interest rate environment and increase the Bank’s risk. These factors include competitive pricing pressures for our loans and deposits, adverse shifts in the mix of deposits and other funding sources, and volatile market interest rates resulting from general economic conditions and the policies of governmental and regulatory agencies, in particular the FRB. As interest rates decline our cost of funds may not decline commensurately.
+
+Some components of the Bank’s balance sheet are very sensitive to rising and falling rates. Over the course of the last year, we actively reduced this asset-sensitivity through various strategies, such as entering into rate floor agreements and increasing the use of interest rate swaps designated as cash flow hedges to synthetically convert floating-rate assets to fixed-rate. We anticipate maintaining a moderately asset-sensitive position in 2020, but the Asset/Liability Committee (“ALCO”) continues to monitor market developments and may adjust strategies accordingly.
+
+Interest rates on the Bank’s financial instruments might be subject to change based on developments related to LIBOR, which could adversely impact the Bank’s revenue, expenses, and value of those financial instruments.
+
+In July 2017, the Financial Conduct Authority, the authority regulating the London Interbank Offered Rate (“LIBOR”), along with various other regulatory bodies, announced that LIBOR would likely be discontinued at the end of 2021. LIBOR makes up the most liquid and common interest rate index in the world and is commonly referenced in financial instruments. We have exposure to LIBOR in various aspects through our financial contracts. Instruments that may be impacted include loans, securities, and derivatives, among other financial contracts indexed to LIBOR and that mature after December 31, 2021.
+
+While there is no consensus on what rate or rates may become acceptable alternatives to LIBOR, the Alternative Reference Rates Committee, a steering committee comprised of U.S. financial market participants, selected by the Federal Reserve Bank of New York, started in May 2018 to publish the Secured Overnight Financing Rate (“SOFR”) as an alternative to LIBOR. SOFR is a broad measure of the cost of overnight borrowings collateralized by Treasury securities that was selected by the Alternative Reference Rate Committee due to the depth and robustness of the U.S. Treasury repurchase market. At this time, it is impossible to predict whether SOFR will become an accepted alternative to LIBOR.
+
+The market transition away from LIBOR to an alternative reference rate, such as SOFR, is complex and could have a range of adverse effects on our business, financial condition and results of operations. In particular, any such transition could:
+
+15
+
+Table of Contents
+
+ZIONS BANCORPORATION, NATIONAL ASSOCIATION AND SUBSIDIARIES
+
+•
+adversely affect the interest rates paid or received on, the revenue and expenses associate with, and the value of our floating-rate obligations, loans, deposits, derivatives, and other financial instruments tied to LIBOR rates, or other securities or financial arrangements given LIBOR’s role in determining market interest rates globally;
+
+•
+prompt inquiries or other actions from regulators in respect of our preparation and readiness for the replacement of LIBOR with an alternative reference rate;
+
+•
+result in disputes, litigation or other actions with counterparties regarding the interpretation and enforceability of certain fallback language in LIBOR-based securities; and
+
+•
+require the transition to or development of appropriate systems and analytics to effectively transition our risk management processes from LIBOR-based products to those based on the applicable alternative pricing benchmark, such as SOFR.
+
+The manner and impact of this transition, as well as the effect of these developments on our funding costs, loan and investment and trading securities portfolios, asset-liability management, and business, is uncertain.
+
+Liquidity Risk
+
+Changes in sources of liquidity and capital and liquidity requirements may limit our operations and potential growth.
+
+Our primary source of liquidity is our supply of deposits from our customers. The continued availability of this supply depends on customers maintaining those deposits with us. Recently, competition for deposits has increased and interest rates paid on deposits have generally risen. While we make significant efforts to consider and plan for changes in our deposit funding, market-related forces and a wide variety of other events could impact the liquidity value we derive from our deposits. 
+
+Liquidity requirements and sources are also 
+subject to the comprehensive, consolidated supervision and regulation of the OCC and the FDIC, including risk-based and leverage capital ratio requirements, as well as Basel III liquidity requirements. Capital needs may rise above normal levels when we experience deteriorating earnings and credit quality, and our banking regulators may increase our capital requirements based on general economic conditions and our particular condition, risk profile and growth plans. For a summary of the capital rules to which we are subject, see “Capital Standards – Basel Framework” on page 9 of this Annual Report on Form 10-K.
+
+We and/or the holders of our securities could be adversely affected by unfavorable rating actions from rating agencies.
+
+Our ability to access the capital markets is important to our overall funding profile. This access is affected by the ratings assigned by rating agencies to us and particular classes of securities that we issue. The rates that we pay on our securities are also influenced by, among other things, the credit ratings that we and/or our securities receive from recognized rating agencies. Ratings downgrades to us or our securities could increase our costs or otherwise have a negative effect on our liquidity position, financial condition or the market prices of our securities.
+
+Strategic, Business and Corporate Governance Risks
+
+Problems encountered by other financial institutions could adversely affect financial markets generally and have indirect adverse effects on us.
+
+The commercial soundness of many financial institutions may be closely interrelated as a result of credit, trading, clearing or other relationships between the institutions. As a result, concerns about, or a default or threatened default by, one institution could lead to significant market-wide liquidity and credit problems, losses or defaults by other institutions. This is sometimes referred to as “systemic risk” and may adversely affect financial intermediaries, such as clearing agencies, clearing houses, banks, securities firms and exchanges, with which we interact on a daily basis, and therefore could adversely affect us. Information security and vendor management processes are in place to actively identify, manage and monitor actual and potential impacts. 
+
+16
+
+Table of Contents
+
+ZIONS BANCORPORATION, NATIONAL ASSOCIATION AND SUBSIDIARIES
+
+The regulation of incentive compensation under the Dodd-Frank Act may adversely affect our ability to retain our highest performing employees.
+
+The bank regulatory agencies have published guidance and proposed regulations that limit the manner and amount of compensation that banking organizations provide to employees. These regulations and guidance may adversely affect our ability to attract and retain key personnel. If we were to suffer such adverse effects with respect to our employees, our business, financial condition and results of operations could be adversely affected, perhaps materially.
+
+We have made, and are continuing to make, significant changes to the Bank that include, among other things, organizational restructurings, efficiency initiatives, and replacement or upgrades of certain core technological systems to improve our control environment, and operating efficiency. The ultimate success and completion of these changes, and their effect on the Bank, may vary significantly from initial planning, which could materially adversely affect the Bank.
+
+Over the last several years, the Bank has completed numerous improvement projects, including the merger of its bank holding company into the Bank; combining the legal charters of our seven affiliate banks into one; consolidating 15 loan operations sites into two; replacing our core loan systems; upgrading our accounting systems; installing a credit origination work flow system; streamlining our small business and retail lending, mortgage, wealth management and foreign exchange businesses; and investing in data quality and information security. Ongoing investment continues in a multi-year project to replace our core deposit systems, a collection of customer-facing digital capabilities and a variety of other projects to simplify how we do business. The Bank has taken actions designed to improve efficiencies and reduce and manage operating expenses, in part to address the challenges to net interest income presented by the current low and declining interest rate environment.
+
+These initiatives and changes continue to be implemented; some of the projects are fully completed, and some projects are in their early stages. By their very nature, projections of duration, cost, expected savings, expected efficiencies, and related items are subject to change and significant variability. There can be no certainty that the Bank will achieve the expected benefits or other intended results associated with these projects.
+
+We may encounter significant adverse developments in the completion and implementation of these changes. These may include significant time delays, cost overruns, loss of key people, technological problems, processing failures, vendor reliance issues and other adverse developments. Any or all of these issues could result in disruptions to our systems, processes, control environment, procedures, and employees, which may adversely impact our customers and our ability to conduct business.
+
+We have plans, policies, and procedures designed to prevent or limit the negative effect of these potential adverse developments. However, there can be no assurance that any such adverse developments will not occur or, if they do occur, that they will be adequately remediated. The ultimate effect of any adverse development could subject us to additional regulatory scrutiny, or expose us to civil litigation and possible financial liability, any of which could materially affect the Bank, including its control environment, operating efficiency, and results of operations.
+
+Operational/Technology Risk
+
+Catastrophic events including, but not limited to, hurricanes, tornadoes, earthquakes, fires, floods, prolonged drought, and pandemics may adversely affect the general economy, financial and capital markets, specific industries, and the Bank.
+
+The Bank has significant operations and a significant customer base in Utah, Texas, California, and other regions where natural and other disasters may occur. These regions are known for being vulnerable to natural disasters and other risks, such as hurricanes, tornadoes, earthquakes, fires, floods, and prolonged drought. These types of natural catastrophic events at times have disrupted the local economy, the Bank’s business and customers, and have posed physical risks to the Bank’s property. In addition, catastrophic events occurring in other regions of the world may have an impact on the Bank’s customers and in turn on the Bank. Although we have business continuity and disaster recovery programs in place, a significant catastrophic event could materially adversely affect the Bank’s operating results.
+
+17
+
+Table of Contents
+
+ZIONS BANCORPORATION, NATIONAL ASSOCIATION AND SUBSIDIARIES
+
+We could be adversely affected by failure in our internal controls.
+
+We have established internal controls over financial reporting and other operations within the Bank. Because of its inherent limitations, internal controls over financial reporting may not prevent or detect misstatements. A failure in our internal controls could have a significant negative impact not only on our earnings, but also on the perception that customers, regulators and investors may have of the Bank. We continue to devote a significant amount of effort, time and resources to improving our controls and ensuring compliance with complex accounting standards and regulations. These efforts also include the management of controls to mitigate operational risks for programs and processes across the Bank.
+
+We could be adversely affected by financial technology advancements and other nontraditional lending and banking sources.
+
+Financial technology companies, referred to as “FinTechs,” and technology platform companies, continue to emerge and compete with traditional financial institutions across a wide variety of products and services. Consumers have demonstrated a growing willingness to obtain banking services from FinTechs. As a result, our ability to remain competitive is increasingly dependent upon our ability to maintain critical technological capabilities, and to identify and develop new, value-added products for existing and future customers. Failure to do so could impede our time to market, reduce customer satisfaction and product accessibility and adaptation, and weaken our competitive position. 
+
+We use models in the management of the Bank. There is risk that these models are incorrect or inaccurate in various ways, which can cause us to make nonoptimal decisions.
+
+We attempt to carefully develop, document, back test and validate the models used in the management of the Bank. For example, we use models in the management of interest rate and liquidity risk, models used in projecting stress losses in various segments of our credit and securities portfolios, and models projecting net revenue under stress. Models are inherently imperfect for a number of reasons and cannot perfectly predict outcomes. Management decisions based in part on such models, therefore, can be suboptimal. In addition, when determining the Bank’s capital needs under stress testing, we attempt to specifically quantify the amounts by which model results could be incorrect.
+
+Cyber Risk
+
+We are subject to a variety of system failure and cyber security risks that could adversely affect our business and financial performance.
+
+The Board and the Risk Committee of the Board have invested significant time on overseeing management's efforts to continue to strengthen our infrastructure, staffing and enhance our controls while improving the client and customer experience. Cyber defense and improving our resiliency against cybersecurity threats remains a key focus at all levels of management within the Bank, and of our Board.
+
+We rely heavily on communications and information systems to conduct our business. We, our customers, and other financial institutions with which we interact, are subject to ongoing, continuous attempts to penetrate key systems by individual hackers, organized criminals, and in some cases, state-sponsored organizations. Information security risks for large financial institutions have increased significantly in recent years in part because of the proliferation of new technologies (e.g., internet and mobile banking to conduct financial transactions) and the increased sophistication and activities of organized crime, hackers, terrorists, nation-states, activists and other external third parties. Third parties with whom we or our customers do business also present operational and information security risks to us, including security breaches or failures of their own systems. The possibility of employee error, failure to follow security procedures, or malfeasance also presents these risks. 
+
+In addition, to access our products and services, our customers may use personal computers, smartphones, tablets, and other mobile devices that are beyond our control environment. Any failure, interruption or breach in security of our information systems could result in failures or disruptions in our customer relationship management; general ledger, deposit, loan and other systems; misappropriation of funds; and theft, disclosure or misuse of proprietary Bank or customer data. While we have significant internal resources, policies and procedures designed to prevent or limit the effect of the possible failure, interruption or security breach of our information systems, the Bank has 
+
+18
+
+Table of Contents
+
+ZIONS BANCORPORATION, NATIONAL ASSOCIATION AND SUBSIDIARIES
+
+experienced security breaches due to cyberattacks in the past and there can be no assurance that any such failure, interruption or security breach will not occur in the future, or, if they do occur, that they will be adequately addressed. It is impossible to determine the potential effects of these events with any certainty but any such breach could result in material adverse consequences for the Bank and its customers.
+
+As cyber threats continue to evolve, we will be required to expend significant additional resources to continue to modify or enhance our layers of defense or to investigate or remediate any information security vulnerabilities. System enhancements and updates may also create risks associated with implementing new systems and integrating them with existing ones. Due to the complexity and interconnectedness of information technology systems, the process of enhancing our layers of defense can itself create a risk of systems disruptions and security issues. In addition, addressing certain information security vulnerabilities, such as hardware-based vulnerabilities, may affect the performance of our information technology systems. The ability of our hardware and software providers to deliver patches and updates to mitigate vulnerabilities in a timely manner can introduce additional risks, particularly when a vulnerability is being actively exploited by threat actors. The occurrence of any failure, interruption or security breach of our information systems could damage our reputation, result in a loss of customer business, subject us to additional regulatory scrutiny, or expose us to civil litigation and possible financial liability.
+
+Vendor Risk
+
+We outsource various operations to third party vendors which could adversely impact our business and operational performance.
+
+We rely on various vendors to perform operational activities to conduct our business. We have established operational controls and monitoring through our third party vendor management programs to oversee and manage these vendors to help ensure they adhere to the same business practices that we as a Bank have to either adhere or comply with. We have developed and implemented Service Level Agreements ("SLA") to assist us in that effort and have implemented regular reporting to monitor and manage our third party vendors.
+
+Capital/Financial Reporting Risk
+
+Internal stress testing and capital management, as well as provisions of the National Bank Act and OCC regulations, may limit our ability to increase dividends, repurchase shares of our stock, and access the capital markets.
+
+Although we are no longer subject to the CCAR regime, we are required to submit stress tests to the OCC because the Bank has assets in excess of $10 billion, and we continue to utilize stress testing as an important mechanism to inform our decisions on the appropriate level of capital, based upon actual and hypothetically-stressed economic conditions. The stress testing and other applicable regulatory requirements may, among other things, require us to increase our capital levels, limit our dividends or other capital distributions to shareholders, modify our business strategies, or decrease our exposure to various asset classes.
+
+Under the National Bank Act and OCC regulations, certain capital transaction may be subject to the approval of the OCC. These requirements may limit our ability to respond to and take advantage of market developments.
+
+Economic and other circumstances may require us to raise capital at times or in amounts that are unfavorable to the Bank.
+
+The Bank must maintain certain risk-based and leverage capital ratios, as required by its banking regulators, which can change depending upon general economic conditions, as well as the particular conditions, risk profiles and growth plans of the Bank. Compliance with capital requirements may limit the Bank’s ability to expand and has required, and may require, the Bank or its subsidiaries to raise additional capital. These uncertainties and risks, including those created by legislative and regulatory uncertainties, may increase the Bank’s cost of capital and other financing costs.
+
+We could be adversely affected by accounting, financial reporting, and regulatory/compliance risk. 
+
+The Bank is exposed to accounting, financial reporting, and regulatory/compliance risk. The Bank uses a number of complex financial products and services for its own capital, funding, investment and risk management needs, in 
+
+19
+
+Table of Contents
+
+ZIONS BANCORPORATION, NATIONAL ASSOCIATION AND SUBSIDIARIES
+
+addition to providing them to its customers. Estimates, judgments, and interpretations of complex and changing accounting and regulatory policies are required in order to provide and account for these products and services. Changes in our accounting policies or in accounting standards could materially affect how we report our financial results and conditions. The level of regulatory/compliance oversight has been heightened in recent periods as a result of rapid changes in regulations that affect financial institutions. The administration of some of these regulations and related changes has required the Bank to comply before their formal adoption. Therefore, identification, interpretation and implementation of complex and changing accounting standards as well as compliance with regulatory requirements pose an ongoing risk.
+
+The value of our goodwill may decline in the future.
+
+As of December 31, 2019, the Bank had $1 billion of goodwill that was allocated to Amegy Bank (“Amegy”), California Bank & Trust (“CB&T”) and Zions Bank. If the fair value of a reporting unit is determined to be less than its carrying value, the Bank may have to take a charge related to the impairment of its goodwill. Such a charge would occur if the Bank were to experience increases in the book value of a reporting unit in excess of the increase in the fair value of equity of a reporting unit. A significant decline in the Bank’s expected future cash flows, a significant adverse change in the business climate, slower economic growth or a significant and sustained decline in the price of the Bank’s common stock, any or all of which could be materially impacted by many of the risk factors discussed herein, may necessitate the Bank taking charges in the future related to the impairment of its goodwill. If the Bank was to conclude in the future that a write-down of its goodwill is necessary, it would record the appropriate charge, which could have a material adverse effect on the Bank’s results of operations.
+
+The Bank may not be able to utilize the DTA recorded on its balance sheet.
+
+The Bank’s balance sheet includes a DTA. We had net DTAs of $37 million at December 31, 2019, compared with $130 million at December 31, 2018. The largest component of this asset results from additions to our ALLL for purposes of GAAP in excess of loan losses actually taken for tax purposes. Our ability to continue to record this DTA is dependent on the Bank’s ability to realize its value through net operating loss carrybacks or future projected earnings. Loss of part or all of this asset would adversely impact tangible capital. In addition, inclusion of this asset in determining regulatory capital is subject to certain limitations. Currently, no DTAs are disallowed for regulatory purposes at the Bank.
+
+Legal/Compliance Risk 
+
+Laws and regulations applicable to the Bank and the financial services industry impose significant limitations on our business activities and subjects us to increased regulation and additional costs.
+
+The Bank and the entire financial services industry have incurred, and will continue to incur, substantial personnel, systems, consulting, and other costs in order to comply with banking regulations, including those promulgated under the Dodd-Frank Act. See “Supervision and Regulation” on page 6 of this Annual Report on Form 10-K for further information about the regulations applicable to the Bank and the financial services industry generally.
+
+Bank regulatory agencies and international regulatory consultative bodies have proposed or are considering new regulations and requirements, some of which may be imposed without formal promulgation. Our deposits are insured by the FDIC up to legal limits. Accordingly, we are subject to FDIC insurance assessments. 
+
+There can be no assurance that any or all of these regulatory changes or actions will ultimately be adopted. However, if adopted, some of these proposals could adversely affect the Bank by, among other things: impacting after-tax returns earned by financial services firms in general; limiting the Bank’s ability to grow; increasing taxes or fees on some of the Bank’s funding or activities; limiting the range of products and services that the Bank could offer; and requiring the Bank to raise capital at inopportune times.
+
+Political developments may also result in substantial changes in tax, international trade, immigration, and other policies. The extent and timing of any such changes are uncertain, as are the potential direct and indirect impacts, whether beneficial or adverse. Regulations and laws may be modified or repealed, and new legislation may be enacted that will affect us and our subsidiaries.
+
+20
+
+Table of Contents
+
+ZIONS BANCORPORATION, NATIONAL ASSOCIATION AND SUBSIDIARIES
+
+The ultimate impact of these proposals cannot be predicted as it is unclear which, if any, may be adopted.
+
+We could be adversely affected by legal and governmental proceedings. 
+
+We are subject to risks associated with legal claims, litigation, and regulatory and other government proceedings. The Bank’s exposure to these proceedings has increased and may further increase as a result of stresses on customers, counterparties and others arising from the past or current economic environments, new regulations promulgated under recently adopted statutes, the creation of new examination and enforcement bodies, and enforcement and legal actions against banking organizations. Any
+
+such
+
+matters may result in material adverse consequences to our results of operations, financial condition or ability to conduct our business, including adverse judgments, settlements, fines, penalties (e.g., civil money penalties under applicable banking laws), injunctions, restrictions on our business activities, or other relief. Our involvement in any such matters, even if the matters are ultimately determined in our favor, could also cause significant harm to our reputation and divert management attention from the operation of our business. In general, the amounts paid by financial institutions in settlement of proceedings or investigations, including those relating to anti-money laundering matters, have been increasing dramatically. In addition, any enforcement matters could impact our supervisory and CRA ratings, which may restrict or limit our activities.
+
+The corporate and securities laws applicable to the Bank are not as well-developed as those applicable to a state-chartered corporation, which may impact the ability of the Bank to effect corporate transactions in an efficient and optimal manner.
+
+Prior to the restructuring, the corporate affairs of the Bank’s holding company were governed by Utah state law, and securities law matters were governed by the federal securities laws, including the Securities Act and the Exchange Act, as administered by the SEC. Each of these legal regimes is well-developed and used widely by public companies.
+
+Post-restructuring, the Bank’s corporate affairs are governed by the National Bank Act and related regulations administered by the OCC. With respect to securities matters, the Bank is not subject to the Securities Act, but rather to OCC regulations governing securities offerings. The Bank’s common stock and certain other securities are registered or deemed registered under the Exchange Act, which vests the OCC with the power to administer and enforce certain sections of the Exchange Act applicable to banks such as the Bank (though the Bank currently makes and intends to continue to make filings required by the Exchange Act with the SEC as a “voluntary filer”). These OCC statutory and regulatory regimes have been used by publicly-traded banking organizations relatively rarely and are not as well-developed as the corporate and securities law regimes applicable to corporations. While certain specific risks associated with operating under these regimes are discussed below, unless and until these regimes are further developed and established over time, the uncertainty of how these regimes might apply to any given corporate or securities matters may prevent us from effecting transactions in an efficient and optimal manner or perhaps at all.
+
+Differences between the National Bank Act and state law requirements in respect of mergers could result in the Bank not being able to execute acquisitions as efficiently and advantageously as bank holding companies or other financial institutions.
+
+Unlike state corporate law, the National Bank Act requires shareholder approval of all mergers between a national bank and another national or state bank and does not allow for exceptions in the case of various “minor” mergers, such as a parent company’s merger with a subsidiary or an acquirer’s merger with an unaffiliated entity in which the shares issued by the acquirer do not exceed a designated percentage. The National Bank Act and related regulations may also complicate the structuring of certain nonbank acquisitions.
+
+These differences could adversely affect the ability of the Bank and other banks registered under the National Bank Act to efficiently consummate acquisition transactions. In addition, such differences could make the Bank less competitive as a potential acquirer in certain circumstances given that the Bank’s acquisition proposal may be conditioned on Bank shareholder approval while the Bank’s competitors’ proposals will not have such a condition.
+
+21
+
+Table of Contents
+
+ZIONS BANCORPORATION, NATIONAL ASSOCIATION AND SUBSIDIARIES
+
+Differences between the National Bank Act and state law could result in the Bank’s capacity to pay dividends and repurchase shares at any given time being different from the capacity that existed for Zions Bancorporation prior to the restructuring.
+
+The regulations and limitations applicable to the Bank relating to the payment of dividends and repurchases or redemptions of outstanding common and preferred shares differ from the limitations and considerations that applied to the Bank’s holding company prior to the recent restructuring. While the Bank does not believe this change in legal restrictions resulting from the restructuring will constrain the Bank from executing any capital plans that are currently contemplated or otherwise reasonably foreseeable in the near term, there can be no assurance that the change in legal restrictions will not have an adverse effect on the Bank’s ability to pay dividends and repurchase or redeem stock in the future.
+
+Shares of common stock of a national bank are assessable, which may cause investors to view the Bank’s common stock less favorably than that of Zions Bancorporation prior to the restructuring.
+
+The National Bank Act provides that under certain circumstances the common stock of a national bank is assessable, i.e., holders may be subject to a levy for more funds if so determined by the OCC. In contrast, the common stock of state corporations is not subject to assessment. However, the OCC has confirmed that under the applicable provisions of the National Bank Act, assessability is limited to the par value of a national bank’s stock. The Bank’s common stock has a par value of $0.001. Moreover, according to the OCC, it has not exercised its authority to levy assessments since 1933 and views the assessability authority as a mechanism for addressing capital deficiency that has long been overtaken by developments in statute and regulation, including robust capital standards, prompt corrective action requirements and supervisory and enforcement authorities requiring an institution to maintain capital at a particular level. Nonetheless, potential investors may be unfamiliar with the concept of assessment and, as a result, view the Bank less favorably as an investment.
+
+The ability of investors to access financial and other reports filed by the Bank readily could be adversely affected if such reports were not able to be made available publicly through the SEC or a system operated by the OCC comparable to that of the SEC.
+
+The Bank has been permitted and currently makes its Exchange Act filings as a “voluntary filer” with the SEC. However, there can be no assurance that the OCC or SEC will continue to allow the Bank to make filings as a voluntary filer or that the OCC will develop a comparable system for making Exchange Act filings publicly available. If the Bank’s Exchange Act filings ceased to be as readily available as those of bank holding companies, investors could view the Bank less favorably.
+
+The Bank’s ability to issue securities in an optimal manner may be adversely affected by the fact that the OCC’s securities offering regulations and organizational structure are less well developed than those of the SEC, which applied to the Bank’s holding company prior to the restructuring.
+
+The SEC maintains a well-developed regulatory regime and well-staffed organization relating to securities offerings under or exempt from the Securities Act. For example, the SEC has developed integrated disclosure rules, which allow Exchange Act filings to be incorporated by reference into prospectuses distributed as required by the Securities Act. In addition, under the SEC’s rules seasoned issuers who are timely in their filings are permitted to use “automatic shelf registration,” allowing them to offer securities under a registration statement that is automatically effective upon filing. The OCC maintains its own securities offering regime applicable to national banks and their securities offerings, with which the Bank will need to comply in order to access the public capital markets. Similar to the SEC’s offering rules, the OCC’s regime requires that registration statements be reviewed and declared or become effective. However, given that there are currently no other nationally-charted banks whose common stock has been issued under the OCC’s securities offering regime, it is unknown at this point whether and how the OCC staff would review registration statements. It's also unclear whether the OCC would apply the same mechanics for automatic shelf registration filings used by SEC-filers, or how, more generally, the OCC will function as a securities regulator. Given the extent to and manner in which the Bank has accessed capital markets historically, or to which it currently contemplates accessing such markets, the Bank does not believe there will be a material adverse impact on the Bank’s ability to access capital markets effectively, although there can be no assurance that this will be the case. It is possible that operating under the OCC’s securities offering regime could 
+
+22
+
+Table of Contents
+
+ZIONS BANCORPORATION, NATIONAL ASSOCIATION AND SUBSIDIARIES
+
+impede the Bank’s ability to sell securities at the most advantageous times or to achieve optimum pricing in offerings.
+
+The Bank is subject to restrictions on permissible activities that would limit the types of business it may conduct and that may make acquisitions of other financial companies more challenging.
+
+Under applicable laws and regulations, bank holding companies and banks are generally limited to business activities and investments that are related to banking or are financial in nature. The range of permissible financial activities is set forth in the Gramm-Leach-Bliley Act and is more limited for banks than for bank holding company organizations. The differences relate mainly to insurance underwriting (but not insurance agency activities) and merchant banking (but not broker-dealer and investment advisory activities). Loss of the bank holding company status, as a result of the restructuring, could make future acquisitions of financial institutions with such operations more challenging. 
+
+The Bank’s common stock is not an insured deposit.
+
+Shares of the Bank’s common stock are not a bank deposit and, therefore, losses in value are not insured by the FDIC, any other deposit insurance fund, or by any other public or private entity. Investment in shares of the Bank’s common stock is inherently risky and is subject to the same market forces and investment risks that affect the price of common stock in any other company, including the possible loss of some or all principal invested.
+
+Reputational Risk
+
+The Bank is presented with various reputational risk issues that could stem from operational, regulatory/compliance and legal risks. 
+
+A Reputational Risk Council was established to monitor, manage and develop strategies to effectively manage reputational risk which includes, but is not limited to, addressing communication logistics, legal and regulatory issues.

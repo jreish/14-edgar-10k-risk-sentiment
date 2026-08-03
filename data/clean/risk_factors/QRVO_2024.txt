@@ -1,0 +1,673 @@
+.
+
+You should carefully consider the risks described below in addition to the other information contained in this report before making an investment decision with respect to any of our securities. Our business, financial condition or results of operations could be materially and adversely impacted by any of these risks. The risks and uncertainties described below are not the only ones we face. Additional risks not currently known to us, or other factors not perceived by us to present material risks to our business at this time, may impair our business operations, financial condition, or results of operations.
+
+ Summary 
+
+The following is a summary of the principal risks that could adversely affect our business, financial condition or results of operations.
+
+•
+Our operating results fluctuate and are substantially dependent on developing new products and achieving design wins as our customers' requirements can change rapidly and product life cycles can be short.
+
+•
+We depend on several large customers for a substantial portion of our revenue and the loss of one or more of these customers could have a material adverse effect on our business, financial condition and results of operations.
+
+•
+We face risks of a loss of revenue if contracts with the United States government or defense and aerospace contractors are canceled or delayed or if defense spending is reduced.
+
+•
+We depend heavily on third parties.
+
+•
+We face risks related to sales through distributors.
+
+•
+We face risks associated with the operation of our manufacturing facilities, and if we experience poor manufacturing yields, our operating results may suffer.
+
+•
+We are subject to inventory risks and costs because we purchase materials and build our products based on forecasts provided by customers before receiving purchase orders for the products.
+
+•
+We sell certain of our products based on reference designs of chipset suppliers, and our inability to effectively manage or maintain relationships with these companies may have an adverse effect on our business.
+
+•
+Overcapacity could cause us to underutilize our manufacturing facilities and have a material adverse effect on our financial performance.
+
+•
+We are subject to risks from international sales and operations.
+
+13
+
+Table of Contents
+
+•
+We may not be able to generate sufficient cash to service all of our debt or to fund capital expenditures and may be forced to take other actions to satisfy our debt obligations and financing requirements, which may not be successful or on terms favorable to us.
+
+•
+Our acquisitions and other strategic investments could fail to achieve our financial or strategic objectives, disrupt our ongoing business and adversely impact our results of operations.
+
+•
+We must attract, retain, and motivate key employees in order to compete, and our failure to do so could harm our business and our results of operations.
+
+•
+We rely on our IP portfolio and may not be able to successfully protect against the use of our IP by third parties, and we may be subject to claims of infringement of third-party IP rights.
+
+•
+Security breaches and other disruptions to our IT systems, or other misappropriation of proprietary information, could expose us to liability or disrupt our ability to operate critical business functions, which would cause our business and reputation to suffer.
+
+For a more complete discussion of the material risks facing our business, see below.
+
+Risks Related to Our Business and Industry
+
+Our operating results fluctuate on a quarterly and annual basis.
+
+Our revenue, earnings, margins and other operating results have fluctuated significantly in the past and may fluctuate significantly in the future
+. Historically, worldwide semiconductor industry sales have tracked the impacts of financial crises, subsequent recoveries and persistent economic uncertainty. Global economic slowdowns could potentially result in certain economies dipping into economic recessions, including the United States. If demand for our products fluctuates as a result of economic conditions or for other reasons, our revenue and profitability could be impacted. Our future operating results will depend on many factors, including the following:
+
+•
+business and macroeconomic changes, including trade restrictions, foreign governments subsidizing local suppliers, recession or slowing growth in the semiconductor industry and the overall global economy;
+
+•
+political and/or civil unrest, acts of war or other military actions, including any resulting sanctions or other restrictive actions;
+
+•
+inflationary pressures, which vary across jurisdictions in which we do business, resulting in increased costs or reduced demand for our products due to increased prices of those products;
+
+•
+changes in consumer confidence caused by many factors, including changes in interest rates, credit markets, unemployment levels, energy or other commodity prices as well as changes in existing and expected rates of inflation;
+
+•
+fluctuations in demand for our customers’ products;
+
+•
+our ability to forecast our customers’ demand for our products accurately;
+
+•
+the ability of third-party foundries and other third-party suppliers to manufacture, assemble and test our products and otherwise deliver on their commitments to us in a timely and cost-effective manner;
+
+•
+our customers’ and distributors’ ability to manage the inventory that they hold and to forecast accurately their demand for our products;
+
+•
+delays in the widespread deployment and commercialization of new technologies;
+
+•
+our ability to achieve cost savings and improve yields and margins on our new and existing products;
+
+14
+
+Table of Contents
+
+•
+our ability to successfully integrate into our business, and realize the expected benefits of, our acquisitions and strategic investments; 
+
+•
+our ability to disaggregate and divest elements of our business and realize the expected benefits of doing so; and
+
+•
+our ability to align production capacity to customer demand, which may lead to underutilization of our capacity in periods of lower demand or the lack of capacity in periods of excess demand.
+
+Our operating results have been and our future operating results could be adversely affected by one or more of the factors set forth above or other similar factors. If our future operating results or forecasts are below the expectations of stock market analysts or our investors, our stock price may decline.
+
+Our operating results are substantially dependent on developing new products and achieving design wins while our customers' requirements can change rapidly and product life cycles can be short.
+
+Our largest markets are characterized by the frequent introduction of new products in response to evolving product requirements. Our largest customers typically refresh some or all of their product portfolios by releasing new models each year. In some cases, product designs we pursue represent either opportunities to substantially increase our revenue by winning a new design or a risk of a substantial decrease in revenue by losing a product on which we are the incumbent.
+
+Our success depends on our ability to develop and introduce new products in a timely and cost-effective manner and secure production orders from our customers. The development of new products is a highly complex process, and we have experienced delays in completing the development and introduction of new products at times. Our successful product development depends on a number of factors, including the following:
+
+•
+our ability to predict market requirements and define and design new products that address those requirements;
+
+•
+our ability to design products that meet our customers’ cost, size and performance requirements;
+
+•
+our ability to introduce new products that are competitive and can be manufactured at lower costs or that command higher prices based on superior performance;
+
+•
+acceptance of our new product designs;
+
+•
+the availability of qualified product design engineers;
+
+•
+our timely completion of product designs and ramp up of new products according to our customers’ needs with acceptable manufacturing yields; and
+
+•
+market acceptance of our customers’ products and the duration of the life cycle of such products.
+
+We may not be able to design and introduce new products in a timely or cost-efficient manner, and our new products may fail to meet market or customer requirements. Most major product design opportunities that we pursue involve multiple competitors, and we could lose a new product design opportunity to a competitor that offers a lower cost or equal or superior performance. If we are unsuccessful in achieving design wins, our revenue and operating results will be adversely affected. Even when a design win is achieved, our success is not assured. Design wins may require significant expenditures by us before realizing revenue six to nine months or more later. Many customers seek a second source for all major components in their devices, which can significantly reduce the revenue obtained from a design win. In many cases, the average selling prices of our products decline over the products’ lives, and we must achieve yield improvements, cost reductions and other productivity enhancements in order to maintain profitability. The actual value of a design win to us will ultimately depend on the commercial success of our customers’ products.
+
+15
+
+Table of Contents
+
+We depend on several large customers for a substantial portion of our revenue and the loss of one or more of these customers could have a material adverse effect on our business, financial condition and results of operations.
+
+A substantial portion of our revenue comes from several large customers. Our future operating results will be affected by both the success of our largest customers and our success in diversifying our products and customer base. Collectively, our two largest end customers accounted for an aggregate of approximately 58%, 49% and 44% of our revenue for fiscal years 2024, 2023 and 2022, respectively. If demand for their products increases, our results are favorably impacted, while if demand for their products decreases, they may reduce their purchases of, or stop purchasing our products and our operating results would suffer. Even if we achieve a design win, our customers can delay or cancel the release of a new device for any reason. Most of our customers can cease incorporating our products into their devices with little notice to us and with little or no penalty. The loss of a large customer, failure to add new customers to replace lost revenue, a shift in consumer demand to refurbished or secondhand devices, or a decline in consumers' rates of replacement of smartphones or other devices, could have a material adverse effect on our business, financial condition and results of operations.
+
+We face risks of a loss of revenue if contracts with the United States government or defense and aerospace contractors are canceled or delayed or if defense spending is reduced.
+
+We receive a portion of our revenue from the United States government and from prime contractors on United States government-sponsored programs, principally for defense and aerospace applications. These programs are subject to delays or cancellation. Further, spending on defense and aerospace programs can vary significantly depending on funding from the United States government. We believe our government and defense and aerospace business has been negatively affected in the past by external factors such as sequestration and political pressure to reduce federal defense spending. Reductions in defense and aerospace funding or the loss of a significant defense and aerospace program or contract would have a material adverse effect on our operating results.
+
+We depend heavily on third parties.
+
+We purchase numerous component parts, substrates and silicon-based products from external suppliers. We also utilize third-party suppliers for numerous services, including die processing, wafer bumping, assembly, test and tape and reel. In the third quarter of fiscal 2024, we entered into a definitive agreement with Luxshare to divest our assembly and test operations in China. In connection with this transaction, which was completed on May 2, 2024, Luxshare is providing assembly and test services to us under a long-term supply agreement. 
+
+The use of external suppliers involves a number of risks, including the possibility of material disruptions in the supply of key components and the lack of control over delivery schedules, capacity constraints, manufacturing yields, product quality and cost increases. Furthermore, supply chain disruptions and labor market constraints have created heightened risk that external suppliers may be unable to meet their obligations to us. If we experience any significant difficulty in obtaining the materials or services used in the conduct of our business, these supply challenges may limit our ability to fully satisfy customer demand.
+
+As the semiconductor industry may experience supply constraints for certain items, from time to time, we enter into certain supply agreements to address short-term and long-term supply requirements. However, even with supply agreements, we are still subject to risks that a supplier will be unable to meet its supply commitments, achieve anticipated manufacturing yields, produce wafers or other components on a timely basis, or provide additional capacity beyond contractual commitments sufficient to meet our supply needs. If so, we may experience delays in product launches or supply shortages for certain products, which could cause an unanticipated decline in our sales and damage our existing customer relationships and our ability to establish new customer relationships. In addition, if a supplier experiences financial difficulties or goes into bankruptcy, it could be difficult or impossible, or may require substantial time and expense, for us to recover any or all of our fees and deposits made as part of any supply agreement.
+
+Although our key suppliers commit to us to be compliant with applicable ISO 9001 and/or TS-16949 quality standards, we have experienced quality and reliability issues with suppliers in the past. Quality or reliability issues in our supply chain could negatively affect our products, our reputation and our results of operations.
+
+16
+
+Table of Contents
+
+We face risks related to sales through distributors.
+
+We sell a significant portion of our products through third-party distributors. We depend on these distributors to help us create end customer demand, provide technical support and other value-added services to customers, fill customer orders and stock our products. We may rely on one or more key distributors for a product, and a material change in our relationship with one or more of these distributors or their failure to perform as expected could reduce our revenue. Our ability to add or replace distributors for some of our products may be limited because our end customers may be hesitant to accept the addition or replacement of a distributor due to advantages in the incumbent distributors’ technical support and favorable business terms related to payments, discounts and stocking of acceptable inventory levels. Using third parties for distribution exposes us to many risks, including competitive pressure, concentration, credit risk and compliance risks. Other third parties may use one of our distributors to sell products that compete with our products, and we may need to incentivize the distributors to focus on the sale of our products. Our distributors may face financial difficulties, including bankruptcy, which could harm our collection of accounts receivable and financial results. Violations of the Foreign Corrupt Practices Act or similar laws by our distributors or other third-party intermediaries could have a material impact on our business. Failure to manage risks related to our use of distributors may reduce sales, increase expenses and weaken our competitive position.
+
+We face risks associated with the operation of our manufacturing facilities.
+
+We operate wafer fabrication facilities in North Carolina, Oregon and Texas. We use several international and domestic assembly suppliers, as well as internal assembly facilities in Costa Rica, Germany and the U.S., to assemble and test our products. We currently have our own test and tape and reel facilities located in Costa Rica and the U.S., and we also utilize contract suppliers and partners in Asia.
+
+A number of factors related to our facilities will affect our business and financial results, including the following:
+
+•
+our ability to adjust production capacity in a timely fashion, including the migration of production amongst our various factories, in response to changes in demand for our products;
+
+•
+the significant fixed costs of operating the facilities;
+
+•
+factory utilization rates;
+
+•
+our ability to qualify our facilities for new products and new technologies in a timely manner;
+
+•
+the availability of raw materials, the impact of the volatility of commodity pricing and tariffs imposed on raw materials, including substrates, gold, platinum and high-purity source materials such as gallium, aluminum, arsenic, indium, silicon, phosphorous and palladium;
+
+•
+our manufacturing cycle times;
+
+•
+our manufacturing yields;
+
+•
+the political, regulatory and economic risks associated with our international manufacturing operations;
+
+•
+potential violations by our employees or third-party agents of international or U.S. laws relevant to foreign operations;
+
+•
+our ability to hire, train and manage qualified production personnel;
+
+•
+our compliance with applicable environmental and other laws and regulations, as well as our ability to satisfy our customers' environmental initiatives for their supply chains; and
+
+•
+our ability to avoid prolonged periods of down-time in our facilities for any reason.
+
+17
+
+Table of Contents
+
+Business disruptions could harm our business, lead to a decline in revenue and increase our costs.
+
+Our worldwide operations and business could be, and in some cases have been, disrupted by natural disasters, industrial accidents, cybersecurity incidents, telecommunications failures, power or water shortages, extreme weather conditions, public health issues (including pandemics such as COVID-19), terrorist attacks, political and/or civil unrest, acts of war or other military actions, political or regulatory issues and other man-made disasters or catastrophic events. Global climate change could result in certain natural disasters occurring more frequently or with greater intensity, such as drought, wildfires, storms and flooding. We carry commercial property damage and business interruption insurance against various risks, with limits we deem adequate, for reimbursement for damage to our fixed assets and resulting disruption of our operations. However, the occurrence of any of these business disruptions could harm our business and result in significant losses, a decline in revenue and an increase in our costs and expenses. Any disruptions from these events could require substantial expenditures and recovery time to fully resume operations and could also have a material adverse effect on our operations and financial results to the extent that losses are uninsured or exceed insurance recoveries, and to the extent that such disruptions adversely impact our relationships with our customers. Furthermore, even if our own operations are unaffected or recover quickly, if our customers or suppliers cannot timely resume their own operations due to a business disruption, natural disaster or catastrophic event, customers may reduce or cancel their orders and suppliers may delay manufacturing and delivery of our products, which may adversely affect our results of operations.
+
+If we experience poor manufacturing yields, our operating results may suffer.
+
+Our products have unique designs and are fabricated using multiple process technologies that are highly complex. In many cases, our products are assembled in customized packages. Many of our products consist of multiple components in a single module and feature enhanced levels of integration and complexity. Our customers insist that our products be designed to meet their exact specifications for quality, performance and reliability. Our manufacturing yield is a combination of yields across the entire supply chain, including wafer fabrication, assembly and test yields. Defects in a single component in an assembled module product can impact the yield for the entire module, which means the adverse economic impacts of an individual defect can be multiplied many times over if we fail to discover the defect before the module is assembled. Due to the complexity of our products, we periodically experience difficulties in achieving acceptable yields and other quality issues, particularly with respect to new products. Furthermore, as our customers test our products once assembled into their products, we may be exposed to additional quality issues and costs.
+
+The number of usable products that result from our production process can fluctuate as a result of many factors, including:
+
+•
+design errors;
+
+•
+defects in photomasks (which are used to print circuits on a wafer);
+
+•
+minute impurities and variations in materials used;
+
+•
+contamination of the manufacturing environment;
+
+•
+equipment failure or variations in manufacturing processes;
+
+•
+losses arising from human error; and
+
+•
+defects in substrates and packaging.
+
+We constantly seek to improve our manufacturing yields. Typically, for a given level of sales, when our yields improve our gross margins improve, and when our yields decrease, our unit costs are higher, our margins are lower and our operating results are adversely affected. Costs of product defects and deviations from required specifications can include the following:
+
+•
+writing off inventory;
+
+18
+
+Table of Contents
+
+•
+scrapping products that cannot be reworked;
+
+•
+accepting returns of products that have been shipped;
+
+•
+providing product replacements at no charge;
+
+•
+reimbursement of direct and indirect costs incurred by our customers in recalling or reworking their products due to defects in our products;
+
+•
+travel and personnel costs to investigate potential product quality issues and to identify or confirm the failure mechanism or root cause of product defects; and
+
+•
+defending against litigation.
+
+These costs could be significant and could reduce our gross margins. Our reputation with customers also could be damaged as a result of product defects and quality issues, and product demand could be reduced, which could harm our business and financial results.
+
+We are subject to inventory risks and costs because we purchase materials and build our products based on forecasts provided by customers before receiving purchase orders for the products.
+
+In order to ensure availability of our products for some of our largest end customers, we purchase materials and start manufacturing certain products in advance of receiving purchase orders based on forecasts provided by these customers. These forecasts, however, do not represent binding purchase commitments and we do not recognize sales for these products until they are shipped to, or consumed by, the customer. As a result, we incur significant inventory and manufacturing costs in advance of anticipated sales. Because demand for our products may not materialize, or may be lower than expected, purchasing materials and manufacturing based on forecasts subjects us to heightened risks of higher inventory carrying costs, increased obsolescence, and higher operating costs. These inventory risks are exacerbated when our customers purchase indirectly through contract manufacturers or hold component inventory levels greater than their consumption rate because this reduces our visibility regarding the customers’ accumulated levels of inventory. 
+
+In fiscal 2022, amidst industry-wide supply constraints, we entered into a long-term capacity reservation agreement with a foundry supplier to purchase a certain number of silicon wafers for each year over a term of five years. In periods subsequent to fiscal 2022, we experienced unexpectedly weakened demand for 5G handsets in China and EMEA resulting, in part, from measures taken in China to control the COVID-19 pandemic, and the war in Ukraine. As a result, the minimum purchase commitments in the agreement exceeded our forecasted demand and we recorded total charges of $181.0 million to "Cost of goods sold" over the course of fiscal 2023 based on the actual and estimated purchase shortfalls. During fiscal 2024, the agreement was terminated effective December 31, 2023, and we are no longer obligated to order silicon wafers from the foundry supplier. Total charges of $38.4 million were recorded to "Cost of goods sold" in fiscal 2024, primarily due to a contract termination fee. Future circumstances may warrant us to enter into similar agreements, and to the extent management's estimates of anticipated future demand are incorrect, we may incur charges which would have a negative impact on our gross margin and other operating results.
+
+We sell certain of our products based on reference designs of chipset suppliers, and our inability to effectively manage or maintain our relationships with these companies may have an adverse effect on our business.
+
+Chipset suppliers are typically large companies that provide system reference designs for OEMs and ODMs that include the chipset supplier's baseband and other complementary products. A chipset supplier may own or control IP that gives it a strong market position for its baseband products for certain air interface standards, which provides it with significant influence and control over sales of RF products for these standards. Chipset suppliers historically looked to us and our competitors to provide RF products to their customers as part of the overall system design, and we competed with other RF companies to have our products included in the chipset supplier's system reference design. This market dynamic has evolved as chipset suppliers have worked to develop more fully integrated solutions that include their own RF technologies and components.
+
+19
+
+Table of Contents
+
+Chipset suppliers may be in a different business from ours or we may be their customer or direct competitor. Accordingly, we must balance our interest in obtaining new business with competitive and other factors. Because chipset suppliers control the overall system reference design, if they offer competitive RF technologies or their own RF solutions as a part of their reference design and exclude our products from the design, we are at a distinct competitive disadvantage with OEMs and ODMs that are seeking a turn-key design solution, even if our products offer superior performance. This requires us to work more closely with OEMs and ODMs to secure the design of our products in their handsets and other devices.
+
+Our relationships with chipset suppliers are complex, and the inability to effectively manage or maintain these relationships could have an adverse effect on our business, financial condition and results of operations.
+
+We operate in a very competitive industry and must continue to innovate.
+
+We compete with companies primarily engaged in the business of designing, manufacturing and selling RF solutions, as well as suppliers of discrete ICs and modules. In addition to our direct competitors, some of our largest end customers and leading platform partners also compete with us to some extent by designing and manufacturing their own products. Increased competition from any source could adversely affect our operating results through lower prices for our products, reduced demand for our products, losses of existing design slots with key customers and a corresponding reduction in our ability to recover development, engineering and manufacturing costs.
+
+Many of our existing and potential competitors have entrenched market positions, historical affiliations with OEMs, considerable internal manufacturing capacity, established IP rights and substantial technological capabilities. In addition, the increasing use of machine learning and artificial intelligence ("AI") to meet evolving industry requirements comes with inherent risks, including timely adoption and incorporation of these technologies into our business strategy to stay competitive. The semiconductor industry has experienced increased industry consolidation over the last several years, a trend we expect to continue. Many of our existing and potential competitors may have greater financial, technical, manufacturing or marketing resources than we do. Further, our competitors may secure substantially more government incentives and grants, such as funding available to U.S. semiconductor manufacturers under the Creating Helpful Incentives to Produce Semiconductors and Science Act. We cannot be sure that we will be able to compete successfully with our competitors.
+
+Overcapacity could cause us to underutilize our manufacturing facilities and have a material adverse effect on our financial performance.
+
+It is difficult to predict future demand for our products and to estimate future requirements for production capacity in order to avoid periods of overcapacity. Fluctuations in the growth rate of industry capacity relative to the growth rate in demand for our products also can lead to overcapacity and contribute to cyclicality in the semiconductor market.
+
+Capacity expansion projects have long lead times and require capital commitments based on forecasted product trends and demand well in advance of production orders from customers. In recent years, we have made significant capital investments to expand our premium filter capacity to address forecasted future demand patterns. In certain cases, these capacity additions exceeded the near-term demand requirements, leading to overcapacity situations and underutilization of our manufacturing facilities.
+
+As many of our manufacturing costs are fixed, these costs cannot be reduced in proportion to the reduced revenue experienced during periods of underutilization. Global macroeconomic conditions could create weakness in demand, which may result in elevated inventory levels at our customers, underutilization of our manufacturing facilities and higher inventory costs which adversely affects our gross margin and other operating results. If demand for our products experiences a prolonged decrease, we may be required to close or idle facilities and write down our long-lived assets or shorten the useful lives of underutilized assets and accelerate depreciation, which would increase our expenses. For example, to address manufacturing overcapacity, we idled a BAW manufacturing facility in Texas in fiscal 2021, and subsequently sold the facility in fiscal 2024. These actions resulted in impairment charges and other restructuring-related charges and expenses. To the extent management's estimates of anticipated future demand or production capacity are incorrect, our manufacturing facilities may be underutilized which could have a material adverse effect on our financial performance.
+
+20
+
+Table of Contents
+
+Unfavorable changes in interest rates, pricing of certain precious metals, utility rates and foreign currency exchange rates may adversely affect our financial condition, liquidity and results of operations.
+
+We may utilize hedging strategies from time to time to mitigate the impact due to underlying exposures such as interest rates, precious metal prices, utility rates, or currency exchange rates. However, the impact from these underlying exposures cannot always be predicted or hedged, and there can be no assurance that our hedging strategies will be effective in minimizing risk.
+
+Our acquisitions, divestitures and other strategic investments could fail to achieve our financial or strategic objectives, disrupt our ongoing business and adversely impact our results of operations.
+
+As part of our business strategy, we expect to continue to review potential acquisitions, divestitures and strategic investments. These opportunities can enhance our current product offerings, augment our market coverage or enhance our technical capabilities, or otherwise offer growth or margin improvement opportunities. In the event of future acquisitions of businesses, products or technologies, we could issue equity securities that would dilute our current stockholders’ ownership, incur substantial debt or other financial obligations or assume contingent liabilities. Such actions could harm our results of operations or the price of our common stock. Acquisitions, divestitures and strategic investments also entail numerous other risks that could adversely affect our business, results of operations and financial condition, including:
+
+•
+failure to complete a transaction in a timely manner, if at all, due to our inability to obtain required government or other approvals, IP disputes or other litigation, difficulty in obtaining financing on terms acceptable to us, or other unforeseen factors;
+
+•
+controls, processes and procedures of an acquired business may not adequately ensure compliance with laws and regulations, and we may fail to identify compliance issues or liabilities;
+
+•
+unanticipated costs, capital expenditures or working capital requirements;
+
+•
+transaction-related charges and amortization of acquired technology and other intangibles;
+
+•
+the potential loss of key employees from a company we acquire or in which we invest;
+
+•
+diversion of management’s attention from our business;
+
+•
+disruption of our ongoing operations;
+
+•
+dis-synergies or other harm to existing business relationships with suppliers and customers;
+
+•
+losses or impairment of investments from unsuccessful research and development by companies in which we invest;
+
+•
+impairment of acquired intangible assets, goodwill or other assets as a result of changing business conditions or technological advancements;
+
+•
+failure to successfully integrate or divest businesses, operations, products, technologies and personnel;
+
+•
+slower than expected market adoption or attach rates for any of our new technologies; and
+
+•
+unrealized expected synergies.
+
+Moreover, our resources are limited and our decision to pursue a transaction has opportunity costs; accordingly, if we pursue a particular transaction, we may need to forgo the prospect of entering into other transactions that could help us achieve our financial or strategic objectives. Any of these risks could have a material adverse effect on our business, results of operations, financial condition, or cash flows, particularly in the case of a large acquisition.
+
+21
+
+Table of Contents
+
+We must attract, retain, and motivate key employees in order to compete, and our failure to do so could harm our business and our results of operations.
+
+We must hire and retain qualified employees, continue to develop leaders for key business units and functions, expand our presence in international locations, adapt to cultural norms of foreign locations and train and motivate our employee base in order to compete effectively. Labor is further subject to external factors that are beyond our control, including our industry's highly competitive market for skilled workers and leaders, cost inflation and workforce participation rates. Our future operating results and success depend on keeping key technical personnel and management and expanding our sales and marketing, R&D and administrative support. We do not have employment agreements with the vast majority of our employees. We must also continue to attract qualified personnel. The competition for qualified personnel is intense, and the number of people with experience, particularly in RF engineering, software engineering, integrated circuit and filter design, and technical marketing and support, is limited. In addition, existing or new immigration laws, policies or regulations in the U.S. may limit the pool of available talent. Difficulties obtaining visas and other restrictions on international travel could make it more onerous to effectively manage our international operations, operate as a global company or service our international customer base. Changes in the interpretation and application of employment-related laws to our workforce practices may also result in increased operating costs and less flexibility in how we meet our changing workforce needs. Further, any transition from flexible work arrangements to more stringent on-site work requirements may result in higher employee attrition and make it more difficult for us to compete in the job market. We cannot be sure that we will be able to attract and retain skilled personnel in the future, which could harm our business and our results of operations.
+
+We are subject to warranty claims, product recalls and product liability.
+
+From time to time, we may be subject to warranty or product liability claims that could lead to significant expense. We may also be exposed to such claims as a result of any acquisition we may undertake in the future. Although we maintain reserves for reasonably estimable liabilities and purchase product liability insurance, we may elect to self-insure with respect to certain matters and our reserves may be inadequate to cover the uninsured portion of such claims.
+
+Product liability insurance is subject to significant deductibles, and such insurance may be unavailable or inadequate to protect against all claims. If one of our customers recalls a product containing one of our devices, we may incur significant costs and expenses, including replacement costs, direct and indirect product recall-related costs, diversion of technical and other resources and reputational harm. Our customer contracts typically contain warranty and indemnification provisions, and in certain cases may also contain liquidated damages provisions, relating to product quality issues. The potential liabilities associated with such provisions are significant, and in some cases, including in agreements with some of our largest end customers, are potentially unlimited. Any such liabilities may greatly exceed any revenue we receive from sale of the relevant products. Costs, payments or damages incurred or paid by us in connection with warranty and product liability claims and product recalls could materially and adversely affect our financial condition and results of operations.
+
+Changes in our effective tax rate may adversely impact our results of operations and cash flow.
+
+We are subject to taxation in China, Germany, Singapore, the U.S. and numerous other foreign jurisdictions. Our effective tax rate is subject to fluctuations and impacted by a number of factors, including the following:
+
+•
+changes in our overall profitability and the amount of profit determined to be earned and taxed in jurisdictions with differing statutory tax rates;
+
+•
+changes in our operating structure, strategy and investment decisions;
+
+•
+the resolution of issues arising from tax audits with various tax authorities, including those described in Note 14 of the Notes to Consolidated Financial Statements;
+
+•
+changes in the valuation of either our gross deferred tax assets or gross deferred tax liabilities;
+
+22
+
+Table of Contents
+
+•
+adjustments to income taxes upon finalization of various tax returns;
+
+•
+changes in expenses not deductible for tax purposes;
+
+•
+changes in available tax credits; and
+
+•
+changes in tax laws, domestic and foreign, or the interpretation of such tax laws and changes in generally accepted accounting principles.
+
+Any significant increase in our future effective tax rates could reduce net income and cash flow for future periods.
+
+The enactment of international or domestic tax legislation, or changes in regulatory guidance, may adversely impact our results of operations and cash flow.
+
+Corporate tax reform, base-erosion efforts and increased tax transparency continue to be high priorities in many tax jurisdictions in which we have business operations. In 2017, the U.S. enacted comprehensive tax legislation, commonly referred to as the Tax Cuts and Jobs Act, which included a number of changes to U.S. tax laws that impacted us, including the one-time transition tax on certain unrepatriated earnings of foreign subsidiaries (the "Transitional Repatriation Tax") and the Global Intangible Low-Taxed Income ("GILTI") provisions, for which a 50% deduction is currently permitted subject to certain limitations. This deduction changes to 37.5% for tax years beginning after January 1, 2026. In August 2022, the U.S. enacted the Inflation Reduction Act ("IRA"), establishing a new book minimum tax of 15% on consolidated adjusted GAAP pre-tax earnings for corporations with average income in excess of $1 billion. In addition, other countries in which we operate are beginning to implement legislation and other guidance to align their international tax rules with the Organization for Economic Co-operation and Development’s Base Erosion and Profit Shifting recommendations and action plan, which aim to standardize and modernize global corporate tax policy, including changes to cross-border tax, transfer pricing documentation rules, nexus-based tax incentive practices, allocating greater taxing rights to countries where customers are located and establishing a minimum tax of 15% on global income. The impact of the global minimum tax regime (Pillar Two) is effective for us in fiscal 2025 with additional components becoming effective in fiscal 2026. Legislative changes, interpretations and guidance, and changes in prior tax rulings and decisions by tax authorities regarding treatments and positions of corporate income taxes resulting from these initiatives, could increase complexity and tax uncertainty, increase our effective tax rate and result in taxes we previously paid being subject to change, which may adversely impact our financial position and results of operations.
+
+Changes in the favorable tax status of our subsidiaries in Costa Rica and Singapore would have an adverse impact on our operating results.
+
+Our subsidiaries in Costa Rica and Singapore have been granted tax holidays that minimize our tax expense and are expected to be effective through December 2027 and December 2031, respectively. In their efforts to deal with budget deficits, governments around the world are focusing on increasing tax revenue through increased audits and, potentially, increased tax rates for corporations. As part of this effort, governments continue to review their policies on granting tax holidays. Future changes in our tax holiday status could have a negative effect on our net income in future years. The overall benefit derived from our tax holidays could also be adversely impacted by the future implementation of minimum tax regimes in countries in which we operate.
+
+We are subject to risks associated with social, environmental, health and safety regulations, including those related to climate change.
+
+We are subject to a broad array of U.S. and foreign social, environmental, health and safety laws and regulations. Environmental laws and regulations include those related to the use, transportation, storage, handling, emission, discharge and recycling or disposal of hazardous materials used in our manufacturing, assembly and testing processes. Additional laws and regulations include those related to human rights and supply chain due diligence. Such laws and regulations, as well as the associated frameworks for reporting, vary greatly by jurisdiction in which 
+
+23
+
+Table of Contents
+
+we do business and are continually evolving. Our failure to comply with any of these existing or future laws or regulations could result in:
+
+•
+regulatory penalties and fines;
+
+•
+legal liabilities, including financial responsibility for remedial measures if our properties are contaminated;
+
+•
+expenses to secure required permits and governmental approvals;
+
+•
+reputational damage;
+
+•
+suspension or curtailment of our manufacturing, assembly and test processes; and
+
+•
+increased costs to acquire pollution abatement or remediation equipment or to modify our equipment, facilities or manufacturing processes to bring them into compliance with applicable laws and regulations.
+
+Existing and future laws and regulations could also impact our product designs and limit or restrict the materials or components that are included in our products. In addition, many of our largest end customers require companies within their supply chain to comply with corporate social responsibility policies that exceed applicable legal requirements, and often include employment, human rights, health, safety, and environmental initiatives. Further, an increasing number of investors are also expecting companies to disclose environmental, social and governance ("ESG") policies, practices and metrics, on topics such as climate change, carbon emissions, water usage, waste management, and human capital. Compliance with these policies increases our operating expenses, and non-compliance can adversely affect customer and investor relationships and harm our business and the price of our common stock. 
+
+Regulations in the U.S. currently require that we determine whether certain materials used in our products, referred to as conflict minerals, originated in the Democratic Republic of the Congo or adjoining countries, or were from recycled or scrap sources. We may face challenges with government regulators and our customers and suppliers if we are unable to sufficiently make any required determination that the metals used in our products are conflict-free.
+
+New climate change laws and regulations could require us to change our manufacturing processes or procure substitute raw materials that may cost more or be more difficult to procure. In addition, new restrictions on emissions of carbon dioxide or other greenhouse gases could result in increased costs for us and our suppliers. Finally, there is increasing legislation globally which will require us to align programs to the expectations of investors, customers or other stakeholders and disclose an increasing amount of information and data to illustrate our position and progress. If we do not adapt our strategy or execution quickly enough to meet the evolving expectations of our investors, customers, and regulators, or if our ESG data input, processing and reporting are incomplete or inaccurate, our business, financial condition, results of operations, brand and reputation could be adversely affected.
+
+Risks Related to Our International Sales and Operations
+
+We are subject to risks from international sales and operations.
+
+We operate globally with sales offices and R&D activities as well as manufacturing, assembly and test facilities in multiple countries, and some of our business activities are concentrated in Asia. As a result, we are subject to regulatory, geopolitical and other risks associated with doing business outside the U.S., including:
+
+•
+global and local economic, social and political conditions and uncertainty;
+
+•
+currency controls and currency exchange rate fluctuations;
+
+•
+inflation, as well as changes in existing and expected rates of inflation, which vary across the jurisdictions in which we do business;
+
+24
+
+Table of Contents
+
+•
+formal or informal imposition of export, import or doing-business regulations, including trade sanctions, tariffs and other related restrictions;
+
+•
+labor market conditions and workers’ rights affecting our manufacturing operations or those of our customers or suppliers;
+
+•
+disruptions in capital and securities and commodities trading markets;
+
+•
+occurrences of geopolitical crises such as terrorist activity, armed conflict, civil or military unrest or political instability, or global hostilities such as the war in Ukraine and the ongoing conflict in the Middle East, may disrupt manufacturing, assembly, logistics, security and communications and result in reduced demand for our products;
+
+•
+compliance with laws and regulations that differ among jurisdictions, including those covering taxes, IP ownership and infringement, imports and exports, anti-corruption and anti-bribery, antitrust and competition, cybersecurity, data privacy, and social, environment, health, and safety;
+
+•
+markets for 5G infrastructure not developing in the manner or in the time periods we anticipate, including as a result of unfavorable developments with evolving laws and regulations worldwide; and
+
+•
+pandemics and similar major health concerns, which could adversely affect our business and our customer order patterns.
+
+Sales to customers located outside the U.S. accounted for approximately 42% of our revenue in fiscal 2024, of which approximately 19% was attributable to sales to customers located in China. We expect revenue from international sales to China and other markets will continue to be a significant part of our total revenue. Any weakness in the Chinese economy, heightened tensions between the U.S. and China, China and Taiwan, or other countries, could result in a decrease in demand for consumer products that contain our products, which could materially and adversely affect our business. The imposition by the U.S. of tariffs on goods imported from China, countermeasures imposed by China in response, U.S. export restrictions on sales of products to China and other government actions that restrict or otherwise adversely affect our ability to sell our products to customers in China may have a material adverse impact on our business, including our ability to sell products and to manufacture or source components and materials.
+
+As a global company, our results are affected by movements in currency exchange rates. Our exposure may increase or decrease over time as our foreign business levels fluctuate in the countries where we have operations, and these changes could have a material impact on our financial results. The functional currency for most of our international operations is the U.S. dollar. We have foreign operations in Asia, Europe and Central America. Our international revenue is primarily denominated in U.S. dollars. Operating expenses and certain working capital items related to our foreign-based operations are, in some instances, denominated in the local foreign currencies and therefore are affected by changes in the U.S. dollar exchange rate in relation to foreign currencies, such as the Costa Rican Colon, Euro, Renminbi and Singapore Dollar. If the U.S. dollar weakens compared to these and other currencies, our operating expenses for foreign operations will be higher when remeasured back into U.S. dollars.
+
+Economic regulation in China could adversely impact our business and results of operations.
+
+For many years, the Chinese economy has experienced periods of rapid growth and wide fluctuations in the rate of inflation. In response to these factors, the Chinese government has, from time to time, adopted measures to regulate growth and to contain inflation, including currency controls and measures designed to restrict credit, control prices or set currency exchange rates. Such actions in the future, as well as other changes in Chinese laws and regulations, including actions in furtherance of China’s stated policy of reducing its dependence on foreign semiconductor manufacturers, could increase the cost of doing business in China (where a significant portion of our assembly and test services are performed), foster the emergence of China-based competitors, decrease the demand for our products in China and reduce the supply of critical materials for our products, which could have a material adverse effect on our business and results of operations.
+
+25
+
+Table of Contents
+
+Changes in government trade policies, including the imposition of tariffs and export restrictions, have limited and could continue to limit our ability to sell or provide our products and other items to certain customers and suppliers, which may materially adversely affect our sales and results of operations.
+
+The U.S. and foreign governments have taken and may continue to take administrative, legislative or regulatory action that could materially interfere with our ability to export, reexport, import and transfer products and other items to certain countries, particularly China. For example, the imposition of tariffs has resulted in higher duties owed on certain products that are imported from China to the United States. 
+
+Furthermore, we have experienced and may continue to experience restrictions on our ability to export, reexport, and transfer our products and other items to certain foreign customers and suppliers where exports, reexports, or transfers of products require export licenses or are prohibited by government action. The U.S. government has in the past imposed export restrictions that effectively banned American companies from exporting, reexporting, and transferring products to certain of our customers, and imposed significant restrictions on the ability to obtain export licenses for our products. Such restrictions could have a continuing negative impact on our future revenue and results of operations. In addition, our customers or suppliers affected by U.S. government sanctions or threats of sanctions may respond by developing their own solutions to replace our products or by adopting our foreign competitors' solutions and products. Importantly, governments such as China have the ability to impose countermeasures in reaction to increasing U.S. government sanctions and restrictions imposed on their companies which may impact our operations and future revenue as the compliance landscape becomes more challenging.
+
+We cannot predict what further actions may ultimately be taken with respect to tariffs, export restrictions or other trade measures between the U.S. and China or other countries, what products or entities may be subject to such actions, or what actions may be taken by other countries in response. The loss of foreign customers or suppliers or the imposition of restrictions on our ability to sell or transfer products to such customers or suppliers as a result of tariffs, export restrictions or other U.S. regulatory actions could materially adversely affect our sales, business and results of operations.
+
+Risks Related to Our Indebtedness
+
+We may not be able to generate sufficient cash to service all of our debt or to fund capital expenditures and may be forced to take other actions to satisfy our debt obligations and financing requirements, which may not be successful or on terms favorable to us.
+
+Our ability to make scheduled payments on or to refinance our debt obligations and to fund working capital, planned capital expenditures and expansion efforts and any strategic alliances or acquisitions we may make in the future depends on our ability to generate cash in the future and on our financial condition and operating performance, which are subject to prevailing economic and competitive conditions and to certain financial, business and other factors beyond our control. We cannot be sure that we will maintain a level of cash flows from operating activities sufficient to permit us to pay our debt. If our cash flows and capital resources are insufficient to fund our debt service obligations, we may face liquidity issues and be forced to reduce or delay investments and capital expenditures, or to sell assets, seek additional capital or restructure or refinance our debt. These alternative measures may not be successful and may not permit us to meet our scheduled debt service and other obligations. Additionally, the indentures governing our senior notes limit the use of the proceeds from any disposition; as a result, we may not be allowed under these documents to use proceeds from such dispositions to satisfy our debt service obligations. Further, we may need to refinance all or a portion of our debt at or before maturity, and we cannot be sure that we will be able to refinance any of our debt on commercially reasonable terms or at all.
+
+The agreements and instruments governing our debt impose restrictions that may limit our operating and financial flexibility.
+
+The credit agreement governing our revolving facility and the indentures governing our senior notes contain a number of significant restrictions and covenants that limit our ability to:
+
+•
+incur additional debt;
+
+26
+
+Table of Contents
+
+•
+pay dividends, make other distributions or repurchase or redeem our capital stock;
+
+•
+prepay, redeem or repurchase certain debt;
+
+•
+make loans and investments;
+
+•
+sell, transfer or otherwise dispose of assets;
+
+•
+incur or permit to exist certain liens;
+
+•
+enter into certain types of transactions with affiliates;
+
+•
+enter into agreements restricting our subsidiaries’ ability to pay dividends; and
+
+•
+consolidate, amalgamate, merge or sell all or substantially all of our assets.
+
+These covenants could have the effect of limiting our flexibility in planning for or reacting to changes in our business and the markets in which we compete. In addition, our credit agreement requires us to comply with a financial maintenance covenant. Operating results below current levels or other adverse factors, including a significant increase in interest rates, could result in our being unable to comply with the financial covenant contained in our revolving facility. If we violate covenants under our credit agreement and are unable to obtain a waiver from our lenders, our debt under our revolving facility would be in default and could be accelerated by our lenders. Because of cross-default provisions in the agreements and instruments governing our debt, a default under one agreement or instrument could result in a default under, and the acceleration of, our other debt. If our debt is accelerated, we may not be able to repay our debt or borrow sufficient funds to refinance it. Even if we are able to obtain new financing, it may not be on commercially reasonable terms, or terms that are acceptable to us. If our debt is in default for any reason, our business, financial condition and results of operations could be materially and adversely affected. In addition, complying with these covenants may also cause us to take actions that are not favorable to holders of the notes and may make it more difficult for us to successfully execute our business strategy and compete against companies that are not subject to such restrictions.
+
+Risks Related to Intellectual Property, Cybersecurity, Information Technology and Data Privacy
+
+We rely on our intellectual property portfolio and may not be able to successfully protect against the use of our intellectual property by third parties.
+
+We rely on a combination of patents, trademarks, trade secret laws, confidentiality procedures and licensing arrangements to protect our IP rights. We cannot be certain that patents will be issued from any of our pending applications or that patents will be issued in all countries where our products can be sold. Further, we cannot be certain that any claims allowed from pending applications will be of sufficient scope or strength to provide meaningful protection against our competitors. Our competitors may also be able to design around our patents.
+
+The laws of some countries in which our products are developed, manufactured or sold may not protect our products or IP rights to the same extent as U.S. laws. This increases the possibility of misappropriation or infringement of our technology and products. Although we intend to vigorously defend our IP rights, we may not be able to prevent misappropriation of our technology. Additionally, our competitors may be able to independently develop non-infringing technologies that are substantially equivalent or superior to ours.
+
+The use of AI and machine learning applications by our employees may also increase the risk of unintended or inadvertent transmission of proprietary or sensitive information.
+
+We may need to engage in legal actions to enforce or defend our IP rights. Generally, IP litigation is both expensive and unpredictable. Our involvement in IP litigation could divert the attention of our management and technical personnel and have a material, adverse effect on our business.
+
+27
+
+Table of Contents
+
+We may be subject to claims of infringement of third-party intellectual property rights.
+
+Our operating results may be adversely affected if third parties were to assert claims that our products infringed their patent, copyright or other IP rights. Such assertions could lead to expensive and unpredictable litigation, diverting the attention of management and technical personnel. An unsuccessful result in any such litigation could have adverse effects on our business, which may include injunctions, exclusion orders and royalty payments to third parties. In addition, if one of our customers or another supplier to one of our customers were found to be infringing on third-party IP rights, such a finding could adversely affect the demand for our products.
+
+Security breaches, failed system upgrades or regular maintenance and other disruptions to our IT systems, or other misappropriation of proprietary information could expose us to liability or disrupt our ability to operate critical business functions, which would cause our business and reputation to suffer.
+
+We rely on trade secrets, technical know-how and other unpatented proprietary information relating to our product development and manufacturing activities to provide us with competitive advantages. We protect this information by entering into confidentiality agreements with our employees, consultants, strategic partners and other third parties. We also design our computer systems and networks and implement various procedures to restrict unauthorized access to, or dissemination of, our proprietary information.
+
+We face internal and external data security threats. Current, departing or former employees or third parties could attempt to improperly use or access our computer systems and networks to copy, obtain or misappropriate our proprietary information or otherwise interrupt our business. 
+
+We are also subject to significant system or network disruptions from numerous causes, including computer viruses and other cyber-attacks, facility access issues, new system implementations and energy blackouts. Geopolitical tensions or conflicts, such as the ongoing war between Russia and Ukraine and the tensions between China and Taiwan, may create a heightened risk of cybersecurity incidents.
+
+We have, from time to time, experienced threats to and breaches of our data and systems. Security breaches, computer malware, phishing, spoofing and other cyber-attacks have become more prevalent and sophisticated in recent years. Because the techniques used by computer hackers and others to access or sabotage networks constantly evolve and generally are not recognized until launched against a target, we may be unable to anticipate, detect, or counter all of these techniques or identify all security vulnerabilities. Evolving AI capabilities could be used in new and significantly more sophisticated ways to identify vulnerabilities, craft targeted social engineering and fraud attempts, generate malicious code and launch phishing attempts or other cyber-attacks. As a result, our and our customers’ proprietary information may be misappropriated, and the impact of any future incident cannot be predicted. Any misappropriation could harm our competitive position, result in a loss of customer confidence in the adequacy of our threat mitigation and detection processes and procedures, cause us to incur significant costs to remedy the damages caused by the incident and divert management and other resources. We routinely implement improvements to our network security safeguards and we are devoting increasing resources to the security of our IT systems. We cannot, however, assure that such system improvements will be sufficient to prevent or limit the damage from any future cyber-attack or network disruptions.
+
+F
+urthermore, we rely on products and services provided by third-party suppliers, which may include open-source code, to operate certain critical business systems, including without limitation, cloud-based infrastructure, encryption and authentication technology, employee email and other functions, which exposes us to supply chain attacks or other business disruptions. The use of AI applications could increase the risk of cybersecurity incidents, such as through unintended or inadvertent transmissions of proprietary or sensitive information. We cannot guarantee that third parties and infrastructure in our supply chain or our partners’ supply chains have not been compromised or that they do not contain exploitable defects or bugs that could result in a breach of or disruption to our IT systems, including our products and services, or the third-party IT systems that support our services. Our ability to identify all security vulnerabilities and monitor these third-parties’ information security practices is limited, and these third parties may not have adequate information security measures in place. In addition, if one of our third-party suppliers suffers a security breach, our response may be l
+imited or more difficult because we may not have direct access to their systems, logs and other information related to the security breach.
+
+28
+
+Table of Contents
+
+If any of our systems are damaged, fail to function properly or otherwise become unavailable, we may incur substantial costs to repair or replace them and may experience loss or corruption of critical data and interruptions or delays in our ability to perform critical functions, which could adversely affect our business and results of operations. Furthermore, the costs related to cyber-attacks or other security threats or computer systems disruptions typically would not be fully insured or indemnified by others. Our efforts to comply with evolving laws and regulations related to cybersecurity incidents may be costly, and any failure to comply could result in investigations, proceedings, lawsuits and reputational damage. Occurrence of any of the events described above could also result in loss of competitive advantages derived from our R&D efforts or our IP. Moreover, these events may result in the early obsolescence of our products, product development delays, or diversion of the attention of management and key IT and other resources, or otherwise adversely affect our operations and reputation.
+
+We may be subject to theft, loss, or misuse of personal data by or about our employees, customers or other third parties, which could increase our expenses, damage our reputation, or result in legal or regulatory proceedings.
+
+In the ordinary course of our business, we have access to sensitive, confidential or personal data or information regarding our employees and others that is subject to privacy and security laws and regulations, as well as our own policies and standards. The theft, loss, or misuse of personal data collected, used, stored, or transferred by us to run our business, or by our third-party service providers, including business process software applications providers and other vendors that have access to sensitive data, could result in damage to our reputation, disruption of our business activities, significantly increased business and security costs or costs related to defending legal claims.
+
+Global privacy legislation, enforcement and policy activity in this area are rapidly expanding and creating a complex regulatory compliance environment. For example, the European Union has adopted the General Data Protection Regulation ("GDPR"), which requires companies to comply with rules regarding the handling of personal data, including its use, protection and the ability of persons whose data is stored to correct or delete such data about themselves. Failure to meet GDPR requirements could result in penalties of up to 4% of worldwide revenue. China has also implemented laws and regulations requiring companies' IT security environment to meet certain standards and may require unique certifications. In addition, the interpretation and application of consumer and data protection laws in the U.S., Europe and elsewhere are often uncertain and fluid and may be interpreted and applied in a manner that is inconsistent with our data practices. Complying with these changing laws has caused, and could continue to cause, us to incur substantial costs which could have an adverse effect on our business and results of operations. Further, failure to comply with existing or new rules may result in significant penalties or orders to stop the alleged non-compliant activity. Finally, even our inadvertent failure to comply with federal, state, or international privacy-related or data protection laws and regulations could result in audits, regulatory inquiries or proceedings against us by governmental entities or others.
+
+Risks Related to Owning our Common Stock
+
+Our certificate of incorporation and bylaws and the General Corporation Law of the State of Delaware may discourage takeovers and business combinations that our stockholders might consider to be in their best interests.
+
+Certain provisions in our amended and restated certificate of incorporation and amended and restated bylaws may have the effect of delaying, deterring, preventing or rendering more difficult, a change in control of Qorvo that our stockholders might consider to be in their best interests. These provisions include:
+
+•
+granting to the board of directors' sole power to set the number of directors and fill any vacancy on the board of directors, whether such vacancy occurs as a result of an increase in the number of directors or otherwise;
+
+•
+the ability of the board of directors to designate and issue one or more series of preferred stock without stockholder approval, the terms of which may be determined at the sole discretion of the board of directors;
+
+•
+the inability of stockholders to call special meetings of stockholders;
+
+•
+establishment of advance notice requirements for stockholder proposals and nominations for election to the board of directors at stockholder meetings; and
+
+29
+
+Table of Contents
+
+•
+the inability of stockholders to act by written consent.
+
+In addition, the General Corporation Law of the State of Delaware contains provisions that regulate "business combinations" between corporations and interested stockholders who own 15% or more of the corporation’s voting stock, except under certain circumstances. These provisions could also discourage potential acquisition proposals and delay or prevent a change in control.
+
+These provisions may prevent our stockholders from receiving the benefit of any premium to the market price of our common stock offered by a bidder in a takeover context and may also make it more difficult for a third party to replace directors on our board of directors. Further, the existence of these provisions may adversely affect the prevailing market price of our common stock if they are viewed as discouraging takeover attempts in the future.
+
+The price of our common stock has recently been and may in the future be volatile.
+
+The price of our common stock, which is traded on the Nasdaq Global Select Market, has been and may continue to be volatile and subject to wide fluctuations. In addition, the trading volume of our common stock may fluctuate and cause significant price variations to occur. Some of the factors that could cause fluctuations in the stock price or trading volume of our common stock include:
+
+•
+general market and economic and political conditions, including market conditions in the semiconductor industry;
+
+•
+actual or expected variations in quarterly operating results;
+
+•
+pandemics, such as the COVID-19 pandemic and similar major health concerns; 
+
+•
+differences between actual operating results and those expected by management, investors and analysts;
+
+•
+changes in recommendations by securities analysts, social media or press;
+
+•
+operations and stock performance of competitors and major customers;
+
+•
+accounting charges, including charges relating to the impairment of goodwill and restructuring;
+
+•
+significant acquisitions, strategic alliances, capital commitments, or new products announced by us or by our competitors;
+
+•
+differences, whether actual or perceived, between our corporate social responsibility and ESG practices and disclosure and investor expectations;
+
+•
+sales of our common stock, including sales by our directors and officers or significant investors;
+
+•
+repurchases of our common stock;
+
+•
+recruitment or departure of key personnel; and
+
+•
+loss of key customers.
+
+We cannot assure that the price of our common stock will not fluctuate or decline significantly in the future. In addition, the stock market in general can experience considerable price and volume fluctuations that are unrelated to our performance.

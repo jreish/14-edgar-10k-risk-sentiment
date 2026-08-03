@@ -125,3 +125,33 @@ once the fuller picture comes together.
 
 Next: actually download these ~7,300 annual reports and pull out the
 "Risk Factors" section from each one.
+
+## 2026-08-02 — Checkpoint 4: pulling the actual risk factors text
+
+Downloaded all ~7,300 annual reports and pulled out just the "Risk
+Factors" section from each — the part of the report that matters for both
+studies. This worked on the first pass for 98.5% of them, which is a
+genuinely good outcome for text this varied: two decades of companies
+using slightly different formatting, headings, and document structures.
+
+Rather than stop there, we looked at the roughly 100 that didn't work, and
+noticed something useful: it wasn't random. A handful of companies (Clorox,
+Cincinnati Financial, Halliburton, U.S. Bancorp, Citigroup, Keurig Dr
+Pepper) accounted for well over half the misses. Looking at one closely —
+Johnson & Johnson's 2006 filing — explained why: the "main" document SEC
+has on file for that filing is just a one-page table of contents pointing
+to a different, separate document where the real annual report content
+actually lives. That's an older-style filing convention some companies
+used. We built a quick fix to check those other documents when the main
+one comes up empty. It only recovered a handful more (6 out of 107) —
+enough to confirm the theory was right, not enough to be worth chasing
+further, so we stopped there rather than sinking more time into it.
+
+Final result: 98.6% of all annual reports have their risk factors text
+successfully pulled out. The remaining 1.4% will be accounted for
+individually, with a specific reason each, later in the project — not
+just written off as "missing" with no explanation.
+
+Next: figure out what industry each company is in, so risk factors can be
+compared and grouped sensibly (e.g., "how did banks talk about risk
+differently from tech companies").

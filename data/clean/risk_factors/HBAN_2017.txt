@@ -1,0 +1,331 @@
+, the Bank currently has a written governance framework and associated controls.
+
+Anti-Money Laundering
+
+The Bank Secrecy Act, as amended by the Patriot Act, contains anti-money laundering and financial transparency laws and mandated the implementation of various regulations applicable to all financial institutions, including standards for verifying client identification at account opening, and obligations to monitor client transactions and report suspicious activities.
+
+The Patriot Act is intended to strengthen the ability of U.S. law enforcement agencies and intelligence communities to cooperate in the prevention, detection and prosecution of international money laundering and the financing of terrorism. The Patriot Act contains anti-money laundering measures requiring insured depository institutions, broker-dealers, and certain other financial institutions to have policies, procedures, and controls to detect, prevent, and report money laundering and terrorist financing. Failure to comply with these regulations may result in fines, penalties, lawsuits, regulatory sanctions, reputation damage, or restrictions on business. Federal banking regulators are required, when reviewing bank holding company acquisition and bank merger applications, to take into account the effectiveness of the anti-money laundering activities of the applicants.
+
+14
+
+Table of Contents
+
+Privacy
+
+Federal law contains extensive consumer privacy protection provisions, including substantial consumer privacy protections provided under the Gramm-Leach-Bliley Act of 1999. Under these provisions, a financial institution must provide to its customers, at the inception of the customer relationship and generally annually thereafter, the institution’s policies and procedures regarding the handling and safeguarding of customers’ nonpublic personal information. These provisions also provide that, except for certain limited exceptions, an institution may not provide such nonpublic personal information to unaffiliated third parties unless the institution discloses to the customer that such information may be so provided and the customer is given the opportunity to opt out of such disclosure. Federal law makes it a criminal offense, except in limited circumstances, to obtain or attempt to obtain customer information of a financial nature by fraudulent or deceptive means.
+
+FDIC Insurance 
+
+DIF provides insurance coverage for certain deposits, which is funded through assessments on banks. The Bank accepts deposits that are insured by the DIF. As a DIF member, the Bank must pay insurance premiums. The FDIC may take action to increase the Bank’s insurance premiums based on various factors, including the FDIC’s assessment of its risk profile. The Dodd-Frank Act required the FDIC to change the deposit insurance assessment base from deposits to average consolidated total assets minus average tangible equity. In March 2016, the FDIC issued a final rule to increase the DIF from 1.15% to the statutorily required minimum level of 1.35%. Under the Dodd-Frank Act, banks with $10 billion or more in total assets, such as the Bank, are responsible for funding this increase.
+
+On November 15, 2016, the FDIC adopted a final rule to facilitate prompt payment of FDIC-insured deposits when large insured depository institutions (those with more than two million deposit accounts) fail. The final rule, which is expected to become effective on April 1, 2017, requires us to configure our information technology system to be capable of calculating the insured and uninsured amount in each deposit account by ownership right and capacity, which would be used by the FDIC to make deposit insurance determinations in the event of our failure, and maintain complete and accurate information needed by the FDIC to determine deposit insurance coverage with respect to each deposit account, except as otherwise provided. We will have three years after the effective date for implementation. 
+
+Compensation 
+
+Our compensation practices are subject to oversight by the Federal Reserve and, with respect to some of our subsidiaries and employees, by other financial regulatory bodies. The scope and content of compensation regulation in the financial industry are continuing to develop, and we expect that these regulations and resulting market practices will continue to evolve over a number of years. 
+
+The federal bank regulatory agencies have provided guidance designed to ensure that incentive compensation arrangements at banking organizations take into account risk and are consistent with safe and sound practices. The guidance provides that supervisory findings with respect to incentive compensation will be incorporated, as appropriate, into the organization’s supervisory ratings, which can affect its ability to make acquisitions or perform other actions. The guidance also provides that enforcement actions may be taken against a banking organization if its incentive compensation arrangements or related risk management, control or governance processes pose a risk to the organization’s safety and soundness.
+
+In 2016 the federal banking regulatory agencies, including the Federal Reserve, the OCC and the SEC, jointly proposed a rule to implement Section 956 of the Dodd-Frank Act. Section 956 generally requires the federal bank regulatory agencies to jointly issue regulations or guidelines: (1) prohibiting incentive-based payment arrangements that the agencies determine encourage inappropriate risks by certain financial institutions by providing excessive compensation or that could lead to material financial loss; and (2) requiring those financial institutions to disclose information concerning incentive-based compensation arrangements to the appropriate federal regulator.
+
+Cyber Security
+
+The CISA, which became effective on December 18, 2015, is intended to improve cyber security in the United States by enhanced sharing of information about security threats among the U.S. government and private sector entities, including financial institutions. The CISA also authorizes companies to monitor their own systems notwithstanding any other provision of law, and allows companies to carry out defensive measures on their own systems from cyber-attacks. The law includes liability protections for companies that share cyber threat information with third parties so long as such sharing activity is conducted in accordance with CISA.
+
+15
+
+Table of Contents
+
+Enhanced Cyber Risk Management Standards 
+
+On November 22, 2016, the federal banking agencies released an ANPR regarding enhanced cyber risk management standards (enhanced standards) for large and interconnected entities under their supervision. The agencies stated that they were considering establishing enhanced standards to increase the operational resilience of covered entities and reduce the impact on the financial system in case of a cyber event experienced by a covered entity. The ANPR describes potential enhanced cyber standards that are divided into five general categories: cyber risk governance; cyber risk management; internal dependency management; external dependency management; and incident response, cyber resilience, and situational awareness. The agencies are considering implementing the enhanced standards in a tiered manner, imposing more stringent standards on the systems of those entities that are critical to the functioning of the financial sector. The Federal Reserve is considering applying the enhanced standards on an enterprise-wide basis to all BHCs, such as us, with total consolidated assets of $50 billion or more. The OCC is considering applying the standards to any national bank, such as the Bank, that is a subsidiary of a bank holding company with total consolidated assets of $50 billion or more. 
+
+Community Reinvestment Act
+
+The CRA requires the Bank’s primary federal bank regulatory agency, the OCC, to assess the bank’s record in meeting the credit needs of the communities served by the Bank, including low- and moderate-income neighborhoods and persons. Institutions are assigned one of four ratings: “Outstanding,” “Satisfactory,” “Needs to Improve” or “Substantial Noncompliance.” This assessment is reviewed for any bank that applies to merge or consolidate with or acquire the assets or assume the liabilities of an insured depository institution, or to open or relocate a branch office. The CRA record of each subsidiary bank of a BHC, such as the Bank, also is assessed by the Federal Reserve in connection with any acquisition or merger application.
+
+CFPB Regulation and Supervision
+
+We are subject to supervision and regulation by the CFPB with respect to federal consumer
+
+protection laws, including laws relating to fair lending and the prohibition of unfair, deceptive or abusive acts or practices in connection with the offer, sale or provision of consumer financial products and services.
+
+On October 3, 2015, the CFPB’s final rules on integrated mortgage disclosures under the Truth in Lending Act and the Real Estate Settlement Procedures Act became effective. On January 1, 2016, most requirements of the OCC’s Final Rule in Loans in Areas Having Special Flood Hazards (the Flood Final Rule) became effective, including the requirement that flood insurance premiums and fees for most mortgage loans be escrowed subject to certain exceptions. The Flood Final Rule also incorporated other existing flood insurance requirements and exceptions (e.g. the exemption from flood insurance requirements for non-residential detached structures - a discretionary item) with those portions of the Flood Final Rule becoming effective on October 1, 2015. 
+
+Throughout 2016, the CFPB continued its focus on fair lending practices of indirect automobile lenders. This focus led to some lenders to enter into consent orders with the CFPB and Department of Justice. Indirect automobile lenders have also received continued pressure from the CFPB to limit or eliminate discretionary pricing by dealers. Finally, the CFPB has implemented its larger participant rule for indirect automobile lending which brings larger non-bank indirect automobile lenders under CFPB supervision.
+
+Banking regulatory agencies have increasingly used their authority under Section 5 of the Federal Trade Commission Act to take supervisory or enforcement action with respect to unfair or deceptive acts or practices by banks under standards developed many years ago by the Federal Trade Commission in order to address practices that may not necessarily fall within the scope of a specific banking or consumer finance law.  The Dodd-Frank Act also gave to the CFPB similar authority to take action in connection with unfair, deceptive, or abusive acts or practices by entities subject to CFPB supervisory or enforcement authority.  Banks face considerable uncertainty as to the regulatory interpretation of “abusive” practices.
+
+Available Information
+
+This information may be read and copied at the Public Reference Room of the SEC at 100 F Street, N.E., Washington, D.C. 20549. You can obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. The SEC also maintains an Internet web site that contains reports, proxy statements, and other information about issuers, like us, who file electronically with the SEC. The address of the site is 
+http://www.sec.gov
+. The reports and other information filed by us with the SEC are also available free of charge at our Internet web site. The address of the site is 
+http://www.huntington.com
+. Except as specifically incorporated by reference into this Annual Report on Form 10-K, information on those web sites is not part of this report. You also should be able to inspect reports, proxy statements, and other information about us at the offices of the NASDAQ National Market at 33 Whitehall Street, New York, New York.
+
+16
+
+Table of Contents
+
+Item 1A: Risk Factors
+
+Risk Governance
+
+We use a multi-faceted approach to risk governance. It begins with the board of directors defining our risk appetite as aggregate moderate-to-low. This does not preclude engagement in select higher risk activities. Rather, the definition is intended to represent an aggregate view of where we want our overall risk to be managed.
+
+Three board committees primarily oversee implementation of this desired risk appetite and monitoring of our risk profile: 
+
+•
+
+The Audit Committee oversees the integrity of the consolidated financial statements, including policies, procedures, and practices regarding the preparation of financial statements, the financial reporting process, disclosures, and internal control over financial reporting. The Audit Committee also provides assistance to the board in overseeing the internal audit division and the independent registered public accounting firm’s qualifications and independence; compliance with our Financial Code of Ethics for the chief executive officer and senior financial officers; and compliance with corporate securities trading policies.
+
+•
+
+The Risk Oversight Committee assists the board of directors in overseeing management of material risks, the approval and monitoring of the Company’s capital position and plan supporting our overall aggregate moderate-to-low risk profile, the risk governance structure, compliance with applicable laws and regulations, and determining adherence to the board’s stated risk appetite. The committee has oversight responsibility with respect to the full range of inherent risks: market, credit, liquidity, legal, compliance/regulatory, operational, strategic, and reputational. This committee also oversees our capital management and planning process, ensures that the amount and quality of capital are adequate in relation to expected and unexpected risks, and that our capital levels exceed “well-capitalized” requirements. 
+
+•
+
+The Technology Committee assists the board of directors in fulfilling its oversight responsibilities with respect to all technology, cyber security, and third-party risk management strategies and plans. The committee is charged with evaluating Huntington’s capability to properly perform all technology functions necessary for its business plan, including projected growth, technology capacity, planning, operational execution, product development, and management capacity. The committee provides oversight of technology investments and plans to drive efficiency as well as to meet defined standards for risk, security, and redundancy. The Committee oversees the allocation of technology costs and ensures that they are understood by the board of directors. The Technology Committee monitors and evaluates innovation and technology trends that may affect the Company’s strategic plans, including monitoring of overall industry trends. The Technology Committee reviews and provides oversight of the company’s continuity and disaster recovery planning and preparedness.
+
+The Audit and Risk Oversight Committees routinely hold executive sessions with our key officers engaged in accounting and risk management. On a periodic basis, the two committees meet in joint session to cover matters relevant to both, such as the construct and appropriateness of the ACL, which is reviewed quarterly. All directors have access to information provided to each committee and all scheduled meetings are open to all directors.
+
+Further, through its Compensation Committee, the board of directors seeks to ensure its system of rewards is risk-sensitive and aligns the interests of management, creditors, and shareholders. We utilize a variety of compensation-related tools to induce appropriate behavior, including common stock ownership thresholds for the chief executive officer and certain members of senior management, a requirement to hold until retirement or exit from the Company, a portion of net shares received upon exercise of stock options or release of restricted stock awards (50% for executive officers and 25% for other award recipients), equity deferrals, recoupment provisions, and the right to terminate compensation plans at any time.
+
+Management has implemented an Enterprise Risk Management and Risk Appetite Framework. Critically important is our self-assessment process, in which each business segment produces an analysis of its risks and the strength of its risk controls. The segment analyses are combined with assessments by our risk management organization of major risk sectors (e.g., credit, market, liquidity, operational, legal, compliance, reputational, and strategic) to produce an overall enterprise risk assessment. Outcomes of the process include a determination of the quality of the overall control process, the direction of risk, and our position compared to the defined risk appetite.
+
+Management also utilizes a wide series of metrics (key risk indicators) to monitor risk positions throughout the Company. In general, a range for each metric is established, which allows the Company, in aggregate, to operate within an aggregate moderate-to-low risk profile. Deviations from the range will indicate if the risk being measured exceeds desired tolerance, which may then necessitate corrective action.
+
+We also have four executive level committees to manage risk: ALCO, Credit Policy and Strategy, Risk Management, and Capital Management. Each committee focuses on specific categories of risk and is supported by a series of subcommittees that are tactical in nature. We believe this structure helps ensure appropriate escalation of issues and overall communication of strategies.
+
+17
+
+Table of Contents
+
+Huntington utilizes three lines of defense with regard to risk management: (1) business segments, (2) corporate risk management, and (3) internal audit and credit review. To induce greater ownership of risk within its business segments, segment risk officers have been embedded in the business to identify and monitor risk, elevate and remediate issues, establish controls, perform self-testing, and oversee the self-assessment process. Corporate Risk Management establishes policies, sets operating limits, reviews new or modified products/processes, ensures consistency and quality assurance within the segments, and produces the enterprise risk assessment. The Chief Risk Officer has significant input into the design and outcome of incentive compensation plans as they apply to risk. Internal Audit and Credit Review provide additional assurance that risk-related functions are operating as intended.
+
+Risk Overview
+
+We, like other financial companies, are subject to a number of risks that may adversely affect our financial condition or results of operations, many of which are outside of our direct control, though efforts are made to manage those risks while optimizing returns. Among the risks assumed are: 
+
+•
+Credit risk
+, which is the risk of loss due to loan and lease customers or other counterparties not being able to meet their financial obligations under agreed upon terms; 
+
+•
+Market risk
+, which occurs when fluctuations in interest rates impact earnings and capital. Financial impacts are realized through changes in the interest rates of balance sheet assets and liabilities (net interest margin) or directly through valuation changes of capitalized MSR and/or trading assets (noninterest income); 
+
+•
+Liquidity risk
+, which is the risk to current or anticipated earnings or capital arising from an inability to meet obligations when they come due. Liquidity risk includes the inability to access funding sources or manage fluctuations in funding levels. Liquidity risk also results from the failure to recognize or address changes in market conditions that affect the Bank’s ability to liquidate assets quickly and with minimal loss in value; 
+
+•
+Operational and legal risk
+, which is the risk of loss arising from inadequate or failed internal processes or systems, human errors or misconduct, or adverse external events. Operational losses result from internal fraud; external fraud, inadequate or inappropriate employment practices and workplace safety, failure to meet professional obligations involving customers, products, and business practices, damage to physical assets, business disruption and systems failures, and failures in execution, delivery, and process management.  Legal risk includes, but is not limited to, exposure to orders, fines, penalties, or punitive damages resulting from litigation, as well as regulatory actions; 
+
+•
+Compliance risk
+, which exposes us to money penalties, enforcement actions or other sanctions as a result of non-conformance with laws, rules, and regulations that apply to the financial services industry; and
+
+•
+Strategic risk
+, which is defined as risk to current or anticipated earnings, capital, or enterprise value arising from adverse business decisions, improper implementation of business decisions or lack of responsiveness to industry / market changes. 
+
+We also expend considerable effort to protect our reputation. 
+Reputation risk
+ does not easily lend itself to traditional methods of measurement. Rather, we closely monitor it through processes such as new product / initiative reviews, colleague and client surveys, monitoring media tone, periodic discussions between management and our board, and other such efforts. 
+
+In addition to the other information included or incorporated by reference into this report, readers should carefully consider that the following important factors, among others, could negatively impact our business, future results of operations, and future cash flows materially.
+
+Credit Risks:
+
+1. Our ACL level may prove to be inappropriate or be negatively affected by credit risk exposures which could adversely affect our net income and capital.
+
+Our business depends on the creditworthiness of our customers. Our ACL of 
+$736 million
+ at December 31, 2016, represented Management’s estimate of probable losses inherent in our loan and lease portfolio as well as our unfunded loan commitments and letters of credit. We regularly review our ACL for appropriateness. In doing so, we consider economic conditions and trends, collateral values, and credit quality indicators, such as past charge-off experience, levels of past due loans, and NPAs. There is no certainty that our ACL will be appropriate over time to cover losses in the portfolio because of unanticipated adverse changes in the economy, market conditions, or events adversely affecting specific customers, industries, or markets. If the credit quality of our customer base materially decreases, if the risk profile of a market, industry, or group of customers changes materially, or if the ACL is not appropriate, our net income and capital could be materially adversely affected, which could have a material adverse effect on our financial condition and results of operations.
+
+In addition, regulatory review of risk ratings and loan and lease losses may impact the level of the ACL and could have a material adverse effect on our financial condition and results of operations.
+
+18
+
+Table of Contents
+
+2. Weakness in economic conditions could adversely affect our business.
+
+Our performance could be negatively affected to the extent there is deterioration in business and economic conditions which have direct or indirect material adverse impacts on us, our customers, and our counterparties. These conditions could result in one or more of the following:
+
+•
+
+A decrease in the demand for loans and other products and services offered by us;
+
+•
+
+A decrease in customer savings generally and in the demand for savings and investment products offered by us; and
+
+•
+
+An increase in the number of customers and counterparties who become delinquent, file for protection under bankruptcy laws, or default on their loans or other obligations to us.
+
+An increase in the number of delinquencies, bankruptcies, or defaults could result in a higher level of NPAs, NCOs, provision for credit losses, and valuation adjustments on loans held for sale. The markets we serve are dependent on industrial and manufacturing businesses and, thus, are particularly vulnerable to adverse changes in economic conditions affecting these sectors.
+
+Market Risks:
+
+1. Changes in interest rates could reduce our net interest income, reduce transactional income, and negatively impact the value of our loans, securities, and other assets. This could have an adverse impact on our cash flows, financial condition, results of operations, and capital.
+
+Our results of operations depend substantially on net interest income, which is the difference between interest earned on interest earning assets (such as investments and loans) and interest paid on interest bearing liabilities (such as deposits and borrowings). Interest rates are highly sensitive to many factors, including governmental monetary policies and domestic and international economic and political conditions. Conditions such as inflation, deflation, recession, unemployment, money supply, and other factors beyond our control may also affect interest rates. If our interest earning assets mature or reprice faster than interest bearing liabilities in a declining interest rate environment, net interest income could be materially adversely impacted. Likewise, if interest bearing liabilities mature or reprice more quickly than interest earning assets in a rising interest rate environment, net interest income could be adversely impacted. 
+
+Changes in interest rates can affect the value of loans, securities, assets under management, and other assets, including mortgage and nonmortgage servicing rights. An increase in interest rates that adversely affects the ability of borrowers to pay the principal or interest on loans and leases may lead to an increase in NPAs and a reduction of income recognized, which could have a material adverse effect on our results of operations and cash flows. When we place a loan on nonaccrual status, we reverse any accrued but unpaid interest receivable, which decreases interest income. However, we continue to incur interest expense as a cost of funding NALs without any corresponding interest income. In addition, transactional income, including trust income, brokerage income, and gain on sales of loans can vary significantly from period-to-period based on a number of factors, including the interest rate environment. A decline in interest rates along with a flattening yield curve limits our ability to reprice deposits given the current historically low level of interest rates and could result in declining net interest margins if longer duration assets reprice faster than deposits. 
+
+Rising interest rates reduce the value of our fixed-rate securities and cash flow hedging derivatives portfolio. Any unrealized loss from these portfolios impacts OCI, shareholders’ equity, and the Tangible Common Equity ratio. Any realized loss from these portfolios impacts regulatory capital ratios. In a rising interest rate environment, pension and other post-retirement obligations somewhat mitigate negative OCI impacts from securities and financial instruments. For more information, refer to “Market Risk” of the MD&A.
+
+Certain investment securities, notably mortgage-backed securities, are very sensitive to rising and falling rates. Generally, when rates rise, prepayments of principal and interest will decrease and the duration of mortgage-backed securities will increase. Conversely, when rates fall, prepayments of principal and interest will increase and the duration of mortgage-backed securities will decrease. In either case, interest rates have a significant impact on the value of mortgage-backed securities.
+
+MSR fair values are sensitive to movements in interest rates, as expected future net servicing income depends on the projected outstanding principal balances of the underlying loans, which can be reduced by prepayments. Prepayments usually increase when mortgage interest rates decline and decrease when mortgage interest rates rise.
+
+In addition to volatility associated with interest rates, the Company also has exposure to equity markets related to the investments within the benefit plans and other income from client based transactions. 
+
+19
+
+Table of Contents
+
+2. Industry competition may have an adverse effect on our success.
+
+Our profitability depends on our ability to compete successfully. We operate in a highly competitive environment, and we expect competition to intensify. Certain of our competitors are larger and have more resources than we do, enabling them to be more aggressive than us in competing for loans and deposits. In our market areas, we face competition from other banks and financial service companies that offer similar services. Some of our non-bank competitors are not subject to the same extensive regulations we are and, therefore, may have greater flexibility in competing for business. Our ability to compete successfully depends on a number of factors, including customer convenience, quality of service by investing in new products and services, personal contacts, pricing, and range of products. If we are unable to successfully compete for new customers and retain our current customers, our business, financial condition, or results of operations may be adversely affected. In particular, if we experience an outflow of deposits as a result of our customers seeking investments with higher yields or greater financial stability, or a desire to do business with our competitors, we may be forced to rely more heavily on borrowings and other sources of funding to operate our business and meet withdrawal demands, thereby adversely affecting our net interest margin.  For more information, refer to “Competition” section of Item 1: Business.
+
+Liquidity Risks:
+
+1. Changes in either Huntington’s financial condition or in the general banking industry could result in a loss of depositor confidence.
+
+Liquidity is the ability to meet cash flow needs on a timely basis at a reasonable cost. The Bank uses its liquidity to extend credit and to repay liabilities as they become due or as demanded by customers. The board of directors establishes liquidity policies, including contingency funding plans, and limits and management establishes operating guidelines for liquidity.
+
+Our primary source of liquidity is our large supply of deposits from consumer and commercial customers. The continued availability of this supply depends on customer willingness to maintain deposit balances with banks in general and us in particular. The availability of deposits can also be impacted by regulatory changes (e.g. changes in FDIC insurance, the Liquidity Coverage Ratio, etc.), and other events which can impact the perceived safety or economic benefits of bank deposits. While we make significant efforts to consider and plan for hypothetical disruptions in our deposit funding, market related, geopolitical, or other events could impact the liquidity derived from deposits.
+
+2. We are a holding company and depend on dividends by our subsidiaries for most of our funds. 
+
+Huntington is an entity separate and distinct from the Bank. The Bank conducts most of our operations and Huntington depends upon dividends from the Bank to service Huntington's debt and to pay dividends to Huntington's shareholders. The availability of dividends from the Bank is limited by various statutes and regulations. It is possible, depending upon the financial condition including liquidity and capital adequacy of the Bank and other factors, that the OCC could limit the payment of dividends or other payments by the Bank. In addition, the payment of dividends by our other subsidiaries is also subject to the laws of the subsidiary’s state of incorporation, and regulatory capital and liquidity requirements applicable to such subsidiaries. In the event that the Bank was unable to pay dividends to us, we in turn would likely have to reduce or stop paying dividends on our Preferred and Common Stock. Our failure to pay dividends on our Preferred and Common Stock could have a material adverse effect on the market price of our Common Stock. Additional information regarding dividend restrictions is provided in Item 1. Regulatory Matters.
+
+3. If we lose access to capital markets, we may not be able to meet the cash flow requirements of our depositors, creditors, and borrowers, or have the operating cash needed to fund corporate expansion and other corporate activities.
+
+Wholesale funding sources include securitization, federal funds purchased, securities sold under repurchase agreements, non-core deposits, and long-term debt. The Bank is also a member of the Federal Home Loan Bank of Cincinnati, which provides members access to funding through advances collateralized with mortgage-related assets. We maintain a portfolio of highly-rated, marketable securities that is available as a source of liquidity.
+
+Capital markets disruptions can directly impact the liquidity of Huntington and the Bank. The inability to access capital markets funding sources as needed could adversely impact our financial condition, results of operations, cash flows, and level of regulatory-qualifying capital. We may, from time-to-time, consider using our existing liquidity position to opportunistically retire outstanding securities in privately negotiated or open market transactions.
+
+20
+
+Table of Contents
+
+4. A reduction in our credit rating could adversely affect our ability to raise funds including capital, and/or the holders of our securities.
+
+The credit rating agencies regularly evaluate Huntington and the Bank, and credit ratings are based on a number of factors, including our financial strength and ability to generate earnings, as well as factors not entirely within our control, including conditions affecting the financial services industry, the economy, and changes in rating methodologies. There can be no assurance that we will maintain our current credit ratings. A downgrade of the credit ratings of Huntington or the Bank could adversely affect our access to liquidity and capital, and could significantly increase our cost of funds, trigger additional collateral or funding requirements, and decrease the number of investors and counterparties willing to lend to us or purchase our securities. This could affect our growth, profitability and financial condition, including liquidity.
+
+Operational and Legal Risks:
+
+1. We face security risks, including denial of service attacks, hacking, social engineering attacks targeting our colleagues and customers, malware intrusion or data corruption attempts, and identity theft that could result in the disclosure of confidential information, adversely affect our business or reputation, and create significant legal and financial exposure.
+
+Our computer systems and network infrastructure are subject to security risks and could be susceptible to cyber-attacks, such as denial of service attacks, hacking, terrorist activities or identity theft. Financial services institutions and companies engaged in data processing have reported breaches in the security of their websites or other systems, some of which have involved sophisticated and targeted attacks intended to obtain unauthorized access to confidential information, destroy data, disable or degrade service, or sabotage systems, often through the introduction of computer viruses or malware, cyber-attacks and other means. Denial of service attacks have been launched against a number of large financial services institutions, including us. None of these events against us resulted in a breach of our client data or account information; however, the performance of our website, www.huntington.com, was adversely affected, and in some instances customers were prevented from accessing our website. We expect to be subject to similar attacks in the future. While events to date primarily resulted in inconvenience, future cyber-attacks could be more disruptive and damaging. Hacking and identity theft risks, in particular, could cause serious reputational harm. Cyber threats are rapidly evolving and we may not be able to anticipate or prevent all such attacks and could be held liable for any security breach or loss.
+
+Despite efforts to ensure the integrity of our systems, we may not be able to anticipate all security breaches of these types, nor may we be able to implement guaranteed preventive measures against such security breaches. Persistent attackers may succeed in penetrating defenses given enough resources, time, and motive. The techniques used by cyber criminals change frequently, may not be recognized until launched and can originate from a wide variety of sources, including outside groups such as external service providers, organized crime affiliates, terrorist organizations or hostile foreign governments. These risks may increase in the future as we continue to increase our mobile-payment and other internet-based product offerings and expand our internal usage of web-based products and applications.
+
+Even the most advanced internal control environment may be vulnerable to compromise. Targeted social engineering attacks and "spear phishing" attacks are becoming more sophisticated and are extremely difficult to prevent. The successful social engineer will attempt to fraudulently induce colleagues, customers or other users of our systems to disclose sensitive information in order to gain access to its data or that of its clients.
+
+A successful penetration or circumvention of system security could cause us serious negative consequences, including significant disruption of operations, misappropriation of confidential information, or damage to our computers or systems or those of our customers and counterparties. A successful security breach could result in violations of applicable privacy and other laws, financial loss to us or to our customers, loss of confidence in our security measures, significant litigation exposure, and harm to our reputation, all of which could have a material adverse effect on the Company.
+
+2. The resolution of significant pending litigation, if unfavorable, could have an adverse effect on our results of operations for a particular period.
+
+We face legal risks in our businesses, and the volume of claims and amount of damages and penalties claimed in litigation and regulatory proceedings against financial institutions remain high. Substantial legal liability against us could have material adverse financial effects or cause significant reputational harm to us, which in turn could seriously harm our business prospects. It is possible that the ultimate resolution of these matters, if unfavorable, may be material to the results of operations for a particular reporting period.
+
+Note 
+21
+ of the Notes to Consolidated Financial Statements updates the status of certain material litigation including litigation related to the bankruptcy of Cyberco Holdings, Inc. 
+
+21
+
+Table of Contents
+
+3. We face significant operational risks which could lead to financial loss, expensive litigation, and loss of confidence by our customers, regulators, and capital markets.
+
+We are exposed to many types of operational risks, including the risk of fraud or theft by colleagues or outsiders, unauthorized transactions by colleagues or outsiders, operational errors by colleagues, business disruption, and system failures. Huntington executes against a significant number of controls, a large percent of which are manual and dependent on adequate execution by colleagues and third-party service providers. There is inherent risk that unknown single points of failure through the execution chain could give rise to material loss through inadvertent errors or malicious attack. These operational risks could lead to financial loss, expensive litigation, and loss of confidence by our customers, regulators, and the capital markets.
+
+Moreover, negative public opinion can result from our actual or alleged conduct in any number of activities, including clients, products and business practices; corporate governance; acquisitions; and from actions taken by government regulators and community organizations in response to those activities. Negative public opinion can adversely affect our ability to attract and retain customers and can also expose us to litigation and regulatory action.
+
+Relative to acquisitions, we incur risks and challenges associated with the integration of employees, accounting systems, and technology platforms from acquired businesses and institutions in a timely and efficient manner, and we cannot guarantee that we will be successful in retaining existing customer relationships or achieving anticipated operating efficiencies expected from such acquisitions.  Acquisitions may be subject to the receipt of approvals from certain governmental authorities, including the Federal Reserve, the OCC, and the United States Department of Justice, as well as the approval of our shareholders and the shareholders of companies that we seek to acquire. These approvals for acquisitions may not be received, may take longer than expected, or may impose conditions that are not presently anticipated or that could have an adverse effect on the combined company following the acquisitions. Subject to requisite regulatory approvals, future business acquisitions may result in the issuance and payment of additional shares of stock, which would dilute current shareholders’ ownership interests.  Additionally, acquisitions may involve the payment of a premium over book and market values. Therefore, dilution of our tangible book value and net income per common share could occur in connection with any future transaction. 
+
+4. Failure to maintain effective internal controls over financial reporting could impair our ability to accurately and timely report our financial results or prevent fraud, resulting in loss of investor confidence and adversely affecting our business and our stock price.
+
+Effective internal controls over financial reporting are necessary to provide reliable financial reports and prevent fraud. We are subject to regulation that focuses on effective internal controls and procedures. Such controls and procedures are modified, supplemented, and changed from time-to-time as necessitated by our growth and in reaction to external events and developments. Any failure to maintain an effective internal control environment could impact our ability to report our financial results on an accurate and timely basis, which could result in regulatory actions, loss of investor confidence, and an adverse impact on our business and our stock price.
+
+5. We rely on quantitative models to measure risks and to estimate certain financial values.
+
+Quantitative models may be used to help manage certain aspects of our business and to assist with certain business decisions, including estimating probable loan losses, measuring the fair value of financial instruments when reliable market prices are unavailable, estimating the effects of changing interest rates and other market measures on our financial condition and results of operations, managing risk, and for capital planning purposes (including during the CCAR capital planning and capital adequacy process). Our measurement methodologies rely on many assumptions, historical analyses, and correlations. These assumptions may not capture or fully incorporate conditions leading to losses, particularly in times of market distress, and the historical correlations on which we rely may no longer be relevant. Additionally, as businesses and markets evolve, our measurements may not accurately reflect this evolution. Even if the underlying assumptions and historical correlations used in our models are adequate, our models may be deficient due to errors in computer code, inaccurate data, misuse of data, or the use of a model for a purpose outside the scope of the model’s design.
+
+All models have certain limitations. Reliance on models presents the risk that our business decisions based on information incorporated from models will be adversely affected due to incorrect, missing, or misleading information. In addition, our models may not capture or fully express the risks we face, may suggest that we have sufficient capitalization when we do not, or may lead us to misjudge the business and economic environment in which we will operate. If our models fail to produce reliable results on an ongoing basis, we may not make appropriate risk management, capital planning, or other business or financial decisions. Strategies that we employ to manage and govern the risks associated with our use of models may not be effective or fully reliable. Also, information that we provide to the public or regulators based on poorly designed models could be inaccurate or misleading.
+
+Banking regulators continue to focus on the models used by banks and bank holding companies in their businesses. Some of our decisions that the regulators evaluate, including distributions to our shareholders, could be affected adversely due to their perception that the quality of the models used to generate the relevant information is insufficient.
+
+22
+
+Table of Contents
+
+6. We rely on third parties to provide key components of our business infrastructure. 
+
+We rely on third-party service providers to leverage subject matter expertise and industry best practice, provide enhanced products and services, and reduce costs. Although there are benefits in entering into third-party relationships with vendors and others, there are risks associated with such activities. When entering a third-party relationship, the risks associated with that activity are not passed to the third-party but remain our responsibility. The Technology Committee of the board of directors provides oversight related to the overall risk management process associated with third-party relationships. Management is accountable for the review and evaluation of all new and existing third-party relationships. Management is responsible for ensuring that adequate controls are in place to protect us and our customers from the risks associated with vendor relationships. 
+
+Increased risk could occur based on poor planning, oversight, control, and inferior performance or service on the part of the third-party, and may result in legal costs or loss of business. While we have implemented a vendor management program to actively manage the risks associated with the use of third-party service providers, any problems caused by third-party service providers could adversely affect our ability to deliver products and services to our customers and to conduct our business. Replacing a third-party service provider could also take a long period of time and result in increased expenses.
+
+7. Changes in accounting policies, standards, and interpretations could affect how we report our financial condition and results of operations.
+
+The FASB, regulatory agencies, and other bodies that establish accounting standards periodically change the financial accounting and reporting standards governing the preparation of our financial statements. Additionally, those bodies that establish and interpret the accounting standards (such as the FASB, SEC, and banking regulators) may change prior interpretations or positions on how these standards should be applied. These changes can be difficult to predict and can materially affect how we record and report our financial condition and results of operations.
+
+For further discussion, see Note 
+2
+ of the Notes to Consolidated Financial Statements. 
+
+8. Impairment of goodwill could require charges to earnings, which could result in a negative impact on our results of operations.
+
+Our goodwill could become impaired in the future. If goodwill were to become impaired, it could limit the ability of the Bank to pay dividends to Huntington Bancshares Incorporated, adversely impacting Huntington Bancshares Incorporated's liquidity and ability to pay dividends or repay debt. The most significant assumptions affecting our goodwill impairment evaluation are variables including the market price of our Common Stock, projections of earnings, and the control premium above our current stock price that an acquirer would pay to obtain control of us. We are required to test goodwill for impairment at least annually or when impairment indicators are present. If an impairment determination is made in a future reporting period, our earnings and book value of goodwill will be reduced by the amount of the impairment. If an impairment loss is recorded, it will have little or no impact on the tangible book value of our Common Stock, or our regulatory capital levels, but such an impairment loss could significantly reduce the Bank’s earnings and thereby restrict the Bank's ability to make dividend payments to us without prior regulatory approval, because Federal Reserve policy states the bank holding company dividends should be paid from current earnings. At 
+December 31, 2016
+, the book value of our goodwill was 
+$2.0 billion
+, all of which was recorded at the Bank. Any such write down of goodwill or other acquisition related intangibles will reduce Huntington’s earnings, as well. 
+
+9. Negative publicity could damage our reputation and could significantly harm our business. 
+
+Our ability to attract and retain customers, clients, investors, and highly-skilled management and employees is affected by our reputation. Public perception of the financial services industry in general was damaged as a result of the credit crisis that started in 2008. We face increased public and regulatory scrutiny resulting from the credit crisis and economic downturn. Significant harm to our reputation can also arise from other sources, including employee misconduct, actual or perceived unethical behavior, conflicts of interest, litigation, GSE or regulatory actions, failing to deliver minimum or required standards of service and quality, failing to address customer and agency complaints, compliance failures, unauthorized release of confidential information due to cyber-attacks or otherwise, and the activities of our clients, customers and counterparties, including vendors. Actions by the financial service industry generally or by institutions or individuals in the industry can adversely affect our reputation, indirectly by association. All of these could adversely affect our growth, results of operation and financial condition. 
+
+23
+
+Table of Contents
+
+Compliance Risks:
+
+1. Bank regulations regarding capital and liquidity, including the annual CCAR assessment process and the Basel III capital and liquidity standards, could require higher levels of capital and liquidity. Among other things, these regulations could impact our ability to pay common stock dividends, repurchase common stock, attract cost-effective sources of deposits, or require the retention of higher amounts of low yielding securities.
+
+The Federal Reserve administers the annual CCAR, an assessment of the capital adequacy of bank holding companies with consolidated assets of $50 billion or more and of the practices used by covered banks to assess capital needs. Under CCAR, the Federal Reserve makes a qualitative assessment of capital adequacy on a forward-looking basis and reviews the strength of a bank holding company’s capital adequacy process. The Federal Reserve also makes a quantitative assessment of capital based on supervisory-run stress tests that assess the ability to maintain capital levels above each minimum regulatory capital ratio and above a CET1 ratio of 4.5%, after making all capital actions included in a bank holding company’s capital plan, under baseline and stressful conditions throughout a nine-quarter planning horizon. Capital plans for 2017 are required to be submitted by April 5, 2017, and the Federal Reserve will either object to the capital plan and/or planned capital actions, or provide a notice of non-objection, no later than June 30, 2017. We intend to submit our capital plan to the Federal Reserve on or before April 5, 2017. The Bank also must submit a capital plan to the OCC on or before April 5, 2017. There can be no assurance that the Federal Reserve will respond favorably to our capital plan, capital actions or stress test and the Federal Reserve, OCC, or other regulatory capital requirements may limit or otherwise restrict how we utilize our capital, including common stock dividends and stock repurchases.
+
+In 2013, the Federal Reserve and the OCC adopted final rules to implement the Basel III capital rules for U.S. Banking organizations. The final rules establish an integrated regulatory capital framework and will implement in the United States the Basel III regulatory capital reforms from the Basel Committee on Banking Supervision and certain changes required by the Dodd-Frank Act. Under the final rule, minimum requirements will increase for both the quantity and quality of capital held by banking organizations. As a Standardized Approach institution, the Basel III minimum capital requirements became effective for us on January 1, 2015, and will be fully phased-in on January 1, 2019.
+
+On September 3, 2014, the U.S. banking regulators approved a final rule to implement a minimum LCR requirement for banking organizations with total consolidated assets of $250 billion or more, and a less stringent modified LCR requirement to depository institution holding companies below the threshold but with total consolidated assets of $50 billion or more. The LCR requires covered banking organizations to maintain HQLA equal to projected stressed cash outflows over a 30 calendar-day stress scenario. We are covered by the modified LCR requirement and therefore subject to the phase-in of the rule which, as of January 2017, is at 100%. We will also be required to calculate the LCR monthly. The LCR assigns less severe outflow assumptions to certain types of customer deposits, which should increase the demand, and perhaps the cost, among banks for these deposits. Additionally, the HQLA requirements will increase the demand for direct US government and US government- guaranteed debt that, while high quality, generally carry lower yields than other securities that banks hold in their investment portfolios.
+
+2. If our regulators deem it appropriate, they can take regulatory actions that could result in a material adverse impact on our financial results, ability to compete for new business, or preclude mergers or acquisitions. In addition, regulatory actions could constrain our ability to fund our liquidity needs or pay dividends. Any of these actions could increase the cost of our services. 
+
+We are subject to the supervision and regulation of various state and federal regulators, including the OCC, Federal Reserve, FDIC, SEC, CFPB, Financial Industry Regulatory Authority, and various state regulatory agencies. As such, we are subject to a wide variety of laws and regulations, many of which are discussed in Item 1. Regulatory Matters. As part of their supervisory process, which includes periodic examinations and continuous monitoring, the regulators have the authority to impose restrictions or conditions on our activities and the manner in which we manage the organization. Such actions could negatively impact us in a variety of ways, including charging monetary fines, impacting our ability to pay dividends, precluding mergers or acquisitions, limiting our ability to offer certain products or services, or imposing additional capital requirements.
+
+Under the supervision of the CFPB, our consumer products and services are subject to increasing regulatory oversight and scrutiny with respect to compliance under consumer laws and regulations. We may face a greater number or wider scope of investigations, enforcement actions, and litigation in the future related to consumer practices, thereby increasing costs associated with responding to or defending such actions. In addition, increased regulatory inquiries and investigations, as well as any additional legislative or regulatory developments affecting our consumer businesses, and any required changes to our business operations resulting from these developments, could result in significant loss of revenue, require remuneration to our customers, trigger fines or penalties, limit the products or services we offer, require us to increase our prices and, therefore, reduce demand for our products, impose additional compliance costs on us, cause harm to our reputation, or otherwise adversely affect our consumer businesses.
+
+24
+
+Table of Contents
+
+3. Legislative and regulatory actions taken now or in the future that impact the financial industry may materially adversely affect us by increasing our costs, adding complexity in doing business, impeding the efficiency of our internal business processes, negatively impacting the recoverability of certain of our recorded assets, requiring us to increase our regulatory capital, limiting our ability to pursue business opportunities, and otherwise resulting in a material adverse impact on our financial condition, results of operation, liquidity, or stock price.
+
+The Dodd-Frank Act was a comprehensive overhaul of the financial services industry within the United States, established the CFPB, and required the CFPB and other federal agencies to implement many new and significant rules and regulations. Compliance with these new laws and regulations have and will continue to result in additional costs, which could be significant, and may have a material and adverse effect on our results of operations. In addition, if we do not appropriately comply with current or future legislation and regulations that apply to our consumer operations, we may be subject to fines, penalties or judgments, or material regulatory restrictions on our businesses, which could adversely affect operations and, in turn, financial results. 
+
+4. We may become subject to more stringent regulatory requirements and activity restrictions if the Federal Reserve and FDIC determine that our resolution plan is not credible. 
+
+The Dodd-Frank Act and implementing regulations jointly issued by Federal Reserve and the FDIC require bank holding companies with more than $50 billion in assets to annually submit a resolution plan to the Federal Reserve and the FDIC that, in the event of material financial distress or failure, establish the rapid, orderly resolution of the Company under the U.S. Bankruptcy Code. If the Federal Reserve and the FDIC jointly determine that our 2015 resolution plan is not “credible,” we could become subjected to more stringent capital, leverage or liquidity requirements or restrictions, or restrictions on our growth, activities or operations, and could eventually be required to divest certain assets or operations in ways that could negatively impact its operations and strategy. 
+
+5. Our business, financial condition, and results of operations could be adversely affected if we lose our financial holding company status.
+
+In order for us to maintain our status as a financial holding company, we and the Bank must remain “well capitalized,” and “well managed.” If we or our Bank cease to meet the requirements necessary for us to continue to qualify as a financial holding company, the Federal Reserve may impose upon us corrective capital and managerial requirements, and may place limitations on our ability to conduct all of the business activities that we conduct as a financial holding company. If the failure to meet these standards persists, we could be required to divest our Bank, or cease all activities other than those activities that may be conducted by bank holding companies that are not financial holding companies. In addition, our ability to commence or engage in certain activities as a financial holding company will be restricted if the Bank fails to maintain at least a “Satisfactory” rating on its most recent Community Reinvestment Act examination.

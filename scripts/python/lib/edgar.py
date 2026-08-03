@@ -19,12 +19,37 @@ def _throttle():
     _last_request_time[0] = time.monotonic()
 
 
-def get(url: str, **kwargs) -> requests.Response:
-    _throttle()
-    headers = kwargs.pop("headers", {})
-    headers.setdefault("User-Agent", USER_AGENT)
-    resp = requests.get(url, headers=headers, timeout=30, **kwargs)
-    return resp
+_session = requests.Session()
+_session.headers.update({"User-Agent": USER_AGENT, "Accept-Encoding": "gzip, deflate"})
+
+
+def get(url: str, max_retries: int = 3, **kwargs) -> requests.Response:
+    """Retries transient failures with backoff -- a 429/403 gets a long
+    back-off (SEC may be flagging this IP over the rate limit), a 5xx gets
+    a short exponential one. Needed once real filing-download volume (7000+
+    requests in checkpoint 4) makes a handful of transient failures a
+    near-certainty rather than an edge case.
+    """
+    last_exc = None
+    resp = None
+    for attempt in range(max_retries):
+        _throttle()
+        try:
+            resp = _session.get(url, timeout=30, **kwargs)
+        except requests.RequestException as exc:
+            last_exc = exc
+            time.sleep(2 ** attempt)
+            continue
+        if resp.status_code in (429, 403):
+            time.sleep(10 * (attempt + 1))
+            continue
+        if resp.status_code >= 500:
+            time.sleep(2 ** attempt)
+            continue
+        return resp
+    if resp is not None:
+        return resp
+    raise last_exc
 
 
 def get_json(url: str, **kwargs):

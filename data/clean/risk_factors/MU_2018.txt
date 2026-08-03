@@ -1,0 +1,567 @@
+In addition to the factors discussed elsewhere in this Form 10-K, the following are important factors, the order of which is not necessarily indicative of the level of risk that each poses to us, which could cause actual results or events to differ materially from those contained in any forward-looking statements made by us. Our operations could also be affected by other factors that are presently unknown to us or not considered significant. Any of the factors below could have a material adverse effect on our business, results of operations, financial condition, or stock price.
+
+We have experienced volatility in average selling prices for our semiconductor memory and storage products which may adversely affect our business.
+
+ We have experienced significant volatility in our average selling prices, including dramatic declines, as noted in the table below, and may continue to experience such volatility in the future. In some prior periods, average selling prices for our products have been below our manufacturing costs and we may experience such circumstances in the future. Decreases in average selling prices for our products that decline faster than our costs could have a material adverse effect on our business, results of operations, or financial condition.
+
+DRAM
+
+Trade NAND
+
+(percentage change in average selling prices)
+
+2018 from 2017
+
+37
+
+ %
+
+(11
+
+)%
+
+2017 from 2016
+
+19
+
+ %
+
+(9
+
+)%
+
+2016 from 2015
+
+(35
+
+)%
+
+(20
+
+)%
+
+2015 from 2014
+
+(11
+
+)%
+
+(17
+
+)%
+
+2014 from 2013
+
+6
+
+ %
+
+(23
+
+)%
+
+We may be unable to maintain or improve gross margins.
+
+Our gross margins are dependent in part upon continuing decreases in per gigabit manufacturing costs achieved through improvements in our manufacturing processes and product designs, including, but not limited to, process line-width, additional 3D memory layers, additional bits per cell (i.e., cell levels), architecture, number of mask layers, number of fabrication steps, and yield. In future periods, we may be unable to reduce our per gigabit manufacturing costs at sufficient levels to maintain or improve gross margins. Factors that may limit our ability to reduce costs include, but are not limited to, strategic product diversification decisions affecting product mix, the increasing complexity of manufacturing processes, difficulties in transitioning to smaller line-width process technologies, 3D memory layers, NAND cell levels, process complexity including number of mask layers and fabrication steps, manufacturing yield, technological barriers, changes in process technologies, and new products that may require relatively larger die sizes. Per gigabit manufacturing costs may also be affected by a broader product portfolio, which may have smaller production quantities and shorter product lifecycles. Our inability to maintain or improve gross margins could have a material adverse effect on our business, results of operations, or financial condition.
+
+The semiconductor memory and storage markets are highly competitive.
+
+We face intense competition in the semiconductor memory and storage markets from a number of companies, including Intel; Samsung Electronics Co., Ltd.; SK Hynix Inc.; Toshiba Memory Corporation; and Western Digital Corporation. Some of our competitors are large corporations or conglomerates that may have greater resources to invest in technology, capitalize on growth opportunities, and withstand downturns in the semiconductor markets in which we compete. Consolidation of industry competitors could put us at a competitive disadvantage. In addition, some governments have provided, and may continue to provide, significant assistance, financial or otherwise, to some of our competitors or to new entrants and may intervene in support of national industries and/or competitors. In particular, we face the threat of increasing competition as a result of significant investment in the semiconductor industry by the Chinese government and various state-owned or affiliated entities that is intended to advance China's stated national policy objectives. In addition, the Chinese government may restrict us from participating in the China market or may prevent us from competing effectively with Chinese companies.
+
+Our competitors generally seek to increase silicon capacity, improve yields, and reduce die size in their product designs which may result in significant increases in worldwide supply and downward pressure on prices. Increases in worldwide supply of semiconductor memory and storage also result from fabrication capacity expansions, either by way of new facilities, increased capacity utilization, or reallocation of other semiconductor production to semiconductor memory and storage production. Our competitors may increase capital expenditures resulting in future increases in worldwide supply. We and some 
+
+ 12
+
+of our competitors have plans to ramp, or are constructing or ramping, production at new fabrication facilities. Increases in worldwide supply of semiconductor memory and storage, if not accompanied by commensurate increases in demand, would lead to further declines in average selling prices for our products and would materially adversely affect our business, results of operations, or financial condition. If competitors are more successful at developing or implementing new product or process technology, their products could have cost or performance advantages.
+
+The competitive nature of our industry could have a material adverse effect on our business, results of operations, or financial condition.
+
+We may be unable to generate sufficient cash flows or obtain access to external financing necessary to fund our operations, make scheduled debt payments, and make adequate capital investments.
+
+Our cash flows from operations depend primarily on the volume of semiconductor memory and storage products sold, average selling prices, and manufacturing costs. To develop new product and process technology, support future growth, achieve operating efficiencies, and maintain product quality, we must make significant capital investments in manufacturing technology, capital equipment, facilities, R&D, and product and process technology. We estimate that net cash expenditures in 2019 for property, plant, and equipment will be approximately $10.5 billion plus or minus 5%, which reflects the offset of amounts we expect to be funded by our partners. Investments in capital expenditures, net of amounts funded by our partners, were $8.20 billion for 2018.
+
+As a result of the corporate reorganization proceedings of MMJ initiated in 2012, and for so long as such proceedings are continuing, MMJ is prohibited from paying dividends, including any cash dividends, to us and such proceedings require that excess earnings be used in MMJ's business or to fund the MMJ creditor payments. In addition, pursuant to an order of the Tokyo District Court, MMJ cannot make loans or advances, other than certain ordinary course advances, to us without the consent of the Tokyo District Court and may, under certain circumstances, be subject to approval of the legal trustee. As a result, the assets of MMJ are not available for use by us in our other operations. Furthermore, certain uses of the assets of MMJ, including certain capital expenditures of MMJ, may require consent of MMJ's trustees and/or the Tokyo District Court.
+
+In the past we have utilized external sources of financing when needed. As a result of our debt levels, expected debt amortization, and general economic conditions, it may be difficult for us to obtain financing on terms acceptable to us. There can be no assurance that we will be able to generate sufficient cash flows, use cash held by MMJ to fund its capital expenditures, access capital markets or find other sources of financing to fund our operations, make debt payments, and make adequate capital investments to remain competitive in terms of technology development and cost efficiency. Our inability to do any of the foregoing could have a material adverse effect on our business, results of operations, or financial condition.
+
+Our future success depends on our ability to develop and produce competitive new memory and storage technologies.
+
+Our key semiconductor memory and storage products and technologies face technological barriers to continue to meet long-term customer needs. These barriers include potential limitations on stacking additional 3D memory layers, increasing bits per cell (i.e., cell levels), meeting higher density requirements, and improving power consumption and reliability. We may face technological barriers to continue to shrink our products at our current or historical rate, which has generally reduced per-unit cost. We have invested and expect to continue to invest in R&D for new and existing products, which involves significant risk and uncertainties. We may be unable to recover our investment in R&D or otherwise realize the economic benefits of reducing die size or increasing memory and storage densities. Our competitors are working to develop new memory and storage technologies that may offer performance and/or cost advantages to existing technologies and render existing technologies obsolete. Accordingly, our future success may depend on our ability to develop and produce viable and competitive new memory and storage technologies. There can be no assurance of the following:
+
+•
+
+that we will be successful in developing competitive
+
+new semiconductor memory and storage technologies;
+
+•
+
+that we will be able to cost-effectively manufacture new products;
+
+•
+
+that we will be able to successfully market these technologies; and
+
+•
+
+that margins generated from sales of these products will allow us to recover costs of development efforts.
+
+We develop and produce advanced memory technologies, including 3D XPoint memory, a new class of non-volatile technology. There is no assurance that our efforts to develop and market new product technologies will be successful. Unsuccessful efforts to develop new semiconductor memory and storage technologies could have a material adverse effect on our business, results of operations, or financial condition.
+
+ 13
+
+New product and market development may be unsuccessful.
+
+We are developing new products, including system-level memory and storage products and solutions, which complement our traditional products or leverage their underlying design or process technology. We have made significant investments in product and process technology and anticipate expending significant resources for new semiconductor product and system-level solution development over the next several years. Additionally, we are increasingly differentiating our products and solutions to meet the specific demands of our customers, which increases our reliance on our customer's ability to accurately forecast the end-customer's needs and preferences. As a result, our product demand forecasts may be impacted significantly by the strategic actions of our customers. In order to continue our success, we must develop, manufacture, and qualify the products our customers need at the time they need those products. The process to develop new products requires us to demonstrate advanced functionality and performance, often well in advance of a planned ramp of production, in order to secure design wins with our customers. In addition, some of our components have long lead-times, requiring us to place orders several months in advance of anticipated demand. Such long lead-times increase the risk of excess inventory or loss of sales in the event our forecasts vary substantially from actual demand. There can be no assurance of the following:
+
+•
+
+that our product development efforts will be successful;
+
+•
+
+that we will be able to cost-effectively manufacture new products;
+
+•
+
+that we will be able to successfully market these products;
+
+•
+
+that we will be able to establish or maintain key relationships with customers with specific chip set or design requirements;
+
+•
+
+that we will be able to introduce new products into the market and qualify them with our customers on a timely basis; or
+
+•
+that margins generated from sales of these products will allow us to recover costs of development efforts.
+
+Our unsuccessful efforts to develop new products and solutions could have a material adverse effect on our business, results of operations, or financial condition.
+
+Our joint ventures and strategic relationships involve numerous risks.
+
+We have entered into strategic relationships, including our joint development partnership and our IMFT joint venture with Intel, to develop new manufacturing process technologies and products and to manufacture certain products. These joint ventures and strategic relationships are subject to various risks that could adversely affect the value of our investments and our results of operations, including the following:
+
+•
+diverging interests between us and our partners and disagreements on the following: 
+
+◦
+
+ongoing or future development, manufacturing, or operational activities;
+
+◦
+
+the amount, timing, or nature of further investments; and
+
+◦
+
+commercial terms in our joint ventures or strategic relationships;
+
+•
+competition from our partners;
+
+•
+access by our partners to our proprietary product and process technology which they may use;
+
+•
+difficulties in transferring technology to joint ventures;
+
+•
+difficulties and delays in ramping production at joint ventures;
+
+•
+limited control over the operations of our joint ventures;
+
+•
+inability of our partners to meet their commitments to us or our joint ventures;
+
+•
+
+differences in participation on funding capital investments in our joint ventures due to differing business models or long-term business goals;
+
+•
+inadequate cash flows to fund increased capital requirements of our joint ventures;
+
+•
+difficulties or delays in collecting amounts due to us from our joint ventures and partners;
+
+•
+disputes with partners regarding the terms of arrangements or that terms of such arrangements are unfavorable; and
+
+•
+changes in tax, legal, or regulatory requirements that necessitate changes in the agreements with our partners.
+
+Our joint ventures and strategic relationships, if unsuccessful, could have a material adverse effect on our business, results of operations, or financial condition.
+
+A significant concentration of our net sales is to a select number of customers.
+
+In each of the last three years, approximately one-half of our total net sales were to our top ten customers. A disruption in our relationship with any of these customers could adversely affect our business. We could experience fluctuations in our customer base or the mix of revenue by customer as markets and strategies evolve. In addition, any consolidation of our 
+
+ 14
+
+customers could reduce the number of customers to whom our products could be sold. Our inability to meet our customers' requirements or to qualify our products with them could adversely impact our sales. The loss of one or more of our major customers or any significant reduction in orders from, or a shift in product mix by, these customers could have a material adverse effect on our business, results of operations, or financial condition.
+
+Increases in sales of system solutions may increase our dependency upon specific customers and our costs to develop and qualify our system solutions.
+
+Our development of system-level memory and storage products is dependent, in part, upon successfully identifying and meeting our customers' specifications for those products. Developing and manufacturing system-level products with specifications unique to a customer increases our reliance upon that customer for purchasing our products in sufficient volume, quantity, and in a timely manner. If we fail to identify or develop products on a timely basis, or at all, that comply with our customers' specifications or achieve design wins with our customers, we may experience a significant adverse impact on our sales and margins. Even if our products meet customer specifications, our sales of system-level solutions are dependent upon our customers choosing our products over those of our competitors and purchasing our products at sufficient volumes and prices. Our competitors' products may be less costly, provide better performance, or include additional features when compared to our products. Our long-term ability to sell system-level memory and storage products is reliant upon our customers' ability to create, market, and sell their products containing our system-level solutions at sufficient volumes and prices in a timely manner. If we fail to successfully develop and market system-level products, our business, results of operations, or financial condition may be materially adversely affected.
+
+Even if we are successful in selling system-level solutions to our customers in sufficient volume, we may be unable to generate sufficient profit if our per-unit manufacturing costs exceed our per-unit selling prices. Manufacturing system-level solutions to customer specifications requires a longer development cycle, as compared to discrete products, to design, test, and qualify, which may increase our costs. Additionally, some of our system solutions are increasingly dependent on sophisticated firmware that may require significant customization to meet customer specifications, which increases our costs and time to market. Additionally, we may need to update our firmware or develop new firmware as a result of new product introductions or changes in customer specifications and/or industry standards, which increases our costs. System complexities and extended warranties for system-level products could also increase our warranty costs. Our failure to cost-effectively manufacture system-level solutions and/or firmware in a timely manner, may result in reduced demand for our system-level products, and could have a material adverse effect on our business, results of operations, or financial condition.
+
+Products that fail to meet specifications, are defective, or that are otherwise incompatible with end uses could impose significant costs on us.
+
+Products that do not meet specifications or that contain, or are perceived by our customers to contain, defects or that are otherwise incompatible with end uses could impose significant costs on us or otherwise materially adversely affect our business, results of operations, or financial condition. From time to time, we experience problems with nonconforming, defective, or incompatible products after we have shipped such products. In recent periods, we have further diversified and expanded our product offerings, which could potentially increase the chance that one or more of our products could fail to meet specifications in a particular application. As a result, we could be adversely affected in several ways, including the following:
+
+•
+
+we may be required or agree to compensate customers for costs incurred or damages caused by defective or incompatible products and to replace products;
+
+•
+
+we could incur a decrease in revenue or adjustment to pricing commensurate with the reimbursement of such costs or alleged damages; and
+
+•
+
+we may encounter adverse publicity, which could cause a decrease in sales of our products or harm our relationships with existing or potential customers.
+
+Any of the foregoing items could have a material adverse effect on our business, results of operations, or financial condition.
+
+Debt obligations could adversely affect our financial condition.
+
+We have incurred in the past, and expect to incur in the future, debt to finance our capital investments, business acquisitions, and restructuring of our capital structure. As of 
+August 30, 2018
+, we had debt with a carrying value of 
+$4.64 billion
+ and may borrow up to an additional 
+$2.00 billion
+ under an undrawn revolving credit facility. In addition, as of 
+August 30, 2018
+, the conversion value in excess of principal of our convertible notes was 
+$1.85 billion
+, based on the trading price of our common stock of 
+$52.76
+ per share on such date.
+
+ 15
+
+Our debt obligations could adversely impact us. For example, these obligations could:
+
+•
+
+require us to use a large portion of our cash flow to pay principal and interest on debt, which will reduce the amount of cash flow available to fund working capital, capital expenditures, acquisitions, R&D expenditures, and other business activities;
+
+•
+
+require us to use cash and/or issue shares of our common stock to settle any conversion obligations of our convertible notes;
+
+•
+
+result in certain of our debt instruments being accelerated to be immediately due and payable or being deemed to be in default if certain terms of default are triggered, such as applicable cross payment default and/or cross-acceleration provisions;
+
+•
+
+adversely impact our credit rating, which could increase future borrowing costs;
+
+•
+
+limit our future ability to raise funds for capital expenditures, strategic acquisitions or business opportunities, R&D, and other general corporate requirements;
+
+•
+
+restrict our ability to incur specified indebtedness, create or incur certain liens, and enter into sale-leaseback financing transactions;
+
+•
+
+increase our vulnerability to adverse economic and semiconductor memory and storage industry conditions;
+
+•
+
+increase our exposure to interest rate risk from variable rate indebtedness;
+
+•
+
+continue to dilute our earnings per share as a result of the conversion provisions in our convertible notes; and
+
+•
+
+require us to continue to pay cash amounts substantially in excess of the principal amounts upon settlement of our convertible notes to minimize dilution of our earnings per share.
+
+Our ability to meet our payment obligations under our debt instruments depends on our ability to generate significant cash flows in the future. This, to some extent, is subject to market, economic, financial, competitive, legislative, and regulatory factors as well as other factors that are beyond our control. There can be no assurance that our business will generate cash flow from operations, or that additional capital will be available to us, in amounts sufficient to enable us to meet our debt payment obligations and to fund other liquidity needs. Additionally, events and circumstances may occur which would cause us to not be able to satisfy applicable draw-down conditions and utilize our revolving credit facility. If we are unable to generate sufficient cash flows to service our debt payment obligations, we may need to refinance or restructure our debt, sell assets, reduce or delay capital investments, or seek to raise additional capital. If we are unable to implement one or more of these alternatives, we may be unable to meet our debt payment obligations, which could have a material adverse effect on our business, results of operations, or financial condition.
+
+We may be unable to protect our intellectual property or retain key employees who are knowledgeable of and develop our intellectual property.
+
+We maintain a system of controls over our intellectual property, including U.S. and foreign patents, trademarks, copyrights, trade secrets, licensing arrangements, confidentiality procedures, non-disclosure agreements with employees, consultants, and vendors, and a general system of internal controls. Despite our system of controls over our intellectual property, it may be possible for our current or future competitors to obtain, copy, use, or disclose, illegally or otherwise, our product and process technology or other proprietary information. The laws of some foreign countries may not protect our intellectual property to the same degree as do U.S. laws and our confidentiality, non-disclosure, and non-compete agreements may be unenforceable or difficult and costly to enforce.
+
+Additionally, our ability to maintain and develop intellectual property is dependent upon our ability to attract, develop, and retain highly skilled employees. Global competition for such skilled employees in our industry is intense. Due to the volatile nature of our industry and our operating results, a decline in our operating results and/or stock price may adversely affect our ability to retain key employees whose compensation is dependent, in part, upon the market price of our common stock, achieving certain performance metrics, levels of company profitability, or other financial or company-wide performance. If our competitors or future entrants into our industry are successful in hiring our employees, they may directly benefit from the knowledge these employees gained while they were under our employment.
+
+Our inability to protect our intellectual property or retain key employees who are knowledgeable of and develop our intellectual property could have a material adverse effect on our business, results of operations, or financial condition.
+
+ 16
+
+Claims that our products or manufacturing processes infringe or otherwise violate the intellectual property rights of others, or failure to obtain or renew license agreements covering such intellectual property, could materially adversely affect our business, results of operations, or financial condition.
+
+As is typical in the semiconductor and other high technology industries, from time to time others have asserted, and may in the future assert, that our products or manufacturing processes infringe upon, misappropriate, misuse, or otherwise violate their intellectual property rights. We are unable to predict the outcome of these assertions made against us. Any of these types of claims, regardless of the merits, could subject us to significant costs to defend or resolve such claims and may consume a substantial portion of management's time and attention. As a result of these claims, we may be required to:
+
+•
+
+pay significant monetary damages, fines, royalties, or penalties;
+
+•
+
+enter into license or settlement agreements covering such intellectual property rights;
+
+•
+
+make material changes to or redesign our products and/or manufacturing processes; and/or
+
+•
+
+cease manufacturing, having made, selling, offering for sale, importing, marketing, or using products and/or manufacturing processes in certain jurisdictions. 
+
+We may not be able to take any of the actions described above on commercially reasonable terms and any of the foregoing results could have a material adverse effect on our business, results of operations, or financial condition. (See "Part II – Item 8. Financial Statements and Supplementary Data – Notes to Consolidated Financial Statements – Contingencies.")
+
+We have a number of intellectual property license agreements. Some of these license agreements require us to make one-time or periodic payments. We may need to obtain additional licenses or renew existing license agreements in the future. We are unable to predict whether these license agreements can be obtained or renewed on terms acceptable to us. The failure to obtain or renew licenses as necessary could have a material adverse effect on our business, results of operations, or financial condition.
+
+We have been served with complaints in Chinese courts alleging patent infringement.
+
+We have been served with complaints in Chinese courts alleging that we infringe certain Chinese patents by manufacturing and selling certain products in China. The complaints seek orders requiring us to destroy inventory of the accused products and equipment for manufacturing the accused products in China, to stop manufacturing, using, selling, and offering for sale the accused products in China, and to pay damages plus court fees.
+
+We are unable to predict the outcome of these assertions of infringement made against us and therefore cannot estimate the range of possible loss. A determination that our products or manufacturing processes infringe the intellectual property rights of others or entering into a license agreement covering such intellectual property could result in significant liability and/or require us to make material changes to our operations in China, products, and/or manufacturing processes. Any of the foregoing could have a material adverse effect on our business, results of operations, or financial condition. (See "Part II – Item 8. Financial Statements and Supplementary Data – Notes to Consolidated Financial Statements – Contingencies.")
+
+Litigation could have a material adverse effect on our business, results of operations, or financial condition.
+
+From time to time we are subject to various legal proceedings and claims that arise out of the ordinary conduct of our business or otherwise, both domestically and internationally. Any claim, with or without merit, could result in significant legal fees that could negatively impact our financial results, disrupt our operations, and require significant attention from our management. We could be subject to litigation or arbitration disputes arising from our relationships with vendors or customers, supply agreements, or contractual obligations with our subcontractors or business partners. We may also be associated with and subject to litigation arising from the actions of our subcontractors or business partners. We may also be subject to litigation as a result of indemnities we issue, primarily with our customers, the terms of our product warranties, and from product liability claims. As we continue to focus on developing system solutions with manufacturers of consumer products, including autonomous driving, augmented reality, and others, we may be exposed to greater potential for personal liability claims against us as a result of consumers' use of those products. There can be no assurance that we are adequately insured to protect against all claims and potential liabilities, and we may elect to self-insure with respect to certain matters. Exposures to various litigation could lead to significant costs and expenses as we defend claims, are required to pay damage awards, or enter into settlement agreements, any of which could have a material adverse effect on our business, results of operations, or financial condition.
+
+ 17
+
+If our manufacturing process is disrupted, our business, results of operations, or financial condition could be materially adversely affected.
+
+We and our subcontractors manufacture products using highly complex processes that require technologically advanced equipment and continuous modification to improve yields and performance. Difficulties in the manufacturing process or the effects from a shift in product mix can reduce yields or disrupt production and may increase our per gigabit manufacturing costs. We and our subcontractors maintain operations and continuously implement new product and process technology at manufacturing facilities, which are widely dispersed in multiple locations in several countries including the United States, Singapore, Taiwan, Japan, Malaysia, and China. Additionally, our control over operations at IMFT is limited by our agreements with Intel. From time to time, there have been disruptions in the manufacturing process as a result of power outages, improperly functioning equipment, disruptions in supply of raw materials or components, equipment failures, earthquakes, or other environmental events. If production is disrupted for any reason, manufacturing yields may be adversely affected or we may be unable to meet our customers' requirements and they may purchase products from other suppliers. This could result in a significant increase in manufacturing costs, loss of revenues, or damage to customer relationships, any of which could have a material adverse effect on our business, results of operations, or financial condition.
+
+Increases in tariffs or other trade restrictions or taxes on our products or equipment and supplies could have an adverse impact on our operations.
+
+In 2018, 
+88%
+ of our sales were to customers located outside the United States. We also purchase a significant portion of equipment and supplies from suppliers outside the United States. Additionally, a significant portion of our facilities are located outside the United States, including Taiwan, Singapore, Japan, and China. The United States and other countries have levied tariffs and taxes on certain goods. General trade tensions between the U.S. and China have been escalating in 2018, with three rounds of U.S. tariffs on Chinese goods taking effect in July, August, and September 2018, each followed by a round of retaliatory Chinese tariffs on U.S. goods. Some of our products are included in these announced tariffs. Higher duties on existing tariffs and further rounds of tariffs have been announced or threatened by U.S. and Chinese leaders. If the U.S. were to impose additional tariffs on components that we or our suppliers source from China, our cost for such components would increase. We may also incur increases in manufacturing costs due to our efforts to mitigate the impact of tariffs on our customers and our operations. Further changes in trade policy, tariffs, additional taxes, restrictions on exports or other trade barriers, or restrictions on supplies, equipment, and raw materials including rare earth minerals, may limit our ability to produce products, increase our selling and/or manufacturing costs, decrease margins, reduce the competitiveness of our products, or inhibit our ability to sell products or purchase necessary equipment and supplies, which could have a material adverse effect on our business, results of operations, or financial conditions.
+
+We must attract, retain, and motivate highly skilled employees.
+
+To remain competitive, we must attract, retain, and motivate executives and other highly skilled employees. Hiring and retaining qualified executives, engineers, technical staff, and sales representatives are critical to our business, and competition for experienced employees in our industry can be intense. Our inability to attract and retain key employees may inhibit our ability to expand our business operations. Additionally, changes to immigration policies in the numerous countries in which we operate, including the United States, may limit our ability to hire and/or retain talent in specific locations. If our total compensation programs and workplace culture cease to be viewed as competitive, our ability to attract, retain, and motivate employees could be weakened, which could have a material adverse effect on our business, results of operations, or financial condition.
+
+The acquisition of our ownership interest in Inotera from Qimonda has been challenged by the administrator of the insolvency proceedings for Qimonda.
+
+On January 20, 2011, Dr. Michael Jaffé, administrator for Qimonda's insolvency proceedings, filed suit against Micron and Micron Semiconductor B.V., our Netherlands subsidiary ("Micron B.V."), in the District Court of Munich, Civil Chamber. The complaint seeks to void, under Section 133 of the German Insolvency Act, a share purchase agreement between Micron B.V. and Qimonda signed in fall 2008, pursuant to which Micron B.V. purchased substantially all of Qimonda's shares of Inotera (the "Inotera Shares"), representing approximately 18% of Inotera's outstanding shares as of 
+August 30, 2018
+, and seeks an order requiring us to re-transfer those shares to the Qimonda estate. The complaint also seeks, among other things, to recover damages for the alleged value of the joint venture relationship with Inotera and to terminate, under Sections 103 or 133 of the German Insolvency Code, a patent cross-license between us and Qimonda entered into at the same time as the share purchase agreement.
+
+ 18
+
+Following a series of hearings with pleadings, arguments, and witnesses on behalf of the Qimonda estate, on March 13, 2014, the court issued judgments: (1) ordering Micron B.V. to pay approximately $1 million in respect of certain Inotera Shares sold in connection with the original share purchase; (2) ordering Micron B.V. to disclose certain information with respect to any Inotera Shares sold by it to third parties; (3) ordering Micron B.V. to disclose the benefits derived by it from ownership of the Inotera Shares, including in particular, any profits distributed on the Inotera Shares and all other benefits; (4) denying Qimonda’s claims against Micron for any damages relating to the joint venture relationship with Inotera; and (5) determining that Qimonda's obligations under the patent cross-license agreement are canceled. In addition, the Court issued interlocutory judgments ordering, among other things: (1) that Micron B.V. transfer to the Qimonda estate the Inotera Shares still owned by Micron B.V. and pay to the Qimonda estate compensation in an amount to be specified for any Inotera Shares sold to third parties; and (2) that Micron B.V. pay the Qimonda estate as compensation an amount to be specified for benefits derived by Micron B.V. from ownership of the Inotera Shares. The interlocutory judgments have no immediate, enforceable effect on us, and, accordingly, we expect to be able to continue to operate with full control of the Inotera Shares subject to further developments in the case. We have filed a notice of appeal, and the parties have submitted briefs to the appeals court.
+
+We are unable to predict the outcome of the matter and, therefore, cannot estimate the range of possible loss. The final resolution of this lawsuit could result in the loss of the Inotera Shares or monetary damages, unspecified damages based on the benefits derived by Micron B.V. from the ownership of the Inotera Shares, and/or the termination of the patent cross-license, which could have a material adverse effect on our business, results of operations, or financial condition.
+
+Breaches of our security systems could expose us to losses.
+
+We maintain a system of controls over the physical security of our facilities. We also manage and store various proprietary information and sensitive or confidential data relating to our operations. In addition, we process, store, and transmit large amounts of data relating to our customers and employees, including sensitive personal information. Unauthorized persons or employees may gain access to our facilities or network systems to steal trade secrets or other proprietary information, compromise confidential information, create system disruptions, or cause shutdowns. These parties may also be able to develop and deploy viruses, worms, and other malicious software programs that disrupt our operations and create security vulnerabilities. Breaches of our physical security and attacks on our network systems could result in significant losses and damage our reputation with customers and suppliers and may expose us to litigation if the confidential information of our customers, suppliers, or employees is compromised, which could have a material adverse effect on our business, results of operations, or financial condition.
+
+Changes in foreign currency exchange rates could materially adversely affect our business, results of operations, or financial condition.
+
+Across our global operations, significant transactions and balances are denominated in currencies other than the U.S. dollar (our reporting currency), primarily the euro, Singapore dollar, New Taiwan dollar, and yen. Although we hedge our primary exposures to changes in currency exchange rates from our monetary assets and liabilities, the effectiveness of these hedges is dependent upon our ability to accurately forecast our monetary assets and liabilities. In addition, a significant portion of our manufacturing costs are denominated in foreign currencies. Exchange rates for some of these currencies against the U.S. dollar, particularly the yen, have been volatile in recent periods. If these currencies strengthen against the U.S. dollar, our manufacturing costs could significantly increase. Exchange rates for the U.S. dollar that adversely change against our foreign currency exposures could have a material adverse effect on our business, results of operations, or financial condition.
+
+We may make future acquisitions and/or alliances, which involve numerous risks.
+
+Acquisitions and the formation or operation of alliances, such as joint ventures and other partnering arrangements, involve numerous risks, including the following:
+
+•
+
+integrating the operations, technologies, and products of acquired or newly formed entities into our operations;
+
+•
+
+increasing capital expenditures to upgrade and maintain facilities;
+
+•
+
+increased debt levels;
+
+•
+
+the assumption of unknown or underestimated liabilities;
+
+•
+
+the use of cash to finance a transaction, which may reduce the availability of cash to fund working capital, capital expenditures, R&D expenditures, and other business activities;
+
+•
+
+diverting management's attention from daily operations;
+
+•
+
+managing larger or more complex operations and facilities and employees in separate and diverse geographic areas; 
+
+•
+
+hiring and retaining key employees;
+
+ 19
+
+•
+
+requirements imposed by governmental authorities in connection with the regulatory review of a transaction, which may include, among other things, divestitures or restrictions on the conduct of our business or the acquired business;
+
+•
+
+inability to realize synergies or other expected benefits;
+
+•
+
+failure to maintain customer, vendor, and other relationships;
+
+•
+
+inadequacy or ineffectiveness of an acquired company's internal financial controls, disclosure controls and procedures, compliance programs, and/or environmental, health and safety, anti-corruption, human resource, or other policies or practices; and
+
+•
+
+impairment of acquired intangible assets, goodwill, or other assets as a result of changing business conditions, technological advancements, or worse-than-expected performance of the acquired business.
+
+In previous years, supply of memory and storage products has significantly exceeded customer demand resulting in significant declines in average selling prices. The global memory and storage industry has experienced consolidation and may continue to consolidate. We engage, from time to time, in discussions regarding potential acquisitions and similar opportunities. To the extent we are successful in completing any such transactions, we could be subject to some or all of the risks described above, including the risks pertaining to funding, assumption of liabilities, integration challenges, and increases in debt that may accompany such transactions. Acquisitions of, or alliances with, technology companies are inherently risky and may not be successful and could have a material adverse effect on our business, results of operations, or financial condition.
+
+Our business, results of operations, or financial condition could be adversely affected by the limited availability and quality of materials, supplies, and capital equipment, or the dependency on third-party service providers.
+
+Our supply chain and operations are dependent on the availability of materials that meet exacting standards and the use of third parties to provide us with components and services. We generally have multiple sources of supply for our raw materials and services. However, only a limited number of suppliers are capable of delivering certain raw materials and services that meet our standards and, in some cases, materials, components, or services are provided by a single supplier. Various factors could reduce the availability of raw materials or components such as chemicals, silicon wafers, gases, photoresist, controllers, substrates, lead frames, printed circuit boards, targets, and reticle glass blanks. Shortages or increases in lead times may occur from time to time in the future. Our manufacturing processes are also dependent on our relationships with third-party manufacturers of controllers used in a number of our products and with outsourced semiconductor assembly and test providers, contract manufacturers, logistic carriers, and other service providers. Certain raw materials are primarily available in certain countries, including rare earth minerals available primarily from China, and trade disputes or other political or economic conditions may limit our availability to obtain such raw materials. We and/or our suppliers and service providers could be affected by tariffs, embargoes or other trade restrictions, as well as laws and regulations enacted in response to concerns regarding climate change, conflict minerals, and responsible sourcing practices, which could limit the supply of our raw materials and/or increase the cost. In addition, disruptions in transportation lines could delay our receipt of raw materials. Lead times for the supply of raw materials have been extended in the past. The disruption of our supply of raw materials, components, services, or the extension of our lead times could have a material adverse effect on our business, results of operations, or financial condition.
+
+Our operations are dependent on our ability to procure advanced semiconductor manufacturing equipment that enables the transition to lower cost manufacturing processes. For certain key types of equipment, including photolithography tools, we are sometimes dependent on a single supplier. From time to time, we have experienced difficulties in obtaining some equipment on a timely basis due to suppliers' limited capacity. Our inability to obtain equipment on a timely basis could adversely affect our ability to transition to next generation manufacturing processes and reduce our costs. Delays in obtaining equipment could also impede our ability to ramp production at new facilities and could increase our overall costs of a ramp. Our inability to obtain advanced semiconductor manufacturing equipment in a timely manner could have a material adverse effect on our business, results of operations, or financial condition.
+
+A downturn in the worldwide economy may harm our business.
+
+Downturns in the worldwide economy have harmed our business in the past and future downturns could also adversely affect our business. Adverse economic conditions affect demand for devices that incorporate our products, such as personal computers, mobile devices, SSDs, and servers. Reduced demand for these products could result in significant decreases in our average selling prices and product sales. A deterioration of current conditions in worldwide credit markets could limit our ability to obtain external financing to fund our operations and capital expenditures. In addition, we may experience losses on our holdings of cash and investments due to failures of financial institutions and other parties. Difficult economic conditions may also result in a higher rate of losses on our accounts receivables due to credit defaults. As a result, a downturn in the worldwide economy could have a material adverse effect on our business, results of operations, or financial condition.
+
+ 20
+
+Our results of operations could be affected by natural disasters and other events in the locations in which we or our customers or suppliers operate. 
+
+We have manufacturing and other operations in locations subject to natural occurrences such as severe weather and geological events, including earthquakes or tsunamis, that could disrupt operations or result in construction delays. In addition, our suppliers and customers also have operations in such locations. A natural disaster, fire, explosion, or other event that results in a prolonged disruption to our operations, or the operations of our customers or suppliers, could have a material adverse effect on our business, results of operations, or financial condition.
+
+Our incentives from various governments are conditional upon achieving or maintaining certain performance obligations and are subject to reduction, termination, or clawback.
+
+We have received, and may in the future continue to receive, benefits and incentives from national, state, and local governments in various regions of the world designed to encourage us to establish, maintain, or increase investment, workforce, or production in those regions. These incentives may take various forms, including grants, loan subsidies, and tax arrangements, and typically require us to perform or maintain certain levels of investment, capital spending, employment, technology deployment, or research and development activities to qualify for such incentives. We cannot guarantee that we will successfully achieve performance obligations required to qualify for these incentives or that the granting agencies will provide such funding. These incentive arrangements typically provide the granting agencies with rights to audit our performance with the terms and obligations. Such audits could result in modifications to, or termination of, the applicable incentive program. The incentives we receive could be subject to reduction, termination, or clawback, and any decrease or clawback of government incentives could have a material adverse effect on our business, results of operations, or financial condition.
+
+A change in tax laws in key jurisdictions could materially increase our tax expense.
+
+We are subject to income taxes in the U.S. and many foreign jurisdictions. Changes to income tax laws and regulations in any of the jurisdictions in which we operate, or in the interpretation of such laws, could significantly increase our effective tax rate and ultimately reduce our cash flow from operating activities and otherwise have a material adverse effect on our financial condition. For example, as a result of the Tax Cuts and Jobs Act (the "Tax Act") enacted on December 22, 2017 by the United States, our effective tax rate may increase to the low teens percentage in 2019, depending on the amount and geographic mix of our taxable income. Additionally, various levels of government are increasingly focused on tax reform and other legislative action to increase tax revenue. Further changes in the tax laws of foreign jurisdictions could arise as a result of the base erosion and profit shifting project undertaken by the Organization for Economic Co-operation and Development, which represents a coalition of member countries and recommended changes to numerous long-standing tax principles. If adopted by countries, such changes, as well as changes in U.S. federal and state tax laws or in taxing jurisdictions' administrative interpretations, decisions, policies, and positions, could have a material adverse effect on our business, results of operations, or financial condition.
+
+We may incur additional tax expense or become subject to additional tax exposure.
+
+We operate in a number of locations outside the United States, including Singapore, where we have tax incentive arrangements that are conditional, in part, upon meeting certain business operations and employment thresholds. Our domestic and international taxes are dependent upon the geographic mix of our earnings among these jurisdictions. Our provision for income taxes and cash tax liabilities in the future could be adversely affected by numerous factors, including challenges by tax authorities to our tax positions and intercompany transfer pricing agreements, failure to meet performance obligations with respect to tax incentive agreements, and changes in tax laws and regulations. Additionally, we file income tax returns with the U.S. federal government, various U.S. states, and various other jurisdictions throughout the world and certain tax returns may remain open to examination for several years. The results of audits and examinations of previously filed tax returns and continuing assessments of our tax exposures may have an adverse effect on our provision for income taxes and cash tax liability. The foregoing items could have a material adverse effect on our business, results of operations, or financial condition.
+
+We may incur additional restructuring charges in future periods.
+
+From time to time, we have, and may in the future, enter into restructure initiatives in order to, among other items, streamline our operations, respond to changes in business conditions, our markets or product offerings, or to centralize certain key functions. We may not realize expected savings or other benefits from our restructure activities and may incur additional restructure charges or other losses in future periods associated with other initiatives. In connection with any restructure initiatives, we could incur restructure charges, loss of production output, loss of key personnel, disruptions in our operations, 
+
+ 21
+
+and difficulties in the timely delivery of products, which could have a material adverse effect on our business, results of operations, or financial condition.
+
+We face risks associated with our international sales and operations that could materially adversely affect our business, results of operations, or financial condition.
+
+A substantial majority of our consolidated net sales are to customers outside the United States. In addition, a substantial portion of our manufacturing operations are located outside the United States. In particular, a significant portion of our manufacturing operations are concentrated in Singapore, Taiwan, Japan, and China. Our international sales and operations are subject to a variety of risks, including:
+
+•
+
+export and import duties, changes to import and export regulations, customs regulations and processes, and restrictions on the transfer of funds;
+
+•
+
+compliance with U.S. and international laws involving international operations, including the Foreign Corrupt Practices Act of 1977, as amended, export and import laws, and similar rules and regulations;
+
+•
+
+theft of intellectual property;
+
+•
+
+political and economic instability;
+
+•
+
+problems with the transportation or delivery of products;
+
+•
+
+issues arising from cultural or language differences and labor unrest;
+
+•
+
+longer payment cycles and greater difficulty in collecting accounts receivable;
+
+•
+
+compliance with trade, technical standards, and other laws in a variety of jurisdictions;
+
+•
+
+contractual and regulatory limitations on the ability to maintain flexibility with staffing levels;
+
+•
+
+disruptions to manufacturing operations as a result of actions imposed by foreign governments;
+
+•
+
+changes in economic policies of foreign governments; and
+
+•
+
+difficulties in staffing and managing international operations.
+
+Many of our customers, suppliers, and vendors operate internationally and are also subject to the foregoing risks. If we or our customers, suppliers, or vendors are impacted by these risks, it could have a material adverse effect on our business, results of operations, or financial condition.
+
+Compliance with customer requirements and regulations regarding the use of conflict minerals could limit the supply and increase the cost of certain metals used in manufacturing our products.
+
+Increased focus on environmental protection and social responsibility initiatives led to the passage of Section 1502 of the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 (the "Dodd-Frank Act") and its implementing SEC regulations. The Dodd-Frank Act imposes supply chain diligence and disclosure requirements for certain manufacturers of products containing specific minerals that may originate in or near the Democratic Republic of the Congo (the "DRC") and finance or benefit local armed groups. These "conflict minerals" are commonly found in materials used in the manufacture of semiconductors. The implementation of these regulations may limit the sourcing and availability of some of these materials. This in turn may affect our ability to obtain materials necessary for the manufacture of our products in sufficient quantities and may affect related material pricing. Some of our customers may elect to disqualify us as a supplier or reduce purchases from us if we are unable to verify that our products are DRC conflict free. In addition, many of our customers have or are planning to adopt responsible sourcing programs with requirements that our broader in terms of minerals and geographies than DRC conflict minerals programs. Our inability to comply with requirements regarding the use of conflict and other minerals could have a material adverse effect on our business, results of operations, or financial condition.
+
+ 22
+
+We and others are subject to a variety of laws and regulations that may result in additional costs and liabilities.
+
+The manufacturing of our products requires the use of facilities, equipment, and materials that are subject to a broad array of laws and regulations in numerous jurisdictions in which we operate. Additionally, we are subject to a variety of other laws and regulations relative to the construction, maintenance, and operations of our facilities. Any of these laws or regulations could cause us to incur additional direct costs, as well as increased indirect costs related to our relationships with our customers and suppliers, and otherwise harm our operations and financial condition. Any failure to comply with these laws or regulations could adversely impact our reputation and our financial results. Additionally, we engage various third parties to represent us or otherwise act on our behalf and we partner with other companies in our joint ventures, all of whom are also subject to a broad array of laws and regulations. Our engagement with these third parties and our ownership in these joint ventures may also expose us to risks associated with their respective compliance with these laws and regulations. As a result of these items, we could experience the following:
+
+•
+
+suspension of production;
+
+•
+
+remediation costs;
+
+•
+
+alteration of our manufacturing processes;
+
+•
+
+regulatory penalties, fines, and legal liabilities; and
+
+•
+
+reputational challenges.
+
+Our failure, or the failure of our third-party agents or joint ventures, to comply with these laws and regulations could have a material adverse effect on our business, results of operations, or financial condition.
+
+We are subject to counterparty default risks. 
+
+We have numerous arrangements with financial institutions that subject us to counterparty default risks, including cash deposits, investments, capped call contracts on our common stock, and derivative instruments. As a result, we are subject to the risk that the counterparty to one or more of these arrangements will default on its performance obligations. A counterparty may not comply with their contractual commitments which could then lead to their defaulting on their obligations with little or no notice to us, which could limit our ability to take action to mitigate our exposure. Additionally, our ability to mitigate our exposures may be constrained by the terms of our contractual arrangements or because market conditions prevent us from taking effective action. If one of our counterparties becomes insolvent or files for bankruptcy, our ability to recover any losses suffered as a result of that counterparty's default may be limited by the liquidity of the counterparty or the applicable laws governing the bankruptcy proceedings. In the event of such default, we could incur significant losses, which could have a material adverse effect on our business, results of operations, or financial condition.
+
+The operations of MMJ are subject to continued oversight by the Tokyo District Court during the pendency of the corporate reorganization proceedings.
+
+Because MMJ's plan of reorganization provides for ongoing payments to creditors following the closing of our acquisition of MMJ, the reorganization proceedings in Japan (the "Japan Proceedings") are continuing and MMJ remains subject to the oversight of the Tokyo District Court and of the trustees (including a trustee designated by us, who we refer to as the business trustee, and a trustee designated by the Tokyo District Court, who we refer to as the legal trustee), pending completion of the reorganization proceedings. The business trustee is responsible for overseeing the operation of the business of MMJ, other than oversight in relation to acts that need to be carried out in connection with the Japan Proceedings, which are the responsibility of the legal trustee. MMJ's reorganization proceedings in Japan, and oversight of the Tokyo District Court, will continue until the final creditor payment is made under MMJ's plan of reorganization, which is scheduled to occur in December 2019, but may occur on a later date to the extent any claims of creditors remain unfixed on the final scheduled installment payment date. MMJ may petition the Tokyo District Court for an early termination of the reorganization proceedings once two-thirds of all payments under the plan of reorganization are made. Although such early terminations are customarily granted, there can be no assurance that the Tokyo District Court will grant any such petition in this particular case.
+
+During the pendency of the reorganization proceedings in Japan, MMJ is obligated to provide periodic financial reports to the Tokyo District Court and may be required to obtain the consent of the Tokyo District Court prior to taking a number of significant actions relating to its businesses, including transferring or disposing of, or acquiring, certain material assets, incurring or guaranteeing material indebtedness, settling material disputes, or entering into certain material agreements. The consent of the legal trustee may also be required for matters that would likely have a material impact on the operations or assets of MMJ or for transfers of material assets, to the extent the matters or transfers would reasonably be expected to materially and adversely affect execution of MMJ's plan of reorganization. Accordingly, during the pendency of the reorganization proceedings in Japan, our ability to operate MMJ as part of our global business or to cause MMJ to take certain actions that we deem 
+
+ 23
+
+advisable for its business could be adversely affected if the Tokyo District Court or the legal trustee is unwilling to consent to various actions that we may wish to take with respect to MMJ.
+
+The operations of MMJ being subject to the continued oversight by the Tokyo District Court during the pendency of the corporate reorganization proceedings could have a material adverse effect on our business, results of operations, or financial condition.

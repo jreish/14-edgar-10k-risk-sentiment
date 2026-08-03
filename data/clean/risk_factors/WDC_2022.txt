@@ -1,0 +1,524 @@
+, of this Annual Report on Form 10-K.
+
+6
+
+Table of Contents
+
+Patents, Licenses and Proprietary Information 
+
+We rely on a combination of patents, trademarks, copyright and trade secret laws, confidentiality procedures and licensing arrangements to protect our IP rights.
+
+We have approximately 13,500 active patents worldwide and have many patent applications in process. We continually seek additional United States (“U.S.”) and international patents on our technology. We believe that, although our active patents and patent applications have considerable value, the successful manufacturing and marketing of our products also depends upon the technical and managerial competence of our staff. Accordingly, the patents held and applied for cannot alone ensure our future success.
+
+In addition to patent protection of certain IP rights, we consider elements of our product designs and processes to be proprietary and confidential. We believe that our non-patented IP, particularly some of our process technology, is an important factor in our success. We rely upon non-disclosure agreements, contractual provisions and a system of internal safeguards to protect our proprietary information. Despite these safeguards, there is a risk that competitors may obtain and use such information. The laws of foreign jurisdictions in which we conduct business may provide less protection for confidential information than the laws of the U.S.
+
+We rely on certain technology that we license from other parties to manufacture and sell our products. We believe that we have adequate cross-licenses and other agreements in place in addition to our own IP portfolio to compete successfully in the storage industry. For a discussion of associated risks, see Part I, Item 1A, 
+Risk Factors
+, of this Annual Report on Form 10‑K.
+
+Manufacturing 
+
+We believe that we have significant know-how, unique product manufacturing processes, test and tooling, execution skills, human resources and training to continue to be successful and to grow our manufacturing operations as necessary. We strive to maintain manufacturing flexibility, high manufacturing yields, reliable products and high-quality components. The critical elements of our production of Flash and HDD are high-volume and utilization, low-cost assembly and testing, strict adherence to quality metrics and maintaining close relationships with our strategic component suppliers to access best-in-class technology and manufacturing capacity. We continually monitor our manufacturing capabilities to respond to the changing requirements of our customers and maintain our competitiveness and position as a data technology leader. 
+
+Flash and HDD manufacturing are complex processes involving the production and assembly of precision components with narrow tolerances and rigorous testing. The manufacturing processes involve a number of steps that are dependent on each other and occur in “clean room” environments that demand skill in process engineering and efficient space utilization to control the operating costs of these manufacturing environments. We continually evaluate our manufacturing processes in an effort to increase productivity, sustain and improve quality and decrease manufacturing costs. For example, we are taking aggressive actions to restructure our client HDD manufacturing footprint in light of ongoing trends in the HDD Client market as PCs shift from using HDD to Flash technology. We continually evaluate which steps in the manufacturing process would benefit from automation and how automated manufacturing processes can improve productivity and reduce manufacturing costs. We also leverage contract manufacturers when strategically advantageous. 
+
+Our vertically integrated, in-house assembly and test operations for our HDD products are concentrated in Prachinburi and Bang Pa-In, Thailand; Penang, Johor Bahru, and Kuching, Malaysia; Laguna, Philippines; Shenzhen, China; San Jose and Fremont, CA, USA.
+
+Ventures with Kioxia
+
+Substantially all of our flash-based supply requirements for Flash is obtained from our ventures with Kioxia, which provide us with leading-edge, high-quality and low-cost flash memory wafers. While substantially all of our flash memory supply utilized for our products is purchased from these ventures, from time-to-time, we also purchase flash memory from other flash manufacturers. While we do not unilaterally control the operations of our ventures with Kioxia, we believe that our business venture relationship with Kioxia helps us reduce product costs, increases our ability to control the quality of our products and speeds delivery of our products to our customers. Our business ventures with Kioxia are located primarily in Yokkaichi and Kitakami, Japan, and our in-house assembly and test operations are located in Shanghai, China and Penang, Malaysia.
+
+7
+
+Table of Contents
+
+We and Kioxia currently operate three business ventures in 300-millimeter flash-based manufacturing facilities in Japan, which provide us leading-edge, cost-competitive flash-based memory wafers for our end products. Through Flash Partners Ltd., Flash Alliance Ltd., and Flash Forward Ltd., which we collectively refer to as Flash Ventures, we and Kioxia collaborate in the development and manufacture of flash-based memory wafers using semiconductor manufacturing equipment owned or leased by each of the Flash Venture entities. We hold a 49.9% ownership position in each of the Flash Venture entities. Each Flash Venture entity purchases wafers from Kioxia at cost and then resells those wafers to us and Kioxia at cost plus a small mark-up. We are obligated to take our share of the output from these ventures or pay for variable costs incurred in producing our share of Flash Ventures’ flash-based memory wafer supply, based on our three-month forecast, which generally equals 50% of Flash Ventures’ output. In addition, we are obligated to pay for half of Flash Ventures’ fixed costs regardless of the output we choose to purchase. We are also obligated to fund 49.9% to 50.0% of each Flash Ventures entity’s capital investments to the extent that the Flash Ventures entity’s operating cash flow is insufficient to fund these investments. We co-develop flash technologies (including process technology and memory design) with Kioxia and contribute IP for Flash Ventures’ use.
+
+The agreements governing the operations of the Flash Venture entities also set out a framework for any investment by the joint venture partners in flash manufacturing capacity. Since its inception, Flash Ventures’ primary manufacturing site has been located in Yokkaichi, Japan. The Yokkaichi site, which is owned and operated by Kioxia, currently includes five wafer fabrication facilities. We have jointly invested, and intend to continue to jointly invest, with Kioxia in manufacturing equipment for the Yokkaichi fabrication facilities. We also have agreements that extend Flash Ventures to a wafer fabrication facility located in Kitakami, Japan, referred to as “K1”, which is operated by Kioxia Iwate Corporation, a wholly owned subsidiary of Kioxia. The primary purpose of K1 is to provide clean room space to continue the transition of existing flash-based wafer capacity to newer technology nodes. K1 is now fully operational. In January 2022, we entered into additional agreements regarding Flash Ventures’ investment in a new wafer fabrication facility currently under construction in Yokkaichi, Japan, referred to as “Y7”, which upon completion will be the sixth wafer fabrication facility at the Yokkaichi site. The primary purpose of Y7 is to provide clean room space to continue the transition of existing flash-based wafer capacity to newer flash technology nodes. The first phase of construction of Y7 is complete and output is expected to commence in the first half of 2023.
+
+For a discussion of risks associated with our business ventures with Kioxia, see Part I, Item 1A, 
+Risk Factors
+, of this Annual Report on Form 10-K.
+
+Materials and Supplies 
+
+Our Flash consists of flash-based memory, controllers and firmware and other components. Substantially all of our flash-based memory is supplied by our business ventures with Kioxia. Controllers are primarily designed in-house and manufactured by third-party foundries or acquired from third-party suppliers. We believe the use of our in-house assembly and test facilities, as well as contract manufacturers, provides flexibility and gives us access to increased production capacity. We have developed deep relationships with these vendors and Kioxia to establish continuous supply of flash-based memory and controllers.
+
+HDD consists primarily of recording heads, magnetic media, controllers and firmware, and a printed circuit board assembly. We design and manufacture substantially all of the recording heads and magnetic media required for our products. As a result, we are more dependent upon our own development and execution efforts for these components and less reliant on recording head and magnetic media technologies developed by other manufacturers. We depend on an external supply base for all remaining components and materials for use in our HDD product design, manufacturing, and testing. We believe the use of our in-house manufacturing, assembly and test facilities provides the controls necessary to provide the demanding capabilities, performance and reliability our customers require.
+
+We generally retain multiple suppliers for our component requirements but, for business or technology reasons, we source some of our components from a limited number of sole or single source providers. For a discussion of associated risks, see Part I, Item 1A, 
+Risk Factors
+, of this Annual Report on Form 10-K.
+
+Sales and Distribution 
+
+We sell our products to computer manufacturers and OEMs, cloud service providers, resellers, distributors and retailers throughout the world. We maintain sales offices in selected parts of the world including the major geographies of the Americas, Asia Pacific, Europe and the Middle East. Our international sales, which include sales to foreign subsidiaries of U.S. companies but do not include sales to U.S. subsidiaries of foreign companies, represented 
+71%,
+ 78% and 72% of our net revenue for 2022, 2021 and 2020, respectively. Sales to international customers are subject to certain risks not normally encountered in domestic operations, including exposure to tariffs and various trade regulations. For a discussion of associated risks, see Part I, Item 1A, 
+Risk Factors
+, of this Annual Report on Form 10-K.
+
+8
+
+Table of Contents
+
+We perform our marketing and advertising functions internally and through outside firms utilizing both consumer media and trade publications targeting various reseller and end-user markets. We also maintain customer relationships through direct communication and by providing information and support through our website. In accordance with standard storage industry practice, we provide distributors and retailers with limited price protection and programs under which we reimburse certain marketing expenditures. We also provide distributors, resellers and OEMs with other sales incentive programs. 
+
+For each of 2022, 2021 and 2020, 
+no single customer
+ accounted for 10% or more of our net revenue.
+
+Seasonality
+
+We have historically experienced seasonal fluctuations in our business with higher levels of demand in the first and second quarters as a result of increased customer spending. Seasonality can also be impacted by the growth in emerging markets and macroeconomic conditions. For a discussion of associated risks, see Part I, Item 1A, 
+Risk Factors
+, of this Annual Report on Form 10-K.
+
+Service and Warranty 
+
+We generally warrant our newly manufactured products against defects in materials and workmanship from one to five years from the date of sale depending on the type of product, with a small number of products having a warranty ranging up to ten years or more. Our warranty obligation is generally limited to repair or replacement. We have engaged third parties in various countries in multiple regions to provide various levels of testing, processing, or recertification of returned products for our customers. For additional information regarding our service and warranty policy, see Part II, Item 8, Note 1, 
+Organization and Basis of Presentation,
+ and Note 5, 
+Supplemental Financial Statement Data, 
+of the Notes to Consolidated Financial Statements included in this Annual Report on Form 10-K.
+
+Human Capital Management
+
+We have been on a journey to transform the Company and redefine the data storage market. Our employees are paramount to our success. To this end, our people strategy is grounded in the intention to hire, engage and retain the best talent to support our vision of creating breakthrough innovation that enables the world to actualize its aspirations. In 2022, we hired a new Chief People Officer to help accelerate the transformation of our human resources function to be more people-centric and to drive better outcomes for the business. We employ approximately 65,000 people worldwide, and our diverse team spans 38 countries. By geography, approximately 86% of our employees are in Asia Pacific, 12% in the Americas, and 2% in Europe, the Middle East and Africa. 
+
+Diversity, Equity and Inclusion
+
+We want to leverage the power and potential of diversity. We are committed to promoting an inclusive environment where every individual can thrive through a sense of belonging, respect and contribution. 
+
+Our Employee Resource Groups (“ERGs”) help create an inclusive culture that embraces the uniqueness of our employees. We have several ERG communities, focusing on women, LGBTQ+, racial and ethnic minorities, military and people with disabilities. In 2022, we were once again recognized by Human Rights Campaign Best Places to Work for LGBTQ+ Equality 2022. We also received the Above and Beyond Award and the Pro Patria Award from the Employer Support of the Guard and Reserve for our support of employees who serve in the U.S. National Guard and Reserve. 
+
+We are committed to hiring inclusively, providing training and development opportunities and ensuring equitable pay for employees, and we are continuing to focus on increasing diverse representation at every level of our company. As of July 1, 2022, four of the nine members of our Board of Directors were women, and women represented 26% of our management positions and 23% of our technical staff. Additionally, members of Asian, Black/African American, Hispanic/Latinx or other racially or ethnically diverse communities, represented 60% of our U.S. management positions. We believe that developing a diverse talent pool of new college graduates is essential, and we saw percentage point increases of 2.5 for women, 1.4 for Hispanic/Latinx and 1.0 for multiracial representation among our new college graduates in 2022. For additional detail about our workforce, we encourage you to review our Sustainability Report, which we publish annually and make available on our corporate website. Nothing on our website shall be deemed incorporated by reference into this Annual Report on Form 10-K.
+
+In 2022, we launched a self-identification initiative that invited employees to share more about who they are across dimensions of gender, gender identity, veterans and disabilities. Participation was optional, data was protected and the results were anonymized. We believe an in-depth understanding of our employee population will enable us to better engage and retain our talent.
+
+9
+
+Table of Contents
+
+Compensation and Benefits
+
+We believe in the importance of investing in our people, and we do that through a robust Total Rewards program. We benchmark our compensation and benefits programs annually using market data from reputable third-party consultants. We also conduct internal focus groups and employee surveys to inform programs and identify opportunities.
+
+We promote a strong pay-for-performance culture and offer employees competitive compensation consisting of base salary and both short-term and long-term incentives. In the last year, we also implemented a global recognition program to celebrate the contributions of employees who bring our core values and cultural attributes to life. 
+
+To ensure that our pay practices are fair and equitable, we conduct an annual pay equity assessment to ensure that men and women receive equal pay for equal work. As part of this review, we analyze current pay which takes into consideration various, non-discriminatory factors, such as seniority, experience, skills, performance, location, track and hiring and promotion dates. We use the results to make pay adjustments as needed. We are expanding our analysis of 2022 pay equity to cover 100% of our employee population globally. 
+
+We also believe in creating an environment that allows our employees to prioritize their health and well-being. We provide competitive benefits, including health coverage, life and disability insurance, retirement, paid time off, an employee assistance program and an employee stock purchase plan. In response to employee input in 2022, we expanded benefit access for our employees to caregivers and enhanced behavioral health benefits for dependent children in the U.S.; enhanced medical coverage in our larger countries; and offered flexible benefits in India.
+
+Talent Attraction, Development and Engagement
+
+Foundational to our people strategy is the attraction, development and engagement of our employees. We need a workforce that is as unique and diverse as our customer base, and it starts with talent attraction. To increase the talent level of our diverse candidate pools, we adopted a skills-based philosophy that screens and hires employees based on capabilities and potential, and we plan to continue the implementation of these practices in 2023. In the last year, we conducted an anonymous hiring pilot to identify and remove any potential for bias from our hiring process and broaden our diverse talent pool and tested technology to make sure that job descriptions utilize inclusive language. We also deliver unconscious bias training to leaders equipping them to lead inclusively and identify unconscious bias.
+
+Developing our talent is key to helping us reach our business goals and retaining our people. We foster an environment of continuous learning through initiatives like our annual Career Month with virtual events, on-demand learning and resources to help employees create a Career Success Statement and Development Map so that they can chart their career journey and track their progress. We are investing in leadership development through our flagship program Leader Essentials to help people at all levels cultivate skills such as effective communication, creating an inclusive culture and building effective relationships. We also continue to develop the next generation of talent with our New College Grad program.
+
+Ongoing engagement is a keystone to our people strategy. We believe that listening is crucial to identifying opportunities to strengthen employee engagement as well as influencing our overall strategy. In 2022, we had an overall employee survey participation rate of 90%. Key strengths that employees identified were that they felt that their work was meaningful, they are excited about our future, and they would recommend their manager to others. We also engage employees by taking actions to promote and ground them in our core values and beliefs as a company, so that we are conducting business in an ethical way. As a result of this focus, in 2022, we were named one of the World’s Most Ethical Companies by Ethisphere Institute for the fourth consecutive year. Our employees also regularly engage in a wide range of hands-on volunteering and matching campaigns that support the communities in which they work and live.
+
+Health and Safety
+
+We are committed to creating a safe work environment everywhere we operate. We provide extensive health and safety resources and training to all of our employees, especially for those who work in our manufacturing and operations. We use an integrated management system to manage health and safety standards at our manufacturing facilities.
+
+Furthermore, in response to the ongoing COVID-19 pandemic, we continue to practice our global resiliency plans, which have allowed us to maintain 24/7 operations. At each global Western Digital site, we have local, cross-functional teams responsible for our efforts to meet or exceed local COVID regulations, including providing real-time data to leaders, implementing changes to our physical workplaces and providing robust employee and family benefits to those impacted by COVID. We have welcomed employees who transitioned to working from home during the pandemic back to the office and have offered a flexible hybrid work model for certain employees.
+
+10
+
+Table of Contents
+
+Government Regulation 
+
+Our worldwide business activities are subject to various laws, rules, and regulations of the United States as well as of foreign governments. Compliance with these laws, rules, and regulations has not had a material effect upon our capital expenditures, results of operations, or competitive position. Nevertheless, compliance with existing or future governmental regulations, including, but not limited to, those pertaining to global trade, the environment, consumer and data protection, employee health and safety, and taxes, could have a material impact on our business in subsequent periods. See Part I, Item 1A, 
+Risk Factors
+ for a discussion of these potential impacts.
+
+Corporate Responsibility and Sustainability 
+
+We believe responsible and sustainable business practices support our long-term success. As a company, we are deeply committed to protecting and supporting our people, our environment, and our communities. That commitment is reflected through sustainability-focused initiatives as well as day-to-day activities, including our adoption of sustainability-focused policies and procedures, our publicly-recognized focus on fostering an inclusive workplace, our constant drive toward more efficient use of materials and energy, our careful and active management of our supply chain, our community-focused volunteerism programs and philanthropic initiatives, and our impactful, globally-integrated ethics and compliance program.
+
+•
+We seek to protect the human rights and civil liberties of our employees through policies, procedures, and programs that avoid risks of compulsory and child labor, both within our company and throughout our supply chain.
+
+•
+We foster a workplace of dignity, respect, diversity, and inclusion through our recruiting and advancement practices, internal communications, and employee resource groups.
+
+•
+We educate our employees annually on relevant ethics and compliance topics, publish accessible guidance on ethical issues and related company resources in our Global Code of Conduct, and encourage reporting of ethical concerns through any of several global and local reporting channels.
+
+•
+We support local communities throughout the world, focusing on hunger relief, environmental quality, and STEM (science, technology, engineering, and math) education, especially for underrepresented and underprivileged youth.
+
+•
+We utilize a robust integrated management system, with associated policies and procedures, to evaluate and manage occupational health and safety risks, environmental compliance, and chemical and hazardous substance risks.
+
+•
+We work to minimize our impacts on the environment through emissions reduction targets and other initiatives and to evaluate and enhance our climate resiliency.
+
+•
+We innovate to reduce the energy used by our products, the energy used to manufacture them, and the amount of new materials required to manufacture them.
+
+Available Information 
+
+We maintain an Internet website at 
+www.westerndigital.com
+. The information on our website is not incorporated in this Annual Report on Form 10-K. Our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to reports filed or furnished pursuant to Sections 13(a) and 15(d) of the Securities Exchange Act of 1934, as amended, are available on our website at 
+www.westerndigital.com
+, free of charge, as soon as reasonably practicable after the electronic filing of these reports with, or furnishing of these reports to, the Securities and Exchange Commission (“SEC”). The SEC maintains a website at 
+www.sec.gov
+ that contains reports, proxy and information statements and other information regarding issuers that file electronically with the SEC, including us.
+
+
+
+Our business can be affected by a number of risks and uncertainties, which could cause material harm to our actual operating results and financial condition. The risks discussed below are not the only ones facing our business but represent risks that we believe are material to us. Additional risks not presently known to us or that we currently deem immaterial may also negatively affect our business.
+
+11
+
+Table of Contents
+
+OPERATIONAL RISKS
+
+ Adverse global or regional conditions could harm our business.
+
+A large portion of our revenue is derived from our international operations, and many of our products and components are produced overseas. As a result, our business depends significantly on global and regional conditions. Adverse changes in global or regional economic conditions, including, but not limited to, volatility in the financial markets, tighter credit, recession, inflation, rising interest rates, slower growth in certain geographic regions, political uncertainty, geopolitical tensions or conflicts, other macroeconomic factors, changes to social conditions and regulations, could significantly harm demand for our products, increase credit and collectability risks, result in revenue reductions, reduce profitability as a result of underutilization of our assets, cause us to change our business practices, increase manufacturing and operating costs or result in impairment charges or other expenses.
+
+Our revenue growth is significantly dependent on the growth of international markets, and we may face challenges in international sales markets. We are subject to risks associated with our global manufacturing operations and global sales efforts, as well as risks associated with our utilization of contract manufacturers, including:
+
+•
+obtaining governmental approvals and compliance with evolving foreign regulations;
+
+•
+the need to comply with regulations on international business, including the Foreign Corrupt Practices Act, the United Kingdom Bribery Act 2010, the anti-bribery laws of other countries and rules regarding conflict minerals;
+
+•
+exchange, currency and tax controls and reallocations;
+
+•
+weaker protection of IP rights; 
+
+•
+trade restrictions, such as export controls, export bans, import restrictions, embargoes, sanctions, license and certification requirements (including semiconductor, encryption and other technology), tariffs and complex customs regulations; and
+
+•
+difficulties in managing international operations, including appropriate internal controls.
+
+As a result of these risks, our business could be harmed. 
+
+ Public health crises, including the COVID-19 pandemic, have had, and could in the future have, a negative effect on our business.
+
+The COVID-19 pandemic has impacted and may continue to impact our workforce and operations, and those of our strategic partners, customers, suppliers and logistics providers. These impacts include under-absorbed overhead, increased logistics, component and other costs, decreased demand for our products and manufacturing challenges. While our manufacturing facilities and those used by Flash Ventures are all currently operational, we have experienced and may experience in the future temporary closures of certain manufacturing facilities related to the pandemic. Future outbreaks of infectious disease or other public health crises may have a similar impact.
+
+The effects of such health crises, including the COVID-19 pandemic, are uncertain and difficult to predict, but may include:
+
+•
+Disruptions to our supply chain, our operations or those of our strategic partners, customers or suppliers caused by employees or others contracting infectious diseases, or governmental orders to contain the spread of infectious disease, such as travel restrictions, quarantines, shelter in place orders, trade controls and business shut-downs;
+
+•
+Deterioration of worldwide credit markets that may limit our ability or increase our cost to obtain external financing to fund our operations and capital expenditures and result in a higher rate of losses on our accounts receivables due to customer credit defaults;
+
+•
+Extreme volatility in financial markets, which may harm our ability to access the financial markets on acceptable terms; 
+
+12
+
+Table of Contents
+
+•
+Increased data security and technology risk as some employees continue to work from home, including possible outages to systems and technologies critical to remote work and increased data privacy risk with cybercriminals attempting to take advantage of the disruption; and
+
+•
+Reduced productivity or other disruptions of our operations if workers in our factories or our other worksites are exposed to or spread infectious diseases to other employees.
+
+The degree to which the COVID-19 pandemic or future public health crises ultimately impact our business will depend on many factors beyond our control, which are highly uncertain and cannot be predicted at this time. 
+
+ We are dependent on a limited number of qualified suppliers who provide critical services, materials or components, and a disruption in our supply chain could negatively affect our business.
+
+We depend on an external supply base for technologies, software (including firmware), preamps, controllers, dynamic random-access memory, components, equipment and materials for use in our product design and manufacturing. We also depend on suppliers for a portion of our wafer testing, chip assembly, product assembly and product testing, and on service suppliers for providing technical support for our products. In addition, we use logistics partners to manage our worldwide just-in-time hubs and distribution centers and to meet our freight needs. Many of the components and much of the equipment we acquire must be specifically designed for use in our products or for developing and manufacturing our products, and are only available from a limited number of suppliers, some of whom are our sole-source suppliers. We therefore depend on these suppliers to meet our business needs including dedicating adequate engineering resources to develop components that can be successfully integrated into our products. 
+
+Our suppliers have in the past been, and may in the future be, unable or unwilling to meet our requirements, including as a result of events outside of their control such as trade restrictions (including tariffs, quotas and embargoes), geopolitical conflicts, public health emergencies, or natural disasters. If we are unable to purchase sufficient quantities from our current suppliers or qualify and engage additional suppliers, or if we cannot purchase materials at a reasonable price, we may not be able to meet demand for our products. Trade restrictions, including tariffs, quotas and embargoes, demand from other high-volume industries for materials or components used in our products, disruptions in supplier relationships or shortages in other components and materials used in our customers’ products could result in increased costs to us or decreased demand for our products, which could negatively impact our business. Delays, shortages or cost increases experienced by our suppliers in developing or sourcing materials and components for use in our products or incompatibility or quality issues relating to our products, could also harm our business. 
+
+We do not have long-term contracts with some of our existing suppliers, nor do we always have guaranteed manufacturing capacity with our suppliers, so we cannot guarantee that they will devote sufficient resources or capacity to manufacturing our products. Any significant problems that occur at our suppliers could lead to product shortages or quality assurance problems. When we do have contractual commitments with suppliers in an effort to stabilize the supply of our components, those commitments may require us to buy a substantial number of components or make significant cash advances to the supplier and may not result in a satisfactory supply of our components.
+
+In addition, our supply base has experienced industry consolidation. Our suppliers may be acquired by our competitors, decide to exit the industry, or redirect their investments and increase costs to us. In addition, some of our suppliers have experienced a decline in financial performance. Where we rely on a limited number of suppliers or a single supplier, the risk of supplier loss due to industry consolidation or a decline in financial performance is increased. Some of our suppliers may also be competitors in other areas of our business, which could lead to difficulties in price negotiations or meeting our supply requirements. 
+
+ Our operations, and those of certain of our suppliers and customers, are subject to substantial risk of damage or disruption.
+
+We conduct our operations at large, high-volume, purpose-built facilities in California and throughout Asia. The facilities of many of our customers, our suppliers and our customers’ suppliers are also concentrated in certain geographic locations throughout Asia and elsewhere. If a fire (including a climate change-related fire), flood, earthquake, tsunami or other natural disaster, condition or event such as a power outage, contamination event, terrorist attack, cybersecurity incident, physical security breach, political instability, civil unrest, localized labor unrest or other employment issues, or a health epidemic negatively affects any of these facilities, it would significantly affect our ability to manufacture or sell our products and source components and harm our business. Possible impacts include work and equipment stoppages and damage to or closure of our 
+
+13
+
+Table of Contents
+
+facilities, or those of our suppliers or customers, for an indefinite period of time. Climate change has in the past and is expected to continue to increase the incidence and severity of certain natural disasters. In addition, the geographic concentration of our manufacturing sites could exacerbate the negative impacts resulting from any of these problems. 
+
+We may incur losses beyond the limits of, or outside the scope of, the coverage of our insurance policies. There can be no assurance that in the future we will be able to maintain existing insurance coverage or that premiums will not increase substantially. Due to market availability, pricing or other reasons, we may elect not to purchase insurance coverage or to purchase only limited coverage. We maintain limited insurance coverage and, in some cases, no coverage at all, for natural disasters and damage to our facilities, as these types of insurance are sometimes not available or available only at a prohibitive cost. Climate change may reduce the availability and/or increase the cost of certain types of insurance by contributing to an increase in the incidence and severity of certain natural disasters. We depend upon Kioxia to obtain and maintain sufficient property, business interruption and other insurance for Flash Ventures. If Kioxia fails to do so, we could suffer significant unreimbursable losses, and such failure could also cause Flash Ventures to breach various financing covenants.
+
+ The loss of our key management, staff and skilled employees, the inability to hire and integrate new employees or decisions to realign our business could negatively impact our business prospects.
+
+Our success depends upon the continued contributions of our key management, staff and skilled employees, many of whom would be extremely difficult to replace. Changes in our key management team can result in loss of continuity, loss of accumulated knowledge, departure of other key employees, disruptions to our operations and inefficiency during transitional periods. Global competition for skilled employees in the technology industry is intense, and our business success becomes increasingly dependent on our ability to retain our key staff and skilled employees, to implement succession plans for our key management and staff, to attract, integrate and retain new skilled employees. Additionally, uncertainty about the structure and organization of our business as a result of our ongoing strategic review could negatively impact our ability to recruit and retain key staff and skilled employees. Changes in immigration policies may also impair our ability to recruit and hire technical and professional talent. 
+
+Our employee hiring and retention also depend on our ability to build and maintain a diverse and inclusive workplace culture and be viewed as an employer of choice. Additionally, because a substantial portion of our key employees’ compensation is placed “at risk” and linked to the performance of our business, including through equity compensation, when our operating results are negatively impacted, we may be at a competitive disadvantage for retaining and hiring key management, staff and skilled employees. If we are unable to hire and retain key management, staff or skilled employees, our operating results would likely be harmed.
+
+ If our technology infrastructure, systems or products are compromised, damaged or interrupted by cyber attacks, data security breaches, other security problems, design defects or sustain system failures, our business could be negatively impacted.
+
+We experience cyber attacks of varying degrees on our technology infrastructure and systems and, as a result, unauthorized parties have obtained in the past, and may obtain in the future, access to our computer systems and networks, including cloud-based platforms. The technology infrastructure and systems of some of our suppliers, vendors, service providers, cloud solution providers and partners have in the past experienced, and may in the future experience, such attacks. Cyber attacks can include ransomware, computer denial-of-service attacks, worms, and other malicious software programs or other attacks, and covert introduction of malware to computers and networks, including those using techniques that change frequently or may be disguised or difficult to detect, or designed to remain dormant until a triggering event or that may continue undetected for an extended period of time. Cyber attacks may also include impersonation of authorized users, efforts to discover and exploit any design flaws, bugs, security vulnerabilities or security weaknesses, intentional or unintentional acts by employees or other insiders with access privileges, intentional acts of vandalism or fraud by third parties and sabotage. In some instances, efforts to correct vulnerabilities or prevent attacks may reduce the performance of our computer systems and networks, which could negatively impact our business. We believe cyber attack attempts are increasing in number and that cyber attackers are increasingly organized and well-financed or supported by state actors, and are developing increasingly sophisticated systems and means to not only attack systems, but also to evade detection or to obscure their activities. Geopolitical tensions or conflicts may create heightened risk of cyber attacks.
+
+Our products are also targets for cyber attacks, including those products utilized in cloud-based environments as well as our cloud service offerings. While some of our products contain encryption or security algorithms to protect third-party content or user-generated data stored on our products, these products could still be hacked or the encryption schemes could be compromised, breached, or circumvented by motivated and sophisticated attackers. Further, our products contain sophisticated 
+
+14
+
+Table of Contents
+
+hardware and operating system software and applications that may contain security problems, security vulnerabilities, or defects in design or manufacture, including “bugs” and other problems that could interfere with the intended operation of our products. To the extent our products are hacked or the encryption schemes are compromised or breached, this could harm our business by requiring us to employ additional resources to fix the errors or defects, exposing us to litigation and indemnification claims and hurting our reputation.
+
+If efforts to breach our infrastructure, systems or products are successful or we are unable to protect against these risks, we could suffer interruptions, delays, or cessation of operations of our systems, and loss or misuse of proprietary or confidential information, IP, or sensitive or personal information. Breaches of our infrastructure, systems or products could also cause our customers and other affected third parties to suffer loss or misuse of proprietary or confidential information, IP, or sensitive or personal information, and could harm our relationships with customers and other third parties. As a result of actual or perceived breaches, we could experience additional costs, notification requirements, civil and administrative fines and penalties, indemnification claims, litigation, and damage to our brand and reputation. All of these consequences could harm our reputation and our business and materially and negatively impact our operating results and financial condition.
+
+ We are subject to risks related to product defects, which could result in product recalls or epidemic failures and could subject us to warranty claims in excess of our warranty provisions or which are greater than anticipated, litigation or indemnification claims.
+
+We warrant the majority of our products for periods of one to five years. We test our products in our manufacturing facilities through a variety of means. However, our testing may fail to reveal defects in our products that may not become apparent until after the products have been sold into the market. In addition, our products may be used in a manner that is not intended or anticipated by us, resulting in potential liability. Accordingly, there is a risk that product defects will occur, including as a result of third-party components or applications that we incorporate in our products, which could require a product recall. Product recalls can be expensive to implement. As part of a product recall, we may be required or choose to replace the defective product. Moreover, there is a risk that product defects may trigger an epidemic failure clause in a customer agreement. If an epidemic failure occurs, we may be required to replace or refund the value of the defective product and to cover certain other costs associated with the consequences of the epidemic failure. In addition, product defects, product recalls or epidemic failures may cause damage to our reputation or customer relationships, lost revenue, indemnification for a recall of our customers’ products, warranty claims, litigation or loss of market share with our customers, including our OEM and ODM customers. Our business liability insurance may be inadequate or future coverage may be unavailable on acceptable terms, which could negatively impact our operating results and financial condition.
+
+Our standard warranties contain limits on damages and exclusions of liability for consequential damages and for misuse, improper installation, alteration, accident or mishandling while in the possession of someone other than us. We record an accrual for estimated warranty costs at the time revenue is recognized. We may incur additional expenses if our warranty provisions do not reflect the actual cost of resolving issues related to defects in our products, whether as a result of a product recall, epidemic failure or otherwise. If these additional expenses are significant, they could harm our business.
+
+BUSINESS AND STRATEGIC RISKS
+
+ Our review of potential strategic alternatives may not result in an executed or consummated transaction or other strategic alternative, and the process of reviewing strategic alternatives or its conclusion could adversely affect our business and our stockholders.
+
+In June 2022, we announced that we are reviewing potential strategic alternatives aimed at further optimizing long-term value for our stockholders. The potential strategic alternatives include, among other things, the option to separate our Flash and HDD business units. In conjunction with that review process, the Company announced that it had entered into a letter agreement with Elliott Investment Management L.P. (“Elliott”), which had disclosed in May 2022 a $1 billion investment in our Company and called for a full strategic review of our business. We are actively working with financial advisors and the Company’s legal counsel in this strategic review process.
+
+Any potential transaction or other strategic alternative would be dependent on a number of factors that may be beyond our control, including, among other things, market conditions, industry trends, regulatory approvals, and the availability of financing for a potential transaction on reasonable terms. The process of reviewing potential strategic alternatives may be time consuming, distracting and disruptive to our business operations, which may cause concern to our current or potential customers, employees, investors, strategic partners and other constituencies and may have a material impact on our business and operating results and/or result in increased volatility in our share price. We have and will continue to incur substantial 
+
+15
+
+Table of Contents
+
+expenses associated with identifying, evaluating and negotiating potential strategic alternatives. There can be no assurance that any potential transaction or other strategic alternative, if consummated, will provide greater value to our stockholders than that reflected in the current price of our common stock. Until the review process is concluded, perceived uncertainties related to our future may result in the loss of potential business opportunities and volatility in the market price of our common stock and may make it more difficult for us to attract and retain qualified personnel and business partners. Similarly, other activist investors may engage in proxy solicitations or advance shareholder proposals, or otherwise attempt to affect changes and assert influence on our Board and management, which could lead to the impacts on our business, board, management and employees discussed above.
+
+ We rely substantially on strategic relationships with various partners, including Kioxia, which subjects us to risks and uncertainties that could harm our business.
+
+We have entered into and expect to continue to enter into strategic relationships with various partners for product development, manufacturing, sales growth and the supply of technologies, components, equipment and materials for use in our product design and manufacturing, including our business ventures with Kioxia. We depend on Flash Ventures for the development and manufacture of flash-based memory. Our strategic relationships, including Flash Ventures, are subject to various risks that could harm the value of our investments, our revenue and costs, our future rate of spending, our technology plans and our future growth opportunities.
+
+Substantially all of our flash-based memory is supplied by Flash Ventures, which limits our ability to respond to market demand and supply changes and makes our financial results particularly susceptible to variations from our forecasts and expectations. A failure to accurately forecast supply and demand could cause us to over-invest or under-invest in technology transitions or the expansion of Flash Ventures’ capacity. Over-investment by us or our competitors could result in excess supply, which could cause significant decreases in our product prices, significant excess, obsolete inventory or inventory write-downs or under-utilization charges, and the potential impairment of our investments in Flash Ventures. We are contractually obligated to pay for 50% of the fixed costs of Flash Ventures regardless of whether we order any flash-based memory, and our orders placed with Flash Ventures on a three-month rolling basis are binding. On the other hand, if we under-invest in Flash Ventures, or otherwise grow or transition Flash Ventures’ capacity too slowly, we may not have enough supply of flash-based memory, or the right type of flash-based memory, to meet demand on a timely and cost effective basis, and we may lose opportunities for revenue, gross margin and market share as a result. If our supply is limited, we might make strategic decisions with respect to the allocation of our supply among our products and customers, which could result in less favorable gross margins or damage customer relationships. 
+
+Our control over the operations of our business ventures may be limited, and our interests could diverge from our strategic partners’ interests regarding ongoing and future activities. For example, under the Flash Ventures agreements, we cannot unilaterally direct most of Flash Ventures’ activities, and we have limited ability to source or fabricate flash outside of Flash Ventures. Flash Ventures requires significant investments by both Kioxia and us for technology transitions and capacity expansions, and our business could be harmed if our technology roadmap and investment plans are not sufficiently aligned with Kioxia’s. Lack of alignment with Kioxia with respect to Flash Ventures could negatively impact our ability to stay at the forefront of technological advancement. Misalignment could arise due to changes in Kioxia’s strategic priorities, management, ownership and/or access to capital, which have changed in recent years and could continue to change. Kioxia’s stakeholders may include, or have included in the past, competitors, customers, a private equity firm, government entities and/or public stockholders. Kioxia’s management changes, ownership and capital structure could lead to delays in decision-making, disputes or changes in strategic direction that could negatively impact the strategic partnership, and therefore us. There may exist conflicts of interest between Kioxia’s stakeholders and Flash Ventures or us with respect to, among other things, protecting and growing Flash Ventures’ business, IP and competitively sensitive confidential information.
+
+Together with Kioxia, we fund a portion of the investments required for Flash Ventures through lease financings. Continued availability of lease financings for Flash Ventures is not guaranteed and could be limited by several factors, including our and/or Kioxia’s financial performance and changes to our and/or Kioxia’s business, ownership or corporate structure. To the extent that lease financings are not accessible on favorable terms or at all, more cash would be required to fund investments. 
+
+Our strategic relationships are subject to additional risks that could harm our business, including, but not limited to, the following:
+
+•
+failure by our strategic partners to comply with applicable laws; 
+
+16
+
+Table of Contents
+
+•
+difficulties and delays in product and technology development at, ramping production at, and transferring technology to, our strategic partners;
+
+•
+failure by our strategic partners to timely fund capital investments with us or otherwise meet their commitments, including paying amounts owed to us or third parties when due;
+
+•
+we may lose the rights to, or ability to independently manufacture, certain technology or products being developed or manufactured by strategic partners, including if any of them is acquired by another company, files for bankruptcy or experiences financial or other losses;
+
+•
+a bankruptcy event involving a strategic partner could result in structural changes to and/or termination of the strategic partnership; and
+
+•
+changes in tax or regulatory requirements may necessitate changes to the agreements governing our strategic partnerships.
+
+ We participate in a highly competitive industry that is subject to declining average selling prices (“ASPs”), volatile demand, rapid technological change and industry consolidation, as well as lengthy product qualifications, all of which could negatively impact our business.
+
+Demand for our devices, software and solutions, which we refer to in this Item 1A as our “products”, depends in large part on the demand for systems manufactured by our customers and on storage upgrades to existing systems. The demand for systems has been volatile in the past and often has had an exaggerated effect on the demand for our products in any given period. The prices of our products are influenced by, among other factors, the balance between supply and demand in the storage market, including the effects of new fab capacity, macroeconomic factors, business conditions, technology transitions and other actions taken by us or our competitors. The storage market has experienced volatile product life cycles, which can harm our ability to recover the cost of product development, and periods of excess capacity, which can lead to liquidation of excess inventories, significant reductions in ASPs and negative impacts on our revenue and gross margins. 
+
+Further, our ASPs and gross margins tend to decline when there is a shift in the mix of product sales to lower priced products. Further, we face potential gross margin pressures resulting from our ASPs declining more rapidly than our cost of revenue. Rapid technological changes often reduce the volume and profitability of sales of existing products and increase the risk of inventory obsolescence. Finally, the data storage industry has experienced consolidation over the past several years, which could enhance the resources and lower the cost structure of some competitors. These factors could result in a substantial decrease in our market share and harm our business.
+
+As we compete in new product areas, the overall complexity of our business may increase and may result in increases in R&D expenses and substantial investments in manufacturing capability, technology enhancements and go-to-market capability. We must also qualify our products with customers through potentially lengthy testing processes with uncertain results. Some of our competitors offer products that we do not offer, which may allow them to win sales from us, and some of our customers may be developing storage solutions internally, which may reduce their demand for our products. We expect that competition will continue to be intense, and our competitors may be able to gain a product offering or cost structure advantage over us, which would harm our business. Further, our competitors may utilize pricing strategies, including offering products at prices at or below cost, that we may be unable to competitively match. We may also have difficulty effectively competing with manufacturers benefiting from governmental investments and may be subject to increased complexity and reduced efficiency in our supply chain as a result of governmental efforts to promote domestic semiconductor industries in various jurisdictions.
+
+ If we do not properly manage technology transitions and product development and introduction, our competitiveness and operating results may be negatively affected.
+
+The markets for our products continuously undergo technology transitions that we must anticipate to adapt our existing products or develop new products effectively. If we fail to implement new technologies or develop new products desired by our customers quickly and cost-effectively, our business may be harmed.
+
+In addition, the success of our technology transitions and product development depends on a number of other factors, including:
+
+•
+R&D expenses and results;
+
+17
+
+Table of Contents
+
+•
+difficulties faced in manufacturing ramp;
+
+•
+market acceptance/qualification;
+
+•
+effective management of inventory levels in line with anticipated product demand;
+
+•
+the vertical integration of some of our products, which may result in more capital expenditures and greater fixed costs than if we were not vertically integrated;
+
+•
+our ability to cost effectively respond to customer requests for new products or features (including requests for more efficient and efficiently-produced products with reduced environmental impacts) and software associated with our products;
+
+•
+our ability to increase our software development capability; and
+
+•
+the effectiveness of our go-to-market capability in selling new products.
+
+Moving to new technologies and products may require us to align to, and build, a new supply base. Our success in new product areas may depend on our ability to enter into favorable supply agreements. In addition, if our customers choose to delay transition to new technologies, if demand for the products that we develop is lower than expected or if the supporting technologies to implement these new technologies are not available, we may be unable to achieve the cost structure required to support our profit objectives or may be unable to grow or maintain our market position.
+
+Additionally, new products could substitute for our current products and make them obsolete. We also develop products to meet certain industry and technical standards, which may change and cause us to incur substantial costs as we adapt to new standards or invest in different manufacturing processes to remain competitive.
+
+ We experience sales seasonality and cyclicality, which could cause our operating results to fluctuate. In addition, accurately forecasting demand has become more difficult, which could harm our business.
+
+Sales of many of our products tend to be seasonal and subject to supply-demand cycles. Changes in seasonal and cyclical supply and demand patterns have made it, and could continue to make it, more difficult for us to forecast demand. Changes in the product or channel mix of our business can also impact seasonal and cyclical patterns. For example, we often ship a high percentage of our total quarterly sales in the third month of the quarter, which makes it difficult for us to forecast our financial results before the end of each quarter. As a result of the above or other factors, our forecast of financial results for a given quarter may differ materially from our actual financial results.
+
+The variety and volume of products we manufacture are based in part on accurately forecasting market and customer demand for our products. Accurately forecasting demand has also become increasingly difficult for us, our customers and our suppliers due to volatility in global economic conditions, end market dynamics and industry consolidation, resulting in less availability of historical market data for certain product segments. Further, for many of our OEM customers utilizing just-in-time inventory, we do not generally require firm order commitments and instead receive a periodic forecast of requirements, which may prove to be inaccurate. In addition, because our products are designed to be largely interchangeable with competitors’ products, our demand forecasts may be impacted significantly by the strategic actions of our competitors. As forecasting demand becomes more difficult, the risk that our forecasts are not in line with demand increases. If our forecasts exceed actual market demand, we could experience periods of product oversupply, excess inventory, and price decreases, which could impact our sales, ASPs and gross margin, thereby negatively affecting our operating results and our financial condition. If market demand increases significantly beyond our forecasts or beyond our ability to add manufacturing capacity, then we may not be able to satisfy customer product needs, possibly resulting in a loss of market share if our competitors are able to meet customer demands. In addition, some of our components have long lead-times, requiring us to place orders several months in advance of anticipated demand. Such long lead-times increase the risk of excess inventory or loss of sales in the event our forecasts vary substantially from actual demand.
+
+ Failure to successfully execute on strategic initiatives including acquisitions, divestitures or cost saving measures may negatively impact our future results.
+
+We have made and expect to continue to make acquisitions and divestitures, and engage in cost saving measures. Acquisitions of, investment opportunities in, or other significant transactions with companies that are complementary to our business are a key part of our overall business strategy. In order to pursue this part of our growth strategy successfully, we must 
+
+18
+
+Table of Contents
+
+continue to identify attractive acquisition or investment opportunities, successfully complete the transactions, some of which may be large and complex, and manage post-closing issues such as integration of the acquired company or employees and integration of processes and systems. We may not be able to continue to identify or complete appealing acquisition or investment opportunities given the intense competition for these transactions. Even if we identify and complete suitable corporate transactions, we may not be able to successfully address any integration challenges in a timely manner, or at all. There have been and may continue to be difficulties with implementing new systems and processes or with integrating systems and processes of companies with complex operations, which can result in inconsistencies in standards, controls, procedures and policies and may increase the risk that our internal controls are found to be ineffective. 
+
+Failing to successfully integrate or realign our business to take advantage of efficiencies or reduce redundancies of an acquisition may result in not realizing all or any of the anticipated benefits of the acquisition. In addition, failing to achieve the financial model projections for an acquisition or changes in technology development and related roadmaps following an acquisition may result in the incurrence of impairment charges and other expenses, both of which could negatively impact our results of operations or financial condition. Acquisitions and investments may also result in the issuance of equity securities that may be dilutive to our stockholders as well as earn-out or other contingent consideration payments and the issuance of additional indebtedness that would put additional pressure on liquidity. Furthermore, we may agree to provide continuing service obligations or enter into other agreements in order to obtain certain regulatory approvals of our corporate transactions, and failure to satisfy these additional obligations could result in our failing to obtain regulatory approvals or the imposition of additional obligations on us, any of which could negatively affect our business. In addition, new legislation or additional regulations may affect or impair our ability to invest with or in certain other countries or require us to obtain regulatory approvals to do so, including investments in joint ventures, minority investments and outbound technology transfers to certain countries.
+
+Cost saving measures, restructurings and divestitures may result in workforce reduction and consolidation of our manufacturing or other facilities. As a result of these actions, we may experience a loss of continuity, loss of accumulated knowledge, disruptions to our operations and inefficiency during transitional periods. These actions could also impact employee retention. In addition, we cannot be sure that these actions will be as successful in reducing our overall expenses as we expect, that additional costs will not offset any such reductions or consolidations or that we do not forego future business opportunities as a result of these actions. 
+
+ Loss of revenue from a key customer, or consolidation among our customer base, could harm our operating results.
+
+Historically, nearly one half of our total revenue came from sales to our top 10 customers. These customers have a variety of suppliers to choose from and therefore can make substantial demands on us, including demands on product pricing and on contractual terms, often resulting in the allocation of risk to us as the supplier. Our ability to maintain strong relationships with our principal customers is essential to our future performance. We have experienced and may in the future experience events such as the loss of a key customer, prohibition or restriction of sales to a key customer by law, regulation or other government action, reductions in sales to or orders by a key customer, customer requirements to reduce our prices before we are able to reduce costs or the acquisition of a key customer by one of our competitors. These events have impacted, and may in the future impact, our operating results and financial condition. Further, government authorities may implement laws or regulations or take other actions that could result in significant changes to the business or operating models of our customers. Such changes could negatively impact our operating results. 
+
+Additionally, if there is consolidation among our customer base, our customers may be able to command increased leverage in negotiating prices and other terms of sale, which could negatively impact our profitability. Consolidation among our customer base may also lead to reduced demand for our products, increased customer pressure on our prices, replacement of our products by the combined entity with those of our competitors and cancellations of orders, each of which could harm our operating results.
+
+Also, the storage ecosystem is constantly evolving, and our traditional customer base is changing. Fewer companies now hold greater market share for certain applications and services, such as cloud storage and computing platforms, mobile, social media, shopping and streaming media. As a result, the competitive landscape is changing, giving these companies increased leverage in negotiating prices and other terms of sale, which could negatively impact our profitability. In addition, the changes in our evolving customer base create new selling and distribution patterns to which we must adapt. To remain competitive, we must respond to these changes by ensuring we have proper scale in this evolving market, as well as offer products that meet the technological requirements of this customer base at competitive pricing points. To the extent we are not successful in adequately responding to these changes, our operating results and financial condition could be harmed.
+
+19
+
+Table of Contents
+
+ Sales in the distribution channel and to the retail market are important to our business, and if we fail to respond to demand changes within these markets, or maintain and grow our applicable market share, our business could suffer.
+
+Our distribution customers typically sell to small computer manufacturers, dealers, systems integrators and other resellers. We face significant competition in this channel as a result of limited product qualification programs and a significant focus on price and availability of product. As a result of the shift to mobile devices, more computing devices are being delivered to the market as complete systems, which could weaken the distribution market. If we fail to respond to changes in demand in the distribution market, our business could suffer. Additionally, if the distribution market weakens as a result of technology transitions or a significant change in consumer buying preference, or if we experience significant price declines due to demand changes in the distribution channel, our operating results would be negatively impacted. Negative changes in the creditworthiness or the ability to access credit, or the bankruptcy or shutdown of any of our significant retail or distribution partners would harm our revenue and our ability to collect outstanding receivable balances.
+
+A significant portion of our sales is also made through retailers. Our success in the retail market depends in large part on our ability to maintain our brand image and corporate reputation and to expand into and gain market acceptance of our products in multiple retail market channels. Particularly in the retail market, negative publicity, whether or not justified, or allegations of product or service quality issues, even if false or unfounded, could damage our reputation and cause our customers to choose products offered by our competitors. Further, changes to the retail environment, such as store closures caused by macroeconomic conditions or changing customer preferences, may reduce the demand for our products. If customers no longer maintain a preference for our product brands or if our retailers are not successful in selling our products, our operating results may be negatively impacted.
+
+FINANCIAL RISKS
+
+ Our level of debt may negatively impact our liquidity, restrict our operations and ability to respond to business opportunities, and increase our vulnerability to adverse economic and industry conditions.
+
+We utilize debt financing in our capital structure and may incur additional debt, including under our revolving credit facility, subject to customary conditions in our loan agreement. Our level of debt could have significant consequences, which include, but are not limited to, the following:
+
+•
+limiting our ability to obtain additional financing for working capital, capital expenditures, acquisitions or other general corporate purposes;
+
+•
+requiring a substantial portion of our cash flows to be dedicated to debt service payments instead of other purposes;
+
+•
+imposing financial and other restrictive covenants on our operations, including limiting our ability to (i) consolidate or merge with or into, or sell all or substantially all of our assets to, another person; (ii) enter into sale/leaseback transactions; (iii) incur additional indebtedness and (iv) incur liens and
+
+•
+making us more vulnerable to economic downturns and limiting our ability to withstand competitive pressures or take advantage of new opportunities to grow our business.
+
+Our ability to meet our debt service obligations, comply with our debt covenants and deleverage depends on our cash flows and financial performance, which are affected by financial, business, economic and other factors. The rate at which we will be able to or choose to deleverage is uncertain. Failure to meet our debt service obligations or comply with our debt covenants could result in an event of default under the applicable indebtedness. We may be unable to cure, or obtain a waiver of, an event of default or otherwise amend our debt agreements to prevent an event of default thereunder on terms acceptable to us or at all. In that event, the debt holders could accelerate the related debt, which may result in the cross-acceleration or cross-default of other debt, leases or other obligations. We may not have sufficient funds available to repay accelerated indebtedness, and we may be required to refinance all or part of our debt, sell important strategic assets at unfavorable prices, incur additional indebtedness or issue common stock or other equity securities, which we may be unable to do on terms acceptable to us, in amounts sufficient to meet our needs or at all. Our inability to service our debt obligations or refinance our debt could harm our business. Refinancing our indebtedness may also require us to expense previous debt issuance costs or to incur new debt issuance costs.
+
+As our bank debt contains a variable interest rate component based on our corporate credit ratings, a decline in our ratings could result in increased interest rates and debt service obligations. In addition, our ratings impact the cost and availability of future borrowings and, accordingly, our cost of capital. Our ratings reflect the opinions of the ratings agencies as to our 
+
+20
+
+Table of Contents
+
+financial strength, operating performance and ability to meet our debt obligations. There can be no assurance that we will achieve a particular rating or maintain a particular rating in the future.
+
+We also guarantee a significant amount of lease obligations of Flash Ventures owed to third parties. Flash Ventures sells to and leases back a portion of its equipment from a consortium of financial institutions. Most of the lease obligations are guaranteed 50% by us and 50% by Kioxia. Some of the lease obligations are guaranteed in full by us. The leases are subject to customary covenants and cancellation events that relate to Flash Ventures and each of the guarantors. If a cancellation event were to occur, Flash Ventures would be required to negotiate a resolution with the other parties to the lease transactions to avoid cancellation and acceleration of the lease obligations. Such resolution could include, among other things, supplementary security to be supplied by us, increased interest rates or waiver fees. If a resolution is not reached, we may be required to pay all of the outstanding lease obligations covered by our guarantees, which would significantly reduce our cash position and may force us to seek additional financing, which may not be available on terms acceptable to us, if at all.
+
+We may from time to time seek to further refinance our substantial indebtedness by issuing additional shares of common stock or other securities that are convertible into common stock or grant the holder the right to purchase common stock, each of which may dilute our existing stockholders, reduce the value of our common stock, or both.
+
+ Tax matters may materially affect our financial position and results of operations.
+
+Changes in tax laws in the United States, the European Union and around the globe have impacted and will continue to impact our effective worldwide tax rate, which may materially affect our financial position and results of operations. Further, organizations such as the Organization for Economic Cooperation and Development, have published action plans that, if adopted by countries where we do business, could increase our tax obligations in these countries. Due to the large scale of our U.S. and international business activities, many of these enacted and proposed changes to the taxation of our activities, including cash movements, could increase our worldwide effective tax rate and harm our business. Beginning in our fiscal year 2023, the Tax Cuts and Jobs Act of 2017 eliminates the option to deduct research and development expenditures in the year incurred, requiring amortization in accordance with IRC Section 174. If this requirement is not repealed or otherwise modified, it will materially increase our effective tax rate and reduce our operating cash flows. Additionally, portions of our operations are subject to a reduced tax rate or are free of tax under various tax holidays that expire in whole or in part from time to time, or may be terminated if certain conditions are not met. Although many of these holidays may be extended when certain conditions are met, we may not be able to meet such conditions. If the tax holidays are not extended, or if we fail to satisfy the conditions of the reduced tax rate, then our effective tax rate could increase in the future.
+
+Our determination of our tax liability in the U.S. and other jurisdictions is subject to review by applicable domestic and foreign tax authorities. For example, as disclosed in Part I, Item 1, Note 14, Income Tax Expense, of the Notes to Consolidated Financial Statements included in this Annual Report on Form 10-K, we are under examination by the Internal Revenue Service for certain fiscal years. Although we believe our tax positions are properly supported, the final timing and resolution of any tax examinations are subject to significant uncertainty and could result in litigation or the payment of significant amounts to the applicable tax authority in order to resolve examination of our tax positions, which could result in an increase or decrease of our current estimate of unrecognized tax benefits and may harm our business.
+
+ Fluctuations in currency exchange rates as a result of our international operations may negatively affect our operating results. 
+
+Because we manufacture and sell our products abroad, our revenue, cost of revenue, margins, operating costs and cash flows are impacted by fluctuations in foreign currency exchange rates. If the U.S. dollar exhibits sustained weakness against most foreign currencies, the U.S. dollar equivalents of unhedged manufacturing costs could increase because a significant portion of our production costs are foreign-currency denominated. Conversely, there would not be an offsetting impact to revenues since revenues are substantially U.S. dollar denominated. Additionally, we negotiate and procure some of our component requirements in U.S. dollars from non-U.S. based vendors. If the U.S. dollar weakens against other foreign currencies, some of our component suppliers may increase the price they charge for their components in order to maintain an equivalent profit margin. In addition, our purchases of flash-based memory from Flash Ventures and our investment in Flash Ventures are denominated in Japanese yen. If the Japanese yen appreciates against the U.S. dollar, our cost of purchasing flash-based memory wafers and the cost to us of future capital funding of Flash Ventures would increase. When such events occur, they have had, and may in the future have, a negative impact on our business.
+
+Prices for our products are substantially U.S. dollar denominated, even when sold to customers that are located outside the U.S. Therefore, as a substantial portion of our sales are from countries outside the U.S., fluctuations in currency exchanges 
+
+21
+
+Table of Contents
+
+rates, most notably the strengthening of the U.S. dollar against other foreign currencies, contribute to variations in sales of products in impacted jurisdictions and could negatively impact demand and revenue growth. In addition, currency variations can adversely affect margins on sales of our products in countries outside the U.S.
+
+We attempt to manage the impact of foreign currency exchange rate changes by, among other things, entering into short-term foreign exchange contracts. However, these contracts may not cover our full exposure, and can be canceled by the counterparty if currency controls are put in place. Thus, our decisions and hedging strategy with respect to currency risks may not be successful and may actually harm our operating results. Further, the ability to enter into foreign exchange contracts with financial institutions is based upon our available credit from such institutions and compliance with covenants and other restrictions. Operating losses, third party downgrades of our credit rating or instability in the worldwide financial markets could impact our ability to effectively manage our foreign currency exchange rate risk. Hedging also exposes us to the credit risk of our counterparty financial institutions.
+
+ Increases in our customers’ credit risk could result in credit losses and term extensions under existing contracts with customers with credit losses could result in an increase in our operating costs.
+
+Some of our OEM customers have adopted a subcontractor model that requires us to contract directly with companies, such as ODMs, that provide manufacturing and fulfillment services to our OEM customers. Because these subcontractors are generally not as well capitalized as our direct OEM customers, this subcontractor model exposes us to increased credit risks. Our agreements with our OEM customers may not permit us to increase our product prices to alleviate this increased credit risk. Additionally, as we attempt to expand our OEM and distribution channel sales into emerging economies, the customers with the most success in these regions may have relatively short operating histories, making it more difficult for us to accurately assess the associated credit risks. Our customers’ credit risk may also be exacerbated by an economic downturn or other adverse global or regional economic conditions. Any credit losses we may suffer as a result of these increased risks, or as a result of credit losses from any significant customer, especially in situations where there are term extensions under existing contracts with such customers, would increase our operating costs, which may negatively impact our operating results.
+
+LEGAL AND COMPLIANCE RISKS
+
+ We are subject to laws, rules, and regulations relating to the collection, use, sharing, and security of data, including personal data, and our failure to comply with these laws, rules and regulations could subject us to proceedings by governmental entities or others and cause us to incur penalties, significant legal liability, or loss of customers, loss of revenue, and reputational harm.
+
+We are subject to laws, rules, and regulations relating to the collection, use, and security and privacy of third-party data including data that relates to or identifies an individual person. In many cases, these laws apply not only to third-party transactions, but also to transfers of information between us and our subsidiaries, and among us, our subsidiaries and other parties with which we have commercial relations. Our possession and use of third-party data, including personal data and employee data in conducting our business, subjects us to legal and regulatory burdens that require us to notify vendors, customers or employees or other parties with which we have commercial relations of a data security breach and to respond to regulatory inquiries and to enforcement proceedings. Laws and regulations relating to the collection, use, security and privacy of third-party data change over time and new laws and regulations become effective from time to time. We are subject to notice and privacy policy requirements, as well as obligations to respond to requests to know and access personal information, correct personal information, delete personal information and say no to the sale of personal information. Global privacy and data protection legislation, enforcement, and policy activity in this area are rapidly expanding and evolving, and may be inconsistent from jurisdiction to jurisdiction. We may also be subject to restrictions on cross-border data transfers and requirements for localized storage of data that could increase our compliance costs and risks and affect the ability of our global operations to coordinate activities and respond to customers. Compliance requirements and even our inadvertent failure to comply with applicable laws may cause us to incur substantial costs, subject us to proceedings by governmental entities or others, and cause us to incur penalties or other significant legal liability, or lead us to change our business practices.
+
+22
+
+Table of Contents
+
+ We are subject to state, federal and international legal and regulatory requirements, such as environmental, labor, health and safety, trade and public-company reporting and disclosure regulations, customers’ standards of corporate citizenship, and industry and coalition standards, such as those established by the Responsible Business Alliance (“RBA”), and compliance with those regulations and requirements could cause an increase in our operating costs and failure to comply may harm our business.
+
+We are subject to, and may become subject to additional, state, federal and international laws and regulations governing our environmental, labor, trade, health and safety practices and public-company reporting and disclosures requirements. These laws and regulations, particularly those applicable to our international operations, are or may be complex, extensive and subject to change. We will need to ensure that we and our suppliers, customers and partners timely comply with such laws and regulations, which may result in an increase in our operating costs. Legislation has been, and may in the future be, enacted in locations where we manufacture or sell our products, which could impair our ability to conduct business in certain jurisdictions or with certain customers and harm our operating results. In addition, climate change and financial reform legislation is a significant topic of discussion and has generated and may continue to generate federal, international or other regulatory responses in the near future, which could substantially increase the complexity of our public-company reporting and disclosure requirements and our compliance and operating costs. If we or our suppliers, customers or partners fail to timely comply with applicable legislation, certain customers may refuse to purchase our products or we may face increased operating costs as a result of taxes, fines or penalties, or legal liability and reputational damage, which could harm our business.
+
+In connection with our compliance with environmental laws and regulations, as well as our compliance with industry and coalition environmental initiatives, such as those established by the RBA, the standards of business conduct required by some of our customers, and our commitment to sound corporate citizenship in all aspects of our business, we could incur substantial compliance and operating costs and be subject to disruptions to our operations and logistics. In addition, if we or our suppliers, customers or partners were found to be in violation of these laws or noncompliant with these initiatives or standards of conduct, we could be subject to governmental fines, liability to our customers and damage to our reputation and corporate brand, which could cause our financial condition and operating results to suffer.
+
+W
+e and certain of our officers are at times involved in litigation, investigations and governmental proceedings, which may be costly, may divert the efforts of our key personnel and could result in adverse court rulings, fines or penalties, which could materially harm our business.
+
+From time to time, we are involved in litigation, including antitrust and commercial matters, putative securities class action suits and other actions. We are the plaintiff in some of these actions and the defendant in others. Some of the actions seek injunctive relief, including injunctions against the sale of our products, and substantial monetary damages, which if granted or awarded, could materially harm our business. From time to time, we may also be the subject of inquiries, requests for information, investigations and actions by government and regulatory agencies regarding our businesses. Any such matters could result in material adverse consequences to our results of operations, financial condition or ability to conduct our business, including fines, penalties or restrictions on our business activities.
+
+Litigation is subject to inherent risks and uncertainties that may cause actual results to differ materially from our expectations. In the event of an adverse outcome in any litigation, investigation or governmental proceeding, we could be required to pay substantial damages, fines or penalties and cease certain practices or activities, including the manufacture, use and sale of products. With or without merit, such matters can be complex, can extend for a protracted period of time, can be very expensive and the expense can be unpredictable. Litigation initiated by us could also result in counter-claims against us, which could increase the costs associated with the litigation and result in our payment of damages or other judgments against us. In addition, litigation, investigations or governmental proceedings and any related publicity may divert the efforts and attention of some of our key personnel, affect demand for our products and harm the market prices of our securities.
+
+We may be obligated to indemnify our current or former directors or employees, or former directors or employees of companies that we have acquired, in connection with litigation, investigations or governmental proceedings. These liabilities could be substantial and may include, among other things: the costs of defending lawsuits against these individuals; the cost of defending shareholder derivative suits; the cost of governmental, law enforcement or regulatory investigations or proceedings; civil or criminal fines and penalties; legal and other expenses; and expenses associated with the remedial measures, if any, which may be imposed.
+
+23
+
+Table of Contents
+
+ The nature of our industry and its reliance on IP and other proprietary information subjects us and our suppliers, customers and partners to the risk of significant litigation.
+
+The data storage industry has been characterized by significant litigation. This includes litigation relating to patent and other IP rights, product liability claims and other types of litigation. We have historically been involved in frequent disputes regarding patent and other IP rights, and we have in the past received, and we may in the future receive, communications from third parties asserting that certain of our products, processes or technologies infringe upon their patent rights, copyrights, trademark rights or other IP rights. We may also receive claims of potential infringement if we attempt to license IP to others. IP risks increase when we enter into new markets where we have little or no IP protection as a defense against litigation. The complexity of the technology involved and the uncertainty of IP litigation increase the IP risks we face. Litigation can be expensive, lengthy and disruptive to normal business operations. Moreover, the results of litigation are inherently uncertain and may result in adverse rulings or decisions. We may be subject to injunctions, enter into settlements or be subject to judgments that may harm our business.
+
+If we incorporate third-party technology into our products or if claims or actions are asserted against us for alleged infringement of the IP of others, we may be required to obtain a license or cross-license, modify our existing technology or design a new non-infringing technology. Such licenses or design modifications can be extremely costly. We evaluate notices of alleged patent infringement and notices of patents from patent holders that we receive from time to time. We may decide to settle a claim or action against us, which settlement could be costly. We may also be liable for any past infringement. If there is an adverse ruling against us in an infringement lawsuit, an injunction could be issued barring production or sale of any infringing product. It could also result in a damage award equal to a reasonable royalty or lost profits or, if there is a finding of willful infringement, treble damages. Any of these results would increase our costs and harm our operating results. In addition, our suppliers, customers and partners are subject to similar risks of litigation, and a material, adverse ruling against a supplier, customer or partner could negatively impact our business.
+
+Moreover, from time to time, we agree to indemnify certain of our suppliers and customers for alleged IP infringement. The scope of such indemnity varies but may include indemnification for direct and consequential damages and expenses, including attorneys’ fees. We may be engaged in litigation as a result of these indemnification obligations. Third party claims for patent infringement are excluded from coverage under our insurance policies. A future obligation to indemnify our customers or suppliers may harm our business.
+
+ Our reliance on IP and other proprietary information subjects us to the risk that these key components of our business could be copied by competitors.
+
+Our success depends, in significant part, on the proprietary nature of our technology, including non-patentable IP such as our process technology. We primarily rely on patent, copyright, trademark and trade secret laws, as well as nondisclosure agreements and other methods, to protect our proprietary technologies and processes. There can be no assurance that our existing patents will continue to be held valid, if challenged, or that they will have sufficient scope or strength to protect us. It is also possible that competitors or other unauthorized third parties may obtain, copy, use or disclose, illegally or otherwise, our proprietary technologies and processes, despite our efforts to protect our proprietary technologies and processes. If a competitor is able to reproduce or otherwise capitalize on our technology despite the safeguards we have in place, it may be difficult, expensive or impossible for us to obtain necessary legal protection. There are entities whom we believe may infringe our IP. Enforcement of our rights often requires litigation. If we bring a patent infringement action and are not successful, our competitors would be able to use similar technology to compete with us. Moreover, the defendant in such an action may successfully countersue us for infringement of their patents or assert a counterclaim that our patents are invalid or unenforceable. Also, the laws of some foreign countries may not protect our IP to the same extent as do U.S. laws. In addition to patent protection of IP rights, we consider elements of our product designs and processes to be proprietary and confidential. We rely upon employee, consultant and vendor non-disclosure agreements and contractual provisions and a system of internal safeguards to protect our proprietary information. However, any of our registered or unregistered IP rights may be challenged or exploited by others in the industry, which could harm our operating results.
+
+The success of our branded products depends in part on the positive image that consumers have of our brands. We believe the popularity of our brands makes them a target of counterfeiting or imitation, with third parties attempting to pass off counterfeit products as our products. Any occurrence of counterfeiting, imitation or confusion with our brands could negatively affect our reputation and impair the value of our brands, which in turn could negatively impact sales of our branded products, our share and our gross margin, as well as increase our administrative costs related to brand protection and counterfeit detection and prosecution.
+
+24
+
+Table of Contents
+
+ The exclusive forum provisions in our Bylaws could limit our stockholders' ability to bring a claim in a judicial forum that it finds favorable for disputes with the Company or its directors, officers or other employees.
+
+Our Bylaws provide that, unless the Company consents in writing to the selection of an alternative forum, the Court of Chancery of the State of Delaware is the sole and exclusive forum for (i) any derivative action or proceeding brought on behalf of the Company, (ii) any action or proceeding asserting a claim of breach of a fiduciary duty owed by any current or former director, officer or other employee of the Company or its stockholders, (iii) any action or proceeding asserting a claim arising pursuant to any provision of the Delaware General Corporation Law or the Company’s Certificate of Incorporation or Bylaws, or (iv) any action or proceeding asserting a claim governed by the internal affairs doctrine (the “Delaware Exclusive Forum Provision”). Our Bylaws further provide that the federal district courts of the United States of America will, to the fullest extent permitted by law, be the exclusive forum for resolving any complaint asserting a cause of action under the Securities Act of 1933, as amended (the “Federal Forum Provision”). 
+
+The Delaware Exclusive Forum Provision is intended to apply to claims arising under Delaware state law and would not apply to claims brought pursuant to the Exchange Act or the Securities Act, or any other claim for which the federal courts have exclusive jurisdiction. In addition, the Federal Forum Provision is intended to apply to claims arising under the Securities Act and would not apply to claims brought pursuant to the Exchange Act. The exclusive forum provisions in the Company’s Bylaws will not relieve us of our duties to comply with the federal securities laws and the rules and regulations thereunder and, accordingly, actions by our stockholders to enforce any duty or liability created by the Exchange Act or the rules and regulations thereunder must be brought in federal courts. Our stockholders will not be deemed to have waived our compliance with these laws, rules and regulations. 
+
+The exclusive forum provisions in the Company’s Bylaws may limit a stockholder’s ability to bring a claim in a judicial forum of its choosing for disputes with the company or its directors, officers or other employees, which may discourage lawsuits against the Company and its directors, officers and other employees. In addition, stockholders who do bring a claim in the Court of Chancery of the State of Delaware pursuant to the Delaware Exclusive Forum Provision could face additional litigation costs in pursuing any such claim, particularly if they do not reside in or near Delaware. The court in the designated forum under our exclusive forum provisions may also reach different judgments or results than would other courts, including courts where a stockholder would otherwise choose to bring the action, and such judgments or results may be more favorable to the Company than to our stockholders. Further, the enforceability of similar exclusive forum provisions in other companies’ organizational documents has been challenged in legal proceedings, and it is possible that a court could find any of our exclusive forum provisions to be inapplicable to, or unenforceable in respect of, one or more of the specified types of actions or proceedings. If a court were to find all or any part of our exclusive forum provisions to be inapplicable or unenforceable in an action, we might incur additional costs associated with resolving such action in other jurisdictions.

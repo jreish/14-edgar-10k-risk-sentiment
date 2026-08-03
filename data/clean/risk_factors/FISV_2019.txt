@@ -1,0 +1,325 @@
+You should carefully consider each of the risks described below, together with all of the other information contained in this Annual Report on Form 10-K, before making an investment decision with respect to our securities. If any of the following risks develop into actual events, our business, results of operations or financial condition could be materially and adversely affected and you may lose all or part of your investment.
+
+Risks Relating to Our Existing Business
+
+We operate in a competitive business environment and may not be able to compete effectively.
+
+The markets for our services are highly competitive from new and existing competitors. Our principal competitors include other vendors of financial services technology, data processing affiliates of large companies, and processing centers owned and operated as user cooperatives. Our competitors vary in size and in the scope and breadth of the services they offer. Many of our larger existing and potential clients have historically developed their key applications in-house. As a result, we often compete against our existing or potential clients’ in-house capabilities. We expect that the markets in which we compete will continue to attract new well-funded competitors and new technologies, including large technology, media and other companies not historically in the financial services industry, start-ups and international providers of similar products and services to ours. We cannot provide any assurance that we will be able to compete successfully against current or future competitors or that competitive pressures faced by us in the markets in which we operate will not materially and adversely affect our business, results of operations and financial condition.
+
+If we fail to adapt our products and services to changes in technology or in the marketplace, or if our ongoing efforts to upgrade our technology are not successful, we could lose clients or have trouble attracting new clients, and our ability to grow may be limited.
+
+The markets for our products and services are characterized by constant technological changes, frequent introductions of new products and services, and increasing client expectations. Our ability to enhance our current products and services and to develop and introduce innovative products and services that address the increasingly sophisticated needs of our clients and their customers will significantly affect our future success. We may not be successful in developing, marketing or selling new products and services that meet these demands or achieve market acceptance. In addition, the success of certain of our products and services rely, in part, on financial institutions, billers and other third parties to promote the use of our products and services by their customers. If we are unsuccessful in offering products or services that gain market acceptance, or if third parties insufficiently promote our products and services, it would likely have a material adverse effect on our ability to retain existing clients, to attract new ones and to grow profitably.
+
+If we are unable to renew client contracts at favorable terms, we could lose clients and our results of operations and financial condition may be adversely affected.
+
+Failure to achieve favorable renewals of client contracts could negatively impact our business. Our contracts with clients generally run for a period of 
+three to five
+ years. At the end of the contract term, clients have the opportunity to renegotiate their contracts with us or to consider whether to engage one or more of our competitors to provide products and services. If we are not successful in achieving high renewal rates and favorable contract terms, our results of operations and financial condition may be materially and adversely affected.
+
+Consolidations in the banking and financial services industry could adversely affect our revenue by eliminating existing or potential clients and making us more dependent on fewer clients.
+
+Mergers, consolidations and failures of financial institutions reduce the number of our clients and potential clients, which could adversely affect our revenue. If our clients merge with or are acquired by other entities that are not our clients, or that use fewer of our services, they may discontinue or reduce their use of our services. It is also possible that the larger financial institutions that result from mergers or consolidations could have greater leverage in negotiating terms with us or could decide to perform in-house some or all of the services which we currently provide or could provide. Any of these developments could have a material adverse effect on our business, results of operations and financial condition.
+
+Security incidents or other technological risks involving our systems and data, or those of our clients or vendors, could expose us to liability or damage our reputation.
+
+Our operations depend on receiving, storing, processing and transmitting sensitive information pertaining to our business, our associates, our clients and their customers. Any unauthorized access, intrusion, infiltration, network disruption, denial of service or similar incident could disrupt the integrity, continuity, security and trust of our systems or data, or the systems or data of our clients or vendors. These events could create costly litigation, significant financial liability, increased regulatory scrutiny, 
+
+8
+
+Table of Contents
+
+financial sanctions and a loss of confidence in our ability to serve clients and cause current or potential clients to choose another service provider, all of which could have a material adverse impact on our business. In addition, as threats continue to evolve, we may be required to invest significant additional resources to modify and enhance our information security and controls or to investigate and remediate any security vulnerabilities. Although we believe that we maintain a robust program of information security and controls and none of the events that we have encountered to date have materially impacted us, we may not be able to prevent a material event in the future, and the impact of a material event could have a material adverse effect on our business, results of operations and financial condition.
+
+Operational failures and resulting interruptions in the availability of our products or services could harm our business and reputation.
+
+Our business depends heavily on the reliability of our processing and other systems. An operational failure and the resulting service interruption could harm our business or cause us to lose clients. An operational failure could involve the hardware, software, data, networks or systems upon which we rely to deliver our services and could be caused by our actions, the actions of third parties or events over which we may have limited or no control. Events that could cause operational failures include, but are not limited to, hardware and software defects or malfunctions, computer denial-of-service and other cyberattacks, human error, earthquakes, hurricanes, floods, fires, natural disasters, power losses, disruptions in telecommunications services, fraud, military or political conflicts, terrorist attacks, computer viruses or other malware, or other events. Interruptions of service could damage our relationship with clients and could cause us to incur substantial expenses, including those related to the payment of service credits or other liabilities. A prolonged interruption of our services or network could cause us to experience data loss or a reduction in revenue, and significantly impact our clients’ businesses and the customers they serve. In addition, a significant interruption of service could have a negative impact on our reputation and could cause our current and potential clients to choose another service provider. Any of these developments could have a material adverse impact on our business, results of operations and financial condition.
+
+We may experience software defects, development delays or installation difficulties, which would harm our business and reputation and expose us to potential liability.
+
+Our services are based on sophisticated software and computer systems, and we may encounter delays when developing new applications and services. Further, the software underlying our services may contain undetected errors or defects when first introduced or when new versions are released. In addition, we may experience difficulties in installing or integrating our technology on systems or with other programs used by our clients. Defects in our software, errors or delays in the processing of electronic transactions or other difficulties could result in interruption of business operations, delay in market acceptance, additional development and remediation costs, diversion of technical and other resources, loss of clients, negative publicity or exposure to liability claims. Although we attempt to limit our potential liability through disclaimers and limitation of liability provisions in our license and client agreements, we cannot be certain that these measures will successfully limit our liability.
+
+A heightened regulatory environment in the financial services industry may have an adverse impact on our clients and our business.
+
+Since the enactment of the Dodd-Frank Wall Street Reform and Consumer Protection Act (“Dodd-Frank Act”), a number of substantial regulations affecting the supervision and operation of the financial services industry within the United States have been adopted, including those that establish the Consumer Financial Protection Bureau (“CFPB”). The CFPB has issued guidance that applies to, and conducts direct examinations of, “supervised banks and nonbanks” as well as “supervised service providers” like us. In addition, federal and state governments and governmental authorities outside the U.S. have adopted or are pursuing numerous additional regulations impacting the financial services industry, including regulations related to cybersecurity and data privacy. To the extent this oversight or regulation negatively impacts the business, operations or financial condition of our clients, our business and results of operations could be materially and adversely affected because, among other matters, our clients could have less capacity to purchase products and services from us, could decide to avoid or abandon certain lines of business, or could seek to pass on increased costs to us by negotiating price reductions. Additional regulation, examination and oversight of us could require us to modify the manner in which we contract with or provide products and services to our clients; directly or indirectly limit how much we can charge for our services; require us to invest additional time and resources to comply with such oversight and regulations; or limit our ability to update our existing products and services, or require us to develop new ones. Any of these events, if realized, could have a material adverse effect on our business, results of operations and financial condition.
+
+9
+
+Table of Contents
+
+If we fail to comply with applicable regulations, our businesses could be harmed.
+
+If we fail to comply with regulations applicable to our business, including cybersecurity and data privacy regulations, we could be exposed to litigation or regulatory proceedings, our client relationships and reputation could be harmed, and we could be inhibited in our ability to obtain new clients, which could have a material adverse impact on our business, results of operations and financial condition. In addition, the future enactment of more restrictive laws or rules on the federal or state level, or, with respect to our international operations, in foreign jurisdictions on the national, provincial, state or other level, could have a material adverse impact on our business, results of operations and financial condition.
+
+Our failure to comply with a series of complex regulations in our payments businesses could subject us to liability.
+
+Certain of our subsidiaries are licensed as money transmitters in those jurisdictions where such licensure is required. In connection with such licensure, we are required to demonstrate and maintain certain levels of net worth and liquidity and to file periodic reports. In addition, our direct-to-consumer payments businesses, including our walk-in bill payment, online bill payment, digital disbursements, and Popmoney person-to-person payment services, are subject to federal regulation in the United States, including anti-money laundering regulations and certain restrictions on transactions to or from certain individuals or entities. The complexity of these regulations will continue to increase our cost of doing business. In addition, any violations of law may result in civil or criminal penalties against us and our officers, or the prohibition against us providing money transmitter services in particular jurisdictions.
+
+If we fail to comply with the applicable requirements of NACHA and the payment card networks, they could seek to fine us, suspend us or terminate our registrations which could adversely affect our business.
+
+We are subject to rules of the National Automated Clearing House Association (“NACHA”) as well as card association and network rules governing Visa, MasterCard, American Express, Discover or other similar organizations, including the Payment Card Industry Data Security Standard enforced by the major card brands. The rules of NACHA and the card networks are set by their respective boards, and the card network rules may be influenced by card issuers, some of which offer competing transaction processing services. If we fail to comply with these rules, we could be fined, our certifications could be suspended, or our certifications could be terminated. The suspension or termination of our certifications, or any changes to the association and network rules, that we do not successfully address, or any other action by the card networks to restrict our ability to process transactions over such networks, could limit our ability to provide transaction processing services to clients and result in a reduction of revenue or increased costs of operation, which, in either case, could have a material adverse effect on our business and results of operations.
+
+We may be sued for infringing the intellectual property rights of others.
+
+Third parties may claim that we are infringing their intellectual property rights. We may expose ourselves to additional liability if we agree to indemnify our clients against third party infringement claims. If the owner of intellectual property establishes that we are, or a client which we are obligated to indemnify is, infringing its intellectual property rights, we may be forced to change our products or services, and such changes may be expensive or impractical, or we may need to seek royalty or license agreements from the owner of such rights. If we are unable to agree on acceptable terms, we may be required to discontinue the sale of key products or halt other aspects of our operations. We may also be liable for financial damages for a violation of intellectual property rights, and we may incur expenses in connection with indemnifying our clients against losses suffered by them. Any adverse result related to violation of third party intellectual property rights could materially and adversely harm our business, results of operations and financial condition. Even if intellectual property claims brought against us are without merit, they may result in costly and time-consuming litigation and may require significant attention from our management and key personnel.
+
+Misappropriation of our intellectual property and proprietary rights could impair our competitive position.
+
+Our ability to compete depends upon proprietary systems and technology. We actively seek to protect our proprietary rights. Nevertheless, unauthorized parties may attempt to copy aspects of our services or to obtain and use information that we regard as proprietary. The steps we have taken may not prevent misappropriation of technology. Agreements entered into for that purpose may not be enforceable or provide us with an adequate remedy. Effective patent, trademark, service mark, copyright and trade secret protection may not be available in every country in which our applications and services are made available. Misappropriation of our intellectual property or potential litigation concerning such matters could have a material adverse effect on our business, results of operations and financial condition.
+
+10
+
+Table of Contents
+
+Acquisitions subject us to risks, including increased debt, assumption of unforeseen liabilities and difficulties in integrating operations.
+
+A major contributor to our growth in revenue and earnings since our inception has been our ability to identify, acquire and integrate complementary businesses. We anticipate that we will continue to seek to acquire complementary businesses, products and services. We may not be able to identify suitable acquisition candidates or complete acquisitions in the future, which could adversely affect our future growth; or businesses that we acquire may not perform as well as expected or may be more difficult to integrate and manage than expected, which could adversely affect our business and results of operations. We may not be able to integrate all aspects of acquired businesses successfully or realize the potential benefits of bringing them together. In addition, the process of integrating these acquisitions may disrupt our business and divert our resources.
+
+These risks may arise for a number of reasons: we may not be able to find suitable businesses to acquire at affordable valuations or on other acceptable terms; we may face competition for acquisitions from other potential acquirers; we may need to borrow money or sell equity or debt securities to the public to finance future acquisitions and the terms of these financings may be adverse to us; changes in accounting, tax, securities or other regulations could increase the difficulty or cost for us to complete acquisitions; we may incur unforeseen obligations or liabilities in connection with acquisitions; we may need to devote unanticipated financial and management resources to an acquired business; we may not realize expected operating efficiencies or product integration benefits from an acquisition; we could enter markets where we have minimal prior experience; and we may experience decreases in earnings as a result of non-cash impairment charges.
+
+We may be obligated to indemnify the purchasers of businesses pursuant to the terms of the relevant purchase and sale agreements.
+
+We have in the past and may in the future sell businesses. In connection with sales of businesses, we may make representations and warranties about the businesses and their financial affairs and agree to retain certain liabilities associated with our operation of the businesses prior to their sale. Our obligation to indemnify the purchasers and agreement to retain liabilities could have a material adverse effect on our business, results of operations and financial condition.
+
+The failure to attract and retain key personnel could have a material adverse effect on our business.
+
+We depend on the experience, skill and contributions of our senior management and other key employees. If we fail to attract, motivate and retain highly qualified management, technical, compliance and sales personnel, our future success could be harmed. Our senior management provides strategic direction for our company, and if we lose members of our leadership team, our management resources may have to be diverted from other priorities to address this loss. Our products and services require sophisticated knowledge of the financial services industry, applicable regulatory and industry requirements, computer systems, and software applications, and if we cannot hire or retain the necessary skilled personnel, we could suffer delays in new product development, experience difficulty complying with applicable requirements or otherwise fail to satisfy our clients’ demands.
+
+Our business may be adversely impacted by U.S. and global market and economic conditions.
+
+For the foreseeable future, we expect to continue to derive most of our revenue from products and services we provide to the financial services industry. Given this concentration, we are exposed to the global economic conditions in the financial services industry. A prolonged poor economic environment could result in significant decreases in demand by current and potential clients for our products and services and in the number and dollar amount of transactions we process, which could have a material adverse effect on our business, results of operations and financial condition.
+
+The market for our electronic transaction services continues to evolve and may not continue to develop or grow rapidly enough to sustain profitability.
+
+If the number of electronic transactions does not continue to grow, or if consumers or businesses do not continue to adopt our services, it could have a material adverse effect on our business, results of operations and financial condition. We believe future growth in the electronic transactions market will be driven by a combination of factors including speed, cost, ease-of-use, security and quality of products and services offered to consumers and businesses. 
+
+Uncertainties in the interpretation and application of the 2017 Tax Cuts and Jobs Act could cause us to modify current estimates about the impact that it will have on us, which could negatively impact our anticipated earnings and have an adverse effect on our results of operations and cash flow.
+
+On December 22, 2017, the U.S. government enacted comprehensive tax legislation commonly referred to as the Tax Cuts and Jobs Act (the “Tax Act”). The Tax Act significantly revises the U.S. corporate income tax code by, among other things, lowering corporate income tax rates, implementing a territorial-style tax system and imposing a repatriation tax on deemed repatriated earnings of foreign subsidiaries. Our financial results for 2018 included additional income tax expense of 
+
+11
+
+Table of Contents
+
+approximately 
+$19 million
+ resulting from new interpretive guidance issued by the Internal Revenue Service. Further analysis of this complex legislation or future regulations or guidance from the Internal Revenue Service, the Securities and Exchange Commission or the Financial Accounting Standards Board could cause us to adjust current estimates in future periods, which could impact our earnings and have an adverse effect on our results of operations and cash flow.  
+
+Our balance sheet includes significant amounts of goodwill and intangible assets. The impairment of a significant portion of these assets would negatively affect our results of operations.
+
+Our balance sheet includes goodwill and intangible assets that represent 
+70%
+ of our total assets at 
+December 31, 2018
+. These assets consist primarily of goodwill and identified intangible assets associated with our acquisitions. On at least an annual basis, we assess whether there have been impairments in the carrying value of goodwill. In addition, we review intangible assets for impairment whenever events or changes in circumstances indicate the carrying amount of the asset may not be recoverable. If the carrying value of the asset is determined to be impaired, then it is written down to fair value by a charge to operating earnings. An impairment of a significant portion of goodwill or intangible assets could have a material negative effect on our results of operations.
+
+Increased leverage may harm our financial condition and results of operations.
+
+As of 
+December 31, 2018
+, we had approximately 
+$6.0 billion
+ of debt. We and our subsidiaries may incur additional indebtedness in the future. Our indebtedness could: decrease our ability to obtain additional financing for working capital, capital expenditures, general corporate or other purposes; limit our flexibility to make acquisitions; increase our cash requirements to support the payment of interest; limit our flexibility in planning for, or reacting to, changes in our business and our industry; and increase our vulnerability to adverse changes in general economic and industry conditions. Our ability to make payments of principal and interest on our indebtedness depends upon our future performance, which will be subject to general economic conditions and financial, business and other factors affecting our consolidated operations, many of which are beyond our control. In addition, if our outstanding senior notes are downgraded to below investment grade, we may incur additional interest expense. If we are unable to generate sufficient cash flow from operations in the future to service our debt and meet our other cash requirements, we may be required, among other things: to seek additional financing in the debt or equity markets; to refinance or restructure all or a portion of our indebtedness; or to reduce or delay planned capital or operating expenditures. Such measures might not be sufficient to enable us to service our debt and meet our other cash requirements. In addition, any such financing, refinancing or sale of assets might not be available at all or on economically favorable terms.
+
+Risks Relating to the Proposed Merger with First Data
+
+The merger is subject to a number of conditions to our and First Data’s obligations to complete the merger, which, if not fulfilled, or not fulfilled in a timely manner, may result in termination of the merger agreement.
+
+Our and First Data’s respective obligations to effect the merger are subject to the satisfaction at or prior to the effective time of the merger of the following conditions: 
+
+•
+
+First Data’s stockholders must approve the consummation of the merger;
+
+•
+
+our shareholders must approve the issuance of shares to First Data shareholders in connection with the merger;
+
+•
+
+the shares of our common stock that will be issued in the merger must have been approved for listing on NASDAQ;
+
+•
+
+our Form S-4 registration statement filed in connection with the merger must become effective under the Securities Act of 1933 and no stop order suspending its effectiveness may be in effect;
+
+•
+
+no injunctions or decrees by any relevant governmental entity that prevent the merger may be outstanding; 
+
+•
+
+all requisite regulatory approvals, both antitrust or otherwise and both U.S. and non-U.S., must have been obtained;
+
+•
+
+subject to certain exceptions and materiality standards provided in the merger agreement, the representations and warranties of the other party must be true and correct;
+
+•
+
+the other party must have performed or complied with in all material respects all of its obligations under the merger agreement;
+
+•
+
+each party must have received a tax opinion from its respective counsel to the effect that the merger will constitute a “reorganization” under the Internal Revenue Code; and
+
+12
+
+Table of Contents
+
+•
+
+our board of directors must have adopted amended by-laws and we must have taken all other steps necessary to effect the governance structure of the combined company as contemplated in the merger agreement.
+
+Many of the conditions to completion of the merger are not within our or First Data’s control, and we cannot predict when, or if, these conditions will be satisfied. If any of these conditions are not satisfied or waived prior to October 16, 2019, which date may be extended once to January 16, 2020, and extended a second time to April 16, 2020, it is possible that the merger agreement may be terminated. Although we and First Data have agreed in the merger agreement to use reasonable best efforts, subject to certain limitations, to complete the merger as promptly as practicable, these and other conditions to the completion of the merger may fail to be satisfied. In addition, satisfying the conditions to and completion of the merger may take longer, and could cost more, than we expect. We cannot predict whether and when these other conditions will be satisfied. Furthermore, the requirements for obtaining the required clearances and approvals could delay the completion of the merger for a significant period of time or prevent them from occurring. Any delay in completing the merger may adversely affect the cost savings and other benefits that we expect to achieve if the merger and the integration of the companies’ respective businesses are completed within the expected timeframe. There can be no assurance that all required regulatory approvals will be obtained, or obtained prior to the termination date.
+
+The merger is subject to the receipt of consents and clearances from domestic and foreign regulatory authorities that may impose conditions that could have a material adverse effect on us following the merger, or, if not obtained, could prevent the completion of the merger.
+
+Before the merger can be completed, waiting periods must expire or terminate under applicable antitrust laws, including the HSR Act, and various approvals, consents or clearances must be obtained from certain other U.S. and non-U.S. regulatory authorities. In deciding whether to grant antitrust or regulatory clearances, the relevant authorities will consider the effect of the merger on competition in the case of competition authorities and a variety of other factors, in the case of other authorities. Although we and First Data have agreed in the merger agreement to use reasonable best efforts to make certain governmental filings and, subject to certain limitations, obtain the required governmental authorizations, as the case may be, there can be no assurance that the relevant authorizations will be obtained. 
+
+The governmental authorities from which these authorizations are required have broad discretion in administering the governing regulations. The terms and conditions of approvals that are granted may require that the parties divest certain businesses, assets, or products prior to or after the closing of the merger or impose requirements, limitations, costs or restrictions on the conduct of us following the closing of the merger. At any time before or after completion of the merger, notwithstanding the termination of the waiting period under the Hart-Scott-Rodino Act, the U.S. Department of Justice or the Federal Trade Commission, or any state or foreign governmental entity, could take such action under the antitrust laws as each deems necessary or desirable in the public interest, including seeking to enjoin the completion of the merger or seeking divestiture of substantial assets of ours or First Data. Private parties also may seek to take legal action under the antitrust laws under certain circumstances.
+
+Under the terms of the merger agreement, subject to certain conditions, both parties are required to use reasonable best efforts to obtain all of the foregoing authorizations or approvals. Notwithstanding the foregoing, “reasonable best efforts” does not require us in connection with obtaining Hart-Scott-Rodino clearance or any other approval required pursuant to any other antitrust or competition law in the Unites States to (i) defend any lawsuit or challenge any other action by any governmental entity adversely affecting the parties’ ability to complete the merger, (ii) sell, divest or otherwise encumber any asset or business or (iii) agree to any limits or restrictions on certain actions.
+
+There can be no assurance that regulators will not impose terms, conditions, requirements, limitations, costs or restrictions that would delay the completion of the merger, impose additional material costs on or limit the revenues of us after the merger, or limit some of the cost savings and other benefits that we expect following completion of the merger. In addition, we cannot provide any assurance that any such terms, conditions, requirements, limitations, costs, or restrictions will not result in the abandonment of the merger. In addition, disruptions in government operations, such as the recent shutdown of the U.S. government, could cause delay in obtaining approvals or increase processing times. Any delay in completing the merger or any modification to the merger currently contemplated may adversely affect the timing and amount of cost savings and other benefits that are expected to be achieved from the merger. There can be no assurance that all required regulatory approvals will be obtained, or obtained prior to the termination date.
+
+13
+
+Table of Contents
+
+Failure to complete the merger could negatively impact our stock price and have a material adverse effect on our results of operations, cash flows and financial position.
+
+If the merger is not completed for any reason, including as a result of failure to obtain all requisite regulatory approvals, if our shareholders fail to approve the issuance of shares to First Data shareholders in connection with the merger or if First Data’s shareholders fail to approve the consummation of the merger, our ongoing businesses may be materially adversely affected and, without realizing any of the benefits of having completed the merger, we would be subject to a number of risks, including the following:
+
+•
+
+we may experience negative reactions from the financial markets, including negative impacts on their respective stock prices;
+
+•
+
+we and our respective subsidiaries may experience negative reactions from their respective customers, distributors, suppliers, vendors, landlords, joint venture partners and other business partners;
+
+•
+
+we will still be required to pay certain significant costs relating to the merger, such as costs associated with terminating the financing as well as legal, accounting, financial advisor and printing fees;
+
+•
+
+we may be required to pay a cash termination fee equal to $665 million as required by the merger agreement;
+
+•
+
+the merger agreement places certain restrictions on the conduct of the respective businesses pursuant to the terms of the merger agreement, which may have delayed or prevented the respective companies from undertaking business opportunities that, absent the merger agreement, may have been pursued;
+
+•
+
+matters relating to the merger (including integration planning) require substantial commitments of time and resources by each company’s management, which could have resulted in the distraction of each company’s management from ongoing business operations and pursuing other opportunities that could have been beneficial to the companies; and
+
+•
+
+litigation related to any failure to complete the merger or related to any enforcement proceeding commenced against us to perform our obligations under the merger agreement.
+
+If the merger is not completed, the risks described above may materialize and they may have a material adverse effect on our results of operations, cash flows, financial position and stock prices.
+
+Our and First Data’s business relationships may be subject to disruption due to uncertainty associated with the merger, which could have a material adverse effect on our results of operations, cash flows and financial position following the merger.
+
+Parties with which we or First Data do business may experience uncertainty associated with the merger, including with respect to our or First Data’s current or future business relationships following the merger. Our and First Data’s business relationships may be subject to disruption as customers, distributors, suppliers, vendors, landlords, joint venture partners and other business partners may attempt to delay or defer entering into new business relationships, negotiate changes in existing business relationships or consider entering into business relationships with parties other than us or First Data following the merger. These disruptions could have a material and adverse effect on our or First Data’s results of operations, cash flows and financial position, regardless of whether the merger is completed, as well as a material and adverse effect on our ability to realize the expected cost savings and other benefits of the merger. The risk, and adverse effect, of any disruption could be exacerbated by a delay in completion of the merger or termination of the merger agreement.
+
+Uncertainties associated with the merger may cause a loss of management personnel and other key employees, which could adversely affect our future business and operations following the merger.
+
+We depend on the experience and industry knowledge of officers and other key employees to execute our business plans. Our success after the merger will depend in part upon our ability to retain key management personnel and other key employees. Our and First Data’s current and prospective employees may experience uncertainty about their roles following the merger or other concerns regarding the timing and completion of the merger or our operations following the merger, any of which may have an adverse effect on our or First Data’s ability to attract or retain key management and other key personnel. If we or First Data are unable to retain personnel, including our and First Data’s key management, who are critical to the future operations of the companies, we could face disruptions in our operations, loss of existing customers, loss of key information, expertise or know-how and unanticipated additional recruitment and training costs. In addition, the loss of key personnel could diminish the anticipated benefits of the merger. No assurance can be given that we, following the merger, will be able to retain or attract key management personnel and other key employees to the same extent that we and First Data have previously been able to retain or attract their own employees.
+
+14
+
+Table of Contents
+
+The merger agreement subjects us and First Data to restrictions on our respective business activities prior to the effective time of the merger.
+
+The merger agreement subjects us and First Data to restrictions on our respective business activities prior to the effective time of the merger. The merger agreement obligates us and First Data to generally operate its businesses in the ordinary course until the effective time of the merger and to use its reasonable best efforts to maintain and preserve intact its business organization and advantageous business relationships on its actions. These restrictions could prevent us and First Data from pursuing certain business opportunities that arise prior to the effective time of the merger and are outside the ordinary course of business. 
+
+We may not be able to obtain our preferred form of debt financing in connection with the merger and on anticipated terms.
+
+We expect to fund the refinancing of certain outstanding indebtedness of First Data and its subsidiaries on the closing date, making of cash payments in lieu of fractional shares as part of the merger consideration, and paying of fees and expenses related to the merger, the refinancing and the related transactions using a combination of cash on hand, the issuance of $12 billion in debt securities, the incurrence of $5 billion in borrowings under a new senior unsecured term loan facility, and borrowings under our revolving credit facility. We have executed a $5 billion senior unsecured term loan facility and amendments to our existing revolving credit facility to increase the size of that facility and make other changes, although drawing under each facility is subject to certain conditions. With respect to the plan to issue $12 billion in debt securities, there is a risk that the markets will not allow us to execute this financing plan, or that such financing will not be available on favorable terms. As a result, we may need to pursue other options to refinance the outstanding debt of First Data and its subsidiaries and fund these other amounts, including borrowing amounts under the bridge facility, which may result in less favorable financing terms that could increase costs and/or adversely impact the operations of the combined company. 
+
+Risks Relating to Fiserv Following the Proposed Merger with First Data
+
+We may be unable to integrate the business of First Data successfully or realize the anticipated benefits of the merger.
+
+The merger involves the combination of two companies that currently operate as independent public companies. The combination of two independent businesses is complex, costly and time consuming, and we and First Data will be required to devote significant management attention and resources to integrating our and First Data’s business practices and operations. Potential difficulties that we may encounter as part of the integration process include the following:
+
+•
+
+the inability to successfully combine the business of First Data in a manner that permits us to achieve, on a timely basis, or at all, the enhanced revenue opportunities and cost savings and other benefits anticipated to result from the merger;
+
+•
+
+complexities associated with managing the combined businesses, including difficulty addressing possible differences in corporate cultures and management philosophies and the challenge of integrating complex systems, technology, networks and other assets of each of the companies in a seamless manner that minimizes any adverse impact on customers, suppliers, employees and other constituencies; and
+
+•
+
+potential unknown liabilities and unforeseen increased expenses or delays associated with the merger.
+
+In addition, we and First Data have operated and, until the completion of the merger, will continue to operate, independently. It is possible that the integration process could result in:
+
+•
+
+diversion of the attention of each company’s management; and
+
+•
+
+the disruption of, or the loss of momentum in, each company’s ongoing businesses or inconsistencies in standards, controls, procedures and policies.
+
+Any of these issues could adversely affect our ability to maintain relationships with customers, suppliers, employees and other constituencies or achieve the anticipated benefits of the merger, or could reduce our earnings or otherwise adversely affect the business and financial results following the merger.
+
+15
+
+Table of Contents
+
+Our indebtedness following completion of the merger will be substantially greater than our indebtedness prior to completion of the merger. This increased level of indebtedness could adversely affect us, including by decreasing our business flexibility and increasing our interest expense.
+
+As of December 31, 2018, we had total indebtedness of approximately $6 billion and First Data had total indebtedness of approximately $18 billion. Upon completion of the merger, we expect to incur acquisition-related debt financing of approximately $17 billion, all of which is expected to be used to refinance certain outstanding indebtedness of First Data and its subsidiaries on the closing date, pay cash in lieu of fractional shares as part of the merger consideration, and pay fees and expenses related to the merger, the refinancing and the related transactions. In addition, we have obtained an increase of $1.5 billion in the commitments available to us under our existing revolving credit facility, which increase is subject to the closing of the merger and certain other conditions. Accordingly, our indebtedness following completion of the merger will be substantially greater than our indebtedness prior to completion of the merger. Our substantially increased indebtedness following completion of the merger could have the effect, among other things, of reducing our flexibility to respond to changing business and economic conditions. In addition, the amount of cash required to pay interest on our increased indebtedness levels will increase following completion of the transaction, and thus the demands on our cash resources will be greater than the amount of cash flows required to service our indebtedness prior to the merger. We will also incur various costs and expenses associated with the financing of the merger. The increased levels of indebtedness following completion of the merger could also reduce funds available to fund our efforts to integrate the business of First Data and realize the expected benefits of the merger and to engage in investments in product development, for working capital, capital expenditures, acquisitions and other general corporate purposes, and may create competitive disadvantages for us relative to other companies with lower debt levels. If we do not achieve the expected benefits and cost savings from the merger, or if the financial performance of the combined company does not meet current expectations, then our ability to service our indebtedness, or to reduce leverage levels based on debt repayment or cash flow generation, may be adversely impacted. 
+
+The indebtedness we incur under our new $5 billion term loan facility in connection with the merger and any indebtedness we incur under our revolving credit facility will bear interest at variable interest rates. If interest rates increase, variable rate debt will create higher debt service requirements, which could adversely affect our cash flows. In addition, our credit ratings impact the cost and availability of future borrowings and, accordingly, our cost of capital. Our ratings reflect each rating organization’s opinion of our financial strength, operating performance and ability to meet its debt obligations. In connection with the debt financing, it is anticipated that we will seek ratings of its indebtedness from Moody’s Investors Service, Inc. and S&P Global Ratings. There can be no assurance that we will achieve a particular rating or maintain a particular rating in the future or that our ratings will not be adversely affected by the factors described above.
+
+Moreover, we may be required to raise substantial additional financing to fund working capital, capital expenditures, acquisitions or other general corporate requirements. Our ability to arrange additional financing will depend on, among other factors, our financial position and performance, as well as prevailing market conditions and other factors beyond our control. We cannot assure you that it will be able to obtain additional financing on terms acceptable to us or at all. 
+
+The estimated potential synergies attributable to the merger may vary from expectations.
+
+We may fail to realize the anticipated benefits and synergies expected from the merger, which could adversely affect our business, financial condition and operating results. The success of the merger will depend, in significant part, on our ability to successfully integrate the acquired business, grow the revenue of the combined company and realize the anticipated strategic benefits and synergies from the combination. We believe that the addition of First Data will complement our strategy by providing scale and revenue diversity, accelerate our growth strategy and enable us to have a strong global footprint. However, achieving these goals requires growth of the revenue of the combined company and realization of the targeted cost synergies expected from the merger. This growth and the anticipated benefits of the transaction may not be realized fully or at all, or may take longer to realize than expected. Actual operating, technological, strategic and revenue opportunities, if achieved at all, may be less significant than expected or may take longer to achieve than anticipated. If we are not able to achieve these objectives and realize the anticipated benefits and synergies expected from the merger within the anticipated timing or at all, our business, financial condition and operating results may be adversely affected.
+
+16
+
+Table of Contents
+
+We expect to incur substantial expenses related to the merger and integration.
+
+We expect to incur substantial expenses in connection with the merger and the related integration. There are a large number of processes, policies, procedures, operations, technologies and systems that may need to be integrated, including purchasing, accounting and finance, sales, payroll, pricing and benefits. While we have assumed that a certain level of expenses will be incurred, there are many factors beyond our control that could affect the total amount or the timing of the integration expenses. Moreover, many of the expenses that will be incurred are, by their nature, difficult to estimate accurately. These expenses could, particularly in the near term, exceed the savings that we expect to achieve from the elimination of duplicative expenses and the realization of economies of scale and cost savings. These integration expenses may result in us taking significant charges against earnings following the completion of the merger, and the amount and timing of such charges are uncertain at present.
+
+Our future results following the merger will suffer if we do not effectively manage our expanded operations. 
+
+Following the merger, the size of our business will increase significantly beyond the current size of either our or First Data’s business. Our future success will depend, in part, upon our ability to manage this expanded business, which will pose substantial challenges for management, including challenges related to the management and monitoring of new operations and associated increased costs and complexity. We may also face increased scrutiny from governmental authorities as a result of the significant increase in the size of its business. There can be no assurances that we will be successful or that it will realize the expected operating efficiencies, cost savings, revenue enhancements or other benefits currently anticipated from the merger.
+
+Following the merger, our business may be adversely affected by geopolitical, regulatory and other risks associated with operations outside of the United States and we may incur higher than anticipated costs and may become more susceptible to these risks.
+
+After completion of the merger, we will have significantly expanded our international presence by offering merchant acquiring, processing and issuing services outside of the United States, including in Argentina, Brazil, Germany, India, Ireland, the Netherlands, Poland and the United Kingdom, where First Data’s principal non-U.S. operations are currently located. Our revenues derived from these and other non-U.S. operations will be subject to additional risks, including those resulting from social and geopolitical instability and unfavorable political or diplomatic developments, all of which could negatively impact our financial results. For example, the United Kingdom’s decision to leave the European Union may add cost and complexity in various aspects of our business as United Kingdom and European Union laws and regulations diverge. We will also be subject to potential non-U.S. governmental intervention and new laws and new regulations that we were not previously subject to, which could increase costs and may have potential negative effects on our business.
+
+The merger may result in a loss of customers, distributors, suppliers, vendors, landlords, joint venture partners or other business partners and may result in the termination of existing contracts.
+
+Following the merger, some of our or First Data’s customers, distributors, suppliers, vendors, landlords, joint venture partners and other business partners may terminate or scale back their current or prospective business relationships with us. Some customers may not wish to source a larger percentage of their needs from a single company or may feel that we are too closely allied with one of their competitors. In addition, we and First Data have contracts with customers, distributors, suppliers, vendors, landlords, joint venture partners and other business partners that may require us or First Data to obtain consents from these other parties in connection with the merger, which may not be obtained on favorable terms or at all. If relationships with customers, distributors, suppliers, vendors, landlords, joint venture partners and other business partners are adversely affected by the merger, or if we, following the merger, lose the benefits of our or First Data’s contracts, our business and financial performance could suffer.
+
+Following the merger, First Data’s Global Business Solutions business, as integrated into Fiserv, will depend, in part, on merchant relationships and alliances. If we are unable to maintain these relationships and alliances, our business may be adversely affected.
+
+After completion of the merger, our alliance structures are expected to continue, as they did at First Data, to take different forms, including consolidated subsidiaries, equity method investments, and revenue sharing arrangements. Under First Data’s current alliance program (and as is expected to continue with the combined company), a bank or other institution forms an alliance with First Data on an exclusive basis, either contractually or through a separate legal entity. Merchant contracts may be contributed to the alliance by First Data and/or the bank or institution. The banks and other institutions generally provide card association sponsorship, clearing, and settlement services and typically act as a merchant referral source when the institution has an existing banking or other relationship with such merchant. First Data provides transaction processing and related functions. Both First Data and its alliance partners may also provide management, sales, marketing, and other administrative services. The alliance structure allows First Data to be the processor for multiple financial institutions, any one of which may 
+
+17
+
+Table of Contents
+
+be selected by the merchant as its bank partner. First Data’s Global Business Solutions business, and the combined company, is expected to continue to be, dependent, in part, on merchant relationships, alliances, and other distribution channels. First Data is working, and we expect the combined company to continue to work, with alliance partners to grow their businesses. There can be no guarantee that First Data’s, or the combined company’s, efforts will be successful and that First Data, or the combined company, will achieve growth in merchant relationships, alliances, and other distribution channels. In addition, First Data’s contractual arrangements with merchants and merchant alliance partners are, and the combined company’s are expected to continue to be, for fixed terms and may also allow for early termination upon the occurrence of certain events. There can be no assurance that First Data, or the combined company, will be able to renew contractual arrangements with these merchants or merchant alliance partners on similar terms or at all. Following the merger, the loss of merchant relationships or alliance and financial institution partners could negatively impact our business and result in a reduction of its revenue and profit. 
+
+New Omaha Holdings L.P. may sell a substantial amount of our common stock shortly after the completion of the merger as certain restrictions on sales expire, and these sales could cause the price of our common stock to fall.
+
+Pursuant to a shareholder agreement, New Omaha Holdings L.P. (“New Omaha”), which is expected to own approximately 16% of our outstanding shares upon the closing of the merger transaction, is prohibited from selling shares of our common stock for the first three months following the completion of the merger. After the three-month anniversary of the completion of the merger, New Omaha may sell such shares, subject to certain limitations contained in the shareholder agreement. Additionally, under the registration rights agreement, we have granted New Omaha registration rights, which permit, among others, underwritten offerings. The registration rights agreement will terminate when the aggregate ownership percentage of the issued and outstanding shares of our common stock held by New Omaha and its affiliate transferees falls below 2% and such shares may be freely sold without restrictions.
+
+New Omaha may have influence over us following completion of the merger and its interests may conflict with other shareholders.
+
+Upon completion of the merger, New Omaha is expected to own approximately 16% of our issued and outstanding shares and is expected to be our largest shareholder. Concurrently with the execution of the merger agreement, we entered into a shareholder agreement and the registration rights agreement with New Omaha, which give New Omaha certain rights. Under the shareholder agreement, New Omaha may designate a director to serve on our board of directors in accordance with the terms thereof until the aggregate ownership percentage of our issued and outstanding shares of common stock held by New Omaha and its affiliate transferees first falls below 5%. The shareholder agreement will terminate when the aggregate ownership percentage of our outstanding shares held by New Omaha and certain of its affiliates falls below 3%. Although there are various restrictions on New Omaha’s ability to take certain actions with respect to us and our shareholders (including certain standstill provisions for so long as New Omaha’s aggregate ownership percentage of the issued and outstanding shares of our common stock remains at or above 5%), New Omaha may seek to influence, and may be able to influence, us through its appointment of a director to our board of directors and its share ownership.

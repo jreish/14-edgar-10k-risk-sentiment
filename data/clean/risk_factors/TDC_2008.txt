@@ -1,0 +1,776 @@
+You should carefully consider each of the
+following risk factors and all of the other information set forth in this Annual Report. The risk factors generally have been separated into two groups: (i) risks relating to our business, and (ii) risks relating to the Separation. Based
+on the information currently known to us, we believe that the following information identifies the most significant risk factors affecting our company in each of these categories of risks. However, the risks and uncertainties our company faces are
+not limited to those set forth in the risk factors described below. Additional risks and uncertainties not presently known to us or that we currently believe to be immaterial may also adversely affect our business. 
+
+In addition, past financial performance may not be a reliable indicator of future performance, and historical trends should not be used to anticipate results or
+trends in future periods. 
+
+11 
+
+Table of Contents
+
+If any of the following risks and uncertainties develops into actual events, these events could have a material
+adverse effect on our business, financial condition or results of operations. In such case, the trading price of our common stock could decline. 
+
+Risks Relating to Our Business 
+
+Economic Pressures—Our business is affected by the global economies in which we operate and the
+economic climate of the industries we serve. 
+
+The IT industry in which we operate is susceptible to significant changes in the strength of the
+economy and the economic health of companies who make capital commitments for new technologies. Accordingly, downturns in the global or regional economies in which we operate or certain economic sectors (such as the telecommunications or
+transportation industries) may adversely impact our business. For example, adverse changes to the economy could impact the timing of purchases by our current and potential customers or the ability of our customers to fulfill their obligations to us.
+Furthermore, decreased or more closely scrutinized capital spending in our customers’ businesses, in the industries we serve, in the domestic economy or in international economies where our customers do substantial business, may adversely
+impact our business. 
+
+The extent of these impacts, if any, on our business, is dependent on a number of factors, including the duration and extent of any
+economic downturns, their effect on the markets and other general economic and business conditions. 
+
+Competition—The information technology
+industry is intensely competitive, and competitive pressures could adversely affect prices (including pricing practices or pricing models) or demand for our products and services. 
+
+We operate in the intensely competitive information technology industry, which is characterized by rapidly changing technology, evolving industry standards, frequent new product introductions, and price and cost
+reductions. In general, as a participant in the data warehousing market, we face: 
+
+•
+
+ Changes in customer IT spending habits and other shifts in market demands, which drive competition; 
+
+•
+
+ A trend toward consolidation of companies which could adversely affect our ability to compete, including if our key partners merge or partner with our competitors;
+
+•
+
+ Continued pressure on price/performance for data warehousing solutions due to constant technology improvements in processor capacity and speed;
+
+•
+
+ Changes in pricing, marketing and product strategies, such as potential aggressive price discounting by our competitors or other factors;
+
+•
+
+ Rapid changes in computing technology and capabilities that challenge our ability to maintain differentiation at the lower range of data warehousing analytic
+functions; 
+
+•
+
+ Changing competitive requirements and deliverables in developing and emerging markets; and 
+
+•
+
+ Changes to pricing models to successfully compete in the market. 
+
+To compete successfully in this environment, we must rapidly and continually design, develop and market solutions and related products and services that are valued in the marketplace. To do this, we must react on a
+timely basis to shifts in market demands. In addition, our market position depends on our ability to reduce costs without creating operating inefficiencies and to sustain competitive operating margins, while also maintaining the quality of our
+products and services. 
+
+Our primary competitors are IBM and Oracle, who are well-capitalized companies with widespread distribution, brand recognition and
+penetration of platforms and service offerings. The significant purchasing and market power of these larger competitors, which have greater financial resources than we do, could allow them to surpass our market penetration and marketing efforts to
+promote and sell their products and services. In addition, many other companies participate in specific areas of our business, such as enterprise application analytic and business intelligence software. The status of our business relationships with
+these companies can influence our ability to 
+
+12 
+
+Table of Contents
+
+compete in data warehousing opportunities in such areas. We also expect additional competition from both established and emerging companies which have
+recently become active at the entry-levels of the data warehousing market and which may increase their level of competitive activities. Failure to compete successfully with new or existing competitors in these and other areas could have a material
+adverse impact on our ability to generate new revenues or sustain existing revenue levels. 
+
+Data Warehousing Market—If the overall data
+warehousing market declines or does not grow, we may sell fewer products and services, and our business may not be able to sustain its current level of operations. 
+
+If the market trends toward more conservative IT spending, this could result in fewer customers making investments in our products and services. In the past, we have seen periodic breaks in the buying patterns from
+some of our larger customers, which indicate a level of maturation of their current data warehouse implementation or a shifting of IT priorities when these customers are still incorporating the investments they have made in their core data
+warehousing infrastructures during past years. In addition, reduced prices and improvements in data warehousing solutions increase pressure on hardware and software revenues, as well as on customer services annuity revenue streams. If the growth
+rates for the data warehousing market decline for any reason, there could be a decrease in demand for our products and services, which would have a material adverse effect on our financial results. 
+
+Renewal Rates and Support Services Pricing Pressures—If our existing customers fail to renew their support agreements, or if customers do not license updated
+products on terms favorable to us, our revenues could be adversely affected. 
+
+We currently derive a significant portion of our overall revenues from
+customer support services, and we depend on our installed customer base for future revenue from customer services and licenses of updated products. The terms of our standard support service arrangements generally provide for the payment of license
+fees and prepayment of first-year support fees and are generally renewable on an annual basis. The IT industry generally has been experiencing increasing pricing pressure from customers when purchasing or renewing support agreements. Moreover, the
+trend towards consolidation in certain industries that we serve, such as telecommunications, could result in a reduction of the hardware and software being serviced and put pressure on our maintenance terms with customers who have merged. Given this
+environment, there can be no assurance that our current customers will renew their support agreements or agree to the same terms when they renew, which could result in our reducing or losing support fees, and therefore in reduced revenue.
+
+If our existing customers fail to renew their support agreements, or if we are unable to generate additional support fees through the license of updated
+products to existing or new customers, our business and future operating results could be adversely affected. 
+
+Operating Result Fluctuations—Our
+financial results are subject to fluctuations caused by many factors that could result in our failing to achieve anticipated financial results. 
+
+Our
+quarterly and annual financial results have varied in the past and are likely to continue to vary in the future due to a number of factors, many of which are beyond our control. In particular, if orders that we expect to be booked by the end of a
+quarter are not booked until a later date, our revenue and/or net income for that quarter could be substantially below expectations, especially given the large size of our transactions. These and any one or more of the factors listed below or other
+factors could cause us not to achieve our revenue or profitability expectations. The resulting failure to meet market expectations could cause a drop in our stock price. These factors include the risks discussed elsewhere in this section and the
+following: 
+
+•
+
+ Changes in demand for our products and services, including changes in growth rates in the data warehousing market; 
+
+•
+
+ The size, timing and contractual terms of large orders for our products and services, which may impact in particular our quarterly operating results (either
+positively or negatively); 
+
+13 
+
+Table of Contents
+
+•
+
+ Possible delays in our ability to recognize revenue as the result of revenue recognition rules; 
+
+•
+
+ The budgeting cycles of our customers and potential customers; 
+
+•
+
+ Any downturn in our customers’ businesses, in the domestic economy or in international economies where our customers do substantial business;
+
+•
+
+ Changes in pricing policies resulting from competitive pressures, such as aggressive price discounting by our competitors, or other factors;
+
+•
+
+ Our ability to develop and introduce on a timely basis new or enhanced versions of our products and services; 
+
+•
+
+ Unexpected needs for capital expenditures or other unanticipated expenses; 
+
+•
+
+ Changes in the mix of revenues attributable to domestic and international sales; 
+
+•
+
+ Seasonal fluctuations in buying patterns; and 
+
+•
+
+ Future acquisitions and divestitures of technologies, products and businesses. 
+
+Due to resulting fluctuations, we believe that quarter-to-quarter comparisons of our revenue and operating results may not be meaningful, and that these comparisons may not be an accurate indicator of our future
+performance. 
+
+Unanticipated delays or accelerations in our sales cycles make accurate estimation of our revenues difficult and could result in
+significant fluctuations in our quarterly operating results. 
+
+The size and timing of large orders for our products and services varies considerably,
+which can impact results from quarter to quarter. The process we use to forecast sales and trends in our business relies heavily on estimates of closure on a transaction-specific basis. It is very difficult to predict sales in a particular quarter
+or over a longer period of time. Unanticipated delays or accelerations in our sales cycles make accurate estimation of our revenues difficult and could result in significant fluctuations in our quarterly operating results. 
+
+The length of our sales cycle varies depending on a number of factors over which we may have little or no control, including the size and complexity of a potential
+transaction, the level of competition that we encounter in our selling activities and our current and potential customers’ internal budgeting and approval process. As a result of a generally long sales cycle, we may expend significant effort
+over a long period of time in an attempt to obtain an order, but ultimately not complete the sale, or the order ultimately received may be smaller than anticipated. Our revenue from different customers varies from quarter to quarter, and a customer
+with a large order in one quarter may generate significantly lower revenue in subsequent quarters. Our results in any particular quarter have generally been dependent on the timing of a relatively small number of large transactions. 
+
+In addition, the budgeting and IT capital spending cycles of our customers and potential customers make forecasting more difficult and may adversely affect our ability
+to accurately predict financial results. Spending may be particularly heavy in our fourth quarter because of large enterprise customers placing orders before the expiration of IT budgets tied to that calendar year. 
+
+Our operating expenses are based on projected annual and quarterly revenue levels and are generally incurred ratably throughout each quarter. Since our operating
+expenses are relatively fixed in the short term, failure to realize projected revenues for a specified period could adversely impact our operating results, reducing net income or causing an operating loss for that period. The deferral or
+non-occurrence of such sales revenues would materially adversely affect our operating results for that quarter and could impair our business in future periods. 
+
+Seasonal trends in sales of our products and services could adversely affect our quarterly operating results. 
+
+In general, we see
+fluctuations in buying patterns with lower revenue in the first quarter and higher revenue in the fourth quarter of each year. Such seasonality also causes our working capital cash flow requirements to vary from quarter to quarter depending on the
+variability in the volume, timing and mix of product sales. In addition, revenue in the third month of each quarter is significantly higher than in the first and second months, which further impacts our ability to predict financial results
+accurately and enhances the enterprise risks inherent in our business. These and other factors make forecasting more difficult and may adversely affect our ability to predict financial results accurately. 
+
+14 
+
+Table of Contents
+
+Revenue Mix Variability—Our revenue is variable depending on the mix of products and services in any given
+period, and changes in the mix of products and services that we sell could materially adversely affect our operating results. 
+
+Our business model is
+based on our anticipated mix of products and services and the corresponding profit margins for such products and services. Unanticipated shifts in such mix could adversely impact our results of operations and require changes to our business model.
+Professional consulting services margins are generally lower than the other elements of our data warehousing solutions. In addition, when we use third parties to supplement the services we provide to customers, this generally results in lower margin
+rates. As a result, increases in professional consulting services revenues as a percentage of our total revenues may decrease overall margins, which could materially adversely affect our operating results. 
+
+We also realize different margins on the storage components we sell with our solutions, and the mix of such hardware varies from quarter to quarter depending on customer
+requirements. In addition, changes in the price and performance of our data warehousing hardware could negatively impact maintenance, support and subscription service revenues. 
+
+Complexity of Our Solutions—The solutions we sell are very complex, and we need to rapidly and successfully develop and introduce new solutions in a competitive, demanding and rapidly changing environment.
+
+To succeed in the intensely competitive information technology industry, we must continually improve and refresh our product and service offerings
+to include newer features, functionality or solutions. Shortened product life cycles due to customer demands and competitive pressures impact the pace at which we must introduce and implement new technology. This requires a high level of innovation
+by both our software developers and the suppliers of the third-party software components included in our systems. In addition, bringing new solutions to the market entails a costly and lengthy process, and requires us to accurately anticipate
+customer needs and technology trends. We must continue to respond to market demands, develop leading technologies and maintain leadership in EDW database performance and scalability, or our business operations may be adversely affected. 
+
+We must also anticipate and respond to customer demands regarding the compatibility of our current and prior offerings. These demands could hinder the pace of
+introducing and implementing new technology. Our future results may be affected if our products cannot effectively interface and perform well with software products of other companies and with our customers’ existing information technology
+infrastructures, or if we are unsuccessful in our efforts to enter into agreements allowing integration of third-party technology with the Teradata database platform. Our efforts to develop the interoperability of our products may require
+significant investments of capital and employee resources. In addition, many of our principal products are used with products offered by third parties and, in the future, some vendors of non-Teradata products may become less willing to provide us
+with access to their products, technical information and marketing and sales support. 
+
+As a result of these and other factors, our ability to introduce new
+or improved solutions could be adversely impacted. There can be no assurance that our innovations will be profitable, and if we cannot successfully market and sell both existing and newly developed solutions, our business and operating results could
+be impacted. If we were to lose our significant technology advantage, our market share and growth could be adversely affected. In addition, if we are unable to deliver products, features, and functionality as projected, we may be unable to meet our
+commitments to customers, which could have an adverse affect on our reputation and business. 
+
+Risks of New Products—When we develop new products
+with higher capacity and more advanced technology, the increased difficulty and complexity associated with producing these products increases the likelihood of reliability, quality or operability problems. 
+
+Despite rigorous testing prior to their release and superior quality processes, our software and hardware products may contain errors or security flaws, which may be
+found after the products are introduced and shipped. This risk is enhanced when products are first introduced or when new versions are released, as well as when we develop 
+
+15 
+
+Table of Contents
+
+products with more advanced technology, since the increased difficulty and complexity associated with producing these products increases the likelihood of
+reliability, quality or operability problems. The correction and detection of errors may cause delays, lost revenues and incremental costs. Errors in our software products could also affect the ability of our products to work with other hardware or
+software products, could delay the development or release of new products or new versions of products, and could adversely affect market acceptance of our products. While we attempt to remedy errors that we believe would be considered critical by
+our customers prior to shipment, we may not be able to detect or remedy all such errors. 
+
+Our customers who rely on our solutions for business-critical
+applications are more sensitive to product errors, which could expose us to product liability, performance and warranty claims, as well as harm our reputation. These and other risks associated with new product and service offerings may have a
+material adverse impact on our results of operations and future performance. 
+
+Product introductions and certain enhancements of existing products by us in
+the future periods may also reduce demand for our existing products or could delay purchases by customers awaiting arrival of our new products. As new or enhanced products are introduced, we must successfully manage the transition from older
+products. 
+
+In the ordinary course of business, we continually evaluate opportunities for new product and service offerings, new markets and new geographic
+sectors, and development of such opportunities could entail certain business risks which could affect our financial condition. 
+
+Security
+Lapses—The confidentiality of information we hold or the security of our computer systems could be jeopardized. 
+
+We operate pursuant to a
+business-to-business model, and therefore we normally do not handle large volumes of personally identifiable information for our customers—such as employee data, customer data, data that our customers collect from their customers, and
+information regulated by the Health Insurance Portability and Accountability Act of 1996. However, some of our services require us to have access to such highly confidential information. If unauthorized access to or use of such information occurs,
+despite our data security measures to protect it, our results of operation and reputation could be adversely impacted. 
+
+Reliance on Third
+Parties—Our future results depend in part on our relationships with key suppliers, strategic partners and other third parties. 
+
+Our
+development, marketing and distribution strategies depend in part on our ability to form strategic alliances with third parties that have complementary products, software, services and skills. Our strategic partners include consultants and system
+integrators, software and technology providers, and indirect channel distributors in certain countries. These relationships create risks beyond our control of our partners changing their business focus, entering into strategic alliance with other
+companies, being acquired by our competitors, failing to meet performance criteria or improperly using our confidential information. If we fail to maintain or expand our relationships with strategic partners, our business may be materially adversely
+affected. 
+
+Third-party vendors provide important elements to our solutions; if we do not maintain our relationships with these vendors, interruptions in
+the supply of our products may result. There are some components of our solutions that we purchase from single sources due to price, quality, technology or other reasons. For example, we have relied on Flextronics (formerly Solectron) as a key
+single source contract manufacturer for our hardware systems for the last several years. In addition, we depend on Accenture for transaction processing services, and buy silicon computer chips and microprocessors from Intel Corporation, and storage
+disk systems from EMC Corporation and LSI Corporation. Some components supplied by third parties may be critical to our solutions, and several of our suppliers may terminate their agreements with us without cause with 180 days notice. If we were
+unable to purchase necessary services, parts, components or products from a particular vendor and had to find an alternative supplier, our shipments and deliveries could be delayed, and our operations could be adversely impacted. 
+
+16 
+
+Table of Contents
+
+In addition, smaller suppliers have operating risks that could impact our business. These risks could create product time
+delays, inventory and invoicing problems, staging delays, and other operational difficulties. We could also be impacted by their inability to provide high-quality products or services that conform to required specifications or contractual
+arrangements, which could negatively impact our business and operating results. 
+
+Reliance on the Intellectual Property of Third Parties—The loss
+of our rights to use software licensed to us by third parties could harm our business. 
+
+We have an active partner program that offers rights to
+sublicense third party software as part of a complete suite of solutions for our customers. This offering, as well as our reliance on third party software and licenses in our operating system software and business, creates risks that are not present
+when developing software in-house. For example, the viability, reliability and quality of such partners’ businesses, as well as their ability to fulfill their obligations to us, are factors that come into play and could adversely affect our
+financial condition. Our operations could also be impacted if we are forced to seek alternative technology, or technology for new solutions, that may not be available on commercially reasonable terms. Also, many of our offerings are complemented by
+technologies developed by others, and if we are unable to continue to obtain licenses for such technologies, our business would be impacted. 
+
+Intellectual Property—If we are unable to develop, preserve and protect our intellectual property assets, our operating results may be adversely affected. 
+
+As a technology company, our intellectual property portfolio is crucial to our continuing ability to be a leading EDW solutions provider. We strive to protect and enhance our proprietary intellectual property rights
+through patent, copyright, trademark and trade secret laws, as well as through technological safeguards. These efforts include protection of the products and application, diagnostic and other software we develop. 
+
+To the extent we are not successful, our business could be materially adversely impacted. We may be unable to prevent third parties from using our technology without our
+authorization or independently developing technology that is similar to ours, particularly in those countries where the laws do not protect our proprietary rights as fully as in the United States. With respect to our pending patent applications, we
+may not be successful in securing patents for these claims, and our competitors may already have applied for patents that, once issued, will prevail over our patent rights or otherwise limit our ability to sell our products. 
+
+While we take steps to provide for confidentiality obligations of employees and third parties with whom we do business (including customers, suppliers and strategic
+partners), there is a risk that such parties will breach such obligations and jeopardize our intellectual property rights. Many customers have outsourced the administration and management of their data warehouses to third parties, including some of
+our competitors, who then have access to our confidential information. Although we have agreements in place to mitigate this risk, there can be no assurance that such protections will be sufficient. In addition, our ability to capture and re-use
+field-based developed intellectual property is important to future business opportunities and margins. 
+
+We are actively engaged in efforts to protect the
+value of our intellectual property and to prevent others from infringing our intellectual property rights. However, due to the complex and technical nature of such efforts and the potentially high stakes involved, such enforcement activity can be
+expensive and time consuming, and there can be no assurance that we will be successful in these efforts. 
+
+Research and Development—We make
+significant investments in research and development and cannot assure that these investments will be profitable. 
+
+As part of our business strategy,
+we must continue to dedicate a significant amount of resources to our research and development efforts in order to maintain our competitive position. However, we do not expect to receive significant revenues from these investments for several years,
+if at all. Research and development expenses represent a significant portion of our discretionary fixed costs. We believe these new technologies could significantly improve our products and services over the long-term. However, if we have invested
+too much in 
+
+17 
+
+Table of Contents
+
+these or other technologies, our results of operations could be adversely affected. In addition, as we replace our existing assets with new, higher cost
+assets, we expect that our depreciation expense will increase, which will contribute to our high level of fixed costs and reduce our earnings. 
+
+Intellectual Property Infringement Claims by Third Parties—Claims by others that we infringe their intellectual property rights could harm our business and financial condition. 
+
+We have seen a trend towards aggressive enforcement of intellectual property rights as the functionality of products in our industry increasingly overlaps and the volume
+of issued software patents continues to grow. As a result, there is a risk that we could be subject to infringement claims which, regardless of their validity, could: 
+
+•
+
+ Be expensive, time consuming and divert management attention away from normal business operations; 
+
+•
+
+ Require us to pay monetary damages or enter into non-standard royalty and licensing agreements; 
+
+•
+
+ Require us to modify our product sales and development plans; or 
+
+•
+
+ Require us to satisfy indemnification obligations to our customers. 
+
+Regardless of whether these claims have any merit, they can be burdensome to defend or settle and can harm our business and reputation. 
+
+Dependence on Key Employees—We depend on key employees and face competition in hiring and retaining qualified employees. 
+
+Our employees are critical to our success. Our future success depends on our ability to attract and retain the services of senior management and key personnel in all functional areas of our company, including
+engineering and development, marketing and sales professionals, and consultants. Competition for highly skilled personnel in the IT industry is intense. No assurance can be made that key personnel will remain with us, and it may be difficult and
+costly to replace such employees. These risks are enhanced by the transitional efforts in connection with the Separation that may adversely impact our workforce. Our failure to hire, retain and replace our key personnel could have a material adverse
+impact on our business operations. 
+
+Internal Controls—Inadequate internal controls over financial reporting and accounting practices could lead
+to errors, which could adversely impact our ability to assure timely and accurate financial reporting. 
+
+In the fourth quarter of 2007, we identified
+a material weakness in our internal control over financial reporting relating to the accounting for revenue for transactions involving resellers. Specifically, effective controls did not exist to ensure the accuracy of revenue recognized on sales to
+resellers for which fees were not fixed or determinable. This control deficiency resulted in a revision to the consolidated financial statements for the year ended December 31, 2006, and an adjustment to the consolidated financial statements
+for the year ended December 31, 2007, and could also result in misstatements to the consolidated financial statements affecting revenue, deferred revenue, accounts receivable, inventory, cost of goods sold and net income and disclosures that
+would result in a material misstatement of the consolidated financial statements that would not be prevented or detected. A material weakness is a deficiency, or combination of deficiencies, in internal control over financial reporting, such that
+there is a reasonable possibility that a material misstatement of the Company’s annual or interim financial statements will not be prevented or detected on a timely basis. The Company was not required by Section 404 of the Sarbanes-Oxley
+Act of 2002 (“Section 404”) and related SEC rules and regulations to perform an evaluation of the effectiveness of our internal control over financial reporting as of December 31, 2007. If such an evaluation had been performed,
+additional material weaknesses may have been identified. Under Section 404 and related SEC rules and regulations, our management will be required to evaluate and report on the effectiveness of our internal control over financial reporting as of
+December 31, 2008. 
+
+While remediation efforts are being implemented to resolve these deficiencies, there is no guarantee that further error will not
+occur. Additionally, internal control over financial reporting, no matter how well designed and 
+
+18 
+
+Table of Contents
+
+operated, can provide only reasonable, not absolute, assurance that the control objectives will be met. These inherent limitations include system errors, the
+potential for human error and unauthorized actions of employees or contractors, inadequacy of controls, temporary lapses in controls due to shortfalls in transition planning and oversight or resources, and other factors. Consequently, such controls
+may not prevent or detect misstatements in our reported financial results as required under SEC and New York Stock Exchange (“NYSE”) rules, which could increase our operating costs or impair our ability to operate our business. Controls
+may also become inadequate due to changes in circumstances, and it is necessary to replace, upgrade or modify our internal information systems from time to time. If we are unable to implement these changes in a timely and cost-effective manner, our
+ability to capture and process financial transactions and support our customers as required may be adversely impacted and could harm our operating results. 
+
+In addition, despite transition planning and management oversight, completing our transition from operating as a division of NCR to operating as a standalone company, as well as the outsourcing of certain transaction processing functions to
+Accenture, creates certain risks of operational delays and potential deficiencies in internal control over financial reporting. 
+
+Damage to Our
+Information Systems—Our information systems, computer equipment and information databases are critical to our business operations, and any damage or disruptions could adversely affect our operations. 
+
+Our operations are dependent on our ability to protect our computer equipment and the information stored in our databases from damage by, among other things, earthquake,
+fire, natural disaster, power loss, telecommunications failures, unauthorized intrusions and other catastrophic events. A significant part of our operations is based in an area of California that has experienced power outages and earthquakes and is
+considered seismically active. Despite our best efforts at planning for such contingencies, catastrophic events of this nature may still result in system failures and other interruptions in our operations, which could have a material adverse effect
+on our business and financial condition. 
+
+In addition, it is periodically necessary to replace, upgrade or modify our internal information systems. If we
+are unable to do this in a timely and cost-effective manner, especially in light of demands on our information technology resources, our ability to capture and process financial transactions and therefore our financial condition or results of
+operations may be adversely impacted. 
+
+Acquisitions and Alliances—Our ability to successfully integrate acquisitions and effectively manage
+acquisition and alliance activities may be an important element of future growth. 
+
+From time to time, we may make investments in companies,
+products, service capabilities and technologies through acquisitions, equity investments, joint ventures or strategic alliances. Such transactions entail various risks, including risks associated with: 
+
+•
+
+ Assimilating and integrating different business operations, corporate cultures, personnel, infrastructure and technologies or products acquired or licensed;
+
+•
+
+ The potential for unknown liabilities and quality issues within the acquired or combined business; 
+
+•
+
+ Disruptions of our ongoing business or inability to successfully incorporate acquired products, services or technologies into our solutions and maintain quality;
+
+•
+
+ Failure to achieve the projected synergies after integration of acquired companies; and 
+
+•
+
+ Additional costs not anticipated at the time of acquisition. 
+
+Our operating results may fluctuate as a result of acquisitions and other strategic growth transactions, and there is a risk that our financial results may be materially adversely affected. 
+
+19 
+
+Table of Contents
+
+Legal Contingencies and Regulatory Matters—Like other technology companies, we face uncertainties with regard
+to lawsuits, regulations and other related matters. 
+
+In the normal course of business, we are subject to proceedings, lawsuits, claims and other
+matters, including those that relate to the environment, health and safety, employee benefits, export compliance, intellectual property, tax matters, and other regulatory compliance and general matters. See Note 10 in Notes to Consolidated Financial
+Statements included herein. Because such matters are subject to many uncertainties, their outcomes are not predictable. While we believe that amounts provided in our consolidated financial statements are currently adequate in light of the probable
+and estimable liabilities, there can be no assurances that the amounts required to satisfy alleged liabilities from such matters will not impact future operating results. 
+
+In addition, we are subject to diverse and complex laws and regulations, including those relating to corporate governance, public disclosure and reporting—which are rapidly changing and subject to many possible
+changes in the future. Laws and regulations impacting our customers, such as those relating to privacy and data protection, could also impact our future business. 
+
+There is an increased focus by the SEC on Foreign Corrupt Practices Act (“FCPA”) enforcement activities. Given the breadth and scope of our international operations, we may not be able to detect improper or unlawful conduct by our
+international partners and employees, despite our high ethics, governance and compliance standards, which could put the Company at risk regarding possible violations of laws, including the FCPA. 
+
+Considerable management time and resources will be spent to understand and comply with changing laws, regulations and standards relating to corporate governance, public
+disclosure (including the Sarbanes-Oxley Act of 2002), SEC regulations, Basel II and the rules of the NYSE where our shares are listed. Although we do not believe that recent regulatory and legal initiatives will result in significant changes to our
+internal practices or our operations, rapid changes in accounting standards, taxation requirements, and federal securities laws and regulations, among others, may substantially increase costs to our organization and could have an impact on our
+future operating results. 
+
+Environmental Liabilities—Our business operations and our predecessor’s historical and ongoing manufacturing
+activities may subject us to environmental exposures, which could adversely impact our operations and financial results. 
+
+Our facilities and
+operations, and certain former operations for which we assumed liabilities, are subject to a wide range of environmental protection laws. For example, as a result of the Restriction of Hazardous Substances Directive (“RoHS”) and Directive
+2002/96/EC on Waste Electrical and Electronic Equipment, our product distribution, logistics and waste management costs may increase and may adversely impact our financial condition. We expect from time to time to incur costs in connection with
+compliance with these matters. Given the uncertainties inherent in such activities, there can be no assurances that the costs required to comply with applicable environmental laws will not adversely impact future operating results. 
+
+Other Factors—There are a number of other factors that could cause our operating results to fluctuate and could have a material adverse impact on our
+financial condition. 
+
+Our revenue and operating results could fluctuate for a number of reasons, including: 
+
+•
+
+ Foreign Currency Fluctuations: 
+Our revenue and operating income are subject to variability due to the effects of foreign currency fluctuations against
+the U.S. Dollar. We have exposure to approximately 30 functional currencies. The primary currencies to which the Company is exposed include the Euro, British Pound, Japanese Yen, the Canadian dollar, the Australian dollar and other Asian and South
+American currencies. A significant portion of our revenue and operating income is generated outside the United States, and therefore our financial results may fluctuate due to the effects of such foreign currency fluctuations, which are difficult to
+predict. 
+
+20 
+
+Table of Contents
+
+•
+
+ Contractual Obligations of Consulting Services:
+ We maintain a professional services consulting workforce to fulfill contracts that we enter into with
+our customers that may extend to multiple periods. Our profitability is largely a function of performing to customer contractual arrangements within the estimated costs to perform these obligations. If we exceed these estimated costs, our
+profitability related to these contracts may be negatively impacted. In addition, if we are unable to maintain appropriate utilization rates for our consultants, we may not be able to sustain profitability on these contracts.
+
+•
+
+ Pension and Postemployment Benefits:
+ As of the Separation, the Company does not offer pension benefits to employees in the United States. However,
+consistent with local competitive practice and regulations, we sponsor pension plans and are required to offer certain postemployment benefits in many of the countries where we do business. A number of the pension plans are supported by pension fund
+investments that are subject to some financial market risk. Pension and postemployment benefit costs are reported in our financial statements in accordance with Statement of Financial Accounting Standards No. 87 (“SFAS 87”),
+
+Employer’s Accounting for Pensions and Statement of Financial Accounting Standards No. 112 (“SFAS 112”), 
+Employers’ Accounting for Postemployment Benefits. In accordance with these accounting standards, we are
+required to make a number of actuarial assumptions for each plan, including expected long-term return on plan assets, discount rates, and the rate of employee turnover. We do not expect that our future financial results will be materially impacted
+by these assumptions; however, many countries around the world are in the process of updating their laws and regulations regarding pension funding. These initiatives could require us to make larger contributions to our pension plans in future years.
+
+•
+
+ Stock Option Accounting:
+ Similar to other companies, we use stock awards as a form of compensation for certain employees. As part of NCR, the company
+adopted Statement of Financial Accounting Standards No. 123 (revised 2004) (“SFAS 123R”), 
+Share-Based Payment, beginning January 1, 2006. SFAS 123R requires all stock-based payments to employees, including grants of
+employee stock options, to be recognized in the financial statements based on their fair values. The amount recognized for stock compensation expense could vary depending on the assumptions used or changes to assumptions or other factors. For
+example, assumptions such as the risk-free rate, expected holding period and expected volatility that drive our valuation model could change. Other examples that could have an impact include changes in the mix and type of awards, changes in our
+compensation plans or tax rate, changes in our forfeiture rate, differences in actual results compared to management’s estimates for performance-based awards or an unusually high amount of expirations of stock options.
+
+•
+
+ Research and Development Accounting:
+ Statement of Financial Accounting Standard No. 86 (“SFAS 86”), 
+Accounting for Costs of
+Computer Software to be Sold, Leased or Otherwise Marketed, establishes the financial accounting for software development costs that are incurred during the product development cycle. This standard applies to development costs incurred on
+projects that are intended to result in marketable software products or software used as part of a marketable product or process. The standard specifies that software development costs should be classified as a research and development expense until
+the intended product or process has achieved technological feasibility. Costs incurred after a product has achieved technological feasibility, but before product release, should be capitalized. The timing of when various research and development
+projects become technologically feasible or ready for release can cause fluctuation in the amount of engineering costs that are expensed or capitalized in any given period, thus impacting our reported profitability for that period.
+
+•
+
+ Changes in Accounting Standards: 
+We prepare our financial statements in accordance with U.S. generally accepted accounting principles
+(“GAAP”). These accounting principles require us to make estimates and assumptions that affect the reported amounts of assets and liabilities, and the disclosure of contingent assets and liabilities at the date of our financial statements.
+We are also required to make certain judgments that affect the reported amounts of revenues and expenses during each reporting period. We periodically evaluate our estimates and assumptions including those relating to revenue recognition, impairment
+of goodwill and tangible assets, the allowance for doubtful accounts, capitalized software, restructuring, income taxes, stock-based compensation, contingencies and litigation. We base our estimates on historical experience and various assumptions
+that we believe to be reasonable based on specific circumstances. Actual results could differ from these estimates, and changes in accounting standards could increase costs to our organization and could have an impact on our future operating
+results. For example, we recognize revenue for software and software-related elements of our solutions in accordance with AICPA Statement of Position 97-2, 
+Software Revenue 
+
+21 
+
+Table of Contents
+
+Recognition, and related interpretations. The AICPA and its Software Revenue Recognition Task Force continue to issue interpretations and guidance for
+applying accounting standards to a wide range of sales contract terms and business arrangements that are prevalent in software licensing arrangements. Future interpretations of these and other accounting standards or changes in our business
+practices could result in delays in our recognition of revenue that may have a material adverse effect on our operating results. 
+
+•
+
+ Income Taxes:
+ We account for income taxes in accordance with Statement of Financial Accounting Standards No. 109 (“SFAS 109”),
+
+Accounting for Income Taxes, which recognizes deferred tax assets and liabilities based on the differences between the financial statement carrying amounts and the tax basis of assets and liabilities. We regularly review our deferred tax
+assets for recoverability and establish a valuation allowance if it is more likely than not that some portion or all of a deferred tax asset will not be realized. If we are unable to generate sufficient future taxable income, if there is a material
+change in the actual effective tax rates or the time period within which the underlying temporary differences become taxable or deductible, or if the tax laws change unfavorably, then we could be required to increase our valuation allowance against
+our deferred tax assets, resulting in an increase in our effective tax rate. We may have exposure to additional tax liabilities. As a multinational corporation, we are subject to income taxes as well as non-income based taxes in both the U. S. and
+various foreign jurisdictions. Significant judgment is required in determining our worldwide tax provision for income taxes and other tax liabilities. 
+
+International Operations—Generating substantial revenues from our multinational operations helps us to meet our strategic goals, but poses a number of risks. 
+
+In 2007, the percentage of our total revenues from outside of the United States was 48%. We believe that our geographic diversity may help to mitigate some risks
+associated with geographic concentrations of operations (e.g., adverse changes in foreign currency exchange rates and deteriorating economic environments or business disruptions due to economic or political uncertainties). However, our ability to
+sell our solutions domestically and internationally is subject to the following risks, among others: 
+
+•
+
+ General economic and political conditions in each country that could adversely affect demand for our solutions in these markets; 
+
+•
+
+ Currency exchange rate fluctuations that could result in lower demand for our products as well as generate currency translation losses;
+
+•
+
+ The impact of civil and political unrest relating to war and terrorist activity on the economy or markets in general, or on our ability, or that of our suppliers,
+to meet commitments; 
+
+•
+
+ Changes to and compliance with a variety of local laws and regulations that may increase our cost of doing business in these markets or otherwise prevent us from
+effectively competing in these markets; 
+
+•
+
+ Cultural and management challenges with managing new and growing professional services consulting and engineering functions overseas in such countries as India,
+China and Pakistan; 
+
+•
+
+ Difficulties in staffing and managing our foreign offices and the increased travel, infrastructure and legal and compliance costs associated with multiple
+international locations; 
+
+•
+
+ Longer payment cycles for sales in foreign countries and difficulties in enforcing contracts and collecting accounts receivable; 
+
+•
+
+ Additional withholding taxes or other taxes on our foreign income, and tariffs or other restrictions on foreign trade or investment; 
+
+•
+
+ Difficulties in repatriating overseas earnings; 
+
+•
+
+ Costs and delays associated with developing products in multiple languages; and 
+
+•
+
+ Changing competitive requirements and deliverables in developing and emerging markets. 
+
+Our products are subject to U.S. export controls and, when exported from the United States, or re-exported to another country, must be authorized under applicable U.S.
+export regulations. Changes in our products or changes in export regulations may create delays in the introduction of our products in international markets, prevent our customers with international operations from deploying our products throughout
+their global systems or, in some cases, prevent the export of our products to certain countries or customers altogether. Any change in export regulations or related legislation, shift in approach to the enforcement or scope of existing regulations,
+or change 
+
+22 
+
+Table of Contents
+
+in the countries, persons or technologies targeted by these regulations could result in decreased use of our products by, or in our decreased ability to
+export or sell our products to, existing or potential customers with international operations. 
+
+Open Source Software—The growing market
+acceptance of open source software presents benefits and challenges for our industry. 
+
+We have developed a version of the Teradata database software
+to operate on the LINUX open source platform and have incorporated other types of open source software into our products, allowing us to enhance certain solutions without incurring substantial additional research and development costs and expand our
+solution offerings. “Open source” software is made widely available by its authors and is licensed for a nominal fee or, in some cases, at no charge. For example, LINUX is a free UNIX-type operating system, and the source code for LINUX is
+freely available. While we believe our contractual obligations are limited with respect to such software, no assurances can be given that unanticipated problems arising from our use of open source software will not arise in the future. 
+
+Open source licenses typically mandate that proprietary software, when combined in specific ways with open source software, become subject to the open source license.
+We take steps to ensure that our proprietary software is not combined with, or does not incorporate, open source software in ways that would require our proprietary software to be subject to an open source license. However, few courts have
+interpreted the open source licenses, and the manner in which these licenses may be interpreted and enforced is therefore subject to uncertainty. 
+
+Risks
+Relating to the Separation 
+
+We may be unable to achieve some or all of the benefits that we expect to achieve from the Separation.
+
+As a stand-alone, independent public company, we believe that our business will benefit from, among other things, allowing our management to design
+and implement corporate policies and strategies that are based primarily on the characteristics of our business, allowing us to focus our financial resources wholly on our own operations and implement and maintain a capital structure designed to
+meet our own specific needs. However, by separating from NCR there is a risk that our company may be more susceptible to market fluctuations and other adverse events than we would have been were we still a part of NCR. As part of NCR we were able to
+enjoy certain benefits from NCR’s operating diversity and purchasing and borrowing leverage. We may not be able to achieve some or all of the benefits that we expect to achieve as a stand-alone, independent company. 
+
+We have no operating history as a separate public company, and our historical information is not necessarily representative of the results we would have achieved
+as a separate, publicly-traded company and may not be a reliable indicator of our future results. 
+
+The historical information (prior to the
+Separation) included in this Annual Report does not necessarily reflect the financial condition, results of operations or cash flows that we would have achieved as a separate publicly-traded company during the periods presented or those that we will
+achieve in the future, primarily as a result of the following factors: 
+
+•
+
+ Prior to the Separation, our business was operated by NCR as part of its broader corporate organization, rather than as an independent company. NCR or one of its
+affiliates performed various corporate functions for us, including, but not limited to, tax administration, cash management, accounting, information services, human resources, ethics and compliance program, real estate management, investor and
+public relations, certain governance functions (including compliance with the Sarbanes-Oxley Act of 2002 and internal audit) and external reporting. Our historical financial results reflect allocations of corporate expenses from NCR for these and
+similar functions. These allocations were less than the comparable expenses we will incur as a separate, publicly-traded company. 
+
+23 
+
+Table of Contents
+
+•
+
+ Prior to the Separation, our business was integrated with the other businesses of NCR. Historically, we have shared economies of scope and scale in costs,
+employees, vendor relationships and customer relationships. While we have entered into short-term transition agreements that govern certain commercial and other relationships between us and NCR, those temporary arrangements may not capture the
+benefits our businesses enjoyed as a result of being integrated with the other businesses of NCR. The loss of these benefits could have an adverse effect on our business, results of operations and financial condition following the Separation.
+
+•
+
+ Generally, our working capital requirements and capital for our general corporate purposes, including acquisitions and capital expenditures, were historically
+satisfied as part of the corporate-wide cash management policies of NCR. Cash generated by Teradata prior to the Separation from NCR was managed and retained by NCR. Immediately prior to the Separation, NCR transferred $196 million in cash plus a $4
+million receivable (collected in October, 2007) to Teradata and, following completion of the Separation, NCR no longer provides the Company with funds to finance our working capital or other cash requirements. Without the opportunity to obtain
+financing from NCR, we may seek additional financing from banks, through public offerings or private placements of debt or equity securities, strategic relationships or other arrangements, and the terms of those offerings may not be as favorable as
+those we could have obtained when we were part of NCR. 
+
+•
+
+ Other significant changes may occur in our cost structure, management, financing and business operations as a result of our operating as a company separate from
+NCR. 
+
+We may be unable to make, on a timely or cost-effective basis, the changes necessary to operate as an independent company,
+and we will experience increased costs after the Separation or as a result of the Separation. 
+
+Following the completion of our Separation, NCR is
+contractually obligated to provide to us only those transition services specified in the Interim Services and Systems Replication Agreement and the other agreements we entered into with NCR in preparation for the Separation. The expiration date of
+the Interim Services and Systems Replication Agreement varies by service provided and is generally 18 months from the date of the Separation, subject to extension in some cases for up to six additional months. We may be unable to replace in a timely
+manner or on comparable terms the services or other benefits that NCR previously provided to us that are not specified in the Interim Services and Systems Replication Agreement or the other agreements. Also, upon the expiration of the Interim
+Services and Systems Replication Agreement or other agreements, many of the services that are covered in such agreements will be provided internally or by unaffiliated third parties, and we expect that, in some instances, we will incur higher costs
+to obtain such services than we incurred under the terms of such agreements. In addition, if NCR does not perform effectively the transition services and the other services that are called for under the Interim Services and Systems Replication
+Agreement and other agreements, we may not be able to operate our business effectively and our profitability may decline. Furthermore, after the expiration of the Interim Services and Systems Replication Agreement and the other agreements, we may be
+unable to replace in a timely manner or on comparable terms the services specified in such agreements. 
+
+Similarly, prior to the Separation, we purchased a
+wide variety of products and services, including software licenses, from third parties jointly with NCR. We expect to experience some increased costs after the Separation as a result of our inability to continue to purchase products and services on
+terms that are as favorable to us as those obtained under these joint purchasing arrangements. Although we cannot predict the extent of any such increased costs, it is possible that it could have a material adverse impact on our business and results
+of operations. 
+
+If the distribution, together with certain related transactions, were to fail to qualify as a reorganization for U.S. federal income
+tax purposes under Sections 368(a)(1)(D) and 355 of the Code, then our stockholders, we and/or NCR might be subject to significant tax liability. 
+
+NCR received a private letter ruling from the Internal Revenue Service (“IRS”) substantially to the effect that the Separation, together with certain related transactions, will qualify for tax-free treatment under Sections 355 and
+368(a)(1)(D) of the Internal Revenue Code of 1986, as amended (“the Code”). In addition, NCR obtained an opinion from Wachtell, Lipton, Rosen & Katz 
+
+24 
+
+Table of Contents
+
+substantially to the effect that the Separation, together with certain related transactions, will so qualify. The IRS private letter ruling and the opinion
+relies on certain representations, assumptions and undertakings, including those relating to the past and future conduct of our business, and neither the IRS private letter ruling nor the opinion would be valid if such representations, assumptions
+and undertakings were incorrect. Moreover, the IRS private letter ruling does not address all the issues that are relevant to determining whether the distribution will qualify for tax-free treatment. Notwithstanding the IRS private letter ruling and
+opinion, the IRS could determine that the distribution should be treated as a taxable transaction if it determines that any of the representations, assumptions or undertakings that were included in the request for the private letter ruling is false
+or has been violated or if it disagrees with the conclusions in the tax opinion that are not covered by the IRS ruling. 
+
+If the distribution fails to
+qualify for tax-free treatment, NCR would be subject to tax as if it had sold the common stock of our company in a taxable sale for its fair market value, and our initial public stockholders would be subject to tax as if they had received a taxable
+distribution equal to the fair market value of our common stock that was distributed to them. Under the Tax Sharing Agreement between NCR and the Company, we would generally be required to indemnify NCR against any tax resulting from the
+distribution to the extent that such tax resulted from (i) an acquisition of all or a portion of our stock or assets, whether by merger or otherwise, (ii) other actions or failures to act by us or (iii) any of our representations or
+undertakings being incorrect or violated. Our indemnification obligations to NCR and its subsidiaries, officers and directors are not limited by any maximum amount. If we are required to indemnify NCR or such other persons under the circumstances
+set forth in the Tax Sharing Agreement, we may be subject to substantial liabilities. 
+
+Teradata and NCR might not be able to engage in desirable
+strategic transactions and equity issuances following the distribution. 
+
+To preserve the tax-free treatment to NCR of the Separation, under the Tax
+Sharing Agreement that we entered into with NCR, for the two-year period following the distribution, we are subject to restrictions with respect to: 
+
+•
+
+ entering into any transaction pursuant to which all or a portion of our stock would be acquired, whether by merger or otherwise, unless certain tests are met;
+
+•
+
+ issuing equity securities beyond certain thresholds; 
+
+•
+
+ repurchasing 20% or more of Teradata’s outstanding common stock; 
+
+•
+
+ ceasing to actively conduct the Teradata business; and 
+
+•
+
+ taking or failing to take any other action that prevents the spin-off and related transactions from being tax-free. 
+
+These restrictions may limit our ability to pursue strategic transactions or engage in new business or other transactions that may maximize the value of our business.
+
+Certain contracts still need to be assigned to Teradata from NCR or its affiliates in connection with the Separation, and many of these contracts
+require the consent of the counterparty to such an assignment. 
+
+The Separation and Distribution Agreement provides that in connection with our
+Separation from NCR, several contracts with customers, suppliers, landlords and other third parties were to be assigned to us from NCR or its affiliates. Certain contract assignments remain to be completed and may require the contractual
+counterparty’s consent to such an assignment. Similarly, in some circumstances, we and a business unit of NCR are jointly parties to a customer contract, and we need to enter into a new agreement with the customer to assign the portion of the
+contract related to our business. It is possible that some customers may use the requirement of a consent to seek more favorable terms from us. If we are unable to obtain these consents, we may be unable to obtain the benefits, assets, and
+contractual commitments which are intended to be allocated to us as part of the Separation. 
+
+25 
+
+Table of Contents
+
+In connection with the Separation, NCR has indemnified us for certain liabilities. However, there can be no
+assurance that the indemnity will be sufficient to insure us against the full amount of such liabilities, or that NCR’s ability to satisfy its indemnification obligations is not impaired in the future. 
+
+Pursuant to the Separation and Distribution Agreement, NCR has agreed to indemnify us from certain liabilities. This indemnity includes the Fox River environmental matter
+described in our Form 10. However, third parties could seek to hold us responsible for any of the liabilities that NCR has agreed to retain, and there can be no assurance that the indemnity from NCR will be sufficient to protect us against the full
+amount of such liabilities, or that NCR will be able to fully satisfy its indemnification obligations. Moreover, even if we ultimately succeed in recovering from NCR any amounts for which we are held liable, we may be temporarily required to bear
+these losses ourselves. Each of these risks could adversely affect our business, results of operations and financial condition. 
+
+Potential
+liabilities may arise due to fraudulent transfer considerations, which would adversely affect our financial condition and our results of operations. 
+
+In connection with the Separation, NCR undertook several corporate restructuring transactions which, along with the Separation, may be subject to federal and state fraudulent conveyance and transfer laws. If, under these laws, a court were
+to determine that, at the time of the Separation, any entity involved in these restructuring transactions or the Separation: 
+
+•
+
+ was insolvent, 
+
+•
+
+ was rendered insolvent by reason of the Separation, 
+
+•
+
+ had remaining assets constituting unreasonably small capital, or 
+
+•
+
+ intended to incur, or believed it would incur, debts beyond its ability to pay these debts as they matured, 
+
+the court could void the Separation, in whole or in part, as a fraudulent conveyance or transfer. The court could then require our stockholders to return to NCR some or
+all of the shares of our common stock issued pursuant to the Separation, or require NCR or us, as the case may be, to fund liabilities of the other company for the benefit of creditors. The measure of insolvency will vary depending upon the
+jurisdiction whose law is being applied. Generally, however, an entity would be considered insolvent if the fair value of its assets was less than the amount of its liabilities or if it incurred debt beyond its ability to repay the debt as it
+matures.

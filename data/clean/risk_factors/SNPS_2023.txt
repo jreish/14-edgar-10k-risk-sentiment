@@ -1,0 +1,750 @@
+of this Annual Report on Form 10-K.
+
+9
+
+Table of Contents
+
+Revenue Attributable to Product Groups
+
+Revenue from our products and services is categorized into four groups:
+
+•
+EDA, which includes digital and custom IC design software, verification hardware and software products, manufacturing-related design products, FPGA design software, AI driven EDA solutions, and professional services;
+
+•
+Design IP, which includes our Synopsys IP portfolio;
+
+•
+Software Integrity, which includes solutions that test software code for security vulnerabilities and quality defects, as well as professional and managed services; and
+
+•
+Other, which includes university programs, optical products, mechatronic simulation, and the impact of gains and losses from foreign currency hedges.
+
+Revenue attributable to each of our four product groups is shown below as a percentage of our total revenue for those fiscal years. 
+
+Aggregate revenue derived from one of our customers and its subsidiaries through multiple agreements accounted for 12.4%, 11.7% and 10.6% of our total revenue in fiscal 2023, 2022 and 2021, respectively.
+
+Product Sales and Licensing Agreements
+
+We typically license our software to customers under non-exclusive license agreements that restrict use of our software to specified purposes within specified geographical areas. The majority of licenses to our EDA products are network licenses that allow a number of individual users to access the software on a defined network, including, in some cases, regional or global networks. The majority of licenses to our Software Integrity products are capacity or user licenses that allow a number of users to access the software based on a specified number of team members or specified code-bases in a defined territory. License fees depend on the type of license, product mix, and number of copies of each product licensed.
+
+For a full discussion of our software product offerings, see Part II, Item 7, 
+Management’s Discussion and Analysis of Financial Condition and Results of Operations 
+of this Annual Report on Form 10-K
+.
+
+10
+
+Table of Contents
+
+We typically license Synopsys IP products under nonexclusive license agreements that provide usage rights for specific designs. Fees under these licenses are typically charged on a per design basis plus, in some cases, royalties. See Note 2. 
+Significant Accounting Policies and Bases of Presentation
+ of the 
+Notes to Consolidated Financial Statements
+ for further information.
+
+Our hardware products, which principally consist of our prototyping and emulation systems, are either sold or leased to our customers. Risks related to disruptions in our supply chain affecting our business are described in Part I, Item 1A, 
+Risk Factors 
+of this Annual Report on Form 10-K.
+
+Our professional services team typically provides design consulting services to our customers under consulting agreements with statements of work specific to each project.
+
+Competition
+
+Within our Design Automation segment, we compete against other EDA vendors and against our customers’ own design tools and internal design capabilities. The EDA industry is highly competitive. In general, we compete principally on technology leadership, product quality and features (including ease-of-use), license terms, price and payment terms, post-contract customer support, flexibility of tool use, and interoperability with our own and other vendors’ products. We also deliver a significant amount of engineering and design consulting for our products. No single factor drives an EDA customer’s buying decision, and we compete on all fronts to capture a higher portion of our customers’ budgets. Our competitors include EDA vendors that offer varying ranges of products and services, such as Cadence Design Systems, Inc. and Siemens EDA. We also compete with other EDA vendors, including new entrants to the marketplace, that offer products focused on one or more discrete phases of the IC design process, as well as with customers’ internally developed design tools and capabilities.
+
+Within our Design IP segment, Synopsys competes against numerous other IP providers, including Cadence Design Systems, Inc., and our customers' internally developed IP. We generally compete on the basis of product quality, reliability, features, availability of titles for new manufacturing processes, ease of integration with customer designs, compatibility with design tools, license terms, price and payment terms, and customer support.
+
+Our Software Integrity segment competes with numerous solution providers, many of which focus on specific aspects of software security or quality analysis. We also compete with frequent new entrants, which include start-up companies and more established software companies. For example, competitors named in the Gartner Magic Quadrant for Application Security Testing include Checkmarx Ltd., Veracode, Inc., Open Text Corporation, GitHub, Inc. and Snyk Ltd.
+
+Risks related to competitive factors affecting our business are described in Part I, Item 1A, 
+Risk Factors 
+of this Annual Report on Form 10-K.
+
+Proprietary Rights
+
+We primarily rely upon a combination of copyright, patent, trademark, and trade secret laws and license and non-disclosure agreements to establish and protect our proprietary rights. We have a diversified portfolio of more than 3,300 United States and foreign patents issued, and we will continue to pursue additional patents in the future. Our issued patents have expiration dates through 2044 and generally have a term of twenty years from filing. Our patents primarily relate to our products and the technology used in connection with our products. Our source code is protected both as a trade secret and as an unpublished copyrighted work. However, third parties may independently develop similar technology. In addition, effective copyright and trade secret protection may be unavailable or limited in some foreign countries. While protecting our proprietary technology is important to our success, our business as a whole is not significantly dependent upon any single patent, copyright, trademark, or license.
+
+In many cases, under our customer agreements and other license agreements, we offer to indemnify our customers if the licensed products infringe on a third party’s intellectual property rights. As a result, we may from time to time need to defend claims that our customers’ use of our products infringes on these third-party rights. We license software and other intellectual property from third parties, including, in several instances, for inclusion in our products. Risks related to our use of third-party technology are described in Part I, Item 1A, 
+Risk Factors 
+of this Annual Report on Form 10-K
+.
+
+Environment, Social and Governance Matters
+
+At Synopsys, our Smart Future Environment, Social and Governance (ESG) strategy provides a framework for how we manage our own operational impact on the world and our ability to influence others to do the same, as we 
+
+11
+
+Table of Contents
+
+believe this approach supports the success of the business. We leverage our strategy and our corporate governance processes to assess and manage the ESG matters that are relevant to our business as part of our efforts to operate in a sustainable manner.
+
+We aim to influence positive social and environmental change across our ecosystem by applying our resources, competencies, and team-based problem-solving approach. Our technology is in action in countless ways, from bringing safety and security to the driverless car revolution to enabling the technologies that are an increasingly vital component of protecting human health and well-being.
+
+The Corporate Governance and Nominating Committee of our Board of Directors is responsible for overseeing policies; practices; priority and risk assessments; risk management initiatives, goals and progress toward goals; and public disclosures relating to ESG matters, except to the extent delegated to other committees of our Board of Directors, such as matters related to human capital management and diversity, equity and inclusion.
+
+Additional information about our approach to our ESG priorities is available on our ESG website, including our Environmental Policy and our ESG Report. The contents of our website and ESG Report are referenced for general information only and are not incorporated into this Annual Report on Form 10-K.
+
+Human Capital Resources 
+
+At Synopsys, we are committed to empowering our employees to pursue their passion, challenge themselves and their peers, and make their mark on the world. We believe this creates value for us, our stockholders, and the lives of the people we impact every day. Our commitment to attracting, developing and retaining top talent makes this goal possible and our constant pursuit of improving our employees' experience promotes a culture where employees can thrive in their career. As of our fiscal 2023 year-end, Synopsys had approximately 20,300 employees, with approximately 24% in the United States and 76% in other locations around the world. Approximately 80% of our employees are engineers, and over half of those employees hold Masters’ or PhD degrees. The human capital measures and objectives that we focus on include recruitment and retention; diversity, equity and inclusion; total rewards; employee health, safety, and wellbeing; employee engagement and development; and succession planning.
+
+Risks related to our human capital are described in Part I, Item 1A, 
+Risk Factors 
+of this Annual Report on Form 10-K.
+
+Recruitment and Retention
+
+Our workforce is representative of the industry we serve. In fiscal 2023, we increased our employee headcount by approximately 7%, with a continued focus on promoting gender diversity with respect to those in technical and senior level positions and ensuring a vibrant talent pipeline with early career hiring and investment in training and development. As of our fiscal 2023 year-end, our undesired turnover rate was 2.7%.
+1
+ We attribute the strong retention of our talented workforce to a number of factors, including exciting and challenging assignments; growth opportunities; strong leadership and management; a culture of integrity; our commitment to diversity, equity and inclusion; competitive and equitable compensation and benefits; our leading products and technology; and the strength of our customer relationships.
+
+Diversity, Equity and Inclusion
+
+We seek to integrate diversity, equity and inclusion into our corporate values at every level—from our foundation of integrity to our execution excellence and from our dedicated leadership to our united passion for a better tomorrow. We strive to maintain a culture that values different perspectives and backgrounds, where everyone is treated with respect for who they are, and where people feel a sense of belonging. We believe this is not only essential for our success as a global leader in innovation, but also for the success of our employees in their own careers. We value the diversity of our teams, talent pipelines and pay and development programs, with a goal to ensure inclusive, equitable practices. We carefully study retention trends and feedback from diverse groups to identify areas where we can improve.
+
+1
+ We calculate undesired turnover rate by dividing the number of undesired exits from Synopsys by the average headcount for fiscal 2023, and we define undesired turnover as exits by high-performing employees who resigned from Synopsys (or its subsidiaries) to pursue other work opportunities. Undesired turnover does not include employees with low performance, mutual resignations, or resignations due to personal reasons (e.g., retirement or returning to school).
+
+12
+
+Table of Contents
+
+As of our fiscal 2023 year-end:
+
+•
+Women comprised 25.4% of our global workforce;
+
+•
+Women in senior level positions comprised 13.1% of all senior level positions at the company; and
+
+•
+U.S. Black, Latinx, and Indigenous persons comprised 5.8% of our U.S. workforce.
+
+We provide training designed to encourage equitable and inclusive behavior to attract, retain and develop our workforce. In addition, our Employee Resource Groups, which are vital to our Synopsys community, host events and implement actions to attract and engage diverse talent and foster an inclusive workplace.
+
+In fiscal 2023, we included workforce metrics such as diversity, employee retention and employee engagement as incentive plan goals for our executive officers to advance key diversity and human capital initiatives. We believe these initiatives help to ensure that we continue to seek out strong, diverse, qualified candidates, and that we develop and retain key talent.
+
+Total Rewards
+
+Our Total Rewards are designed to offer meaningful benefits and compensation for the time, energy, commitment, skills, and expertise employees bring to the company every day. We have practices in place that are intended to deliver fair and equitable compensation for employees based on their contribution and performance. We benchmark market practices and regularly review our compensation and benefits against the market to help ensure that it is competitive. We also offer a comprehensive set of benefits for employees and their families, focused on physical, mental and financial health and wellbeing. Our compensation and benefit programs are tailored to the various geographies in which we operate, and for eligible employees may include:
+
+•
+Market-competitive salary and cash bonus opportunity;
+
+•
+Employee Stock Purchase Plan;
+
+•
+Equity compensation;
+
+•
+Robust medical, dental, vision, and wellness benefits;
+
+•
+Comprehensive leave plans;
+
+•
+Life insurance options;
+
+•
+Retirement plans and associated benefits;
+
+•
+Financial planning tools and employee assistance plans;
+
+•
+Student loan repayment assistance;
+
+•
+Cancer-specific prevention, early detection, treatment and support programs; and
+
+•
+Parental resources and adoption benefits.
+
+Health, Safety and Wellbeing
+
+Our commitment to health, safety, and wellness was underscored this year by the support and resources we offered to help employees thrive in a hybrid work environment while balancing their personal lives. Through our Stronger Through Wellbeing campaign, our leaders and managers are encouraged to model the importance of health and wellbeing, and many create opportunities to engage in wellness-related activities as a team. We also offer a variety of programs and resources at no cost to employees and their family members to support their mental, emotional, and financial wellbeing.
+
+Employee Engagement
+
+We have a comprehensive employee feedback program, and we use the feedback to gain an understanding of the employee experience and to make improvements in a variety of areas—from how we interact with customers to how we share best practices, and more. Through our semi-annual SHAPE Synopsys surveys, we obtain employee insight into our values, manager effectiveness, ability to innovate, perceptions on diversity, inclusion and belonging, 
+
+13
+
+Table of Contents
+
+and other critical factors. We also use the surveys to create space for important conversations about who we are, where we are going, and how we can connect with each other and our work.
+
+Approximately 94% of our employees participated in our SHAPE survey in May 2023. We received an engagement score of 82, which is calculated by computing the average score set to a 100-point scale, for all employee responses to the questions pertaining to employee satisfaction and job satisfaction. These results demonstrate Synopsys' stability, resiliency, and a global workforce that is highly engaged. We saw strong scores from our employees regarding their connection to our culture, their personal investment in Synopsys’ strategies and objectives, and their team’s ability to innovate. As we grow, we aspire to maintain our results-oriented culture by balancing productivity with smart investments in our employees’ development, while also supporting individual wellbeing—two key drivers of the overall employee experience.
+
+We believe ongoing performance feedback encourages greater engagement in our business and improved individual performance. Each year, our employees participate in our performance development process that summarizes key accomplishments for the preceding year, establishes new stretch goals, and identifies critical capabilities for development. As part of this process, we encourage managers to solicit and share supportive multi-rater feedback, further strengthening the focus on teamwork and team success.
+
+Talent Development and Succession Planning
+
+We offer several programs to support the career advancement of our employees. Through our digital learning platform, we foster and support an “always learning” culture where employees can access training, external articles, videos, and blogs. In addition, we host a series of in-person and on-demand learning sessions designed to build capability and adaptability required for the future. As employees advance in their careers, our training framework is intended to build new capabilities on established foundational skills.
+
+Based upon the belief that our employees deserve great managers, our management training is designed to increase capability in the areas of communication, engagement, coaching, diversity, equity, and inclusion, hiring and on-boarding, and business skills and help promote an ethical and supportive work environment free from bias and harassment. In fiscal 2023, we introduced a new leadership training, and focused on helping our many managers thrive in connecting team work to company priorities while giving them the tools to be great coaches and leaders. In addition, our regions and business teams customize development programs for their specific needs.
+
+Information about our Executive Officers 
+
+The executive officers of Synopsys and their ages as of December 12, 2023 were as follows:
+
+Name
+
+Age
+
+Position
+
+Aart J. de Geus
+
+69
+
+Chief Executive Officer and Chair of the Board of Directors
+
+Sassine Ghazi
+
+53
+
+President and Chief Operating Officer
+
+Shelagh Glaser
+
+59
+
+Chief Financial Officer
+
+Richard Mahoney
+
+61
+
+Chief Revenue Officer
+
+John F. Runkel, Jr.
+
+68
+
+General Counsel and Corporate Secretary
+
+Aart J. de Geus
+ co-founded Synopsys and has served as Chair of our Board of Directors since February 1998 and Chief Executive Officer since January 1994. He served as Co-Chief Executive Officer with Dr. Chi-Foon Chan from May 2012 until April 2022. Effective January 1, 2024, Dr. de Geus will transition into the role of Executive Chair of our Board of Directors. Since the inception of Synopsys in December 1986, Dr. de Geus has held a variety of positions, including President, Senior Vice President of Engineering and Senior Vice President of Marketing. He has served as a member of our Board of Directors since 1986, and as Chair of our Board of Directors from 1986 to 1992 and again from 1998 until his upcoming transition to Executive Chair on January 1, 2024. Dr. de Geus has also served on the board of directors of Applied Materials, Inc. since July 2007. Dr. de Geus holds an M.S.E.E. from the Swiss Federal Institute of Technology in Lausanne, Switzerland and a Ph.D. in Electrical Engineering from Southern Methodist University.
+
+Sassine Ghazi 
+has served as our Chief Operating Officer since August 2020, became our President in November 2021 and joined our Board of Directors in August 2023. Effective January 1, 2024, Mr. Ghazi will assume the role of President and Chief Executive Officer. Mr. Ghazi joined Synopsys in March 1998 as an Application Engineer and served as General Manager of the Design Group. Prior to joining Synopsys, Mr. Ghazi was a design engineer at Intel Corporation. Mr. Ghazi received his bachelor’s degree in Business Administration from Lebanese American 
+
+14
+
+Table of Contents
+
+University; a B.S.E.E from the Georgia Institute of Technology in 1993; and an M.S.E.E. from the University of Tennessee in 1995.
+
+Shelagh Glaser
+ has served as our Chief Financial Officer since December 2022. Prior to joining Synopsys, Ms. Glaser served as Chief Financial Officer of Zendesk, Inc. from May 2021 to November 2022. Ms. Glaser previously served in senior finance roles at Intel Corporation, a multinational technology company, including serving as its Corporate Vice President and Chief Financial Officer and Chief Operating Officer for its Data Platform Group from July 2019 to May 2021 and serving as its Corporate Vice President and Chief Financial Officer and in various other senior roles in its Client Computing Group from December 2013 to July 2019. Ms. Glaser has served as a director and member of the Audit Committee at PubMatic, Inc. since June 2022. Ms. Glaser holds a B.A. in Economics from the University of Michigan and an M.B.A. in Finance from Carnegie Mellon University.
+
+Richard Mahoney
+ has served as our Chief Revenue Officer since November 2022. Mr. Mahoney joined Synopsys as a Special Projects Advisor in May 2022. Prior to joining Synopsys, Mr. Mahoney held several senior management positions with Ansys, Inc. from 2016 to 2022, including most recently as Senior Vice President of Worldwide Sales, Marketing and Customer Excellence from December 2016 to May 2022. Prior to joining Ansys, from 2014 to 2016, Mr. Mahoney was Senior Vice President, Design Enablement and International Sales, at Global Foundries, a semiconductor manufacturing company. Mr. Mahoney holds an A.S. in Computer Science from the Maxwell Institute of Technology.
+
+John F. Runkel, Jr.
+ has served as our General Counsel and Corporate Secretary since May 2014. From October 2008 to March 2013, he was Executive Vice President, General Counsel, and Corporate Secretary of Affymetrix, Inc. He served as Senior Vice President, General Counsel and Corporate Secretary of Intuitive Surgical, Inc. from 2006 to 2007. Mr. Runkel served in several roles at VISX, Inc. from 2001 to 2005, most recently as Senior Vice President of Business Development and General Counsel. Mr. Runkel was also a partner at the law firm of Sheppard, Mullin, Richter & Hampton LLP for 11 years. Mr. Runkel holds a Bachelor of Arts and a Juris Doctorate from the University of California, Los Angeles.
+
+There are no family relationships among any Synopsys executive officers or directors.
+
+15
+
+Table of Contents
+
+
+
+A description of the risk factors associated with our business is set forth below. Some of these risks are highlighted in the following discussion, and in Management’s Discussion and Analysis of Financial Condition and Results of Operations, Legal Proceedings, and Quantitative and Qualitative Disclosures About Market Risk. The occurrence of any of these risks or additional risks and uncertainties not presently known to us or that we currently believe to be immaterial could materially and adversely affect our business, operating results, financial condition, and stock price. These risks and uncertainties could cause our actual results to differ materially from the results contemplated by the forward-looking statements contained in this report. Investors should carefully consider all relevant risks and uncertainties before investing in our common stock.
+
+Industry Risks
+
+Uncertainty in the macroeconomic environment, and its potential impact on the semiconductor and electronics industries, may negatively affect our business, operating results and financial condition.
+
+Uncertainty in the macroeconomic environment, including the effects of, among other things, increased global inflationary pressures and interest rates, potential economic slowdowns or recessions, supply chain disruptions, geopolitical pressures, fluctuations in foreign exchange rates and associated global economic conditions have resulted in volatility in credit, equity and foreign currency markets. This uncertain macroeconomic environment could lead some of our customers to postpone their decision-making, decrease their spending and/or delay their payments to us. Such caution by customers could, among other things, limit our ability to maintain or increase our sales or recognize revenue from committed contracts.
+
+For example, we continue to experience an impact from the current macroeconomic environment in our Software Integrity segment as customers have applied elevated levels of scrutiny to purchasing decisions due in part to their own budget uncertainty, which has, in some cases, affected customer order size, pricing and/or contract duration. On November 29, 2023, we announced that 
+we have decided to explore strategic alternatives for our Software Integrity segment. As a part of this process, our management is considering a full range of strategic opportunities. At this time we cannot predict the impact that such strategic alternatives might have on our business, operations or financial condition.
+
+This announcement and uncertainty
+ could have a number of negative effects on our current business, including potentially disrupting our regular operations, diverting the attention of our workforce and management team and increasing undesired workforce turnover. It could also disrupt existing business relationships, make it harder to develop new business relationships, or otherwise negatively impact the way that we operate our business, which could negatively impact our business, operating results or financial condition.
+
+If these macroeconomic uncertainties persist and economic conditions continue to deteriorate, then the semiconductor and electronics industries could fail to grow. Additionally, uncertain macroeconomic conditions could also have the effect of increasing other risks and uncertainties facing our business, which could have a material adverse effect on our operating results and financial condition. Such risks that may be heightened by uncertain macroeconomic conditions could include China’s stated policy of becoming a global leader in the semiconductor industry may lead to increased competition or further disruption of international trade relationships, including, but not limited to, additional government trade restrictions. For more on risks related to government export and import restrictions such as the U.S. government’s Entity List and Export Regulations (as defined below), see “
+Industry Risks – We are subject to governmental export and import requirements that could subject us to liability and restrict our ability to sell our products and services, which could impair our ability to compete in international markets.
+”
+
+Adverse economic conditions affect demand for devices that our products help create, such as the ICs incorporated in personal computers, smartphones, automobiles and servers. Longer-term reduced demand for these or other products could result in reduced demand for design solutions and significant decreases in our average selling prices and product sales over time. Future economic downturns could also adversely affect our business, operating results and financial condition. In addition, if our customers or distributors build elevated inventory levels, we could experience a decrease in short-term and/or long-term demand for our products. If any of these events or disruptions were to occur, the demand for our products and services could be adversely affected along with our business, operating results and financial condition. Further, the negative impact of these events or disruptions may be deferred due to our business model.
+
+Further economic instability could also adversely affect the banking and financial services industry and result in bank failures or credit downgrades of the banks we rely on for foreign currency forward contracts, credit and banking transactions, and deposit services, or cause them to default on their obligations. Additionally, the banking 
+
+16
+
+Table of Contents
+
+and financial services industries are subject to complex laws and are heavily regulated. There is uncertainty regarding how proposed, contemplated or future changes to the laws, policies and regulations governing our industry, the banking and financial services industry and the economy could affect our business, including increased global interest rates and global inflationary pressure. A deterioration of conditions in worldwide credit markets could limit our ability to obtain external financing to fund our operations and capital expenditures. In addition, difficult economic conditions may also result in a higher rate of losses on our accounts receivable due to credit defaults. Any of the foregoing could cause adverse effects on our business, operating results and financial condition, and could cause our stock price to decline.
+
+The growth of our business depends primarily on the semiconductor and electronics industries.
+
+The growth of the EDA industry as a whole, sales in our Design Automation and Design IP segments, and, to some extent, our Software Integrity segment sales are dependent on the semiconductor and electronics industries. A substantial portion of our business and revenue depends upon the commencement of new design projects by semiconductor manufacturers, systems companies and their customers. The increasing complexity of designs of SoCs, ICs, electronic systems and customers’ concerns about managing costs have previously led to, and in the future could lead to, a decrease in design starts and design activity in general. For example, in response to this increasing complexity, some customers may choose to focus on one discrete phase of the design process or opt for less advanced, but less risky, manufacturing processes that may not require the most advanced EDA products. Demand for our products and services could decrease and our business, financial condition and operating results could be adversely affected if growth in the semiconductor and electronics industries slows or stalls, including due to increased global inflationary pressures and interest rates, a continued or worsening global supply chain disruption, geopolitical pressures or economic slowdowns or recessions. Additionally, as the EDA industry has matured, consolidation has resulted in stronger competition from companies better able to compete as sole source vendors. This increased competition may cause our revenue growth rate to decline and exert downward pressure on our operating margins, which would have an adverse effect on our business and financial condition.
+
+Furthermore, the semiconductor and electronics industries have become increasingly complex and interconnected ecosystems. Many of our customers outsource the manufacturing of their semiconductor designs to foundries. Our customers also frequently incorporate third-party IP, whether provided by us or other vendors, into their designs to improve the efficiency of their design process. We work closely with major foundries to ensure that our EDA, IP and manufacturing solutions are compatible with their manufacturing processes. Similarly, we work closely with other major providers of semiconductor IP, particularly microprocessor IP, to optimize our EDA tools for use with their IP designs and to assure that their IP and our own IP products work effectively together, as we may each provide for the design of separate components on the same chip. If we fail to optimize our EDA and IP solutions for use with major foundries’ manufacturing processes or major IP providers’ products, or if our access to such foundry processes or third-party IP products is hampered, then our solutions may become less desirable to our customers, resulting in an adverse effect on our business and financial condition.
+
+We operate in highly competitive industries, and if we do not continue to meet our customers’ demand for innovative technology at lower costs, our products may not be competitive or may become obsolete.
+
+In our Design Automation segment, we compete against EDA vendors that offer a variety of products and services, such as Cadence Design Systems, Inc. and Siemens EDA. We also compete with other EDA vendors, including new entrants to the marketplace, that offer products focused on one or more discrete phases of the IC design process. Moreover, our customers internally develop design tools and capabilities that compete with our products. In our Design IP segment, we compete against a growing number of silicon IP providers as well as our customers’ internally developed IP. In our Software Integrity segment, we compete with other solution providers, many of which focus on specific aspects of software security or quality analysis. We also compete with frequent new entrants, which include start-up companies and more established software companies.
+
+The industries in which we operate are highly competitive, with new competitors entering these markets both domestically and internationally. For example, China has implemented national policies favoring Chinese companies and has formed government-backed investment funds as it seeks to build independent EDA capabilities and compete internationally in the semiconductor industry. The demand for our products and services is dynamic and depends on a number of factors, including, among other things, demand for our customers’ products, design starts and our customers’ budgetary constraints. Technology in these industries evolves rapidly and is characterized by frequent product introductions and improvements as well as changes in industry standards and customer requirements. For example, the adoption of cloud computing and artificial intelligence (AI) technologies can bring new demand and also challenges in terms of disruption to both business models and our existing technology 
+
+17
+
+Table of Contents
+
+offerings. Our efforts in developing such new technology solutions, including, for example, our current efforts in creating cloud computing and AI solutions, may not succeed. Semiconductor device functionality requirements continually increase while feature widths decrease, which substantially increases the complexity, cost and risk of chip design and manufacturing. At the same time, our customers and potential customers continue to demand a lower total cost of design, which can lead to the consolidation of their purchases from one vendor. In order to succeed in this environment, we must successfully meet our customers’ technology requirements and increase the value of our products, while also striving to reduce their overall costs and our own operating costs.
+
+We compete principally on the basis of technology, product quality and features (including ease-of-use), license or usage terms, post-contract customer support, interoperability among products, and price and payment terms. Specifically, we believe the following competitive factors affect our success:
+
+•
+Our ability to anticipate and lead critical development cycles and technological shifts, innovate rapidly and efficiently, improve our existing software and hardware products, and successfully develop or acquire such new products;
+
+•
+Our ability to offer products that provide both a high level of integration into a comprehensive platform and a high level of individual product performance;
+
+•
+Our ability to enhance the value of our offerings through more favorable terms such as expanded license usage, future purchase rights, price discounts and other differentiating rights, such as multiple tool copies, post-contract customer support, “re-mix” rights that allow customers to exchange the software they initially licensed for other Synopsys products, and the ability to purchase pools of technology;
+
+•
+Our ability to manage an efficient supply chain to ensure hardware product availability;
+
+•
+Our ability to compete on the basis of payment terms; and
+
+•
+Our ability to provide engineering and design consulting for our products.
+
+If we fail to successfully manage any of these competitive factors, fail to successfully balance the conflicting demands for innovative technology and lower overall costs, or fail to address new competitive forces, our business, operating results and financial condition will be adversely affected.
+
+We are subject to governmental export and import requirements that could subject us to liability and restrict our ability to sell our products and services, which could impair our ability to compete in international markets.
+
+We are subject to export controls, laws and regulations that restrict selling, shipping or transmitting certain of our products and services and transferring certain of our technology outside the United States. These requirements also restrict domestic release of software and technology to certain foreign nationals. In addition, we are subject to customs and other import requirements that regulate imports that may be important for our business.
+
+If we fail to comply with the U.S. Export Administration Regulations or other U.S. or non-U.S. export requirements (collectively, the Export Regulations), we could be subject to substantial civil and criminal penalties, including fines for the company and the possible loss of the ability to engage in exporting and other international transactions. Due to the nature of our business and technology, the Export Regulations may also subject us to governmental inquiries regarding transactions between us and certain foreign entities. For example, we have received administrative subpoenas from the U.S. Bureau of Industry and Security (the BIS) requesting production of information and documentation relating to transactions with certain Chinese entities. We believe that we are in full compliance with all applicable regulations and are working with the BIS to respond to its subpoenas. However, we cannot predict the outcome of the inquiries or their potential effect on our operations or financial condition.
+
+We believe that the Export Regulations do not materially impact our business at this time, but we cannot predict the impact that additional regulatory changes may have on our business in the future. The United States has published significant changes to the Export Regulations with respect to Russia and China, and we anticipate additional changes to the Export Regulations in the future. For example, the United States government has implemented controls on advanced computing ICs, computer commodities that contain such ICs, and certain semiconductor manufacturing items, as well as controls on transactions involving items for supercomputer and semiconductor manufacturing end-users. The controls expand the scope of foreign-produced items subject to license requirements for certain entities on the U.S. government's Entity List. Future changes to the Export Regulations, including 
+
+18
+
+Table of Contents
+
+changes in the enforcement and scope of such regulations, may create delays in the introduction of our products or services in international markets or could prevent our customers with international operations from deploying our products or services globally. In some cases, such changes could prevent the export or import of our products.
+
+Consolidation among our customers and within the industries in which we operate, as well as our dependence on a relatively small number of large customers, may negatively impact our operating results.
+
+A number of business combinations and strategic partnerships among our customers in the semiconductor and electronics industries have occurred over the last several years, and more could occur in the future. Consolidation among our customers could lead to fewer customers or the loss of customers, increased customer bargaining power or reduced customer spending on software and services. Further, we depend on a relatively small number of large customers, and on such customers continuing to renew licenses and purchase additional products from us, for a large portion of our revenues. Consolidation among our customers could also reduce demand for our products and services if customers streamline research and development or operations, or reduce or delay purchasing decisions. Reduced customer spending or the loss of customers, particularly our large customers, could adversely affect our business, operating results and financial condition. 
+
+In addition, we and our competitors may acquire businesses and technologies to complement and expand our respective product offerings. Consolidated competitors could have considerable financial resources and channel influence as well as broad geographic reach, which may enable them to be more competitive in, among other things, product differentiation, breadth of technology portfolio, pricing, marketing, services or support. Such consolidations or acquisitions could negatively impact our business, operating results and financial condition.
+
+Business Operations Risks
+
+The global nature of our operations exposes us to increased risks and compliance obligations.
+
+We derive 
+roughly half
+ of our revenue from sales outside the United States, and we expect our orders and revenue to continue to depend on sales to customers outside the U.S. We have also continually expanded our non-U.S. operations. This strategy requires us to recruit and retain qualified technical and managerial employees, manage multiple remote locations performing complex software development projects, and ensure intellectual property protection outside of the U.S. Our international operations and sales subject us to a number of increased risks, including:
+
+•
+Economic slowdowns, recessions or uncertainty in financial markets, including, among other things, the impact of increased global inflationary pressures and interest rates;
+
+•
+Uncertain economic, legal and political conditions in China, Europe and other regions where we do business, including, for example, changes in China-Taiwan relations, regional or global military conflicts, and related sanctions and financial penalties imposed on participants in such conflicts;
+
+•
+Government trade restrictions, including tariffs, export controls or other trade barriers, and changes to existing trade arrangements, including the unknown impact of current and future U.S. and Chinese trade regulations;
+
+•
+Ineffective or weaker legal protection of intellectual property rights;
+
+•
+Difficulties in adapting to cultural differences in the conduct of business, which may include business practices in which we are prohibited from engaging by the Foreign Corrupt Practices Act or other anti-corruption laws;
+
+•
+Financial risks such as longer payment cycles, changes in currency exchange rates and difficulty in collecting accounts receivable;
+
+•
+Inadequate local infrastructure that could result in business disruptions;
+
+•
+Additional taxes, interest and potential penalties and uncertainty around changes in tax laws of various countries; and 
+
+•
+Other factors beyond our control such as natural disasters, terrorism, civil unrest, war and infectious diseases and pandemics, such as the COVID-19 pandemic.
+
+19
+
+Table of Contents
+
+Furthermore, if any of the foreign economies in which we do business deteriorate or if we fail to effectively manage our global operations, our business and operating results will be harmed.
+
+There is inherent risk, based on the complex relationships between certain Asian countries such as China, where we derive a growing percentage of our revenue, and the United States, that political, diplomatic or military events could result in trade disruptions, including tariffs, trade embargoes, export restrictions and other trade barriers. A significant trade disruption, export restriction, or the establishment or increase of any trade barrier in any area where we do business could reduce customer demand and cause customers to search for substitute products and services, make our products and services more expensive or unavailable for customers, increase the cost of our products and services, have a negative impact on customer confidence and spending, make our products less competitive, or otherwise have a materially adverse impact on our backlog, future revenue and profits, our customers’ and suppliers’ business, operating results and financial condition. For example and as described above, the ongoing geopolitical and economic uncertainty between the U.S. and China, the unknown impact of current and future U.S. and Chinese trade regulations, and other geopolitical risks with respect to China and Taiwan may cause disruptions in the markets and industries we serve and our supply chain, decreased demand from customers for products using our solutions or other disruptions, which could, directly or indirectly, materially harm our business, operating results and financial condition. For more on risks related to government export and import restrictions such as the U.S. government’s Entity List and the Export Regulations see “
+Industry Risks – We are subject to governmental export and import requirements that could subject us to liability and restrict our ability to sell our products and services, which could impair our ability to compete in international markets.
+”
+
+In response to the U.S. adopting tariffs and trade barriers or taking other actions, other countries may also adopt tariffs and trade barriers that could limit our ability to offer our products and services. Current and potential customers who are concerned or affected by such tariffs or restrictions may respond by developing their own products or replacing our solutions, which would have an adverse effect on our business. In addition, government or customer efforts, attitudes, laws or policies regarding technology independence may lead to non-U.S. customers favoring their domestic technology solutions that could compete with or replace our products, which would also have an adverse effect on our business.
+
+In addition to tariffs and other trade barriers, our global operations are subject to numerous U.S. and foreign laws and regulations such as those related to anti-corruption, tax, corporate governance, imports and exports, financial and other disclosures, privacy and labor relations. These laws and regulations are complex and may have differing or conflicting legal standards, making compliance difficult and costly. In addition, there is uncertainty regarding how proposed, contemplated or future changes to these complex laws and regulations could affect our business. We may incur substantial expense in complying with the new obligations to be imposed by these laws and regulations, and we may be required to make significant changes in our business operations, all of which may adversely affect our revenues and our business overall. If we violate these laws and regulations, we could be subject to fines, penalties or criminal sanctions, and may be prohibited from conducting business in one or more countries. Any violation individually or in the aggregate could have a material adverse effect on our operations and financial condition.
+
+Our financial results are also affected by fluctuations in foreign currency exchange rates. A weakening U.S. dollar relative to other currencies increases expenses of our foreign subsidiaries when they are translated into U.S. dollars in our consolidated statements of income. Likewise, a strengthening U.S. dollar relative to other currencies, including the renminbi or Yen, reduces revenue of our foreign subsidiaries upon translation and consolidation. Exchange rates are subject to significant and rapid fluctuations due to a number of factors, including interest rate changes and political and economic uncertainty. Therefore, we cannot predict the prospective impact of exchange rate fluctuations. We may be unable to hedge all of our foreign currency risk, which could have a negative impact on our operating results. 
+
+Our operating results may fluctuate in the future, which may adversely affect our stock price.
+
+Our operating results are subject to quarterly and annual fluctuations, which may adversely affect our stock price. Our historical results should not be viewed as indicative of our future performance due to these periodic fluctuations.
+
+20
+
+Table of Contents
+
+Many factors may cause our backlog, revenue or earnings to fluctuate, including, among other things:
+
+•
+Changes in demand for our products—especially products, such as hardware, generating upfront revenue—due to fluctuations in demand for our customers’ products and due to constraints in our customers’ budgets for research and development and EDA products and services;
+
+•
+Changes in demand for our products due to customers reducing their expenditures, whether as a cost-cutting measure or a result of their insolvency or bankruptcy, and whether due to increased global inflationary pressures and interest rates and a sustained global semiconductor shortage or other reasons;
+
+•
+Product competition in the EDA industry, which can change rapidly due to industry or customer consolidation and technological innovation;
+
+•
+Our ability to innovate and introduce new products and services or effectively integrate products and technologies that we acquire;
+
+•
+Failures or delays in completing sales due to our lengthy sales cycle, which often includes a substantial customer evaluation and approval process because of the complexity of our products and services;
+
+•
+Our ability to implement effective cost control measures;
+
+•
+Our dependence on a relatively small number of large customers, and on such customers continuing to renew licenses and purchase additional products from us, for a large portion of our revenue;
+
+•
+Changes to the amount, composition and valuation of, and any impairments to or write-offs of, our assets or strategic investments;
+
+•
+Changes in the mix of our products sold, as increased sales of our products with lower gross margins, such as our hardware products, may reduce our overall margins;
+
+•
+Expenses related to our acquisition and integration of businesses and technologies;
+
+•
+Changes in tax rules, as well as changes to our effective tax rate, including the tax effects of infrequent or unusual transactions and tax audit settlements;
+
+•
+Delays, increased costs or quality issues resulting from our reliance on third parties to manufacture our hardware products, which includes a sole supplier for certain hardware components; 
+
+•
+Natural variability in the timing of IP drawdowns, which can be difficult to predict; 
+
+•
+General economic and political conditions that affect the semiconductor and electronics industries, such as disruptions to international trade relationships, including tariffs, export licenses, or other trade barriers affecting our or our suppliers’ products; and
+
+•
+Changes in accounting standards, which may impact the way we recognize our revenue and costs and impact our earnings.
+
+The timing of revenue recognition may also cause our revenue and earnings to fluctuate. The timing of revenue recognition is affected by factors that include:
+
+•
+Cancellations or changes in levels of orders or the mix between upfront products revenue and time-based products revenue;
+
+•
+Delay of one or more orders for a particular period, particularly orders generating upfront products revenue, such as hardware;
+
+•
+Delay in the completion of professional services projects that require significant modification or customization and are accounted for using the percentage of completion method;
+
+•
+Delay in the completion and delivery of IP products in development as to which customers have paid for early access;
+
+21
+
+Table of Contents
+
+•
+Customer contract amendments or renewals that provide discounts or defer revenue to later periods; and
+
+•
+The levels of our hardware and IP revenues, which are recognized upfront and are primarily dependent upon our ability to provide the latest technology and meet customer requirements.
+
+These factors, or any other factors or risks discussed herein, could negatively impact our backlog, revenue or earnings and cause our stock price to decline. Additionally, our results may fail to meet or exceed the expectations of securities analysts and investors, or such analysts may change their recommendation regarding our stock, which could cause our stock price to decline. Our stock price has been, and may continue to be, volatile, which may make it more difficult for our stockholders to sell their shares at a time or a price that is favorable to them.
+
+Cybersecurity threats or other security breaches could compromise sensitive information belonging to us or our customers and could harm our business and our reputation, particularly that of our security testing solutions.
+
+We store sensitive data, including intellectual property, our proprietary business information and that of our customers, and personal information, in our data centers, on our networks or on the cloud. In addition, our operations depend upon our information technology (IT) systems. We maintain a variety of information security policies, procedures, and controls to protect our business and proprietary information, prevent data loss and other security breaches and incidents, keep our IT systems operational and reduce the impact of a security breach or incident, but these securities measures cannot provide and have not provided absolute security. In the normal course of business, our systems are and have been the target of malicious cyber attack attempts and have been and may be subject to compromise due to employee error, malfeasance or other disruptions that have and could result in unauthorized disclosure or loss of sensitive information. To date, we have not identified material cyber security incidents or incurred any material expenses with any incidents. However, any breach or compromise could adversely impact our business and operations, expose us or our customers to litigation, investigations, loss of data, increase costs, or result in loss of customer confidence and damage to our reputation, any of which could adversely affect our business and our ability to sell our products and services. 
+
+Industry incidences of cyberattacks and other cybersecurity breaches have increased and are likely to continue to increase. We are using an increasing number of third-party software solutions, including cloud-based solutions, which increase potential threat vectors, such as by exploitation of misconfigurations or vulnerabilities. We also use third-party vendors that provide software or hardware, have access to our network, and/or store sensitive data, and these third parties are subject to their own cybersecurity threats. Our standard vendor terms and conditions include provisions requiring the use of appropriate security measures to prevent unauthorized use or disclosure of our data, as well as other safeguards. Despite these measures, there is no guarantee that a compromise of our third-party vendors will not occur and in turn result in a compromise of our own IT systems or data. In addition, if we select a vendor that uses cloud storage as part of their service or product offerings, or if we are selected as a vendor for our cloud-based solutions, our proprietary information could be misappropriated by third parties despite our attempts to validate the security of such services. Many employees continue to work remotely based on a hybrid work model, which magnifies the importance of maintaining the integrity of our remote access security measures. We also periodically acquire new businesses with less mature security programs, and it takes time to align their security practices to meet our information security policies, procedures and controls. 
+
+The techniques used to obtain unauthorized access to networks or to sabotage systems of companies such as ours change frequently and generally are not recognized until launched against a target. We may be unable to anticipate these emerging techniques, react in a timely manner, or implement adequate preventative measures, or we may not have sufficient logging available to fully investigate the incident. Our security measures vary in maturity across the business and may be and have been circumvented. For example, we have identified instances where employees have used non-approved applications for business purposes, some of which do not meet our security standards. In addition, we discovered unauthorized third-party access to our products and product license files hosted on our SolvNet Plus customer license and product delivery system in 2015. Any security breach of our own or a third-party vendor’s systems could cause us to be non-compliant with applicable laws or regulations, subject us to legal claims or proceedings, disrupt our operations, damage our reputation, and cause a loss of confidence in our products and services, any of which could adversely affect our business and our ability to sell our products and services.
+
+Our software products, hosted solutions and software security and quality testing solutions are also targeted by hackers and may be compromised by, among other things, phishing, exploits of our code or our system configurations, malicious code (such as viruses and worms), distributed denial-of-service attacks, sophisticated 
+
+22
+
+Table of Contents
+
+attacks conducted or sponsored by nation-states, advanced persistent threat intrusions, ransomware and other malware. We leverage many security best practices throughout the software development lifecycle, but our security development practices vary in maturity across the business and may not be effective against all cybersecurity threats. Furthermore, due to geopolitical incidents, including regional military conflicts, state-supported and geopolitical-related cybersecurity incidents against companies such as ours may increase. Attacks on our products could potentially disrupt the proper functioning of our software, cause errors in the output of our customers’ work, allow unauthorized access to our or our customers’ proprietary information or cause other destructive outcomes.
+
+We also offer software security and quality testing solutions. If we fail to identify new and increasingly sophisticated methods of cyber attacks or fail to invest sufficient resources in research and development regarding new threat vectors, our security testing products and services may not detect vulnerabilities in our customers’ software code. An actual or perceived failure to detect security flaws may negatively impact the perceived reliability of our security testing products and services, and could result in a loss of customers or sales, or an increased cost to remedy a problem. Furthermore, our growth and recent acquisitions in the software security and quality testing space may increase our visibility as a security-focused company and may make us a more attractive target for attacks on our own IT infrastructure. As a result, we could experience negative publicity and our reputation could suffer, customers could stop buying our products, we could face lawsuits and potential liability, and our business, operating results and financial condition could be negatively impacted.
+
+If we fail to protect our proprietary technology, our business will be harmed.
+
+Our success depends in part upon protecting our proprietary technology. Our efforts to protect our technology may be costly and unsuccessful. We rely on agreements with customers, employees and other third parties as well as intellectual property laws worldwide to protect our proprietary technology. These agreements may be breached, and we may not have adequate remedies for any breach. Additionally, despite our measures to prevent piracy, other parties may attempt to illegally copy or use our products, which could result in lost revenue if their efforts are successful. Some foreign countries do not currently provide effective legal protection for intellectual property and our ability to prevent the unauthorized use of our products in those countries is therefore limited. Our trade secrets may also be stolen, otherwise become known, or be independently developed by competitors.
+
+From time to time, we may need to commence litigation or other legal proceedings in order to assert claims of infringement of our intellectual property; defend our products from piracy; protect our trade secrets or know-how; or determine the enforceability, scope and validity of the propriety rights of others.
+
+If we do not obtain or maintain appropriate patent, copyright or trade secret protection for any reason, or cannot fully defend our intellectual property rights in certain jurisdictions, our business and operating results would be harmed. In addition, intellectual property litigation is lengthy, expensive and uncertain. Legal fees related to such litigation will increase our operating expenses and may reduce our net income.
+
+We may not be able to realize the potential financial or strategic benefits of the transactions we complete, or find suitable target businesses and technology to acquire, which could hurt our ability to grow our business, develop new products or sell our products and services.
+
+Acquisitions and strategic investments are an important part of our growth strategy. We have completed a significant number of acquisitions in recent years. We expect to make additional acquisitions and strategic investments in the future, but we may not find suitable acquisition or investment targets, or we may not be able to consummate desired acquisitions or investments due to unfavorable credit markets, commercially unacceptable terms, failure to obtain regulatory approvals, competitive bid dynamics or other risks, which could harm our operating results. 
+
+Acquisitions and strategic investments are difficult, time-consuming, and pose a number of risks, including, but not limited to:
+
+•
+Potential negative impact on our earnings per share;
+
+•
+Failure of acquired products to achieve projected sales;
+
+•
+Problems in integrating the acquired products with our products; 
+
+•
+Difficulties entering into new markets in which we are not experienced or where competitors may have stronger positions;
+
+23
+
+Table of Contents
+
+•
+Potential downward pressure on operating margins due to lower operating margins of acquired businesses, increased headcount costs, and other expenses associated with adding and supporting new products;
+
+•
+Difficulties in retaining and integrating key employees;
+
+•
+Substantial reductions of our cash resources and/or the incurrence of debt, which may be at higher than anticipated interest rates;
+
+•
+Failure to realize expected synergies or cost savings;
+
+•
+Difficulties in integrating or expanding sales, marketing and distribution functions and administrative systems, including IT and human resources systems;
+
+•
+Dilution of our current stockholders through the issuance of common stock as a part of transaction consideration;
+
+•
+Difficulties in negotiating, governing and realizing value from strategic investments; 
+
+•
+Assumption of unknown liabilities, including tax, litigation, cybersecurity and commercial-related risks, and the related expenses and diversion of resources;
+
+•
+Incurrence of costs and use of additional resources to remedy issues identified prior to or after an acquisition;
+
+•
+Disruption of ongoing business operations, including diversion of management’s attention and uncertainty for employees and customers, particularly during the post-acquisition integration process;
+
+•
+Potential negative impacts on our relationships with customers, distributors and business partners; 
+
+•
+Exposure to new operational risks, regulations and business customs to the extent acquired businesses are located in regions where we are not currently conducting business; 
+
+•
+The need to implement controls, processes and policies appropriate for a public company at acquired companies that may have previously lacked such controls, processes and policies in areas such as cybersecurity, IT, privacy and more;
+
+•
+Negative impact on our net income resulting from acquisition or investment-related costs; and
+
+•
+Requirements imposed by government regulators in connection with their review of an acquisition, including required divestitures or restrictions on the conduct of our business or the acquired business.
+
+Additionally, we have divested and may in the future divest certain product lines or technologies that no longer fit our long-term strategies. Divestitures may adversely impact our business, operating results and financial condition if we are unable to achieve the anticipated benefits or cost savings from such divestitures, or if we are unable to offset impacts from the loss of revenue associated with the divested product lines or technologies. For example, if we decide to sell or otherwise dispose of certain product lines or assets, we may be unable to do so on satisfactory terms within our anticipated timeframe or at all. Further, whether such divestitures are ultimately consummated or not, their pendency could have a number of negative effects on our current business, including potentially disrupting our regular operations, diverting the attention of our workforce and management team and increasing undesired workforce turnover. It could also disrupt existing business relationships, make it harder to develop new business relationships, or otherwise negatively impact the way that we operate our business.
+
+If we do not manage the foregoing risks, the transactions that we complete or are unable to complete may have an adverse effect on our business, operating results and financial condition.
+
+24
+
+Table of Contents
+
+If we fail to timely recruit and/or retain senior management and key employees globally, our business may be harmed.
+
+We depend in large part upon the services of our senior management team and key employees to drive our future success, and certain of such personnel depart our company from time to time, with the frequency and number of such departures varying widely. For example, we have recently experienced significant changes to our executive leadership team due to planned succession and other departures. The departure of key employees could result in significant disruptions to our operations, including adversely affecting the timeliness of our product releases, the successful implementation and completion of our initiatives, the adequacy of our internal control over financial reporting, and our business, operating results and financial condition. 
+
+To be successful, we must also attract senior management and key employees who join us organically and through acquisitions. There are a limited number of qualified engineers. Competition for these individuals and other qualified employees is intense and has increased globally, including in major markets such as Asia. Our employees are often recruited aggressively by our competitors and our customers worldwide. Any failure to recruit and/or retain senior management and key employees could harm our business, operating results and financial condition. Additionally, efforts to recruit such employees could be costly and negatively impact our operating expenses.
+
+We issue equity awards from employee equity plans as a key component of our overall compensation. We face pressure to limit the use of such equity-based compensation due to dilutive effects on stockholders. If we are unable to offer attractive compensation packages in the future, it could limit our ability to attract and retain key employees.
+
+We may pursue new product and technology initiatives, and if we fail to successfully carry out these initiatives, we could be adversely impacted.
+
+As part of the evolution of our business, we have made substantial investments to develop new products and enhancements to existing products through our acquisitions and research and development efforts. If we are unable to anticipate technological changes in our industry by introducing new or enhanced products in a timely and cost-effective manner, or if we fail to introduce products that meet market demand, we may lose our competitive position, our products may become obsolete, and our business, operating results and financial condition or results of operations could be adversely affected.
+
+Additionally, from time to time, we may invest in efforts to expand into adjacent markets, including, for example, software security, quality testing solutions and AI. Although we believe these solutions are complementary to our EDA tools, we have less experience and a more limited operating history in offering software quality testing and security products and services, and our efforts in creating AI technology solutions such as Synopsys.ai may not be successful. Our success in these and other new markets depends on a variety of factors, including, but not limited to, the following:
+
+•
+Our ability to attract a new customer base, including in industries in which we have less experience; 
+
+•
+Our successful development of new sales and marketing strategies to meet customer requirements;
+
+•
+Our ability to accurately predict, prepare for and promptly respond to technological developments in new fields, including, in the case of our software quality testing and security tools and services, identifying new security vulnerabilities in software code and ensuring support for a growing number of programming languages;
+
+•
+Our ability to compete with new and existing competitors in these new industries, many of which may have more financial resources, industry experience, brand recognition, relevant intellectual property rights or established customer relationships than we currently do, and could include free and open source solutions that provide similar software quality testing, security tools and AI solutions without fees;
+
+•
+Our ability to skillfully balance our investment in adjacent markets with investment in our existing products and services; 
+
+•
+Our ability to attract and retain employees with expertise in new fields;
+
+•
+Our ability to sell and support consulting services at profitable margins; and
+
+25
+
+Table of Contents
+
+•
+Our ability to manage our revenue model in connection with hybrid sales of licensed products and consulting services.
+
+Difficulties in any of our new product development efforts or our efforts to enter adjacent markets, including as a result of delays or disruptions, or export control restrictions, could adversely affect our business, operating results and financial condition.
+
+We may have to invest more resources in research and development than anticipated, which could increase our operating expenses and negatively affect our operating results.
+
+We devote substantial resources to research and development. New competitors, technological advances in the semiconductor industry or by competitors, our acquisitions, our entry into new markets or other competitive factors may require us to invest significantly greater resources than we anticipate. If we are required to invest significantly greater resources than anticipated without a corresponding increase in revenue, our operating results could decline. If customers reduce or slow the need to upgrade or enhance their product offerings, our revenue and operating results may be adversely affected. Additionally, our periodic research and development expenses may be independent of our level of revenue, which could negatively impact our financial results. New products may not adequately address the changing needs of the marketplace. New software products may contain undetected errors, defects or vulnerabilities. The occurrence of any defects or errors in our products could result in lost or delayed market acceptance and sales of our products, delays in payment by customers, loss of customers or market share, product returns, damage to our reputation, diversion of our resources, increased service and warranty expenses or financial concessions, increased insurance costs and potential liability for damages. Finally, there can be no guarantee that our research and development investments will result in products that create additional revenue.
+
+Product errors or defects could expose us to liability and harm our reputation and we could lose market share.
+
+Software products frequently contain errors or defects, especially when first introduced, when new versions are released, or when integrated with technologies developed by acquired companies. Product errors, including those resulting from third-party suppliers, could affect the performance or interoperability of our products, could delay the development or release of new products or new versions of products and could adversely affect market acceptance or perception of our products. In addition, any allegations of manufacturability issues resulting from use of our IP products could, even if untrue, adversely affect our reputation and our customers’ willingness to license IP products from us. Any such errors or delays in releasing new products or new versions of products or allegations of unsatisfactory performance could cause us to lose customers, increase our service costs, subject us to liability for damages and divert our resources from other tasks, any one of which could materially and adversely affect our business, operating results and financial condition.
+
+Our hardware products, which primarily consist of prototyping and emulation systems, subject us to distinct risks.
+
+The growth in sales of our hardware products subjects us to several risks, including, but not limited to:
+
+•
+Increased dependence on a sole supplier for certain hardware components, which may reduce our control over product quality and pricing and may lead to delays in production and delivery of our hardware products, should our supplier fail to deliver sufficient quantities of acceptable components in a timely fashion; 
+
+•
+Increasingly variable revenue and less predictable revenue forecasts, due to fluctuations in hardware revenue, which is recognized upfront upon shipment, as opposed to most sales of software products for which revenue is recognized over time;
+
+•
+Potential reductions in overall margins, as the gross margin for our hardware products, is typically lower than those of our software products;
+
+•
+Longer sales cycles, which create risks of insufficient, excess or obsolete inventory and variations in inventory valuation, which can adversely affect our business, operating results and financial condition;
+
+•
+Decreases or delays in customer purchases in favor of next-generation releases or competitive products, which may lead to excess or obsolete inventory or require us to discount our older hardware products;
+
+26
+
+Table of Contents
+
+•
+Longer warranty periods than those of our software products, which may require us to replace hardware components under warranty, thus increasing our costs; and
+
+•
+Potential impacts on our supply chain, including the effects of increased global inflationary pressures and interest rates, and a sustained global semiconductor shortage.
+
+From time to time, we are subject to claims that our products infringe on third-party intellectual property rights.
+
+We are from time to time subject to claims alleging our infringement of third-party intellectual property rights, including patent rights. Under our customer agreements and other license agreements, we agree in many cases to indemnify our customers if our products are alleged to infringe on a third party’s intellectual property rights. Infringement claims can result in costly and time-consuming litigation, require us to enter into royalty arrangements, subject us to damages or injunctions restricting our sale of products, invalidate a patent or family of patents, require us to refund license fees to our customers or to forgo future payments, or require us to redesign certain of our products, any one of which could harm our business and operating results. For example, some customers have requested we defend and indemnify them against claims for patent infringement asserted in various district courts and at the U.S. International Trade Commission by Bell Semiconductor LLC (Bell Semic), a patent monetization entity, based on Bell Semic’s allegation that the customers’ use of one or more features of certain of our products infringes one or more of six patents held by Bell Semic. We are defending some of our customers consistent with the terms of our End User License Agreement. Further information regarding Bell Semic is contained in Part I, Item 3, 
+Legal Proceedings
+ of this Annual Report on Form 10-K.
+
+We may not be able to continue to obtain licenses to third-party software and intellectual property on reasonable terms or at all, which may disrupt our business and harm our financial results.
+
+We license third-party software and other intellectual property for use in product research and development and, in several instances, for inclusion in our products. We also license third-party software, including the software of our competitors, to test the interoperability of our products with other industry products and in connection with our professional services. These licenses may need to be renegotiated or renewed from time to time, or we may need to obtain new licenses in the future. Third parties may stop adequately supporting or maintaining their technology, or they or their technology may be acquired by our competitors. If we are unable to obtain licenses to these third-party software and intellectual property on reasonable terms or at all, we may not be able to sell the affected products, our customers’ use of the products may be interrupted, or our product development processes and professional services offerings may be disrupted, which could in turn harm our financial results, our customers, and our reputation.
+
+The inclusion of third-party intellectual property in our products can also subject us and our customers to infringement claims. We may not be able to sufficiently limit our potential liability contractually. Regardless of outcome, infringement claims may require us to use significant resources and may divert management’s attention from the operation of our business.
+
+Some of our products and technology, including those we acquire, may include software licensed under open source licenses. Some open source licenses could require us, under certain circumstances, to make available or grant licenses to any modifications or derivative works we create based on the open source software. The risks associated with open source usage may not be eliminated despite our best efforts and may, if not properly addressed, result in unanticipated obligations that harm our business.
+
+In preparing our financial statements we make certain assumptions, judgments and estimates that affect amounts reported in our consolidated financial statements, which, if not accurate, may significantly impact our financial results.
+
+We make assumptions, judgments and estimates for a number of items, including the fair value of financial instruments, goodwill, long-lived assets and other intangible assets, the realizability of deferred tax assets, the recognition of revenue and the fair value of stock awards. We also make assumptions, judgments and estimates in determining the accruals for employee-related liabilities, including commissions and variable compensation, and in determining the accruals for uncertain tax positions, valuation allowances on deferred tax assets, allowances for credit losses, and legal contingencies. These assumptions, judgments and estimates are drawn from historical experience and various other factors that we believe are reasonable under the circumstances as of the date of the consolidated financial statements. Actual results could differ materially from our estimates, and such differences could significantly impact our financial results.
+
+27
+
+Table of Contents
+
+Liquidity requirements in our U.S. operations may require us to raise cash in uncertain capital markets, which could negatively affect our financial condition.
+
+As of October 31, 2023, approximately 52% of our worldwide cash and cash equivalents balance is held by our international subsidiaries. We intend to meet our U.S. cash spending needs primarily through our existing U.S. cash balances, ongoing U.S. cash flows, and available credit under our term loan and revolving credit facilities. Should our cash spending needs in the U.S. rise and exceed these liquidity sources, we may be required to incur additional debt at higher than anticipated interest rates or access other funding sources, which could negatively affect our operating results, capital structure or the market price of our common stock.
+
+Legal and Regulatory Risks
+
+Our results could be adversely affected by a change in our effective tax rate, changes in our geographical earnings mix, unfavorable government reviews of our tax returns, material differences between our forecasted and actual annual effective tax rates, or future changes to our tax structure.
+
+Our operations are subject to income and transaction taxes in the U.S. and in multiple foreign jurisdictions. Because we have a wide range of statutory tax rates in the multiple jurisdictions in which we operate, any changes in our geographical earnings mix, including those resulting from our intercompany transfer pricing or from changes in the rules governing transfer pricing, could materially impact our effective tax rate. Furthermore, a change in the tax law of the jurisdictions where we do business, including an increase in tax rates, an adverse change in the treatment of an item of income or expense, or limitations on our ability to utilize tax credits, could result in a material increase in our tax expense and impact our financial position and cash flows.
+
+On December 22, 2017, the Tax Cuts and Jobs Act (the Tax Act) was enacted, which significantly changed prior U.S. tax law and includes numerous provisions that affect our business. The Tax Act includes certain provisions that began to affect our income in the first quarter of fiscal 2019, while other sections of the Tax Act and related regulations began to affect our business in the first quarter of fiscal 2023. One of these provisions includes the requirement to capitalize and amortize research and development expenditures instead of expensing such expenditures as incurred. This results in a significant increase to our cash tax liability and also decreases our effective tax rate due to increasing the foreign derived intangible income deduction. On September 8, 2023, the Internal Revenue Service issued initial guidance for the Tax Act in Notice 2023-63 and indicated regulatory guidance will follow. Future regulatory guidance remains uncertain and may materially affect our financial position.
+
+On August 16, 2022, the Inflation Reduction Act of 2022 (the IR Act) was enacted in the U.S. The IR Act includes a 15% minimum tax rate, as well as tax credit incentives for reductions in greenhouse gas emissions. The details of the computation of the tax and implementation of the incentives will be subject to regulations to be issued by the U.S. Department of the Treasury. On August 9, 2022, the CHIPS and Science Act of 2022 (CHIPS Act) was enacted in the U.S. to provide certain financial incentives to the semiconductor industry, primarily for manufacturing activities within the U.S. We are continuing to monitor the IR Act and CHIPS Act and related regulatory developments to evaluate their potential impact on our business and operating results.
+
+On October 8, 2021, the Organization for Economic Co-operation and Development (OECD) announced the OECD/G20 Inclusive Framework on Base Erosion and Profit Shifting (Framework) which agreed to a two-pillar solution to address tax challenges arising from digitalization of the economy. On December 20, 2021, the OECD released Pillar Two Model Rules (Pillar Two) defining the global minimum tax rules, which contemplate a 15% minimum tax rate. The OECD continues to release additional guidance, including Administrative Guidance on how the Pillar Two rules should be interpreted and applied and many countries are passing legislation to comply with Pillar Two. The Framework calls for law enactment by OECD and G20 members to take effect in 2024 and 2025. These changes, when enacted by various countries in which we do business, may increase our taxes in these countries. Changes to these and other areas in relation to international tax reform, including future actions taken by foreign governments in response to the Tax Act, could increase uncertainty and may adversely affect our tax rate and cash flow in future years.
+
+Our income and non-income tax filings are subject to review or audit by the Internal Revenue Service and state, local and foreign taxing authorities. We exercise significant judgment in determining our worldwide provision for income taxes and, in the ordinary course of our business, there may be transactions and calculations where the ultimate tax determination is uncertain. We may also be liable for potential tax liabilities of businesses we acquire. The final determination in an audit may be materially different than the treatment reflected in our historical income tax provisions and accruals. An assessment of additional taxes because of an audit could adversely affect our income tax provision and net income in the periods for which that determination is made. For further discussion on 
+
+28
+
+Table of Contents
+
+our ongoing audits, see Note 15. 
+Income Taxes
+ of the 
+Notes to Consolidated Financial Statements
+ in this Annual Report under the heading "Non-U.S. Examinations."
+
+We maintain significant deferred tax assets related to certain tax credits and capitalized research and development expenditures. Our ability to use these deferred tax assets is dependent upon having sufficient future taxable income in the relevant jurisdiction and in the case of foreign tax credits, how such credits are treated under current and potential future tax law. Changes to tax laws and regulations, and changes in our forecasts of future income could result in an adjustment to the deferred tax asset and a related charge to earnings that could materially affect our financial results.
+
+Our business is subject to evolving corporate governance and public disclosure regulations and expectations, including with respect to environmental, social and governance matters,
+
+that could expose us to numerous risks.
+
+We are subject to changing rules and regulations promulgated by a number of governmental and self-regulatory organizations, including, among others, the SEC, the Nasdaq Stock Market and the Financial Accounting Standards Board (FASB). These rules and regulations continue to evolve in scope and complexity and many new requirements have been created in response to laws enacted by Congress, making compliance difficult and uncertain. In addition, regulators, customers, investors, employees and other stakeholders are increasingly focused on environmental, social and governance (ESG) matters and related disclosures. These changing rules, regulations and stakeholder expectations have resulted in, and are likely to continue to result in, increased general and administrative expenses and increased management time and attention spent complying with or meeting such regulations and expectations. For example, developing and acting on ESG initiatives, and collecting, measuring, and reporting ESG information and metrics can be costly, difficult and time consuming and is subject to evolving reporting standards, including the SEC’s proposed climate-related reporting requirements. We may also communicate certain initiatives and goals regarding environmental matters, diversity, responsible sourcing, social investments and other ESG matters in our SEC filings or in other public disclosures. These initiatives and goals could be difficult and expensive to implement, the technologies needed to implement them may not be cost effective and may not advance at a sufficient pace, and ensuring the accuracy, adequacy, or completeness of the disclosure of our ESG initiatives can be costly, difficult and time consuming. Further, statements about our ESG initiatives and goals, and progress against those goals, may be based on standards for measuring progress that are still developing, internal controls and processes that continue to evolve, and assumptions that are subject to change. We could also face scrutiny from certain stakeholders for the scope or nature of such initiatives or goals, or for any revisions to these goals. If our ESG-related data, processes and reporting are incomplete or inaccurate, or if we fail to achieve progress with respect to our ESG goals on a timely basis, or at all, our business, financial performance and growth could be adversely affected.
+
+Changes in the U.S. generally accepted accounting principles (U.S. GAAP) could adversely affect our financial results and may require significant changes to our internal accounting systems and processes.
+
+We prepare our consolidated financial statements in conformity with U.S. GAAP. These principles are subject to interpretation by the FASB, the SEC and various bodies formed to interpret and create appropriate accounting principles and guidance. The FASB periodically issues new accounting standards on a variety of topics, including, for example, revenue recognition and accounting for leases. These and other such standards generally result in different accounting principles, which may significantly impact our reported results or could result in variability of our financial results.
+
+We may be subject to litigation proceedings that could harm our business.
+
+We may be subject to legal claims or regulatory matters involving stockholder, consumer, employment, customer, supplier, competition and other issues on a global basis. Litigation is subject to inherent uncertainties, and unfavorable rulings could occur. An unfavorable ruling could include monetary damages or, in cases for which injunctive relief is sought, an injunction prohibiting us from manufacturing or selling one or more products. If we were to receive an unfavorable ruling on a matter, our business and operating results could be materially harmed. Further information regarding certain of these matters is contained in Part I, Item 3, 
+Legal Proceedings
+ of this Annual Report on Form 10-K
+.
+
+There are inherent limitations on the effectiveness of our controls and compliance programs.
+
+Regardless of how well designed and operated it is, a control system can provide only reasonable assurance that its objectives will be met. Further, the design of a control system must reflect the fact that there are resource constraints, and the benefits of controls must be considered relative to their costs. Because of the inherent 
+
+29
+
+Table of Contents
+
+limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, have been detected. Our compliance programs and compliance training for employees may not prevent our employees, contractors or agents from breaching or circumventing our policies or violating applicable laws and regulations. Failure of our control systems and compliance programs to prevent error, fraud or violations of law could have a material adverse impact on our business.
+
+General Risks
+
+Our investment portfolio may be impaired by any deterioration of capital markets.
+
+From time to time, our cash equivalent and short-term investment portfolio consists of investment-grade U.S. government agency securities, asset-backed securities, corporate debt securities, commercial paper, certificates of deposit, money market funds, municipal securities and other securities and bank deposits. Our investment portfolio carries both interest rate risk and credit risk and may be negatively impacted by deteriorating economic conditions, increased global inflationary pressures and interest rates and bank failures. Fixed rate debt securities may have their market value adversely impacted due to a credit downgrade or a rise in interest rates, while floating rate securities may produce less income than expected if interest rates fall or a credit downgrade occurs.
+
+Our future investment income may fall short of expectations due to changes in interest rates or if the decline in fair value of investments held by us is judged to be other-than-temporary. In addition, we may suffer losses in principal if we are forced to sell securities that decline in market value due to changes in the issuer’s credit quality or changes in interest rates.
+
+Catastrophic events and the effects of climate change, pandemics or other unexpected events may disrupt our business and harm our operating results.
+
+Due to the global nature of our business, our operating results may be negatively impacted by catastrophic events and the effects of climate change, pandemics, such as the recent COVID-19 pandemic, or other unexpected events throughout the world. We rely on a global network of infrastructure applications, enterprise applications and technology systems for our development, marketing, operational, support and sales activities. A disruption or failure of these systems in the event of a major earthquake, fire, extreme temperatures, drought, flood, telecommunications failure, cybersecurity attack, terrorist attack, epidemic or pandemic, or other catastrophic events or climate change-related events could cause system interruptions, delays in our product development and loss of critical data and could prevent us from fulfilling our customers’ orders. In particular, our sales and infrastructure are vulnerable to regional or worldwide health conditions, including the effects of the outbreak of contagious diseases, such as the government-imposed restrictions that curtailed global economic activity and caused substantial volatility in global financial markets during the COVID-19 pandemic. Moreover, our corporate headquarters, a significant portion of our research and development activities, our data centers, and certain other critical business operations are located in California, near major earthquake faults and sites of recent wildfires, which may become more frequent, along with other extreme weather events, due to climate change. A catastrophic event or other extreme weather event that results in the destruction or disruption of our data centers or our critical business or IT systems would severely affect our ability to conduct normal business operations and, as a result, our operating results would be adversely affected.

@@ -1,0 +1,365 @@
+As a financial services organization, we are subject to a number of risks inherent in our transactions and present in the business decisions we make. Described below are the material risks and uncertainties that if realized could have a material and adverse effect on our business, financial condition, results of operations or cash flows, and our access to liquidity. The risks and uncertainties described below are not the only risks we face. Disclosures of risks should not be interpreted to imply that the risks have not already materialized.
+
+Our ERM program incorporates risk management throughout our organization to identify, understand, and manage the risks presented by our business activities. Our ERM program identifies Key’s major risk categories as: credit risk, compliance risk, operational risk, liquidity risk, market risk, reputation risk, strategic risk, and model risk. These risk factors, and other risks we may face, are discussed in more detail in other sections of this report.
+
+I.  Credit Risk
+
+We have concentrated credit exposure in commercial and industrial loans, commercial real estate loans, and commercial leases.
+
+As of December 31, 2022, approximately 69% of our loan portfolio consisted of commercial and industrial loans, commercial real estate loans, including commercial mortgage and construction loans, and commercial leases. These types of loans are typically larger than single family residential real estate loans and other types of consumer loans and have a different risk profile. The deterioration of a larger loan or a group of loans in this category could cause an increase in criticized and nonperforming loans, which could result in lower earnings from these loans, additional provision for loan and lease losses, and ultimately an increase in loan losses.
+
+Should the fundamentals of the commercial real estate market deteriorate, our financial condition and results of operations could be adversely affected.
+
+Recent and ongoing Federal Reserve monetary policy, including shrinkage of its balance sheet and incremental increases in target interest rates, have begun to impact the commercial and residential real estate markets. Capitalization rates are rising, and property value appreciation has slowed or ceased altogether. In many markets within Key’s footprint, property values have begun to decrease. Multifamily and industrial properties continue to remain stable, but office, retail, hospitality, and single family detached properties are beginning to show early signs of potential deterioration. Development and construction continue, but at muted levels, and deliveries of additional units into the market have been supported. Oversupply of multifamily housing is a concern in certain urban and gateway markets. However, our exposures in those markets are limited. The most severely impacted commercial real estate segments have been in office and retail. Key’s non-owner occupied office and retail exposures are 12% of our total commercial real estate exposure. Substantial deterioration in property market fundamentals could negatively impact our portfolio, with a large portion of our clients active in real estate but in the comparatively better performing multifamily space. A correction in the real estate markets could impact the ability of borrowers to make debt service payments on loans or to refinance the loans at maturity. A relatively small portion of our commercial real estate loans are construction loans. New construction and value-add or rehabilitation construction projects are
+
+29
+
+Table
+ of contents
+
+not fully leased at loan origination. These properties typically require additional leasing through the life of the loan to provide cash flow to support debt service payments. If property market fundamentals deteriorate sharply, performance under existing leases could deteriorate and the execution of new leases could slow, compromising the borrower’s ability to cover debt service payments.
+
+We are subject to the risk of defaults by our loan clients and counterparties.
+
+Many of our routine transactions expose us to credit risk, including the risk of default of our counterparty or client. Our credit risk may be exacerbated when the collateral held cannot be realized upon or is liquidated at prices insufficient to recover the full amount of the loan or derivative exposure due to us. In deciding whether to extend credit or enter into other transactions, we rely on information furnished by or on behalf of counterparties and clients, including financial statements, credit reports and other information. We also rely on representations of those counterparties, clients, or other third parties as to the accuracy and completeness of that information. The inaccuracy of that information or those representations affects our ability to accurately evaluate the default risk of a counterparty or client. Given the Dodd-Frank legislative mandate to centrally clear eligible derivative contracts, we rely on central clearing counterparties to remain open and operationally viable at all times. A large member failure or a cybersecurity breach could result in a counterparty or client disruption.
+
+Various factors may cause our allowance for loan and lease losses to increase.
+
+We maintain an ALLL (a reserve established through a provision for loan and lease losses charged to expense) that represents our estimate of losses based on our evaluation of risks within our existing portfolio of loans. The level of the allowance at December 31, 2022 represents management’s estimate of expected credit losses over the contractual life of our existing loan portfolio. The determination of the appropriate level of the ALLL inherently involves a degree of subjectivity and requires that we make significant estimates of current credit risks and current trends and reasonable and supportable forecasts of future economic conditions, all of which may undergo frequent and material changes. Changes in economic conditions affecting borrowers, the softening of certain macroeconomic variables that we are more susceptible to, such as GDP, unemployment, SOFR, producer price index, industrial production, interest rates and real estate values, along with updated information regarding existing loans, identification of additional problem loans and other factors, both within and outside of our control, may indicate the need for an increase in the ALLL. 
+
+Declining asset prices could adversely affect us.
+
+During the Great Recession, the volatility and disruption that the capital and credit markets experienced reached extreme levels. This severe market disruption led to the failure of several substantial financial institutions, which caused the credit markets to constrict and caused a widespread liquidation of assets. These asset sales, along with asset sales by other leveraged investors, including some hedge funds, rapidly drove down prices and valuations across a wide variety of traded asset classes. Asset price deterioration has a negative effect on the valuation of certain of the asset categories represented on our balance sheet and reduces our ability to sell assets at prices we deem acceptable. 
+
+The most recent recession, resulting from the impact of the COVID-19 pandemic, did not have significant lasting impact on collateral value. However, there are still risks to economic stability that could reverse recent stable trends in asset prices.
+
+These risks include:
+
+•
+A correction in equity or housing markets;
+
+•
+Additional surges in COVID-19 cases leading to a decrease in economic activity;
+
+•
+Further supply chain issues such as closed factories and disrupted port activity as well as the impact of the Russia-Ukraine conflict on transportation and availability of materials; 
+
+•
+Labor-supply constraints could continue longer than anticipated, leading to slowing job growth and boosting wages along with inflation (wage-price spiral); and
+
+•
+Negative GDP, as a result of, in part, the Federal Reserve’s monetary policy efforts to arrest inflationary pressures within the broader economy.
+
+30
+
+Table
+ of contents
+
+II.  Compliance Risk
+
+We are subject to extensive government regulation, supervision, and tax legislation.
+
+As a financial services institution, we are subject to extensive federal and state regulation, supervision, and tax legislation. Banking regulations are primarily intended to protect depositors’ funds, the DIF, consumers, taxpayers, and the banking system as a whole, not our debtholders or shareholders. These regulations increase our costs and affect our lending practices, capital structure, investment practices, dividend policy, ability to repurchase our common shares, and growth, among other things.
+
+KeyBank and KeyCorp remain covered institutions under the Dodd-Frank Act’s heightened prudential standards and regulations, including its provisions designed to protect consumers from financial abuse. Like similarly situated institutions, Key undergoes routine scrutiny from bank supervisors in the examination process and is subject to enforcement of regulations at the federal and state levels, particularly with respect to consumer banking-related practices, including fair and responsible banking, fair lending, unfair, deceptive or abusive practices, and the Community Reinvestment Act, as well as compliance with AML, BSA and Office of Foreign Assets Control efforts. Federal rulemaking bodies continue to pass new, or modifications to, significant regulations with upcoming effective dates. There has also been an increase in state legislative activity, particularly in areas such as student lending and privacy. As new privacy-related laws and regulations, such as the California Consumer Privacy Act, are implemented in jurisdictions in which KeyBank operates, the time and resources needed for us to comply with such laws and regulations, as well as our potential liability for noncompliance and reporting obligations in the case of data breaches, may significantly increase. Compliance with these laws and regulations has required and may continue to require us to change our policies, procedures, and technology for information security and segregation of data, which could, among other things, make us more vulnerable to operational failures, and subject us to monetary penalties for breach of such laws and regulations. As a result, some uncertainty remains as to the aggregate impact upon Key of significant regulations.
+
+Changes to existing statutes and regulations, and taxes (including industry-specific taxes and surcharges), or their interpretation or implementation, could affect us in substantial and unpredictable ways. Interpretation of consumer banking-related regulations may evolve as the industry and the regulators seek to increase access to banking products and services by consumers. These changes may subject us to additional costs and increase our litigation risk should we fail to appropriately comply. Such changes may also impact consumer behavior, limit the types of financial services and products we may offer, affect the investments we make, and change the manner in which we operate. In addition, changes to laws and regulations may impact our customers by requiring them to adjust their operations or practices or impair their ability to pay fees or outstanding loans or afford new products, which could negatively impact demand for our products and services.
+
+Certain federal regulations have been in existence for decades without modification to account for modern banking practices, such as digital delivery of products and services, which can create challenges in execution and in the examination process. Emerging technologies, such as cryptocurrencies, could limit KeyBank’s ability to track the movement of funds. KeyBank’s ability to comply with BSA/AML and other regulations is dependent on its ability to improve detection and reporting capabilities and reduce variation in control processes and oversight accountability.
+
+Additionally, federal banking law grants substantial enforcement powers to federal banking regulators. This enforcement authority includes, among other things, the ability to assess civil money penalties, fines, or restitution, to issue cease and desist or removal orders, and to initiate injunctive actions against banking organizations and affiliated parties. These enforcement actions may be initiated for violations of laws and regulations, for practices determined to be unsafe or unsound, or for practices or acts that are determined to be unfair, deceptive, or abusive. Failure to comply with these and other regulations, and supervisory expectations related thereto, may result in fines, penalties, lawsuits, regulatory sanctions, reputational damage, or restrictions on our business. Moreover, different government administrations may have different regulatory priorities, which may impact the level of regulation of financial institutions and the enforcement environment.
+
+For more information, see “Supervision and Regulation” in Item 1 of this report.
+
+31
+
+Table
+ of contents
+
+Changes in accounting policies, standards, and interpretations could materially affect how we report our financial condition and results of operations.
+
+The FASB periodically changes the financial accounting and reporting standards governing the preparation of Key’s financial statements. Additionally, those bodies that establish and/or interpret the financial accounting and reporting standards (such as the FASB, SEC, and banking regulators) may change prior interpretations or positions on how these standards should be applied. These changes can be difficult to predict and can materially affect how Key records and reports its financial condition and results of operations. In some cases, Key could be required to retroactively apply a new or revised standard, resulting in changes to previously reported financial results.
+
+III.  Operational Risk
+
+We are subject to a variety of operational risks.
+
+In addition to the other risks discussed in this section, we are subject to operational risk, which represents the risk of loss resulting from human error, inadequate or failed internal processes, internal controls, systems, and external events. Operational risk includes the risk of fraud by employees or others outside of Key, clerical and record-keeping errors, nonperformance by vendors, threats from cyber activity, and computer/telecommunications malfunctions. Fraudulent activity has escalated, become more sophisticated, and is ever evolving as there are more options to access financial services. Operational risk also encompasses compliance and legal risk, which is the risk of loss from violations of, or noncompliance with, laws, rules, regulations, prescribed practices, or ethical standards, as well as the risk of our noncompliance with contractual and other obligations. We are also exposed to operational risk through our outsourcing arrangements, and the effect that changes in circumstances or capabilities of our outsourcing vendors can have on our ability to continue to perform operational functions necessary to our business, such as certain loan processing functions. For example, breakdowns or failures of our vendors’ systems or employees could be a source of operational risk to us. Resulting losses from operational risk could take the form of explicit charges, increased operational costs (including remediation costs), harm to our reputation, inability to secure insurance, litigation, regulatory intervention or sanctions, or foregone business opportunities.
+
+We rely on our employees to design, manage, and operate our systems and controls to assure that we properly enter into, record and manage processes, transactions and other relationships with customers, suppliers and other parties with whom we do business. We also depend on employees and the systems and controls for which they are responsible to assure that we identify and mitigate the risks that are inherent in our relationships and activities. These concerns are increased when we change processes or procedures, introduce new products or services, or implement new technologies, as we may fail to adequately identify or manage operational risks resulting from such changes. These concerns may be further exacerbated by employee turnover or labor shortages. As a result of our necessary reliance on employees to perform these tasks and manage resulting risks, we are thus subject to human vulnerabilities. These range from innocent human error to misconduct or malfeasance, potentially leading to operational breakdowns or other failures. Our controls may not be adequate to prevent problems resulting from human involvement in our business, including risks associated with the design, operation and monitoring of automated systems. We may also fail to adequately develop a culture of risk management among our employees.
+
+We and third parties on which we rely (including their downstream service providers) may experience a cyberattack, technology failure, information system or security breach or interruption.
+
+We rely heavily on communications, information systems (both internal and provided by third parties), and the internet to conduct our business. Our business is dependent on our ability to process and monitor large numbers of daily transactions in compliance with legal, regulatory, and internal standards and specifications. In addition, a significant portion of our operations relies heavily on the secure processing, storage, and transmission of personal and confidential information, such as the personal information of our customers and clients. These risks may increase in the future as we continue to increase mobile payments and other internet-based product offerings, expand our internal usage of web/cloud-based products and applications, and maintain and develop new relationships with third party providers, including their downstream service providers. In addition, our ability to extend protections to customers’ information to individual customer devices is limited, especially if the customers willingly provide third parties access to their devices or information.
+
+In the event of a failure, interruption, or breach of our information systems or that of a third party that provides services to us or our customers, we may be unable to avoid impact to our customers. Such a failure, interruption, or breach could result in legal liability, remediation costs, regulatory action, or reputational harm. U.S. financial service 
+
+32
+
+Table
+ of contents
+
+institutions and companies have reported breaches in the security of their websites or other systems and several financial institutions, including Key, have had third parties on which they rely experience such breaches. In addition, several financial institutions, including Key, have experienced significant distributed denial-of-service attacks, some of which involved sophisticated and targeted attacks intended to disrupt, disable, or degrade services, or sabotage systems or data. Other attacks have attempted to obtain unauthorized access to confidential, proprietary, or personal information or intellectual property, to extort money through the use of “ransomware” or other extortion tactics, or to alter or destroy data or systems, often through various attack vectors and methods, including the introduction of computer viruses or malicious code (commonly referred to as “malware”), phishing, cyberattacks, account takeovers, credential stuffing, and other means. To the extent that we use third parties to provide services to our clients, we cannot control all of the risks at these third parties or third parties’ downstream service providers. Hardware, software, or applications developed by Key or received from third parties may contain exploitable vulnerabilities, bugs, or defects in design, maintenance or manufacture or other issues that could unpredictably compromise information and cybersecurity. Should an adverse event affecting another company’s systems occur, we may not have indemnification or other protection from the other company sufficient to fully compensate us or otherwise protect us or our clients from the consequences. To date, our losses and costs related to these breaches have not been material, but other similar events in the future could have a significant impact on us.
+
+In addition, our customers routinely use Key-issued credit and debit cards to pay for transactions conducted with businesses in person and over the internet. If the business’s systems that process or store debit or credit card information experience a security breach, our card holders may experience fraud on their card accounts. We may suffer losses associated with such fraudulent transactions, as well as for other costs, such as replacing impacted cards. Key also provides card transaction processing services to some merchant customers under agreements we have with payment networks such as Mastercard. Under these agreements, we may be responsible for certain losses and penalties if one of our merchant customers suffers a data breach. 
+
+We also face risks related to the increasing interdependence and interconnectivity of financial entities and technology systems. A technology failure, cyberattack or other security breach that significantly compromises the systems of one or more financial parties or service providers in the financial system could have a material impact on counterparties or market participants, including us. Any third-party technology failure, cyberattack, or security breach could adversely affect our ability to effect transactions, service clients, or otherwise operate our business and could result in legal liability, remediation costs, regulatory action, or reputational harm. Additionally, the increasing use of third-party financial data aggregators and emerging technologies, including the use of automation, artificial intelligence and robotics, introduces new information security risks and exposure.
+
+Such security attacks can originate from a wide variety of sources/malicious actors, including, but not limited to, persons who constitute an insider threat, who are involved with organized crime, or who may be linked to terrorist organizations or hostile foreign governments. Those same parties may also attempt to fraudulently induce employees, customers, or other users of our systems to disclose sensitive information in order to gain access to our data or that of our customers or clients through social engineering, phishing, mobile phone malware and SIM card swapping, and other methods. Our security systems, and those of the third-party service providers on which we rely, may not be able to protect our information systems or data from similar attacks due to the rapid evolution and creation of sophisticated cyberattacks. We are also subject to the risk that a malicious actor or our employees may intercept and/or transmit or otherwise misuse unauthorized personal, confidential, or proprietary information or intellectual property. An interception, misuse, or mishandling of personal, confidential, or proprietary information or intellectual property being sent to or received from a customer or third party could result in legal liability, remediation costs, regulatory action, and reputational harm. Over the last few years, several large companies have disclosed that they or their service providers suffered substantial data security breaches, compromising millions of user accounts and credentials.
+
+The risk of cyberattacks has also increased and will continue to increase in connection with Russia’s invasion of Ukraine. In light of the Ukraine war and other geopolitical events and dynamics, including ongoing tensions with North Korea, Iran and other countries, state-sponsored parties or their supporters may launch retaliatory cyberattacks, and may attempt to cause supply chain disruptions, or carry out other geopolitically motivated retaliatory actions that may adversely disrupt or degrade our operations and may result in data compromise. State-sponsored parties have, and will continue, to conduct cyberattacks to achieve their goals that may include espionage, monetary gain, disruption, and destruction. To accomplish their goals, state-sponsored parties and other cyber criminals have used, and may continue to use, various attack vectors and methods as discussed above.
+
+33
+
+Table
+ of contents
+
+We have incurred and will continue to incur significant expense in an effort to improve the reliability and resilience of our systems and their security against external and internal threats. Nonetheless, there remains the risk that one or more adverse events might occur. If one does occur, we might not be able to remediate the event or its consequences timely or adequately. While we do maintain cyber information security and business interruption insurance, losses from a major interruption may exceed our coverage and there can be no assurance that liabilities or losses we may incur will be covered under such policies.
+
+We rely on third parties to perform significant operational services for us.
+
+Third parties perform significant operational services on our behalf. Additionally, some of our third parties outsource aspects of their operations to downstream service providers. These parties are subject to similar risks as Key relating to cybersecurity and breakdowns or failures of their own systems, internal processes and controls, or employees. One or more of these third parties or their downstream service providers may experience a cybersecurity event or operational disruption and, if any such event does occur, it may not be adequately addressed, either operationally or financially, by such third party. Certain of these third parties may have limited indemnification obligations or may not have the financial capacity to satisfy their indemnification obligations. Financial or operational difficulties of a third party could also impair our operations if those difficulties interfere with such third party’s ability to serve us. For example, we previously announced that we plan to operate our primary platforms and applications on Google Cloud infrastructure. If this planned transition is delayed or impacts the reliability and availability of our services, we may not realize our financial and strategic objectives. In addition, any unanticipated interruption, delay, or degradation in the performance and delivery of our services could negatively impact our customer relationships. Additionally, some of our outsourcing arrangements are located overseas and, therefore, are subject to risks unique to the regions in which they operate. If a critical third party is unable to meet our needs in a timely manner or if the services or products provided by such third party are terminated or otherwise delayed and if we are not able to identify or develop alternative sources for these services and products quickly and cost-effectively, it could have a material adverse effect on our business. Additionally, regulatory guidance adopted by federal banking regulators related to how banks select, engage, and manage their third parties affects the circumstances and conditions under which we work with third parties and the cost of managing such relationships.
+
+We are subject to claims and litigation, which could result in significant financial liability and/or reputational risk.
+
+From time to time, customers, vendors, or other parties may make claims and take legal action against us. We maintain reserves for certain claims when deemed appropriate based upon our assessment that a loss is probable, estimable, and consistent with applicable accounting guidance. At any given time, we have a variety of legal actions asserted against us in various stages of litigation. Resolution of a legal action can often take years. Whether any particular claims and legal actions are founded or unfounded, if such claims and legal actions are not resolved in our favor, they may result in significant financial liability and adversely affect how the market perceives us and our products and services as well as impact customer demand for those products and services.
+
+We are also involved, from time to time, in other information-gathering requests, reviews, investigations, and proceedings (both formal and informal) by governmental and self-regulatory agencies regarding our business, including, among other things, accounting, compliance, and operational matters, certain of which may result in adverse judgments, settlements, fines, penalties, injunctions, or other relief which, if significant, could adversely affect our business, results of operations and/or financial condition. In recent years, there has been an increase in the number of investigations and proceedings in the financial services industry. A violation of law or regulation by another financial institution may give rise to an inquiry or investigation by regulators or other authorities of the same or similar practices by Key. The outcome of regulatory matters as well as the timing of ultimate resolution are inherently difficult to predict.
+
+Our controls and procedures may fail or be circumvented, and our methods of reducing risk exposure may not be effective.
+
+We regularly review and update our internal controls, disclosure controls and procedures, and corporate governance policies and procedures. We also maintain an ERM program designed to identify, measure, monitor, report, and analyze our risks. Additionally, our internal audit function provides an independent assessment and testing of Key’s internal controls, policies, and procedures. Any system of controls and any system to reduce risk exposure, however well designed, operated, and tested, is based in part on certain assumptions and can provide only reasonable, not absolute, assurances that the objectives of the system are met. The systems may not work as 
+
+34
+
+Table
+ of contents
+
+intended or be circumvented by employees, third parties, or others outside of Key. Additionally, instruments, systems, and strategies used to hedge or otherwise manage exposure to various types of market compliance, credit, liquidity, operational, and business risks and enterprise-wide risk could be less effective than anticipated. As a result, we may not be able to effectively or fully mitigate our risk exposures in particular market environments or against particular types of risk.
+
+Our operations and financial performance could be adversely affected by severe weather and natural disasters exacerbated by climate change.
+
+Natural disasters could have a material adverse effect on our financial position and results of operations, and the timing and effects of any natural disaster cannot accurately be predicted. The frequency and severity of some types of natural disasters, including wildfires, tornadoes, severe storms, and hurricanes, have increased as a result of climate change, which further reduces our ability to predict their effects accurately. These and other natural disasters could affect Key directly (for example, by interrupting our systems, damaging our facilities or otherwise preventing us from conducting our business in the ordinary course) or indirectly (for example, by damaging or destroying customer businesses or otherwise impairing customers’ ability to repay their loans, or by damaging or destroying property pledged as collateral for loans made by Key).
+
+Societal responses to climate change could adversely affect Key’s business and performance, including indirectly through impacts on Key’s customers.
+
+Concerns over the long-term impacts of climate change have led and may continue to lead to governmental efforts around the world to mitigate those impacts. New and/or more stringent regulatory requirements could materially affect our results by requiring us to take costly measures to comply with any new laws or regulations related to climate change that may be forthcoming. Consumers and businesses also may change their own behavior as a result of these concerns. Key and its customers will need to respond to new laws and regulations, as well as consumer and business preferences resulting from climate change concerns. Key and its customers may face cost increases, asset value reductions, operating process changes, and the like. The impact on Key’s customers will likely vary depending on their specific attributes, including reliance on or role in carbon intensive activities. Changes to regulations or market shifts to low-carbon products could impact the credit worthiness or the value of assets securing loans of some of our customers, which may require us to adjust our lending portfolios and business strategies. Key’s efforts to take these risks into account in making lending and other decisions, including by increasing business relationships with climate-friendly companies, may not be effective in protecting Key from the negative impact of new laws and regulations or changes in consumer or business behavior.
+
+The increased use of remote work infrastructure has expanded potential attack vectors and resulted in increased operational risks.
+
+The increase in remote work has resulted in an expanded potential attack surface and heightened operational risks and may negatively impact our ability, and the ability of our third-party service providers (including their downstream service providers), to perform services efficiently, securely, and without interruptions. A large percentage of our workforce works remotely, and our third-party service providers (including their downstream service providers) may utilize personnel who work remotely. Increased levels of remote access create additional cybersecurity risk and opportunities for cybercriminals to exploit vulnerabilities. For example, cybercriminals have increased their attempts to compromise business emails, including an increase of phishing attempts. These fraudulent activities have resulted in increased fraud losses to us and the financial services industry. In addition to enhanced cybersecurity risk, employees and other personnel performing services for us who work remotely may experience disruptions to their home internet or phone connections, decreased efficiency due to delayed network speeds or other interruptions, and/or delays in the dissemination and exchange of information, any of which could negatively impact our operations. We have experienced, and may continue to experience, disruption related to remote work, which disruptions could adversely impact our business, and could result in legal liability, regulatory penalties, litigation expenses, remediation costs, or reputational harm.
+
+35
+
+Table
+ of contents
+
+IV.  Liquidity Risk
+
+Capital and liquidity requirements imposed by banking regulations require banks and BHCs to maintain more and higher quality capital and more and higher quality liquid assets.
+
+Evolving capital standards resulting from the Dodd-Frank Act and the Regulatory Capital Rules adopted by our regulators have had and will continue to have a significant impact on banks and BHCs, including Key. For a detailed explanation of the capital and liquidity rules that became effective for us on a phased-in basis on January 1, 2015, see the section titled “Regulatory capital requirements” under the heading “Supervision and Regulation” in Item 1 of this report.
+
+The Federal Reserve’s capital standards require Key to maintain more and higher quality capital and could limit our business activities (including lending) and our ability to expand organically or through acquisitions. They could also result in our taking steps to increase our capital that may be dilutive to shareholders or limit our ability to pay dividends or otherwise return capital to shareholders.
+
+In addition, the liquidity standards require us to hold high-quality liquid assets, may require us to change our future mix of investment alternatives, and may impact future business relationships with certain customers. Additionally, support of liquidity standards may be satisfied through the use of term wholesale borrowings, which tend to have a higher cost than that of traditional core deposits.
+
+Further, the Federal Reserve has detailed the processes that BHCs should maintain to ensure they hold adequate capital under severely adverse conditions and have ready access to funding before engaging in any capital activities. These processes, the severity and other characteristics of which may evolve from year-to-year, are used by the Federal Reserve to, among other things, evaluate our management of capital and the adequacy of our regulatory capital and to determine the stress capital buffer that we must maintain above our minimum regulatory capital requirements. The results of these processes are difficult to predict due, among other things, to the Federal Reserve’s use of proprietary stress models that differ from our internal models and may result in the Federal Reserve imposing capital requirements in excess of our expectations which could require us, as applicable, to revise our stress-testing or capital management approaches, resubmit our capital plan or postpone, cancel, or alter or planned capital actions. The results may also lead to limits on Key’s ability to make distributions, including paying out dividends or buying back shares. For more information, see the section titled “Regulatory capital requirements” under the heading “Supervision and Regulation” in Item 1 of this report.
+
+In addition, certain regulatory rule changes related to tailoring outlined in EGRRCPA have been finalized. While marginal relief from certain capital and liquidity standards has been afforded to Key (such as relief from LCR disclosure requirements), overall capital and liquidity management practices and expectations will remain unchanged for the foreseeable future. Moreover, Key has not experienced significant changes to its overall liquidity and capital levels or composition as a result of the final rules. 
+
+Federal agencies’ actions to ensure stability of the U.S. financial system may have disruptive effects on us.
+
+The federal government, in recent years, has taken unprecedented steps to provide stability to and confidence in the financial markets. For example, the Federal Reserve initiated a round of emergency interest rate cuts designed to mitigate some of the economic effects resulting from the pandemic. The discontinuation and, in some cases, reversal of such initiatives have since impacted financial markets and our business. These effects include increased market and interest rate volatility, higher debt yields, an inverted slope to the yield curve, and unanticipated changes to quality spread premiums that may not follow historical relationships or patterns. Additionally, new initiatives or legislation may not be implemented, or, if implemented, may not be adequate to counter any negative effects of discontinuing programs or, in the event of an economic downturn, to support and stabilize the economy.
+
+As market conditions evolve and respond to the influence of these government agency initiatives, or lack thereof, the slope of the yield curve will shift and influence our loan and deposit rates and value of investments. The actions of federal agencies are not fully predictable which contributes to market volatility and changes to the slope of the yield curve.
+
+36
+
+Table
+ of contents
+
+We rely on dividends by our subsidiaries for most of our funds.
+
+We are a legal entity separate and distinct from our subsidiaries. With the exception of cash that we may raise from debt and equity issuances, we receive substantially all of our funding from dividends by our subsidiaries. Dividends by our subsidiaries are the principal source of funds for the dividends we pay on our common and preferred stock and interest and principal payments on our debt. Federal banking law and regulations limit the amount of dividends that KeyBank (KeyCorp’s largest subsidiary) can pay. For further information on the regulatory restrictions on the payment of dividends by KeyBank, see “Supervision and Regulation” in Item 1 of this report.
+
+In the event KeyBank is unable to pay dividends to us, we may not be able to service debt, pay obligations, or pay dividends on our common or preferred stock. Such a situation could result in Key losing access to alternative wholesale funding sources. In addition, our right to participate in a distribution of assets upon a subsidiary’s liquidation or reorganization is subject to the prior claims of the subsidiary’s creditors.
+
+We are subject to liquidity risk, which could negatively affect our funding levels.
+
+Market conditions or other events could negatively affect our access to or the cost of funding, affecting our ongoing ability to accommodate liability maturities and deposit withdrawals, meet contractual obligations, or fund asset growth and new business initiatives at a reasonable cost, in a timely manner and without adverse consequences.
+
+Although we maintain a liquid asset portfolio and have implemented strategies to maintain sufficient and diverse sources of funding to accommodate planned as well as unanticipated changes in assets, liabilities, and off-balance sheet commitments under various economic conditions (including a reduced level of wholesale funding sources), a substantial, unexpected, or prolonged change in the level or cost of liquidity could have a material adverse effect on us. If the cost effectiveness or the availability of supply in these credit markets is reduced for a prolonged period of time, our funding needs may require us to access funding and manage liquidity by other means. These alternatives may include generating client deposits, securitizing or selling loans, extending the maturity of wholesale borrowings, borrowing under certain secured borrowing arrangements, using relationships developed with a variety of fixed income investors, and further managing loan growth and investment opportunities. These alternative means of funding may result in an increase to the overall cost of funds and may not be available under stressed conditions, which would cause us to liquidate a portion of our liquid asset portfolio to meet any funding needs.
+
+Our credit ratings affect our liquidity position.
+
+The rating agencies regularly evaluate the securities issued by KeyCorp and KeyBank. The ratings of our long-term debt and other securities are based on a number of factors, including our financial strength, ability to generate earnings, and other factors. Some of these factors are not entirely within our control, such as conditions affecting the financial services industry and the economy and changes in rating methodologies. Changes in any of these factors could impact our ability to maintain our current credit ratings. A rating downgrade of the securities of KeyCorp or KeyBank could adversely affect our access to liquidity and could significantly increase our cost of funds, trigger additional collateral or funding requirements, and decrease the number of investors and counterparties willing to lend to us, reducing our ability to generate income.
+
+Any failure by the U.S. federal government to increase the debt ceiling or any government shutdown could adversely affect the U.S. and global economy and our liquidity, financial condition and earnings.
+
+U.S. debt ceiling and budget deficit concerns have increased the possibility of credit-rating downgrades and economic slowdowns, or a recession in the United States or globally. The U.S. federal government hit its borrowing limit, or debt ceiling, on January 19, 2023. If the government fails to increase the debt limit, the U.S. government’s sovereign credit rating may be downgraded and the U.S. government could default on its debts, which could adversely affect the U.S. and global financial markets, banking systems, and economic conditions. Absent intervention by the Federal Reserve, these developments could cause interest rates and borrowing costs to further increase, which may negatively impact our ability to access the debt markets, including the corporate bond markets, on favorable terms. In addition, disagreement over the federal budget has previously caused the U.S. federal government to shut down for periods of time. An extended period of shutdown of portions of the U.S. federal government could negatively impact the financial performance of certain customers and could negatively impact customers’ future access to certain loan and guaranty programs. Continued adverse political and economic conditions could have a material adverse effect on our business, financial condition and results of operations.
+
+37
+
+Table
+ of contents
+
+V.  Market Risk
+
+A worsening of the U.S. economy and volatile or recessionary conditions in the U.S. or abroad could negatively affect our business or our access to capital markets.
+
+A worsening of economic and market conditions or downside shocks could result in adverse effects on Key and others in the financial services industry. Recent and persistent interest rate increases and a slowing economy have presented a challenge for the industry, including Key, and affects business and financial performance.
+
+In particular, we face the following risks, and other unforeseeable risks, in connection with a downturn in the economic and market environment or in the face of downside shocks or a recession, whether in the United States or internationally:
+
+•
+A loss of confidence in the financial services industry and the debt and equity markets by investors, placing pressure on the price of Key’s common shares or decreasing the credit or liquidity available to Key;
+
+•
+A decrease in consumer and business confidence levels generally, decreasing credit usage and investment or increasing delinquencies and defaults;
+
+•
+A decrease in household or corporate incomes, reducing demand for Key’s products and services;
+
+•
+A decrease in the value of collateral securing loans to Key’s borrowers or a decrease in the quality of Key’s loan portfolio, increasing loan charge-offs and reducing Key’s net income;
+
+•
+A decrease in our ability to liquidate positions at acceptable market prices;
+
+•
+An increase in competition or consolidation in the financial services industry;
+
+•
+Increased concern over and scrutiny of the capital and liquidity levels of financial institutions generally, and those of our transaction counterparties specifically;
+
+•
+A decrease in confidence in the creditworthiness of the United States or other issuers whose securities we hold; and
+
+•
+An increase in limitations on or the regulation of financial services companies like Key.
+
+We are subject to interest rate risk, which could adversely affect net interest income.
+
+Our earnings are largely dependent upon our net interest income. Net interest income is the difference between interest income earned on interest-earning assets such as loans and securities and interest expense paid on interest-bearing liabilities such as deposits and borrowed funds. Interest rates are highly sensitive to many factors that are beyond our control, including general economic conditions, the competitive environment within our markets, consumer preferences for specific loan and deposit products, and policies of various governmental and regulatory agencies, in particular, the Federal Reserve. Changes in monetary policy, including changes in interest rate controls being applied by the Federal Reserve, could influence the amount of interest we receive on loans and securities, the amount of interest we pay on deposits and borrowings, our ability to originate loans and obtain deposits, and the fair value of our financial assets and liabilities. When the Federal Reserve raises interest rates, the behavior of national money market rate indices, the correlation of consumer deposit rates to financial market interest rates, and the setting of benchmark rates may not follow historical relationships, which could influence net interest income and net interest margin.
+
+Moreover, if the interest we pay on deposits and other borrowings increases at a faster rate than the interest we receive on loans and other investments, net interest income, and therefore our earnings, would be adversely affected. Conversely, earnings could also be adversely affected if the interest we receive on loans and other investments falls more quickly than the interest we pay on deposits and other borrowings.
+
+Uncertainty surrounding the transition from LIBOR to an alternate reference rate may adversely affect our business.
+
+On July 27, 2017, the Chief Executive of the United Kingdom Financial Conduct Authority (the “Authority”), which regulates LIBOR, announced that the Authority intends to stop persuading or compelling banks to submit rates for the calculation of LIBOR to the administrator of LIBOR after 2021. On March 5, 2021, ICE Benchmark Administration (“IBA”), the Authority-regulated and authorized administrator of LIBOR, confirmed, following a consultation process occurring during the end of 2020 and beginning of 2021, its intention to cease one-week and two-month USD LIBOR settings at December 31, 2021, and cease the USD LIBOR panel at June 30, 2023, effectively ceasing all other USD LIBOR tenors. On December 31, 2021, as expected, IBA ceased to publish one-
+
+38
+
+Table
+ of contents
+
+week and two-month ISD LIBOR. We anticipate that IBA will cease publishing LIBOR as we know it on June 30, 2023.
+
+Key’s transition away from the use of LIBOR to alternative rates continues. With respect to new originations, regulators issued guidance indicating that new LIBOR originations should not extend beyond December 31, 2021. In the United States, the ARRC and the Federal Reserve Bank of New York started in May 2018 to publish the SOFR as an alternative to U.S. dollar LIBOR. SOFR is a broad measure of the cost of borrowing cash overnight that is collateralized by U.S. treasury securities. SOFR-based rates are currently used in new loans made by KeyCorp. The uncertainty regarding the transition from LIBOR to another benchmark rate or rates, including SOFR-based rates, could have adverse impacts on floating-rate obligations, loans, deposits, derivatives, and other financial instruments that currently use LIBOR as a benchmark rate and, ultimately, adversely affect KeyCorp’s financial condition and results of operations. The adverse impact could take various forms and is dependent upon certain factors outside of our control such as: timing of adoption by market forces of a new widely accepted LIBOR replacement, timing of LIBOR cessation, counterparty acceptance of a new reference rate for both new and existing contracts, and competition presented by non-regulated entities, among others. Additionally, since LIBOR and any replacement reference rate may have significantly different attributes, it is difficult to predict the amount of increased costs associated with implementing the transition to a new reference rate, including costs relative to product changes, systems changes, compliance and operational oversight costs, and legal expenses, among others. While the LIBOR Act will assist in the transition of certain LIBOR contracts to SOFR-based benchmark replacements, there are many LIBOR contracts, including commercial loans, that will not be subject to the core transition mechanisms and safe harbor provided by the LIBOR Act. Absent amendments, such LIBOR contracts could create uncertainties and risks. Also as of December 31, 2022, the Authority has an open consultation as to whether nonrepresentative synthetic USD LIBOR should be published for the one, three, and six-month tenors of USD LIBOR for a finite period of time. This too could create uncertainty regarding how certain LIBOR contracts transition once LIBOR in its current form ceases to be published. 
+
+Our profitability depends upon economic conditions in the geographic regions where we have significant operations and in certain market segments in which we conduct significant business.
+
+We have concentrations of loans and other business activities in geographic regions where our bank branches are located — Washington; Oregon/Alaska; Rocky Mountains; Indiana/Northwest Ohio/Michigan; Central/Southwest Ohio; East Ohio/Western Pennsylvania; Atlantic; Western New York; Eastern New York; and New England — and additional exposure to geographic regions outside of our branch footprint. Economic growth in the various regions where we operate has been uneven, and the health of the overall U.S. economy may differ from the economy of any particular geographic region. Adverse conditions in a geographic region such as inflation, unemployment, recession, natural disasters, impact of the COVID-19 pandemic, or other factors beyond our control could impact the ability of borrowers in these regions to repay their loans, decrease the value of collateral securing loans made in these regions, or affect the ability of our customers in these regions to continue conducting business with us.
+
+Additionally, a significant portion of our business activities are concentrated within the commercial real estate, healthcare, finance, and utilities market segments. The profitability of some of these market segments depends upon the health of the overall economy, seasonality, the impact of regulation, and other factors that are beyond our control and may be beyond the control of our customers in these market segments.
+
+An economic downturn or recession in one or more geographic regions where we conduct our business, or any significant or prolonged impact on the profitability of one or more of the market segments with which we conduct significant business activity, could adversely affect the demand for our products and services, the ability of our customers to repay loans, the value of the collateral securing loans, and the stability of our deposit funding sources.
+
+39
+
+Table
+ of contents
+
+The soundness of other financial institutions could adversely affect us.
+
+Our ability to engage in routine funding transactions could be adversely affected by the actions and commercial soundness of other financial institutions. We have exposure to many different industries and counterparties in the financial services industries, and we routinely execute transactions with such counterparties, including brokers and dealers, commercial banks, investment banks, mutual and hedge funds, insurance companies, and other institutional clients. Financial services institutions are interrelated as a result of trading, clearing, counterparty, or other relationships. Defaults by one or more financial services institutions have led to, and may cause, market-wide liquidity problems and losses. Many of our transactions with other financial institutions expose us to credit risk in the event of default of a counterparty or client. In addition, our credit risk may be affected when the collateral held by us cannot be realized or is liquidated at prices not sufficient to recover the full amount of our loan or derivatives exposure.
+
+Less regulated and poorly capitalized non-bank financial institutions may be particularly vulnerable to asset quality deterioration as their borrower’s ability to service their obligations declines amid the pandemic. This could put additional stress on traditional lenders.
+
+VI.  Reputation Risk
+
+Damage to our reputation could significantly impact our business and major stakeholders.
+
+Our ability to attract and retain customers, clients, investors, and highly skilled management and employees is affected by our reputation. Damage to our reputation could also adversely impact our credit ratings and access to capital markets. 
+
+Significant harm to our reputation can arise from various sources, including inappropriate behavior or misconduct of employees, actual or perceived unethical behavior, litigation or regulatory outcomes, inadequate or ineffective risk management practices, failing to deliver minimum or required standards of service and quality, corporate governance and regulatory compliance failures, disclosure of confidential information, significant or numerous failures, interruptions or breaches of our information systems, failure to meet external commitments and goals, including financial and ESG-related commitments, and the activities of our clients, customers and counterparties, including vendors. Actions by the financial services industry generally or by certain members or individuals in the industry as well as legislative or regulatory actions that target or negatively impact the industry may also have a significant adverse effect on our reputation. 
+
+Negative coverage about Key published in traditional media or on social media websites, whether or not factually correct, may affect our reputation and our business prospects and impact our ability to attract and retain highly skilled employees. Social media facilitates the rapid dissemination of information or misinformation, thereby increasing the potential for rapid and widespread dissemination of inaccurate, false, misleading, or other negative information that could damage our reputation. Negative public opinion can also adversely affect our ability to attract and maintain customer relationships and could subject us to litigation and regulatory action. 
+
+We are also subject to the risk that disruptions to how our customers access our banking services, such as disruptions to our technology platforms (e.g., online banking websites or mobile applications) or other impacts to our branches, could harm our reputation with customers. In particular, a cyber security event impacting Key or our customers’ data could negatively impact our reputation and customer confidence in Key and our data security procedures. 
+
+We could also suffer significant reputational harm if we fail to properly identify and manage potential conflicts of interest. Management of potential conflicts of interests is complex as we expand our business activities through more numerous transactions, obligations, and interests with and among our clients. The actual or perceived failure to adequately address conflicts of interest could affect the willingness of clients to deal with us, which could adversely affect our businesses, and could give rise to litigation or enforcement actions. 
+
+Financial services companies, including Key, face increasing criticism from social and environmental activists who target companies, including Key, for engaging in business with clients engaged in industries such activists perceive to be harmful to communities or the environment. Such criticism directed at Key could generate dissatisfaction among our stakeholders. Additionally, however we respond to such criticism, we face the risk that current or potential clients may decline to do business with us or current or potential employees refuse to work with us. This 
+
+40
+
+Table
+ of contents
+
+can be true regardless of whether we are perceived by some as not having done enough to address activist concerns or by others as having inappropriately yielded to activist pressures. 
+
+We may also face criticism or a loss of confidence, with accompanying reputational risk, from our perceived action or inaction to deliver on our ESG-related commitments. Investors and other stakeholders, including U.S. institutional investors, are increasingly considering how corporations are incorporating ESG matters, including climate change, into their business strategy when analyzing the expected risk and return of potential investments. The specific ESG factors considered, as well as the approach to incorporating the factors into a broader investment process, vary by investor and can shift over time. These shifts in investing priorities may result in adverse effects on the trading price of KeyCorp’s common stock if investors determine that Key has not made sufficient progress on ESG matters or is not aligned with the investors’ ESG-related priorities.
+
+VII.  Strategic Risk
+
+We may not realize the expected benefits of our strategic initiatives.
+
+Our ability to compete depends on a number of factors, including, among others, our ability to develop and successfully execute our strategic plans and initiatives. Our strategic priorities include growing profitably and maintaining financial strength; effectively managing risk and reward; engaging a high-performing, talented, and diverse workforce; investing in digitalization to drive growth and simplification; embracing the changes required by our clients and the marketplace; and acquiring, expanding, and retaining targeted client relationships. The success of these initiatives can be subject to changes in the macroeconomic environment which is beyond our control. In addition, our inability to execute on or achieve the anticipated outcomes of our strategic priorities, or to do so in the expected timeframe, may affect how the market perceives us and could impede our growth and profitability.
+
+We operate in a highly competitive industry.
+
+We face substantial competition in all areas of our operations from a variety of competitors, some of which are larger and may have more financial resources than us. Our competitors primarily include national and super-regional banks as well as smaller community banks within the various geographic regions in which we operate. We also face competition from many other types of financial institutions, including, without limitation, savings associations, credit unions, mortgage banking companies, finance companies, mutual funds, insurance companies, investment management firms, investment banking firms, broker-dealers and other local, regional, national, and global financial services firms. In addition, technology has lowered barriers to entry and made it possible for nonbanks, including large technology companies, to offer products and services traditionally provided by banks. We expect the competitive landscape of the financial services industry to become even more intense as a result of legislative, regulatory, structural, customer preference, and technological changes.
+
+Our ability to compete successfully depends on a number of factors, including: our ability to develop and execute strategic plans and initiatives; our ability to develop, maintain, and build long-term customer relationships based on quality service and competitive prices; our ability to develop competitive products and technologies demanded by our customers, while maintaining our high ethical standards and an effective compliance program and keeping our assets safe and sound; our ability to attract, retain, and develop a highly competent employee workforce; and industry and general economic trends. Increased competition in the financial services industry, or our failure to perform in any of these areas, could significantly weaken our competitive position, which could adversely affect our growth and profitability.
+
+Strategic risk may also be realized due to events or issues that materialize in other risk factor areas. For example, significant deficiencies in end-to-end operational execution and/or product delivery or failure to comply with applicable laws and regulations may result in unmet client expectations or harm and impact our competitive standing in the industry.
+
+Maintaining or increasing our market share depends upon our ability to adapt our products and services to evolving industry standards and consumer preferences, while maintaining competitive prices.
+
+The continuous, widespread adoption of new technologies requires us to evaluate our product and service offerings to ensure they remain competitive. Our success depends, in part, on our ability to adapt our products and services, as well as our distribution of them, to evolving industry standards and consumer preferences. New technologies have altered consumer behavior by allowing consumers to complete transactions such as paying bills or transferring 
+
+41
+
+Table
+ of contents
+
+funds directly without the assistance of banks. New products allow consumers to maintain funds in brokerage accounts or mutual funds that would have historically been held as bank deposits. The process of eliminating banks as intermediaries, known as “disintermediation,” could result in the loss of fee income, as well as the loss of customer loans and deposits and related income generated from those products.
+
+The increasing pressure from our competitors, both bank and nonbank, to keep pace and adopt new technologies and products and services requires us to incur substantial expense. We may be unsuccessful in developing or introducing new products and services, modifying our existing products and services, adapting to changing consumer preferences and spending and saving habits, achieving market acceptance or regulatory approval, sufficiently developing or maintaining a loyal customer base, or offering products and services at prices equal to or lower than the prices offered by our competitors. These risks may affect our ability to achieve growth in our market share and could reduce both our revenue streams from certain products and services and our revenues from our net interest income.
+
+We may not be able to attract and retain skilled people.
+
+Our success depends on our ability to attract, retain, motivate, and develop a talented and diverse workforce. Competition for talent in our business is strong and requires us to make investments to provide compensation and benefits at market levels. Rising wages, as well as inflation, may cause us to increase these investments. Such investments cause compensation and benefits to represent our greatest expense. 
+
+Additionally, we increasingly compete for talent outside of the core financial services industry. Non-financial institutions may be subject to different pay and hiring expectations than us, which may make it more difficult for us to attract qualified teammates. For example, we are required to deliver a substantial portion of the variable compensation of certain teammates in the form of awards tied to our financial performance. A sustained decline in our share price could impact our ability to retain those individuals. Similarly, our pay practices are subject to scrutiny by our regulators who may identify deficiencies in the structure of, or issue additional guidance on our compensation practices, causing us to make changes that may affect our ability to offer competitive pay to these individuals or that place us at a disadvantage to non-financial service industry competitors. 
+
+Finally, while remote work opportunities allow us to hire outside of our traditional footprint, it also increases competition. These factors individually, or collectively, may constrain our ability to hire or retain a sufficient number of qualified employees, which could impact our ability to serve our customers and clients.
+
+Acquisitions or strategic partnerships may disrupt our business and dilute shareholder value.
+
+Acquiring other banks, bank branches, or other businesses involves various risks commonly associated with acquisitions or partnerships, including exposure to unknown or contingent liabilities of the acquired company; diversion of our management’s time and attention; significant integration risk with respect to employees, accounting systems, and technology platforms; increased regulatory scrutiny; and the possible loss of key employees and customers of the acquired company. We regularly evaluate merger and acquisition and strategic partnership opportunities and conduct due diligence activities related to possible transactions. As a result, mergers or acquisitions involving cash, debt or equity securities may occur at any time. Acquisitions may involve the payment of a premium over book and market values. Therefore, some dilution of our tangible book value and net income per common share could occur in connection with any future transaction. 
+
+42
+
+Table
+ of contents
+
+VIII.  Model Risk
+
+We rely on quantitative models to manage certain accounting, risk management, capital planning, and treasury functions.
+
+We use quantitative models to help provide value input into the management of certain aspects of our business and to assist with certain business decisions, including, but not limited to, estimating CECL, measuring the fair value of financial instruments when reliable market prices are unavailable, estimating the effects of changing interest rates and other market measures on our financial condition and results of operations, managing risk, and for capital planning purposes (including during the capital stress testing process). Models are simplified representations of real-world relationships. Thus, our modeling methodologies rely on many assumptions, historical analyses, correlations, and available data. These assumptions provide only reasonable, not absolute, estimates, particularly in times of market distress when historical correlations on which we rely may no longer be relevant. Additionally, as businesses and markets evolve, our measurements may not accurately reflect this evolution. Models can also produce inadequate estimates due to errors in computer code, use of unsuitable data during development or input into the model during model use, or the use of a model for a purpose outside the scope of the model’s design.
+
+If our models fail to produce reliable results on an ongoing basis, we may not make appropriate risk management, capital planning, or other business or financial decisions. Furthermore, strategies that we employ to manage and govern the risks associated with our use of models may not be effective or fully reliable, and as a result, we may realize losses or other lapses.
+
+We have an enterprise-wide model risk management program designed to accurately identify, measure, report, monitor, and manage model risk. The management of model risk includes independent validation and model governance, establishing and monitoring model control standards and model risk metrics, and completeness and accuracy of the inventory of models
+.
+
+Banking regulators continue to focus on the models used by banks and bank holding companies in their businesses. The failure or inadequacy of a model may result in increased regulatory scrutiny on us or may result in an enforcement action or proceeding against us by one of our regulators.
+
+43
+
+Table
+ of contents

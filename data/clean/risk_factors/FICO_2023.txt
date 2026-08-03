@@ -1,0 +1,557 @@
+Business, Market and Strategy Risks
+
+We may not be successful in executing the business strategy for our Software segment, which could cause our growth prospects and results of operations to suffer.
+
+14
+
+Table of Contents
+
+We have increasingly focused our Software segment’s business strategy on investing significant development resources to enable substantially all of our software to run on FICO
+®
+ Platform, our modular software offering designed to enable advanced analytics and decisioning use cases. This business strategy is designed to enable us to increase our business by selling multiple connectable and extensible products to clients, as well as to enable the development of custom client solutions and to allow our clients to more easily expand their usage and the use cases they enable over time. The market may be unreceptive to our general business approach, including being unreceptive to our cloud-based offerings, unreceptive to purchasing multiple products from us, or unreceptive to our customized solutions. As we continue to pursue this business strategy, we may experience volatility in our Software segment’s revenues and operating results caused by various factors, including the differences in revenue recognition treatment and timing between our cloud-based offerings and on-premises software licenses, the timing of investments and other expenditures necessary to develop and operate our cloud-based offerings, and the adoption of new sales, delivery and distribution methods. If this business strategy is not successful, we may not be able to grow our Software segment’s business, growth may occur more slowly than we anticipate, or revenues and profits may decline.
+
+If we are unable to develop successful new products or new versions of products, or if we experience defects, failures or delays associated with the introduction of new products or of new versions of products, our business could suffer serious harm.
+
+Our growth and the success of our business strategy depend upon our ability to develop and sell new products and new versions of products, including the development and sale of our cloud-based product offerings and our scoring solutions. If we are unable to develop new or enhanced products, or if we are not successful in introducing new or enhanced products, we may not be able to grow our business or growth may occur more slowly than we anticipate. In addition, significant undetected errors or delays in new products or new versions of products may affect market acceptance of our products and could harm our business, financial condition or results of operations. In the past, we have experienced delays while developing and introducing new products and product enhancements, primarily due to difficulties developing models, acquiring data, and adapting to particular software operating environments and certain client or other systems. We have also experienced errors or “bugs” in our software products, despite testing prior to release of the products. Software errors in our products could affect the ability of our products to work with other hardware or software products, could delay the development or release of new products or new versions of products, and could adversely affect market acceptance of our products. Errors or defects in our products that are significant, or are perceived to be significant, could result in rejection of our products, damage to our reputation, loss of revenues, diversion of development resources, an increase in product liability claims, and increases in service and support costs and warranty claims.
+
+Our ability to increase our revenues will depend to some extent upon introducing new products and services and upon introducing enhancements and improvements to existing products and services. If the marketplace does not accept these new, enhanced or improved products and services, our revenues may decline.
+
+To increase our revenues, we must enhance and improve existing products and services, and continue to introduce new products and services that keep pace with technological developments, satisfy increasingly sophisticated customer requirements and achieve market acceptance. We believe much of the future growth of our business and the success of our business strategy will rest on our ability to continue to expand into newer markets for our products and services. Such areas are relatively new to our product development and sales and marketing personnel. Products and services that we plan to market in the future are in various stages of development. We cannot assure you that the marketplace will accept these products and services. If our current or potential customers are not willing to switch to or adopt our new products and services, either as a result of the quality of these products and services or due to other factors, such as economic conditions, our revenues will decrease.
+
+We rely on relatively few customers, as well as our contracts with the three major consumer reporting agencies, for a significant portion of our revenues and profits. Many of our customers are significantly larger than we are and may have greater bargaining power. The businesses of our largest customers depend, in large part, on favorable macroeconomic conditions. If these customers are negatively impacted by weak global economic conditions, global economic volatility or the terms of these relationships otherwise change, our revenues and operating results could decline.
+
+Most of our customers are relatively large enterprises, such as banks, credit card issuers, insurers, retailers, telecommunications providers, automotive lenders, consumer reporting agencies, public agencies, and organizations in other industries. As a result, many of our customers and potential customers are significantly larger than we are and may have sufficient bargaining power to demand reduced prices and favorable nonstandard terms.
+
+15
+
+Table of Contents
+
+In addition, the U.S. and other key international economies are experiencing, and have experienced in the past, downturns in which economic activity is impacted by falling demand for a variety of goods and services, increased volatility of interest rates, fluctuating rates of inflation, restricted credit, poor liquidity, reduced corporate profitability, volatility in credit, equity and foreign exchange markets, bankruptcies and overall uncertainty with respect to the economy. The potential for economic disruption presents considerable risks to our business, including potential bankruptcies or credit deterioration of financial institutions with which we have substantial relationships. In addition, the volume of our Scores sales depends heavily on macroeconomic conditions, including, for example, the volume of transactions in the U.S. mortgage and credit card markets, which account for a significant portion of the revenues in our Scores segment. Economic disruption could result in a decline in the sales of new products to our customers and the volume of transactions that we execute for existing customers.
+
+We also derive a substantial portion of our Scores segment revenues and operating income from our contracts with the three major consumer reporting agencies in the U.S., Experian, TransUnion and Equifax, and other parties that distribute our products to certain markets. The loss of or a significant change in a relationship with one of the three consumer reporting agencies with respect to their distribution of our products or with respect to our myFICO
+®
+ offerings, the loss of or a significant change in a relationship with a major customer, the loss of or a significant change in a relationship with a significant third-party distributor (including payment card processors), or the loss of or delay of significant revenues from these sources, could have a material adverse effect on our revenues and results of operations.
+
+We derive a substantial portion of our revenues from a small number of products and services, and if the market does not continue to accept these products and services, our revenues will decline.
+
+We expect that revenues derived from our scoring solutions, fraud solutions, customer communication services, customer management solutions and decision management software will continue to account for a substantial portion of our total revenues for the foreseeable future. Our revenues will decline if the market does not continue to accept these products and services. Factors that might affect the market acceptance of these products and services include the following:
+
+•
+changes in the business analytics industry;
+
+•
+changes in technology;
+
+•
+our inability to obtain or use key data for our products;
+
+•
+saturation or contraction of market demand;
+
+•
+loss of key customers;
+
+•
+industry consolidation;
+
+•
+failure to successfully adopt cloud-based technologies;
+
+•
+our inability to obtain regulatory approvals for our products and services, including credit score models;
+
+•
+the increasing availability of free or relatively inexpensive consumer credit, credit score and other information from public or commercial sources;
+
+•
+failure to execute our selling approach; and
+
+•
+inability to successfully sell our products in new vertical markets.
+
+If we fail to keep up with rapidly changing technologies, our products could become less competitive or obsolete.
+
+In our markets, technology changes rapidly, and there are continuous improvements in computer hardware, network operating systems, programming tools, programming languages, operating systems, database technologies, cloud-based technologies and the use of the Internet. For example, artificial intelligence technologies and their use are currently undergoing rapid change. If we fail to enhance our current products and develop new products in response to changes in technology or industry standards, or if we fail to bring product enhancements or new product developments to market quickly enough, our products could rapidly become less competitive or obsolete. Our future success will depend, in part, upon our ability to:
+
+•
+innovate by internally developing new and competitive technologies;
+
+•
+use leading third-party technologies effectively;
+
+•
+continue to develop our technical expertise;
+
+•
+anticipate and effectively respond to changing customer needs;
+
+•
+initiate new product introductions in a way that minimizes the impact of customers delaying purchases of existing products in anticipation of new product releases; and
+
+•
+influence and respond to emerging industry standards and other technological changes.
+
+16
+
+Table of Contents
+
+Our revenues depend, to a great extent, upon conditions in the banking (including consumer credit) industry. If our clients’ industry experiences uncertainty, it will likely harm our business, financial condition or results of operations.
+
+During fiscal 2023, 91% of our revenues were derived from sales of products and services to the banking industry. Periods of global economic uncertainty experienced in the past have produced substantial stress, volatility, illiquidity and disruption of global credit and other financial markets, resulting in the bankruptcy or acquisition of, or government assistance to, several major domestic and international financial institutions. The potential for future stress and disruptions, including in connection with geopolitical tensions, military conflicts, the level of inflation and rising interest rates, presents considerable risks to our businesses and operations. These risks include potential bankruptcies or credit deterioration of financial institutions, many of which are our customers. Such disruption would result in a decline in the revenue we receive from financial and other institutions. In addition, if consumer demand for financial services and products and the number of credit applications decrease, the demand for our products and services could also be materially reduced. These types of disruptions could lead to a decline in the volumes of services we provide our customers and could negatively impact our revenue and results of operations.
+
+While the rate of account growth in the U.S. banking industry has been slow, we have generated most of our revenue growth in the banking industry by selling and cross-selling our products and services to large banks and other credit issuers. If the banking industry experiences contraction in the number of participating institutions, we may have fewer opportunities for revenue growth due to reduced or changing demand for our products and services that support customer acquisition programs of our customers. In addition, industry contraction could affect the base of recurring revenues derived from contracts in which we are paid on a per-transaction basis as formerly separate customers combine their operations under one contract. There can be no assurance that we will be able to prevent future revenue contraction or effectively promote future revenue growth in our businesses.
+
+While we expand our sales into international markets, the risks are greater as these markets are also experiencing substantial disruption and we are less well-known in them.
+
+If we are unable to access new markets or develop new sales and distribution channels, our business and growth prospects could suffer.
+
+We expect our future growth to depend, in part, on the sale of products and service solutions in industries and markets we do not currently serve. We also expect to grow our business by delivering our solutions through additional sales and distribution channels. If we fail to penetrate these industries and markets to the degree we anticipate, or if we fail to develop additional sales and distribution channels, we may not be able to grow our business, growth may occur more slowly than we anticipate, or our revenues and profits may decline.
+
+We are subject to significant competition in the markets in which we operate, and our products and pricing strategies, and those of our competitors, could decrease our product sales and market share.
+
+Demand for our products and services may be sensitive to product and pricing changes we implement, and our product and pricing strategies may not be accepted by the market. If our customers fail to accept our product and pricing strategies, our revenues, results of operations and business may suffer. The market for our solutions is intensely competitive and is constantly changing, and we expect competition to persist and intensify. Our regional and global competitors vary in size and in the scope of the products and services they offer, and include:
+
+•
+in-house analytic and systems developers; 
+
+•
+neural network developers and artificial intelligence system builders; 
+
+•
+fraud solutions providers; 
+
+•
+scoring model builders; 
+
+•
+providers of credit reports and credit scores;
+
+•
+software companies supplying predictive analytic modeling, rules, or analytic development tools;
+
+•
+entity resolution and social network analysis solutions providers;
+
+•
+providers of customer engagement and risk management solutions;
+
+•
+providers of account workflow management software;
+
+•
+business process management and decision rules management providers;
+
+•
+enterprise resource planning and customer relationship management solutions providers;
+
+•
+business intelligence solutions providers;
+
+•
+providers of automated application processing services; and 
+
+•
+third-party professional services and consulting organizations.
+
+17
+
+Table of Contents
+
+We expect to experience additional competition from other established and emerging companies. This could include customers of ours that develop their own scoring models or other products, and as a result no longer purchase or reduce their purchases from us. We also expect to experience competition from other technologies. For example, certain of our fraud solutions products compete against other methods of preventing payment card fraud, such as cardholder verification and authentication solutions; mobile device payments and associated biometric measures on devices including fingerprint and face matching; and other card authorization and user verification techniques.
+
+Many of our existing and anticipated competitors have greater financial, technical, marketing, professional services and other resources than we do, and industry consolidation is creating even larger competitors in many of our markets. As a result, our competitors may be able to respond more quickly to new or emerging technologies and changes in customer requirements. They may also be able to devote greater resources than we can to develop, promote and sell their products. Many of these companies have extensive customer relationships, including relationships with many of our current and potential customers. For example, Experian, TransUnion and Equifax have formed an alliance that is selling a credit scoring product competitive with our products. Furthermore, new competitors or alliances among competitors may emerge and rapidly gain significant market share. If we are unable to respond as quickly or effectively to changes in customer requirements as our competition, our ability to expand our business and sell our products will be negatively affected.
+
+Our competitors may be able to sell existing or new products competitive to ours at lower prices individually or as part of integrated suites of several related products. This ability may cause our customers to purchase products that directly compete with our products from our competitors, which could decrease our product sales and market share. Price reductions by our competitors could pressure us to reduce our product prices in a manner that negatively impacts our margins and could also harm our ability to obtain new long-term contracts and renewals of existing long-term contracts on favorable terms.
+
+We rely on relationships with third parties for marketing, distribution and certain services. If we experience difficulties in these relationships, including competition from these third parties, our future revenues may be adversely affected.
+
+Many of our products are sold by distributors or partners, and we intend to continue to market and distribute our products through these existing distributor and partner relationships, as well as invest resources to develop additional sales, distribution and marketing relationships. Our Scores segment relies on, among others, Experian, TransUnion and Equifax. Failure of our existing and future distributors to generate significant revenues or otherwise perform their expected services or functions, demands by such distributors to change the terms on which they offer our products, or our failure to establish additional distribution or sales and marketing alliances, could have a material adverse effect on our business, operating results and financial condition. In addition, certain of our distributors presently compete with us and may compete with us in the future, either by developing competitive products themselves or by distributing competitive offerings. For example, Experian, TransUnion and Equifax have developed a credit scoring product to compete directly with our products and are actively selling that product. Competition from distributors or other sales and marketing partners could significantly harm sales of our products and services.
+
+Our revenues, results of operations and overall financial performance may be negatively impacted by health epidemics or other disease outbreaks, such as the COVID-19 pandemic.
+
+Our customers, and therefore our business and revenues, are sensitive to negative changes in general economic conditions and lending activities. Health epidemics or disease outbreaks, such as the COVID-19 pandemic, could impact the rate of spending on our solutions and could adversely affect our customers’ ability or willingness to purchase our products and services, cause prospective customers to change product selections or term commitments, delay or cancel their purchasing decisions, extend sales cycles, and potentially increase payment defaults, all of which could adversely affect our future revenues, results of operations and overall financial performance.
+
+If use of the 
+FICO
+®
+ Score by Fannie Mae and Freddie Mac were to cease or decline, it could have a material adverse effect on our revenues, results of operations and stock price.
+
+A significant portion of our revenues in our Scores segment is attributable to the U.S. mortgage market, which includes, for mortgages eligible for purchase by The Federal National Mortgage Association (“Fannie Mae”) and The Federal Home Loan Mortgage Corporation (“Freddie Mac”), a requirement by those enterprises that U.S. lenders provide FICO® Scores for each mortgage delivered to them. However, their continued use of the FICO Score is subject to ongoing validation and approval by those enterprises and the Federal Housing Finance Agency. If other credit score models are approved for use with mortgages delivered to Fannie Mae and Freddie Mac, or the FICO Score is not approved for continued use with those mortgages, it could have a material adverse effect on our revenues, results of operations and stock price.
+
+We will continue to rely upon proprietary technology rights, and if we are unable to protect them, our business could be harmed.
+
+18
+
+Table of Contents
+
+Our success depends, in part, upon our proprietary technology and other intellectual property rights. To date, we have relied primarily on a combination of copyright, patent, trade secret, and trademark laws, and nondisclosure and other contractual restrictions on copying and distribution, to protect our proprietary technology. This protection of our proprietary technology is limited, and our proprietary technology could be used by others without our consent. In addition, patents may not be issued with respect to our pending or future patent applications, and our patents may not be upheld as valid or may not prevent the development of competitive products. Any disclosure, loss, invalidity of, or failure to protect our intellectual property could negatively impact our competitive position, and ultimately, our business. There can be no assurance that our protection of our intellectual property rights in the U.S. or abroad will be adequate or that others, including our competitors, will not use our proprietary technology without our consent. Furthermore, litigation may be necessary to enforce our intellectual property rights, to protect our trade secrets, or to determine the validity and scope of the proprietary rights of others. Such litigation could result in substantial costs and diversion of resources and could harm our business, financial condition or results of operations.
+
+Some of our technologies were developed under research projects conducted under agreements with various U.S. government agencies or subcontractors. Although we have commercial rights to these technologies, the U.S. government typically retains ownership of intellectual property rights and licenses in the technologies developed by us under these contracts, and in some cases can terminate our rights in these technologies if we fail to commercialize them on a timely basis. Under these contracts with the U.S. government, the results of research may be made public by the government, limiting our competitive advantage with respect to future products based on our research.
+
+Our reengineering efforts may cause our growth prospects and profitability to suffer.
+
+As part of our management approach, we pursue ongoing reengineering efforts designed to grow revenues through strategic resource allocation and improve profitability through cost reductions. Our reengineering efforts may not be successful over the long term should we fail to reduce expenses or increase revenues to anticipated levels or at all. If our reengineering efforts are not successful over the long term, our revenues, results of operations and business may suffer.
+
+There can be no assurance that strategic divestitures will provide business benefits.
+
+As part of our strategy, we continuously evaluate our portfolio of businesses. As a result of these reviews, we have made decisions to divest certain products and lines of business, and we may do so again in the future. These divestitures involve risks, including:
+
+•
+disruption of our operations or businesses;
+
+•
+reductions of our revenues or earnings per share;
+
+•
+difficulties in the separation of operations, services, products and personnel;
+
+•
+failure to effectively transfer liabilities, contracts, facilities and employees to a purchaser;
+
+•
+divestiture terms that contain potential future purchase price adjustments or require that assets or liabilities be divested, managed or run off separately;
+
+•
+diversion of management's attention from our other businesses;
+
+•
+the potential loss of key personnel;
+
+•
+adverse effects on relationships with our customers, suppliers or their businesses; 
+
+•
+the erosion of employee morale or customer confidence; and
+
+•
+the retention of contingent liabilities and the possibility that we will become subject to third-party claims related to the divested business.
+
+If we do not successfully manage the risks associated with divestitures, our business, financial condition, and results of operations could be adversely affected as the potential strategic benefits may not be realized or may take longer to realize than expected.
+
+Our acquisition activities may disrupt our ongoing business and may involve increased expenses, and we may not realize the financial and strategic goals contemplated at the time of a transaction.
+
+We have acquired, and may in the future acquire, companies, businesses, products, services and technologies. Acquisitions involve significant risks and uncertainties, including:
+
+•
+our ongoing business may be disrupted and our management’s attention may be diverted by acquisition, transition or integration activities;
+
+•
+an acquisition may not further our business strategy as we expected, we may not integrate acquired operations or technology as successfully as we expected or we may overpay for our investments, or otherwise not realize the expected return, which could adversely affect our business or operating results;
+
+19
+
+Table of Contents
+
+•
+we may be unable to retain the key employees, customers and other business partners of the acquired operation;
+
+•
+we may have difficulties entering new markets where we have no or limited direct prior experience or where competitors may have stronger market positions;
+
+•
+our operating results or financial condition may be adversely impacted by known or unknown claims or liabilities we assume in an acquisition or that are imposed on us as a result of an acquisition, including claims by government agencies or authorities, terminated employees, current or former customers, former stockholders or other third parties;
+
+•
+we could incur material charges in connection with the impairment of goodwill or other assets that we acquire; 
+
+•
+a company that we acquire may have experienced a security incident that it has yet to discover, investigate and remediate which we might not be identify in a timely manner and which could spread more broadly to other parts of our company during the integration effort; 
+
+•
+we may incur material charges as a result of acquisition costs, costs incurred in combining and/or operating the acquired business, or liabilities assumed in the acquisition that are greater than anticipated;
+
+•
+we may not realize the anticipated increase in our revenues from an acquisition for a number of reasons, including if a larger than predicted number of customers decline to renew their contracts, if we are unable to incorporate the acquired technologies or products with our existing product lines in a uniform manner, if we are unable to sell the acquired products to our customer base or if contract models of an acquired company or changes in accounting treatment do not allow us to recognize revenues on a timely basis;
+
+•
+our use of cash to pay for acquisitions may limit other potential uses of our cash, including stock repurchases, and retirement of outstanding indebtedness; and
+
+•
+to the extent we issue a significant amount of equity securities in connection with future acquisitions, existing stockholders may be diluted and earnings per share may decrease.
+
+Because acquisitions are inherently risky, our transactions may not be successful and may have a material adverse effect on our business, results of operations, financial condition or cash flows. Acquisitions of businesses having a significant presence outside the U.S. will increase our exposure to the risks of conducting operations in international markets.
+
+Operational Risks
+
+If our cybersecurity measures are compromised or unauthorized access to customer or consumer data is otherwise obtained, our products and services may be perceived as not being secure, customers may curtail or cease their use of our products and services, our reputation may be damaged and we could incur significant liabilities.
+
+Because our business requires the storage, transmission and utilization of sensitive consumer and customer information, we will continue to routinely be the target of attempted cybersecurity and other security threats by technically sophisticated and well-resourced outside third parties, among others, attempting to access or steal the data we store. Many of our products are provided by us through the Internet. We may be exposed to additional cybersecurity threats as we migrate our software solutions and data from our legacy systems to cloud-based solutions. We operate in an environment of significant risk of cybersecurity incidents resulting from unintentional events or deliberate attacks by third parties or insiders, which may involve exploiting highly obscure security vulnerabilities or sophisticated attack methods. These threats include phishing attacks on our email systems and other cyber-attacks, including state-sponsored cyber-attacks, industrial espionage, insider threats, denial-of-service attacks, computer viruses, ransomware and other malware, payment fraud or other cyber incidents. As a software and technology vendor, we may incorporate or distribute software or other materials from third parties. Attacks or other threats to our supply chain for such software and materials may render us unable to provide assurances of the origin of such software and materials, and could put us at risk of distributing software or other materials that may cause harm to ourselves, our customers or other third parties. In addition, increased attention on and use of artificial intelligence increases the risk of cyber-attacks and data breaches, which can occur more quickly and evolve more rapidly when artificial intelligence is used. Further, use of artificial intelligence by our employees, whether authorized or unauthorized, increases the risk that our intellectual property and other proprietary information will be unintentionally disclosed.
+
+20
+
+Table of Contents
+
+Cybersecurity breaches could expose us to a risk of loss, the unauthorized disclosure of consumer or customer information, significant litigation, regulatory fines, penalties, loss of customers or reputational damage, indemnity obligations and other liability. If our cybersecurity measures are breached as a result of third-party action, employee error, malfeasance or otherwise, and as a result, someone obtains unauthorized access to our systems or to consumer or customer information, sensitive data may be accessed, stolen, disclosed or lost, our reputation may be damaged, our business may suffer and we could incur significant liability. Because the techniques used to obtain unauthorized access, disable or degrade service or to sabotage systems change frequently and generally are not recognized until launched against a target, or even for some time after, we may be unable to anticipate these techniques, implement adequate preventative measures or remediate any intrusion on a timely or effective basis. Because a successful breach of our computer systems, software, networks or other technology asset could occur and persist for an extended period of time before being detected, we may not be able to immediately address the consequences of a cybersecurity incident.
+
+Malicious third parties may also conduct attacks designed to temporarily deny customers, distributors and vendors access to our systems and services. Cybersecurity breaches experienced by our vendors, by our distributors, by our customers, by companies that we acquire, or by us may trigger governmental notice requirements and public disclosures, which may lead to widespread negative publicity. We may also be affected by cybersecurity breaches experienced by customers who use our products on-premises, and those breaches may occur due to factors not under our control, including a customer’s failure to timely install updates and fixes to our products, vulnerabilities in a customer’s own cybersecurity measures, and other factors. Any cybersecurity breach, whether actual or perceived, could harm our reputation, erode customer confidence in the effectiveness of our security measures, negatively impact our ability to attract new customers, cause existing customers to curtail or cease their use of our products and services, cause regulatory or industry changes that impact our products and services, or subject us to third-party lawsuits, regulatory fines or other action or liability, all of which could materially and adversely affect our business and operating results.
+
+If we experience business interruptions or failure of our information technology and communication systems, the availability of our products and services could be interrupted which could adversely affect our reputation, business and financial condition.
+
+Our ability to provide reliable products and services to our customers depends on the efficient and uninterrupted operation of our data centers, information technology and communication systems, and increasingly those of our external service providers. Any disruption of or interference with our use of data centers, information technology or communication systems of our external service providers would adversely affect our operations and our business. As we continue to grow our Software segment’s business, our dependency on the continuing operation and availability of these systems increases. Our systems and data centers, and those of our external service providers, could be exposed to damage or interruption. These interruptions can include software or hardware malfunctions, communication failures, outages or other failures of third-party environments or service providers, fires, floods, earthquakes, pandemics, war, terrorist acts or civil unrest, power losses, equipment failures, supply chain disruptions, computer viruses, denial-of-service or other cybersecurity attacks, employee or insider malfeasance, human error and other events beyond our control. Any steps that we or our external service providers have taken to prevent or reduce disruption may not be sufficient to prevent an interruption of services and disaster recovery planning may not account for all eventualities.
+
+An operational failure or outage in any of these systems, or damage to or destruction of these systems, which causes disruptions in our services, could result in loss of customers, damage to customer relationships, reduced revenues and profits, refunds of customer charges and damage to our brand and reputation and may require us to incur substantial additional expense to repair or replace damaged equipment and recover data loss caused by the interruption. Any one or more of the foregoing occurrences could have a material adverse effect on our reputation, business, financial condition, cash flows and results of operations.
+
+The failure to recruit and retain qualified personnel could hinder our ability to successfully manage our business.
+
+21
+
+Table of Contents
+
+Our business strategy and our future success will depend in large part on our ability to attract and retain experienced sales, consulting, research and development, marketing, technical support and management personnel. The labor market for these individuals, particularly in the complex technical disciplines of software engineering, data science, and cyber security, is very competitive due to the limited number of people available with the necessary technical skills and understanding to support our complex products and it may become more competitive with general market and economic improvement. We cannot be certain that our compensation strategies will be perceived as competitive by current or prospective employees. This and other competitive factors could impair our ability to recruit and retain personnel. We have experienced past difficulty in recruiting and retaining qualified personnel, especially in these intensely competitive technical skill areas, and we may experience future difficulty in recruiting and retaining such personnel, at a time when we may need additional staff to support expanded research and development efforts, new customers and/or increased customer needs. We may also recruit skilled technical professionals from other countries to work in the U.S., and from the U.S. and other countries to work abroad. Limitations imposed by immigration laws in the U.S. and abroad and the availability of visas in the countries where we do business could hinder our ability to attract necessary qualified personnel and harm our business and future operating results. There is a risk that even if we invest significant resources in attempting to attract, train and retain qualified personnel, we will not succeed in our efforts, and our business could be harmed. The failure of the value of our stock to appreciate may adversely affect our ability to use equity and equity-based incentive plans to attract and retain personnel, and may require us to use alternative forms of compensation for this purpose.
+
+The working arrangements for our employees differ from the arrangements before the pandemic. For example, we have implemented a Remote Work Policy and a Hybrid Work Location Policy, which are applicable depending on the location and position of the employee. Should productivity decline or our employees’ ability to collaborate fall as a result of our Remote Work Policy, or if employees are unsatisfied with our Hybrid Work Location Policy and leave our company, our business could suffer.
+
+The failure to obtain certain forms of model construction data from our customers or others could harm our business.
+
+Our business requires that we develop or obtain a reliable source of sufficient amounts of current and statistically relevant data to analyze transactions and update some of our products. In most cases, these data must be periodically updated and refreshed to enable our products to continue to work effectively in a changing environment. We do not own or control much of the data that we require, most of which is collected privately and maintained in proprietary databases. Customers and key business partners provide us with the data we require to analyze transactions, report results and build new models. Our business strategy depends in part upon our ability to access new forms of data to develop custom and proprietary analytic tools. If we fail to maintain sufficient data sourcing relationships with our customers and business partners, or if they decline to provide such data due to privacy, security, competitive concerns, regulatory concerns, or prohibitions or a lack of permission from their customers or partners, we could lose access to required data and our products. If this were to happen, our development of new products might become less effective. We could also become subject to increased legislative, regulatory or judicial restrictions or mandates on the collection, disclosure, transfer or use of such data, in particular if such data is not collected by our providers in a way that allows us to legally use the data. Third parties have asserted copyright and other intellectual property interests in these data, and these assertions, if successful, could prevent us from using these data. We may not be successful in maintaining our relationships with these external data source providers or in continuing to obtain data from them on acceptable terms or at all. Any interruption of our supply of data could seriously harm our business, financial condition or results of operations.
+
+Legal, Regulatory and Compliance Risks
+
+Laws and regulations in the U.S. and abroad that apply to us and/or to our customers may expose us to liability, cause us to incur significant expense, affect our ability to compete in certain markets, limit the profitability of or demand for our products, or render our products obsolete. If these laws and regulations require us to change our products and services, it could adversely affect our business and results of operations. New legislation or regulations, or changes to existing laws and regulations, may also negatively impact our business and increase our costs of doing business.
+
+Laws and governmental regulation affect how our business is conducted and, in some cases, subject us to the possibility of government supervision and future lawsuits arising from our products and services. Laws and governmental regulations also influence our current and prospective customers’ activities, as well as their expectations and needs in relation to our products and services. Laws and regulations that may affect our business and/or our current and prospective customers’ activities include, but are not limited to, those in the following significant regulatory areas:
+
+•
+Privacy and security laws and regulations that limit the use and disclosure, require security procedures, or otherwise apply to the collection, processing, storage, use and transfer of personal data of individuals (e.g., the U.S. Financial Services Modernization Act of 1999, also known as the Gramm Leach Bliley Act; identity theft, file freezing, security breach notification and similar state privacy laws; and the data protection laws of other countries such as the General Data Protection Regulation (the “GDPR”) in the European Union (“E.U.”) and the United Kingdom (“U.K.”));
+
+22
+
+Table of Contents
+
+•
+Laws and regulations relating to the privacy, security and transmission of protected health information of individuals, including the Health Insurance Portability and Accountability Act of 1996, as amended by the American Recovery and Reinvestment Act of 2009 (“HIPAA”) and the Health Information Technology for Economic and Clinical Health Act (“HITECH”) and their respective implementing regulations;
+
+•
+Financial regulatory reform stemming from the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 and the many regulations mandated by that Act, including regulations issued by, and the supervisory and investigative authority of, the Consumer Financial Protection Bureau (“CFPB”) with respect to enumerated federal consumer financial laws and unfair, deceptive, or abusive acts or practices (“UDAAP”);
+
+•
+The application or extension of consumer protection laws, including implementing regulations (e.g., the Consumer Financial Protection Act, the Federal Trade Commission Act, the Truth In Lending Act and Regulation Z, the Fair Debt Collection Practices Act and Regulation F, the Servicemembers Civil Relief Act, the Military Lending Act, and the Credit Repair Organizations Act, and similar state consumer protection laws);
+
+•
+Use of data by creditors and consumer reporting agencies (e.g., the U.S. Fair Credit Reporting Act and similar state laws); 
+
+•
+Special requirements that may apply when we provide products or services directly or indirectly to U.S. federal, state and local government agencies (e.g., the Privacy Act of 1974, the Internal Revenue Service’s Publication 4812, and the Federal Acquisition Regulation);
+
+•
+Laws and regulations that limit the use of credit scoring models (e.g., state “mortgage trigger” or “inquiries” laws, state insurance restrictions on the use of credit-based insurance scores, and the E.U. Consumer Credit Directive);
+
+•
+Fair lending laws (e.g., the Equal Credit Opportunity Act and Regulation B, and the Fair Housing Act) and laws and regulations that may impose requirements relating to algorithmic fairness or accountability;
+
+•
+The Cybersecurity Act of 2015; the U.S. Department of Commerce’s National Institute of Standards and Technology’s Cybersecurity Framework; the Clarifying Lawful Overseas Use of Data Act; cyber incident notice requirements for banks and their service providers under rules and regulations issued by federal banking regulators; cybersecurity incident disclosure requirements for public companies under regulations issued by the SEC; and identity theft, file freezing, and similar state privacy laws;
+
+•
+Laws and regulations related to extension of credit to consumers through the Electronic Fund Transfers Act and Regulation E, as well as non‑governmental VISA and MasterCard electronic payment standards;
+
+•
+Laws and regulations applicable to secondary market participants (e.g., Fannie Mae and Freddie Mac) that could have an impact on our scoring products and revenues, including 12 CFR Part 1254 (Validation and Approval of Credit Score Models) issued by the Federal Housing Finance Agency in accordance with Section 310 of the Economic Growth, Regulatory Relief, and Consumer Protection Act (Public Law 115-174), and any regulations, standards or criteria established pursuant to such laws or regulations, including the ongoing validation and approval of the use of the FICO Score by Fannie Mae, Freddie Mac, and the Federal Housing Finance Agency;
+
+•
+Laws and regulations applicable to our customer communication clients and their use of our products and services (e.g., the Telemarketing Sales Rule, Telephone Consumer Protection Act, the CAN-SPAM Act, the Fair Debt Collection Practices Act, and regulations promulgated thereunder, and similar state laws and similar laws in other countries);
+
+•
+Laws and regulations applicable to our insurance clients and their use of our insurance products and services;
+
+•
+Laws and regulations governing the use of the Internet and social media, telemarketing, advertising, endorsements and testimonials; 
+
+•
+Anti-money laundering laws and regulations (e.g., the Bank Secrecy Act and the USA PATRIOT Act);
+
+•
+Laws and regulations restricting transactions with sanctioned parties and regarding export controls as they apply to FICO products delivered in non-U.S. countries or to foreign nationals (e.g., Office of Foreign Asset Control sanctions and Export Administration Regulations);
+
+•
+Anti-bribery and corruption laws and regulations (e.g., the Foreign Corrupt Practices Act and the UK Bribery Act 2010); 
+
+•
+Financial regulatory standards (e.g., Sarbanes-Oxley Act requirements to maintain and verify internal process controls, including controls for material event awareness and notification); and
+
+•
+Laws and regulations that apply to outsourcing of services by our clients, and that set forth requirements for managing third parties (e.g., vendors, contractors, suppliers and distributors).
+
+23
+
+Table of Contents
+
+Many U.S. and foreign jurisdictions have passed, or are currently contemplating, a variety of consumer protection, data privacy, and cyber and data security laws and regulations that may relate to our business or the business of our customers or affect the demand for our products and services. For example, the GDPR in the E.U. and the U.K. imposes strict obligations and restrictions on the collection and use of E.U. and U.K. personal data, and also on the transfer of such data to countries that have not been determined by the E.U. or the U.K. to provide adequate data privacy protections, unless there are additional approved transfer safeguards in place (such as the use of “standard contractual clauses” and the performance of appropriate data transfer impact assessments). Our implementation of processes to meet such requirements for affected data flows may involve additional compliance costs associated with maintaining appropriate regulatory certifications, performing any necessary assessments, engaging in contract negotiations with third parties and implementing approved standard contractual clauses, and/or (if appropriate) localizing certain data processing activities. Furthermore, such data transfer restrictions, which may involve interpretive issues, may have an adverse impact on cross-border transfers of personal data and may subject us and our customers to additional scrutiny from E.U. or U.K. data protection authorities.
+
+Brazil, India, South Africa, Japan, China, Israel, Canada, and numerous other countries have introduced and, in some cases, enacted, similar data privacy and cyber and data security laws.
+
+The California Consumer Privacy Act of 2018 (“CCPA”) gives California residents certain privacy rights in the collection and disclosure of their personal information and requires businesses to make certain disclosures and take certain other acts in furtherance of those rights. Additionally, effective January 1, 2023, the California Privacy Rights Act (the “CPRA”) revised and significantly expanded the scope of the CCPA. The CPRA also created a new agency, the California Privacy Protection Agency, authorized to implement and enforce the CCPA and the CPRA, which could result in increased privacy and information security regulatory actions. Other U.S. states have considered and/or enacted similar privacy laws. For example, Virginia, Utah, Connecticut, and Colorado have passed consumer privacy laws with effective dates in 2023, and Indiana, Iowa, Montana, Oregon, Tennessee, and Texas have passed consumer privacy laws that will become effective in 2024, 2025, or 2026.
+
+In addition, there has been an increased focus on laws and regulations related to our business and the business of our customers, including by the current U.S. presidential administration, the U.S. Congress, and U.S. regulators, including the CFPB, relating to policy concerns with regard to the operation of consumer reporting agencies, the use and accuracy of credit and alternative data, the use of credit scores and fair lending, and the use, transparency, and fairness of algorithms, artificial intelligence, and machine learning in business processes.
+
+The European Commission has also released draft proposed regulations (i.e., the EU AI Act) that would establish requirements for the provision and use of products that leverage artificial intelligence, machine learning, and similar analytic and statistical modeling technologies, including credit scoring. The final version of EU AI Act is expected to be published by the end of 2023 and is expected to become effective in 2026.
+
+The costs and other burdens of compliance with such laws and regulations could negatively impact the use and adoption of our solutions and reduce overall demand for them. Additionally, concerns regarding data privacy and cyber and data security may cause our customers, or their customers and potential customers, to resist providing the data necessary to allow us to deliver our solutions effectively. Even the perception that the privacy of personal information is not satisfactorily protected or does not meet regulatory requirements could inhibit sales of our solutions and any failure to comply with such laws and regulations could lead to significant fines, penalties or other liabilities. Any such decrease in demand or incurred fines, penalties or other liabilities could have a material adverse effect on our business, results of operations, and financial condition.
+
+In addition to existing laws and regulations, changes in the U.S. or foreign legislative, judicial, regulatory or consumer environments could harm our business, financial condition or results of operations. The laws and regulations above, and changes to them or their interpretation by the courts, could affect the demand for or profitability of our products, including scoring and consumer products. New laws and regulations pertaining to our customers could cause them to pursue new strategies, reducing the demand for our products. We expect there will continue to be an increased focus on laws and regulations related to our business and/or the business of our clients, including with regard to the operation of consumer reporting agencies, the collection, use, accuracy, correction and sharing of personal information, credit scoring, the use of artificial intelligence and machine learning, and algorithmic accountability and fair lending.
+
+If we are subject to infringement claims, it could harm our business.
+
+Products in the industry segments in which we compete, including software products, are often subject to claims of patent and other intellectual property infringement, and such claims could increase as the number of products and competitors in our industry segments grow. We may need to defend claims that our products infringe intellectual property rights, and as a result we may:
+
+•
+incur significant defense costs or substantial damages;
+
+24
+
+Table of Contents
+
+•
+be required to cease the use or sale of infringing products;
+
+•
+expend significant resources to develop or license a substitute non-infringing technology;
+
+•
+discontinue the use of some technology; or
+
+•
+be required to obtain a license under the intellectual property rights of the third-party claiming infringement, which license may not be available or might require substantial royalties or license fees that would reduce our margins.
+
+Moreover, in recent years, individuals and groups that are non-practicing entities, commonly referred to as “patent trolls,” have purchased patents and other intellectual property assets for the purpose of making claims of infringement in order to extract settlements. From time to time, we may receive threatening letters or notices or may be the subject of claims that our solutions and underlying technology infringe or violate the intellectual property rights of others. Responding to such claims, regardless of their merit, can be time consuming, costly to defend in litigation, divert management's attention and resources, damage our reputation and brand, and cause us to incur significant expenses.
+
+Global Operational Risks
+
+Material adverse developments in global economic conditions, or the occurrence of certain other world events, could affect demand for our products and services and harm our business.
+
+Purchases of technology products and services and decisioning solutions are subject to adverse economic conditions. When an economy is struggling, companies in many industries delay or reduce technology purchases, and we experience softened demand for our decisioning solutions and other products and services. Global economic uncertainty has produced, and continues to produce, substantial stress, volatility, illiquidity and disruption of global credit and other financial markets. Various factors contribute to the uncertain economic environment, including geopolitical tensions, military conflicts, the level and volatility of interest rates, the level of inflation, the continuing effects of the COVID-19 pandemic, an actual recession or fears of a recession, trade policies and tariffs, and political and governmental instability.
+
+Economic uncertainty has and could continue to negatively affect the businesses and purchasing decisions of companies in the industries we serve. Such disruptions present considerable risks to our businesses and operations. As global economic conditions experience stress and negative volatility, or if there is an escalation in regional or global conflicts, or terrorism, we will likely experience reductions in the number of available customers and in capital expenditures by our remaining customers, longer sales cycles, deferral or delay of purchase commitments for our products and increased price competition, which may adversely affect our business, results of operations and liquidity.
+
+As a result of these conditions, risks and uncertainties, we may need to modify our strategies, businesses or operations, and we may incur additional costs in order to compete in a changed business environment. Given the volatile nature of the global economic environment and the uncertainties underlying efforts to stabilize it, we may not timely anticipate or manage existing, new or additional risks, as well as contingencies or developments, which may include regulatory developments and trends in new products and services. Our failure to do so could materially and adversely affect our business, financial condition, results of operations and prospects.
+
+In operations outside the U.S., we are subject to additional risks that may harm our business, financial condition or results of operations.
+
+A large portion of our revenues is derived from international sales. During fiscal 2023, 27% of our revenues were derived from business outside the U.S. As part of our growth strategy, we plan to continue to pursue opportunities outside the U.S., including opportunities in countries with economic systems that are in early stages of development and that may not mature sufficiently to result in growth for our business. Accordingly, our future operating results could be negatively affected by a variety of factors arising out of international commerce, some of which are beyond our control. These factors include:
+
+•
+general economic and political conditions in countries where we sell our products and services;
+
+•
+difficulty in staffing and efficiently managing our operations in multiple geographic locations and in various countries;
+
+•
+effects of a variety of foreign laws and regulations, including restrictions on access to personal information; 
+
+•
+data privacy and consumer protection laws and regulations;
+
+•
+import and export licensing requirements;
+
+•
+longer payment cycles;
+
+•
+difficulties in enforcing contracts and collecting accounts receivable;
+
+•
+reduced protection for intellectual property rights;
+
+•
+currency fluctuations;
+
+25
+
+Table of Contents
+
+•
+unfavorable tax rules or changes in tariffs and other trade barriers;
+
+•
+the presence and acceptance of varying levels of business corruption in international markets;
+
+•
+geopolitical tensions, instability, terrorism, and military conflicts;
+
+•
+natural disasters and pandemics, including the COVID-19 pandemic, and individual countries’ reactions to them; and
+
+•
+difficulties and delays in translating products and related documentation into foreign languages.
+
+There can be no assurance that we will be able to successfully address each of these challenges. Additionally, some of our business is and will be conducted in currencies other than the U.S. dollar. Substantial movements in foreign exchange rates relative to the dollar could adversely impact our cash flows, results of operations and financial position.
+
+In addition to the risk of depending on international sales, we have risks incurred in having research and development personnel located in various international locations. We currently have a substantial portion of our product development staff in international locations, some of which have political and developmental risks. If such risks materialize, our business could be damaged.
+
+Financial Risks
+
+Our products have long and variable sales cycles. If we do not accurately predict these cycles, we may not forecast our financial results accurately, and our stock price could be adversely affected.
+
+In our Software segment, the length of our sales cycles makes it difficult for us to predict the quarter in which sales will occur. In addition, our selling approach is complex as we look to sell multiple products and services across our customers’ organizations. This makes forecasting of revenues in any given period more difficult. For example, the sales cycle of our products can extend to greater than a year and as a result, revenues and operating results may vary significantly from period to period.
+
+Customers are often cautious in making decisions to acquire our products because purchasing our products typically involves a significant commitment of capital and may involve shifts by the customer to a new software and/or hardware platform or changes in the customer’s operational procedures. This may cause customers, particularly those experiencing financial stress, to make purchasing decisions more cautiously. Delays in completing sales can arise while customers complete their internal procedures to approve large capital expenditures and test and accept our applications. Consequently, we face difficulty predicting the quarter in which sales to expected customers will occur and experience fluctuations in our revenues and operating results.
+
+In our Scores segment, a majority of our revenues come from the sale of our Scores through partners. We have limited visibility on those sales until we receive royalty reports from those partners at the end of each billing period. Furthermore, the volume of our Scores sales depends heavily on macroeconomic conditions that are hard to forecast, including, for example, the volume of transactions in the U.S. mortgage and credit card markets, which account for a significant portion of the revenues in our Scores segment.
+
+If we are unable to accurately forecast our revenues, our ability to plan, budget or provide accurate guidance could be limited, and our stock price could be adversely affected.
+
+Our financial results and key metrics fluctuate within each quarter and from quarter to quarter, making our future revenue, annual recurring revenue (“ARR”), and financial results difficult to predict,
+
+which may cause us to miss analyst expectations and may cause the price of our common stock to decline.
+
+Our quarterly financial results and key metrics have fluctuated in the past and will continue to do so in the future, and therefore period-to-period comparisons should not be relied upon as an indication of future performance. These fluctuations could cause our stock price to change significantly or experience declines. We also may provide investors with quarterly and annual financial forward-looking guidance that could prove to be inaccurate as a result of these fluctuations and other factors. In addition to the other risks described in these risk factors, some of the factors that could cause our financial results and key metrics to fluctuate include:
+
+•
+variability in demand from our existing customers;
+
+•
+the lengthy and variable sales cycle of many products, combined with the relatively large size of orders for our products, increases the likelihood of short-term fluctuation in revenues;
+
+•
+consumer or customer dissatisfaction with, or problems caused by, the performance of our products;
+
+•
+the timing of new product announcements and introductions in comparison with our competitors;
+
+•
+the level of our operating expenses;
+
+•
+changes in demand and competitive and other conditions in the consumer credit, banking and insurance industries;
+
+26
+
+Table of Contents
+
+•
+the level and volatility of interest rates and the level of inflation;
+
+•
+fluctuations in domestic and international economic conditions;
+
+•
+our ability to complete large installations, and to adopt and configure cloud-based deployments, on schedule and within budget;
+
+•
+announcements relating to litigation or regulatory matters;
+
+•
+changes in senior management or key personnel;
+
+•
+acquisition-related expenses and charges; and
+
+•
+timing of orders for and deliveries of software systems.
+
+Our operating expenses are based in part on our expectations for future revenue and many are fixed and cannot be quickly adjusted as revenue changes. Accordingly, any revenue shortfall below expectations has had, and in the future could have, an immediate and significant adverse effect on our operating results and profitability. Greater than anticipated expenses or a failure to maintain rigorous cost controls would also negatively affect profitability.
+
+General Risk Factors
+
+Our stock price has been subject to fluctuations, and will likely continue to be subject to fluctuations, or may decline, regardless of our operating performance.
+
+Our stock price has been subject to fluctuations due to a number of factors, including variations in our revenues and operating results. The financial markets have at various times experienced significant price and volume fluctuations that have particularly affected the stock prices of many technology companies and financial services companies, and these fluctuations sometimes have been unrelated to the operating performance of these companies. Broad market fluctuations, as well as industry-specific and general economic conditions, may negatively affect our business and require us to record an impairment charge related to goodwill, which could adversely affect our results of operations, stock price and business.
+
+Our anti-takeover defenses could make it difficult for another company to acquire control of FICO, thereby limiting the demand for our securities by certain types of purchasers or the price investors are willing to pay for our stock.
+
+Certain provisions of our Restated Certificate of Incorporation, as amended, could make a merger, tender offer or proxy contest involving us difficult, even if such events would be beneficial to the interests of our stockholders. These provisions include giving our board the ability to issue preferred stock and determine the rights and designations of the preferred stock at any time without stockholder approval. The rights of the holders of our common stock will be subject to, and may be adversely affected by, the rights of the holders of any preferred stock that may be issued in the future. The issuance of preferred stock, while providing flexibility in connection with possible acquisitions and other corporate purposes, could have the effect of making it more difficult for a third-party to acquire, or discouraging a third-party from acquiring, a majority of our outstanding voting stock. These factors and certain provisions of the Delaware General Corporation Law may have the effect of deterring hostile takeovers or otherwise delaying or preventing changes in control or changes in our management, including transactions in which our stockholders might otherwise receive a premium over the fair market value of our common stock.
+
+If we experience changes in tax laws or adverse outcomes resulting from examination of our income tax returns, it could adversely affect our results of operations.
+
+We are subject to federal and state income taxes in the U.S. and in certain foreign jurisdictions. Significant judgment is required in determining our worldwide provision for income taxes. Our future effective tax rates could be adversely affected by changes in tax laws, by our ability to generate taxable income in foreign jurisdictions in order to utilize foreign tax losses, and by the valuation of our deferred tax assets. In addition, we are subject to the examination of our income tax returns by the Internal Revenue Service and other tax authorities. We regularly assess the likelihood of adverse outcomes resulting from such examinations to determine the adequacy of our provision for income taxes. There can be no assurance that the outcomes from such examinations will not have an adverse effect on our operating results and financial condition.

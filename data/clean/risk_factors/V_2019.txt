@@ -1,0 +1,880 @@
+, 
+Item 7—Management’s Discussion and Analysis of Financial Condition and Results of Operations
+ and elsewhere in this report. Except as required by law, we do not intend to update or revise any forward-looking statements as a result of new information, future events or otherwise. 
+
+ 3
+
+Table of Contents
+
+PART I
+
+ITEM 1.    Business
+
+OVERVIEW
+
+Visa is the world’s leader in digital payments. Our mission is to connect the world through the most innovative, reliable and secure payments network — enabling individuals, businesses and economies to thrive. We facilitate commerce across more than 200 countries and territories among a global set of consumers, merchants, financial institutions, businesses, strategic partners and government entities. 
+
+Since Visa’s inception in 1958, Visa has been in the business of facilitating payments between consumers and businesses. With new ways to pay, we are evolving into a company that enables money movement for everyone, everywhere. To accomplish this, we are continually focused on extending, enhancing and investing in our proprietary network, VisaNet, while seeking new ways to offer products and services and become a single connection point for initiating any transaction, both on the Visa network and beyond.
+
+This has enabled Visa to become one of the world’s largest electronic payments networks based on payments volume and number of transactions. Our fundamental business model is based on the following:
+
+•
+
+We facilitate secure, reliable and convenient transactions between financial institutions, merchants and account holders. 
+We traditionally have referred to this as the ‘four party’ model. As the payments ecosystem continues to evolve, we are continuing to broaden this model to include digital banks, wallets and a range of financial technology companies (fintechs), governments and non-governmental organizations. We provide transaction processing services (primarily authorization, clearing and settlement) to our financial institution and merchant clients through VisaNet, our global processing platform. During fiscal year 2019, we saw 201.9 billion payments and cash transactions with Visa’s brand, equating to an average of 553 million transactions a day. Of the 201.9 billion total transactions, 138.3 billion were processed by Visa. 
+
+•
+
+We offer a wide range of Visa-branded payment products
+ that our 15,500 financial institution clients use to develop and offer core business solutions, including credit, debit, prepaid and cash access programs for individual, business and government account holders. During fiscal year 2019, Visa’s total payments and cash volume grew to $11.6 trillion and more than 3.4 billion cards were available worldwide to be used at more than 61 million merchant locations.
+
+•
+
+We take an open, partnership approach
+ and seek to provide value by enabling access to our global network, including offering our technology capabilities through application programming interfaces (APIs). Additionally, we enter into partnerships with both traditional and emerging players to innovate and expand the payments ecosystem. This approach helps our partners leverage the resources of our platform to scale and grow their businesses more quickly and effectively.
+
+•
+
+We are accelerating the migration to digital payments
+ by enabling new types of transactions beyond the core consumer-to-business (C2B) payments. These include person-to-person (P2P), business-to-consumer (B2C), business-to-business (B2B) and government-to-consumer (G2C) payments.
+
+•
+
+We provide value-added services
+ to our clients, including consulting and analytics, fraud management and security services, merchant solutions, processing capabilities and digital services like tokenization. 
+
+•
+
+We invest in and promote our brand
+ to the benefit of our clients and partners through advertising, promotional and sponsorship initiatives with FIFA, the International Olympic Committee and the International Paralympic Committee, and the National Football League, among others. We also use these sponsorship assets to showcase our payment innovations.
+
+ 4
+
+Table of Contents
+
+FISCAL YEAR 2019 KEY STATISTICS
+
+(1)
+
+Please see 
+Item 7–Management’s Discussion and Analysis of Financial Condition and Results of Operations
+ for a reconciliation of our non-GAAP financial results.
+
+ 5
+
+Table of Contents
+
+Revenue Details
+
+Net revenues consist of service revenues, data processing revenues, international transaction revenues, and other revenues minus costs incurred under client incentive arrangements. We have one reportable segment, which is Payment Services.
+
+(1)
+
+Figures in the tables may not recalculate exactly due to rounding.
+
+(2)
+
+Please see 
+Note 3—Revenues
+ t
+o our consolidated financial statements included in
+ Item 8. Financial Statements and Supplementary Data 
+for the impact of the new revenue standard.
+
+ 6
+
+Table of Contents
+
+Visa earns revenue by facilitating commerce across more than 200 countries and territories among a global set of consumers, merchants, financial institutions, businesses, strategic partners and government entities. Visa is not a financial institution. We do not issue cards, extend credit, or set rates and fees for account holders of Visa products. That is the role of our financial institution clients. We do not earn revenues from, or bear credit risk with respect to, interest or fees paid by account holders on Visa products. Interchange reimbursement fees represent a transfer of value between the financial institutions participating in our open-loop payments network. We administer the collection and remittance of interchange reimbursement fees through the settlement process, but we generally do not receive any revenue related to interchange reimbursement fees. In addition, we do not receive as revenue the fees that merchants are charged directly for acceptance by their acquirers.
+
+ACCELERATING OUR BUSINESS: FISCAL YEAR 2019 KEY FOCUS AREAS
+
+As technology evolves from wired to wireless solutions — driven by technology developments such as the expansion of mobile technology and the rise of 5G networks — there are significant opportunities to grow digital payments. To capture this growth, we are strengthening our core business while simultaneously evolving our organization to seize opportunities to open new payment flows, expand access, build our acceptance footprint and grow our base of partners and clients. We are also building and acquiring new capabilities that can add value to our clients as we strengthen the foundation of our business: technology, security, brand and talent. 
+
+Core Business
+
+For decades, Visa’s growth has been driven by the strength of our core business solutions — credit, debit and prepaid products — as well as our global ATM network. As the pace of change accelerates each year, helped by the advancement of technology and our focus on the user experience in payments, we see significant opportunity for continued growth. We are accelerating efforts to move approximately $17 trillion in consumer spending and $15-20 trillion of B2B spending still done in cash and check to cards and digital credentials on the Visa network. 
+
+1. Core Products
+
+Business Solutions: 
+We offer a portfolio of business payment solutions, including small business, corporate (travel) cards, purchasing cards, virtual cards/digital credentials, non-card cross-border B2B payment options and disbursement accounts, covering most major industry segments around the world. Business solutions are designed to bring efficiency, controls and automation to small businesses, commercial and government payment processes, ranging from employee travel to fully integrated, invoice-based payables.
+
+Credit:
+ Credit cards and digital credentials are issued by financial institutions and used by co-brand partners and fintechs to allow consumers and businesses to access credit to pay for goods and services. Visa does not extend credit to account holders; however, we provide card benefits, including technology, authorization, fraud tools and brand support that issuers use to enable their credit products. We also work with our clients on product design, consumer segmentation and consumer experience design to help our clients deliver products and services that match their consumers’ needs. 
+
+ 7
+
+Table of Contents
+
+Debit: 
+Debit cards and digital credentials are issued by financial institutions to allow consumers and small businesses to purchase goods and services using funds held in their bank accounts. Debit cards enable account holders to transact — in person, online or via mobile — without needing cash or checks and without accessing a line of credit. Visa provides a strong brand, the network infrastructure (which includes processing, acceptance, product features and support, risk tools and services) and industry expertise to help issuers optimize their debit offerings. 
+
+Prepaid:
+ Prepaid products draw from a designated balance funded by individuals, businesses or governments. Prepaid cards address many use cases and needs, including general purpose reloadable, payroll, government and corporate disbursements, healthcare, gift and travel. Prepaid cards also play an important part in financial inclusion, bringing payment solutions to those with limited or no access to traditional banking products. 
+
+Global ATM:
+ The Visa/PLUS Global ATM network provides account holders with cash access in more than 200 countries and territories worldwide through issuing and acquiring partnerships with both financial institutions and independent ATM operators.
+
+Tap to Pay
+
+Contactless payments — or when a consumer taps to pay at checkout with a contactless card or mobile phone — continues to see strong adoption around the world. In 2019, excluding the United States (“U.S.”), tap to pay had surpassed 50 percent of face-to-face transactions that ran over the Visa network. This is up from less than 30 percent just two years ago. There are now more than 50 countries where tapping to pay represents at least a third of all domestic face-to-face transactions processed on our network, up from 35 countries at the end of last fiscal year.
+
+The U.S. is starting to catch up to this global adoption rate. In 2019, U.S. financial institutions began issuing contactless cards to customers nationwide. There are now more than 100 million Visa contactless cards in the U.S., and we expect that number to grow to 300 million by the end of 2020. 
+
+Contactless payments can also open up new payment experiences, such as transit. Transit continues to be an important use case for introducing consumers to the benefits of tapping to pay. In 2019, Visa helped launch contactless transit solutions in cities around the world, including Belarus, Edinburgh, Florence, Manchester, Miami, Milan, New York, Rio de Janeiro, Singapore, São Paulo and more — making it easier for people to get around while reducing operating costs for private and public transport operators.
+
+Ecommerce
+
+Ecommerce has drastically evolved since the first online purchase was made on the Visa network 25 years ago. Digital commerce growth is outpacing physical retail growth, and we expect this to continue. This presents an opportunity to evolve both the security and consumer experience around ecommerce. As a result, we are helping to transform the digital checkout experience by adding more security and removing friction with the launch of click to pay. Enabled by the EMV® Secure Remote Commerce Specifications, click to pay simplifies the checkout experience, eliminating the need for a consumer to enter payment details each time they are purchasing digital services or shopping online. This means greater consistency and fewer steps at checkout, regardless of one’s payment choice. In October 2019, click to pay went live with select merchants in the U.S., and we expect full commercial migration of Visa Checkout to happen in early 2020. Consumers can click to pay with confidence when they see a common checkout button with network logos and a stylized depiction of a fast forward icon 
+
+.
+
+(1) 
+
+(1) 
+
+The SRC payment icon is available for use in connection with implementations of the EMV® Secure Remote Commerce Specification. The SRC payment icon image files are provided following execution of the EMVCo Trademark License Agreement for SRC Payment Icon and may only be used in conformance with the Secure Remote Commerce (SRC): Payment Icon Reproduction Requirements.
+
+ 8
+
+Table of Contents
+
+Growing Access and Acceptance 
+
+A key component of how we expand our business focuses on growing access and increasing acceptance of our products around the world. Mobile connectivity, new acceptance devices untethered to landline infrastructure and new partnerships are enabling Visa payments in categories where card acceptance has typically been low, such as rent, parking and vending machines. We accomplish this in a few ways:
+
+Drive new acceptance categories to uncover additional growth
+. We continue to expand our acceptance footprint in both mature and emerging markets, and we remain committed to growing access and acceptance so that businesses and devices are enabled to send and receive funds via the Visa network. For example, Visa has grown acceptance in the U.S. vending machine category by enabling more than two million devices as new acceptance locations, which still leaves an estimated 50 percent of vending machines available for upgrade. Street parking represents a similar opportunity. 
+
+Ensuring seamless experiences for cross-border transactions.
+ As commerce continues to flow across borders, we are simplifying and streamlining how funds flow for both consumers and businesses. Cross-border ecommerce is also a growing opportunity. Consumers purchasing something from a foreign website are expected to account for $900 billion in gross merchandise volume by 2020, representing an estimated 22 percent share of the global ecommerce market.
+(2) 
+
+Enhancing inclusive financial access
+. According to the World Bank, 1.7 billion people worldwide still lack access to formal financial services, which means they do not have access to the services that can help facilitate the growth of their economic livelihood. As part of the World Bank’s goal of Universal Financial Access by 2020, in 2015 we committed to reaching 500 million consumers by 2020. At the end of 2018, we reached 396 million consumers worldwide with first-time access to a digital payment product through a Visa-branded account in partnership with local financial institutions. 
+
+Our scan to pay service has emerged as one of our most successful low-cost acceptance solutions for merchants, enabling the growth of digital payments in developing economies and remote locations. In some countries, the infrastructure for traditional payments technology simply may not exist. With scan to pay, a business needs only to display a QR code to accept digital payments, saving the cost, time and complexity of installing a terminal and telecommunications wiring. Scan to pay is already live in parts of Africa, Eastern Europe, the Middle East and Asia, with plans to expand into emerging markets of all sizes and regions. 
+
+In India, we continue to work with local acquirers to expand access and strengthen consumer demand for electronic payments. The total acceptance points in India have expanded to more than five million, including more than one million QR points this year. In Mexico, we are executing a program to grow the penetration of electronic payments, supporting the introduction of mobile point-of-sale (mPOS) and new acceptance technologies through our payment facilitator and acquirer partners.
+
+Our social impact work also supports women’s empowerment and the expansion of financial inclusion through programs that support skill-development and access to networks and financial services for under and unbanked populations. 
+
+In January 2019, we launched She’s Next, Empowered by Visa, which connects women business owners to their communities, funding options and payment technologies through workshops, training and mentorship. To date, Visa has signed up and hosted women entrepreneurs at workshops across North America, including Atlanta, Los Angeles, New York City, Toronto and Washington D.C.
+
+Open Partnership Model
+
+For more than 60 years, mutually beneficial partnerships have been fundamental to Visa’s business model. We traditionally have operated in a four-party model, facilitating transactions between issuers, acquirers, merchants and account holders. As the payment ecosystem grows, so too does Visa’s partnership model. Today, our partnerships extend to technology companies, fintechs, governments and non-governmental organizations.
+
+(2)
+
+_
+http://www.ipc.be/services/markets-and-regulations/e-commerce-market-insights/e-commerce-articles/global-ecommercefigures-2017#infographic
+
+ 9
+
+Table of Contents
+
+Fintechs continue to be key enablers around the world in helping to expand access through electronic payments, open new points of acceptance, drive new payment flows and create new ways to pay and be paid. Visa has the ability to help these companies grow and scale their payment innovations around the world, with increased safety and speed. Visa is continuing to increase its reach and scope to address fintech needs by partnering directly with them and with the platforms that service them around the world.
+
+We are designing Visa services to more efficiently meet our partners’ needs. Visa Fintech Fast Track, a program that enables nimble start-ups to more easily scale and leverage the reach, capabilities and security Visa offers, is now available to clients globally. Additionally, the new Visa Partner portal provides comprehensive services and resources — everything from information about API services to how to think about issuer processing — to help fintechs and all of our ecosystem partners bring new ways to pay to life.
+
+Ventures
+
+Visa continues to make strategic investments in some companies that are enriching the broader payments ecosystem. Through these strategic investments, Visa seeks to promote complementary, value-added services, enable new use cases, and expand the distribution and utility of our payments network.
+
+2. New Payment Flows
+
+Over the last several years, Visa has invested in expanding beyond C2B payments to capture growth in new payment flows such as P2P, B2C, B2B and G2C payments. Today, partners are increasingly using Visa’s network infrastructure and capabilities to enable Visa to unlock a growing market opportunity. 
+
+Visa Direct
+
+Visa Direct continues to be one of the most meaningful ways in which we are capturing new types of payments that were previously made by cash, check or Account Clearing House (ACH). Visa Direct, Visa’s real-time
+(3
+
+)
+
+ push payments service, reverses the traditional card payment flow by allowing payment originators, through their acquirer, to push funds directly to cards, better meeting consumer and business needs. For example, a ride sharing company can pay its drivers after a shift by transferring their pay directly to a Visa product. Visa Direct helps enable domestic and cross-border payouts for consumers and small businesses in more than 170 countries. Its capabilities modernize money movement, offering enhanced choice and convenience in how money is sent and received. We have announced several Visa Direct partnerships that have helped drive transaction growth to more than 100 percent year-over-year growth this year.
+
+(3)
+
+Actual fund availability depends on receiving financial institution and region. Visa requires fast-funds enabled issuers to make funds available to their recipient account holders within a maximum of 30 minutes of approving the transaction.
+
+ 10
+
+Table of Contents
+
+Today, Visa Direct powers seven of the major P2P platforms in the U.S. In the last year, Visa Direct transactions have been sent from 90 countries to the more than 170 countries where Visa Direct is currently available.
+
+Cross-border payments have continued to be a focal point for Visa Direct, with key partnerships announced throughout the year. With Visa Direct, Visa is extending the reach and capabilities of our global network to create a payment solution that is less constrained by time, borders or networks.
+
+Earthport
+
+In July 2019, Visa acquired Earthport, which provides cross-border payment services to banks, money transfer service providers and businesses via one of the world’s largest independent ACH networks. Before Earthport, Visa could reach about half of the world’s bank accounts, accessing them using Visa Direct and sending money to Visa credentials, such as debit or credit cards. Through a combination of the existing Visa network and the addition of the Earthport network, Visa clients will soon be able to push payments to the majority of the world’s banked population, reaching more than 99 percent of bank accounts in 88 countries, including the top 50 markets. Our vision is to enable our clients to reach bank accounts of consumers and small businesses in almost 200 countries via a single connection. Integration efforts are underway, and we expect to launch a pilot of our first fully integrated Visa Direct and Earthport experience by the end of the 2019 calendar year. 
+
+B2B
+
+We are also extending our network with B2B payments. Businesses spend an estimated $120 trillion each year, offering tremendous room for us to continue to grow our business. Our strategy is two-fold: invest in and grow our existing commercial card solutions and capture new payment flows by innovating in the non-card payments space.
+
+Our existing commercial card solutions generated more than $1 trillion in payments volume in fiscal year 2019, making Visa the largest card payment network for B2B payments in the world. We continue to invest across our small business, travel and entertainment, purchasing, fleet and virtual card solutions to further digitize how businesses pay other businesses.
+
+In 2019, we commercially launched Visa B2B Connect, a multilateral network that operates separately from VisaNet and facilitates B2B cross-border transactions directly from an originating bank to the recipient bank. This network gives financial institutions the ability to quickly and securely process high-value corporate cross-border payments globally and helps simplify and speed up the way businesses pay other businesses around the world. Visa B2B Connect’s current reach includes more than 60 countries with the goal to expand to more than 100 countries in 2020. 
+
+We are actively working with strategic partners and clients to increase the adoption of electronic payments in the accounts receivable and accounts payable space across large and medium-sized markets, as well as the small business category in key areas such as bill payment.
+
+3. Value-Added Services
+
+As the payments category expands, both in scope and size, there is a growing opportunity to broaden our revenue streams by expanding the capabilities of our existing network in addition to selectively offering our services to other payment providers. We are accomplishing this through both organic investment and strategic acquisitions. Today, we offer several enhanced capabilities and services, including fraud prevention and security, processing, loyalty, merchant and digital solutions, consulting and data solutions.
+
+ 11
+
+Table of Contents
+
+Visa Consulting and Analytics
+
+Visa Consulting and Analytics is the payments consulting advisory arm of Visa. This group is a client-facing global team of several hundred payments consultants, data scientists and economists across six continents. The combination of our deep payments expertise, our breadth of data and our economic intelligence allows us to identify actionable insights, recommendations and solutions that drive better business decisions and outcomes for clients. 
+
+Fraud Management and Security Services
+
+Trust is at the core of Visa. Through an evolving and multilayered approach, Visa strives to expect the unexpected, constantly monitoring our network and sharing intelligence with our partners. Our multi-prong security strategy is based on empowering consumers and clients through tools, resources and controls so that others can make more informed risk decisions. To provide these tools, we invest in intelligence and technologies that improve fraud and authorization performance. Visa Advanced Authorization risk scores every Visa-processed transaction in about one millisecond, an average of 379 million times a day. In the last year, Visa’s artificial intelligence-powered risk scoring engine helped financial institutions prevent about $25 billion in fraud. 
+
+We believe security is an integral driver for growth and innovation. Several developments over the course of 2019 help demonstrate our approach:
+
+•
+
+We continued to see the benefits of chip technology in preventing counterfeit fraud and reducing the amount and rate of fraud taking place in-person at physical stores. In the U.S., for example, our most recent data shows an 87 percent decline in counterfeit fraud at chip-enabled merchants since 2015, when the industry began to deploy chip technology. 
+
+•
+
+EMV® 3-D Secure (3DS) is a new generation of the protocol — developed by Visa, other payment brands and industry participants as part of EMVCo — and is designed to protect accounts from unauthorized use across desktop, laptop, mobile or other connected devices, making online purchases easier and more secure. In 2019, Visa branded its 3DS program as Visa Secure (formerly Verified by Visa). The Visa Secure visual badge, combined with descriptive language emphasizing, “Your online transactions are secure with Visa,” will be the way consumers encounter Visa’s 3DS offering.  
+
+Visa is also committed to helping protect the broader payments ecosystem from growing cyber threats through continued investments in intelligence and technology. Companies today must be responsible for securing their businesses from increasingly sophisticated tactics by cyber criminals. Visa provides a suite of capabilities that are a core benefit of being part of the Visa network. Our security capabilities help protect the integrity of the payments ecosystem by seeking to detect and disrupt fraud threats targeting financial institutions and merchants. We combine payment and cyber intelligence, insights and learnings from client/partner breach investigations and law enforcement engagement to help financial institutions and merchants solve critical security challenges. 
+
+ 12
+
+Table of Contents
+
+Visa Token Service
+
+Visa Token Service creates a secure environment to help drive innovation in online and mobile commerce. The technology works by replacing a consumer’s card-related sensitive information, such as personal account number, with a unique identifier, or 
+token
+, which protects transactions in a number of ways, including when a card or shopper is not physically present. Launched in 2014, tokenization has been brought to scale over the last five years. Visa Token Service is available in more than 100 markets.
+
+In October 2019, Visa acquired the token services and ticketing businesses of Rambus Inc. The combination of Visa’s card network tokenization capabilities with the local and account tokenization technology of Rambus will facilitate safer, more secure payments across a broader range of global commerce types.
+
+Merchant and Acquirer Solutions
+
+CyberSource’s product offerings are examples of Visa’s continued investment to deliver industry-leading products and capabilities to our merchant and acquirer partners. The CyberSource platform enables merchants to accept payments online, in-app or on the mobile web and in-person. CyberSource’s small business solutions are represented by the Authorize.Net brand in North America. CyberSource provides modular, digital capabilities beyond the traditional gateway function of connecting merchants to payment processing. As part of CyberSource's solution to acquirers, we are enabling acquirers to leverage our capabilities to drive more innovation in the payments ecosystem.
+
+Using CyberSource services, merchants of all sizes can improve the way their consumers engage and transact, mitigate fraud and security risk, lower operational costs and adapt to changing business requirements. CyberSource’s global footprint lets merchants accept payments in more than 190 countries and territories around the world and includes a broad choice of acquirer and processor partners, payment types and hardware components. 
+
+This year, we announced the acquisition of Payworks, a point-of-sale software solution that enables acquirers to support merchant terminal payments via the cloud, helping merchants seamlessly and quickly implement new functionality, designed to create better customer experiences and lower merchant operating costs. Payworks will add in-store payment processing capabilities to CyberSource's ecommerce payment platform to create a fully integrated omni-channel payment acceptance solution. 
+
+Visa also completed the acquisition of Verifi, a leader in technology solutions to reduce chargebacks. Verifi’s technology enables the quick resolution of disputes by connecting issuers to the data of more than 25,000 merchants as soon as an account holder calls with an issue. This tool reduces costs and time spent for all stakeholders in a disputed transaction.
+
+4. Foundational
+
+The foundations of our business are our technology, security, brand and talent. 
+
+ 13
+
+Table of Contents
+
+Technology
+
+Visa’s technology platform consists of software, hardware, data centers and a vast telecommunications infrastructure, each with a distinct architecture and operational footprint wrapped with several layers of security and protection technologies. Together, these systems deliver the secure, convenient and reliable service that our clients and consumers expect of the Visa brand.  
+
+Software 
+
+As part of our global technology environment, we build and securely operate hundreds of commercial applications using a diverse set of technologies.
+
+Our software powers the core functions of our transaction processing — including authorization, clearing and settlement, and risk scoring — as well as all of our value-added services. These applications together work to provide essential services to the payments ecosystem.  
+
+Hardware   
+
+We rely on a diverse array of sophisticated infrastructure systems that are tailored to our services. Visa's infrastructure is designed and configured with layers of redundancies. We have multiple instances of our software running on separate pieces of hardware, which is designed to provide continuous availability. Our disaster recovery capabilities are tiered so that our real-time transaction processing services can be continuously available.  
+
+Data Centers 
+
+Visa operates six data centers that are a critical part of our global processing environment and are built with the capacity to support Visa’s growing power, cooling and space needs. All of our data centers have high redundancy of network connectivity, power and cooling designed to provide continuous availability of systems. We are continuing to reduce the carbon footprint of our data centers by deploying efficiency improvement strategies, including LED lighting, variable airflow automation controls and hot-and-cold air containment technologies.   
+
+Telecommunications 
+
+We connect our clients and partners to Visa’s data centers through a massive telecommunications network covering more than 10 million route miles. Each network node is connected through redundant links, designed to provide high levels of security, availability and performance for our products and services. 
+
+Security
+
+In parallel with our role in advancing the security of the broader payments ecosystem, Visa remains committed to championing cybersecurity. Our multifaceted security approach includes deploying security tools that help keep our clients and consumers safe, while providing solutions that make Visa the best way to pay and be paid.  
+
+We invest significantly in our comprehensive approach to cybersecurity at Visa. We deploy security technologies to protect against data confidentiality, integrity and availability risks, emphasizing core cybersecurity capabilities to minimize risk exposure. Our in-depth security approach applies multiple layers of protection to reduce the risk of any single control failing. These measures include the following: 
+
+•
+
+A formal program to devalue sensitive and/or personal data through various cryptographic means  
+
+•
+
+Embedded security in the software development lifecycle 
+
+•
+
+Identity and access management controls to protect against unauthorized access  
+
+•
+
+Development of advanced cyber detection and response capabilities 
+
+For example, Visa uses AI and deep learning technology to monitor our network and understand the threats aimed at our company. Our platform collects billions of security logs each day, providing insight across the network and within our infrastructure. We combine this data with external intelligence on attacks observed outside of our data centers and network. Using machine learning tools, we focus on the events that appear to pose a risk, enabling our cybersecurity team to intervene. We operate this platform globally, with teams in multiple time zones detecting and responding 24x7x365.  
+
+ 14
+
+Table of Contents
+
+Brand
+
+The Visa brand is one of the world’s most recognized, trusted and valuable brands. Anchored on the notion that Visa is “Everywhere You Want To Be,” the Visa brand stands for acceptance, security, convenience, speed and reliability. In recognition of its strength among clients and consumers, the Visa brand consistently ranks highly in multiple brand studies, including #1 on Forbes World’s Best Regarded Companies (2019), #5 on BrandZ Top 100 Most Valuable Global Brands (2019), Forbes World’s Most Valuable Brands and Interbrand’s Best Global Brands, among others. 
+
+Our brand strength helps us to deliver added value to financial institutions, merchants, clients and partners through compelling brand expressions, a wide-range of products and services and innovative marketing efforts. In a consumer study by Visa in 16 countries, when consumers see the Visa logo, they are 3.5 times more likely to think the website is more secure.
+
+In fiscal year 2019, we renewed our 25-year relationship with the National Football League, and continued our global sponsorship of FIFA, the International Olympic Committee and the International Paralympic Committee. Visa is the only brand in the world that is a top sponsor of these properties, and is also the largest sponsor of women’s football in the world. At the upcoming Olympic and Paralympic Games Tokyo 2020, this opportunity will be on full display when we will use our brand and technology to bring Japan’s vision for a future of digital payments to life.
+
+Talent
+
+Visa’s workforce continues to grow, increasing from approximately 17,000 employees in fiscal year 2018 to 19,500 employees in fiscal year 2019. This growth has been fueled in part by acquisitions, with growth in the regions outpacing growth in the San Francisco Bay Area. At the end of fiscal year 2019, Visa’s global workforce was 59 percent male and 41 percent female. Increasing the representation of women and under-represented minorities remain an area of focus for management. Visa’s commitment to diversity recruiting includes partnering with organizations such as AfroTech, AnitaB.org, Catalyst, Diversity Best Practices, the National Society of Black Engineers, the Society of Hispanic Professional Engineers, Watermark - Silicon Valley Conference for Women, Women in CyberSecurity, Women in Payments and many others to support and develop a diverse talent pipeline. Visa is committed to pay equity for employees doing similar work, regardless of gender, race or ethnicity, and conducts pay equity analyses on an annual basis. 
+
+We assess employee engagement through our annual employee survey, which provides feedback on a variety of topics, such as company direction and strategy, diversity and inclusion, individual development, collaboration and trust. For the second year in a row, we had an exceptional response rate of 95 percent with improvement in the survey results across the board and no items with notably declining scores.
+
+INTELLECTUAL PROPERTY
+
+We own and manage the Visa brand, which stands for acceptance, security, convenience, speed and reliability. Our portfolio of Visa-owned trademarks are important to our business. Generally, trademark registrations are valid indefinitely as long as they are in use and/or maintained. We give our clients access to these assets through agreements with our issuers and acquirers, which authorize the use of our trademarks in connection with their participation in our payments network. We also own a number of patents, patent applications and other intellectual property relating to payment solutions, transaction processing, security systems and other matters. We rely on a combination of patent, trademark, copyright and trade secret laws in the U.S. and other jurisdictions, as well as confidentiality procedures and contractual provisions, to protect our proprietary technology.
+
+COMPETITION 
+
+The global payments industry continues to undergo dynamic change. Existing and emerging competitors compete with Visa’s network and payment solutions for consumers and for participation by financial institutions and merchants. Technology and innovation are shifting consumer habits and driving growth opportunities in ecommerce, mobile payments, blockchain technology and digital currencies. These advances are enabling new entrants, many of which depart from traditional network payment models. In certain countries, the evolving regulatory landscape is changing how we compete, creating local networks or enabling additional processing competition.
+
+ 15
+
+Table of Contents
+
+We compete against all forms of payment. This includes paper-based payments, primarily cash and checks, and all forms of electronic payments. Our electronic payment competitors principally include: 
+
+Global or Multi-Regional Networks
+:
+ These networks typically offer a range of branded, general purpose card payment products that can be used at millions of merchant locations around the world. Examples include Mastercard, American Express, Discover, JCB and UnionPay. These competitors may be more concentrated in specific geographic regions, such as JCB in Japan and Discover in the U.S., or have a leading position in certain countries. For example, UnionPay operates the sole domestic card acceptance mark in China and is expanding into other global markets. See 
+Item 1A — Risk Factors — Regulatory Risks — Government-imposed restrictions on international payment systems may prevent us from competing against providers in certain countries, including significant markets such as China, India and Russia
+. Based on available data, Visa is one of the largest retail electronic funds transfer networks used throughout the world. The following chart compares our network with these network competitors for calendar year 2018
+(4)
+
+:
+
+Visa
+
+Mastercard
+
+American Express
+
+JCB
+
+Diners Club
+
+Payments Volume ($B)
+
+8,449
+
+4,338
+
+1,169
+
+283
+
+172
+
+Total Volume ($B)
+
+11,380
+
+5,901
+
+1,184
+
+290
+
+187
+
+Total Transactions (B)
+
+188
+
+103
+
+8
+
+4
+
+3
+
+Cards (M)
+
+3,359
+
+2,022
+
+114
+
+127
+
+63
+
+(4) 
+
+MasterCard, American Express, JCB and Discover/Diners Club data sourced from The Nilson Report issue 1154 (May 2019). Mastercard excludes Maestro and Cirrus figures. American Express, Diners Club/Discover, and JCB include business from third-party issuers. JCB figures include other payment-related products and some figures are estimates.
+
+Local and Regional Networks
+:
+ Operated in many countries, these networks often have the support of government influence or mandate. In some cases, they are owned by financial institutions. These networks typically focus on debit payment products and may have strong local acceptance, and recognizable brands. Examples include STAR, NYCE, and Pulse in the U.S., Interac in Canada, EFTPOS in Australia and Mir in Russia. 
+
+Alternate Payment Providers
+:
+ These providers often have a primary focus of enabling payments through ecommerce and mobile channels, but are expanding or may expand their offerings to the physical point of sale. These companies may process payments using in-house account transfers between parties, electronic funds transfer networks like the ACH, global or local networks like Visa, or some combination of the foregoing. In some cases, these entities are both a partner and a competitor to Visa. 
+
+ACH and Real Time Payment (RTP) Networks
+:
+ These networks are often governed by local regulations. Primarily focused on interbank transfers, many are adding capabilities that may make them more competitive for retail payments. We also compete with closed-loop payment systems, emerging payments networks, wire transfers and electronic benefit transfers. 
+
+Payment Processors
+:
+ We compete with payment processors for the processing of Visa transactions. These processors may benefit from mandates requiring them to handle processing under local regulation. For example, as a result of regulation in Europe under the Interchange Fee Regulation (IFR), we may face competition from other networks, processors and other third-parties who could process Visa transactions directly with issuers and acquirers. 
+
+We believe our fundamental value proposition of acceptance, security, convenience, speed and reliability offers us a key competitive advantage. We succeed in part because we understand the needs of the individual markets in which we operate and partner with local financial institutions, merchants, fintechs, governments, non-governmental organizations and business organizations to provide tailored solutions. We believe Visa is well-positioned competitively due to our global brand, our broad set of Visa-branded payment products and our proven track record of processing payment transactions securely and reliably through VisaNet.
+
+SEASONALITY
+
+We generally do not experience any pronounced seasonality in our business. No individual quarter of fiscal 2019 or fiscal 2018 accounted for more than 30 percent of our net revenues in those years.
+
+ 16
+
+Table of Contents
+
+WORKING CAPITAL
+
+Payments settlement due to and from our financial institution clients can represent a substantial daily working capital requirement. Most U.S. dollar settlements are settled within the same day and do not result in a receivable or payable balance, while settlement in currencies other than the U.S. dollar generally remain outstanding for one to two business days, which is consistent with industry practice for such transactions.
+
+GOVERNMENT REGULATION
+
+As a global payments technology company, we are subject to complex and evolving global regulations in the various jurisdictions in which our products and services are used. The most significant government regulations that impact our business are discussed below. For further discussion of how global regulations may impact our business, see 
+Item 1A-Risk Factors-Regulatory Risks
+.
+
+Anti-Corruption, Anti-Money Laundering, Anti-Terrorism and Sanctions: 
+We are subject to anti-corruption laws and regulations, including the U.S. Foreign Corrupt Practices Act (FCPA), the UK Bribery Act and other laws that generally prohibit the making or offering of improper payments to foreign government officials and political figures for the purpose of obtaining or retaining business or to gain an unfair business advantage. We are also subject to anti-money laundering and anti-terrorist financing laws and regulations, including the U.S. Bank Secrecy Act. In addition, we are subject to economic and trade sanctions programs administered by the Office of Foreign Assets Control (OFAC) in the U.S. Therefore, we do not permit financial institutions or other entities that are domiciled in countries or territories subject to comprehensive OFAC trade sanctions (currently, Cuba, Iran, North Korea, Syria and Crimea), or that are included on OFAC’s list of Specially Designated Nationals and Blocked Persons, to issue or acquire Visa cards or engage in transactions using our services.
+
+Government-Imposed Market Participation and Restrictions:
+ Certain governments, including China, India, Indonesia, Russia, Thailand and Vietnam, have taken actions to promote domestic payments systems and/or certain issuers, payments networks or processors, by imposing regulations that favor domestic providers, impose local ownership requirements on processors, require data localization or mandate domestic processing be done in that country.
+
+Interchange Rates and Fees: 
+An increasing number of jurisdictions around the world regulate or influence debit and credit interchange reimbursement rates in their regions. For example, the Dodd-Frank Wall Street Reform and Consumer Act (Dodd-Frank Act) in the U.S. limits interchange reimbursement rates for certain debit card transactions, the European Union’s (EU) IFR limits interchange rates in Europe (as discussed below) and the Reserve Bank of Australia and the Central Bank of Brazil regulate average permissible levels of interchange.
+
+Internet Transactions: 
+Many jurisdictions have adopted regulations that require payments system participants to monitor, identify, filter, restrict or take other actions with regard to certain types of payment transactions on the Internet, such as gambling and the purchase of cigarettes or alcohol.
+
+Network Exclusivity and Routing:
+ In the U.S., the Dodd-Frank Act limits network exclusivity and preferred routing arrangements for the debit and prepaid market segments. Other jurisdictions impose similar limitations, such as the IFR’s prohibition in Europe on restrictions that prevent multiple payment brands or functionality on the same card.
+
+No-surcharge Rules: 
+We have historically enforced rules that prohibit merchants from charging higher prices to consumers who pay using Visa products instead of other means. However, merchants’ ability to surcharge varies by geographic market as well as Visa product type, and continues to be impacted by litigation, regulation and legislation.
+
+Privacy and Data Protection: 
+Aspects of our operations or business are subject to privacy, data use and data security regulations, which impact the way we use and handle data, operate our products and services and even impact our ability to offer a product or service. In addition, regulators are proposing new laws or regulations that could require Visa to adopt certain cybersecurity and data-handling practices, create new individual privacy rights and impose increased obligations on companies handling personal data.
+
+ 17
+
+Table of Contents
+
+Supervisory Oversight of the Payments Industry: 
+Visa is subject to financial sector oversight and regulation in substantially all of the jurisdictions in which we operate. In the U.S., for example, the Federal Financial Institutions Examination Council (FFIEC) has supervisory oversight over Visa under applicable federal banking laws and policies as a technology service provider to U.S. financial institutions. The federal banking agencies comprising the FFIEC are the Federal Reserve Board, the Comptroller of the Currency, the Federal Deposit Insurance Corporation and the National Credit Union Administration. Visa also may be separately examined by the Bureau of Consumer Financial Protection as a service provider to the banks that issue Visa-branded consumer credit and debit card products. Central banks in other countries/regions, including Europe, Russia, Ukraine and the United Kingdom (as discussed below), have recognized or designated Visa as a retail payment system under various types of financial stability regulations. Visa is also subject to oversight by banking and financial sector authorities in other jurisdictions, such as Brazil and Hong Kong.
+
+European Regulations and Supervisory Oversight: 
+Visa in Europe continues to be subject to complex and evolving regulation in the European Economic Area (EEA). Visa Europe is designated as a Recognized Payment System in the United Kingdom, bringing it within the scope of the Bank of England’s supervisory powers and subject to various requirements, including on issues such as governance and risk management designed to maintain the stability of the United Kingdom’s financial system. Visa Europe is also subject to the European Central Bank’s oversight, whose main focus is on the smooth operation of payment systems in the Euro area, including the security, operational reliability, and business continuity of the payment systems. Furthermore, Visa Europe is regulated by the United Kingdom’s Payment Systems Regulator (PSR), which has wide ranging powers and authority to review our business practices, systems, rules and fees with respect to promoting competition and innovation in the United Kingdom, and ensuring payments meet account holder needs. The PSR is also the regulator responsible for monitoring Visa Europe’s compliance with the IFR in the United Kingdom. The IFR regulates interchange rates within Europe, requires Visa Europe to separate its payment card scheme activities from processing activities for accounting, organization, and decision-making purposes within the EU and imposes limitations on network exclusivity and routing. National competent authorities in the EU are responsible for monitoring and enforcing the IFR in their markets.
+
+There are other regulations in the European Union that impact our business, as discussed above, including privacy and data protection, anti-bribery, anti-money laundering, anti-terrorism and sanctions. Other recent regulatory changes in Europe, such as the second Payment Services Directive (PSD2), require, among other things, that our financial institution clients provide certain customer account access rights to emerging non-financial institution players. PSD2 also includes strong customer authentication requirements for certain transactions that could impose both operational complexity on Visa and negatively impact consumer payment experiences.
+
+As discussed in 
+Item 1A 
+— 
+ 
+— 
+Business Risks 
+— 
+The United Kingdom’s withdrawal from the European Union could harm our business and financial results, 
+Brexit could lead to further legal and regulatory complexity in Europe.
+
+Additional Regulatory Developments: 
+Various regulatory agencies also continue to examine a wide variety of other issues, including mobile payment transactions, tokenization, access rights for non-financial institutions, money transfer, identity theft, account management guidelines, disclosure rules, security and marketing that could affect our financial institution clients and us. Furthermore, following the passage of PSD2 in Europe, several countries, including Australia, Brazil, Canada, Hong Kong and Mexico, are contemplating granting various types of access rights to third-party processors, including access to consumer account data maintained by our financial institution clients, which could have implications for our business as well.
+
+AVAILABLE INFORMATION
+
+Visa Inc. was incorporated in Delaware in May 2007, and we completed our initial public offering in March 2008. Prior to 2007 when Visa was reorganized, Visa served its member financial institutions through Visa International and regional member-owned associations (e.g., Visa U.S.A. Inc. and Visa Canada Corporation). As part of the 2007 reorganization, these associations became a part of Visa Inc. in October 2007, with the exception of Visa Europe Limited, which continued to operate as an association until our acquisition in June 2016. Please see 
+Item 8. Financial Statements and Supplementary Data-Notes to the Consolidated Financial Statements-Note 14-Stockholders’ Equity
+ for information regarding our capital structure.
+
+ 18
+
+Table of Contents
+
+Our corporate website is 
+http://corporate.visa.com
+. Our annual reports on Form 10-K, our quarterly reports on Form 10-Q, our current reports on Form 8-K, proxy statements and any amendments to those reports filed or furnished pursuant to the Securities Exchange Act of 1934, as amended, can be viewed at 
+http://www.sec.gov 
+and our investor relations website at 
+http://investor.visa.com 
+as soon as reasonably practicable after these materials are electronically filed with or furnished to the U.S. Securities and Exchange Commission (SEC). In addition, we routinely post financial and other information, which could be deemed to be material to investors, on our investor relations website. Information regarding our corporate responsibility and sustainability initiatives are also available on our website at 
+http://www.visa.com/responsibility
+. The content of any of our websites referred to in this report is not incorporated by reference into this report or any other filings with the SEC.
+
+ITEM 1A. Risk Factors
+
+Regulatory Risks
+
+We are subject to complex and evolving global regulations that could harm our business and financial results
+. 
+
+As a global payments technology company, we are subject to complex and evolving regulations that govern our operations. See 
+Item 1
+—
+Business
+—
+Government Regulation
+ for more information on the most significant areas of regulation that affect our business. The impact of these regulations on us, our clients, and other third parties could limit our ability to enforce our payments system rules; require us to adopt new rules or change existing rules; affect our existing contractual arrangements; increase our compliance costs; require us to make our technology or intellectual property available to third parties, including competitors, in an undesirable manner; and reduce our revenue opportunities. As discussed in more detail below, we may face differing rules and regulations in matters like interchange reimbursement rates, preferred routing, domestic processing requirements, currency conversion, point-of-sale transaction rules and practices, privacy, data use or protection, licensing requirements, and associated product technology. As a result, the Visa operating rules and our other contractual commitments may differ from country to country or by product offering. Complying with these and other regulations increases our costs and could reduce our revenue opportunities. 
+
+If widely varying regulations come into existence worldwide, we may have difficulty rapidly adjusting our product offerings, services, fees and other important aspects of our business in the regions where we operate. Our compliance programs and policies are designed to support our compliance with a wide array of regulations and laws, such as anti-money laundering, anti-corruption, competition, privacy and sanctions, and we continually enhance our compliance programs as regulations evolve. However, we cannot guarantee that our practices will be deemed compliant by all applicable regulatory authorities. In the event our controls should fail or we are found to be out of compliance for other reasons, we could be subject to monetary damages, civil and criminal penalties, litigation, investigations and proceedings, and damage to our global brands and reputation. Furthermore, the evolving and increased regulatory focus on the payments industry could negatively impact or reduce the number of Visa products our clients issue, the volume of payments we process, our revenues, our brands, our competitive positioning, our ability to use our intellectual property to differentiate our products and services, the quality and types of products and services we offer, the countries in which our products are used, and the types of consumers and merchants who can obtain or accept our products, all of which could harm our business.
+
+Increased scrutiny and regulation of the global payments industry, including with respect to interchange reimbursement fees, merchant discount rates, operating rules, risk management protocols and other related practices, could harm our business
+.
+
+Regulators around the world have been establishing or increasing their authority to regulate certain aspects of the payments industry. See
+ Item 1. Business —Government Regulation 
+for more information
+.
+ In the U.S. and many other jurisdictions, we have historically set default interchange reimbursement fees. Even though we generally do not receive any revenue related to interchange reimbursement fees in a payment transaction (in the context of credit and debit transactions, those fees are paid by the acquirers to the issuers; the reverse is true for certain transactions like ATM), interchange reimbursement fees are a factor on which we compete with other payments providers and are therefore an important determinant of the volume of transactions we process. Consequently, changes to these fees, whether voluntarily or by mandate, can substantially affect our overall payments volumes and revenues.
+
+ 19
+
+Table of Contents
+
+Interchange reimbursement fees, certain operating rules and related practices continue to be subject to increased government regulation globally, and regulatory authorities and central banks in a number of jurisdictions have reviewed or are reviewing these fees, rules, and practices. For example, regulations adopted by the U.S. Federal Reserve cap the maximum U.S. debit interchange reimbursement rate received by large financial institutions at 21 cents plus 5 basis points per transaction, plus a possible fraud adjustment of 1 cent. The Dodd-Frank Act also limits issuers’ and our ability to adopt network exclusivity and preferred routing in the debit and prepaid area, which also impacts our business. The EU’s IFR places an effective cap on consumer credit and consumer debit interchange fees for both domestic and cross-border transactions within the EEA (30 basis points and 20 basis points, respectively). EU member states have the ability to further reduce these interchange levels within their territories. Furthermore, the European Commission is in the process of conducting an impact assessment of the IFR, which could potentially result in lower and/or additional interchange fee caps and restrictions. Countries in other parts of the world, including the Latin America region have either adopted or are exploring interchange caps. For example, in March 2017, Argentina’s central bank passed regulations that cap interchange fees on credit and debit transactions. In March 2018, Brazil adopted interchange caps on debit transactions. 
+
+When we cannot set default interchange reimbursement rates at optimal levels, issuers and acquirers may find our payments system less attractive. This may increase the attractiveness of other payments systems, such as our competitors’ closed-loop payments systems with direct connections to both merchants and consumers. We believe some issuers may react to such regulations by charging new or higher fees, or reducing certain benefits to consumers, which make our products less appealing to consumers. Some acquirers may elect to charge higher merchant discount rates regardless of the Visa interchange reimbursement rate, causing merchants not to accept our products or to steer customers to alternate payments systems or forms of payment. In addition, in an effort to reduce the expense of their payment programs, some issuers and acquirers have obtained, and may continue to obtain, incentives from us, including reductions in the fees that we charge, which may directly impact our revenues.
+
+In addition to the regulation of interchange reimbursement fees, a number of regulators impose restrictions on other aspects of our payments business. For example, many governments including, but not limited to governments in India and Turkey are using regulation to further drive down merchant discount rates, which could negatively affect the economics of our transactions. Some countries in Latin America, like Peru and Chile are relying on antitrust driven regulatory actions that can have implications for how the payments ecosystem and four party model operate. The Payment System Regulator’s review of the acquiring market in the United Kingdom could lead to additional regulatory pressure on our business. With increased merchant lobbying, we could also begin to see regulatory interest in network fees. Government regulations or pressure may also require us to allow other payments networks to support Visa products or services, or to have the other network’s functionality or brand marks on our products. As innovations in payment technology have enabled us to expand into new products and services, they have also expanded the potential scope of regulatory influence. For instance, new products and capabilities, including tokenization, push payments, and non-card based payment flows (e.g., B2B Connect) could bring increased licensing or authorization requirements in the countries where the product or capability is offered. In addition, the European Union’s requirement to separate scheme and processing adds costs and impacts the execution of our commercial, innovation and product strategies. 
+
+We are also subject to central bank oversight in some markets, including, Brazil, Russia, the United Kingdom and within the European Union. This oversight could result in new governance, reporting, licensing, cybersecurity, processing infrastructure, capital, or credit risk management requirements. We could also be required to adopt policies and practices designed to mitigate settlement and liquidity risks, including increased requirements to maintain sufficient levels of capital and financial resources locally, as well as localized risk management or governance. Increased central bank oversight could also lead to new or different criteria for participation in and access to our payments system, including allowing non-traditional financial technology companies to act as issuers or acquirers. Additionally, regulators in other jurisdictions are considering or adopting approaches based on similar regulatory principles.
+
+Finally, regulators around the world increasingly take note of each other’s approaches to regulating the payments industry. Consequently, a development in one jurisdiction may influence regulatory approaches in another. The risks created by a new law, regulation or regulatory outcome in one jurisdiction have the potential to be replicated and to negatively affect our business in another jurisdiction or in other product offerings. For example, our settlement with the European Commission on cross-border interchange rates could draw the attention of regulators in other parts of the world. Similarly, new regulations involving one product offering may prompt regulators to extend the regulations to other product offerings. For example, credit payments could become subject to similar regulation as debit payments (or vice versa). For instance, the Reserve Bank of Australia initially capped credit interchange, but subsequently capped debit interchange as well.
+
+ 20
+
+Table of Contents
+
+Government-imposed restrictions on international payment systems may prevent us from competing against providers in certain countries, including significant markets such as China, India and Russia
+. 
+
+Governments in a number of jurisdictions shield domestic payment card networks, brands, and processors from international competition by imposing market access barriers and preferential domestic regulations. To varying degrees, these policies and regulations affect the terms of competition in the marketplace and undermine the competitiveness of international payments networks. In the future, public authorities may impose regulatory requirements that favor domestic providers or mandate that domestic payments processing be performed entirely within that country, which would prevent us from managing the end-to-end processing of certain transactions. 
+
+In Russia, legislation effectively prevents us from processing domestic transactions. The central bank controlled national payment card system (NSPK) is the only entity allowed to process domestically. In China, UnionPay remains the sole processor of domestic payment card transactions and operates the sole domestic acceptance mark. Although we have filed an application with the People’s Bank of China (PBOC) to operate a Bank Card Clearing Institution (BCCI) in China, the timing and the procedural steps remain uncertain. The approval process might require several years, and there is no guarantee that the license to operate a BCCI will be approved or, if we obtain such license, that we will be able to successfully compete with domestic payments networks. 
+
+Recent regulatory initiatives in India also suggest growing nationalistic priorities, including a data localization mandate passed by the government, which has cost implications for us and could affect our ability to effectively compete with domestic payment providers. Furthermore, regional groups of countries, such as the Gulf Cooperation Countries in the Middle East and a number of countries in Southeast Asia, are considering, or may consider, efforts to restrict our participation in the processing of regional transactions. The African Development Bank has also indicated an interest in supporting national payment systems in its efforts to expand financial inclusion and strengthen regional financial stability. Geopolitical events, including sanctions, trade tensions or other types of activities could potentially intensify any or all of these activities, which could adversely affect our business.
+
+Due to our inability to manage the end-to-end processing of transactions for cards in certain countries (e.g., Russia and Thailand), we depend on our close working relationships with our clients or third-party processors to ensure transactions involving our products are processed effectively. Our ability to do so may be adversely affected by regulatory requirements and policies pertaining to transaction routing or on-shore processing. 
+
+Co-badging and co-residency regulations may pose additional challenges in markets where Visa competes with national networks for issuance and routing. For example, in China, certain banks have issued dual-branded cards for which domestic transactions in China are processed by UnionPay and transactions outside of China are processed by us or other international payments networks. The PBOC is contemplating that dual-branded cards could be phased out over time as new licenses are issued to international companies to participate in China’s domestic payments market. Accordingly, we have been working with Chinese issuers to issue Visa-only branded cards for international travel, and later for domestic transactions after we obtain a BCCI license. However, notwithstanding such efforts, the phase out of dual-branded cards may decrease our payment volumes and impact the revenue we generate in China.
+
+Mir and UnionPay have grown rapidly in Russia and China, respectively, and are actively pursuing international expansion plans, which could potentially lead to regulatory pressures on our international routing rule (which requires that international transactions on Visa cards be routed over VisaNet). Furthermore, although regulatory barriers shield Mir and UnionPay from competition in Russia and China, respectively, alternate payment providers such as Alipay and WeChat Pay have rapidly expanded into ecommerce, offline, and cross-border payments, which could make it difficult for us to compete even if our license is approved in China. Recently, with strong backing from China’s government, a new digital transaction routing system known as Netlink was established. The PBOC allowed Alipay and other digital payment providers to invest in Netlink. It and other such systems could have a competitive advantage in comparison with other international payments networks
+.  
+
+In general, national laws that protect domestic providers or processing may increase our costs; decrease our payments volumes and impact the revenue we generate in those countries; decrease the number of Visa products issued or processed; impede us from utilizing our global processing capabilities and controlling the quality of the services supporting our brands; restrict our activities; limit our growth and the ability to introduce new products, services and innovations; force us to leave countries or prevent us from entering new markets; and create new competitors, all of which could harm our business.
+
+ 21
+
+Table of Contents
+
+Laws and regulations regarding the handling of personal data and information may impede our services or result in increased costs, legal claims, or fines against us
+. 
+
+Our business relies on the processing of data in many jurisdictions and the movement of data across national borders. Legal requirements relating to the collection, storage, handling, use, disclosure, transfer, and security of personal data continue to evolve, and regulatory scrutiny in this area is increasing around the world. Significant uncertainty exists as privacy and data protection laws may be interpreted and applied differently from country to country and may create inconsistent or conflicting requirements. For example, the EU’s General Data Protection Regulation (GDPR) extends the scope of the EU data protection law to all companies processing data of EU residents, regardless of the company’s location. The law requires companies to meet new requirements regarding the handling of personal data. Although we have an extensive data privacy program that addresses the GDPR requirements, our ongoing efforts to comply with GDPR and other privacy and data protection laws (such as the new California Consumer Privacy Act effective as of January 2020 and the Brazilian General Data Protection Law effective as of February 2020) may entail substantial expenses, may divert resources from other initiatives and projects, and could limit the services we are able to offer. In addition, India has adopted a data localization law that requires all payment system operators to store domestic transaction data only in India. Such data localization requirements have cost implications for us, impact our ability to utilize the efficiencies and value of our global network, and could affect our strategy. Furthermore, enforcement actions and investigations by regulatory authorities related to data security incidents and privacy violations continue to increase. The enactment of more restrictive laws, rules, regulations, or future enforcement actions or investigations could impact us through increased costs or restrictions on our business, and noncompliance could result in regulatory penalties and significant legal liability.
+
+We may be subject to tax examinations or disputes, or changes in tax laws
+.
+
+We exercise significant judgment in calculating our worldwide provision for income taxes and other tax liabilities. Although we believe our tax estimates are reasonable, many factors may limit their accuracy. We are currently under examination by, or in disputes with, the U.S. Internal Revenue Service, the UK’s HM Revenue & Customs as well as tax authorities in other jurisdictions, and we may be subject to additional examinations or disputes in the future. Relevant tax authorities may disagree with our tax treatment of certain material items and thereby increase our tax liability. Failure to sustain our position in these matters could harm our cash flow and financial position. In addition, changes in existing laws in the U.S. or foreign jurisdictions, or changes resulting from the Organization for Economic Cooperation and Development Program of Work, related to the revision of profit allocation and nexus rules and global base-erosion proposal, may also materially affect our effective tax rate. A substantial increase in our tax payments could have a material, adverse effect on our financial results. See also 
+Note 19—Income Taxes
+ to our consolidated financial statements included in 
+Item 8—Financial Statements and Supplementary Data
+ of this report.
+
+Litigation Risks
+
+We may be adversely affected by the outcome of litigation or investigations, despite certain protections that are in place
+. 
+
+We are involved in numerous litigation matters, investigations, and proceedings asserted by civil litigants, governments, and enforcement bodies alleging, among other things, violations of competition and antitrust law, consumer protection law, and intellectual property law (these are referred to as “actions” in this section). Details of the most significant actions we face are described more fully in 
+Note 20—Legal Matters
+ to our consolidated financial statements included in 
+Item 8—Financial Statements and Supplementary Data
+ of this report. These actions are inherently uncertain, expensive, and disruptive to our operations. In the event we are found liable in any material action, particularly in a large class action lawsuit, such as one involving an antitrust claim entitling the plaintiff to treble damages, or we incur liability arising from a government investigation, we may be required to pay significant awards, settlements, or fines. In addition, settlement terms, judgments, or pressures resulting from actions may harm our business by requiring us to modify, among other things, the default interchange reimbursement rates we set, the Visa operating rules or the way in which we enforce those rules, our fees or pricing, or the way we do business. These actions or their outcomes may also influence regulators, investigators, governments, or civil litigants in the same or other jurisdictions, which may lead to additional actions against Visa. Finally, we are required by some of our commercial agreements to indemnify other entities for litigation brought against them, even if Visa is not a defendant.
+
+ 22
+
+Table of Contents
+
+For certain actions like those that are U.S. covered litigation or VE territory covered litigation, as described in 
+Note 5—U.S. and Europe Retrospective Responsibility Plans
+ and 
+Note 20—Legal Matters
+ to our consolidated financial statements included in 
+Item 8—Financial Statements and Supplementary Data
+ of this report, we have certain financial protections pursuant to the respective retrospective responsibility plans. The two retrospective responsibility plans are different in the protections they provide and the mechanisms by which we are protected. The failure of one or both of the retrospective responsibility plans to adequately insulate us from the impact of such settlements, judgments, losses, or liabilities could materially harm our financial condition or cash flows, or even cause us to become insolvent.
+
+Business Risks
+
+We face intense competition in our industry
+. 
+
+The global payments space is intensely competitive. As technology evolves, new competitors or methods of payment emerge, and existing clients and competitors assume different roles. Our products compete with cash, checks, electronic funds, virtual currency payments, global or multi-regional networks, other domestic and closed-loop payments systems, and alternative payment providers primarily focused on enabling payments through ecommerce and mobile channels. As the global payments space becomes more complex, we face increasing competition from our clients, other emerging payment providers such as fintechs, and other digital payments and technology companies that have developed payments systems enabled through online activity in ecommerce and mobile channels. 
+
+Our competitors may develop substantially better technology, have more widely adopted delivery channels or have greater financial resources. They may offer more effective, innovative or a wider range of programs, products, and services. They may use more effective advertising and marketing strategies that result in broader brand recognition, and greater issuance and merchant acceptance. They may also develop better security solutions or more favorable pricing arrangements. Moreover, even if we successfully adapt to technological change and the proliferation of alternative types of payment services by developing and offering our own services in these areas, such services may provide less favorable financial terms for us than we currently receive from VisaNet transactions, which could hurt our financial results and prospects.
+
+Certain of our competitors operate with different business models, have different cost structures, or participate in different market segments. Those business models may ultimately prove more successful or more adaptable to regulatory, technological, and other developments. In some cases, these competitors have the support of government mandates that prohibit, limit, or otherwise hinder our ability to compete for transactions within certain countries and regions. Some of our competitors, including American Express, Discover, private-label card networks, virtual currency providers, technology companies that enable the exchange of digital assets, and certain alternate payments systems like Alipay and WeChat Pay, operate closed-loop payments systems, with direct connections to both merchants and consumers. Government actions or initiatives such as the Dodd-Frank Act or the U.S. Federal Reserve’s FedNow initiatives may provide competitors with increased opportunities to derive competitive advantages from these business models, and may create new competitors, including in some cases the government itself. Similarly, regulation in Europe under PSD2 and the IFR may require us to open up access to, and allow participation in, our network to additional participants, and reduce the infrastructure investment and regulatory burden on competitors. We also run the risk of disintermediation due to factors such as emerging technologies, including mobile payments, alternate payment credentials, other ledger technologies or payment forms, and by virtue of increasing bilateral agreements between entities that prefer not to use our payments network for processing transactions. For example, merchants could process transactions directly with issuers, or processors could process transactions directly with issuers and acquirers.
+
+We expect the competitive landscape to continue to shift and evolve. For example:
+
+•
+
+competitors, clients, network participants, and others are developing or participating in alternate payment networks or products, such as mobile payment services, ecommerce payment services, P2P payment services, real-time and faster payment initiatives and payment services that permit ACH or direct debits from consumer checking accounts, that could reduce our role or otherwise disintermediate us from the transaction processing or the value-added services we provide to support such processing. Examples include initiatives from The Clearing House, an association consisting of large financial institutions that has developed its own faster payments system; Early Warning Services, which operates Zelle, a bank-offered alternative network that provides another platform for faster funds or real-time payments across a variety of payment types, including P2P, corporate and government disbursement, bill pay and deposit check transactions; and the Libra Association, which seeks to launch a new stablecoin crypto-currency (Libra Coin) and global blockchain-based payments network;
+
+ 23
+
+Table of Contents
+
+•
+
+similarly, many countries are developing or promoting domestic networks, switches and real-time payment systems. To the extent these governments mandate local banks and merchants to use and accept these systems for domestic transactions and/or prohibit international payment networks, like Visa, from participating on those systems, we could face the risk of our business being disintermediated in those countries. Furthermore, in some regions, such as Southeast Asia, under the auspices of the Association of Southeast Asian Nations (ASEAN), some countries are looking into cross-border connectivity of such domestic systems;
+
+•
+
+parties that process our transactions may try to minimize or eliminate our position in the payments value chain;
+
+•
+
+parties that access our payment credentials, tokens and technologies, including clients, technology solution providers or others might be able to migrate account holders and other clients to alternate payment methods or use our payment credentials, tokens and technologies to establish or help bolster alternate payment methods and platforms;
+
+•
+
+participants in the payments industry may merge, form joint ventures or enable or enter into other business combinations that strengthen their existing business propositions or create new, competing payment services; and
+
+•
+
+new or revised industry standards related to EMV Secure Remote Commerce, cloud-based payments, tokenization or other payments-related technologies set by organizations such as the International Organization for Standardization, American National Standards Institute, World Wide Web Consortium, European Card Standards Group, PCI Co and EMVCo may result in additional costs and expenses for Visa and its clients, or otherwise negatively impact the functionality and competitiveness of our products and services.
+
+As the competitive landscape is quickly evolving, we may not be able to foresee or respond sufficiently to emerging risks associated with new businesses, products, services and practices. We may be asked to adjust our local rules and practices, develop or customize certain aspects of our payment services, or agree to business arrangements that may be less protective of Visa’s proprietary technology and interests in order to compete and we may face increasing operational costs and risk of litigation concerning intellectual property. Our failure to compete effectively in light of any such developments could harm our business and prospects for future growth.
+
+Our revenues and profits are dependent on our client and merchant base, which may be costly to win, retain, and maintain
+. 
+
+Our financial institution clients and merchants can reassess their commitments to us at any time or develop their own competitive services. While we have certain contractual protections, our clients, including some of our largest clients, generally have flexibility to issue non-Visa products. Further, in certain circumstances, our financial institution clients may decide to terminate our contractual relationship on relatively short notice without paying significant early termination fees. Because a significant portion of our net revenues is concentrated among our largest clients, the loss of business from any one of these larger clients could harm our business, results of operations, and financial condition.
+
+In addition, we face intense competitive pressure on the prices we charge our financial institution clients. In order to stay competitive, we may need to adjust our pricing or offer incentives to our clients to increase payments volume, enter new market segments, adapt to regulatory changes, and expand their use and acceptance of Visa products and services. These include up-front cash payments, fee discounts, rebates, credits, performance-based incentives, marketing, and other support payments that impact our revenues and profitability. In addition, we offer incentives to certain merchants or acquirers to win routing preference in situations where other network functionality is enabled on our products and there is a choice of network routing options. Market pressures on pricing, incentives, fee discounts, and rebates could moderate our growth. If we are not able to implement cost containment and productivity initiatives in other areas of our business or increase our volumes in other ways to offset or absorb the financial impact of these incentives, fee discounts, and rebates, it may harm our net revenues and profits.
+
+In addition, it may be difficult or costly for us to acquire or conduct business with financial institutions or merchants that have longstanding exclusive, or nearly exclusive, relationships with our competitors. These financial institutions or merchants may be more successful and may grow more quickly than our existing clients or merchants. In addition, if there is a consolidation or acquisition of one or more of our largest clients or co-brand partners by a financial institution client or merchant with a strong relationship with one of our competitors, it could result in our business shifting to a competitor, which could put us at a competitive disadvantage and harm our business.
+
+ 24
+
+Table of Contents
+
+Merchants’ and processors’ continued push to lower acceptance costs and challenge industry practices could harm our business
+. 
+
+We rely in part on merchants and their relationships with our clients to maintain and expand the acceptance of Visa products. Certain large retail merchants have been exercising their influence in the global payments system in certain jurisdictions, such as the U.S., Canada and Europe, to attempt to lower their acceptance costs by lobbying for new legislation, seeking regulatory enforcement, filing lawsuits and in some cases, refusing to accept Visa products. If they are successful in their efforts, we may face increased compliance and litigation expenses and issuers may decrease their issuance of our products. For example, in the U.S., certain stakeholders have raised concerns regarding how payment security standards and rules may impact the cost of payment card acceptance. In addition to ongoing litigation related to the U.S. migration to EMV-capable cards and point-of-sale terminals, U.S. merchant-affiliated groups and processors have expressed concerns regarding the EMV certification process and some policymakers have concerns about the roles of industry bodies such as EMVCo and the Payment Card Industry Security Standards Council in the development of payment card standards. Additionally, some merchants and processors have advocated for changes to industry practices and Visa acceptance requirements at the point of sale, including the ability for merchants to accept only certain types of Visa products, to mandate only PIN authenticated transactions, to differentiate or steer among Visa product types issued by different financial institutions, and to impose surcharges on customers presenting Visa products as their form of payment. If successful, these efforts could adversely impact consumers’ usage of our products, lead to regulatory enforcement and/or litigation, increase our compliance and litigation expenses, and harm our business.
+
+We depend on relationships with financial institutions, acquirers, processors, merchants, and other third parties
+. 
+
+As noted above, our relationships with industry participants are complex and require us to balance the interests of multiple third parties. For instance, we depend significantly on relationships with our financial institution clients and on their relationships with account holders and merchants to support our programs and services, and thereby compete effectively in the marketplace. We engage in discussions with merchants, acquirers, and processors to provide incentives to promote routing preference and acceptance growth. We also engage in many payment card co-branding efforts with merchants, who receive incentives from us. As emerging participants such as fintechs enter the payments industry, we engage in discussions to address the role they may play in the ecosystem, whether as, for example, an issuer, merchant, or digital wallet provider. As these and other relationships become more prevalent and take on a greater importance to our business, our success will increasingly depend on our ability to sustain and grow these relationships. In addition, we depend on our clients and third parties, including vendors and suppliers, to process transactions properly, provide various services associated with our payments network on our behalf, and otherwise adhere to our operating rules. To the extent that such parties fail to perform or deliver adequate services, it may result in negative experiences for account holders or others when using their Visa-branded payment products, which could harm our business and reputation. 
+
+Our business could be harmed if we are not able to maintain and enhance our brand, if events occur that have the potential to damage our brand or reputation, or if we experience brand disintermediation
+.
+
+Our brand is globally recognized and is a key asset of our business. We believe that our clients and account holders associate our brand with acceptance, security, convenience, speed, and reliability. Our success depends in large part on our ability to maintain the value of our brand and reputation of our products and services in the payments ecosystem, elevate the brand through new and existing products, services and partnerships, and uphold our corporate reputation. The popularity of products that we have developed in partnership with technology companies and financial institutions may have the potential to cause consumer confusion or brand disintermediation at the point-of-sale and decrease the value of our brand. Our brand reputation may be negatively impacted by a number of factors, including authorization, clearing and settlement service disruptions; data security breaches; compliance failures by Visa, including our employees, agents, clients, partners or suppliers; negative perception of our industry, the industries of our clients or Visa-accepting merchants; ill-perceived actions by clients, partners or other third parties, such as sponsorship or co-brand partners; and fraudulent, risky, controversial or illegal activities using our payment products. If we are unable to maintain our reputation, the value of our brand may be impaired, which could harm our relationships with clients, account holders, and the public, as well as impact our business.
+
+ 25
+
+Table of Contents
+
+Global economic, political, market, and social events or conditions may harm our business
+. 
+
+Our revenues are dependent on the volume and number of payment transactions made by consumers, governments, and businesses whose spending patterns may be affected by prevailing economic conditions. In addition, more than half of our net revenues are earned outside the U.S. International cross-border transaction revenues represent a significant part of our revenue and are an important part of our growth strategy. Therefore, adverse macroeconomic conditions, including recessions, inflation, high unemployment, currency fluctuations, actual or anticipated large-scale defaults or failures, or slowdown of global trade could decrease consumer and corporate confidence and reduce consumer, government, and corporate spending which have a direct impact on our revenues. In addition, outbreaks of illnesses, pandemics, or other local or global health issues, political uncertainties, international hostilities, armed conflict, or unrest, and natural disasters could impact our operations, our clients, our activities in a particular location, and cross-border travel and spend. Geopolitical trends towards nationalism, protectionism, and restrictive visa requirements, as well as continued activity and uncertainty around economic sanctions could limit the expansion of our business in those regions. The current trade environment reduces the likelihood of having our Bank Card Clearing Institution application in China approved. In addition, any decline in cross-border travel and spend could impact the number of cross-border transactions we process and our currency exchange activities, which in turn would reduce our international transaction revenues.
+
+A decline in economic conditions could impact our clients as well, and their decisions could reduce the number of cards, accounts, and credit lines of their account holders, which ultimately impact our revenues. They may also implement cost-reduction initiatives that reduce or eliminate marketing budgets, and decrease spending on optional or enhanced, value-added services from us.
+
+Any events or conditions that impair the functioning of the financial markets, tighten the credit market, or lead to a downgrade of our current credit rating could increase our future borrowing costs and impair our ability to access the capital and credit markets on favorable terms, which could affect our liquidity and capital resources, or significantly increase our cost of capital. If clients default on their settlement obligations, it may also impact our liquidity. Any of these events could adversely affect our volumes and revenue.
+
+Our indemnification obligation to fund settlement losses of our clients exposes us to significant risk of loss and may reduce our liquidity
+. 
+
+We indemnify issuers and acquirers for settlement losses they may suffer due to the failure of another issuer or acquirer to honor its settlement obligations in accordance with the Visa operating rules. In certain instances, we may indemnify issuers or acquirers in situations in which a transaction is not processed by our system. This indemnification creates settlement risk for us due to the timing difference between the date of a payment transaction and the date of subsequent settlement. Our indemnification exposure is generally limited to the amount of unsettled Visa payment transactions at any point in time and any subsequent amounts that may fall due relating to adjustments for previously processed transactions. Concurrent settlement failures involving more than one of our largest clients, several of our smaller clients, or systemic operational failures could negatively impact our financial position. Even if we have sufficient liquidity to cover a settlement failure, we may be unable to recover the amount of such payment. This could expose us to significant losses and harm our business. See 
+Note 11—Settlement Guarantee Management
+ to our consolidated financial statements included in 
+Item 8—Financial Statements and Supplementary Data
+ of this report.
+
+The United Kingdom’s withdrawal from the European Union could harm our business and financial results
+. 
+
+In June 2016, voters in the United Kingdom approved the withdrawal of the United Kingdom from the European Union (commonly referred to as “Brexit”). In March 2017, the UK government initiated the exit process under Article 50 of the Treaty of the European Union, commencing a period of up to two years for the United Kingdom and the other EU member states to negotiate the terms of the withdrawal, which was subsequently postponed until January 31, 2020. Uncertainty over the terms of the United Kingdom’s departure from the European Union could cause political and economic uncertainty in the United Kingdom and the rest of Europe, which could harm our business and financial results.
+
+ 26
+
+Table of Contents
+
+Brexit could lead to legal uncertainty and potentially divergent national laws and regulations in the United Kingdom and European Union. We, as well as our clients who have significant operations in the United Kingdom, may incur additional costs and expenses as we adapt to potentially divergent regulatory frameworks from the rest of the European Union and as a result, our Visa operating rules and contractual commitments in the United Kingdom and the rest of the European Union may be impacted. In addition, applications may need to be made for regulatory authorization and permission in separate EU member states following Brexit. These factors may impact our ability to operate and process data in the European Union and United Kingdom seamlessly. This and other Brexit-related issues may require changes to our legal entity structure and/or operations in the United Kingdom and the European Union. Any of these effects of Brexit, among others, could harm our business and financial results.
+
+Technology and Cybersecurity Risks
+
+Failure to anticipate, adapt to or keep pace with new technologies in the payments industry could harm our business and impact future growth
+. 
+
+The global payments industry is undergoing significant and rapid technological change, including mobile and other proximity payment technologies, ecommerce, tokenization, cryptocurrencies, and new authentication technologies such as biometrics, distributed ledger and blockchain technologies. As a result, we expect new services and technologies to continue to emerge and evolve. In addition to our own initiatives and innovations, we work closely with third parties, including potential competitors, for the development of and access to new technologies. It is difficult, however, to predict which technological developments or innovations will become widely adopted and how those technologies may be regulated. Moreover, some of the new technologies could be subject to intellectual property-related lawsuits or claims, potentially impacting our development efforts and/or requiring us to obtain licenses. If we or our partners fail to adapt and keep pace with new technologies in the payments space in a timely manner, it could harm our ability to compete, decrease the value of our products and services to our clients, impact our intellectual property or licensing rights, harm our business and impact our future growth.
+
+A disruption, failure or breach of our networks or systems, including as a result of cyber-attacks, could harm our business
+. 
+
+Our cybersecurity and processing systems, as well as those of financial institutions, merchants, and third-party service providers, have experienced in limited instances and may continue to experience errors, interruptions, delays or damage from a number of causes, including power outages, hardware, software and network failures, computer viruses, malware or other destructive software, internal design, manual or usage errors, cyber-attacks, terrorism, workplace violence or wrongdoing, catastrophic events, natural disasters and severe weather conditions. 
+
+Furthermore, our visibility and role in the global payments industry may also put our company at a greater risk of being targeted by hackers. In the normal course of our business, we have been the target of malicious cyber-attack attempts. We have been and may continue to be impacted by attacks and data security breaches of financial institutions, merchants, or third-party processors. We are also aware of instances where nation states have sponsored attacks against some of our financial institution clients, and other instances where merchants and issuers have encountered substantial data security breaches affecting their customers, some of whom were Visa account holders. Such attacks and breaches have resulted, and may continue to result in, fraudulent activity and ultimately, financial losses to Visa’s clients, and it is difficult to predict the direct or indirect impact of future attacks or breaches to our business. 
+
+Numerous and evolving cybersecurity threats, including advanced and persistent cyber-attacks, phishing and social engineering schemes, particularly on our internet applications, could compromise the confidentiality, availability, and integrity of data in our systems or the systems of our third-party service providers. Because the techniques used to obtain unauthorized access, or to disable or degrade systems change frequently, have become increasingly more complex and sophisticated, and may be difficult to detect for periods of time, we may not anticipate these acts or respond adequately or timely. The security measures and procedures we, our financial institution and merchant clients, other merchants and third-party service providers in the payments ecosystem have in place to protect sensitive consumer data and other information may not be successful or sufficient to counter all data security breaches, cyber-attacks, or system failures. In some cases, the mitigation efforts may be dependent on third parties who may not deliver to the required contractual standards or whose hardware, software or network services may be subject to error, defect, delay, or outage. Although we devote significant resources to our cybersecurity and supplier risk management programs and have implemented security measures to protect our systems and data, and to prevent, detect and respond to data security incidents, there can be no assurance that our efforts will prevent these threats.
+
+ 27
+
+Table of Contents
+
+These events could significantly disrupt our operations; impact our clients and consumers; damage our reputation and brand; result in litigation or claims, violations of applicable privacy and other laws, and regulatory scrutiny, investigations, actions, fines or penalties; result in damages or changes to our business practices; decrease the overall use and acceptance of our products; decrease our volume, revenues and future growth prospects; and be costly, time consuming and difficult to remedy. In the event of damage or disruption to our business due to these occurrences, we may not be able to successfully and quickly recover all of our critical business functions, assets, and data through our business continuity program. Furthermore, while we maintain insurance, our coverage may not sufficiently cover all types of losses or claims that may arise.
+
+Structural and Organizational Risks
+
+We may not achieve the anticipated benefits of our acquisitions or strategic investments, and may face risks and uncertainties as a result
+. 
+
+As part of our overall business strategy, we make acquisitions and strategic investments. We may not achieve the anticipated benefits of our current and future acquisitions and strategic investments and they may involve significant risks and uncertainties, including:
+
+•
+
+disruption to our ongoing business, including diversion of resources and management’s attention from our existing business
+
+•
+
+greater than expected investment of resources or operating expenses
+
+•
+
+failure to develop the acquired business adequately
+
+•
+
+the data security, cybersecurity and operational resilience posture of our acquired companies, or companies we invest in or partner with, may not be adequate
+
+•
+
+difficulty, expense or failure of implementing controls, procedures and policies at the acquired company
+
+•
+
+challenges of integrating new employees, business cultures, business systems and technologies
+
+•
+
+failure to retain employees, clients or partners of the acquired business
+
+•
+
+in the case of foreign acquisitions, risks related to the integration of operations across different cultures and languages
+
+•
+
+the economic, political and regulatory risks associated with operating in new businesses, regions or countries. For more information on regulatory risks, please see 
+Item 1—Business—Government Regulations
+ and
+ Item 1A—Risk Factors—Regulatory Risks
+ above
+
+•
+
+discovery of unidentified issues and related liabilities after the acquisition or investment was made
+
+•
+
+failure to mitigate the deficiencies and liabilities of the acquired business
+
+•
+
+dilutive issuance of equity securities, if new securities are issued
+
+•
+
+the incurrence of debt
+
+•
+
+negative impact on our financial position and/or statement of operations
+
+•
+
+anticipated benefits, synergies or value of the investment or acquisition not materializing
+
+We may be unable to attract, hire, and retain a highly qualified and diverse workforce, including key management
+. 
+
+The talents and efforts of our employees, particularly our key management, are vital to our success. Our management team has significant industry experience and would be difficult to replace. We may be unable to retain them or to attract other highly qualified employees, particularly if we do not offer employment terms that are competitive with the rest of the labor market. Ongoing changes in laws and policies regarding immigration and work authorizations have made it more difficult for employees to work in, or transfer among, jurisdictions in which we have operations and could continue to impair our ability to attract and retain qualified employees. Failure to attract, hire, develop, motivate, and retain highly qualified and diverse employee talent, to develop and implement an adequate succession plan for the management team, or to maintain a corporate culture that fosters integrity, innovation, and collaboration could disrupt our operations and adversely affect our business and our future success.
+
+ 28
+
+Table of Contents
+
+The conversions of our class B and class C common stock or series B and series C preferred stock into shares of class A common stock would result in voting dilution to, and could impact the market price of, our existing class A common stock
+. 
+
+The market price of our class A common stock could fall as a result of many factors. Under our U.S. retrospective responsibility plan, upon final resolution of our U.S. covered litigation, all class B common stock will become convertible into class A common stock. Our series B and series C preferred stock will become convertible into class A common stock in stages based on developments in current and potential litigation and will become fully convertible no later than 2028 (subject to a holdback to cover any pending claims). Conversion of our class B and class C common stock into class A common stock, or our series B and series C preferred stock into class A common stock, would increase the amount of class A common stock outstanding, which could adversely affect the market price of our existing class A common stock and would dilute the voting power of existing class A common stockholders.
+
+Holders of our class B and C common stock and series B and series C preferred stock may have different interests than our class A common stockholders concerning certain significant transactions
+. 
+
+Although their voting rights are limited, holders of our class B and C common stock and, in certain specified circumstances, holders of our series B and series C preferred stock, can vote on certain significant transactions. With respect to our class B and C common stock, these transactions include a proposed consolidation or merger, a decision to exit our core payments business and any other vote required under Delaware law. With respect to our series B and series C preferred stock, voting rights are limited to proposed consolidations or mergers in which holders of the series B and series C preferred stock would either (i) receive shares of stock or other equity securities with preferences, rights and privileges that are not substantially identical to the preferences, rights and privileges of the applicable series of preferred stock or (ii) receive securities, cash or other property that is different from what our class A common stockholders would receive. Because the holders of classes of capital stock other than class A common stock are our current and former financial institution clients, they may have interests that diverge from our class A common stockholders. As a result, the holders of these classes of capital stock may not have the same incentive to approve a corporate action that may be favorable to the holders of class A common stock, and their interests may otherwise conflict with interests of our class A common stockholders.
+
+Delaware law, provisions in our certificate of incorporation and bylaws, and our capital structure could make a merger, takeover attempt, or change in control difficult
+. 
+
+Provisions contained in our certificate of incorporation and bylaws and our capital structure could delay or prevent a merger, takeover attempt, or change in control that our stockholders may consider favorable. For example, except for limited exceptions:
+
+•
+
+no person may beneficially own more than 15% of our class A common stock (or 15% of our total outstanding common stock on an as-converted basis), unless our board of directors approves the acquisition of such shares in advance
+
+•
+
+no competitor or an affiliate of a competitor may hold more than 5% of our total outstanding common stock on an as-converted basis
+
+•
+
+the affirmative votes of the class B and C common stock and series B and series C preferred stock are required for certain types of consolidations or mergers
+
+•
+
+our stockholders may only take action during a stockholders’ meeting and may not act by written consent
+
+•
+
+only the board of directors, Chairman, or CEO may call a special meeting of stockholders
+
+ 29
+
+Table of Contents

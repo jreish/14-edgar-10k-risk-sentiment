@@ -1,0 +1,959 @@
+This Form
+10-K, as well as other reports filed by us under the Securities Exchange Act of 1934 or registration statements filed by us under the Securities Act of 1933, contain statements (including statements in Management’s Discussion and Analysis
+included under Item 7) that are considered “forward-looking statements” within the meaning of U.S. securities laws, including statements about industry trends, management’s expectations about our financial performance, market
+growth, acquisitions and divestitures, new technologies, services and opportunities and earnings, management’s confidence in our strategies and other matters that do not relate strictly to historical facts. Forward-looking statements are often
+identified by such forward-looking terminology as “expect,” “look,” “believe,” “anticipate,” “estimate,” “forecast,” “seek,” “may,” “will,” “trend,”
+“target” and “goal,” or similar statements or variations of such terms. 
+
+Forward-looking statements are
+subject to various risks and uncertainties, which change over time, are based on management’s expectations and assumptions at the time the statements are made, and are not guarantees of future results. Management’s expectations and
+assumptions, and the continued validity of the forward-looking statements, are subject to change due to a broad range of factors affecting the national and global economies, the equity, debt, currency and other financial markets, as well as factors
+specific to State Street and its subsidiaries, including State Street Bank. Factors that could cause changes in the expectations or assumptions on which forward-looking statements are based include, but are not limited to: 
+
+•
+
+ the manner in which the Federal Reserve implements the Dodd-Frank Act, including any changes to our minimum regulatory capital ratios;
+
+•
+
+ changes to our business model, or how we provide services, required by our compliance with the Dodd-Frank Act, and similar non-U.S. rules and
+regulations; 
+
+•
+
+ required regulatory capital ratios under Basel II and Basel III, in each case as fully implemented by State Street and State Street Bank (and in the
+case of Basel III, when finally adopted by the Federal Reserve), which may result in the need for substantial additional capital or increased levels of liquidity in the future; 
+
+•
+
+ changes in law or regulation that may adversely affect our, our clients’ or our counterparties’ business activities and the products or
+services that we sell, including additional or increased taxes or assessments thereon, capital adequacy requirements and changes that expose us to risks related to compliance; 
+
+•
+
+ financial market disruptions and the economic recession, whether in the U.S. or internationally; 
+
+•
+
+ the liquidity of the U.S. and international securities markets, particularly the markets for fixed-income securities, and the liquidity requirements of
+our clients; 
+
+•
+
+ increases in the volatility of, or declines in the levels of, our net interest revenue, changes in the composition of the assets on our consolidated
+balance sheet and the possibility that we may be required to change the manner in which we fund those assets; 
+
+•
+
+ the financial strength and continuing viability of the counterparties with which we or our clients do business and to which we have investment, credit
+or financial exposure; 
+
+•
+
+ the credit quality, credit agency ratings, and fair values of the securities in our investment securities portfolio, a deterioration or downgrade of
+which could lead to other-than-temporary impairment of the respective securities and the recognition of an impairment loss in our consolidated statement of income; 
+
+•
+
+ delays or difficulties in the execution of our previously announced global multi-year program designed to enhance our operating model, which could lead
+to changes in our estimates of the charges, expenses or savings associated with the planned program, resulting in increased volatility of our earnings; 
+
+7 
+
+Table of Contents
+
+•
+
+ the maintenance of credit agency ratings for our debt and depository obligations as well as the level of credibility of credit agency ratings;
+
+•
+
+ the risks that acquired businesses will not be integrated successfully, or that the integration will take longer than anticipated, that expected
+synergies will not be achieved or unexpected disynergies will be experienced, that client and deposit retention goals will not be met, that other regulatory or operational challenges will be experienced and that disruptions from the transaction will
+harm relationships with clients, employees or regulators; 
+
+•
+
+ the ability to complete acquisitions, divestitures and joint ventures, including the ability to obtain regulatory approvals, the ability to arrange
+financing as required and the ability to satisfy closing conditions; 
+
+•
+
+ the performance of and demand for the products and services we offer, including the level and timing of redemptions and withdrawals from our collateral
+pools and other collective investment products; 
+
+•
+
+ the possibility of our clients incurring substantial losses in investment pools where we act as agent, and the possibility of significant reductions in
+the valuation of assets; 
+
+•
+
+ our ability to attract deposits and other low-cost, short-term funding; 
+
+•
+
+ potential changes to the competitive environment, including changes due to the effects of consolidation, and perceptions of State Street as a suitable
+service provider or counterparty; 
+
+•
+
+ the level and volatility of interest rates and the performance and volatility of securities, credit, currency and other markets in the U.S. and
+internationally; 
+
+•
+
+ our ability to measure the fair value of the investment securities on our consolidated balance sheet; 
+
+•
+
+ the results of litigation, government investigations and similar disputes or proceedings; 
+
+•
+
+ our ability to control operating risks, information technology systems risks and outsourcing risks, and our ability to protect our intellectual
+property rights, the possibility of errors in the quantitative models we use to manage our business and the possibility that our controls will prove insufficient, fail or be circumvented; 
+
+•
+
+ adverse publicity or other reputational harm; 
+
+•
+
+ our ability to grow revenue, attract and/or retain and compensate highly skilled people, control expenses and attract the capital necessary to achieve
+our business goals and comply with regulatory requirements; 
+
+•
+
+ the potential for new products and services to impose additional costs on us and expose us to increased operational risk; 
+
+•
+
+ changes in accounting standards and practices; and 
+
+•
+
+ changes in tax legislation and in the interpretation of existing tax laws by U.S. and non-U.S. tax authorities that affect the amount of taxes due.
+
+Therefore, actual outcomes and results may differ materially from what is expressed in our forward-looking
+statements and from our historical financial results due to the factors discussed in this section and elsewhere in this Form 10-K or disclosed in our other SEC filings. Forward-looking statements should not be relied upon as representing our
+expectations or beliefs as of any date subsequent to the time this Form 10-K is filed with the SEC. We undertake no obligation to revise the forward-looking statements contained in this Form 10-K to reflect events after the time it is filed with the
+SEC. The factors discussed above are not intended to be a complete summary of all risks and uncertainties that may affect our businesses. We cannot anticipate all developments that may adversely affect our consolidated results of operations and
+financial condition. 
+
+Forward-looking statements should not be viewed as predictions, and should not be the primary basis upon
+which investors evaluate State Street. Any investor in State Street should consider all risks and uncertainties 
+
+8 
+
+Table of Contents
+
+disclosed in our SEC filings, including our filings under the Securities Exchange Act of 1934, in particular our reports on Forms 10-K, 10-Q and 8-K, or registration statements filed under the
+Securities Act of 1933, all of which are accessible on the SEC’s website at www.sec.gov or on our website at 
+www.statestreet.com. 
+
+The following is a discussion of risk factors applicable to State Street. 
+
+The failure or
+instability of any of our significant counterparties, many of whom are major financial institutions, and our assumption of significant credit and counterparty risk, could expose us to loss. 
+
+The financial markets are characterized by extensive interdependencies among financial institutions, including banks, broker/dealers,
+collective investment funds and insurance companies. As a result of these interdependencies, we and many of our clients have concentrated counterparty exposure to other financial institutions, particularly large and complex institutions. Although we
+have procedures for monitoring both individual and aggregate counterparty risk, like other large financial institutions, the nature of our business is such that large individual and aggregate counterparty exposure is inherent in our business as our
+focus is on large institutional investors and their businesses. From time to time, we assume concentrated credit risk at the individual obligor, counterparty or guarantor level. Such concentrations may be material and can from time to time exceed
+10% of our consolidated total shareholders’ equity. Our material counterparty exposures change daily, and the counterparties to which our risk exposure exceeds 10% of our consolidated total shareholders’ equity are also variable during any
+reported period; however, our largest exposures tend to be to other financial institutions. Further, exposure to such counterparties generally is the result of our role as agent to numerous entities affiliated with a single counterparty. These
+affiliated entities and our risk exposures to them also vary. 
+
+Concentration of counterparty exposure presents significant
+risks to us and to our clients because the failure or perceived weakness of any of our counterparties (or in some cases of our clients’ counterparties) has the potential to expose us to risk of loss. 
+
+The instability of the financial markets since 2007 has resulted in many financial institutions becoming significantly less creditworthy,
+and as a result we may be exposed to increased counterparty risks, both in our role as principal and in our capacity as agent for our clients. Changes in market perception of the financial strength of particular financial institutions can occur
+rapidly, are often based upon a variety of factors and are difficult to predict. In addition, as U.S. and non-U.S. governments have addressed the financial crisis in an evolving manner, the criteria for and manner of governmental support of
+financial institutions and other economically important sectors remain uncertain. If a significant individual counterparty defaults on an obligation to us, we could incur financial losses that materially adversely affect our businesses and our
+consolidated results of operations and financial condition. A counterparty default can also have adverse effects on, and financially weaken, other of our counterparties, which could also materially adversely affect our businesses and our
+consolidated results of operations and financial condition. 
+
+The degree of client demand for short-term credit also tends to
+increase during periods of market turbulence, exposing us to further counterparty-related risks. For example, investors in collective investment vehicles for which we act as custodian may engage in significant redemption activity due to adverse
+market or economic news that was not anticipated by the fund’s manager. Our relationship with our clients, the nature of the settlement process and our systems may result in the extension of short-term credit in such circumstances. For some
+types of clients, we provide credit to allow them to leverage their portfolios, which may expose us to potential loss if the client experiences credit difficulties. In addition to our exposure to financial institutions, we are from time to time
+exposed to concentrated credit risk at the industry or country level, potentially exposing us to a single market or political event or a correlated set of events. We are also generally not able to net exposures across counterparties that are
+affiliated entities and may not be able in all circumstances to net exposures to the same legal entity across multiple products. As a consequence, we may incur a loss in relation to one entity or product even though our exposure to one of its
+affiliates or across product types is over-collateralized. Moreover, not all of our counterparty exposure is secured and, when our exposure is secured, the realizable market value of the collateral may have declined by the time we exercise rights
+against that collateral. This risk may be particularly acute if we are required to sell the collateral into an illiquid or temporarily impaired market. 
+
+9 
+
+Table of Contents
+
+In addition, our clients often purchase securities or other financial instruments from a
+financial counterparty, including broker/dealers, under repurchase arrangements, frequently as a method of reinvesting the cash collateral they receive from lending their securities. Under these arrangements, the counterparty is obligated to
+repurchase these securities or financial instruments from the client at the same price at some point in the future. The anticipated value of the collateral is intended to exceed the counterparty’s repayment obligation. In many cases, we agree
+to indemnify our clients from any loss that would arise upon a default by the counterparty if the proceeds from the disposition of the securities or other financial assets are less than the amount of the repayment obligation by the client’s
+counterparty. In those instances, we, rather than our client, are exposed to the risks associated with counterparty default and collateral value. 
+
+We also engage in certain off-balance sheet activities that involve risks. For example, we provide benefit responsive contracts, known as wraps, to defined contribution plans that offer a stable value
+option to their participants. During the financial crisis, the book value of obligations under many of these contracts exceeded the market value of the underlying portfolio holdings. Concerns regarding the portfolio of investments protected by such
+contracts, or regarding the investment manager overseeing such an investment option, may result in redemption demands from stable value products covered by benefit responsive contracts at a time when the portfolio’s market value is less than
+its book value, potentially exposing us to risk of loss. Similarly, we provide credit facilities in connection with the remarketing of municipal obligations, potentially exposing us to credit exposure to the municipalities issuing such bonds and to
+increased liquidity demands. In the current economic environment, where municipal credits are subject to increased investor concern, the risks associated with such businesses increase. Further, our off-balance sheet activities also include
+indemnified securities financing obligations, where we indemnify our clients against losses they incur in connection with the failure of borrowers under our program to return securities on loan. Finally, certain of our clients reinvest cash
+collateral in repurchase arrangements, and we may indemnify such clients against counterparty default. 
+
+Although our overall
+business is subject to these interdependencies, several of our business units are particularly sensitive to them, including our Global Treasury group, our currency and other trading activities, our securities lending business and our investment
+management business. Given the limited number of strong counterparties in the current market, we are not able to mitigate all of our and our clients’ counterparty credit risk. The current consolidation of financial service firms that began in
+2008, and the failures of other financial institutions, have increased the concentration of our counterparty risk. 
+
+Our business
+involves significant European operations, and disruptions in European economies could have a material adverse effect on our operations or financial performance. 
+
+The financial markets remain concerned about the ability of certain European countries, particularly Greece, Ireland and Portugal, but also others such as Spain and Italy, to finance their deficits and
+service growing debt burdens amidst difficult economic conditions. This loss of confidence has led to rescue measures for Greece and Ireland by Euro-zone countries and the International Monetary Fund. The actions required to be taken by those
+countries as a condition to rescue packages, and by other countries to mitigate similar developments in their economies, have resulted in increased political discord within and among Euro-zone countries. The interdependencies among European
+economies and financial institutions have also exacerbated concern regarding the stability of European financial markets generally and certain institutions in particular. Given the scope of our European operations, clients and counterparties,
+persistent disruptions in the European financial markets, the attempt of a country to abandon the Euro, the failure of a significant European financial institution, even if not an immediate counterparty to us, or persistent weakness in the Euro,
+could have a material adverse impact on our operations or financial performance. 
+
+Our investment portfolio and financial condition could
+be adversely affected by changes in various interest, market and credit risks. 
+
+Our investment portfolio represented
+approximately 59% of our consolidated total assets as of December 31, 2010, and the interest revenue associated with our investment portfolio represented approximately 31% of our consolidated total gross revenue for the year ended
+December 31, 2010. As such, our consolidated 
+
+10 
+
+Table of Contents
+
+results of operations and financial condition are materially exposed to the risks associated with our investment portfolio, including, without limitation, changes in interest rates, credit
+spreads, credit performance, credit ratings, access to liquidity, mark-to-market valuations and our ability to reinvest repayments of principal with respect to portfolio securities. Relative to many other major financial institutions, investment
+securities represent a greater percentage of our consolidated balance sheet and commercial loans represent a smaller percentage. Our investment portfolio continues to have significant concentrations in certain classes of securities, including
+non-agency residential mortgage-backed securities, commercial mortgage-backed securities and other asset-backed securities and securities with concentrated exposure to consumers. These classes and types of securities experienced significant
+liquidity, valuation and credit quality deterioration during the financial disruption that began in mid-2007. We also have material holdings of non-U.S. mortgage-backed and asset-backed securities with exposures to European countries whose sovereign
+debt markets have, to varying degrees, been under stress over the past year and may continue to experience stress in the future. For further information, see the risk factor above titled “Our business involves significant European operations,
+and disruptions in European economies could have a material adverse effect on our operations or financial performance.” 
+
+Further, we hold a portfolio of state and municipal bonds; in view of the budget deficits that most states and many municipalities are
+currently incurring due to the continued depressed economic environment, the risks associated with this portfolio have increased. If market conditions similar to those experienced in 2007 and 2008 were to return, our portfolio could experience a
+decline in liquidity and market value, regardless of our credit view of our portfolio holdings. For example, we recorded significant non-credit losses in connection with the consolidation of our off-balance sheet asset-backed commercial paper
+conduits in 2009 and the repositioning of our investment portfolio in 2010 with respect to these asset classes. In addition, deterioration in the credit quality of our portfolio holdings could result in other-than-temporary impairment. Our
+investment portfolio is further subject to changes in both domestic interest rates and foreign interest rates (primarily in Europe) and could be negatively impacted by rising interest rates. In addition, while the securities in our investment
+portfolio are primarily rated “AAA” or “AA,” if a material portion of our investment portfolio were to experience rating declines below investment grade, our capital ratios under the requirements of Basel II and Basel III could
+be adversely affected, which risk is greater with portfolios of investment securities than with loans or holdings of Treasury securities. 
+
+Our business activities expose us to liquidity and interest-rate risk. 
+
+In our business activities, we assume liquidity and interest-rate risk in our investment portfolio of longer-and intermediate-term assets,
+and our net interest revenue is affected by the levels of interest rates in global markets, changes in the relationship between short-and long-term interest rates, the direction and speed of interest-rate changes, and the asset and liability spreads
+relative to the currency and geographic mix of our interest-earning assets and interest-bearing liabilities. Our ability to anticipate these changes or to hedge the related on- and off-balance sheet exposures can significantly influence the success
+of our asset-and liability-management activities and the resulting level of our net interest revenue. The impact of changes in interest rates will depend on the relative durations of assets and liabilities as well as the currencies in which they are
+denominated. Sustained lower interest rates, a flat or inverted yield curve and narrow interest-rate spreads generally have a constraining effect on our net interest revenue. In particular, if short-term interest rates rise, our net interest revenue
+is likely to decline, and any such decline could be material. 
+
+In addition, we may be exposed to liquidity or other risks in
+managing asset pools for third parties that are funded on a short-term basis, or where the clients participating in these products have a right to the return of cash or assets on limited notice. These business activities include, among others,
+securities finance collateral pools, money market and other short-term investment funds and liquidity facilities utilized in connection with municipal bond programs. If clients demand a return of their cash or assets, particularly on limited notice,
+and our investment portfolio does not have the liquidity to support those demands, we could be forced to sell investment securities at unfavorable prices. 
+
+11 
+
+Table of Contents
+
+If we are unable to continuously attract deposits and other short-term funding, our financial
+condition, including our capital ratios, our consolidated results of operations and our business prospects could be harmed. 
+
+Liquidity management is critical to the management of our consolidated balance sheet and to our ability to service our client base. We generally use our sources of funds to: 
+
+•
+
+ extend credit to our clients in connection with our custody business; 
+
+•
+
+ meet demands for return of funds on deposit by clients; and 
+
+•
+
+ manage the pool of long- and intermediate-term assets that are included in investment securities on our consolidated balance sheet.
+
+Because the demand for credit by our clients is difficult to forecast and control, and may be at its peak at
+times of disruption in the securities markets, and because the average maturity of our investment portfolio is significantly longer than the contractual maturity of our client deposit base, we need to continuously attract, and are dependent upon,
+access to various sources of short-term funding. 
+
+In managing our liquidity, our primary source of short-term funding is client
+deposits, which are predominantly transaction-based deposits by institutional investors. Our ability to continue to attract these deposits, and other short-term funding sources such as certificates of deposit and commercial paper, is subject to
+variability based upon a number of factors, including volume and volatility in the global securities markets, the relative interest rates that we are prepared to pay for these deposits and the perception of safety of those deposits or short-term
+obligations relative to alternative short-term investments available to our clients, including the capital markets. For example, the contraction in the number of counterparties for which we have a favorable credit assessment as a result of ongoing
+market disruptions has made it difficult for us to invest our available liquidity, which has adversely affected the rate of return that we have earned on these assets, which could harm our ability to attract client deposits. 
+
+The availability and cost of credit in short-term markets is highly dependent upon the markets’ perception of our liquidity and
+creditworthiness. Our efforts to monitor and manage our liquidity risk may not be successful or sufficient to deal with dramatic or unanticipated changes in the global securities markets or other event-driven reductions in liquidity. In such events,
+our cost of funds may increase, thereby reducing our net interest revenue, or we may need to dispose of a portion of our investment portfolio, which, depending upon market conditions, could result in the realization of a loss in our consolidated
+statement of income. 
+
+The global recession and financial crisis that began in mid-2007 have adversely affected us and increased the
+uncertainty and unpredictability we face in managing our businesses. Continued or additional disruptions in the global economy or financial markets could further adversely affect our business and financial performance. 
+
+Our businesses have been significantly affected by global economic conditions and their impact on financial markets. Since mid-2007,
+global credit and other financial markets have suffered from substantial volatility, illiquidity and disruption as a result of the global recession and financial crisis. The resulting economic pressure and lack of confidence in the financial markets
+have adversely affected our business, as well as the businesses of our clients and significant counterparties. These events, and the potential for continuing or additional disruptions, have also affected overall confidence in financial institutions,
+have further exacerbated liquidity and pricing issues within the fixed-income markets, have increased the uncertainty and unpredictability we face in managing our businesses and have had an adverse effect on our consolidated results of operations
+and our financial condition. While global economies and financial markets have shown initial signs of stabilizing, the occurrence of additional disruptions in, or a worsening of, global markets or economic conditions could adversely affect our
+businesses and the financial services industry in general. 
+
+Market disruptions can adversely affect our revenue if the value of
+assets under custody, administration or management decline, while the costs of providing the related services remain constant due to the fixed nature of 
+
+12 
+
+Table of Contents
+
+such costs. These factors can reduce our asset-based fee revenue and could adversely affect our other transaction-based revenue, such as revenues from securities finance and foreign exchange
+activities, and the volume of transactions that we execute for or with our clients, but the costs of providing the related services would not similarly decline. Further, the degree of volatility in foreign exchange rates can affect our foreign
+exchange trading revenue. In general, increased currency volatility tends to increase our market risk but also our foreign exchange revenue. Conversely, periods of lower currency volatility tend to decrease market risk and our foreign exchange
+revenue. 
+
+In addition, as our business grows globally and as a greater percentage of our revenue is earned in currencies other
+than U.S. dollars, our exposure to foreign currency volatility could affect our levels of consolidated revenue, our expenses and our consolidated results of operations, as well as the value of our investment in our non-U.S. operations and our
+investment portfolio holdings. As our product offering within our Global Markets businesses expands, in part to seek to take advantage of perceived opportunities arising under various regulatory reforms and resulting market changes, our exposure to
+volatility in currencies and interest rates may increase, potentially resulting in greater revenue volatility in our trading businesses. We also may need to make additional investments to enhance our risk management capabilities to support these
+businesses, which may increase the operating expenses of such businesses or, if our risk management resources fail to keep pace with product expansion, result in increased risk of loss from our trading businesses. 
+
+We face extensive and changing government regulation, including changes to capital requirements under the Dodd-Frank Act, Basel II and Basel III,
+which may increase our costs and expose us to risks related to compliance. 
+
+Most of our businesses are subject to
+extensive regulation by multiple regulatory bodies, and many of the clients to which we provide services are themselves subject to a broad range of regulatory requirements. These regulations may affect the manner and terms of delivery of our
+services. As a financial institution with substantial international operations, we are subject to extensive regulatory and supervisory oversight, both in the U.S. and outside the U.S. The regulations affect, among other things, the scope of our
+activities and client services, our capital structure and our ability to fund the operations of our subsidiaries, our lending practices, our dividend policy, the manner in which we market our services and our interactions with foreign regulatory
+agencies and officials, for example, as a result of the Foreign Corrupt Practices Act. 
+
+The Dodd-Frank Act, which became law in
+July 2010, will have a significant impact on the regulatory structure of the financial markets and will impose additional costs on us. It also could adversely affect certain of our business operations and competitive position, or those of our
+clients. The Dodd-Frank Act, among other things, establishes a new Financial Stability Oversight Council to monitor systemic risk posed by financial institutions, restricts proprietary trading and private fund investment activities by banking
+institutions, creates a new framework for the regulation of derivatives, alters the regulatory capital treatment of trust preferred securities and other hybrid capital securities and revises the FDIC’s assessment base for deposit insurance.
+Provisions in the Dodd-Frank Act may also restrict the flexibility of financial institutions to compensate their employees. In addition, provisions in the Dodd-Frank Act may require changes to the existing Basel II capital rules or affect their
+interpretations by institutions or regulators, which could have an adverse effect on our ability to comply with Basel II regulations, our business operations, capital structure, capital ratios or financial performance. The final effects of the
+Dodd-Frank Act on our business will depend largely on the implementation of the Act by regulatory bodies and the exercise of discretion by these regulatory bodies. 
+
+In addition, rapid regulatory change is occurring internationally with respect to financial institutions, including, but not limited to, the implementation of Basel III and the Alternative Investment Fund
+Managers Directive and the potential adoption of the EU derivatives initiatives and revisions to the European collective investment fund, or UCITS, directive. Among current regulatory developments are proposed rules to enhance the responsibilities
+of custodians to their clients for asset losses. The Dodd-Frank Act and these other international regulatory changes could limit our ability to pursue certain business opportunities, increase our regulatory capital requirements and impose additional
+costs on us, and otherwise adversely affect our business operations and have other negative consequences, including a reduction of our credit ratings. Different countries may respond to the 
+
+13 
+
+Table of Contents
+
+market and economic environment in different and potentially conflicting manner, which could have the impact of increasing the cost of compliance for us. 
+
+New or modified regulations and related regulatory guidance, including under Basel III and the Dodd-Frank Act, may have unforeseen or
+unintended adverse effects on the financial services industry. The regulatory perspective, particularly that of the Federal Reserve Board, on regulatory capital requirements may affect our ability to make acquisitions, declare dividends or
+repurchase our common stock unless we can demonstrate, to the satisfaction of our regulators, that such actions would not adversely affect our regulatory capital position in the event of a severely stressed market environment. In addition, the
+implementation of certain of the proposals with regard to regulatory capital could disproportionately affect our regulatory capital position relative to that of our competitors. 
+
+If we do not comply with governmental regulations, we may be subject to fines, penalties, lawsuits or material restrictions on our
+businesses in the jurisdiction where the violation occurred, which may adversely affect our business operations and, in turn, our consolidated results of operations. Similarly, many of our clients are subject to significant regulatory requirements,
+and retain our services in order for us to assist them in complying with those legal requirements. Changes in these regulations can significantly affect the services that we are asked to provide, as well as our costs. In addition, adverse publicity
+and damage to our reputation arising from the failure or perceived failure to comply with legal, regulatory or contractual requirements could affect our ability to attract and retain clients. If we cause clients to fail to comply with these
+regulatory requirements, we may be liable to them for losses and expenses that they incur. In recent years, regulatory oversight and enforcement have increased substantially, imposing additional costs and increasing the potential risks associated
+with our operations. If this regulatory trend continues, it could adversely affect our operations and, in turn, our consolidated results of operations. 
+
+Our business may be adversely affected upon our implementation of the revised capital requirements under Basel II Capital Rules, Basel III and the Dodd-Frank Act or in the event our capital
+structure is determined to be insufficient as a result of mandated stress testing. 
+
+We are currently in the
+qualification period that is required to be completed prior to our full implementation of the Basel II capital rules. During the qualification period we must demonstrate that we comply with the Basel II requirements to the satisfaction of the
+Federal Reserve. During or subsequent to this qualification period, the Federal Reserve may determine that we are not in compliance with certain aspects of the regulation and may require us to take certain actions to come into compliance that could
+adversely affect our business operations, capital structure, capital ratios or financial performance. In addition, regulators could change the Basel II capital rules or their interpretations as they apply to State Street, potentially due to the
+rulemaking associated with certain provisions of the Dodd-Frank Act, which could adversely affect us and our ability to comply with Basel II. 
+
+Basel III, the Dodd-Frank Act and the regulatory rules to be adopted for the implementation of Basel III and the Dodd-Frank Act will result in an increase in the minimum levels of capital and liquidity
+that we will be required to maintain and changes in the manner in which our capital ratios are calculated. In addition, we are required by the Federal Reserve to conduct periodic stress testing of our business operations, and our capital structure
+and liquidity management are subject to periodic review and stress testing by the Federal Reserve, which is used by the Federal Reserve to evaluate the adequacy of our capital and the potential requirement to maintain capital levels in addition to
+regulatory minimums. Banking regulators have not yet issued final rules and guidance for our implementation of the revised capital and liquidity rules under Basel III and the Dodd-Frank Act. Consequently, we cannot determine at this time the
+alignment of our regulatory capital and our business operations with the regulatory capital requirements to be implemented. Our implementation of the new capital requirements may not be approved by the Federal Reserve and the Federal Reserve may
+impose capital requirements in excess of our expectations, and maintenance of high levels of liquidity may adversely affect our revenues. In the event our implementation of the new capital requirements under Basel III and the Dodd-Frank Act or our
+current capital structure are determined not to conform with current and future capital requirements, 
+
+14 
+
+Table of Contents
+
+our ability to deploy capital in the operation of our business or our ability to distribute capital to shareholders may be constrained and our business may be adversely affected. 
+
+Any downgrades in our credit ratings, or an actual or perceived reduction in our financial strength, could adversely affect our borrowing costs,
+capital costs and liquidity and cause reputational harm. 
+
+Various independent rating agencies publish credit ratings
+for our debt obligations based on their evaluation of a number of factors, some of which relate to our performance and other corporate developments, including financings, acquisitions and joint ventures, and some of which relate to general industry
+conditions. We anticipate that the rating agencies will review our ratings regularly based on our consolidated results of operations and developments in our businesses. Our credit ratings were downgraded by each of the principal rating agencies
+during the first quarter of 2009. A further downgrade or a significant reduction in our capital ratios might adversely affect our ability to access the capital markets or might increase our cost of capital. We cannot provide assurance that we will
+continue to maintain our current ratings. The current market environment and our exposure to other financial institution counterparties increases the risk that we may not maintain our current ratings. Downgrades in our credit ratings may adversely
+affect our borrowing costs, our capital costs and our ability to raise capital and, in turn, our liquidity. A failure to maintain an acceptable credit rating may also preclude us from being competitive in certain products, may be negatively
+perceived by our clients or counterparties or may have other adverse reputational effects. 
+
+Additionally, our counterparties,
+as well as our clients, rely upon our financial strength and stability and evaluate the risks of doing business with us. If we experience diminished financial strength or stability, actual or perceived, including the effects of market or regulatory
+developments, our announced or rumored business developments or consolidated results of operations, a decline in our stock price or a reduced credit rating, our counterparties may become less willing to enter into transactions, secured or unsecured,
+with us, our clients may reduce or place limits upon the level of services we provide them or seek other service providers and our prospective clients may select other service providers. The risk that we may be perceived as less creditworthy
+relative to other market participants is increased in the current market environment, where the consolidation of financial institutions, including major global financial institutions, is resulting in a smaller number of much larger counterparties
+and competitors. If our counterparties perceive us to be a less viable counterparty, our ability to enter into financial transactions on terms acceptable to us or our clients, on our or our clients’ behalf, will be materially compromised. If
+our clients reduce their deposits with us or select other service providers for all or a portion of the services we provide them, our revenues will decrease accordingly. 
+
+We may need to raise additional capital in the future, which may not be available to us or may only be available on unfavorable terms. 
+
+We may need to raise additional capital in order to maintain our credit ratings, in response to changes in regulatory capital rules or for
+other purposes, including to finance acquisitions. However, our ability to access the capital markets, if needed, will depend on a number of factors, including the state of the financial markets. In the event of rising interest rates, disruptions in
+financial markets, negative perception of our business and financial strength, or other factors that would increase our cost of borrowing, we cannot be sure of our ability to raise additional capital, if needed, on terms acceptable to us, which
+could adversely affect our business and ability to implement our business plan and strategic goals, including the financing of acquisitions. 
+
+Our businesses may be adversely affected by litigation. 
+
+From time to time, our clients, or the government on their behalf, may make claims and take legal action relating to, among other things, our performance of fiduciary or contractual responsibilities. In
+any such claims or actions, demands for substantial monetary damages may be asserted against us and may result in financial liability or an adverse effect on our reputation among investors or on client demand for our products and services. We may be
+unable to accurately estimate our exposure to litigation risk when we record balance sheet reserves for probable loss contingencies. As a result, any reserves we establish to cover any settlements or
+
+15 
+
+Table of Contents
+
+judgments may not be sufficient to cover our actual financial exposure, which may have a material impact on our consolidated results of operations or financial condition. 
+
+In the ordinary course of our business, we are also subject to various regulatory, governmental and law enforcement inquiries,
+investigations and subpoenas. These may be directed generally to participants in the businesses in which we are involved or may be specifically directed at us. In regulatory enforcement matters, claims for disgorgement, the imposition of penalties
+and the imposition of other remedial sanctions are possible. 
+
+In view of the inherent difficulty of predicting the outcome of
+legal actions and regulatory matters, we cannot provide assurance as to the outcome of any pending matter or, if determined adversely against us, the costs associated with any such matter, particularly where the claimant seeks very large or
+indeterminate damages or where the matter presents novel legal theories, involves a large number of parties or is at a preliminary stage. The resolution of certain pending legal actions or regulatory matters, if unfavorable, could have a material
+adverse effect on our consolidated results of operations for the period in which such actions or matters are resolved or a reserve is established. 
+
+We may incur losses, which could be material to our financial performance in the periods incurred, arising from bankruptcy-related claims by and against Lehman entities in the United States and the
+U.K. 
+
+We have claims against Lehman entities in bankruptcy proceedings in the U.S. and the U.K. We also have amounts
+that we owe to Lehman entities. These claims and amounts owed arise from the resolution of transactions that existed at the time the Lehman entities entered bankruptcy, including foreign exchange transactions, securities lending arrangements and
+repurchase agreements. In the aggregate, the amounts that we believe we owe Lehman entities, as reflected in our submissions in the bankruptcy proceedings, are less than our estimate of the realizable value of the claims we have asserted against
+Lehman entities. However, we may recognize gains and losses in different fiscal periods depending in part on the timing and sequence of the resolution of the claims by us and against us in the different proceedings. In addition, the process for
+resolving these claims and obligations is complex and may continue for some time. We do not know whether the bankruptcy courts and administrators will accept or challenge our claims; question positions we have taken as to our contractual rights and
+obligations; question any of the valuations or other calculations that we have used in preparing such claims; or seek amounts from us greater than those which we believe to be due. 
+
+For example, in connection with the resolution of our obligations pursuant to the repurchase agreements between our clients in the U.S.
+and a Lehman entity, we indemnified our clients against loss and assumed our clients’ rights with respect to collateral consisting of direct and indirect interests in commercial real estate loans. For purposes of our claim in the bankruptcy
+court, we valued this collateral at our estimate of its liquidation value following the Lehman bankruptcy; however, when we took possession of this collateral and recorded it in our consolidated balance sheet, we valued the collateral based on our
+estimate of its fair value in accordance with GAAP, which fair value was significantly greater than its liquidation value. This difference in valuation, among other factors, could result in the bankruptcy court assigning a lesser value to our claim
+or rejecting our claim entirely. 
+
+Similarly, certain of our clients had entered into securities lending arrangements and/or
+repurchase agreements with Lehman’s U.K. affiliate. In accordance with the terms of our lending program and repurchase agreement product, we have indemnified those clients against loss in connection with the resolution of these arrangements,
+and sold or taken possession of the related collateral, which included asset-backed securities. For purposes of the resolution of securities lending arrangements and repurchase agreements in the U.K. in connection with the bankruptcy proceedings, we
+valued the asset-backed securities at their assumed liquidation values, in each case reflecting the absence of an active trading market for these securities following the bankruptcy of Lehman. We subsequently recorded these assets in our
+consolidated balance sheet at a significantly greater value, based on relevant market conditions and our assessment of their fair value in accordance with GAAP at that time. 
+
+As a result of these valuation decisions, we determined that there was a shortfall in the collateral supporting repurchase agreements and applied excess collateral supporting Lehman’s obligations
+under securities lending 
+
+16 
+
+Table of Contents
+
+arrangements against Lehman’s obligations under the repurchase agreements. The administrator in the U.K. bankruptcy proceedings may challenge any or all of the positions that we have taken,
+including our valuation of the collateral and the application of excess collateral supporting Lehman’s obligations under the securities lending arrangements against Lehman’s unsecured obligations under the repurchase agreements. Given the
+uncertainty in the process and the potential for a court or administrator to challenge the amounts that we believe are owed by us or due to us, it is possible that our obligations, net of recoveries, to Lehman entities may be substantial, with the
+result that our net payment obligations could be potentially as much as several hundred million dollars. 
+
+We may incur losses, which
+could be material to our consolidated results of operations in the period incurred, with respect to prime broker arrangements we had with Lehman entities. 
+
+In our capacity as manager and trustee, we appointed Lehman as prime broker for certain common trust funds. Of the seven investors in these funds, one has obtained a judgment against us, we have entered
+into a settlement agreement with another and four others have commenced litigation against us. The aggregate net asset value, at September 15, 2008 (the date two of the Lehman entities involved entered into insolvency proceedings), of cash and
+securities held by Lehman entities attributable to clients with whom we have not resolved claims was approximately $170 million. The claims of these clients should be reduced by the value of the distributions from the Lehman entities to these common
+trust funds, which amounts cannot be determined at this time. There can be no assurance as to the outcome of these proceedings, and an adverse resolution could have a material adverse effect on our results of operations in the fiscal period or
+periods in which resolved. 
+
+We face litigation and governmental and client inquiries in connection with our provision of foreign
+exchange services to custody clients. 
+
+In October 2009, the Attorney General of the State of California commenced an
+action against State Street Bank under the California False Claims Act and California Business and Professional Code relating to foreign exchange services State Street Bank provides to certain California state pension plans. The California Attorney
+General has asserted that the pricing of certain foreign exchange transactions for these pension plans was not consistent with the terms of the applicable custody contracts and related disclosures to the plans, and that, as a result, State Street
+Bank made false claims and engaged in unfair competition. The Attorney General has asserted actual damages of $56 million for periods from 2001 to 2007 and seeks additional penalties, including treble damages. We provide custody and principal
+foreign exchange services to government pension plans in other jurisdictions, and attorneys general from a number of these other jurisdictions, as well as U.S. Attorney’s offices, have requested information or issued subpoenas in connection
+with inquiries into our foreign exchange pricing. We have entered into a settlement with respect to our foreign exchange services to the State of Washington, to which we had contractual obligations different from those owed to the California state
+pension plans. 
+
+Litigation concerning foreign exchange pricing could have a material impact on our reputation and on our
+future revenues. The services we offer to the State of California are also offered to a broad range of custody clients in the U.S. and internationally. We are responding to information requests from other clients. Two clients have commenced
+litigation with respect to our foreign exchange services, including a putative class action filed in Massachusetts in February 2011 that seeks unspecified damages on behalf of all custodial clients that executed foreign exchange transactions through
+State Street. There can be no assurance as to the outcome of the pending proceedings in California or Massachusetts or any other proceedings that might be commenced against us by any other Attorneys General or clients, and the resolution of any such
+proceedings could have a material adverse effect on our future consolidated results of operations. In light of the action commenced by the California Attorney General, we are providing clients with more information about the way that we set the
+rates for this product and the alternatives offered by us for addressing foreign exchange requirements. Although we believe this disclosure will address client interests for increased information, over time it could result in pressure on our pricing
+of these services or result in clients electing other foreign exchange execution options, which would have an adverse impact on the revenue from, and profitability of, these services for us. 
+
+17 
+
+Table of Contents
+
+Our reputation and business prospects may be damaged if our clients incur substantial losses in
+investment pools where we act as agent. 
+
+Our management of collective investment pools on behalf of clients exposes us
+to reputational risk and, in some cases, operational losses. If our clients incur substantial losses in these pools, particularly in money market funds (where there is a general market expectation that net asset value will not drop below $1.00 per
+share), receive redemptions as in-kind distributions rather than in cash, or experience significant underperformance relative to the market or our competitors’ products, our reputation could be significantly harmed, which harm could
+significantly and adversely affect the prospects of our associated business units. Because we often implement investment and operational decisions and actions over multiple investment pools to achieve scale, we face the risk that losses, even small
+losses, may have a significant effect in the aggregate. While it is currently not our intention, any decision by us to provide financial support to our investment pools to support our reputation in circumstances where we are not statutorily or
+contractually obligated to do so would potentially result in the recognition of significant losses and could in certain situations require us to consolidate the investment pools onto our consolidated balance sheet. A failure or inability to provide
+such support could damage our reputation among current and prospective clients. 
+
+We may be exposed to client claims, financial loss,
+reputational damage and regulatory scrutiny in connection with our securities lending programs. 
+
+A portion of the cash
+collateral received by clients under our securities lending program is invested in cash collateral pools that we manage. Interests in these cash collateral pools are held by unaffiliated clients and by registered and unregistered investment funds
+that we manage. Our cash collateral pools that are money market funds registered under the Investment Company Act of 1940 are required to maintain, and have maintained, a constant net asset value of $1.00 per unit. The remainder of our cash
+collateral pools are collective investment funds that are not required to be registered under the Investment Company Act. These unregistered cash collateral pools seek, but are not required, to maintain, and transact purchases and redemptions at, a
+constant net asset value of $1.00 per unit. 
+
+The net asset values of our collateral pools have been below $1.00 per
+unit. 
+
+Our securities lending operations consist of two components: a direct lending program for third-party investment
+managers and asset owners, the collateral pools for which we refer to as agency lending collateral pools; and investment funds with a broad range of investment objectives that are managed by SSgA and engage in securities lending, which we refer to
+as SSgA lending funds. 
+
+SSgA lending funds. From 2007 until June 2010, the net asset value of the assets held by the
+collateral pools underlying the SSgA lending funds declined below $1.00 per unit; however, the SSgA lending funds continued to transact purchase and sale transactions with these collateral pools at $1.00 per unit. In response to market conditions
+following the Lehman bankruptcy, SSgA limited cash redemptions from the lending funds commencing in 2008. In June 2010, at our election we made a one-time cash contribution of $330 million to the collateral pools and liquidity trusts underlying the
+SSgA lending funds that restored the net asset value per unit of such collateral pools to $1.00 as of the date of such contribution and allowed us to eliminate the restrictions on redemption from the SSgA lending funds. These actions contributed to
+the pre-tax charge of $414 million in the second quarter of 2010 ($330 million plus $9 million of associated costs and the $75 million reserve discussed on page 20), which was recorded in our consolidated statement of income. 
+
+Agency lending collateral pools. Similarly, in 2007, the net asset value of the assets held by the agency lending collateral pools
+declined below $1.00 per unit. The agency lending collateral pools have continued to transact purchases and redemptions at a constant net asset value of $1.00 per unit even though the market value of the collateral pools’ portfolio holdings,
+determined using pricing from third-party pricing sources, has been below $1.00 per unit. This difference between the transaction value used for purchase and redemption activity and the market value of the collateral pools’ assets arose,
+depending upon the collateral pool, at various points since the commencement of the financial crisis in mid-2007 and has declined but persisted throughout 2008, 2009 and 2010. In 2008, we imposed restrictions on cash redemptions from the agency
+lending collateral pools. 
+
+18 
+
+Table of Contents
+
+Because of differences between the two lending programs, we did not make a cash contribution to the agency lending collateral pools in June 2010, as we did with respect to the SSgA lending funds.
+In December 2010, in order to increase participants’ control over the degree of their participation in the lending program, we divided certain agency lending collateral pools into liquidity pools, from which clients can obtain cash redemptions,
+and duration pools, which are restricted and operate as liquidating accounts. Depending upon the agency lending collateral pool, the percentage of the collateral pool’s assets that were represented by interests in the liquidity pool varied as
+of such division date from 58% to 84%. 
+
+The following table shows the aggregate net asset values of our unregistered cash
+collateral pools underlying the agency lending program at December 31, 2010, 2009, 2008 and 2007, based on a constant net asset value of $1.00 per unit: 
+
+(In billions)
+
+December 31, 2010
+
+December 31, 2009
+
+December 31, 2008
+
+December 31, 2007
+
+ Agency lending collateral pools
+
+$
+
+49
+
+$
+
+85
+
+$
+
+85
+
+$
+
+150
+
+Additionally, the
+table below indicates the range of net asset values per unit and weighted-average net asset values per unit based upon the market value of our unregistered cash collateral pools (including, for December 31, 2010, the net asset value of the
+duration pools) underlying the agency lending program for the periods ending December 31, 2010, 2009, 2008 and 2007: 
+
+December 31, 2010
+
+December 31, 2009
+
+December 31, 2008
+
+December 31, 2007
+
+Range
+
+WeightedAverage
+
+Range
+
+WeightedAverage
+
+Range
+
+WeightedAverage
+
+Range
+
+WeightedAverage
+
+ Agency lending collateral pools
+
+$
+
+0.91 to $1.00
+
+$
+
+0.993
+
+$
+
+0.93 to $1.00
+
+$
+
+0.986
+
+$
+
+0.92 to $1.00
+
+$
+
+0.941
+
+$
+
+0.99 to $1.00
+
+$
+
+0.993
+
+As of
+December 31, 2010, the aggregate net asset value of the duration pools was approximately $11.8 billion, and as of such date the range of net asset values of such pools was $0.91 to $0.99 per unit. The return obligations of participants in the
+agency lending program represented by interests in the duration pools exceeded the market value of the assets in the duration pools by approximately $319 million, which amount is expected to be eliminated as the assets in the duration pools mature
+or amortize. 
+
+We may incur losses, which could be material to our consolidated results of operations in the period
+incurred, as a result of our past practice of effecting purchase and redemptions of interests in the collateral pools based upon a consistent $1.00 per unit net asset value during periods when those pools had a market value of less than $1.00 per
+unit. 
+
+We believe that our practice of effecting purchases and redemptions of units of the collateral pools at $1.00
+per unit, notwithstanding that the underlying portfolios have a market value of less than $1.00 per unit, was in compliance with the terms of our unregistered cash collateral pools and in the best interests of participants in the agency lending
+program and the SSgA lending funds. We continued this practice until June 30, 2010 for the SSgA lending funds and until the end of 2010 for the agency lending collateral pools for a number of reasons, including that none of the securities in
+the cash collateral pools were in default or considered to be materially impaired, and that the collective investment funds restricted withdrawals. 
+
+Although the market value of the assets in the collateral pools improved during 2009 and 2010, a portion of these assets are floating rate instruments with several years of remaining maturity;
+consequently, the rate of valuation improvement for the duration pools is likely to slow in 2011 or the market value may decline again as a result of changes in market sentiment or in the credit quality of such instruments. In addition, the assets
+of the liquid pools are currently insufficient to satisfy in full the obligations of participants in the agency lending program to return cash collateral to borrowers. Participants in the agency lending program who received units of the duration
+pool, or who previously received in-kind redemptions from the agency lending collateral pools, could seek to assert claims against us in connection with either their loss of liquidity or unrealized mark-to-market losses. If such claims were
+successfully asserted, such a resolution could adversely affect our results of operations in future periods. 
+
+19 
+
+Table of Contents
+
+The SEC is conducting an inquiry into the management of our securities lending program and
+disclosures made to agency lending participants and participants in the SSgA lending funds, in particular, as to the adequacy of our disclosures regarding the collateral pools during periods when those pools had a market value of less than $1.00 and
+the redemption policy applicable to agency lending participants. While we are cooperating with such inquiry, we cannot determine whether the staff of the SEC will conclude that our disclosures or conduct of the program form the basis of a potential
+formal proceeding seeking damages or other remedies. In addition to the action with the redeeming participant in the agency lending program referred to below, participants in certain of the lending funds have commenced putative class actions on
+behalf of all investors in the lending funds that are benefit plans subject to the Employee Retirement Income Security Act, or ERISA. The class actions allege, among other things, failure to exercise prudence in the management of the collateral
+pools and breach of the governing instruments in connection with our imposition of restrictions on redemptions and seek both damages and injunctive relief, and breaches of ERISA with respect to compensation paid to us for the operation of the
+securities lending program on behalf of the SSgA lending funds. A determination by the SEC or any other regulatory authority to commence an enforcement proceeding with regard to our agency securities lending operations or SSgA lending funds, or an
+adverse outcome in the class action or any future proceedings, could have a material adverse impact on our securities lending operations or the operations of SSgA, on our consolidated results of operations or on our reputation. 
+
+We may incur losses, which could be material to our consolidated results of operations in the period incurred, as a result of our
+imposition of restrictions on redemptions from, and our management of, the direct lending program. 
+
+Beginning in
+October 2008, following the increased market disruption resulting from the bankruptcy of Lehman, we began to require that direct participants in the collateral pools who wish to redeem their interests in the pools, other than in connection with the
+ordinary course operation of the securities lending program, to accept redemption proceeds in the form of in-kind distributions. While the redemption restrictions were imposed to protect the interests of all participants in the agency lending
+program (which include ERISA plans, governmental retirement plans, mutual funds and other institutional asset owners), the prolonged imposition of these restrictions could materially and adversely affect the relationship with our lending clients and
+the financial performance of our agency lending operation. We established a $75 million reserve on June 30, 2010 (part of the $414 million charge discussed on page 18) to address potential inconsistencies in connection with our implementation
+of those redemption restrictions prior to May 31, 2010. The reserve, which still existed as of December 31, 2010, reflects our assessment, as of the same date, of the amount required to compensate clients for the dilutive effect of
+redemptions which may not have been consistent with the intent of the policy; however, there can be no assurance that participants in the agency lending program will not assert additional damages as a result of the implementation or existence of the
+redemption restrictions. 
+
+Despite these redemption restrictions, one significant participant in the agency lending program
+redeemed a substantial portion of its interest in a collateral pool in a manner that we determined not to be consistent with the ordinary course of operations of the securities lending program. After attempts to resolve the dispute with the
+redeeming participant and have the participant restore short-term liquidity to the collateral pool, we took action, as trustee, that in effect resulted in an in-kind redemption of the participant’s remaining interest in the collateral pool in a
+manner that caused such in-kind redemption and the prior cash redemptions, taken as a whole, to be completed on substantially the same basis as if the participant had initially requested an in-kind redemption of its entire interest in the collateral
+pool. The redeeming participant has commenced a legal action against us for damages that it alleges it incurred as a result of this redemption. An adverse judgment in such case could have an adverse impact on our consolidated results of operations
+for the period in which such judgment is issued. 
+
+The illiquidity and volatility of global fixed-income and equity markets has affected
+our ability to effectively and profitably manage assets on behalf of clients and may make our products less attractive to clients. 
+
+We manage assets on behalf of clients in several forms, including in collective investment pools, money market funds, securities finance collateral pools, cash collateral and other cash products and
+short-term 
+
+20 
+
+Table of Contents
+
+investment funds. In addition to the impact on the market value of client portfolios, at various times since 2007 the illiquidity and volatility of both the global fixed-income and equity markets
+have negatively affected our ability to manage client inflows and outflows from our pooled investment vehicles. Within our asset management business, we manage investment pools, such as mutual funds and collective investment funds, that generally
+offer our clients the ability to withdraw their investments on short notice, generally daily or monthly. This feature requires that we manage those pools in a manner that takes into account both maximizing the long-term return on the investment pool
+and retaining sufficient liquidity to meet reasonably anticipated liquidity requirements of our clients. 
+
+During the market
+disruption that accelerated following the bankruptcy of Lehman, the liquidity in many asset classes, particularly short- and long-term fixed-income securities, declined dramatically, and providing liquidity to meet all client demands in these
+investment pools without adversely affecting the return to non-withdrawing clients became more difficult. For clients that invest directly or indirectly in certain of the collateral pools and seek to terminate participation in lending programs, we
+have required, in accordance with the applicable client arrangements, that these withdrawals from the collateral pools take the form of partial in-kind distributions of securities, and in the case of SSgA funds that engage in securities lending, we
+implemented limitations, which were terminated in 2010, on the portion of an investor’s interest in such fund that may be withdrawn during any month, although such limitations do not apply to participant-directed activity in defined
+contribution plans. If higher than normal demands for liquidity from our clients were to return to post-Lehman-bankruptcy levels or increase, managing the liquidity requirements of our collective investment pools could become more difficult and, as
+a result, we may elect to support the liquidity of these pools. If liquidity in the fixed-income markets were to deteriorate further or remain disrupted for a prolonged period, our relationships with our clients may be adversely affected; we could,
+in certain circumstances, be required to consolidate the investment pools, levels of redemption activity could increase and our consolidated results of operations and business prospects could be adversely affected. 
+
+In addition, if a money market fund that we manage were to have unexpected liquidity demands from investors in the fund that exceeded
+available liquidity, the fund could be required to sell assets to meet those redemption requirements, and selling the assets held by the fund at a reasonable price, if at all, may then be difficult. 
+
+Alternatively, although we have no such obligations or arrangements currently in place, we have in the past guaranteed, and may in the
+future guarantee, liquidity to investors desiring to make withdrawals from a fund, and making a significant amount of such guarantees could adversely affect our own liquidity and financial condition. Because of the size of the investment pools that
+we manage, we may not have the financial ability or regulatory authority to support the liquidity demands of our clients. The extreme volatility in the equity markets has led to potential for the return on passive and quantitative products deviating
+from their target returns. The temporary closures of securities exchanges in certain markets create a risk that client redemptions in pooled investment vehicles may result in significant tracking error and underperformance relative to stated
+benchmarks. Any failure of the pools to meet redemption requests or to underperform relative to similar products offered by our competitors could harm our business and our reputation. 
+
+Our businesses may be negatively affected by adverse publicity or other reputational harm. 
+
+Our relationship with many of our clients is predicated upon our reputation as a fiduciary and a service provider that adheres to the highest standards of ethics, service quality and regulatory
+compliance. Adverse publicity, regulatory actions, litigation, operational failures, the failure to meet client expectations and other issues with respect to one or more of our businesses could materially and adversely affect our reputation, our
+ability to attract and retain clients or our sources of funding for the same or other businesses. Preserving and enhancing our reputation also depends on maintaining systems and procedures that address known risks and regulatory requirements, as
+well as our ability to identify and mitigate additional risks that arise due to changes in our businesses and the marketplaces in which we operate, the regulatory environment and client expectations. If any of these developments has a material
+effect on our reputation, our business will suffer. 
+
+21 
+
+Table of Contents
+
+We may not be successful in implementing our announced multi-year program to transform our operating
+model. 
+
+In order to maintain and grow our business, we must continuously make strategic decisions about our current and
+future business plans, including plans to target cost initiatives and enhance operational efficiencies, plans for entering or exiting business lines or geographic markets, plans for acquiring or disposing of businesses and plans to build new systems
+and other infrastructure. On November 30, 2010, we announced a multi-year program to enhance service excellence and innovation, increase efficiencies and position us for accelerated growth. 
+
+Operating model transformations, including this program, entail significant risks. The program, and any future strategic or business plan
+we implement, may prove to be inadequate for the achievement of the stated objectives, may result in increased or unanticipated costs, may result in earnings volatility, may take longer than anticipated to achieve and may not be successfully
+implemented. In particular, elements of the program include investment in new technologies, such as private processing clouds, to increase global computing capabilities, and also the development of new, and the evolution of existing, methods and
+tools to accelerate the pace of innovation, the introduction of new services and solutions and the security of our systems. The transition to new operating models and technology infrastructure may cause disruptions in our relationships with clients
+and employees and may present other unanticipated technical or operational hurdles. The success of the program and our other strategic plans could also be affected by continuing market disruptions and unanticipated changes in the overall market for
+financial services and the global economy. We also may not be able to abandon or alter these plans without significant loss, as the implementation of our decisions may involve significant capital outlays, often far in advance of when we expect to
+generate any related revenues. Accordingly, our business, our consolidated results of operations and our consolidated financial condition may be adversely affected by any failure or delay in our strategic decisions, including the program. For
+additional information about the program, see the “Consolidated Results of Operations — Expenses” section of Management’s Discussion and Analysis, included under Item 7, and note 9 to the consolidated financial statements
+included under Item 8. 
+
+We depend on information technology, and any failures of our information technology systems could result in
+significant costs and reputational damage. 
+
+Our businesses depend on information technology infrastructure to record
+and process a large volume of increasingly complex transactions and other data, in many currencies, on a daily basis, across numerous and diverse markets. Any interruptions, delays or breakdowns of this infrastructure could result in significant
+costs to us and damage to our reputation. 
+
+Cost shifting to non-U.S. jurisdictions may expose us to increased operational risk and
+reputational harm and may not result in expected cost savings. 
+
+We actively strive to achieve cost savings by shifting
+certain business processes to lower-cost geographic locations, including by forming joint ventures and by establishing operations in lower cost locations, such as Poland, India and China, and by outsourcing to vendors in various jurisdictions. This
+effort exposes us to the risk that we may not maintain service quality, control or effective management within these business operations. The increased elements of risk that arise from conducting certain operating processes in some jurisdictions
+could lead to an increase in reputational risk. During periods of transition, greater operational risk and client concern exist regarding the continuity of a high level of service delivery. The extent and pace at which we are able to move functions
+to lower-cost locations may also be impacted by regulatory and client acceptance issues. Such relocation of functions also entails costs, such as technology and real estate expenses, that may offset or exceed the expected financial benefits of the
+lower-cost locations. 
+
+It may be difficult and costly to protect our intellectual property rights, and we may not be able to ensure
+their protection. 
+
+We may be unable to protect our intellectual property and proprietary technology effectively, which
+may allow competitors to duplicate our technology and products and may adversely affect our ability to compete with 
+
+22 
+
+Table of Contents
+
+them. To the extent that we are not able to protect our intellectual property effectively through patents or other means, employees with knowledge of our intellectual property may leave and seek
+to exploit our intellectual property for their own or others’ advantage. In addition, we may infringe upon claims of third-party patents, and we may face intellectual property challenges from other parties. We may not be successful in defending
+against any such challenges or in obtaining licenses to avoid or resolve any intellectual property disputes. The intellectual property of an acquired business may be an important component of the value that we agree to pay for such a business.
+However, such acquisitions are subject to the risks that the acquired business may not own the intellectual property that we believe we are acquiring, that the intellectual property is dependent upon licenses from third parties, that the acquired
+business infringes upon the intellectual property rights of others, or that the technology does not have the acceptance in the marketplace that we anticipated. 
+
+Competition for our employees is intense, and we may not be able to attract and retain the highly skilled people we need to support our business. 
+
+Our success depends, in large part, on our ability to attract and/or retain key people. Competition for the best people in most activities
+in which we engage can be intense, and we may not be able to hire people or retain them, particularly in light of uncertainty concerning evolving compensation restrictions applicable, or which may become applicable, to banks (and potentially not
+applicable to other financial services firms). The unexpected loss of services of one or more of our key personnel could have a material adverse impact on our business because of their skills, their knowledge of our markets, their years of industry
+experience and, in some cases, the difficulty of promptly finding qualified replacement personnel. Similarly, the loss of key employees, either individually or as a group, can adversely affect our clients’ perception of our ability to continue
+to manage certain types of investment management mandates or other services. 
+
+We are subject to intense competition in all aspects of
+our business, which could negatively affect our ability to maintain or increase our profitability. 
+
+The markets in
+which we operate across all facets of our business are both highly competitive and global. These markets are changing as a result of new and evolving laws and regulations applicable to financial services institutions. Regulatory-driven market
+changes cannot always be anticipated, and may adversely affect the demand for, and profitability of, the products and services that we offer. In addition, new market entrants and competitors may address changes in the markets more rapidly than us,
+or may provide customers with a more attractive offering of products and services, adversely affecting our business. We have also experienced, and anticipate that we will continue to experience, pricing pressure in many of our core businesses. Many
+of our businesses compete with other domestic and international banks and financial services companies, such as custody banks, investment advisors, broker-dealers, outsourcing companies and data processing companies. Ongoing consolidation within the
+financial services industry could pose challenges in the markets we serve, including potentially increased downward pricing pressure across our businesses. 
+
+Many of our competitors, including our competitors in core services, have substantially greater capital resources than we do. In some of our businesses, we are service providers to significant
+competitors. These competitors are in some instances significant clients, and the retention of these clients involves additional risks, such as the avoidance of actual or perceived conflicts of interest and the maintenance of high levels of service
+quality. The ability of a competitor to offer comparable or improved products or services at a lower price would likely negatively affect our ability to maintain or increase our profitability. Many of our core services are subject to contracts that
+have relatively short terms or may be terminated by our client after a short notice period. In addition, pricing pressures as a result of the activities of competitors, client pricing reviews, and rebids, as well as the introduction of new products,
+may result in a reduction in the prices we can charge for our products and services. 
+
+Acquisitions, strategic alliances and divestiture
+pose risks for our business. 
+
+As part of our business strategy, we acquire complementary businesses and technologies,
+enter into strategic alliances and divest portions of our business. In January 2011, we completed our acquisition, for cash, of Bank of 
+
+23 
+
+Table of Contents
+
+Ireland Asset Management, or BIAM, and during 2010 we completed our acquisition of the global custody, depository banking, correspondent banking and fund administration business of Intesa
+Sanpaolo, or Intesa, and the acquisition of Mourant International Finance Administration, or MIFA. We undertake transactions such as these to, among other reasons, expand our geographic footprint, access new clients, technologies or services,
+develop closer relationships with our business partners, efficiently deploy capital or to leverage cost savings or other financial opportunities. We may not achieve the expected benefits of these transactions, which could result in increased costs,
+lowered revenues, ineffective deployment of capital and diminished competitive position or reputation. 
+
+These transactions also
+involve a number of risks and financial, accounting, tax, regulatory, managerial and operational challenges, which could adversely affect our consolidated results of operations and financial condition. For example, the businesses that we acquire or
+our strategic alliances may underperform relative to the price paid or the resources committed by us, we may not achieve anticipated cost savings or we may otherwise be adversely affected by acquisition-related charges. Further, past acquisitions,
+including the acquisitions of Intesa, MIFA and BIAM, have resulted in the recording of goodwill and other significant intangible assets on our consolidated statement of condition. These assets are not eligible for inclusion in regulatory capital
+under current proposals, and we may be required to record impairment in our consolidated statement of income in future periods if we determine that we will not realize the value of these assets. Through our acquisitions we may also assume unknown or
+undisclosed business, operational, tax, regulatory and other liabilities, fail to properly assess known contingent liabilities or assume businesses with internal control deficiencies. While in most of our transactions we seek to mitigate these risks
+through, among other things, adequate due diligence and indemnification provisions, we cannot be certain that the due diligence we have conducted is adequate or that the indemnification provisions and other risk mitigants we put in place will be
+sufficient. 
+
+Various regulatory approvals or consents are generally required prior to closing of acquisitions and, which may
+include approvals of the Federal Reserve and other domestic and non-U.S. regulatory authorities. These regulatory authorities may impose conditions on the completion of the acquisition or require changes to its terms that materially affect the terms
+of the transaction or our ability to capture some of the opportunities presented by the transaction. Any such conditions, or any associated regulatory delays, could limit the benefits of the transaction. Some acquisitions we announce may not be
+completed, if we do not receive the required regulatory approvals or if other closing conditions are not satisfied. 
+
+The integration of
+our acquisitions results in risks to our business and other uncertainties. 
+
+The integration of acquisitions presents
+risks that differ from the risks associated with our ongoing operations. Integration activities are complicated and time consuming. We may not be able to effectively assimilate services, technologies, key personnel or businesses of acquired
+companies into our business or service offerings, as anticipated, alliances may not be successful, and we may not achieve related revenue growth or cost savings. We also face the risk of being unable to retain, or cross-sell our products or services
+to, the clients of acquired companies. Acquisitions of investment servicing businesses entail information technology systems conversions, which involve operational risks and may result in client dissatisfaction and defection. Clients of asset
+servicing businesses that we have acquired may be competitors of our non-custody businesses. The loss of some of these clients or a significant reduction in revenues generated from them, for competitive or other reasons, could adversely affect the
+benefits that we expect to achieve from these acquisitions. With any acquisition, the integration of the operations and resources of the businesses could result in the loss of key employees, the disruption of our and the acquired company’s
+ongoing businesses, or inconsistencies in standards, controls, procedures and policies that could adversely affect our ability to maintain relationships with clients and employees or to achieve the anticipated benefits of the acquisition.
+Integration efforts may also divert management attention and resources. 
+
+Development of new products and services may impose additional
+costs on us and may expose us to increased operational risk. 
+
+Our financial performance depends, in part, on our
+ability to develop and market new and innovative services and to adopt or develop new technologies that differentiate our products or provide cost efficiencies, 
+
+24 
+
+Table of Contents
+
+while avoiding increased related expenses. The introduction of new products and services can entail significant time and resources. Substantial risks and uncertainties are associated with the
+introduction of new products and services, including technical and control requirements that may need to be developed and implemented, rapid technological change in the industry, our ability to access technical and other information from our clients
+and the significant and ongoing investments required to bring new products and services to market in a timely manner at competitive prices. Regulatory and internal control requirements, capital requirements, competitive alternatives and shifting
+market preferences may also determine if such initiatives can be brought to market in a manner that is timely and attractive to our clients. Failure to manage successfully these risks in the development and implementation of new products or services
+could have a material adverse effect on our business and reputation, as well as on our consolidated results of operations and financial condition. 
+
+Long-term contracts expose us to pricing and performance risk. 
+
+We
+enter into long-term contracts to provide middle office or investment manager and alternative investment manager operations outsourcing services, primarily for conversions, to clients, including services related but not limited to certain trading
+activities, cash reporting, settlement and reconciliation activities, collateral management and information technology development. These arrangements generally set forth our fee schedule for the term of the contract and, absent a change in service
+requirements, do not permit us to re-price the contract for changes in our costs or for market pricing. The long-term contracts for these relationships require, in some cases, considerable up-front investment by us, including technology and
+conversion costs, and carry the risk that pricing for the products and services we provide might not prove adequate to generate expected operating margins over the term of the contracts. Profitability of these contracts is largely a function of our
+ability to accurately calculate pricing for our services, efficiently assume our contractual responsibilities in a timely manner and our ability to control our costs and maintain the relationship with the client for an adequate period of time to
+recover our up-front investment. Our estimate of the profitability of these arrangements can be adversely affected by declines in the assets under the clients’ management, whether due to general declines in the securities markets or
+client-specific issues. In addition, the profitability of these arrangements may be based on our ability to cross sell additional services to these clients, and we may be unable to do so. 
+
+In addition, performance risk exists in each contract, given our dependence on successful conversion and implementation onto our own
+operating platforms of the service activities provided. Our failure to meet specified service levels may also adversely affect our revenue from such arrangements, or permit early termination of the contracts by the client. If the demand for these
+types of services were to decline, we could see our revenue decline. 
+
+Our controls and procedures may fail or be circumvented, our risk
+management policies and procedures may be inadequate, and operational risk could adversely affect our consolidated results of operations. 
+
+We may fail to identify and manage risks related to a variety of aspects of our business, including, but not limited to, operational risk, interest-rate risk, trading risk, fiduciary risk, legal and
+compliance risk, liquidity risk and credit risk. We have adopted various controls, procedures, policies and systems to monitor and manage risk. While we currently believe that our risk management process is effective, we cannot provide assurance
+that those controls, procedures, policies and systems will always be adequate to identify and manage the risks in our various businesses. In addition, our businesses and the markets in which we operate are continuously evolving. We may fail to fully
+understand the implications of changes in our businesses or the financial markets and fail to adequately or timely enhance our risk framework to address those changes. If our risk framework is ineffective, either because it fails to keep pace with
+changes in the financial markets or our businesses or for other reasons, we could incur losses, suffer reputational damage or find ourselves out of compliance with applicable regulatory mandates or expectations. 
+
+Operational risk is inherent in all of our business activities. As a leading provider of services to institutional investors, we provide a
+broad array of services, including research, investment management, trading services and investment servicing, that give rise to operational risk. In addition, these services generate a broad array of complex and specialized servicing,
+confidentiality and fiduciary requirements. We face the risk that the policies, procedures and systems we have established to comply with our operational requirements will fail, be inadequate 
+
+25 
+
+Table of Contents
+
+or become outdated. We also face the potential for loss resulting from inadequate or failed internal processes, employee supervisory or monitoring mechanisms or other systems or controls, which
+could materially affect our future consolidated results of operations. Operational errors that result in us remitting funds to a failing or bankrupt entity may be irreversible, and may subject us to losses. We may also be subject to disruptions from
+external events that are wholly or partially beyond our control, which could cause delays or disruptions to operational functions, including information processing and financial market settlement functions. In addition, our clients, vendors and
+counterparties could suffer from such events. Should these events affect us, or the clients, vendors or counterparties with which we conduct business, our consolidated results of operations could be negatively affected. When we record balance sheet
+reserves for probable loss contingencies related to operational losses, we may be unable to accurately estimate our potential exposure, and any reserves we establish to cover operational losses may not be sufficient to cover our actual financial
+exposure, which may have a material impact on our consolidated results of operations or financial condition for the periods in which we recognize the losses. 
+
+Changes in accounting standards may be difficult to predict and may adversely affect our consolidated results of operations and financial condition. 
+
+New accounting standards, including the potential adoption of International Financial Reporting Standards, or changes in the
+interpretation of existing accounting standards, by the Financial Accounting Standards Board, the International Accounting Standards Board or the SEC, can potentially affect our consolidated results of operations and financial condition. These
+changes are difficult to predict, and can materially affect how we record and report our consolidated results of operations and financial condition and other financial information. In some cases, we could be required to apply a new or revised
+standard retroactively, resulting in the revised treatment of certain transactions or activities, and, in some cases, the restatement of consolidated prior period financial statements. 
+
+Changes in tax laws or regulations, and challenges to our tax positions with respect to historical transactions, may adversely affect our net income, our effective tax rate and our consolidated
+results of operations and financial condition. 
+
+Our businesses can be directly or indirectly affected by new tax
+legislation, the expiration of existing tax laws, or the interpretation of existing tax laws worldwide. In the normal course of business, we are subject to reviews by U.S. and non-U.S. tax authorities. These reviews may result in adjustments to the
+timing or amount of taxes due and the allocation of taxable income among tax jurisdictions. These adjustments could affect the attainment of our financial goals. 
+
+Any theft, loss or other misappropriation of the confidential information we possess could have an adverse impact on our business and could subject us to regulatory actions, litigation and other
+adverse effects. 
+
+Our businesses and relationships with clients are dependent upon our ability to maintain the
+confidentiality of our and our clients’ trade secrets and confidential information (including client transactional data and personal data about our employees, our clients and our clients’ clients). Unauthorized access to such information
+may occur, resulting in theft, loss or other misappropriation. Any theft, loss or other misappropriation of confidential information could have a material adverse impact on our competitive positions, our relationships with our clients and our
+reputation and could subject us to regulatory inquiries and enforcement, civil litigation and possible financial liability or costs. 
+
+The quantitative models we use to manage our business may contain errors that result in imprecise risk assessments, inaccurate valuations or poor
+business decisions. 
+
+We use quantitative models to help manage many different aspects of our businesses. As an input to
+our overall assessment of capital adequacy, we use models to measure the amount of credit risk, market risk, operational risk, interest rate risk and business risk we face. During the preparation of our consolidated financial statements, we
+sometimes use models to measure the value of positions for which reliable market prices are not available. We also use models to support many different types of business decisions including trading activities,
+
+26 
+
+Table of Contents
+
+hedging, asset and liability management and whether to change business strategy. In all of these uses, errors in the underlying model or model assumptions, or inadequate model assumptions, could
+result in unanticipated and adverse consequences. Because of our widespread usage of models, potential errors in models pose an ongoing risk to us. 
+
+Additionally, we may fail to accurately quantify the magnitude of the risks we face. Our measurement methodologies rely upon many assumptions and historical analyses and correlations. These assumptions
+may be incorrect, and the historical correlations we rely on may not continue to be relevant. Consequently, the measurements that we make for regulatory and economic capital may not adequately capture or express the true risk profiles of our
+businesses. Additionally, as businesses and markets evolve, our measurements may not accurately reflect those changes. While our risk measures may indicate sufficient capitalization, we may in fact have inadequate capital to conduct our businesses.
+
+We may incur losses as a result of unforeseen events, including terrorist attacks, the emergence of a pandemic or acts of embezzlement.
+
+Acts of terrorism or the emergence of a pandemic could significantly affect our business. We have instituted disaster
+recovery and continuity plans to address risks from terrorism and pandemic; however, forecasting or addressing all potential contingencies is not possible for events of this nature. Acts of terrorism, either targeted or broad in scope, could damage
+our physical facilities, harm our employees and disrupt our operations. A pandemic, or concern about a possible pandemic, could lead to operational difficulties and impair our ability to manage our business. Acts of terrorism and pandemics could
+also negatively affect our clients and counterparties, as well as result in disruptions in general economic activity and the financial markets. 
+
+Terrorism may also take the form of the theft or misappropriation of property, confidential information or financial assets. Due to our role as a financial services institution, our businesses are already
+subject to similar risks of theft, misappropriation and embezzlement with respect to our and our clients’ property, information and assets. Our employees and contractors and other partners have access to our facilities and internal systems and
+may seek to create the opportunity to engage in these activities. In the event our controls and procedures to prevent theft, misappropriation or embezzlement fail or are circumvented, our business would be negatively affected by, among other things,
+the related financial losses, diminished reputation and threat of litigation and regulatory inquiry and investigation.

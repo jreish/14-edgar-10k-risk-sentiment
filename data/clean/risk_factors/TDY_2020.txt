@@ -1,0 +1,503 @@
+; Cautionary Statement as to Forward-Looking Statements
+
+The following text highlights various risks and uncertainties associated with Teledyne. These factors could materially affect “forward-looking statements” (within the meaning of the Private Securities Litigation Reform Act of 1995) that we may make from time to time, including forward-looking statements contained in “Item 1. Business” and “Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations” of this Form 10-K and in Teledyne’s 2019 Annual Report to Stockholders. It is not possible for management to predict all such factors, and new factors may emerge or existing factors may change. Additionally, management cannot assess the impact of each such factor on Teledyne or the extent to which any factor, or combination of factors, may cause actual results to differ materially from those contained in any forward-looking statements.
+
+Escalating global trade tensions and the adoption or expansion of tariffs and trade restrictions could negatively impact us. 
+
+Starting in 2018, the U.S. Government imposed tariffs on a wide range of goods imported from China and a trade war ensued between the two nations. Several countries affected by these tariffs imposed retaliatory tariffs. In January 2020, under a U.S.-China trade agreement, China agreed to purchase $200 billion in additional goods and services from the United States over the next two years, in exchange for the United States agreeing to reduce tariffs on $120 billion in Chinese products from 15% to 7.5%. It is not yet known what if any impact this deal may have on our businesses or what impact there may be if either party fails to live up to the terms of the deal, more so with China given the Coronavirus health crisis threatening its already slowing economic growth. In any event, high tariffs generally increase the cost of materials for our products, which could result in our products becoming less competitive or generating lower margins. With high tariffs imposed on our products, we may also need to find new suppliers and components for our products, which could result in production delays. To the extent our products are the subject of retaliatory tariffs, customers in some countries or regions, such as China, may begin to seek domestic or non-U.S. sources for products that we sell, or be pressured or incentivized by foreign governments not to purchase U.S.-origin goods, which could harm our future sales in these markets. Additionally, if China were to enact laws or regulations requiring the use of local suppliers, it could have a negative impact on Teledyne’s revenues. 
+
+Furthermore, as global tensions increase, more countries are enhancing their export regulations. For example, the U.K. has recently limited the sale of certain defense equipment to Middle Eastern countries. We also have seen a recent increase in denial of export licenses for sales into Russia, Turkey and the Middle East. 
+
+Additionally, a number of well-established customers and suppliers have become listed on Government restricted party lists without much warning. In particular, U.S. export enforcement agencies have placed several Chinese and Russian companies and many of their international subsidiaries on such lists, prohibiting the export of most commercial and dual-use items subject to the Export Administration Regulations. Multiple Teledyne companies had large pending orders with some of those companies that had to be either cancelled or for which Teledyne submitted export license applications that have a low probability of approval. For example, Huawei Technologies, Co., Ltd. (“Huawei”), and its affiliates were added to the U.S. Department of Commerce Bureau of Industry and Security Entity list on May 16, 2019. Huawei was a customer of our test and measurement business, and pending license applications have not yet been approved. The U.S. Government has also made efforts to increase restrictions on some of those listed entities, including proposals to expand U.S. export jurisdiction over certain foreign made products containing U.S.-origin materials. For example, the U.S. Government had proposed modifying the minimum amount of U.S. content permitted within products before they become subject to U.S. export restrictions from 25% to 10% for anything sold to Huawei. While we will continue to work to mitigate the impact of tariffs and trade restrictions, they could result in reduction in our revenue, price increases on material used in our products or production delays, which could adversely affect our business, financial condition, operational results and cash flows. 
+
+14
+
+Table of Contents
+
+A material amount of our total revenues is derived from companies in the oil and gas industry, especially the offshore oil and gas industry, a historically cyclical industry with levels of activity that are significantly affected by the levels and volatility of oil and gas prices.
+
+A material amount of our total revenues is derived from customers in or connected to oil and gas exploration, development and production, especially the offshore oil and gas industry. The oil and gas industry has historically been cyclical and characterized by significant changes in the levels of exploration and development activities. Oil and gas prices, and market expectations of potential changes in those prices, significantly affect the levels of those activities. Any prolonged reduction in the overall level of offshore oil and gas exploration and development activities, whether resulting from changes in oil and gas prices or otherwise, could materially and adversely affect our financial condition and the results of our businesses within our Instrumentation segment.
+
+Some factors that have affected and are likely to continue affecting oil and gas prices and the level of demand for our services and products include the following:
+
+•
+worldwide demand for oil and gas;
+
+•
+general economic and business conditions and industry trends;
+
+•
+the ability of the Organization of Petroleum Exporting Countries, or OPEC, to set and maintain production levels;
+
+•
+the level of production by non-OPEC countries;
+
+•
+the ability of oil and gas companies to generate or raise funds for capital expenditures;
+
+•
+domestic and foreign tax policy;
+
+•
+laws and governmental regulations that restrict exploration and development of oil and gas in various offshore jurisdictions;
+
+•
+laws and governmental regulation that restrict the use of hydraulic fracturing;
+
+•
+technological changes;
+
+•
+the political environment of oil-producing regions; 
+
+•
+the price and availability of alternative fuels; and
+
+•
+climate change regulations that provide incentives to conserve energy or use alternative energy sources. 
+
+Teledyne manufactures seismic energy sources, interconnects and data acquisition products that are used in offshore energy exploration. When crude oil and natural gas prices are low, the level of marine seismic exploration activity typically decreases, potentially resulting in reduced demand for our products used in offshore energy exploration. In addition, a decline in the level of capital spending by oil and natural gas companies may result in a reduced rate of development of new energy reserves, which could adversely affect demand for our products related to energy production, and, in certain instances, result in the cancellation, modification or rescheduling of existing orders and a reduction in customer-funded research and development related to next generation products. 
+
+A new global recession or an economic downturn in China may adversely affect us.
+
+If another global recession emerges, if economic uncertainty in Europe continues or worsens, or if economic growth in China substantially slows, we may experience declines in revenues, profitability and cash flows from reduced orders, payment delays, collection difficulties, increased price pressures for our products, increased risk of excess and obsolete inventories or other factors caused by the economic problems of our customers. Our sales to China-based customers represented 6.6% of total revenues in 2019, 6.7% of total revenue in 2018 and 6.3% of total revenue in 2017. Economic growth in China has moderated, with a health crisis threatening already slowing economic growth. Continued growth in many of our businesses, including those in our Environmental and Electronic Measurement Instrumentation group, could be negatively impacted if an economic downturn persists in China. If negative conditions in the global credit markets prevent our customers from having access to credit or render them insolvent, orders for our products may decrease, which would result in lower revenue. Likewise, if our suppliers face challenges in obtaining credit, in selling their products, or otherwise in operating their businesses or remaining solvent, they may become unable to offer the materials we use to manufacture our products. These events could adversely impact our ability to manufacture affected products and could also result in reductions in our revenue, increased price competition, and increased operating costs, which could adversely affect our business, financial condition, operational results, and cash flows.
+
+We develop and manufacture products for customers in the energy exploration and production markets, domestic and international commercial aerospace markets, the semiconductor industry, and the consumer electronics, telecommunications and automotive industries; each of which has been cyclical, exhibited rapid changes and suffered from fluctuating market demands. A cyclical downturn in these markets may materially affect future operating results.
+
+In addition, we sell products and services to customers in industries that are sensitive to the level of general economic activity and consumer spending habits and to customers in more mature industries that are sensitive to capacity constraints. Adverse economic conditions affecting these industries may reduce demand for our products and services, which may reduce our revenues, profits or production levels. Some of our businesses serve industries such as power generation and petrochemical 
+
+15
+
+Table of Contents
+
+refining, which may be negatively impacted in the event of future reductions in global capital expenditures and manufacturing capacity.
+
+Our indebtedness, and any failure to comply with our covenants that apply to our indebtedness, could materially and adversely affect our business.
+
+As of December 29, 2019, we had $851.8 million total outstanding indebtedness, including $295.0 million in senior unsecured fixed rate notes, $279.8 million in Euro denominated fixed rate notes, $150.0 million in term loans and $125.0 million outstanding under our $750.0 million floating rate credit facility. Our indebtedness or a failure to comply with our covenants that apply to our indebtedness could harm our business by, among other things, reducing the funds available to make acquisitions, capital expenditures, stock repurchases, or reducing our flexibility in planning for or reacting to changes in our business or market conditions. Our indebtedness exposes us to interest rate risk since a portion of our debt obligations are at variable rates. Our indebtedness or a failure to comply with our covenants that apply to our indebtedness could also have a material adverse effect on our business by increasing our vulnerability to general adverse economic and industry conditions or a downturn in our business. General adverse economic and industry conditions or a downturn in our business could result in our inability to repay this indebtedness in a timely manner.
+
+Further, the Financial Conduct Authority (the authority that regulates LIBOR) has announced that it intends to stop compelling banks to submit rates for the calculation of LIBOR after 2021. The Alternative Reference Rates Committee (“ARRC”) has proposed that the Secured Overnight Financing Rate (“SOFR”) is the rate that represents best practice as the alternative to USD-LIBOR for use in debt instruments, derivatives and other financial contracts that are currently indexed to USD-LIBOR. ARRC has proposed a paced market transition plan to SOFR from USD-LIBOR and organizations are currently working on industry wide and company specific transition plans as it relates to derivatives, debt and cash markets exposed to USD-LIBOR. It is unclear as to what the new method of calculating LIBOR that may evolve and this new method could adversely affect the Company’s interest rates on the Company’s indebtedness. The Company is monitoring the ARRC transition plan and is evaluating potential related risks. As of December 29, 2019, approximately 32.5% of the Company’s long-term debt is variable and can be indexed to USD-LIBOR. A 2019 amendment to our $750.0 million credit facility includes a procedure to switch to LIBOR alternative replacement rates in the future. 
+
+We are subject to the risks associated with international sales and international operations, which could harm our business or results of operations.
+
+During 2019, sales to international customers accounted for approximately 44% of our total revenues, compared with 47% in 2018 and 46% in 2017. In 2019, we sold products to customers in over 100 countries. In 2019, the top five countries for international sales were China, Germany, the United Kingdom, Japan and South Korea, constituting approximately 21% of our total sales. We anticipate that future sales to international customers will continue to account for a significant and increasing percentage of our revenues, particularly since business and growth plans for many Teledyne businesses focus on sales outside of the United States, including to emerging markets such as China, India, Brazil and West Africa. 
+
+Risks associated with international sales and operations include, but are not limited to:
+
+•
+political and economic instability;
+
+•
+international terrorism;
+
+•
+export controls, including U.S. export controls related to China, sanctions related to Russia, and increased scrutiny of exports of marine instruments, digital imaging and other products;
+
+•
+failure to comply with anti-bribery legislation, including the U.S. Foreign Corrupt Practices Act;
+
+•
+changes in legal and regulatory requirements;
+
+•
+U.S. and foreign government policy changes affecting the markets for our products;
+
+•
+changes in tax laws and tariffs;
+
+•
+changes in U.S. - China and U.S. - Russia relations;
+
+•
+difficulties in protection and enforcement of intellectual property rights;
+
+•
+failure to comply with the foreign data protection laws, including the EU General Data Protection Regulation (“GDPR”) in the European Union;
+
+•
+inadvertent transfers of export-controlled information due to increased cross-border technology transfers and the use of offshore computer servers;
+
+•
+transportation, including piracy in international waters; 
+
+•
+currency exchange rate fluctuations; and
+
+•
+challenges relating to managing a global workforce with diverse cultures and backgrounds.
+
+Any of these factors could have a material adverse effect on our business, results of operations and financial condition. Exchange rate fluctuations may increase the cost of our products to international customers and therefore reduce our competitive position.
+
+16
+
+Table of Contents
+
+In June 2016, the United Kingdom (“U.K.”) held a referendum in which voters approved an exit from the European Union (“E.U.”), commonly referred to as “Brexit.” The U.K. formally left the E.U. on January 31, 2020 and has entered a transition period until December 31, 2020.
+
+During the transition period, the U.K. and the E.U. will seek to negotiate a trade deal, and the U.K. will remain in both the E.U. customs union and single market.
+
+The announcement of Brexit caused significant volatility in global stock markets and currency exchange rate fluctuations that resulted in the strengthening of the U.S. dollar against foreign currencies in which we conduct business. The withdrawal of the U.K. from the E.U. may also create further global economic uncertainty, which may adversely impact the economies of the U.K., the E.U. countries and other nations, may cause our current and future customers to reduce their spending on our products and services, and may cause certain E.U.-based customers to source products from businesses based outside of the U.K.
+
+For example, Brexit-related uncertainty could lead to a reconsideration by Airbus as to future investment and spending in the U.K., which could reduce sales for our U.K.-based businesses that supply Airbus.
+
+Potential Brexit-related risks for our U.K.-based businesses also include increased import duties, loss of customers in the E.U., delays in the movement of goods between the U.K. and the E.U. and loss of access to the E.U. labor pool.
+
+Given our several U.K.-based businesses, volatility in the value of the British pound relative to the U.S. dollar, or other foreign currencies, could increase the cost of raw materials and components for our U.K.-based businesses and could otherwise adversely affect the business, operations and the financial condition of our U.K.-based businesses.
+
+Acquisitions involve inherent risks that may adversely affect our operating results and financial condition.
+
+Our growth strategy includes acquisitions. Acquisitions involve various inherent risks, such as:
+
+•
+our ability to assess accurately the value, strengths, weaknesses, internal controls, contingent and other liabilities and potential profitability of acquisition candidates;
+
+•
+the potential loss of key personnel of an acquired business;
+
+•
+our ability to integrate acquired businesses and to achieve identified financial, operating and other synergies anticipated to result from an acquisition;
+
+•
+our ability to assess, integrate and implement internal controls of acquired businesses in accordance with Section 404 of the Sarbanes-Oxley Act of 2002;
+
+•
+the distraction of management resulting from the need to integrate acquired businesses;
+
+•
+increased competition for acquisition targets, which may increase acquisition costs;
+
+•
+the potential impairment of assets;
+
+•
+potential unknown liabilities associated with a business that we acquire or in which we invest, including environmental liabilities; 
+
+•
+the risks associated with acquiring privately-held companies, which generally do not have the same formal or comprehensive internal controls and compliance systems in place as public companies;
+
+•
+production delays associated with consolidating acquired facilities and manufacturing operations;
+
+•
+risks associated with owning and operating businesses internationally, including those arising from U.S. and foreign government policy changes or actions and currency exchange rate fluctuations; 
+
+•
+unanticipated changes in business or economic conditions affecting an acquired business; and
+
+•
+exposure to new and unfamiliar regulations in new jurisdictions.
+
+While we conduct financial and other due diligence in connection with our acquisitions and generally seek some form of protection, such as indemnification from the seller, insurance coverage, and sometimes placing a portion of the purchase price in escrow to cover potential liabilities, such acquired companies may have weaknesses or liabilities that are not accurately assessed or brought to our attention at the time of the acquisition.
+
+Further, indemnities, insurance or escrow arrangements may not fully cover such matters.
+
+In connection with our acquisitions, including those acquisitions that we do not complete, we may incur significant transaction costs. We are required to expense, as incurred, such transaction costs, which may have a material adverse impact on our financial results.
+
+Changes in future business conditions could cause business investments, goodwill and other long-lived assets to become impaired, resulting in significant losses and write-downs that would reduce our operating income.
+
+On December 29, 2019, Teledyne’s goodwill was $2,050.5 million and net acquired intangible assets were $430.8 million. Under current accounting guidance, we are required to test annually both acquired goodwill and other indefinite-lived intangible assets for impairment based upon a fair value approach, rather than amortizing the value over time. We have chosen to perform our annual impairment reviews of goodwill and other indefinite-lived intangible assets during the fourth quarter of each fiscal year. We also are required to test goodwill for impairment between annual tests if events occur or circumstances change that would more likely than not reduce our enterprise fair value below its book value. These events or circumstances could include a significant change in the business climate, including a significant sustained decline in an entity’s market value, legal factors, operating performance indicators, competition, sale or disposition of a significant portion of the business, or other factors. If the fair market value is less than the carrying value, including goodwill, we could be required to record an impairment charge. The valuation of reporting units requires judgment in estimating future cash flows, discount rates and estimated product life 
+
+17
+
+Table of Contents
+
+cycles. In making these judgments, we evaluate the financial health of the business, including such factors as industry performance, changes in technology and operating cash flows. As we have grown through acquisitions, the amount of goodwill and net acquired intangible assets is a significant portion of our total assets. As a result, the amount of any annual or interim impairment could be significant and could have a material adverse effect on our reported financial results for the period in which the charge is taken. We also may be required to record an earnings charge or incur unanticipated expenses if, as a result of a change in strategy or other reason, we were to determine the value of other assets had been impaired. 
+
+ For additional discussion of business investments, goodwill and other long-lived assets, see the discussion under “Item 7. Management’s Discussion and Analysis of Operations and Financial Condition” and Note 3 of the Notes to Consolidated Financial Statements.
+
+United States and global responses to terrorism, increasing tension between the U.S., and Russia, China and Iran; concerns regarding nuclear proliferation and the safety of nuclear energy; potential epidemics such as the Coronavirus; continuing turmoil in Middle Eastern countries; and potential future financial issues impacting airlines and volatile energy prices increase uncertainties with respect to many of our businesses and may adversely affect our business and results of operations
+.
+
+United States’ and global responses to terrorism, continuing turmoil in Middle Eastern countries and nuclear proliferation concerns increase uncertainties with respect to U.S. and other business and financial markets and could adversely affect our business and operations. Increasing tensions between the U.S. and Russia, and between the U.S. and China, as well as the U.S. and Iran, could disrupt the economy.
+
+Air travel declines have occurred after terrorist attacks and heightened security alerts, as well as after the high-profile outbreaks of disease, including the recent outbreak and spread of the Wuhan, China-originated Coronavirus. Additional declines in air travel resulting from these factors and other factors could adversely affect the financial condition of many of our commercial airline and aircraft manufacturer customers and, in turn, could adversely affect our Aerospace and Defense Electronics segment. In addition, a prolonged virus epidemic or pandemic, or the threat thereof, could result in worker absences, lower productivity, voluntary closure of our offices and manufacturing facilities, disruptions in our supply chain, travel restrictions on our employees, and other disruptions to our businesses. Moreover, health epidemics may force local health and government authorities to mandate the temporary closure of our offices and manufacturing facilities. 
+
+With the outbreak of the Coronavirus, Chinese authorities quarantined many cities and restricted travel within the country. We asked our approximately 140 employees based in China not to report to our facilities and restricted travel to China. Similar actions have been taken by our China-based and other suppliers and customers. Many commercial airlines and countries have canceled flights and restricted travel to and from China. If the virus spreads further and Chinese business continue to be shutdown or delayed, it could adversely affect our business and results of operations.
+
+Higher oil prices could adversely affect commercial airline-related customers of our Aerospace and Defense Electronics segment. Conversely, lower oil prices have decreased oil exploration and petrochemical refining activities and have hindered our Marine and other Instrumentation businesses. In addition, instability in the Middle East or other oil-producing regions could adversely affect expansion plans of the oil and gas industry customers of our Instrumentation businesses.
+
+Our revenue from government contracts subjects us to many risks:
+
+Our revenue from U.S. government contracts depends on the continued availability of funding from the U.S. Government, and, accordingly, we have the risk that funding for our existing contracts may be canceled or diverted to other uses or delayed or that funding for new programs will not be available.
+
+We perform work on a number of contracts with the U.S. Department of Defense and other agencies and departments of the U.S. Government including subcontracts with government prime contractors. Sales under contracts with the U.S. Government, including sales under contracts with the U.S. Department of Defense, as prime contractor or subcontractor, represented approximately 24% of our total revenue in 2019, compared with 23% in 2018 and 24% in 2017. Performance under government contracts has inherent risks that could have a material effect on our business, results of operations, and financial condition.
+
+Government contracts are conditioned upon the continuing availability of Congressional appropriations and the failure of Congress to appropriate funds for programs in which we participate could negatively affect our results of operations. U.S. Government shutdowns have resulted in delays in anticipated contract awards and delayed payments of invoices for several of our businesses and any new shutdown could have similar or worse effects. The failure by Congress to approve future budgets on a timely basis could delay procurement of our products and services and cause us to lose future revenues. Any renewed emphasis on Federal deficit and debt reduction could lead to a further decrease in overall defense spending. Budgetary concerns could result in future contracts being awarded more on price than on other competitive factors, and smaller defense budgets could result in government in-sourcing of programs and more intense competition on programs that are not in-sourced, which could result in lower revenues and profits.
+
+18
+
+Table of Contents
+
+Although the U.S. President has indicated his desire for increased defense spending, continued defense spending does not necessarily correlate to continued business for us, because not all of the programs in which we participate or have current capabilities may be provided with continued funding. Changes in policy and budget priorities by the President, his Administration and the U.S. Congress for various defense and National Aeronautics and Space Administration (“NASA”) programs could continue to impact our Engineered Systems, Aerospace and Defense Electronics and Digital Imaging segments. Our Aerospace and Defense Electronics segment may be impacted by volume or price reductions in connection with the F-35 Joint Strike Fighter program, to the extent they are imposed. The timing of program cycles can affect our results of operations for a quarter or year, and cancellations of significant programs such as the Space Launch System (“SLS”), Launch Vehicle Stage Adapter (“LVSA”), International Space Station (“ISS”), Mission Operations and Integration (“MO&I”), or the Shallow Water Combat Submersible (“SWCS”) would affect our results. It is also not uncommon for the U.S. Department of Defense to delay the timing of awards for major programs for six to twelve months. Reductions and delays in research and development funding by the U.S. Government could impact our revenues. Uncertainty over budgets or priorities with the existing or a different U.S. Presidential Administration following the 2020 election could result in delays in funding and the timing of awards, and changes in funded programs that could have a material impact on our revenues. 
+
+Our participation in government programs may decrease as those programs evolve over time.
+
+Over time, and for a variety of reasons, programs can evolve and affect the extent of our participation. We have been a significant participant in NASA programs, primarily through our Engineered Systems segment and through Teledyne Scientific and Imaging, LLC. The prior U.S. Presidential Administration introduced significant changes to the national space policy, including the cancellation of NASA’s Constellation Program which includes Ares launch vehicles. Delayed funding and changes in support for NASA’s current space policy, including the Space Launch System (“SLS”), International Space Station (“ISS”), or Artemis Mission to the Moon could negatively impact our business. Furthermore, while funding for national space has been more positive under the current U.S. Presidential Administration, a different U.S. Presidential Administration following the 2020 election could make changes to funding for national space that could be less favorable. 
+
+Furthermore, the U.S. Government continues to place emphasis on small business quotas and may continue to increase small business contract set asides and minimum work percentages. In some cases, prime contractors are required to reduce participation by large subcontractors like Teledyne in order to fill small business quotas and be responsive to proposals and bids. As a result, our Engineered Systems segment could lose participation in some government programs.
+
+Our contracts with the U.S. Government are subject to termination rights that could adversely affect us.
+
+Most of our U.S. Government contracts are subject to termination by the U.S. Government either at its convenience or upon the default of the contractor. Termination for convenience provisions provide only for the recovery of costs incurred or committed, settlement expenses, and profit on work completed prior to termination. Termination for default clauses impose liability on the contractor for excess costs incurred by the U.S. Government in re-procuring undelivered items from another source. We had three U.S. Government contracts terminated for convenience in 2019, compared with 15 in 2018 and nine in 2017. No contracts were terminated for default during such three-year period.
+
+We may lose money or generate less than expected profits on our fixed-price and other government contracts; and if we fail to meet certain pre-specified targets in government contracts, we may lose money.
+
+There is no guarantee that U.S. Government contracts will be profitable. A number of our U.S. Government prime contracts and subcontracts are fixed-price type contracts (64% of our total revenue from U.S. Government contracts came from fixed-price in 2019, 67% in 2018 and 58% in 2017). Under these types of contracts, we bear the financial risk that actual performance cost may exceed the fixed contract price. Under such contracts, we must absorb cost overruns, notwithstanding the difficulty of estimating all of the costs we will incur in performing these contracts. We cannot assure that our contract loss provisions in our financial statements will be adequate to cover all actual future losses. As the technological complexity and required performance levels for our products increase, which is occurring in many of our businesses, it becomes more challenging to estimate costs. We may lose money or generate lower profits on some contracts if we fail to meet these estimates. We may also lose money on non-fixed price, cost-reimbursement contracts that contain penalties related to cost, schedule or performance. Furthermore, some of our research and development programs for the government may get canceled or descoped should we fail to meet certain technical goals.
+
+Additionally, as we continue to support legacy defense programs certain components become more difficult to source, there is a risk that we may not be able to source critical components which could lead to cost overruns.
+
+19
+
+Table of Contents
+
+Our U.S. Government contracting business is subject to government contracting regulations, including increasingly complex regulations on cybersecurity, and our failure to comply with such laws and regulations could harm our operating results and prospects.
+
+Our U.S. Government contracting businesses, like other government contractors, are subject to various audits, reviews and investigations (including private party “whistleblower” lawsuits) relating to our compliance with applicable federal and state laws and regulations. More routinely, the U.S. Government may audit the costs we incur on our U.S. Government contracts, including allocated indirect costs. Such audits could result in adjustments to our contract costs. Any costs found to be improperly allocated to a specific contract will not be reimbursed, and such costs already reimbursed would need to be refunded. We have recorded contract revenues based upon costs we expect to realize after final audit. In a worst case scenario, should a business or division involved be charged with wrongdoing, or should the U.S. Government determine that the business or division is not a “presently responsible contractor”, that business or division, and conceivably our Company as a whole, could be temporarily suspended or, in the event of a conviction, could be debarred for up to three years from receiving new government contracts or government-approved subcontracts. In addition, we could expend substantial amounts defending against such charges and in damages, fines and penalties if such charges were proven or were to result in negotiated settlements. 
+
+The Department of Defense as well as other U.S. Government contracting agencies have adopted rules and regulations requiring contractors to implement a set of cyber security measures to attain the safeguarding of contractor systems that process, store, or transmit certain information. Implementation and compliance with these cyber security requirements is complex and costly, and could result in unforeseen expenses, lower profitability and, in the case of non-compliance, penalties and damages, all of which could have an adverse effect on our business. 
+
+Our pension expense and the value of our pension assets are affected by factors outside of our control, including the performance of plan assets, the stock market, interest rates and actuarial experience.
+
+Our domestic qualified defined benefit pension plans cover most of our U.S. employees hired prior to 2004 or approximately 10% of our active employees. We also have several small domestic non-qualified and foreign-based pension plans. As of December 29, 2019, the value of the combined pension assets is greater than our combined pension benefit obligations. The accounting rules applicable to our pension plans require that amounts recognized in the financial statements be determined on an actuarial basis, rather than as contributions are made to the plan. Two significant elements in determining our pension income or pension expense are the expected return on plan assets and the discount rate used in projecting pension benefit obligations. Declines in the stock market and lower rates of return could increase required contributions to our qualified pension plan and/or result in a change to shareholders’ equity. Our investment strategy may not produce the expected returns if the credit, financial or stock markets deteriorate. Any decreases or increases in market interest rates will affect the discount rate assumption used in projecting pension benefit obligations. In addition, changes in other actuarial assumptions such as mortality assumptions or change due to legislative or regulatory actions could impact our pension income or expense as well as funding obligations. Each year, beginning in 2014, the Society of Actuaries has released revised mortality tables, which updated life expectancy assumptions. In consideration of these tables, each year we review the mortality assumptions used in determining our pension and post-retirement benefit obligations. The impact of these mortality assumptions could increase our pension obligation and increase future pension expense. No contributions have been made to the domestic qualified pension plan since 2013. If, and to the extent, decreases in our pension assets are not offset by voluntary contributions, recovered through future asset returns, mitigated by an increase in the rate at which the benefit obligation is discounted, or other actions, our required cash contributions and pension expense could increase under the plans. In addition, we have sold approximately $63.9 million in pension liability to third parties. To the extent any of these counterparties are unable to fulfill their obligations to retirees, we may have residual liability, particularly to the extent state guarantee funds are inadequate. For additional discussion of pension matters, see the discussion under “Item 7. Management’s Discussion and Analysis of Operations and Financial Condition” and Notes 2, 11 and 15 of the Notes to Consolidated Financial Statements.
+
+Our business and operations could suffer in the event of cyber security breaches.
+
+Attempts by others to gain unauthorized access to our information technology systems have become more sophisticated and are sometimes successful. These attempts, which might be related to industrial or foreign government espionage, crime, activism, or other motivations, include covertly introducing malware into our computers and computer networks, performing reconnaissance, impersonating authorized users, extortion, stealing, corrupting or restricting our access to data, among other activities. We continue to train our personnel and update our infrastructure, security tools and processes to protect against security incidents, including both external and internal threats, and to prevent their recurrence. Company personnel and third parties have been tasked to detect, respond to, and investigate such incidents, but it is possible that we might not prevent or be aware of or be able to react to an incident or its magnitude and effects. The theft, corruption, unauthorized use or publication of our intellectual property or confidential business information could harm our competitive position, reduce the value of our investment in research and development and other strategic initiatives or otherwise adversely affect our business. We are subject to U.S. Department of Defense regulations applicable to certain types of data residing on or transiting through our information systems, and these regulations have been and will continue to be incorporated into certain U.S. Department of 
+
+20
+
+Table of Contents
+
+Defense contracts that we hold. To the extent that any security breach results in inappropriate disclosure of confidential or controlled information of employees, third parties or the U.S. Government, or any of the deployed security controls are deemed insufficient, we may incur liability or the loss of contracts or security clearances. As a result, we expect to continue to devote additional resources to the security of our information technology systems. More resources may be required in the defense arena to the extent the U.S. Government increases its cyber security mandates. Unauthorized access to or control of our products, devices or systems could impact the safety of our customers and other third parties which could result in legal claims against us. Security breaches also could result in a violation of applicable U.S. and international privacy and other laws, including the EU General Data Protection Regulation (“GDPR”), Health Insurance Portability and Accountability Act (“HIPAA”), Payment Card Industry Data Security Standard (“PCI”) and California Consumer Privacy Act (“CCPA”) and subject us to private consumer or securities litigation and governmental investigations and proceedings, any of which could result in our exposure to material civil or criminal liability.
+
+We may not have sufficient resources to fund all future research and development and capital expenditures or possible acquisitions.
+
+In order to remain competitive, we must make substantial investments in research and development of new or enhanced products and continuously upgrade our process technology and manufacturing capabilities.
+
+Our research and development efforts primarily involve engineering and design related to improving existing products and developing new products and technologies in the same or similar fields.
+
+Our Teledyne Scientific Company subsidiary, which serves as our primary research center, has been actively promoting and funding joint research and development projects with other Teledyne businesses, including Teledyne Oil & Gas, Teledyne Defense Electronics, Teledyne Digital Imaging and our Test and Measurement businesses.
+
+The business of e2v, for which the design and development of specialized technology for high performance systems and equipment is integral, also requires substantial investments in research and development.
+
+Additionally, some of our businesses have sought or are actively pursuing governmental support and funding for some of their research and development initiatives, including funding in 2019 for DALSA’s semiconductor foundry in Bromont, Quebec.
+
+Nonetheless, we may be unable to fund all of our research and development and capital investment needs or possible strategic acquisitions of businesses or product lines.
+
+Our ability to raise additional capital will depend on a variety of factors, some of which will not be within our control, including the existence of bank and capital markets, investor perceptions of us, our businesses and the industries in which we operate, and general economic conditions.
+
+Failure to successfully raise needed capital or generate cash flow on a timely or cost-effective basis could have a material adverse effect on our business, results of operations and financial condition.
+
+In addition, if we fail to accurately predict future customer needs and preferences or fail to produce viable technologies, we may invest heavily in research and development of products that do not lead to significant revenue, which would adversely affect our profitability.
+
+Limitations in customer funding for applied research and development and limitations in government support for research and development expenditures may reduce our ability to apply our ongoing investments in some market areas.
+
+We may be unable to successfully introduce new and enhanced products in a timely and cost-effective manner or increase our participation in new markets, which could harm our profitability and prospects.
+
+Our operating results depend in part on our ability to introduce new and enhanced products on a timely basis. We have major development activities at some of our businesses, for which a failure to execute in a timely manner could negatively impact those businesses. In order to improve our product development capabilities, we purchased the research center that is now Teledyne Scientific Company in 2006 and in 2011 we purchased DALSA to gain access to a well-equipped MEMS research and development center. In 2013, we opened a 52,000-square-foot technology development center in Daytona Beach, Florida primarily to serve the offshore oil and gas production and exploration industries. We are currently upgrading infrastructure at Teledyne e2v’s facility in Chelmsford, U.K. and have expanded Teledyne DALSA’s MEMS foundry in Bromont, Quebec, as well as acquired a second MEMS foundry in Edmonton, Alberta as part of the Micralyne acquisition. Successful product development and introduction depend on numerous factors, including our ability to anticipate customer and market requirements, changes in technology and industry standards, our ability to differentiate our product offerings from the product offerings of our competitors, and market acceptance. We may not be able to develop and introduce new or enhanced products in a timely and cost-effective manner or to develop and introduce products that satisfy customer requirements.
+
+Our new products also may not achieve market acceptance or correctly address new industry standards and technological changes. We may also lose any technological advantage to competitors if we fail to develop new products in a timely manner.
+
+Additionally, new products may trigger increased warranty costs as information on such products is augmented by actual usage. Accelerated entry of new products to meet heightened market demand and competitive pressures may cause additional warranty costs as development and testing time periods might be accelerated or condensed.
+
+We intend to both adapt our existing technologies and develop new products to expand into new market segments. We may be unsuccessful in accessing these and other new markets if our products do not meet our customers’ requirements, as a result of changes in either technology and industry standards or because of actions taken by our competitors.
+
+21
+
+Table of Contents
+
+Technological change and evolving industry and regulatory standards could cause some of our products or services to become obsolete or non-competitive.
+
+The markets for some of our products and services are characterized by rapid technological development, evolving industry standards, changes in customer requirements and new product introductions and enhancements. A faster than anticipated change in one or more of the technologies related to our products or services, or in market demand for products or services based on a particular technology, could result in faster than anticipated obsolescence of certain of our products or services and could lead to reduced sales of those products, which could have a material adverse effect on our business, results of operations and financial condition. Currently accepted industry and regulatory standards are also subject to change, which may contribute to the obsolescence of our products or services. The political agenda of the U.S. Presidential Administration may affect the level of environmental regulations and enforcement and government spending on scientific research, which could adversely impact the sales of our products and services, including sales of pollution monitoring instruments and instruments used to measure the Earth’s climate and climate change, such as undersea gliders and space-based imaging sensors. A change in China’s economic policies promoting pollution reduction could result in lower sales or slower sales growth for our pollution monitoring and laboratory instrumentation to China. 
+
+We may not be able to reduce the costs of our products to satisfy customers’ cost reduction mandates, which could harm our sales or margins.
+
+Cost conscious customers may seek price reductions of our products. While we continually work to reduce our manufacturing and other costs of our products, without affecting product quality and reliability, there is no assurance that we will be able to do so or to do so in a timely manner to satisfy the pricing pressures of our customers. Prices of raw materials and other components used in our products may be beyond our control depending on market conditions. As a result, customers may seek lower cost products from China or other developing countries where manufacturing costs are lower.
+
+The airline industry is heavily regulated, and if we fail to comply with applicable requirements, our results of operations could suffer.
+
+The Federal Aviation Administration (“FAA”) and equivalent regulatory agencies have increasingly focused on the need to assure that airline industry products are designed with sufficient cybersecurity controls to protect against unauthorized access or other unwanted compromise. A failure to meet these evolving expectations could negatively impact sales into the industry and expose us to legal or contractual liability. 
+
+Governmental agencies throughout the world, including the FAA, prescribe standards and qualification requirements for aircraft components, including virtually all commercial airline and general aviation products. Specific regulations vary from country to country, although compliance with FAA requirements generally satisfies regulatory requirements in other countries. If any material authorization or approval qualifying us to supply our products is revoked or suspended, then sale of the product would be prohibited by law, which would have an adverse effect on our business, financial condition and results of operations.
+
+From time to time, the FAA or equivalent regulatory agencies in other countries propose new regulations or changes to existing regulations, which often are more stringent than existing regulations. If such proposals are adopted and enacted, we may incur significant additional costs to achieve compliance, which could have a material adverse effect on our business, financial condition and results of operations. Recent trends by China’s aviation authority to relax restrictions on airspace may be reversed, and anticipated new regulations loosening airspace restrictions may not materialize, which could impact sales prospects in China for our commercial aerospace businesses.
+
+The FAA and the U.S. Department of Justice’s Fraud Section, among other agencies and countries, are investigating two Boeing 737 Max 8 aircraft crashes that occurred in October 2018 and March 2019, which resulted in the groundings of such aircraft across the world. While the investigations continue, Boeing announced in December 2019 that it will temporarily suspend production of the 737 Max starting in January 2020. While the impact of this decision has been factored into our business plans, there is a risk that the decision will have further negative impact on our Teledyne Controls’ business, particularly if the suspension lasts longer than expected. 
+
+Increasing competition could reduce the demand for our products and services.
+
+Each of our markets is highly competitive. Many of our competitors have, and potential competitors could have, greater name recognition, a larger installed base of products, more extensive engineering, manufacturing, marketing and distribution capabilities and greater financial, technological and personnel resources. New or existing competitors may also develop new technologies that could adversely affect the demand for our products and services. We have been experiencing increased competition for some of our key products. Furthermore, some of our patents have or are expiring which could open up further competition. For example, our U.S. patent related to our Wireless GroundLink product expired in 2018, allowing several competitors to enter the market. Additionally, some of our customers have been developing competing products or electing to vertically integrate and replace our products with their own. For example, Airbus has developed its own wireless product, FOMAX, that now competes directly with Teledyne Controls hardware and services. Furthermore, Boeing has announced a vertical integration program, which include avionics. Lastly, some of our products face increasing competition from alternative technologies. For example, the lead acid batteries that Teledyne Battery Products sells face competition from lithium ion batteries, among other competing technologies. 
+
+22
+
+Table of Contents
+
+Industry acquisition and consolidation trends, particularly among aerospace and defense contractors, have adversely impacted demand for our aerospace and defense related engineering services as large prime contractors elect to in-source major acquisition programs and expand small business participation to meet Government contracting goals. Such consolidations can also cause delays in business as the newly consolidated organization undergoes integration. 
+
+ Low-cost competition from China and other developing countries could also result in decreased demand for our products. Increasing competition could reduce the volume of our sales or the prices we may charge, which would negatively impact our revenues. Smaller defense budgets both in the United States and Europe could result in additional competition for new and existing defense programs.
+
+Product liability claims, product recalls and field service actions could have a material adverse effect on our reputation, business, results of operations and financial condition and we may have difficulty obtaining product liability and other insurance coverage.
+
+As a manufacturer and distributor of a wide variety of products, including monitoring instruments, products used in offshore oil and gas production, products used in transportation and commercial aviation and products used in medical devices (including X-ray detectors), our results of operations are susceptible to adverse publicity regarding the quality or safety of our products. In part, product liability claims challenging the safety of our products may result in a decline in sales for a product, which could adversely affect our results of operations. This could be the case even if the claims themselves are proven to be untrue or settled for immaterial amounts.
+
+While we have general liability and other insurance policies concerning product liabilities and errors and omissions, we have self-insured retentions or deductibles under such policies with respect to a portion of these liabilities. Awarded damages could be more than our accruals. We could incur losses above the aggregate annual policy limit as well. We cannot assure that, for 2020 and in future years, insurance carriers will be willing to renew coverage or provide new coverage for product liability.
+
+Product recalls can be expensive and tarnish our reputation and have a material adverse effect on the sales of our products. We cannot assure that we will not have additional product liability claims or that we will not recall any products.
+
+We have been joined, among a number of defendants (often over 100), in lawsuits alleging injury or death as a result of exposure to asbestos. In addition, because of the prominent “Teledyne” name, we may continue to be mistakenly joined in lawsuits involving a company or business that was not assumed by us as part of our 1999 spin-off. To date, we have not incurred material liabilities in connection with these lawsuits. However, our historic insurance coverage, including that of our predecessors, may not fully cover such claims and the defense of such matters. Coverage typically depends on the year of purported exposure and other factors. Nonetheless, we intend to vigorously defend our position against these claims.
+
+Teledyne Brown Engineering, Inc. and other Teledyne companies manufacture components for customers in the nuclear power market, including utilities and certain governmental entities. Certain liabilities associated with such products are covered by the Price-Anderson Nuclear Industries Indemnity Act and other statutory and common law defenses, and we have received indemnities from some of our customers. However, there is no assurance we will not face product liability claims related to such products or that our exposure will not exceed the amounts for which we have liability coverage or protection.
+
+Our business and financial results could be adversely affected by conditions and other factors associated with our suppliers.
+
+Some items we purchase for the manufacture of our products are purchased from limited or single sources of supply due to technical capability, price and other factors. For example, Teledyne Digital Imaging has an internal single source of supply for CCD semiconductor wafers used to assemble image sensors and an external single source of supply for CMOS semiconductor wafers used to assemble X-ray panel products. Furthermore, sole source supply is more common among our research and development businesses because there can be few suppliers in the world capable of producing the products or providing the services with the right highly specialized technology. LeCroy continues to outsource a portion of its research and development activities to third-party engineering firms in Malaysia and India where it may be more difficult for us to enforce our intellectual property rights. We have also outsourced from time to time the manufacturing of certain parts, components, subsystems and even finished products to single or limited sources, including international sources. Disruption of these sources or supplier-imposed rationing of scarce components could cause delays or reductions in shipments of our products or increases in our costs, which could have an adverse effect on our financial condition or operations. We could experience global supply chain disruptions if the Coronavirus heath crisis continues and widens. International sources possess additional risks, some of which are similar to those described above regarding international sales. With any continuing disruption in the global economy and financial markets, some of our suppliers may also continue to face issues gaining access to sufficient credit and materials to maintain their businesses, which could reduce the availability of some components and, to the extent such suppliers are single source suppliers, could adversely affect our ability to continue to manufacture and sell our products. 
+
+23
+
+Table of Contents
+
+We face risks related to sales through distributors and other third parties that we do not control, which could harm our business.
+
+We sell a portion of our products through third parties such as distributors, value-added resellers and OEMs (collectively “distributors”). Using third parties for distribution exposes Teledyne to many risks, including concentration, credit risk and legal risk because under certain circumstances we may be held responsible for the action of those third-party sales channels even though we exercise less control over them than we do our directly employed sales personnel. We may rely on one or more key distributors for a product, and the loss of these distributors could reduce our revenue. Distributors may face financial difficulties, including bankruptcy, which could harm our collection of accounts receivables and financial results. Violations of the Foreign Corrupt Practices Act (“FCPA”) or similar anti-bribery laws by distributors or other third-party intermediaries could have a material impact on our business. Competitors could also block our access to key distributors. Failing to manage risks related to our use of distributors may reduce sales, increase expenses, and weaken our competitive position, and could result in sanctions against us.
+
+Compliance with increasing environmental and climate change regulations, as well as the effects of potential environmental liabilities, could have a material adverse financial effect on us.
+
+We, like other industry participants, are subject to various federal, state, local and international environmental laws and regulations. We may be subject to increasingly stringent environmental standards in the future, particularly as greenhouse gas emissions and climate change regulations and initiatives increase. Future developments, administrative actions or liabilities relating to environmental and climate change matters could have a material adverse effect on our business, results of operations or financial condition. Environmental regulations on hydraulic fracturing and the use of seismic energy sources for offshore energy exploration could adversely affect some product lines of our Instrumentation segment.
+
+Our manufacturing operations, including former operations, could expose us to material environmental liabilities. Additionally, companies that we acquire may have environmental liabilities that might not be accurately assessed or brought to our attention at the time of the acquisition.
+
+The U.S. Environmental Protection Agency (“EPA”) has focused on greenhouse gases (“GHGs”), maintaining GHGs threaten the public health and welfare of the American people. The EPA also maintains that GHG emissions from on-road vehicles contribute to that threat. The EPA’s endangerment finding covers emissions of six greenhouse gases. The EPA’s continuing efforts to limit GHG emissions could adversely affect our U.S. manufacturing operations, increase prices for energy, fuel and transportation, require us to accommodate changes in parameters, such as the way parts are manufactured, and may, in some cases, require us to redesign certain of our products. This, or other federal or state regulations, could lead to increased costs, which we may not be able to recover from customers, delays in product shipments and loss of market share to competitors. For example, Teledyne Battery Products unit makes lead acid batteries in California and is subject to a variety of environmental regulations and inspections, which have increased over time. Also, some of our sites conduct electroplating, metal finishing and other operations that utilize hazardous materials that are subject to similar regulations. Regulatory changes or failure to meet applicable requirements could disrupt that business or force a closure or relocation of the business. 
+
+Our products are subject to various regulations that prohibit or restrict the use of certain hazardous substances. For example, our products placed on the European market are subject to the Registration, Evaluation, Authorization and Restriction of Chemicals (“REACH”) and the restriction of the use of certain hazardous substances in electrical and electronic equipment (“ROHS”) Directives. Future hazardous substance restrictions or prohibitions may limit our ability to market some products in certain countries.
+
+For additional discussion of environmental matters, see the discussion under the caption “Other Matters – Environmental” of “Item 7. Management’s Discussion and Analysis of Results of Operation and Financial Condition” and Note 14 of the Notes to Consolidated Financial Statements. For a discussion of our products that contribute to the environment, sustainability and climate science, see “Item 1. Business – Environment and Sustainability”.
+
+Our inability to attract and retain key personnel could have a material adverse effect on our future success.
+
+Our future success depends to a significant extent upon the continued service of our executive officers and other key management and technical personnel and on our ability to continue to attract, retain and motivate qualified personnel. We also have a maturing workforce. Some of our businesses, including our businesses in traveling wave tube and integrated microwave module design and development, draw from a pool of specialized engineering talent that is small and currently shrinking. Some of our businesses have a need for employees with a certain level of security clearance, and competition for such employees has increased. While we have engaged in succession planning, the loss of the services of one or more of our key employees or our failure to attract, retain and motivate qualified personnel could have a material adverse effect on our business, financial condition and results of operations. Low unemployment in the United States has made it more difficult for some of our businesses to attract and retain direct labor in certain markets. 
+
+24
+
+Table of Contents
+
+We may not be able to sell or reconfigure businesses, facilities or product lines that we determine no longer meet with our growth strategy or that should be consolidated.
+
+Consistent with our strategy to emphasize growth in our core markets, we continually evaluate our businesses to ensure that they are aligned with our strategy and objectives. Over the years we have also consolidated some of our business units and facilities, in some cases to respond to downturns in the defense and oil and gas industries, among other reasons. We are currently in the process of closing our Teledyne Paradise Datacom facility in State College, Pennsylvania and moving its operations to our Teledyne Microwave Solutions facility in Rancho Cordova, California. We may not be able to realize efficiencies and cost savings from our consolidation activities. There is no assurance that our efforts will be successful. If we do not successfully manage our current consolidation activities, or any other similar activities that we may undertake in the future, expected efficiencies and benefits might be delayed or not realized, and our operations and business could be disrupted. Our ability to dispose of, exit or reconfigure businesses that may no longer be aligned with our growth strategy will depend on many factors, including the terms and conditions of any asset purchase and sale agreement or lease agreement, as well as industry, business and economic conditions. We cannot provide any assurance that we will be able to sell non-strategic businesses on terms that are acceptable to us, or at all. In addition, if the sale of any non-strategic business cannot be consummated or is not practical, alternative courses of action, including relocation of product lines or closure, may not be available to us or may be more costly than anticipated.
+
+Natural and man-made disasters could adversely affect our business, results of operations and financial condition.
+
+Several of our facilities, as a result of their locations, could be subject to a catastrophic loss caused by earthquakes, hurricanes, tornados, floods, ice storms or other natural disasters. Many of our production facilities and our headquarters are located in California and thus are in areas with above average seismic activity and may also be at risk of damage due to wildfires. In November 2018, wildfires impacted areas near our headquarters and principal research and development center in Thousand Oaks, California, resulting in temporary disruptions and evacuations of employees who lived nearby. Local utilities may impose blackouts during high fire risk weather conditions, which could result in disruptions to our businesses located in California, including our headquarters. Teledyne DALSA’s semiconductor facilities in Quebec, Canada have been impacted by loss of electrical power caused by severe ice storms. In addition, we have manufacturing facilities in the southeastern United States and Texas that have been threatened or struck by major hurricanes. In 2017, our businesses located in Houston, Texas were impacted by Hurricane Harvey and our business in Florida was threatened by Hurricanes Irma and Matthew. Our facilities in Alabama, Florida, Nebraska, Tennessee and Virginia have also been threatened by tornados. If any of our California facilities, including our California headquarters, were to experience a catastrophic earthquake or wildfire loss or if any of our Alabama, Florida, Nebraska, Tennessee or Texas facilities were to experience a catastrophic hurricane, storm, tornado or other natural disaster, or if DALSA’s facilities in Quebec experience long-term loss of electrical power, such event could disrupt our operations, delay production, shipments and revenue, and result in large expenses to repair or replace the facility or facilities. While Teledyne has property insurance to partially reimburse it for losses caused by windstorm and earth movement, such insurance would not cover all possible losses. In addition, our existing disaster recovery and business continuity plans (including those relating to our information technology systems) may not be fully responsive to, or minimize losses associated with, catastrophic events.
+
+Disasters also have an indirect adverse impact on our business. For example, in 2018, a fire at a Netherlands-based facility of a key supplier of printed circuit boards resulted in delivery disruptions to the electronics industry, including to businesses in our Digital Imaging segment.
+
+Teledyne Brown Engineering, Inc. has developed, built, and launched a multiuser system for earth sensing that is affixed to the International Space Station (“ISS”). For the program to continue to be financially successful, the 20-year-old ISS must continue to fly in a safe and human tended condition. While certain spaceflight risks, such as a high-velocity debris impact to the station causing significant structural damage or necessitating the evacuation of the ISS, have been regarded as small, if such event were to occur, the ISS program continuation could be threatened, jeopardizing our investment and potential revenue generation from ISS-based Earth imaging.
+
+We may not be able to enforce or protect our intellectual property rights, or third parties may claim we infringe their intellectual rights, each which may harm our ability to compete and thus harm our business.
+
+Our ability to enforce and protect our patents, copyrights, software licenses, trade secrets, know-how, and other intellectual property rights is subject to general litigation risks, as well as uncertainty as to the enforceability of our intellectual property rights in various countries. When we seek to enforce our rights, we have found that various claims may be asserted against us, including claims that our intellectual property right is invalid, is otherwise not enforceable or is licensed to the party against whom we are asserting a claim. In addition, we may be the target of aggressive and opportunistic enforcement of patents by third parties. If we are not ultimately successful in defending ourselves against these claims in litigation, we may not be able to sell a product or family of products due to an injunction, or we may have to pay damages that could, in turn, harm our results of operations. Our inability to enforce our intellectual property rights under these circumstances may harm our competitive position and our business.
+
+25
+
+Table of Contents
+
+Higher tax rates may harm our results of operations and cash flow.
+
+Our effective tax rate for 2019 was 15.1%, compared with 15.3% for 2018 and 20.8% for 2017. While in December 2017, the Tax Cuts and Jobs Act of 2017 was signed into law, which in general lowered corporate tax rates in the United States, a number of factors may impact our effective tax rates, which could reduce our net income and increase our tax payments, including:
+
+•
+the relative amount of income we earn in other jurisdictions;
+
+•
+changes in tax laws or their interpretation, including changes in the United States to the taxation of foreign income and expenses, changes in tax laws in foreign jurisdictions, and changes in U.S. generally accepted accounting principles and governing body pronouncements and interpretations;
+
+•
+the resolution of issues arising from tax audits; 
+
+•
+changes in valuation of our deferred tax assets and liabilities, including deferred tax valuation allowances; 
+
+•
+adjustments to income taxes upon finalization of tax returns;
+
+•
+increases in expense not deductible for tax purposes; 
+
+•
+changes in available tax credits; and
+
+•
+any decision to repatriate non-U.S. earnings for which we have not made provision for U.S. taxes.
+
+Our financial statements are based on estimates required by Generally Accepted Accounting Principles in the United States (“GAAP”), and actual results may differ materially from those estimated under different assumptions or conditions.
+
+Our financial statements are prepared in conformity with GAAP. These principles require our management to make estimates and assumptions that affect the reported amounts of assets and liabilities at the date of the financial statements and the reported amounts of revenue and expenses during the reporting period. For example, estimates are used when accounting for items such as revenue, asset valuations, allowances for doubtful accounts, allowance for excess and obsolete inventory, depreciation and amortization, impairment assessments, employee benefits, taxes, recall and warranty costs, product and general liability and contingencies. While we base our estimates on historical experience and on various assumptions that we believe to be reasonable under the circumstances at the time made, actual results may differ materially from those estimated. Our most critical accounting estimates are described in “Item 7. Management Discussion and Analysis of Financial Condition and Results of Operations” in this Form 10-K under “Critical Accounting Estimates.”
+
+There are inherent limitations in internal control systems, and misstatements resulting from error or fraud may occur and may not be detected.
+
+We continue to act to assure compliance with the internal controls, disclosure controls and other requirements of the Sarbanes-Oxley Act of 2002. Our management, including our Chief Executive Officer and Chief Financial Officer, cannot guarantee that our internal controls and disclosure controls will prevent all possible errors or all fraud. A control system, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of the control system are met. In addition, the design of a control system must reflect the fact that there are resource constraints and the benefit of controls must be relative to their costs. Because of the inherent limitations in all control systems, no system of controls can provide absolute assurance that all control issues and instances of fraud, if any, within the Company have been detected. These inherent limitations include the realities that judgments in decision-making can be faulty and that breakdowns can occur because of simple error or mistake. Further, controls can be circumvented by individual acts of some persons, by collusion of two or more persons, or by management override of the controls. The design of any system of controls is also based, in part, upon certain assumptions about the likelihood of future events, and there can be no assurance that any design will succeed in achieving its stated goals under all potential future conditions. Over time, a control may become inadequate because of changes in conditions or the degree of compliance with the policies or procedures may deteriorate. Because of inherent limitations in a cost-effective control system, misstatements resulting from error or fraud may occur and may not be detected.
+
+Provisions of our governing documents, applicable law, and our Change in Control Severance Agreements could make an acquisition of Teledyne more difficult.
+
+Our Restated Certificate of Incorporation, our Amended and Restated Bylaws and the General Corporation Law of the State of Delaware contain several provisions that could make the acquisition of control of Teledyne, in a transaction not approved by our Board of Directors, more difficult. We have also entered into Change in Control Severance Agreements with ten members of our current management, which could have an anti-takeover effect. These provisions may prevent or discourage attempts to acquire our company.
+
+26
+
+Table of Contents
+
+The market price of our Common Stock has fluctuated significantly since we became a public company, and could continue to do so.
+
+The market price of our Common Stock has fluctuated substantially and fluctuations in our stock price could continue. In 2019, the price of our Common Stock ranged from $198.15 to $351.53. Subsequent to year-end 2019, our Common Stock hit a high of $398.99 on January 22, 2020.
+
+On February 21, 2020, the closing price of our Common Stock was $385.66. 
+
+Among the factors that could affect our stock price are:
+
+•
+quarterly variations in our operating results;
+
+•
+strategic actions by us or our competitors;
+
+•
+acquisitions;
+
+•
+divestitures;
+
+•
+stock repurchases;
+
+•
+adverse business developments;
+
+•
+war in the Middle East or elsewhere;
+
+•
+terrorists' activities;
+
+•
+military or homeland defense activities;
+
+•
+changes to the U.S. Federal budget or other government budgets;
+
+•
+changes in the energy exploration or production, semiconductor, digital imaging, telecommunications, commercial aviation, and electronic manufacturing services markets;
+
+•
+general market conditions;
+
+•
+changes in tax laws;
+
+•
+general economic factors unrelated to our performance; 
+
+•
+changes from analysts’ expectations in revenues, earnings or other financial results; and
+
+•
+one or more of the risk factors described in this report.
+
+Stock markets in general, and the markets for high-technology companies in particular, have experienced a high degree of volatility that is not necessarily related to the operating performance of these companies. We cannot provide assurances as to our stock price. We have in the past repurchased shares of our stock pursuant to board-approved stock repurchase programs. We cannot provide assurances that we will continue to repurchase shares under those programs, or that our board will authorize new repurchase programs.

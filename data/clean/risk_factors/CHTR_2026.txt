@@ -1,0 +1,474 @@
+. 
+
+Risks Related to Our Business
+
+We operate in a very competitive business environment, which affects our ability to attract and retain customers and can adversely affect our business, operations and financial results.
+
+The industry in which we operate is highly competitive and has become more so in recent years. In some instances, we compete against companies with fewer regulatory burdens, better access to financing and greater and more favorable brand name recognition. Increasing consolidation in the telecommunications and content industries have provided additional benefits to certain of our competitors, either through access to financing, resources, or efficiencies of scale including the ability to launch new products and services.
+
+Our Internet service faces competition from other companies’ FTTH, cell phone home Internet service, Internet delivered via satellite and DSL services. Various operators offer wireless Internet services delivered over networks which they continue to enhance to deliver faster speeds and also continue to expand 5G mobile services as they seek to offer converged connectivity services similar to ours. Our mobile and voice services compete with wireless and wireline phone providers, as well as other forms of communication, such as text, instant messaging, social networking services, video conferencing and email. Competition from these companies, including intensive marketing efforts with aggressive pricing, may have an adverse impact on our ability to attract and retain customers.
+
+Our video service faces competition from a number of sources, including DBS services, and companies that deliver linear network programming, movies and television shows on demand and other video content over broadband Internet connections to televisions, computers, tablets and mobile devices often with password sharing among multiple users and security that makes content susceptible to piracy. Newer products and services, particularly alternative methods for the distribution, sale and viewing of content may continue to be developed, further increasing the competition that we face.
+
+The increasing number of choices available to audiences, including low-cost or free choices, could negatively impact not only consumer demand for our products and services, but also advertisers’ willingness to purchase advertising from us. We compete for the sale of advertising revenue with television networks and stations, as well as other advertising platforms, such as online media, radio and print. Competition related to our service offerings to businesses continues to increase as well, as more companies deploy more fiber to more buildings, which may negatively impact our growth and put pressure on margins. 
+
+A failure to effectively anticipate or adapt to new technologies (including those that use artificial intelligence (“AI”)) and changes in customer expectations and behavior could significantly adversely affect our competitive position with respect to the leisure time and discretionary spending of our customers and, as a result, affect our business and results of operations. Competition may also reduce our expected growth of future cash flows which may contribute to future impairments of our franchises and goodwill and our ability to meet cash flow requirements, including debt service requirements. For additional information regarding the competition we face, see “Item 1. Business - Competition” and “Item 1. Business - Regulation and Legislation.” 
+
+Various events could disrupt or result in unauthorized access to our networks, information systems or properties and could impair our operating activities and negatively impact our reputation and financial results.
+
+Network and information systems technologies are critical to our operating activities, both for our internal uses, such as network management, and supplying services to our customers, including customer service operations and programming delivery. Network or information system shutdowns or other service disruptions caused by events such as computer hacking, phishing, dissemination of computer viruses, worms and other destructive or disruptive software, malicious cyber activities by nation-state threat actors, “cyber attacks” such as ransomware, process breakdowns, denial of service attacks and other malicious activity pose increasing risks. Both unsuccessful and successful “cyber attacks” on companies have continued to increase in frequency, scope and potential harm in recent years, and the increasing use of AI may intensify these cybersecurity risks. While we develop and maintain systems seeking to prevent systems-related events and security breaches from occurring, the development and maintenance of these systems is costly and requires ongoing monitoring and updating as techniques used in such attacks become more sophisticated and change frequently. We, and the third parties on which we rely, may be unable to anticipate these techniques or implement adequate preventive measures. While from time to time attempts have been made to access our network, these events have not as yet resulted in any material release of information, degradation or disruption to our network and information systems.
+
+21
+
+Our network and information systems are also vulnerable to damage or interruption from power outages, telecommunications failures, accidents, natural disasters (including extreme weather arising from short-term or long-term changes in weather patterns), terrorist attacks and similar events. Our system redundancy may be ineffective or inadequate, and our disaster recovery planning may not be sufficient for all eventualities.
+
+We have experienced many of these events and may experience additional events in the future. Any of these events, if directed at, or experienced by, us or technologies upon which we depend, have had and could in the future have adverse consequences on our network, our customers and our business, including degradation of service, service disruption, excessive call volume to call centers, and damage to our or our customers’ equipment and data. Large expenditures and substantial resources have been and may in the future be necessary to repair or replace damaged property, networks or information systems or to protect them from similar events in the future. Moreover, the amount and scope of insurance that we maintain against losses resulting from any such events or security breaches has not always been and may not in the future be sufficient to cover our losses or otherwise adequately compensate us for any disruptions to our business that have resulted and may result. Any such significant service disruption could result in damage to our reputation and credibility, customer dissatisfaction and ultimately a loss of customers or revenue. Any significant loss of customers or revenue, or significant increase in costs of serving those customers, could adversely affect our growth, financial condition and results of operations.
+
+Furthermore, our operating activities could be subject to risks caused by misappropriation, misuse, leakage, falsification or accidental release or loss of information maintained in our information technology systems and networks and those of our third-party vendors, including customer, personnel and vendor data. We provide certain confidential, proprietary and personal information to third parties in connection with our business, and there is a risk that this information may be compromised.
+
+We process, store, and transmit large amounts of data, including the personal information of our customers.  Ongoing increases in the potential for misuse of personal information, the public’s awareness of the importance of safeguarding personal information, and the volume of legislation that has been adopted or is being considered regarding the protection, privacy and security of personal information have resulted in increases to our information-related risks. We could be exposed to significant costs if such risks were to materialize, and such events could damage our reputation, credibility and business and have a negative impact on our revenue. We could be subject to regulatory actions and claims made by consumers in private litigations involving privacy issues related to consumer data collection and use practices. We also could be required to expend significant capital and other resources to remedy any security breach.
+
+We depend on third-party service providers, suppliers and licensors; thus, if we are unable to procure the necessary services, equipment, software or licenses on reasonable terms and on a timely basis, our ability to offer services could be impaired, and our growth, operations, business, financial results and financial condition could be materially adversely affected.
+
+We depend on a limited number of third-party service providers, suppliers and licensors to supply some of the services, hardware, software and operational support necessary to provide some of our services and execute our network evolution and rural construction initiatives. Some of our hardware, software and operational support vendors and service providers represent our sole source of supply or have, either through contract or as a result of intellectual property rights, a position of some exclusivity. Our ability to provide some services and complete our network evolution and rural construction initiatives might be materially adversely affected, or the need to procure or develop alternative sources of the affected materials or services might interrupt or delay our ability to serve existing and new customers, if any of these parties experience or engage in the following:
+
+•
+breach or terminate or elect not to renew their agreements with us or otherwise fail to perform their obligations in a timely manner;
+
+•
+demand exceeds these vendors’ capacity;
+
+•
+tariffs or component supply conditions impact vendors’ ability to perform their obligations or significantly increase the amount we pay;
+
+•
+experience operating or financial difficulties;
+
+•
+experience network or information system shutdowns or other service disruptions or security breaches;
+
+•
+significantly increase the amount we are required to pay (including demands for substantial non-monetary compensation) for necessary products or services; or 
+
+•
+cease production or providing necessary software updates of any necessary product due to lack of demand, profitability or a change in ownership or are otherwise unable to provide the equipment or services we need in a timely manner at our specifications and at reasonable prices. 
+
+22
+
+In addition, the existence of only a limited number of vendors of key technologies can lead to less product innovation and higher costs. Any of these events could materially and adversely affect our ability to retain and attract customers and our operations, business, financial results and financial condition.
+
+Any failure to respond to technological developments and meet customer demand for new products and services could adversely affect our ability to compete effectively.
+
+We operate in a highly competitive, consumer-driven and rapidly changing environment. From time to time, we may pursue strategic initiatives to launch products or enhancements to our products. Our success is, to a large extent, dependent on our ability to acquire, develop, adopt, upgrade and exploit new and existing technologies to address consumers’ changing demands and distinguish our services from those of our competitors. We may not be able to accurately predict technological trends or the success of new products and services. If we choose technologies or equipment that are less effective, cost-efficient or attractive to customers than those chosen by our competitors, if technologies or equipment on which we have chosen to rely cease to be available to us on reasonable terms or conditions, if we offer services that fail to appeal to consumers, are not available at competitive prices or that do not function as expected, if we are not able to fund the expenditures necessary to keep pace with technological developments, or if we are no longer able to make our services available to our customers on a third-party device on which a substantial number of customers have relied to access our services, our competitive position could deteriorate, and our business and financial results could suffer.
+
+The ability of some of our competitors to introduce new technologies, products and services more quickly than us may adversely affect our competitive position. Furthermore, advances in technology, decreases in the cost of existing technologies or changes in competitors’ product and service offerings may require us in the future to make additional research and development expenditures or to offer, at no additional charge or at a lower price, certain products and services that we currently offer to customers separately or at a premium. In addition, the uncertainty of our ability, and the costs, to obtain intellectual property rights from third parties could impact our ability to respond to technological advances in a timely and effective manner.
+
+Any failure to maintain and expand our upgraded systems and provide advanced services in a timely manner, or to anticipate the demands of the marketplace, could materially adversely affect our ability to attract and retain customers. In addition, as we continue to grow our mobile services using virtual network operator rights from a third party, we expect continued growth-related sales and marketing and other customer acquisition costs. We also continue to consider and pursue opportunities in the mobile space which may include the acquisition of additional licensed spectrum and may include entering into or expanding joint ventures or partnerships with wireless or cable providers which may require significant investment. For example, we now hold CBRS PALs to support existing and future mobile services. These licenses are subject to revocation and expiration. Although we expect to be able to maintain and renew these licenses, the loss of one or more licenses could significantly impair our ability to offload mobile traffic and achieve cost reductions. If we are unable to continue to grow our mobile business and achieve the outcomes we expect from our investments in the mobile business, our growth, financial condition and results of operations could be adversely affected.
+
+Our business may be adversely affected if we cannot continue to license or enforce the intellectual property rights on which our business depends.
+
+We rely on patent, copyright, trademark and trade secret laws and licenses and other agreements with our employees, customers, suppliers and other parties to establish and maintain our intellectual property rights in technology and the products and services used in our operations. Also, because of the rapid pace of technological change, we both develop our own technologies, products and services and rely on technologies developed or licensed by third parties. However, any of our intellectual property rights, or the rights of our suppliers, could be challenged or invalidated, or such intellectual property rights may not be sufficient to permit us to take advantage of current industry trends or otherwise to provide competitive advantages, which could result in costly redesign efforts, discontinuance of certain product or service offerings or other competitive harm. We may not be able to obtain or continue to obtain licenses from these third parties on reasonable terms, if at all. In addition, claims of intellectual property infringement could require us to enter into royalty or licensing agreements on unfavorable terms, incur substantial monetary liability or be enjoined preliminarily or permanently from further use of the intellectual property in question, which could require us to change our business practices or offerings and limit our ability to compete effectively. Even unsuccessful claims can be time-consuming and costly to defend and may divert management’s attention and resources away from our business. Infringement claims continue to be brought frequently in the communications and entertainment industries, and we are also often a party to such litigation alleging that certain of our services or technologies infringe the intellectual property rights of others.
+
+23
+
+We may not have the ability to pass on to our customers all of the increases in programming costs, which could adversely affect our cash flow and operating margins.
+
+Programming costs are one of our largest expense items. While decreases in video customers combined with a change in the mix of customers choosing lower cost packages have offset total programming cost increases, we expect contractual programming rates per service subscriber to continue to increase in excess of customary inflationary and cost-of-living type increases as a result of annual increases pursuant to our programming contracts and contract renewals with programmers. Although we pass along amounts paid for local broadcast station retransmission consent to the majority of our video customers, the inability to fully pass programming cost increases on to our video customers has had, and is expected in the future to have, an adverse impact on our cash flow and operating margins associated with the video product. In order to mitigate impacts to our operating margins due to increasing programming rates, we continue to review our pricing and programming packaging strategies. Further, some programmers have begun to simulcast and/or move popular programming to programmer streaming applications which has created a competitive alternative to our video subscription at lower price points that could, in turn, result in customer losses. We have obtained and will continue to seek to obtain access to many of these programmer streaming applications, where applicable, as we renew agreements, so that we may continue to include these in our customers’ video subscriptions and/or sell to broadband customers for a share of revenue.
+
+Increases in the cost of sports programming and the amounts paid for local broadcast station retransmission-consent have been the largest contributors to the growth in our programming costs over the last several years. Federal law allows commercial television broadcast stations to make an election between “must-carry” rights and an alternative “retransmission-consent” regime. When a station opts for the retransmission-consent regime, we are not allowed to carry the station’s signal without that station’s permission. In retransmission-consent negotiations, broadcasters often condition consent with respect to one station on carriage of one or more other stations or programming services in which they or their affiliates have an interest. Carriage of these other services, as well as increased fees for retransmission rights, may increase our programming expenses which could have an adverse effect on our business and financial results.
+
+Our programming contracts are generally for a fixed period of time, with potentially significant spend subject to negotiated renewal in any particular year. We will seek to renew these agreements on terms that we believe are favorable. There can be no assurance that these agreements will be renewed on favorable or comparable terms. To the extent that we are unable to reach agreement with certain programmers on terms that we believe are reasonable, we have been, and may in the future be, forced to remove such programming channels from our line-up, which may result in a loss of customers. Any failure to carry programming that is attractive to our customers could adversely impact our customer levels, operations and financial results.
+
+Issues related to the development and use of AI could give rise to legal or regulatory action, damage our reputation or otherwise materially harm our business.
+
+We currently incorporate AI technology in certain parts of our business operations. Our research and development of such technology remains ongoing. AI presents risks, challenges and unintended consequences that could affect our and our customers’ adoption and use of this technology. AI algorithms and training methodologies may be flawed. Additionally, AI technologies are complex and rapidly evolving. While we aim to develop and use AI responsibly and attempt to identify and mitigate ethical and legal issues presented by its use, we may be unsuccessful in identifying or resolving issues before they arise. AI-related issues, deficiencies or failures could give rise to legal or regulatory action, including with respect to proposed legislation regulating AI or as a result of new applications of existing data protection, privacy, intellectual property and other laws, and could damage our reputation or otherwise materially harm our business.
+
+Our exposure to the economic conditions of our current and potential customers, vendors and third parties could adversely affect our cash flow, results of operations and financial condition.
+
+We are exposed to risks associated with the economic conditions of our current and potential customers, the potential financial instability of our customers and their financial ability to purchase our products. If there were a prolonged general economic downturn, we may experience increased cancellations or non-payment by our customers or unfavorable changes in the mix of products purchased. This may include an increase in the number of homes that replace their video service with Internet-delivered or over-air content, as well as an increase in the number of Internet and voice customers substituting mobile data and voice products for wireline services, which would negatively impact our ability to attract customers, increase rates and maintain or increase revenue. In addition, our ability to gain new customers is dependent to some extent on growth in occupied housing in our service areas, which is influenced by both national and local economic conditions. Weak economic conditions may also have a negative impact on our advertising revenue. These events have adversely affected us in the past, and may adversely affect our cash flow, results of operations and financial condition in a future downturn.
+
+24
+
+In addition, we are susceptible to risks associated with the potential financial instability of the vendors and third parties on which we rely to provide products and services or to which we outsource certain functions. The same economic conditions that may affect our customers, as well as volatility and disruption in the capital and credit markets, also could adversely affect vendors and third parties and lead to significant increases in prices, reduction in output or the bankruptcy of our vendors or third parties upon which we rely. Further, inflationary pressures may impact the ability of vendors and other third parties to satisfy their obligations to us. Any interruption in the services provided by our vendors or by third parties could adversely affect our cash flow, results of operation and financial condition.
+
+If we are unable to retain key employees, our ability to manage our business could be adversely affected.
+
+Our operational results have depended, and our future results will depend, upon the retention and continued performance of our management team. Our ability to hire and retain key employees for management positions could be impacted adversely by the competitive environment for management talent in the broadband communications and technology industries. The loss of the services of key members of management and the inability to hire or delay in hiring new key employees could adversely affect our ability to manage our business and our future operational and financial results.
+
+Risks Related to Our Indebtedness
+
+We have a significant amount of debt and expect to incur significant additional debt, including secured debt, in the future, as well as additional debt in connection with the Cox Transactions and Liberty Broadband Combination, which could adversely affect our financial condition and our ability to react to changes in our business.
+
+We have a significant amount of debt, with total principal amount of approximately $94.6 billion and a leverage ratio of 4.15 times Adjusted EBITDA as of December 31, 2025. We expect to (subject to applicable restrictions in our debt instruments) incur additional debt in the future as Charter plans to maintain leverage near the midpoint of its stated 4.0 to 4.5 times Adjusted EBITDA target leverage range (net debt divided by the last twelve months Adjusted EBITDA) in the period leading up to the Closing. As part of the Cox Transactions, Charter will fund the $4.0 billion of cash consideration using debt and will assume Cox Communications' approximately $12.6 billion of net debt and finance leases. Charter plans to adjust its long-term target leverage range after Closing to 3.5 to 3.75 times Adjusted EBITDA but will still have a significant amount of debt. 
+
+Our significant amount of debt could have adverse consequences, such as:
+
+•
+impact our ability to raise additional capital at reasonable rates, or at all;
+
+•
+make us vulnerable to interest rate increases, in part because approximately 13% of our borrowings as of December 31, 2025 were, and may continue to be, subject to variable rates of interest;
+
+•
+expose us to increased interest expense to the extent we refinance existing debt with higher cost debt;
+
+•
+require us to dedicate a significant portion of our cash flow from operating activities to make payments on our debt, reducing our funds available for capital expenditures and other general corporate purposes;
+
+•
+limit our flexibility in planning for, or reacting to, changes in our business, the cable and telecommunications industries, and the economy at large;
+
+•
+place us at a disadvantage compared to our competitors that have proportionately less debt; and
+
+•
+adversely affect our relationship with customers and suppliers.
+
+In addition, we expect to incur additional indebtedness in the future, including to refinance and/or in connection with the assumption of indebtedness of Cox Communications and/or its subsidiaries after the completion of the Cox Transactions as well as Liberty Broadband and/or its subsidiaries after the completion of the Liberty Broadband Combination. To the extent our current debt amounts increase more than expected, our operating results are lower than expected, or credit rating agencies downgrade our debt thereby increasing our costs of borrowing and potentially limiting our access to investment grade markets, or significant market disruptions occur, the related risks that we now face will intensify.
+
+The agreements and instruments governing our debt contain restrictions and limitations that could significantly affect our ability to operate our business, as well as significantly affect our liquidity.
+
+The indentures governing the CCO Holdings, LLC (“CCO Holdings”) notes contain a number of significant covenants that could adversely affect our operations, liquidity and results of operations. These covenants restrict, among other things, CCO Holdings, CCO Holdings Capital Corp. and all of their restricted subsidiaries’ ability to:
+
+25
+
+•
+incur additional debt;
+
+•
+pay dividends on equity or repurchase equity;
+
+•
+make investments;
+
+•
+sell all or substantially all of their assets or merge with or into other companies;
+
+•
+sell assets;
+
+•
+in the case of restricted subsidiaries, create or permit to exist dividend or payment restrictions with respect to CCO Holdings, guarantee their parent companies’ debt, or issue specified equity interests; 
+
+•
+engage in certain transactions with affiliates; and
+
+•
+grant liens (with respect to only CCO Holdings).
+
+Additionally, the Charter Communications Operating, LLC (“Charter Operating”) credit facilities require Charter Operating to comply with a maximum total leverage covenant and a maximum first lien leverage covenant. The Charter Operating credit facilities, the Charter Operating notes, the Time Warner Cable, LLC (“TWC, LLC”) senior notes and debentures, and the Time Warner Cable Enterprises, LLC (“TWCE”) debentures include customary negative covenants, including restrictions on the ability to incur liens securing indebtedness for borrowed money and consolidating, merging or conveying or transferring substantially all of the respective obligor’s assets. The breach of any covenants or obligations in our indentures or credit facilities, not otherwise waived or amended, could result in a default under the applicable debt obligations and could trigger acceleration of those obligations, which in turn could trigger cross defaults under other agreements governing our long-term indebtedness. In addition, the secured lenders under our secured notes and the Charter Operating credit facilities could foreclose on their collateral, which includes equity interests in substantially all of our subsidiaries, and exercise other rights of secured creditors.
+
+Risks Related to Ownership Position of Liberty Broadband Corporation and Advance/Newhouse Partnership
+
+Liberty Broadband and A/N have governance rights that give them influence over corporate transactions and other matters.
+
+Liberty Broadband currently owns a significant amount of Charter Class A common stock and is entitled to certain governance rights with respect to Charter. A/N currently owns Charter Class A common stock and a significant amount of membership interests in our subsidiary, Charter Holdings, which are convertible into Charter Class A common stock, and is entitled to certain governance rights with respect to Charter. Members of the Board of Directors of Charter include a director who is an officer of Liberty Broadband, a director who is a director of Liberty Broadband and directors who are current or former officers and directors of A/N. Mr. Marty Patterson is the President and Chief Executive Officer of Liberty Broadband and Mr. J. David Wargo is a director of Liberty Broadband. Mr. Steven Miron is the Chief Executive Officer of A/N and Mr. Michael Newhouse is co-president of the parent of A/N and its affiliates. As of December 31, 2025, Liberty Broadband beneficially held approximately 29.22% of Charter’s voting stock and A/N beneficially held approximately 13.12% of Charter’s voting stock. Pursuant to the Second Amended and Restated Stockholders Agreement among Charter, Liberty Broadband and A/N, dated as of May 23, 2015 (the “Existing Stockholders Agreement”), as amended by Amendment No. 1 to the Second Amended and Restated Stockholders Agreement and the Letter Agreement, dated as of November 12, 2024 (the “Stockholders and Letter Agreement Amendment”), Liberty Broadband currently has the right to designate up to three directors as nominees for the Board of Directors of Charter and A/N currently has the right to designate up to two directors as nominees for the Board of Directors of Charter. Each of A/N and Liberty Broadband is entitled to nominate at least one director to each of the committees of the Board of Directors of Charter, subject to applicable stock exchange listing rules and certain specified voting or equity ownership thresholds for each of A/N and Liberty Broadband, and provided that the Nominating and Corporate Governance Committee and the Compensation and Benefits Committee each have at least a majority of directors that were not designated by either A/N or Liberty Broadband (referred to as the “unaffiliated directors” in the Existing Stockholders Agreement).
+
+The Existing Stockholders Agreement and Charter’s amended and restated certificate of incorporation fix the size of the board at 13 directors. Liberty Broadband and A/N are required to vote (subject to the applicable voting cap) their respective shares of Charter Class A common stock and Charter Class B common stock for the director nominees nominated by the Nominating and Corporate Governance Committee, including the respective designees of Liberty Broadband and A/N, and against any other nominees, except that, with respect to the unaffiliated directors, Liberty Broadband and A/N must instead vote in the same proportion as the voting securities are voted by stockholders other than A/N and Liberty Broadband or any group which includes any of them are voted, if doing so would cause a different outcome with respect to the unaffiliated directors. As a result of their rights under the Existing Stockholders Agreement and their significant equity and voting stakes in Charter, Liberty Broadband and/or A/N, who may have interests different from those of other stockholders, will be able to exercise substantial influence over certain matters relating to the governance of Charter, including the approval of significant corporate actions, such as mergers and other business combination transactions.
+
+26
+
+The Existing Stockholders Agreement provides A/N and Liberty Broadband with preemptive rights with respect to issuances of Charter equity in connection with certain transactions, and in the event that A/N or Liberty Broadband exercises these rights, holders of Charter Class A common stock may experience further dilution.
+
+The Existing Stockholders Agreement provides that A/N and Liberty Broadband will have certain contractual preemptive rights over issuances of Charter equity securities in connection with capital raising transactions. Holders of Charter Class A common stock will not be entitled to similar preemptive rights with respect to such transactions. As a result, if Liberty Broadband and/or A/N elect to exercise their preemptive rights, (i) these parties would not experience the dilution experienced by the other holders of Charter Class A common stock, and (ii) such other holders of Charter Class A common stock may experience further dilution of their interest in Charter upon such exercise.
+
+Risks Related to Regulatory and Legislative Matters
+
+Our business is subject to extensive governmental legislation and regulation, which could adversely affect our business.
+
+The services we offer are subject to numerous laws and regulations that can increase operational and administrative expenses and reduce revenues, including, but not limited to, those covering the following:
+
+•
+the provision of high-speed Internet service, including regulating the price for low-income customers, network management, broadband labeling, broadband availability reporting, digital discrimination and transparency rules;
+
+•
+the provision of fixed and mobile voice communications, including rules for emergency communications, network and/or 911 outage reporting, CPNI safeguards and reporting, local number portability, efforts to limit unwanted robocalls, and, for mobile devices, hearing aid compatibility, safety and emission requirements;
+
+•
+the fees that must be included in our advertised prices and bills;
+
+•
+access by law enforcement;
+
+•
+cable franchise renewals and transfers;
+
+•
+the provisioning, marketing and billing of cable, Internet, mobile and voice equipment;
+
+•
+cybersecurity protection and practices, including customer and employee privacy and data security;
+
+•
+copyright royalties for retransmitting broadcast signals;
+
+•
+the circumstances when a cable system must carry a broadcast station and the circumstances when it first must obtain retransmission consent to carry a broadcast station;
+
+•
+the technical standard that we must use to carry broadcast stations;
+
+•
+limitations on our ability to enter into exclusive agreements with multiple dwelling unit complexes and control our inside wiring;
+
+•
+equal employment opportunity; 
+
+•
+the resiliency of our networks to maintain service during and after disasters and power outages;
+
+•
+emergency alert systems, disability access, pole attachments, commercial leased access and technical standards;
+
+•
+marketing practices, customer service, and consumer protection; and
+
+•
+approval for mergers and acquisitions often accompanied by the imposition of restrictions and requirements on an applicant’s business in order to secure approval of the proposed transaction.
+
+Legislators and regulators at all levels of government frequently consider changing, and sometimes do change, existing statutes, rules, regulations, or interpretations thereof, or prescribe new ones. Any future legislative, judicial, regulatory or administrative actions may increase our costs or impose additional restrictions on our businesses. 
+
+Changes to the existing legal and regulatory framework under which we operate or the regulatory programs in which we or our competitors participate could adversely affect our business.
+
+There are ongoing efforts to amend or expand the federal, state and local regulation of some of the services offered over our cable systems, particularly our retail broadband Internet access service. Potential legislative and regulatory changes could adversely impact our business by increasing our costs and competition and limiting our ability to offer services in a manner that would maximize our revenue potential. These changes have in the past, and could in the future, include, but are not limited to, for example, the reclassification of Internet services as regulated telecommunications services or other utility-style regulation of Internet services; restrictions on how we manage our Internet access services and networks; the adoption of new customer service or service quality requirements for our Internet access services; the adoption of new privacy restrictions on our collection, use and disclosure of certain customer or employee information; new data security and cybersecurity mandates that could result in additional network and information security and cyber incident reporting requirements for our business; new restraints on our discretion over programming decisions; new rules governing broadcast ownership that would result in higher 
+
+27
+
+rates for broadcast content; new restrictions on the rates we charge to consumers for one or more of the services or equipment options we offer, including our ability to offer promotions; changes to the cable industry’s compulsory copyright to retransmit broadcast signals; new requirements to assure the availability of navigation devices from third-party providers; new Universal Service Fund contribution obligations on our Internet service revenues that would add to the cost of that service; increases in government-administered broadband subsidies to rural areas that could result in subsidized overbuilding of our facilities; changes to the FCC’s administration of spectrum; and changes in the regulatory framework for VoIP telephone service, including the scope of regulatory obligations associated with our VoIP telephone service and our ability to interconnect our VoIP telephone service with incumbent providers of traditional telecommunications service. 
+
+As a winning bidder in the FCC’s RDOF auction in 2020, we must comply with numerous FCC and state requirements to continue receiving such funding. To comply with these requirements, in RDOF areas, we have chosen to offer certain of our VoIP telephone services, such as our Lifeline services, subject to certain traditional federal and state common carrier regulations. Additionally, in some areas where we are building pursuant to subsidy programs, we will offer certain of our broadband Internet access services subject to required discounts and other marketing-related terms. If we fail to comply with those requirements, the governing regulatory agency could consider us in default and we could incur substantial penalties or forfeitures. If we fail to attain certain specified infrastructure build-out requirements under the RDOF program, the FCC could also withhold future support payments until those shortcomings are corrected. Any failure to comply with the rules and requirements of a subsidy grant could result in us being suspended or disbarred from future governmental programs or contracts for a significant period of time, which could adversely affect our results of operations and financial condition.
+
+In September 2025, following the Supreme Court decision that upheld the FCC’s system for funding and administering its Universal Service programs, a new petition for review was filed in the Fifth Circuit challenging two subsections of the statute governing the Universal Service Fund. We cannot predict the outcome of this case or any related actions of Congress and the FCC, which could adversely affect our receipt of universal service funds, including FCC E-rate funds to serve schools and libraries and FCC Rural Health Care funds to serve eligible health care providers. 
+
+Our current and past participation in state and federal programs that subsidize network construction in high-cost areas and service to schools or low-income consumers, and the provision of services to government agencies or entities, creates the risk of claims of our failure to adequately comply with the regulatory requirements of those programs or contracts. The FCC and various state and federal agencies and attorney generals may subject those programs, or other industry practices, to audits and investigations, which could result in enforcement actions, litigation, fines, settlements or reputational harm, and/or operational and financial conditions being placed on us, any of which could adversely affect our results of operations and financial condition.
+
+If any laws or regulations are enacted that would expand the regulation of our services, they could affect our operations and require significant expenditures. We cannot predict future developments in these areas, and any changes to the regulatory framework for our Internet, mobile, video or voice services could have a negative impact on our business and results of operations.
+
+It remains uncertain what rule changes, if any, will ultimately be adopted by Congress, the FCC, the FTC and/or state legislatures or state regulatory agencies, and what operating or financial impact any such rules might have on us, including on the operation of our broadband networks, customer privacy and the user experience. 
+
+Tax legislation and administrative initiatives or challenges to our tax and fee positions could adversely affect our results of operations and financial condition.
+
+We offer services and operate cable systems in locations throughout the United States and, as a result, we are subject to the tax laws and regulations of federal, state and local governments. From time to time, legislative and administrative bodies change laws and regulations that change our effective tax rate or tax payments. Certain states and localities have imposed or are considering imposing new or additional taxes or fees on our services or changing the methodologies or base on which certain fees and taxes are computed. Potential changes include additional taxes or fees on our services which could impact our customers, changes to income tax sourcing rules and other changes to general business taxes, central/unit-level assessment of property taxes and other matters that could increase our income, franchise, sales, use and/or property tax liabilities. In addition, federal, state and local tax laws and regulations are extremely complex and subject to varying interpretations. From time to time authorities challenge our tax positions and there can be no assurance that our tax positions will be successful in any such challenge.
+
+28
+
+Our cable system franchises are subject to non-renewal or termination and are non-exclusive. The failure to renew a franchise or the grant of additional franchises in one or more service areas could adversely affect our business.
+
+Our cable systems generally operate pursuant to franchises, permits and similar authorizations issued by a state or local governmental authority controlling the public rights-of-way. Many franchises establish comprehensive facilities and service requirements, as well as specific customer service standards and monetary penalties for non-compliance, and from time to time some franchisors have alleged that we have not complied with every aspect of our franchising agreements. In many cases, franchises are terminable if the franchisee fails to comply with significant provisions set forth in the franchise agreement governing system operations. Franchises are usually granted for fixed terms and must be periodically renewed. Franchising authorities may resist granting a renewal if either past performance or the prospective operating proposal is considered inadequate. Franchise authorities often demand concessions or other commitments as a condition to renewal. In some instances, local franchises have not been renewed at expiration, and we have operated and are operating under either temporary operating agreements or without a franchise while negotiating renewal terms with the local franchising authorities.
+
+Additionally, although historically we have renewed our franchises without incurring significant costs, we cannot guarantee that we will be able to renew, or to renew as favorably, our franchises in the future. A termination of or a sustained failure to renew a franchise in one or more service areas could adversely affect our business in the affected geographic area.
+
+Our cable system franchises are non-exclusive. Consequently, local and state franchising authorities can grant additional franchises to competitors in the same geographic area or operate their own cable systems. In some cases, local government entities and municipal utilities may legally compete with us on more favorable terms. 
+
+Risks Related to the Cox
+
+Transactions
+
+The Cox
+
+Transactions are subject to conditions, some or all of which may not be satisfied, or completed on a timely basis, if at all. Failure to complete the Cox
+
+Transactions could have a material adverse effect on us.
+
+The completion of the Cox Transactions is subject to a number of conditions, including, among other things, (i) the approval of the certificate amendment proposal by the affirmative vote of the holders of a majority of the aggregate voting power of the outstanding shares of Charter Class A common stock and Class B common stock, voting together as a single class; (ii) the approval of the share issuance proposal by the affirmative vote of the holders of a majority of the votes cast by the holders of Charter Class A common stock and Class B common stock, voting together as a single class; (iii) any applicable waiting period (and any extension thereof) under the Hart-Scott-Rodino Antitrust Improvements Act, and any commitments by the parties not to close before a certain date under any timing agreement entered into with a government entity, in each case, with respect to the Cox Transactions shall have expired or been terminated (solely with respect to the obligations of the Charter parties to close, without the imposition of a burdensome condition); (iv) the receipt of certain other required regulatory approvals, including approval of the Federal Communications Commission and certain local franchise authority, state franchising and state public utility commission approvals (solely with respect to the obligations of the Charter parties to close, without the imposition of a burdensome condition); (v) the absence of any law, rule, executive order, decree, judgment, injunction or other order (whether temporary, preliminary or permanent) which makes unlawful, prohibits, delays, enjoins or otherwise prevents or restrains the completion of the Cox Transactions; (vi) each party’s representations and warranties being true and correct (subject to certain materiality and material adverse effect qualifications); (vii) the absence of a material adverse effect on each party; and (viii) each party having performed in all material respects its obligations under the Transaction Agreement. 
+
+While the parties have agreed in the Transaction Agreement to use reasonable best efforts to satisfy the closing conditions, the parties may not be successful in their efforts to do so. The failure to satisfy all of the required conditions could delay the completion of the Cox Transactions for a significant period of time or prevent completion from occurring at all. Any delay in completing the Cox Transactions could cause us not to realize some or all of the benefits of the Cox Transactions, or realize them on a different timeline than expected. There can be no assurance that the conditions in the Transaction Agreement will be satisfied or (to the extent permitted) waived or that the Cox Transactions will be completed. In addition, subject to limited exceptions, either Charter or Cox Enterprises may terminate the Transaction Agreement if the Cox Transactions have not been consummated by the end date, so long as the terminating party’s failure to comply in all material respects with the Transaction Agreement has not been a primary cause of the failure of the Closing to occur on or before the end date. 
+
+If the Cox Transactions are not completed, we may be materially adversely affected, without realizing any of the anticipated benefits of having completed the Cox Transactions, and we will be subject to a number of risks, including the following:
+
+29
+
+•
+the market price of Charter common stock could decline;
+
+•
+we could owe a substantial termination fee to Cox Enterprises under certain circumstances;
+
+•
+if the Transaction Agreement is terminated and we seek another transaction, we may not find a party willing to enter into a transaction on terms comparable to or more attractive than the terms agreed to in the Transaction Agreement;
+
+•
+time and resources, financial and other, committed by us and our subsidiaries’ management to matters relating to the Cox Transactions could otherwise have been devoted to pursuing other beneficial opportunities;
+
+•
+we and our subsidiaries may experience negative reactions from the financial markets or from our customers, suppliers, regulators or employees;
+
+•
+we will be required to pay certain costs relating to the Cox Transactions, such as legal, accounting, financial advisory, filing, printing and mailing fees, whether or not the Cox Transactions are completed;
+
+•
+Charter and Cox Communications are subject to restrictions on the conduct of their respective businesses prior to the Closing, as set forth in the Transaction Agreement, which may prevent us or Cox Communications, as applicable, from making certain acquisitions or taking other actions during the pendency of the Cox Transactions; and
+
+•
+we may experience reputational harm due to the adverse perception of any failure to successfully complete the Cox Transactions.
+
+In addition, if the Cox Transactions are not completed, we could be subject to litigation related to any failure to complete the Cox Transactions or related to any enforcement proceeding commenced against us to perform our obligations under the Transaction Agreement. Any of these risks could materially and adversely impact our financial condition, financial results and stock price.
+
+Our plans for funding the cash consideration and assuming indebtedness of Cox Communications may be adversely affected to the extent there are greater-than-expected increases in our indebtedness, lower-than-expected operating results, credit rating downgrades, or significant financial market disruptions.
+
+We are obligated to fund $4.0 billion of cash consideration under the Transaction Agreement which we expect to fund by incurring indebtedness, and expect to assume approximately $12.6 billion of Cox Communications’ outstanding net debt and finance leases in connection with the Cox Transactions, including Cox Communications’ outstanding unsecured notes as of Closing (the “Cox Notes”). The indentures and supplemental indentures governing the Cox Notes contain certain negative covenants, including restrictions on the incurrence of secured indebtedness and indebtedness of restricted subsidiaries. If our indebtedness increases more than expected, our operating results are lower than expected, or significant financial markets disruptions occur, our cash on hand and available liquidity under our existing credit facilities may be insufficient to fund the cash portion of the consideration. Further, completion of the Cox Transactions may constitute a “change of control repurchase event” under the supplemental indentures governing certain of the Cox Notes if, in connection with the Cox Transactions, each of S&P Global Ratings, Moody’s Investors Service, Inc. and Fitch Ratings, Inc. downgrade the credit rating of certain series of Cox Notes to a rating below “investment grade” (regardless of whether the rating prior to such downgrade was “investment grade” or below “investment grade”) prior to 60 days following consummation of a change of control (which period may be extended in certain circumstances). In such a circumstance, Charter (or one of its subsidiaries that, at the time, is the primary obligor of such series of notes) would be required to offer to repurchase each applicable holder’s Cox Notes of such series at a purchase price in cash equal to 101% of the aggregate principal amount of such series of Cox Notes repurchased, plus accrued and unpaid interest. In the event of such ratings downgrades, we may require additional debt financing to fund such repurchases, which may not be available on terms acceptable to us, or at all. A failure to make the applicable change of control offer or to pay the applicable change of control purchase price when due would result in a default in respect of the applicable series of Cox Notes and could result in a default under the terms of other indebtedness of Charter and its subsidiaries.
+
+Charter and Cox Communications are subject to contractual restrictions while the Cox Transactions are pending, which could adversely affect their respective businesses and operations.
+
+Under the terms of the Transaction Agreement, Charter and Cox Communications are subject to certain restrictions on the conduct of their respective businesses prior to the Closing. Such limitations may affect our or Cox Communications’ ability to execute certain of their business strategies, including the ability in certain cases to amend their organizational documents, repurchase shares or declare dividends in certain circumstances, incur certain indebtedness or complete certain acquisitions and other transactions, which could adversely affect us or Cox Communications prior to the Closing.
+
+The risks described above may be exacerbated by delays or other adverse developments with respect to the completion of the Cox Transactions. 
+
+30
+
+We will incur direct and indirect costs as a result of the Cox
+
+Transactions.
+
+We will incur substantial expenses in connection with and as a result of completing the Cox Transactions, including advisory, legal and other transaction costs, and, following the completion of the Cox Transactions, we expect to incur additional expenses in connection with combining the companies. A portion of these costs have already been incurred or will be incurred regardless of whether the Cox Transactions are completed. Factors beyond our control could affect the total amount or timing of these expenses, many of which, by their nature, are difficult to estimate accurately. Our management continues to assess the magnitude of these costs, and additional unanticipated costs may be incurred in connection with the Cox Transactions. Although we expect that the realization of benefits related to the Cox Transactions will offset such costs and expenses over time, no assurances can be made that this net benefit will be achieved in the near term, or at all.
+
+A/N and Liberty Broadband currently have governance rights that give them influence over corporate transactions and other matters. In connection with the Cox
+
+Transactions, Liberty Broadband will lose its governance rights (assuming the closing of the Liberty Broadband Combination), A/N’s governance rights will be modified and Cox Enterprises will receive governance rights pursuant to the amended stockholders agreement and amendments to Charter’s governing documents, and Cox Enterprises and A/N will have influence over corporate transactions and other matters.
+
+The Transaction Agreement contemplates that, at the Closing, Charter, A/N and Cox Enterprises will enter into the amended stockholders agreement, which will amend and restate in its entirety the existing stockholders agreement. If the Liberty Broadband Combination is completed, the existing stockholders agreement, which sets forth, among other things, certain of Liberty Broadband’s governance rights with respect to Charter, will terminate with respect to Liberty Broadband. The Liberty Broadband side letter further provides that Liberty Broadband will cause the three Liberty Broadband designees serving on the Board of Directors of Charter to resign effective immediately prior to the effective time of the closing of the Liberty Broadband Combination.
+
+Based on Charter’s share count as of December 31, 2025, Charter expects that Cox Enterprises will own approximately 25.1% of the combined entity’s diluted shares outstanding, on an as-exchanged, as-converted basis and assuming the contemporaneous closing of the Liberty Broadband Combination. Pursuant to the amended stockholders agreement and the amended certificate of incorporation, the size of the Board of Directors of Charter will continue to be fixed at 13 directors, and at the Closing, the directors then serving as A/N’s designees will continue to serve on the Board of Directors of Charter and three designees selected by Cox Enterprises (with the prior approval of Charter (not to be unreasonably withheld)) will become members of the Board of Directors of Charter. Thereafter, each of Cox Enterprises and A/N will be entitled to designate up to three nominees to be elected to the Board of Directors of Charter provided that each maintains certain specified voting or equity ownership thresholds. Cox Enterprises and A/N will be required to vote (subject to the applicable voting cap) their respective shares of Charter common stock for the director nominees nominated by the nominating committee of the Board of Directors of Charter, including the respective designees of Cox Enterprises and A/N, and against any other nominees, except that, with respect to the directors that were not designated by either Cox Enterprises or A/N (the “Unaffiliated Directors”), Cox Enterprises and A/N must instead vote in the same proportion as the voting securities are voted by stockholders other than Cox Enterprises and A/N or any group (as such term is used in Sections 13(d) and 14(d) of the Securities Exchange Act of 1934, as amended) which includes any of them are voted, if doing so would cause a different outcome with respect to the Unaffiliated Directors. Cox Enterprises and A/N also will have certain committee designation and other governance rights. Additionally, the amended stockholders agreement will provide that each of Cox Enterprises and A/N will be subject to certain limits on acquisitions of Charter shares (30% in the case of Cox Enterprises; 19% in the case of A/N). In addition, any shares owned by Cox Enterprises or A/N in excess of its applicable voting cap (30% in the case of Cox Enterprises; 15% in the case of A/N) must be voted in proportion to the public stockholders of Charter, other than with respect to certain excluded matters.
+
+The amended stockholders agreement will also provide that at the Closing, Alexander C. Taylor, Chairman and Chief Executive Officer of Cox Enterprises, will serve as the Chairman of the Board of Directors of Charter for an initial three-year term (unless Mr. Taylor ceases to serve as a member of the Board of Directors of Charter prior thereto). The lead independent director of the Board of Directors of Charter at the Closing will be Eric L. Zinterhofer, current Non-executive Chairman of the Board of Directors of Charter. Following Mr. Taylor’s term as Chairman, the Board of Directors of Charter will return to its normal annual process. Additionally, following Mr. Taylor’s term as Chairman, Christopher L. Winfrey, the Chief Executive Officer of Charter, will serve as Chairman of the Board of Directors of Charter; provided that if Mr. Winfrey is no longer a member of the Board of Directors of Charter or is unwilling to serve as Chairman, then Mr. Zinterhofer instead will serve as Chairman (subject to his continued membership on the Board of Directors of Charter and willingness to serve).
+
+At the Closing, Charter will amend its certificate of incorporation and bylaws in order to, among other things, reflect the agreed-upon governance terms to be included in the amended stockholders agreement.
+
+31
+
+As a result of their rights under the amended stockholders agreement and their significant equity and voting stakes in Charter, Cox Enterprises and/or A/N, who may have interests different from those of other stockholders, will be able to exercise substantial influence over certain matters relating to the governance of Charter, including the approval of significant corporate actions, such as mergers and other business combination transactions.
+
+The amended stockholders agreement will provide A/N and Cox Enterprises with preemptive rights with respect to issuances of Charter equity in connection with certain transactions, and in the event that A/N or Cox Enterprises exercises these rights, holders of Charter Class A common stock may experience further dilution.
+
+The amended stockholders agreement will provide that after the Closing, if Charter proposes to issue any equity securities of Charter in a capital raising transaction, each of Cox Enterprises and A/N (for so long as each party’s equity interest in Charter is equal to or greater than 10%), will have the right to purchase, in whole or in part, for cash a number of such securities that will be determined based on such investor’s pro rata equity interest in Charter. The amended stockholders agreement will define a capital raising transaction as any offering of shares of Charter Class A common stock (or any securities convertible into or exchangeable or exercisable for shares of Charter Class A common stock) for cash, whether registered under the Securities Act or otherwise (other than pursuant to a stockholders rights plan).
+
+As a result, if Cox Enterprises and/or A/N elect to exercise their preemptive rights, (i) these parties would not experience the dilution experienced by the other holders of Charter Class A common stock, and (ii) such other holders of Charter Class A common stock may experience further dilution of their interest in Charter upon such exercise.
+
+If we are not able to successfully integrate Cox Communications’ business within the anticipated time frame, or at all, the anticipated cost savings and other benefits of the Cox
+
+Transactions may not be realized fully, or at all, or may take longer to realize than expected. In such circumstances, in the event the Cox
+
+Transactions are completed, we may not perform as expected and the value of the Charter Class A common stock may be adversely affected.
+
+Charter and Cox Communications have operated and, until completion of the Cox Transactions will continue to operate, independently, and there can be no assurances that their businesses can be integrated successfully. After the consummation of the Cox Transactions the combined company will have significantly more systems, assets, investments, businesses, customers and employees than each company did prior to the Cox Transactions. It is possible that the integration process could result in the loss of key Charter and/or Cox Communications employees, the loss of subscribers and customers, the disruption of the companies’ ongoing businesses or unexpected integration issues, higher than expected integration costs and an overall post-completion integration process that takes longer than originally anticipated. The process of integrating Cox Communications with the businesses Charter operated prior to the Cox Transactions will require significant capital expenditures and the expansion of certain operations and operating and financial systems. Management of each company will be required to devote a significant amount of time and attention to the integration process before the Cox Transactions are completed. There is a significant degree of difficulty and management involvement inherent in that process. These difficulties include:
+
+•
+integrating the companies’ operations and corporate functions;
+
+•
+integrating the companies’ technologies, networks and customer service platforms;
+
+•
+integrating and unifying the product offerings and services available to customers;
+
+•
+harmonizing the companies’ operating practices, employee development and compensation programs, internal controls and other policies, procedures and processes;
+
+•
+maintaining existing relationships and agreements with customers, providers, programmers and other vendors and avoiding delays in entering into new agreements with prospective customers, providers and vendors;
+
+•
+addressing possible differences in business backgrounds, corporate cultures and management philosophies;
+
+•
+consolidating the companies’ administrative and information technology infrastructure;
+
+•
+coordinating programming and marketing efforts;
+
+•
+coordinating geographically dispersed organizations;
+
+•
+integrating information, purchasing, provisioning, accounting, finance, sales, billing, payroll, reporting and regulatory compliance systems;
+
+•
+integrating and unifying the product offerings and services available to customers, including customer premise equipment and video user interfaces;
+
+•
+managing a larger company than before the completion of the Cox Transactions; and
+
+•
+attracting and retaining the necessary personnel associated with the acquired assets.
+
+32
+
+Even if the new businesses are successfully integrated, it may not be possible to realize the benefits that are expected to result from the Cox Transactions, or realize these benefits within the time frame that is expected. For example, the elimination of duplicative costs may not be possible or may take longer than anticipated, or the benefits from the Cox Transactions may be offset by costs incurred or delays in integrating the businesses and increased operating costs. If the combined company fails to realize the anticipated benefits from the Cox Transactions, its liquidity, results of operations, financial condition and/or share price may be adversely affected. In addition, at times, the attention of certain members of Charter’s and/or Cox Communications’ management and resources may be focused on the completion of the Cox Transactions and the integration of the businesses and diverted from day-to-day business operations, which may disrupt each company’s business and the business of the combined company.
+
+The market price of Charter Class A common stock may decline as a result of the Cox
+
+Transactions.
+
+The market price of Charter Class A common stock may decline as a result of the Cox Transactions if, among other things, the costs of the Cox Transactions are greater than expected, we do not achieve the perceived benefits of the Cox Transactions as rapidly or to the extent anticipated by financial or industry analysts or the effect of the Cox Transactions on our financial position, results of operations or cash flows is not consistent with the expectations of financial or industry analysts. Any of these events may make it more difficult for Charter to sell equity or equity-related securities and have an adverse impact on the price of Charter Class A common stock.
+
+The Cox
+
+Transactions raise other risks.
+
+The pending Cox Transactions raise additional risks not described above. For additional information, see the definitive proxy statement with respect to the Cox Transactions, filed by Charter on July 2, 2025, including the sections entitled “Risk Factors” and “Where You Can Find More Information” included therein.
+
+Risks Related to the Liberty Broadband Combination
+
+The Liberty Broadband Combination is subject to conditions, some or all of which may not be satisfied, or completed on a timely basis, if at all. Failure to complete the Liberty Broadband Combination could have material adverse effects on us.
+
+The completion of the Liberty Broadband Combination is subject to a number of conditions, including, among other things, (i) the adoption of the Merger Agreement by the affirmative vote of the holders of a majority of the aggregate voting power of the outstanding shares of Liberty Broadband Series A common stock, Liberty Broadband Series B common stock and Liberty Broadband preferred stock entitled to vote on the Liberty Broadband merger proposal at the Liberty Broadband special meeting, voting together as a single class; (ii) the adoption of the Merger Agreement by the affirmative vote of the holders of a majority of the aggregate voting power of the outstanding shares of Liberty Broadband Series A common stock, Liberty Broadband Series B common stock and Liberty Broadband preferred stock entitled to vote on the Liberty Broadband merger proposal at the Liberty Broadband special meeting, beneficially owned, directly or indirectly, by Liberty Broadband stockholders (other than certain affiliated stockholders), voting together as a single class, which condition cannot be waived; (iii) the approval of the share issuance proposal by the affirmative vote of a majority of the votes cast by holders of Charter common stock at the Charter special meeting; (iv) the approval of the Charter merger proposal by the affirmative vote of the holders of a majority of the aggregate voting power of the outstanding shares of Charter common stock entitled to vote on the proposal at the Charter special meeting, beneficially owned, directly or indirectly, by Charter stockholders (other than certain affiliated stockholders), voting together as a single class, which condition cannot be waived; (v) to the extent applicable, any waiting period (and any extension thereof), and any commitments by the parties not to close before a certain date under a timing agreement entered into with a governmental authority, in each case, in respect of the Liberty Broadband Combination or the conversion of the Liberty Broadband capital stock pursuant to the Merger Agreement under the HSR Act having expired or been granted early termination; (vi) no stop order or proceedings seeking a stop order having been initiated by the SEC and not rescinded with respect to the registration statement on Form S-4, which contains a definitive joint proxy statement/prospectus with respect to the Liberty Broadband Combination, filed by Charter on January 22, 2025; (vii) authorization of listing on the Nasdaq of the shares of Charter Class A common stock and Charter rollover preferred stock to be issued in connection with the Merger; (viii) the absence of any law, order, or other legal restraint or prohibition, entered, enacted, promulgated, enforced or issued by any court or other governmental authority of competent jurisdiction, which prevents, prohibits, renders illegal or enjoins the consummation of the transactions contemplated by the Merger Agreement; (ix) the accuracy of each party’s representations and warranties in the Merger Agreement, subject to certain materiality qualifications; (x) each party’s performance, in all material respects, with its covenants required to be performed by it under the Merger Agreement prior to the closing of the Liberty Broadband Combination; (xi) in respect of Charter’s obligation to effect the closing, the completion of the GCI Divestiture; and 
+
+33
+
+(xii) each party’s receipt of a tax opinion, to the effect that, inter alia, the Liberty Broadband Combination will qualify as a “reorganization” within the meaning of Section 368(a) of the Code. 
+
+While the parties have agreed in the Merger Agreement to use reasonable best efforts to satisfy the closing conditions, the parties may not be successful in their efforts to do so. The failure to satisfy all of the required conditions could delay the completion of the Liberty Broadband Combination for a significant period of time or prevent completion from occurring at all. Any delay in completing the Liberty Broadband Combination could cause Charter not to realize some or all of the benefits, or realize them on a different timeline than expected, that Charter expects to achieve if the Liberty Broadband Combination is successfully completed within the expected timeframe. There can be no assurance that the conditions in the Merger Agreement will be satisfied or (to the extent permitted) waived or that the Liberty Broadband Combination will be completed. In addition, subject to limited exceptions, either Charter or Liberty Broadband may terminate the Merger Agreement if the Liberty Broadband Combination has not been consummated by August 31, 2027 or such other date as mutually agreed. 
+
+If the Liberty Broadband Combination is not completed, we may be materially adversely affected, without realizing any of the benefits of having completed the Liberty Broadband Combination, and we will be subject to a number of risks, including the following:
+
+•
+the market price of Charter common stock could decline;
+
+•
+we could owe a substantial termination fee to Liberty Broadband under certain circumstances;
+
+•
+if the Merger Agreement is terminated and we seek another business combination, we may not find a party willing to enter into a transaction on terms comparable to or more attractive than the terms agreed to in the Merger Agreement;
+
+•
+time and resources, financial and other, committed by us and our subsidiaries’ management to matters relating to the Liberty Broadband Combination could otherwise have been devoted to pursuing other beneficial opportunities;
+
+•
+we and our subsidiaries may experience negative reactions from the financial markets or from our customers, suppliers, regulators or employees;
+
+•
+we will be required to pay our costs relating to the Liberty Broadband Combination, such as legal, accounting, financial advisory, filing, printing and mailing fees, whether or not the Liberty Broadband Combination is completed;
+
+•
+we are subject to restrictions on the conduct of our business prior to the effective time of the closing of the Liberty Broadband Combination, as set forth in the Merger Agreement, which may prevent us from making certain acquisitions or taking other actions during the pendency of the Liberty Broadband Combination; and
+
+•
+reputational harm due to the adverse perception of any failure to successfully complete the Liberty Broadband Combination.
+
+In addition, if the Liberty Broadband Combination is not completed, we could be subject to litigation related to any failure to complete the Liberty Broadband Combination or related to any enforcement proceeding commenced against us to perform our obligations under the Merger Agreement. Any of these risks could materially and adversely impact our financial condition, financial results and stock price.
+
+We are subject to contractual restrictions while the Liberty Broadband Combination is pending, which could adversely affect our business and operations.
+
+Under the terms of the Merger Agreement, Charter is subject to a limited set of restrictions on the conduct of its business prior to the effective time of the closing of the Liberty Broadband Combination. Such limitations may affect our ability to execute certain of our business strategies, including the ability in certain cases to amend our organizational documents, issue shares of capital stock or pay extraordinary dividends or distributions, which could adversely affect us prior to the effective time of the closing of the Liberty Broadband Combination. Each of the risks described above may be exacerbated by delays or other adverse developments with respect to the completion of the Liberty Broadband Combination. 
+
+The announcement and pendency of the Liberty Broadband Combination could divert the attention of management and cause disruptions in our business, which could have an adverse effect on our business and financial results.
+
+Our management may be required to divert a disproportionate amount of attention away from our day-to-day activities and operations and devote time and effort to consummating the Liberty Broadband Combination. The risks, and adverse effects, of such disruptions and diversions could be exacerbated by a delay in the completion of the Liberty Broadband Combination. These factors could adversely affect our financial position or results of operations, regardless of whether the Liberty Broadband Combination is completed.
+
+34
+
+We will incur direct and indirect costs as a result of the Liberty Broadband Combination.
+
+We will incur substantial expenses in connection with and as a result of completing the Liberty Broadband Combination, including advisory, legal and other transaction costs, and, following the completion of the Liberty Broadband Combination, we expect to incur additional expenses in connection with combining the companies. A majority of these costs have already been incurred or will be incurred regardless of whether the Liberty Broadband Combination is completed. Factors beyond our control could affect the total amount or timing of these expenses, many of which, by their nature, are difficult to estimate accurately. Our management continues to assess the magnitude of these costs, and additional unanticipated costs may be incurred in connection with the Liberty Broadband Combination. Although we expect that the realization of benefits related to the Liberty Broadband Combination will offset such costs and expenses over time, no assurances can be made that this net benefit will be achieved in the near term, or at all.
+
+If repurchases of Liberty Broadband’s shares of Charter Class A common stock during the pendency of the Liberty Broadband Combination are not consummated on the agreed terms, or otherwise fail to meet the intended objectives, there could be adverse effects on the companies and the Liberty Broadband Combination.
+
+The Stockholders and Letter Agreement Amendment modifies the terms set forth in the existing letter agreement with respect to Liberty Broadband’s participation in Charter’s share repurchase program during the pendency of the Liberty Broadband Combination. The repurchases of Liberty Broadband’s shares of Charter Class A common stock during such period are intended to facilitate the repayment by Liberty Broadband of certain of its outstanding indebtedness and to allow Liberty Broadband to maintain sufficient liquidity to fund its ongoing operations during the pendency of the Liberty Broadband Combination. If the repurchases are not consummated on the agreed terms, or otherwise fail to meet the intended objectives, there could be adverse effects on the financial position of each of Liberty Broadband and Charter and on the Liberty Broadband Combination.
+
+Charter may fail to realize all of the anticipated benefits of the Liberty Broadband Combination or those benefits may take longer to realize than expected.
+
+The full benefits of the Liberty Broadband Combination may not be realized as expected or may not be achieved within the anticipated time frame, or at all. Failure to achieve the anticipated benefits of the Liberty Broadband Combination could cause dilution to our earnings per share, decrease or delay the expected accretive effect of the Liberty Broadband Combination, and negatively impact the price of our common stock. In addition, there may be liabilities that Charter underestimated or did not discover in the course of performing its due diligence investigation of Liberty Broadband.
+
+The Liberty Broadband Combination raises other risks.
+
+The pending Liberty Broadband Combination raises additional risks not described above. For additional information, see the definitive joint proxy statement/prospectus with respect to the Liberty Broadband Combination, filed by Charter on January 22, 2025, including the sections entitled “Risk Factors” and “Where You Can Find More Information” included therein.
