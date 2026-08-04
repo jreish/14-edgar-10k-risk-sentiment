@@ -83,7 +83,7 @@ p <- ggplot(trends, aes(x = year, y = n_filings, fill = sector)) +
   ) +
   geom_segment(
     data = hatch_lines, aes(x = x, xend = xend, y = y, yend = yend),
-    inherit.aes = FALSE, color = okabe_ito["vermillion"], linewidth = 0.35
+    inherit.aes = FALSE, color = okabe_ito["vermillion"], linewidth = 0.25
   ) +
   geom_text_repel(
     data = label_data,
