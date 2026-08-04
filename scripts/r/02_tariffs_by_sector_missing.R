@@ -59,6 +59,22 @@ hatch_lines <- missing_boxes |>
   rowwise() |>
   reframe(make_hatch(xmin, xmax, ymin, ymax))
 
+hatch_label <- missing_boxes |>
+  mutate(
+    sector = "Not yet due",
+    ymid = (ymin + ymax) / 2,
+    segment_color = unname(okabe_ito["vermillion"])
+  ) |>
+  select(year, sector, ymid, segment_color)
+
+label_data <- bind_rows(
+  labels_end |> mutate(sector = as.character(sector)) |> select(year, sector, ymid, segment_color),
+  hatch_label
+) |>
+  mutate(sector = factor(sector, levels = c(sector_order, "Not yet due")))
+
+sector_colors_ext <- c(sector_colors, "Not yet due" = unname(okabe_ito["vermillion"]))
+
 p <- ggplot(trends, aes(x = year, y = n_filings, fill = sector)) +
   geom_col(position = position_stack(reverse = TRUE), width = 0.8, color = "black", linewidth = 0.3) +
   geom_rect(
@@ -70,13 +86,13 @@ p <- ggplot(trends, aes(x = year, y = n_filings, fill = sector)) +
     inherit.aes = FALSE, color = okabe_ito["vermillion"], linewidth = 0.35
   ) +
   geom_text_repel(
-    data = labels_end,
+    data = label_data,
     aes(x = year, y = ymid, label = sector, color = sector, segment.color = segment_color),
     inherit.aes = FALSE, hjust = 0, nudge_x = 1.6, direction = "y",
     min.segment.length = 0, fontface = "bold", size = 3.6, seed = 42
   ) +
   scale_fill_manual(values = sector_colors) +
-  scale_color_manual(values = sector_colors) +
+  scale_color_manual(values = sector_colors_ext) +
   scale_x_continuous(breaks = seq(2006, 2026, by = 2), expand = expansion(mult = c(0.02, 0.16))) +
   scale_y_continuous(expand = expansion(mult = c(0, 0.05))) +
   labs(
