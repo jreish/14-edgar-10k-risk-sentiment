@@ -69,13 +69,30 @@ hatch_label <- missing_boxes |>
 
 leader_gap <- 0.12
 
+# Manual vertical nudge for each label's text, in data y-units (filing counts).
+# Positive = label moves up, negative = down. The leader line still starts at
+# the true bar segment (ymid) -- only the label/text end of the line moves.
+# Edit these to fix up overlaps or spacing by hand.
+label_y_nudge <- c(
+  "Industrials" = 0,
+  "Information Technology" = 0,
+  "Consumer Discretionary" = 0,
+  "Consumer Staples" = 0,
+  "Health Care" = 0,
+  "Materials" = 0,
+  "Utilities" = 0,
+  "Other" = 0,
+  "Not yet due" = 0
+)
+
 label_data <- bind_rows(
   labels_end |> mutate(sector = as.character(sector)) |> select(year, sector, ymid, segment_color),
   hatch_label
 ) |>
   mutate(
     sector = factor(sector, levels = c(sector_order, "Not yet due")),
-    leader_x = year + 0.4 + leader_gap
+    leader_x = year + 0.4 + leader_gap,
+    y_nudge = label_y_nudge[as.character(sector)]
   )
 
 sector_colors_ext <- c(sector_colors, "Not yet due" = unname(okabe_ito["vermillion"]))
@@ -93,8 +110,8 @@ p <- ggplot(trends, aes(x = year, y = n_filings, fill = sector)) +
   geom_text_repel(
     data = label_data,
     aes(x = leader_x, y = ymid, label = sector, color = sector, segment.color = segment_color),
-    inherit.aes = FALSE, hjust = 0, nudge_x = 1.2 - leader_gap, direction = "y",
-    min.segment.length = 0, fontface = "bold", size = 3.6, seed = 42
+    inherit.aes = FALSE, hjust = 0, nudge_x = 1.2 - leader_gap, nudge_y = label_data$y_nudge,
+    direction = "y", min.segment.length = 0, fontface = "bold", size = 3.6, seed = 42
   ) +
   scale_fill_manual(values = sector_colors) +
   scale_color_manual(values = sector_colors_ext) +
