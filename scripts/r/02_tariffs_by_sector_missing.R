@@ -127,15 +127,22 @@ p <- ggplot(trends, aes(x = year, y = n_filings, fill = sector)) +
     data = label_data, aes(x = label_x, y = label_y, label = sector, color = sector),
     inherit.aes = FALSE, hjust = 0, fontface = "bold", size = 4.5
   ) +
+  annotate(
+    "text", x = 2007, y = 385,
+    label = "Tariff mentions in Item 1A of 10-K filings\nhave risen steadily since 2006",
+    hjust = 0, vjust = 1, color = "grey30", size = 4, fontface = "italic", lineheight = 1.15
+  ) +
   scale_fill_manual(values = sector_colors) +
   scale_color_manual(values = sector_colors_ext) +
   scale_x_continuous(breaks = seq(2006, 2026, by = 2), expand = expansion(mult = c(0.02, 0.02))) +
   scale_y_continuous(expand = expansion(mult = c(0, 0.05))) +
   coord_cartesian(clip = "off") +
-  theme(plot.margin = margin(t = 5.5, r = 150, b = 5.5, l = 5.5)) +
+  theme(
+    plot.margin = margin(t = 5.5, r = 150, b = 5.5, l = 5.5),
+    plot.title = element_text(size = rel(2.6), margin = margin(b = 10))
+  ) +
   labs(
     title = "Risky Business",
-    subtitle = "Tarriff mentions in Item 1A of 10-K filings have risen steadily since 2006",
     x = NULL, y = "Filings mentioning tariffs",
     caption = paste(
       SOURCE_CAPTION_BASE,
