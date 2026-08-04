@@ -67,11 +67,16 @@ hatch_label <- missing_boxes |>
   ) |>
   select(year, sector, ymid, segment_color)
 
+leader_gap <- 0.12
+
 label_data <- bind_rows(
   labels_end |> mutate(sector = as.character(sector)) |> select(year, sector, ymid, segment_color),
   hatch_label
 ) |>
-  mutate(sector = factor(sector, levels = c(sector_order, "Not yet due")))
+  mutate(
+    sector = factor(sector, levels = c(sector_order, "Not yet due")),
+    leader_x = year + 0.4 + leader_gap
+  )
 
 sector_colors_ext <- c(sector_colors, "Not yet due" = unname(okabe_ito["vermillion"]))
 
@@ -87,8 +92,8 @@ p <- ggplot(trends, aes(x = year, y = n_filings, fill = sector)) +
   ) +
   geom_text_repel(
     data = label_data,
-    aes(x = year, y = ymid, label = sector, color = sector, segment.color = segment_color),
-    inherit.aes = FALSE, hjust = 0, nudge_x = 1.6, direction = "y",
+    aes(x = leader_x, y = ymid, label = sector, color = sector, segment.color = segment_color),
+    inherit.aes = FALSE, hjust = 0, nudge_x = 1.2 - leader_gap, direction = "y",
     min.segment.length = 0, fontface = "bold", size = 3.6, seed = 42
   ) +
   scale_fill_manual(values = sector_colors) +
