@@ -65,11 +65,13 @@ leader_gap <- 0.12
 base_label_dx <- 1.2 - leader_gap
 
 # Manual x/y position for each label's text, in data units (years / filing
-# counts) added on top of its default position. The leader line is drawn
-# fresh from the true bar segment (leader_x, ymid) to wherever the label
-# ends up, so it always follows the label -- there's no auto-collision
-# avoidance fighting your edits. Positive x = right, positive y = up.
-# Edit these directly to move labels (and their lines) around by hand.
+# counts) added on top of its default position. The leader line is drawn as
+# an elbow -- a vertical stub at the bar rising/dropping to the label's
+# height, then a flat horizontal run into the text -- so it always stays
+# straight and horizontal into the label no matter how far you nudge it
+# vertically. There's no auto-collision avoidance fighting your edits.
+# Positive x = right, positive y = up. Edit these directly to move labels
+# (and their lines) around by hand.
 label_x_nudge <- c(
   "Industrials" = 0,
   "Information Technology" = 0,
@@ -84,14 +86,14 @@ label_x_nudge <- c(
 
 label_y_nudge <- c(
   "Industrials" = 0,
-  "Information Technology" = 0,
+  "Information Technology" = -4,
   "Consumer Discretionary" = 0,
   "Consumer Staples" = 0,
   "Health Care" = 0,
   "Materials" = 0,
   "Utilities" = 0,
   "Other" = 0,
-  "Not yet due" = 0
+  "Not yet due" = -4
 )
 
 label_data <- bind_rows(
@@ -118,7 +120,11 @@ p <- ggplot(trends, aes(x = year, y = n_filings, fill = sector)) +
     inherit.aes = FALSE, color = okabe_ito["vermillion"], linewidth = 0.5
   ) +
   geom_segment(
-    data = label_data, aes(x = leader_x, y = ymid, xend = label_x, yend = label_y, color = sector),
+    data = label_data, aes(x = leader_x, y = ymid, xend = leader_x, yend = label_y, color = sector),
+    inherit.aes = FALSE, linewidth = 0.4
+  ) +
+  geom_segment(
+    data = label_data, aes(x = leader_x, y = label_y, xend = label_x, yend = label_y, color = sector),
     inherit.aes = FALSE, linewidth = 0.4
   ) +
   geom_text(
