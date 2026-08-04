@@ -16,7 +16,6 @@
 # this chart just doesn't visualize them in the hatch box.
 
 source(here::here("scripts", "r", "lib_theme.R"))
-library(ggrepel)
 library(forcats)
 
 con <- db_connect()
@@ -44,8 +43,7 @@ labels_end <- trends |>
   filter(year == max(year)) |>
   arrange(sector) |>
   mutate(
-    ymax = cumsum(n_filings), ymin = lag(ymax, default = 0), ymid = (ymin + ymax) / 2,
-    segment_color = sector_colors[as.character(sector)]
+    ymax = cumsum(n_filings), ymin = lag(ymax, default = 0), ymid = (ymin + ymax) / 2
   )
 
 bar_totals <- trends |> group_by(year) |> summarise(bar_top = sum(n_filings), .groups = "drop")
@@ -60,19 +58,30 @@ hatch_lines <- missing_boxes |>
   reframe(make_hatch(xmin, xmax, ymin, ymax))
 
 hatch_label <- missing_boxes |>
-  mutate(
-    sector = "Not yet due",
-    ymid = (ymin + ymax) / 2,
-    segment_color = unname(okabe_ito["vermillion"])
-  ) |>
-  select(year, sector, ymid, segment_color)
+  mutate(sector = "Not yet due", ymid = (ymin + ymax) / 2) |>
+  select(year, sector, ymid)
 
 leader_gap <- 0.12
+base_label_dx <- 1.2 - leader_gap
 
-# Manual vertical nudge for each label's text, in data y-units (filing counts).
-# Positive = label moves up, negative = down. The leader line still starts at
-# the true bar segment (ymid) -- only the label/text end of the line moves.
-# Edit these to fix up overlaps or spacing by hand.
+# Manual x/y position for each label's text, in data units (years / filing
+# counts) added on top of its default position. The leader line is drawn
+# fresh from the true bar segment (leader_x, ymid) to wherever the label
+# ends up, so it always follows the label -- there's no auto-collision
+# avoidance fighting your edits. Positive x = right, positive y = up.
+# Edit these directly to move labels (and their lines) around by hand.
+label_x_nudge <- c(
+  "Industrials" = 0,
+  "Information Technology" = 0,
+  "Consumer Discretionary" = 0,
+  "Consumer Staples" = 0,
+  "Health Care" = 0,
+  "Materials" = 0,
+  "Utilities" = 0,
+  "Other" = 0,
+  "Not yet due" = 0
+)
+
 label_y_nudge <- c(
   "Industrials" = 0,
   "Information Technology" = 0,
@@ -86,13 +95,14 @@ label_y_nudge <- c(
 )
 
 label_data <- bind_rows(
-  labels_end |> mutate(sector = as.character(sector)) |> select(year, sector, ymid, segment_color),
+  labels_end |> mutate(sector = as.character(sector)) |> select(year, sector, ymid),
   hatch_label
 ) |>
   mutate(
     sector = factor(sector, levels = c(sector_order, "Not yet due")),
     leader_x = year + 0.4 + leader_gap,
-    y_nudge = label_y_nudge[as.character(sector)]
+    label_x = leader_x + base_label_dx + label_x_nudge[as.character(sector)],
+    label_y = ymid + label_y_nudge[as.character(sector)]
   )
 
 sector_colors_ext <- c(sector_colors, "Not yet due" = unname(okabe_ito["vermillion"]))
@@ -107,16 +117,20 @@ p <- ggplot(trends, aes(x = year, y = n_filings, fill = sector)) +
     data = hatch_lines, aes(x = x, xend = xend, y = y, yend = yend),
     inherit.aes = FALSE, color = okabe_ito["vermillion"], linewidth = 0.5
   ) +
-  geom_text_repel(
-    data = label_data,
-    aes(x = leader_x, y = ymid, label = sector, color = sector, segment.color = segment_color),
-    inherit.aes = FALSE, hjust = 0, nudge_x = 1.2 - leader_gap, nudge_y = label_data$y_nudge,
-    direction = "y", min.segment.length = 0, fontface = "bold", size = 3.6, seed = 42
+  geom_segment(
+    data = label_data, aes(x = leader_x, y = ymid, xend = label_x, yend = label_y, color = sector),
+    inherit.aes = FALSE, linewidth = 0.4
+  ) +
+  geom_text(
+    data = label_data, aes(x = label_x, y = label_y, label = sector, color = sector),
+    inherit.aes = FALSE, hjust = 0, fontface = "bold", size = 3.6
   ) +
   scale_fill_manual(values = sector_colors) +
   scale_color_manual(values = sector_colors_ext) +
-  scale_x_continuous(breaks = seq(2006, 2026, by = 2), expand = expansion(mult = c(0.02, 0.16))) +
+  scale_x_continuous(breaks = seq(2006, 2026, by = 2), expand = expansion(mult = c(0.02, 0.02))) +
   scale_y_continuous(expand = expansion(mult = c(0, 0.05))) +
+  coord_cartesian(clip = "off") +
+  theme(plot.margin = margin(t = 5.5, r = 150, b = 5.5, l = 5.5)) +
   labs(
     title = "Tariff mentions in S&P 500 risk factors, 2006-2026, by sector",
     subtitle = "10-K filings whose Item 1A mentions tariffs, stacked by sector",
