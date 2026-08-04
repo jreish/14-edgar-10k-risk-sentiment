@@ -50,17 +50,36 @@ def _spaced(word: str) -> str:
     return r"\s*".join(list(word))
 
 
+def _item_number(digit: str, letter: str = "") -> str:
+    """Matches a heading item number tolerating the separator variants
+    seen between the digit and its letter suffix: 'Item 1A.' (baseline),
+    'Item 1.A.' (confirmed case: CLX -- a period inserted between digit
+    and letter), 'Item 1(a).' (confirmed case: HAL -- letter in
+    parentheses). The trailing '.'/')' are optional so callers can still
+    append their own closing punctuation tolerance.
+    """
+    if not letter:
+        return digit
+    return rf"{digit}\s*[.\(]?\s*{letter}\s*\)?"
+
+
+# "item" itself is given the same per-letter whitespace tolerance as
+# "risk"/"factors" below -- confirmed case: CINF renders its real Item 1A
+# heading (not just the table-of-contents entry) with each letter of
+# "ITEM" in its own inline element, so html_to_text's per-element newline
+# insertion splits it into "I\nTEM" and a literal "item" match fails.
+_ITEM = _spaced("item")
 _LINE_START = r"^[ \t\xa0]*"
 _START_STRICT = re.compile(
-    rf"{_LINE_START}item\s*1a\.?\s*[\-–—:]*\s*{_spaced('risk')}\s*{_spaced('factors')}",
+    rf"{_LINE_START}{_ITEM}\s*{_item_number('1', 'a')}\.?\s*[\-–—:]*\s*{_spaced('risk')}\s*{_spaced('factors')}",
     re.IGNORECASE | re.MULTILINE,
 )
 _END_1B = re.compile(
-    rf"{_LINE_START}item\s*1b\.?\s*[\-–—:]*\s*{_spaced('unresolved')}\s*{_spaced('staff')}\s*{_spaced('comments')}",
+    rf"{_LINE_START}{_ITEM}\s*{_item_number('1', 'b')}\.?\s*[\-–—:]*\s*{_spaced('unresolved')}\s*{_spaced('staff')}\s*{_spaced('comments')}",
     re.IGNORECASE | re.MULTILINE,
 )
 _END_2 = re.compile(
-    rf"{_LINE_START}item\s*2\.?\s*[\-–—:]*\s*{_spaced('properties')}",
+    rf"{_LINE_START}{_ITEM}\s*{_item_number('2')}\.?\s*[\-–—:]*\s*{_spaced('properties')}",
     re.IGNORECASE | re.MULTILINE,
 )
 _START_BARE = re.compile(

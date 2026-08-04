@@ -592,3 +592,83 @@ session) would be a manual review pass over `fulltext_candidate_unverified`
 rows, since a person looking at company name + candidate CIK side by side
 could resolve many of these with far more confidence than the automated
 two-query-agreement heuristic ever could on its own.
+
+## 2026-08-03 — Checkpoint 10: fixing the two most tractable missingness gaps
+
+**Decision:** Fix two specific, verified bugs feeding the largest
+missingness reason codes, then do a full pipeline rebuild rather than a
+partial/incremental patch, so every downstream table (`filing_universe`,
+`risk_factors_index`, `company_sectors`, `missing_records`,
+`keyword_hits`, `topic_trends_by_year`, `tariffs_by_year_sector`,
+`language_trends_by_year`) stays internally consistent with the corrected
+`cik_resolution`.
+
+**Bug 1 — `tenk_filing_dates()` only read the `recent` filings block.**
+`validate_continuity()` (checkpoint 2) requires a candidate current-ticker
+holder to have a 10-K filed within the target historical stint, checked
+via `submissions.json`'s `filings.recent` block. SEC truncates `recent`
+to roughly the last ~1000 filings, which for a long-lived active filer
+doesn't reach back to an old stint at all — so the check spuriously
+failed for companies that were correct the whole time, shunting them to
+the (deliberately conservative, ~70-75% accurate) full-text-search
+fallback instead of accepting the exact match already in hand. Verified
+before fixing: pulled all 116 distinct tickers hitting this exact
+"current holder failed continuity check" path and confirmed via
+`data.sec.gov/submissions` that **100% of them still trade under that
+exact ticker today** — i.e. every one was a false rejection, not a real
+ticker-reuse ambiguity. Fix: `tenk_filing_dates()` (renamed to take
+`cik` + `submissions`) now also fetches the paginated older-filings files
+already listed in `submissions["filings"]["files"]` (the same files
+`02_build_filing_universe.py` already knew to fetch), cached per CIK.
+
+**Bug 2 — `company_tickers.json` is missing at least one live ticker.**
+AEP (American Electric Power), a currently-active NYSE company that
+files 10-Ks every year, is absent from `company_tickers.json` entirely —
+confirmed by direct comparison against `data.sec.gov/submissions`, which
+shows CIK 4904 filing under ticker AEP to this day. SEC's sibling file
+`company_tickers_exchange.json` does list it. Fix: `fetch_company_tickers()`
+now fills gaps from `company_tickers_exchange.json` (only for tickers
+absent from `company_tickers.json`, never overriding it), at effectively
+zero cost since it's one extra static JSON fetch.
+
+**Parser fix — three heading-format variants added to `risk_factor_parser.py`.**
+The residual 101 `no_item_1a_extracted` rows were concentrated in a
+handful of tickers (CLX, CINF, HAL, C, KDP, USB = ~60/101). Manual
+inspection of the actual filing HTML found three unhandled variants in
+how "Item 1A" is rendered, all fixed by generalizing the existing
+per-letter spacing tolerance (already used for "risk"/"factors") to the
+word "item" and the item-number-plus-letter itself:
+  - CLX: `"ITEM 1.A. RISK FACTORS"` — a period between digit and letter.
+  - HAL: `"Item 1(a). Risk Factors"` — letter in parentheses.
+  - CINF: the *real* heading (not just the ToC entry) renders each
+    letter of "ITEM" in its own inline element, which `html_to_text`'s
+    per-element newline insertion splits into `"I\nTEM"` — a literal
+    `item` match failed even though the existing regex already tolerated
+    this exact pattern for "risk"/"factors".
+Regression-checked against 5 previously-passing filings (STX, OMC, LMT,
+CB, GIS) — identical extracted length in every case, confirming this
+only adds coverage rather than changing existing matches.
+
+**Measured impact of the full rebuild** (`missing_records`, before -> after):
+  - `cik_never_resolved`: 3015 -> 2884 (-131)
+  - `year_specific_no_match`: 106 -> 62 (-44)
+  - `no_item_1a_extracted`: 101 -> 36 (-65)
+  - `not_yet_due` (2026 hatch box): 62 -> 62 (unchanged, as expected —
+    unrelated to either fix)
+  - Total missing: 3313 -> 3079 (-234, a 7.1% reduction)
+
+This is well short of the ~1037-row upper bound estimated before the
+fix (which assumed every one of the 116 continuity-check-bug tickers
+would resolve across *all* of its affected years). Spot-checking why:
+AMD (18/18 years now resolved) and AEP (21/21) are the clean wins the
+bug predicted — a single continuously-operating company, wrongly
+rejected across its whole stint. But tickers like DD and CEG stayed
+mostly unresolved even after the fix, correctly — "DD" spans E.I. du
+Pont de Nemours (pre-2017) and the unrelated post-2019 DuPont de Nemours
+Inc. spinoff entity, and "CEG" spans the original Constellation Energy
+Group (merged into Exelon, 2012) and the 2022 Exelon spinoff of the same
+name — genuine ticker reuse, where the current holder correctly fails
+continuity for the older, unrelated company's years. The bug only ever
+inflated the *count* of tickers routed to the fallback path; it never
+guaranteed all of them were false rejections, so the smaller realized
+gain is the fix working as intended, not a sign it underdelivered.

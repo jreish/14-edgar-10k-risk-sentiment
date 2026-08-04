@@ -44,7 +44,7 @@ import sys
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
 from lib.db import connect, record_meta
-from lib.edgar import fetch_company_tickers, fetch_submissions, full_text_search
+from lib.edgar import fetch_company_tickers, fetch_submissions, full_text_search, get_json
 
 CONTINUITY_BUFFER_DAYS = 365
 TENK_FORMS = {"10-K", "10-K405", "10-KSB", "10-KSB405", "10-K/A", "10-KSB/A"}
@@ -62,34 +62,63 @@ def earliest_filing_date(submissions: dict) -> datetime.date | None:
     return datetime.date.fromisoformat(min(dates))
 
 
-def tenk_filing_dates(submissions: dict) -> list[datetime.date]:
+_tenk_dates_cache: dict[int, list[datetime.date]] = {}
+
+
+def tenk_filing_dates(cik: int, submissions: dict) -> list[datetime.date]:
+    """All 10-K filing dates for this CIK, spanning its ENTIRE filing
+    history -- not just submissions.json's `recent` block.
+
+    Confirmed bug (see decisions.md): `recent` is truncated by SEC to
+    roughly the last ~1000 filings, which for a long-lived active filer
+    (AMD, DuPont, Constellation Energy, etc.) doesn't reach back to a
+    2006-era stint at all. That made `has_10k_in_window` always return
+    False for old stints even though the company filed 10-Ks every single
+    year -- verified against 116 tickers whose "failed continuity check"
+    candidate CIK, per SEC's own submissions data, still trades under that
+    exact ticker today. The paginated older-filings files SEC lists under
+    filings.files[] (already fetched by 02_build_filing_universe.py the
+    same way) are what's missing here.
+    """
+    if cik in _tenk_dates_cache:
+        return _tenk_dates_cache[cik]
+
     recent = submissions.get("filings", {}).get("recent", {})
-    forms = recent.get("form", [])
-    filing_dates = recent.get("filingDate", [])
-    return [
+    forms = list(recent.get("form", []))
+    filing_dates = list(recent.get("filingDate", []))
+    for file_meta in submissions.get("filings", {}).get("files", []):
+        try:
+            more = get_json(f"https://data.sec.gov/submissions/{file_meta['name']}")
+        except Exception:
+            continue
+        forms.extend(more.get("form", []))
+        filing_dates.extend(more.get("filingDate", []))
+
+    dates = [
         datetime.date.fromisoformat(d)
         for f, d in zip(forms, filing_dates)
         if f in TENK_FORMS
     ]
+    _tenk_dates_cache[cik] = dates
+    return dates
 
 
 def has_10k_in_window(tenk_dates: list[datetime.date], start: datetime.date, end: datetime.date) -> bool:
     return any(start <= d <= end for d in tenk_dates)
 
 
-def validate_continuity(submissions: dict, stint_start: datetime.date, stint_end: datetime.date) -> bool:
+def validate_continuity(cik: int, submissions: dict, stint_start: datetime.date, stint_end: datetime.date) -> bool:
     earliest = earliest_filing_date(submissions)
     if earliest is None:
         return False
     if earliest > stint_start + datetime.timedelta(days=CONTINUITY_BUFFER_DAYS):
         return False
-    tenks = tenk_filing_dates(submissions)
-    # `recent` may not reach far enough back for very old filers; a company
-    # that passes the earliest-filing check but has no 10-K in `recent`
-    # covering this stint is treated as inconclusive from `recent` alone,
-    # so we don't hard-fail on a stint of a long-lived filer whose oldest
-    # 10-Ks fell off the `recent` window -- we only require *some* 10-K,
-    # anywhere in `recent`, near enough to plausibly be from this era.
+    tenks = tenk_filing_dates(cik, submissions)
+    # A company that passes the earliest-filing check but has no 10-K
+    # anywhere in its full filing history covering this stint is treated as
+    # inconclusive -- we don't hard-fail a stint of a long-lived filer whose
+    # 10-K cadence we can't pin down at all; we only require *some* 10-K,
+    # anywhere in its history, near enough to plausibly be from this era.
     return has_10k_in_window(tenks, stint_start, stint_end + datetime.timedelta(days=400)) or not tenks
 
 
@@ -199,7 +228,7 @@ def main():
                 if candidate_cik not in submissions_cache:
                     submissions_cache[candidate_cik] = fetch_submissions(candidate_cik)
                 subs = submissions_cache[candidate_cik]
-                if subs is not None and validate_continuity(subs, stint_start, stint_end_eff):
+                if subs is not None and validate_continuity(candidate_cik, subs, stint_start, stint_end_eff):
                     cik, method = candidate_cik, "current_ticker_validated"
                     detail = f"current holder CIK {candidate_cik}, continuity validated against stint"
                 else:

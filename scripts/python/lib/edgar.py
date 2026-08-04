@@ -59,13 +59,36 @@ def get_json(url: str, **kwargs):
 
 
 def fetch_company_tickers() -> dict:
-    """Ticker -> current CIK (int), per SEC's live company_tickers.json.
+    """Ticker -> current CIK (int), per SEC's live company_tickers.json,
+    filled in with company_tickers_exchange.json for any ticker missing
+    from the first file.
+
+    Confirmed gap: AEP (American Electric Power, a currently-active,
+    continuously-filing NYSE company) is simply absent from
+    company_tickers.json entirely, despite data.sec.gov/submissions
+    confirming CIK 4904 files 10-Ks under ticker AEP to this day. SEC's own
+    sibling file, company_tickers_exchange.json, does list it. Since the
+    two files are otherwise redundant (same ticker->CIK mapping), using the
+    exchange file only to fill gaps -- never to override -- costs nothing
+    and recovers cases like AEP without changing behavior for tickers
+    already covered.
 
     Current-holder-only by construction; callers must validate against a
     target historical window rather than trusting this mapping blindly.
     """
     data = get_json("https://www.sec.gov/files/company_tickers.json")
-    return {v["ticker"]: v["cik_str"] for v in data.values()}
+    mapping = {v["ticker"]: v["cik_str"] for v in data.values()}
+
+    exchange_data = get_json("https://www.sec.gov/files/company_tickers_exchange.json")
+    fields = exchange_data.get("fields", [])
+    cik_idx = fields.index("cik")
+    ticker_idx = fields.index("ticker")
+    for row in exchange_data.get("data", []):
+        ticker = row[ticker_idx]
+        if ticker not in mapping:
+            mapping[ticker] = row[cik_idx]
+
+    return mapping
 
 
 def fetch_submissions(cik: int) -> dict | None:

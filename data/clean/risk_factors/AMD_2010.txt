@@ -1,0 +1,743 @@
+The
+risks and uncertainties described below are not the only ones we face. If any of the following risks actually occurs, our business, financials condition or results of operations could be materially adversely affected. In addition, you should
+consider the interrelationship and compounding effects of two or more risks occurring simultaneously. 
+
+Intel Corporation’s
+dominance of the microprocessor market and its aggressive business practices may limit our ability to compete effectively. 
+
+Intel Corporation has dominated the market for microprocessors for many years. Intel’s market share, margins and significant financial resources enable it to market its products aggressively, to target our customers and our channel
+partners with special incentives, and to discipline customers who do business with us. These aggressive activities have in the past and are likely in the future to result in lower unit sales and a lower average selling price for our products and
+adversely affect our margins and profitability. 
+
+Intel exerts substantial influence over computer manufacturers and their
+channels of distribution through various brand and other marketing programs. Because of its dominant position in the microprocessor market, Intel has been able to control x86 microprocessor and computer system standards and bench marks and to
+dictate the type of products the microprocessor market requires of us. Intel also dominates the computer system platform, which includes core logic chipsets, graphics chips, motherboards and other components necessary to assemble a computer system.
+As a result, OEMs that purchase microprocessors for computer systems are highly dependent on Intel, less innovative on their own and, to a large extent, are distributors of Intel technology. Additionally, Intel is able to drive de facto standards
+for x86 microprocessors that could cause us and other companies to have delayed access to such standards. 
+
+18 
+
+Table of Contents
+
+Intel also manufactures and sells integrated graphics chipsets bundled with their
+microprocessors and is a dominant competitor with respect to this portion of our business. Intel leverages its dominance in the microprocessor market to sell its integrated chipsets. Moreover, computer manufacturers are increasingly using integrated
+graphics chipsets rather than discrete graphics components, particularly for notebooks, because they cost less than traditional discrete graphics components while offering satisfactory graphics performance for most mainstream PCs. Intel could also
+take actions that place our discrete GPUs and integrated chipsets at a competitive disadvantage, including giving one or more of our competitors in the graphics market, such as Nvidia Corporation, preferential access to its proprietary graphics
+interface or other useful information. 
+
+As long as Intel remains in this dominant position, we may be materially adversely
+affected by Intel’s: 
+
+•
+
+ business practices, including rebating and allocation strategies and pricing actions, designed to limit our market share and margins;
+
+•
+
+ product mix and introduction schedules; 
+
+•
+
+ product bundling, marketing and merchandising strategies; 
+
+•
+
+ exclusivity payments to its current and potential customers and channel partners; 
+
+•
+
+ control over industry standards, PC manufacturers and other PC industry participants, including motherboard, memory, chipset and basic input/output
+system, or BIOS, suppliers and software companies as well as the graphics interface for Intel platforms; and 
+
+•
+
+ marketing and advertising expenditures in support of positioning the Intel brand over the brand of its OEM customers. 
+
+Intel has substantially greater financial resources than we do and accordingly spends substantially greater amounts on research and
+development and production capacity than we do. We expect Intel to maintain its dominant position and to continue to invest heavily in marketing, research and development, new manufacturing facilities and other technology companies. To the extent
+Intel manufactures a significantly larger portion of its microprocessor products using more advanced process technologies, or introduces competitive new products into the market before we do, we may be more vulnerable to Intel’s aggressive
+marketing and pricing strategies for microprocessor products. 
+
+Intel’s dominant position in the microprocessor market and
+integrated graphics chipset market, its existing relationships with top-tier OEMs and its aggressive marketing and pricing strategies could result in lower unit sales and a lower average selling price for our products, which could have a material
+adverse effect on us. 
+
+The success of our business is dependent upon our ability to introduce products on a timely basis with required
+features and performance levels that provide value to our customers and support and coincide with significant industry transitions. 
+
+Our success depends to a significant extent on the development, qualification, implementation and acceptance of new product designs and improvements that provide value to our customers. Our ability to develop and qualify new products and
+related technologies to meet evolving industry requirements, at prices acceptable to our customers and on a timely basis are significant factors in determining our competitiveness in our target markets. For example, computer systems with our first
+AMD Fusion product, codenamed “Llano,” are expected to be available in 2011. The “Llano” platform will embody a new processor architecture which integrates the CPU and GPU on a single die. We anticipate that our “Llano”
+products will deliver improvements in power efficiency. If we fail to or are delayed in developing or qualifying new products or technologies, such as “Llano” we may lose competitive positioning, which could cause us to lose market share
+and require us to discount the selling prices of our products. 
+
+Delays in developing or qualifying new products can also cause
+us to miss our customers’ product design windows. If our customers do not include our products in the initial design of their computer systems, they will
+
+19 
+
+Table of Contents
+
+typically not use our products in their systems until at least the next design configuration. The process of being qualified for inclusion in a customer’s system can be lengthy and could
+cause us to further miss a cycle in the demand of end-users, which also could result in a loss of market share and harm our business. 
+
+Moreover, market demand requires that products incorporate new features and performance standards on an industry-wide basis. Over the life of a specific product, the average selling price undergoes regular price reductions. The introduction
+of new products and enhancements to existing products is necessary to maintain an overall corporate average selling price. If we are unable to introduce new products or launch new products with sufficient increases in average selling price or
+increased unit sales volumes capable of offsetting these reductions in the average selling price of existing products, our revenues, inventories, gross margins and operating results could be materially adversely affected. 
+
+Our ability to design and introduce new products in a timely manner is dependent upon third-party intellectual property. 
+
+In the design and development of new products and product enhancements, we rely on third-party intellectual property such as software
+development tools and hardware testing tools. The design requirements necessary to meet consumer demands for more features and greater functionality from semiconductor products in the future may exceed the capabilities of the third-party development
+tools available to us. If the third-party intellectual property that we use becomes unavailable or fails to produce designs that meet consumer demands, our business could be materially adversely affected. 
+
+We rely on GF to manufacture our microprocessor products, and if GF is unable to manufacture our products on a timely basis or to meet our capacity
+requirements, our business could be materially adversely affected. 
+
+We rely on GF to manufacture our microprocessor
+products. If GF suffers any damage to its facilities, is unable to secure necessary raw materials from its suppliers, loses benefits under its material agreements such as its joint development agreement with IBM, is unable to obtain funding from
+ATIC under the Funding Agreement or otherwise, experiences power outages, lacks sufficient capacity to manufacture our products, encounters financial difficulties due to litigation or otherwise or suffers any other disruption or reduction in
+efficiency of foundry capacity, we may encounter supply delays or disruptions, which could materially adversely impact our business. If GF is unable to remain competitive using advanced process technologies or is unable to manufacture our products
+on a timely basis or meet our capacity requirements, our business could be materially adversely affected. If we are unable to obtain sufficient supply from GF, we would have to move production of our products to new manufacturers, which could result
+in significant delays. In January 2010, GF announced that it is integrating operations with Chartered. With Chartered, GF significantly expanded its customer base to over 150 customers. Although GFs manufacturing capacity also increased, the
+integration process and the increased customer base could lead to delays or disruptions in manufacturing our products, which would adversely impact our business. 
+
+In addition, pursuant to the Wafer Supply Agreement between us and GF, we compensate GF on a cost plus-basis, which results in increased per unit manufacturing costs for AMD compared to manufacturing
+wafers in-house. Although this cost-plus arrangement has not impacted our consolidated financial statements while we were consolidating the financial results of GF, as of 2010, we no longer consolidate the financial results of GF, and
+this cost-plus arrangement may have a negative impact on our reported gross margins. If GF fails to operate at a competitive cost level, our business could be materially adversely affected. 
+
+The under-utilization of GF manufacturing facilities may increase our per unit costs and may have a material adverse effect on us. 
+
+It is difficult to predict future growth or decline in the demand for our products, making it difficult to forecast our requirements
+accurately. If our target markets do not grow, we may under-utilize GF manufacturing
+
+20 
+
+Table of Contents
+
+facilities. Because of our commitments to GF, during periods in which we under-utilize GF manufacturing facilities as a result of reduced demand for our microprocessor products, we may not be
+able to reduce our costs in proportion to the reduced revenues for such a period. When this occurs, our operating results will be materially adversely affected. 
+
+We rely on third-party foundries and other contractors to manufacture our graphics and chipset products. 
+
+In addition to relying on GF to manufacture substantially all of our microprocessor products, we currently rely on other independent foundries to manufacture our graphics and chipset products. We also
+rely on third-party manufacturers to manufacture our high end graphics boards. Independent contractors perform the assembly, testing and packaging of these products. We obtain these manufacturing services for our graphics and chipset products on a
+purchase order basis and these manufacturers are not required to provide us with any specified minimum quantity of product. Accordingly, our graphics business depends on these suppliers to allocate to us a portion of their manufacturing capacity
+sufficient to meet our needs, to produce products of acceptable quality and at acceptable manufacturing yields and to deliver those products to us on a timely basis at acceptable prices. We cannot assure you that these manufacturers will be able to
+meet our near-term or long-term manufacturing requirements. For example, in the second half of 2009, we experienced supply constraints for our latest generation of graphics products. The manufacturers we use also fabricate wafers and assemble, test
+and package products for other companies, including certain of our competitors. They could choose to prioritize capacity for other users, reduce or eliminate deliveries to us, or increase the prices that they charge us on short notice. 
+
+We must have reliable relationships with our wafer manufacturers and subcontractors to ensure adequate product supply to respond to
+customer demand. If we move production of our products to new manufacturers or if current manufacturers implement new process technology or design rules, any transition difficulties may result in lower yields or poorer performance of our products.
+
+Because it could take several quarters to establish a strategic relationship with a new manufacturing partner, we may be
+unable to secure an alternative supply for any specific product in a short time frame. We could experience significant delays in the shipment of our products if we are required to find alternative foundries or contractors. Other risks associated
+with our dependence on third-party manufacturers, including GF, include reduced control over delivery schedules, quality assurance, manufacturing yields and cost, lack of capacity in periods of excess demand, misappropriation of our intellectual
+property, dependence on several small undercapitalized subcontractors, reduced ability to manage inventory and parts, and exposure to foreign countries and operations. If we are unable to secure sufficient or reliable supplies of wafers, our ability
+to meet customer demand for our graphics business may be adversely affected and this could have a material adverse effect on us. 
+
+We depend
+on third-party companies for the design, manufacture and supply of motherboards, BIOS software and other computer platform components. 
+
+We depend on third-party companies for the design, manufacture and supply of motherboards, BIOS software and other components that support our microprocessor offerings. 
+
+Our microprocessors are not designed to function with motherboards and chipsets designed to work with Intel microprocessors. If we are
+unable to secure sufficient support for our microprocessor products from designers and manufacturers of motherboards, our business would be materially adversely affected. If the designers, manufacturers and suppliers of motherboards and other
+components decrease their support for our product offerings, our business could be materially adversely affected. 
+
+Failure to achieve
+expected manufacturing yields for our products could negatively impact our financial results. 
+
+Semiconductor manufacturing
+yields are a function of both product design and process technology, which is typically proprietary to the manufacturer, and low yields can result from either design or process technology
+
+21 
+
+Table of Contents
+
+failures. GF is responsible for developing manufacturing process technologies used to manufacture our microprocessor products and other third-party foundries are responsible for the process
+technologies used to manufacture our graphics and chipset products. We cannot be certain that GF or other third-party foundries will be able to develop, obtain or successfully implement leading-edge process technologies needed to manufacture future
+generations of our products profitably or on a timely basis or that our competitors will not develop new technologies, products or processes earlier. During periods when foundries are implementing new process technologies, their manufacturing
+facilities may not be fully productive. A substantial delay in the technology transitions to smaller process technologies could have a material adverse effect on us, particularly if our competitors transition to more cost effective technologies.
+Moreover, if foundries experience manufacturing inefficiencies, we may fail to achieve acceptable yields or experience product delivery delays. Any decrease in manufacturing yields could result in an increase in the per unit costs or force us to
+allocate our reduced product supply among our customers, which could potentially harm our customer relationships, reputation and financial results. 
+
+If we lose Microsoft Corporation’s support for our products, our ability to sell our products could be materially adversely affected. 
+
+Our ability to innovate beyond the x86 instruction set controlled by Intel depends partially on Microsoft designing and developing its operating systems to run on or support our microprocessor products.
+If Microsoft does not continue to design and develop its operating systems so that they work with our x86 instruction sets, independent software providers may forego designing their software applications to take advantage of our innovations and
+customers may not purchase PCs with our microprocessors. In addition, software drivers sold with our products are certified by Microsoft. If Microsoft did not certify a driver, or if we otherwise fail to retain the support of Microsoft, our ability
+to market our products would be materially adversely affected. 
+
+If we do not fully realize the anticipated benefits of our GF manufacturing
+joint venture, our business could be adversely impacted. 
+
+We anticipate realizing certain benefits to our business from the
+GF joint venture, including a more variable cost model and the ability to take advantage, as a shareholder of GF, of the shift by integrated device manufacturers to a fabless business model. We cannot assure you that our relationship with GF and
+ATIC will result in the full realization of these or any other benefits. 
+
+The recent instability of the financial markets may adversely
+impact our business and operating results. 
+
+There is continued concern over the instability of the financial markets and
+their influence on the global economy. As a result, our current or potential future customers may experience cash flow problems and as a result may modify, delay or cancel plans to purchase our products. Additionally, if our customers are not
+successful in generating sufficient revenue or are unable to secure financing, they may not be able to pay, or may delay payment of, accounts receivable that they owe us. Any inability of our current or potential future customers to pay us for our
+products may adversely affect our earnings and cash flow. Moreover, our key suppliers may reduce their output or become insolvent, thereby adversely impacting our ability to manufacture our products. For example, in 2009, Qimonda AG, a supplier of
+memory for our graphics products, commenced insolvency proceedings. In addition, economic conditions may make it more difficult for us to raise funds through borrowings or private or public sales of debt or equity securities. If global economic
+conditions deteriorate further or do not show improvement, we may experience material adverse impacts to our business and operating results. 
+
+If we cannot generate sufficient revenues and operating cash flow or obtain external financing, we may face a cash shortfall and be unable to make all of our planned investments in research and development. 
+
+Although we make substantial investments in research and development, we cannot be certain that we will be able to develop, obtain or
+successfully implement new products and technologies on a timely basis. Our
+
+22 
+
+Table of Contents
+
+ability to fund research and development expenditures depends on generating sufficient cash flow from operations and the availability of external financing, if necessary. Our research and
+development expenditures, together with ongoing operating expenses, will be a substantial drain on our cash flow and may decrease our cash balances. If new competitors, technological advances by existing competitors or other competitive factors
+require us to invest significantly greater resources than anticipated in our research and development efforts, our operating expenses would increase. If we are required to invest significantly greater resources than anticipated in research and
+development efforts without an increase in revenue, our operating results could decline. 
+
+We regularly assess markets for
+external financing opportunities, including debt and equity financing. Additional debt or equity financing may not be available when needed or, if available, may not be available on satisfactory terms. The health of the credit markets may adversely
+impact our ability to obtain financing when needed. In addition, downgrades from credit rating agencies such as Moody’s or Standard & Poor’s, which we experienced during the second quarter of 2009, may adversely impact our ability
+to get external financing or the terms of such financing. Credit agency downgrades may also impact relationships with our suppliers, who may limit our credit lines. Our inability to obtain needed financing or to generate sufficient cash from
+operations may require us to abandon projects or curtail planned investments in research and development. If we curtail planned investments in research and development or abandon projects, our products may fail to remain competitive and we would be
+materially adversely affected. 
+
+We have a substantial amount of indebtedness which could adversely affect our financial position and
+prevent us from implementing our strategy or fulfilling our contractual obligations. 
+
+We currently have a substantial
+amount of indebtedness. Our debt and capital lease obligations as of December 26, 2009 were $4.7 billion, of which $2.0 billion represented GF obligations. 
+
+Our substantial indebtedness may: 
+
+•
+
+ make it difficult for us to satisfy our financial obligations, including making scheduled principal and interest payments;
+
+•
+
+ limit our ability to borrow additional funds for working capital, capital expenditures, acquisitions and general corporate and other purposes;
+
+•
+
+ limit our ability to use our cash flow or obtain additional financing for future working capital, capital expenditures, acquisitions or other general
+corporate purposes; 
+
+•
+
+ require us to use a substantial portion of our cash flow from operations to make debt service payments; 
+
+•
+
+ place us at a competitive disadvantage compared to our less leveraged competitors; and 
+
+•
+
+ increase our vulnerability to the impact of adverse economic and industry conditions, such as those that we are currently experiencing.
+
+We may not be able to generate sufficient cash to service our debt obligations. 
+
+Our ability to make payments on and to refinance our debt will depend on our financial and operating performance, which may fluctuate
+significantly from quarter to quarter, and is subject to prevailing economic conditions and financial, business and other factors, many of which are beyond our control. We cannot assure you that we will be able to generate sufficient cash flow or
+that we will be able to borrow funds in amounts sufficient to enable us to service our debt or to meet our working capital requirements. If we are not able to generate sufficient cash flow from operations or to borrow sufficient funds to service our
+debt, we may be required to sell assets or equity, reduce expenditures, refinance all or a portion of our existing debt or obtain additional financing. We cannot assure you that we will be able to refinance our debt, sell assets or equity or borrow
+more funds on terms acceptable to us, if at all. 
+
+23 
+
+Table of Contents
+
+Our debt instruments impose restrictions on us that may adversely affect our ability to operate our
+business. 
+
+The indenture governing our 8.125% Senior Notes due 2017 (8.125% Notes) contains various covenants which limit
+our ability to: 
+
+•
+
+ incur additional indebtedness; 
+
+•
+
+ pay dividends and make other restricted payments; 
+
+•
+
+ make certain investments, including investments in our unrestricted subsidiaries; 
+
+•
+
+ create or permit certain liens; 
+
+•
+
+ create or permit restrictions on the ability of certain restricted subsidiaries to pay dividends or make other distributions to us;
+
+•
+
+ use the proceeds from sales of assets; 
+
+•
+
+ enter into certain types of transactions with affiliates; and 
+
+•
+
+ consolidate or merge or sell our assets as an entirety or substantially as an entirety. 
+
+In addition, the guarantee agreement related to the euro 700 Million Term Loan Facility Agreement for AMD Fab 36 Limited Liability
+Company & Co. KG (Fab 36 Term Loan Agreement) that we transferred to GF contains restrictive covenants that require us to maintain specified financial ratios when group consolidated cash (including GF cash and cash equivalents) is below
+specified amounts. Our ability to satisfy these financial ratios and tests can be affected by events beyond our control. We cannot assure you that we will meet those requirements. A breach of any of these financial ratios or tests could result in a
+default under the Fab 36 Term Loan Agreement. 
+
+The agreements governing our borrowing arrangements contain cross-default
+provisions whereby a default under one agreement would likely result in cross defaults under agreements covering other borrowings. For example, the occurrence of a default with respect to any indebtedness or any failure to repay debt when due in an
+amount in excess of $50 million would cause a cross default under the indentures governing our 8.125% Notes, 5.75% Convertible Senior Notes due 2012 (5.75% Notes) and the 6.00% Convertible Senior Notes due 2015 (6.00% Notes). The occurrence of a
+default under any of these borrowing arrangements would permit the applicable note holders to declare all amounts outstanding under those borrowing arrangements to be immediately due and payable. If the note holders or the trustee under the
+indentures governing our 8.125% Notes, 5.75% Notes or 6.00% Notes accelerate the repayment of borrowings, we cannot assure you that we will have sufficient assets to repay those borrowings and our other indebtedness. 
+
+In the event of a change of control, we may not be able to repurchase our outstanding debt as required by the applicable indentures, which would result
+in a default under the indentures. 
+
+Upon a change of control, we will be required to offer to repurchase all of the 8.125%
+Notes then outstanding at 101% of the principal amount thereof, plus accrued and unpaid interest, if any, up to, but excluding, the repurchase date. Moreover, the indentures governing our 5.75% Notes and 6.00% Notes require us to offer to repurchase
+these securities upon certain change of control events. As of December 26, 2009, the aggregate outstanding principal amount of the outstanding 8.125% Notes, 5.75% Notes and 6.00% Notes was $2.8 billion. Future debt agreements may contain
+similar provisions. We may not have the financial resources to repurchase our indebtedness. 
+
+If we are unable to continue to implement our
+cost cutting efforts, our business could be materially adversely affected. 
+
+In 2008 and the first quarter of 2009, we took
+a number of actions to decrease our expenses. For example, in the second and fourth fiscal quarters of 2008, we implemented restructuring plans to reduce our expenses. The
+
+24 
+
+Table of Contents
+
+restructuring charges for the restructuring plans implemented during 2008 represent primarily severance and costs related to the continuation of certain employee benefits in connection with the
+termination of employees, contract or program termination costs, asset impairments and exit costs for facility site consolidations and closures. If our restructuring activities are not effectively managed, we may experience unanticipated effects
+causing harm to our business and customer relationships. 
+
+The loss of a significant customer may have a material adverse effect on us. 
+
+Collectively, our top five customers accounted for approximately 50 percent of our net revenue in 2009. We expect that a small
+number of customers will continue to account for a substantial part of revenues of our microprocessor and graphics businesses in the future. During 2009, five customers accounted for approximately 56 percent of the net revenue of our Computing
+Solutions segment and five customers accounted for approximately 52 percent of the net revenue of our Graphics segment. If one of our top microprocessor or graphics business customers decided to stop buying our products, or if one of these customers
+were to materially reduce its operations or its demand for our products, we would be materially adversely affected. 
+
+The semiconductor
+industry is highly cyclical and has experienced severe downturns that materially adversely affected, and may in the future materially adversely affect, our business. 
+
+The semiconductor industry is highly cyclical and has experienced significant downturns, often in conjunction with constant and rapid technological change, wide fluctuations in supply and demand,
+continuous new product introductions, price erosion and declines in general economic conditions. The current uncertainty in global economic conditions has also impacted the semiconductor market as consumers and businesses have deferred purchases,
+which negatively impacted demand for our products in 2009. Our financial performance has been, and may in the future be, negatively affected by these downturns. We incurred substantial losses in recent downturns, due to: 
+
+•
+
+ substantial declines in average selling price; 
+
+•
+
+ the cyclical nature of supply/demand imbalances in the semiconductor industry; 
+
+•
+
+ a decline in demand for end-user products (such as PCs) that incorporate our products; 
+
+•
+
+ excess inventory levels in the channels of distribution, including those of our customers; and 
+
+•
+
+ excess production capacity. 
+
+If the current downturn in the semiconductor industry does not improve, we will be materially adversely affected. 
+
+The demand for our products depends in part on continued growth in the industries and geographies into which they are sold. Fluctuations in demand for our products or a market decline in any of these
+industries or geographies would have a material adverse effect on our results of operations. 
+
+Our business is dependent
+upon the market for desktop and notebook PCs and servers. In 2009 and 2008, a significant portion of our Computing Solutions revenue was related to desktop PCs. Industry-wide fluctuations in the computer marketplace have materially adversely
+affected us in the past, are currently affecting us and may materially adversely affect us in the future. Recently, as a result of macroeconomic challenges currently affecting the global economy, end user demand for PCs and servers decreased
+significantly. Although end-user PC demand stabilized in the second half of 2009, end-customers continue to demand value-priced products and spending by enterprises has not rebounded to pre-recession levels. In addition, form factors have steadily
+shifted from desktop PCs to notebook PCs over the past three years, and we expect that this trajectory will continue. 
+
+The
+growth of our business is also dependent on continued demand for our products from high-growth global markets. If demand from these markets is below our expectations, sales of our products may decrease, which could have a material adverse effect on
+us. 
+
+25 
+
+Table of Contents
+
+The markets in which our products are sold are highly competitive. 
+
+The markets in which our products are sold are very competitive, and delivering the latest and best products to market on a timely basis is
+critical to achieving revenue growth. We expect competition to intensify due to rapid technological changes, frequent product introductions and aggressive pricing by competitors. We believe that the main factors that determine our product
+competitiveness are timely product introductions, product quality, power consumption, reliability, selling price, speed, size (or form factor), cost, adherence to industry standards, software and hardware compatibility and stability and brand.
+
+Typically, after a product is introduced, costs and the average selling price normally decrease over time as production
+efficiency improves, and successive generations of products are developed and introduced for sale. Recently, as a result of the credit market crisis and other macroeconomic challenges currently affecting the global economy, end user demand for PCs
+and servers decreased significantly. Although end-user PC demand stabilized in the second half of 2009, consumers are focusing more on the price of PCs as a key factor in their buying decision. In turn, OEMs have applied pressure on semiconductor
+suppliers to reduce component prices, which has materially adversely affected the average selling price. 
+
+We expect that
+competition will continue to be intense in these markets and our competitors’ products may be less costly, provide better performance or include additional features that render our products uncompetitive. For example, Intel is transitioning to
+32 nm process technology before us. Using a more advanced process technology can contribute to lower product manufacturing costs and improve a product’s performance and power efficiency. Some competitors may have greater access or rights to
+companion technologies, including interface, processor and memory technical information. Competitive pressures could adversely impact the demand for our products, which could harm our revenue and gross margin. 
+
+Our operating results are subject to quarterly and seasonal sales patterns. 
+
+A substantial portion of our quarterly sales have historically been made in the last month of the quarter. This uneven sales pattern makes
+prediction of revenues for each financial period difficult and increases the risk of unanticipated variations in quarterly results and financial condition. In addition, our operating results tend to vary seasonally. For example, demand in the retail
+sector of the PC market is often stronger during the fourth quarter as a result of the winter holiday season and weaker in the first quarter. European sales are often weaker during the summer months. Many of the factors that create and affect
+seasonal trends are beyond our control. 
+
+If essential equipment or materials are not available to manufacture our products, we could be
+materially adversely affected. 
+
+Our operations depend upon obtaining deliveries of adequate supplies of materials on a
+timely basis. We purchase equipment and materials from a number of suppliers. From time to time, suppliers may extend lead times, limit supply to us or increase prices due to capacity constraints or other factors. Because some of the materials that
+we purchase are complex, it is difficult for us to substitute one supplier for another. Certain raw materials that are used in the manufacture of our products are available only from a limited number of suppliers. 
+
+For example, the manufacturing of our microprocessor products is largely dependent on one supplier of our silicon-on-insulator (SOI) wafers.
+We are also dependent on key chemicals from a limited number of suppliers and rely on a limited number of foreign companies to supply the majority of certain types of integrated circuit packages for our microprocessor products. Similarly, certain
+non-proprietary materials or components such as memory, PCBs, substrates and capacitors used in the manufacture of our graphics products are currently available from only a limited number of sources and are often subject to rapid changes in price
+and availability. Interruption of supply or increased demand in the industry could cause shortages and price increases in various essential materials. The macroeconomic challenges affecting the global economy may impact our key suppliers who may
+reduce their output and become insolvent which may adversely impact our ability to procure key
+
+26 
+
+Table of Contents
+
+materials. For example, in 2009, Qimonda AG, a supplier of memory for our graphics products commenced insolvency proceedings. If we are unable to procure certain of these materials, or our
+foundries are unable to procure materials for manufacturing our products, we would be materially adversely affected. 
+
+Our issuance to WCH
+of warrants to purchase 35,000,000 shares of our common stock, if and when exercised by WCH, will dilute the ownership interests of our existing stockholders, and the conversion of the remainder of our 5.75% Notes and 6.00% Notes may dilute the
+ownership interest of our existing stockholders. 
+
+The warrants issued to WCH became exercisable in July 2009. Any issuance
+by us of additional shares to WCH upon exercise of the warrants will dilute the ownership interests of our existing stockholders. Any sales in the public market by WCH of any shares owned by WCH could adversely affect prevailing market prices of our
+common stock, and the anticipated exercise by WCH of the warrants we issued to WCH could depress the price of our common stock. 
+
+Moreover, the conversion of our remaining 5.75% Notes and 6.00% Notes may dilute the ownership interests of our existing stockholders. The conversion of the 5.75% Notes and the 6.00% Notes could have a dilutive effect on our earnings per
+share to the extent that the price of our common stock exceeds the conversion price of the 5.75% Notes and 6.00% Notes. Any sales in the public market of our common stock issuable upon conversion of the 5.75% Notes or 6.00% Notes could adversely
+affect prevailing market prices of our common stock. In addition, the conversion of the 5.75% Notes or 6.00% Notes into cash and shares of our common stock could depress the price of our common stock. 
+
+If our products are not compatible with some or all industry-standard software and hardware, we could be materially adversely affected. 
+
+Our products may not be fully compatible with some or all industry-standard software and hardware. Further, we may be unsuccessful in
+correcting any such compatibility problems in a timely manner. If our customers are unable to achieve compatibility with software or hardware after our products are shipped in volume, we could be materially adversely affected. In addition, the mere
+announcement of an incompatibility problem relating to our products could have a material adverse effect on us. 
+
+Costs related to defective
+products could have a material adverse effect on us. 
+
+Products as complex as those we offer may contain defects or failures
+when first introduced or when new versions or enhancements to existing products are released. We cannot assure you that, despite our testing procedures, errors will not be found in new products or releases after commencement of commercial shipments
+in the future, which could result in loss of or delay in market acceptance of our products, material recall and replacement costs, delay in recognition or loss of revenues, writing down the inventory of defective products, the diversion of the
+attention of our engineering personnel from product development efforts, defending against litigation related to defective products or related property damage or personal injury, and damage to our reputation in the industry and could adversely
+affect our relationships with our customers. In addition, we may have difficulty identifying the end customers of the defective products in the field. As a result, we could incur substantial costs to implement modifications to correct defects. Any
+of these problems could materially adversely affect us. 
+
+We could be subject to potential product liability claims if one of
+our products causes, or merely appears to have caused, an injury. Claims may be made by consumers or others selling our products, and we may be subject to claims against us even if an alleged injury is due to the actions of others. A
+product liability claim, recall or other claim with respect to uninsured liabilities or for amounts in excess of insured liabilities could have a material adverse effect on our business. 
+
+27 
+
+Table of Contents
+
+Our receipt of royalty revenues is dependent upon being designed into third-party products and the
+success of those products. 
+
+Our graphics technology for game consoles is used in the Nintendo Wii and Microsoft Xbox 360
+game consoles. The revenues that we receive from these products are in the form of non-recurring engineering fees charged for design and development services, as well as royalties paid to us by Nintendo and Microsoft. Our royalty revenues are
+directly related to the sales of these products and reflective of their success in the market. If Nintendo or Microsoft does not include our graphics technology in future generations of their game consoles, our revenues from royalties would decline
+significantly. Moreover, we have no control over the marketing efforts of Nintendo and Microsoft and we cannot make any assurances that sales of those products will achieve expected levels in the current or future fiscal years. Consequently, the
+revenues from royalties expected by us from these products may not be fully realized, and our operating results may be adversely affected. 
+
+Our inability to continue to attract and retain qualified personnel may hinder our product development programs. 
+
+Our future success depends upon the continued service of numerous qualified engineering, manufacturing, marketing, sales and executive personnel. If we are not able to continue to attract, retain and motivate qualified personnel necessary
+for our business, the progress of our product development programs could be hindered, and we could be materially adversely affected. 
+
+If we
+fail to maintain the efficiency of our supply chain as we respond to increases or changes in customer demand for our products, our business could be materially adversely affected. 
+
+Our ability to meet customer demand for our products depends, in part, on our ability to deliver the products our customers want on a timely
+basis. Accordingly, we rely on our supply chain for the manufacturing, distribution and fulfillment of our products. As we continue to grow our business, acquire new OEM customers and strengthen relationships with existing OEM customers,
+the efficiency of our supply chain will become increasingly important because OEMs tend to have specific requirements for particular products, and specific time-frames in which they require delivery of these products. 
+
+We outsource to third parties certain supply-chain logistics functions, including portions of our product distribution and transportation management, and
+co-source some information technology services. 
+
+We rely on third-party providers to operate our regional product
+distribution centers and to manage the transportation of our work-in-process and finished products among our facilities and to our customers. In addition, we rely on third parties to provide certain information technology services to us, including
+helpdesk support, desktop application services, business and software support applications, server and storage administration, data center operations, database administration, and voice, video and remote access. Our relationships with these
+providers are governed by fixed term contracts. We cannot guarantee that these providers will fulfill their respective responsibilities in a timely manner in accordance with the contract terms, in which case our internal operations and the
+distribution of our products to our customers could be materially adversely affected. Also, we cannot guarantee that our contracts with these third-party providers will be renewed, in which case we would have to transition these functions in-house
+or secure new providers, which could have a material adverse effect on us if the transition is not executed appropriately. 
+
+Uncertainties
+involving the ordering and shipment of our products could materially adversely affect us. 
+
+We typically sell our products
+pursuant to individual purchase orders. We generally do not have long-term supply arrangements with our customers or minimum purchase requirements except that orders generally must be for standard pack quantities. Generally, our customers may cancel
+orders more than 30 days prior to shipment without incurring significant fees. We base our inventory levels on customers’ estimates of demand for their
+
+28 
+
+Table of Contents
+
+products, which may not accurately predict the quantity or type of our products that our customers will want in the future or ultimately end up purchasing. Our ability to forecast demand is even
+further complicated when we sell indirectly through distributors, as our forecasts for demand are then based on estimates provided by multiple parties. Moreover, PC and consumer markets are characterized by short product lifecycles, which can lead
+to rapid obsolescence and price erosion. In addition, our customers may change their inventory practices on short notice for any reason. We may build inventories during periods of anticipated growth, and the cancellation or deferral of product
+orders or overproduction due to failure of anticipated orders to materialize, could result in excess or obsolete inventory, which could result in write-downs of inventory and an adverse effect on profit margins. Factors that may result in excess or
+obsolete inventory, which could result in write-downs of the value of our inventory, a reduction in the average selling price, and/or a reduction in our gross margin include: 
+
+•
+
+ a sudden and significant decrease in demand for our products; 
+
+•
+
+ a higher incidence of inventory obsolescence because of rapidly changing technology and customer requirements; 
+
+•
+
+ a failure to estimate customer demand for our older products as our new products are introduced; or 
+
+•
+
+ our competitors taking aggressive pricing actions. 
+
+Because market conditions are uncertain, these and other factors could materially adversely affect us. 
+
+Our reliance on third-party distributors subjects us to certain risks. 
+
+We market and sell our products
+directly and through third-party distributors pursuant to agreements that can generally be terminated for convenience by either party upon prior notice to the other party. These agreements are non-exclusive and permit our distributors to offer our
+competitors’ products. We are dependent on our distributors to supplement our direct marketing and sales efforts. If any significant distributor or a substantial number of our distributors terminated their relationship with us or decided to
+market our competitors’ products over our products, our ability to bring our products to market would be impacted and we would be materially adversely affected. 
+
+Additionally, distributors typically maintain an inventory of our products. In most instances, our agreements with distributors protect their inventory of our products against price reductions, as well as
+provide return rights for any product that we have removed from our price book and that is not more than twelve months older than the manufacturing code date. Some agreements with our distributors also contain standard stock rotation provisions
+permitting limited levels of product returns. We defer the gross margins on our sales to distributors, resulting from both our deferral of revenue and related product costs, until the applicable products are re-sold by the distributors. However, in
+the event of a significant decline in the price of our products, the price protection rights we offer to our distributors would materially adversely affect us because our revenue would decline. 
+
+Failures in the global credit markets have impacted and may continue to impact the liquidity of our auction rate securities. 
+
+As of December 26, 2009, the par value of all our auction rate securities, or ARS, was $165 million with an estimated fair value of $159
+million. As of December 26, 2009, our investments in ARS included approximately $58 million of student loan ARS and $34 million of municipal and corporate ARS. The uncertainties in the credit markets have affected all of our ARS and auctions
+for these securities have failed to settle on their respective settlement dates. The auctions failed because there was insufficient demand for these securities. A failed auction does not represent a default by the issuer of the ARS. For each
+unsuccessful action, the interest rate is reset based on a formula set forth in each security, which is generally higher than the current market unless subject to an interest rate cap. When auctions for these securities fail, the investments may not
+be readily convertible to cash until a future auction of these investments is successful, a buyer is found outside of the auction process, the issuers of the ARS establish a different form of financing to replace these securities or redeem them, or
+final
+
+29 
+
+Table of Contents
+
+payment is due according to contractual maturities (currently, ranging from 17 to 42 years for our ARS). Although we have had some limited redemptions since the failed auctions began, the
+liquidity of these investments has been impacted. 
+
+While we believe that the current illiquidity of these investments is
+temporary, we cannot predict with certainty when liquidity in the ARS market will return. If this market illiquidity continues or worsens, we may be required to record additional impairment charges with respect to these investments in the future,
+which could adversely impact our results of operations. 
+
+As of December 26, 2009, we owned $69 million par value of ARS
+that we purchased from UBS prior to February 13, 2008. From June 30, 2010 through July 2, 2012, we have the right, but not the obligation, to sell, at par, these ARS to UBS. During the course of our exercise period with respect to the
+UBS ARS, UBS may not have financial resources to satisfy its financial obligations. In the event UBS cannot satisfy its financial obligations, we would no longer have the certainty as to the liquidity of these ARS. 
+
+Our operations in foreign countries are subject to political and economic risks and our worldwide operations are subject to natural disasters, which
+could have a material adverse effect on us. 
+
+We maintain operations around the world, including in the United States,
+Canada, Europe and Asia. We rely on GF for substantially all of our wafer fabrication capacity for microprocessors. Currently, GF manufactures our products in facilities that are located in Germany. Nearly all product assembly and final testing of
+our microprocessor products is performed at manufacturing facilities in China, Malaysia and Singapore. In addition, our graphics and chipset products are manufactured, assembled and tested by independent third parties in the Asia-Pacific region and
+inventory related to those products is stored there, particularly in Taiwan. We also have international sales operations and as part of our business strategy, we are continuing to seek expansion of product sales in high growth markets. International
+sales as a percent of net revenue were 87 percent for 2009. We expect that international sales will continue to be a significant portion of total sales in the foreseeable future. 
+
+The political and economic risks associated with our operations in foreign countries include, without limitation: 
+
+•
+
+ expropriation; 
+
+•
+
+ changes in a specific country’s or region’s political or economic conditions; 
+
+•
+
+ changes in tax laws, trade protection measures and import or export licensing requirements; 
+
+•
+
+ difficulties in protecting our intellectual property; 
+
+•
+
+ difficulties in achieving headcount reductions; 
+
+•
+
+ changes in foreign currency exchange rates; 
+
+•
+
+ restrictions on transfers of funds and other assets of our subsidiaries between jurisdictions; 
+
+•
+
+ changes in freight and interest rates; 
+
+•
+
+ disruption in air transportation between the United States and our overseas facilities; 
+
+•
+
+ loss or modification of exemptions for taxes and tariffs; and 
+
+•
+
+ compliance with U.S. laws and regulations related to international operations, including export control regulations and the Foreign Corrupt Practices
+Act. 
+
+In addition, our worldwide operations could be subject to natural disasters such as earthquakes that
+disrupt manufacturing or other operations. For example, our Silicon Valley operations are located near major earthquake fault lines in California. Any conflict or uncertainty in the countries in which we operate, including public health
+
+30 
+
+Table of Contents
+
+or safety, natural disasters or general economic factors, could have a material adverse effect on our business. Any of the above risks, should they occur, could result in an increase in the cost
+of components, production delays, general business interruptions, delays from difficulties in obtaining export licenses for certain technology, tariffs and other barriers and restrictions, potentially longer payment cycles, potentially increased
+taxes, restrictions on the repatriation of funds and the burdens of complying with a variety of foreign laws, any of which could ultimately have a material adverse effect on us. 
+
+Worldwide economic and political conditions may adversely affect demand for our products. 
+
+Worldwide economic conditions may adversely affect demand for our products. Also, the occurrence and threat of terrorist attacks and the consequences of sustained military action in the Middle East have
+in the past, and may in the future, adversely affect demand for our products. Terrorist attacks may negatively affect our operations, directly or indirectly, and such attacks or related armed conflicts may directly impact our physical facilities or
+those of our suppliers or customers. Furthermore, these attacks may make travel and the transportation of our products more difficult and more expensive, which could materially adversely affect us. 
+
+The United States has been and may continue to be involved in armed conflicts that could have a further impact on our sales and our supply
+chain. Political and economic instability in some regions of the world may also result and could negatively impact our business. The consequences of armed conflicts are unpredictable and we may not be able to foresee events that could have a
+material adverse effect on us. 
+
+More generally, any of these events could cause consumer confidence and spending to decrease
+or result in increased volatility in the United States economy and worldwide financial markets. Any of these occurrences could have a material adverse effect on us and also may result in volatility of the market price for our securities. 
+
+Unfavorable currency exchange rate fluctuations could continue to adversely affect us. 
+
+We have costs, assets and liabilities that are denominated in foreign currencies, primarily the Canadian dollar. As a consequence, movements
+in exchange rates could cause our foreign currency denominated expenses to increase as a percentage of revenue, affecting our profitability and cash flows. In the past, the value of the U.S. dollar has fallen significantly, leading to increasingly
+unfavorable currency exchange rates on foreign denominated expenses. Whenever we believe appropriate, we hedge a portion of our short-term foreign currency exposure to protect against fluctuations in currency exchange rates. We determine our total
+foreign currency exposure using projections of long-term expenditures for items such as payroll and equipment and materials used in manufacturing. We cannot assure you that these activities will be effective in reducing foreign exchange rate
+exposure. Failure to do so could have an adverse effect on our business, financial condition, results of operations and cash flow. 
+
+In addition, the majority of our product sales are denominated in U.S. dollars. Fluctuations in the exchange rate between the U.S. dollar and the local currency can cause increases or decreases in the cost of our products in the local
+currency of such customers. An appreciation of the U.S. dollar relative to the local currency could reduce sales of our products. 
+
+Our
+inability to effectively control the sales of our products on the gray market could have a material adverse effect on us. 
+
+We market and sell our products directly to OEMs and through authorized third-party distributors. From time to time, our products are diverted from our authorized distribution channels and are sold on the “gray market.” Gray
+market products result in shadow inventory that is not visible to us, thus making it difficult to forecast demand accurately. Also, when gray market products enter the market, we and our distribution channel compete with these heavily discounted
+gray market products, which adversely affects demand for our products and negatively impact our margins. In addition, our inability to control gray market activities could result in
+
+31 
+
+Table of Contents
+
+customer satisfaction issues because any time products are purchased outside our authorized distribution channel there is a risk that our customers are buying counterfeit or substandard products,
+including products that may have been altered, mishandled or damaged, or used products represented as new. 
+
+If we cannot adequately protect
+our technology or other intellectual property in the United States and abroad, through patents, copyrights, trade secrets, trademarks and other measures, we may lose a competitive advantage and incur significant expenses. 
+
+We rely on a combination of protections provided by contracts, including confidentiality and nondisclosure agreements, copyrights, patents,
+trademarks and common law rights, such as trade secrets, to protect our intellectual property. However, we cannot assure you that we will be able to adequately protect our technology or other intellectual property from third-party infringement or
+from misappropriation in the United States and abroad. Any patent licensed by us or issued to us could be challenged, invalidated or circumvented or rights granted there under may not provide a competitive advantage to us. Furthermore, patent
+applications that we file may not result in issuance of a patent or, if a patent is issued, the patent may not be issued in a form that is advantageous to us. Despite our efforts to protect our intellectual property rights, others may independently
+develop similar products, duplicate our products or design around our patents and other rights. In addition, it is difficult to monitor compliance with, and enforce, our intellectual property on a worldwide basis in a cost-effective manner. In
+jurisdictions where foreign laws provide less intellectual property protection than afforded in the United States and abroad, our technology or other intellectual property may be compromised, and we would be materially adversely affected.
+
+We are party to litigation and may become a party to other claims or litigation that could cause us to incur substantial costs or pay
+substantial damages or prohibit us from selling our products. 
+
+From time to time we are a defendant or plaintiff in various
+legal actions. We also sell products to consumers, which could increase our exposure to consumer actions such as product liability claims. Litigation can involve complex factual and legal questions and its outcome is uncertain. Any claim that is
+successfully asserted against us may cause us to pay substantial damages. 
+
+With respect to intellectual property litigation,
+from time to time, we have been notified, or third parties may bring or have brought actions against us, based on allegations that we are infringing the intellectual property rights of others. If any such claims are asserted against us, we may seek
+to obtain a license under the third party’s intellectual property rights. We cannot assure you that we will be able to obtain all of the necessary licenses on satisfactory terms, if at all. In the event that we cannot obtain a license, these
+parties may file lawsuits against us seeking damages (potentially up to and including treble damages) or an injunction against the sale of our products that incorporate allegedly infringed intellectual property or against the operation of our
+business as presently conducted, which could result in our having to stop the sale of some of our products or to increase the costs of selling some of our products or could damage our reputation. The award of damages, including material royalty
+payments, or the entry of an injunction against the manufacture and sale of some or all of our products, would have a material adverse effect on us. We could decide, in the alternative, to redesign our products or to resort to litigation to
+challenge such claims. Such challenges could be extremely expensive and time-consuming regardless of their merit, cause delays in product release or shipment, and could have a material adverse effect on us. We cannot assure you that litigation
+related to our intellectual property rights or the intellectual property rights of others can always be avoided or successfully concluded. 
+
+Even if we were to prevail, any litigation could be costly and time-consuming and would divert the attention of our management and key personnel from our business operations, which could have a material
+adverse effect on us. 
+
+32 
+
+Table of Contents
+
+We are conducting an internal investigation into matters associated with recently announced
+allegations of trading in our stock on the basis of confidential information. 
+
+We are conducting an internal
+investigation into recent allegations that an unnamed “AMD executive” provided confidential information about us to a person who has been charged by federal authorities with trading in our stock on the basis of that
+confidential information. To date, we have not been and, to our knowledge, none of our current or former executives or employees have been, charged or otherwise identified as targets or subjects in connection with ongoing proceedings or
+investigations relating to this matter. At this time, we cannot give any assurances as to the outcome of our investigation or whether any facts that may be discovered will be damaging to our business, results
+of operations or reputation. 
+
+We are subject to a variety of environmental laws that could result in liabilities. 
+
+Our operations and properties have in the past and continue to be subject to various United States and foreign environmental laws and
+regulations, including those relating to materials used in our products and manufacturing processes, discharge of pollutants into the environment, the treatment, transport, storage and disposal of solid and hazardous wastes, and remediation of
+contamination. These laws and regulations require us to obtain permits for our operations, including the discharge of air pollutants and wastewater. Although our management systems are designed to maintain compliance, we cannot assure you that we
+have been or will be at all times in complete compliance with such laws, regulations and permits. If we violate or fail to comply with any of them, a range of consequences could result, including fines, suspension of production, alteration of
+manufacturing processes, import/export restrictions, sales limitations, criminal and civil liabilities or other sanctions. We could also be held liable for any and all consequences arising out of exposure to hazardous materials used, stored,
+released, disposed of by us or located at or under our facilities or other environmental or natural resource damage. 
+
+Certain
+environmental laws, including the U.S. Comprehensive, Environmental Response, Compensation and Liability Act of 1980, or the Superfund Act, impose strict, joint and several liability on current and previous owners or operators of real property for
+the cost of removal or remediation of hazardous substances and impose liability for damages to natural resources. These laws often impose liability even if the owner or operator did not know of, or was not responsible for, the release of such
+hazardous substances. These environmental laws also assess liability on persons who arrange for hazardous substances to be sent to disposal or treatment facilities when such facilities are found to be contaminated. Such persons can be responsible
+for cleanup costs even if they never owned or operated the contaminated facility. We have been named as a responsible party on Superfund clean-up orders for three sites in Sunnyvale, California. Although we have not yet been, we could be named a
+potentially responsible party at other Superfund or contaminated sites in the future. In addition, contamination that has not yet been identified could exist at our other facilities. 
+
+Environmental laws are complex, change frequently and have tended to become more stringent over time. For example, the European Union (EU)
+and China are two among a growing number of jurisdictions that have enacted in recent years restrictions on the use of lead, among other chemicals, in electronic products. These regulations affect semiconductor packaging. There is a risk that
+the cost, quality and manufacturing yields of lead-free products may be less favorable compared to lead-based products or that the transition to lead-free products may produce sudden changes in demand, which may result in excess inventory. Other
+regulatory requirements potentially affecting our back-end manufacturing processes and the design and marketing of our products are in development throughout the world. In addition, the EU is considering market entry requirements for computers based
+on the ENERGY STAR specification (Version 5.0) as well as additional limits. The proposed requirements, which have not yet been finalized by the EU Commission, could potentially be approved and implemented as early as the fourth quarter of
+2011. If such requirements are implemented in the proposed time frame and to the proposed specification there is the potential for certain of our microprocessor, chipset and GPU products, as incorporated in desktop and mobile PCs, being
+excluded from the EU market. While we have budgeted for foreseeable associated expenditures, we cannot assure you that future environmental legal
+
+33 
+
+Table of Contents
+
+requirements will not become more stringent or costly in the future. Therefore, we cannot assure you that our costs of complying with current and future environmental and health and safety laws,
+and our liabilities arising from past and future releases of, or exposure to, hazardous substances will not have a material adverse effect on us. 
+
+Our business is subject to potential tax liabilities. 
+
+We are subject to income taxes in the United States,
+Canada and other foreign jurisdictions. Significant judgment is required in determining our worldwide provision for income taxes. In the ordinary course of our business, there are many transactions and calculations where the ultimate tax
+determination is uncertain. Although we believe our tax estimates are reasonable, we cannot assure you that the final determination of any tax audits and litigation will not be materially different from that which is reflected in historical income
+tax provisions and accruals. Should additional taxes be assessed as a result of an audit or litigation, there could be a material effect on our cash, income tax provision and net income in the period or periods for which that determination is made.

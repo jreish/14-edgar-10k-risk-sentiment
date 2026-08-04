@@ -329,3 +329,49 @@ never silently pretends to know something it doesn't.
 This completes the planned build. Everything is committed, checkpoint by
 checkpoint, with the reasoning behind each choice recorded in
 decisions.md.
+
+## 2026-08-03 — Checkpoint 10: going back to fix two of the gaps we'd documented
+
+After the build was "done," we went back and asked how hard it would
+actually be to close the three biggest missingness categories
+(`cik_never_resolved`, `year_specific_no_match`, `no_item_1a_extracted`).
+Digging in turned up two real, fixable bugs rather than fundamental
+limits:
+
+- The CIK-resolution continuity check was only looking at the most
+  recent ~1000 filings in SEC's own records for a company, which for a
+  company that's been public a long time doesn't reach back far enough
+  to cover an old year. That made the check wrongly reject companies
+  that were actually fine the whole time. We confirmed this by hand
+  against 116 affected tickers, and every single one turned out to
+  still be trading under the exact same ticker today — proof these were
+  false rejections, not real cases of a ticker changing hands.
+- AEP (American Electric Power) was missing from one of SEC's own
+  reference files entirely, even though it's a large, currently active
+  company. A second SEC file has it. Checking both now costs nothing.
+- Separately, the three tickers responsible for most of the leftover
+  "couldn't extract Item 1A" failures (Clorox, Cincinnati Financial,
+  Halliburton) turned out to each write the "Item 1A" heading in a
+  slightly different, unusual way our text pattern didn't recognize yet.
+  Once actually looked at side by side, all three turned out to be small
+  variations on tolerance the parser already had for other words — just
+  not applied to "Item 1A" itself.
+
+Fixed all three, then did a full rebuild of the pipeline (not a patch)
+so every downstream table would stay consistent, and re-ran the charts.
+Net effect: total missingness dropped by about 7% (3313 -> 3079 missing
+company-years). The CIK-resolution fix alone didn't recover as much as
+first estimated, and that turned out to be a good sign rather than a
+disappointment — spot-checking showed it correctly left alone the
+companies where a ticker really was reused by a different, unrelated
+company later on (DuPont's ticker "DD", Constellation Energy's ticker
+"CEG"), while cleanly fixing the cases where it was genuinely the same
+company the whole time (AMD, AEP). The fix did what it was supposed to
+do, no more and no less.
+
+One background hiccup worth noting for next time: the first attempt at
+this rerun got silently killed partway through by something in the
+environment, not by an error in the script. Restarting the remaining
+steps with `nohup`/`disown` (so the process doesn't depend on the
+original shell session staying alive) let it finish cleanly the second
+time.

@@ -1,0 +1,2071 @@
+” and the “Financial Condition” section set forth in “Part II, 
+
+1 
+
+Table of Contents
+
+Item 7—Management’s Discussion and Analysis of Financial Condition and Results of Operations,” or MD&A, beginning on page
+     below and such other risks and uncertainties as set forth below in this report or detailed in our other Securities and Exchange Commission (SEC) reports and filings. We assume no obligation to update forward-looking
+statements. 
+
+General 
+
+We are a global semiconductor company with facilities around the world. We
+provide processing solutions for the computing, graphics and consumer electronics markets. 
+
+On October 25, 2006, we completed our acquisition of ATI pursuant to an Acquisition Agreement, dated as of July 23, 2006, by and among AMD, 1252986 Alberta ULC, and ATI, whereby ATI became our indirect,
+wholly-owned subsidiary. As a result of the acquisition, we began to supply 3D graphics, video and multimedia products and chipsets for personal computers, or PCs, including desktop and notebook PCs, professional workstations and servers and
+products for consumer electronic devices such as mobile phones, digital TVs and game consoles. 
+
+Additional Information 
+
+We were incorporated under the laws of Delaware on May 1, 1969 and became a publicly held company in 1972. Since 1979 our common stock has been listed on the New York Stock Exchange under the symbol “AMD.” Our mailing address
+and executive offices are located at One AMD Place, Sunnyvale, California 94088, and our telephone number is (408) 749-4000. References in this report to “AMD,” “we,” “us,” “management,” “our,”
+or the “Company” means Advanced Micro Devices, Inc. and our consolidated subsidiaries, including ATI and its subsidiaries. 
+
+AMD, the AMD Arrow logo, AMD Athlon, AMD Opteron, AMD Sempron, AMD Turion, AMD LIVE!, Geode, and combinations thereof, ATI and the ATI logo and ATI Avivo,
+TV Wonder, Fire, Imageon, Radeon, Xilleon, Crossfire and AMD PowerNow! are trademarks of Advanced Micro Devices, Inc. Spansion and MirrorBit are trademarks of Spansion Inc. Microsoft, Windows and Windows Vista are either registered trademarks or
+trademarks of Microsoft Corporation in the United States and/or other jurisdictions. MIPS is a registered trademark of MIPS Technologies, Inc. in the United States and/or other jurisdictions. HyperTransport is a licensed trademark of the
+HyperTransport Technology Consortium. NetWare is a registered trademark of Novell, Inc. in the United States and/or other jurisdictions. Other names are for informational purposes only and used to identify companies and products and may be
+trademarks of their respective owners 
+
+Website Access to Company Reports and
+Corporate Governance Documents 
+
+We post on the Investor
+Relations pages of our Web site, www.amd.com, a link to our filings with the SEC, our Principles of Corporate Governance, our Code of Ethics for our Chief Executive Officer, Chief Financial Officer, Corporate Controller and other senior
+finance executives, our “Worldwide Standards of Business Conduct,” which applies to our directors and all our employees, and the charters of our Audit, Compensation, Finance and Nominating and Corporate Governance committees of our board
+of directors. Our filings with the SEC are posted as soon as reasonably practical after they are electronically filed with, or furnished to, the SEC. You can also obtain copies of these documents by writing to us at: Corporate Secretary, AMD, One
+AMD Place, M/S 68, Sunnyvale, California 94088, or emailing us at: 
+Corporate.Secretary@amd.com. All these documents and filings are available free of charge. Please note that information contained on our Web site is not incorporated by
+reference in, or considered to be a part of, this report. For financial information about geographic areas and for segment information with respect to revenues and operating results, refer to the information set forth in Note 11 of our consolidated
+financial statements, beginning on page 127 below. 
+
+Our Industry
+
+Semiconductors are components used in a variety of
+electronic products and systems. An integrated circuit, or IC, is a semiconductor device that consists of many interconnected transistors on a single chip. Since the 
+
+2 
+
+Table of Contents
+
+invention of the transistor in 1948, improvements in IC process and design technologies have led to the development of smaller, more complex and more
+reliable ICs at a lower cost per function. In order to satisfy the demand for faster, smaller and lower-cost ICs, semiconductor manufacturers have continually developed improvements in manufacturing and process technology. ICs are increasingly being
+manufactured using smaller geometries on larger silicon wafers. Use of smaller process geometries can result in products that are higher performing, use less power and cost less to manufacture on a per unit basis. Use of larger wafers can contribute
+further to a decrease in manufacturing costs per unit and to an increase in capacity by yielding more chips per wafer. 
+
+The availability of low-cost semiconductors, together with increased customer demand for sophisticated electronic systems, has led to the proliferation of
+semiconductors. Today, virtually all electronic products use semiconductors, including PCs and related peripherals, wired and wireless voice and data communications and networking products including mobile telephones, facsimile and photocopy
+machines, home entertainment equipment, industrial control equipment and automobiles. 
+
+During most of 2006, within the global semiconductor industry, we offered primarily: 
+
+•
+
+ x86 microprocessors for the commercial and consumer markets, which are used for control and computing tasks; and 
+
+•
+
+ embedded microprocessors for commercial, commercial client and consumer markets. 
+
+As a result of our acquisition of ATI in October 2006, we began to supply 3D graphics, video and multimedia products and
+chipsets for desktop and notebook PCs, professional workstations, and servers as well as products for consumer electronic devices such as mobile phones, digital TVs and game consoles. Therefore, since this acquisition, we have actively participated
+in the semiconductor graphics and chipset markets as well as in the semiconductor market for consumer electronics devices. 
+
+Computation Products 
+
+The x86 Microprocessor Market 
+
+A microprocessor is an IC that serves as the central processing unit, or CPU, of a computer. It generally consists of millions of transistors that process data and control other devices in the system, acting as the
+brain of the computer. The performance of a microprocessor is a critical factor impacting the performance of a computer and numerous other electronic systems. The principal indicators of CPU performance are work-per-cycle, or how many instructions
+are executed per cycle, clock speed, representing the rate at which a CPU’s internal logic operates, measured in units of hertz, or cycles per second, and power consumption. Other factors impacting microprocessor performance include the number
+of CPUs, or cores, on a microprocessor, the bit rating of the microprocessor, memory size and data access speed. 
+
+Developments in circuit design and manufacturing process technologies have resulted in significant advances in microprocessor performance. For
+approximately the last ten years, microprocessors have had 32-bit computing capabilities. The bit rating of a microprocessor generally denotes the largest size of numerical data that a microprocessor can handle. While 32-bit processors have
+historically been sufficient, we believe that they will face increasing challenges as new data and memory-intensive consumer and enterprise software applications gain popularity. Microprocessors with 64-bit processing capabilities enable systems to
+have greater performance by allowing software applications and operating systems to access more memory. 
+
+Moreover, as businesses and consumers require greater performance from their computer systems due to the exponential growth of digital data and
+increasingly sophisticated software applications, semiconductor manufacturers have transitioned from manufacturing single-core microprocessors to also manufacturing multi-core processors, where multiple processor cores are placed on a single die or
+in a single processor. Multi-core 
+
+3 
+
+Table of Contents
+
+processors offer enhanced overall system performance and efficiency because computing tasks can be spread across two or more processing cores each of which
+can execute a task at full speed. Moreover, two or more processor cores packaged together can increase performance of a computer system without greatly increasing the total amount of power consumed and the total amount of heat emitted. This type of
+“symmetrical multiprocessing” is effective in both multi-tasking environments where multiple cores can enable operating systems to prioritize and manage tasks from multiple software applications simultaneously and also for “multi
+threaded” software applications where multiple cores can process different parts of the software program, or “threads,” simultaneously thereby enhancing performance of the application. Businesses and consumers also require computer
+systems with improved power management technology, which allows them to reduce the power consumption of their computer systems thereby reducing the total cost of ownership. With the recent release of Microsoft®
+
+ Windows Vista
+™
+
+ and with the proliferation of applications for multimedia and gaming, grid computing and extensive enterprise
+databases, we believe the demand for 64-bit computing, multi-core technology and improved power management technology will continue to increase. 
+
+Microprocessor Products 
+
+We currently offer single-core and dual-core microprocessor products for servers, workstations, notebooks and desktop PCs. Our microprocessors currently
+are designed with both 32-bit and 64-bit processing capabilities. We based our microprocessors on the x86 instruction set architecture and most of these processors are also based on the AMD64 technology platform with direct connect architecture.
+Direct connect architecture connects an on-chip memory controller and input/output, or I/O, channels directly to one or more microprocessor cores. For dual-core processors, we integrate two processor cores onto a single die and each core has its own
+dedicated cache, which is memory that is located on the semiconductor die. We believe this architecture, and, in particular, the integrated memory controller, enables substantially higher performance because memory can be accessed more directly
+rather than traversing a traditional front-side bus, which results in increased bandwidth and reduced memory latencies. Our processors support HyperTransport™
+
+ technology, which is a high-bandwidth communications interface we initially developed that enables substantially higher
+performance and supports our I/O virtualization technology. In designing our processors, we also focus on continuously improving power management technology, or “performance-per-watt.” To that end, we offer processors that feature AMD
+PowerNow!
+™
+
+ technology, which we designed to reduce
+system level energy consumption, with multiple levels of lower clock speed and voltage states that can significantly reduce processor power consumption during idle times. We design our microprocessors to be compatible with operating system software
+such as the Microsoft
+®
+
+ Windows
+®
+
+ family of operating systems, Linux
+®
+
+, NetWare
+®
+
+, Solaris and UNIX. We also designed the AMD64 architecture to enhance the security of a
+user’s computing environment by integrating security features that are designed to prevent the spread of certain viruses when enabled by the anti-virus features of current versions of certain operating systems, including Linux, the
+Microsoft
+®
+
+ Windows
+®
+
+ family of operating systems and Solaris operating systems. 
+
+Servers and Workstations.
+    Our
+microprocessors for servers and workstations consist primarily of our single-core and dual-core AMD Opteron
+™
+
+ processors. A server is a powerful computer on a network, often with multiple microprocessors working together, that is dedicated to a particular purpose, stores large amounts of
+information and performs the critical functions for that purpose. A workstation is essentially a heavy-duty desktop, designed for tasks such as computer-aided design and digital content creation. We based our AMD Opteron processors for servers and
+workstations on the AMD64 technology platform, which extends the industry-standard x86 instruction set architecture to 64-bit computing, and designed them to allow simultaneous 32-bit and 64-bit computing. These processors can be used in a variety
+of server applications, including business processing (enterprise resource planning, customer relationship management, and supply chain management) and business intelligence. They can also be used in workstation applications such as engineering and
+digital content creation software and other information technology infrastructure applications such as intensive Web serving and messaging. 
+
+4 
+
+Table of Contents
+
+Our dual-core AMD Opteron processors offer improved overall performance on many applications compared to
+single-core AMD processors by executing more operations simultaneously during each clock cycle, and improved performance-per-watt, which can reduce the operational costs related to power usage. At the same time, servers based on dual-core AMD
+Opteron processors are easier to manage because more processing capacity can be concentrated into fewer servers. For the same reason, servers based on dual-core processors are less costly to operate. 
+
+Dual-core AMD Opteron processors also allow our enterprise customers to more
+easily implement virtualization across their business. Virtualization is the use of software to allow workloads to be shared at the processor level by providing the illusion of multiple processors. Virtualization enables running different operating
+systems and applications on the same server, thereby consolidating workloads and reducing hardware requirements. 
+
+In August 2006 we introduced a new generation of AMD Opteron dual-core processors. These processors provide several new features including improved
+virtualization support and energy efficient DDR2 memory. In addition, these processors can be replaced by AMD quad-core processors in the same socket and thermal envelope. Our quad-core x86 processors for servers, which we expect to begin shipping
+in mid-2007, will incorporate four processor cores on a single die of silicon. DDR2, or double data rate two, is a type of random access memory technology used for high speed storage of the working data of a computer. 
+
+Notebook PCs.
+    Our microprocessors for
+notebook PCs consist primarily of AMD Turion
+™
+
+ 64
+processors and mobile AMD Sempron
+™
+
+ processors. We
+designed our mobile processor products for high-performance, longer battery life and wireless connectivity. 
+
+AMD Turion 64 processors represent our most advanced family of Windows-compatible processors for thinner and lighter notebook PCs, and provide performance
+improvements such as longer battery life, reduced heat generation, enhanced security and compatibility with current wireless and graphics solutions. 
+
+In May 2006 we introduced AMD Turion 64 X2 dual-core mobile technology, which is our most advanced dual-core processor family for notebook PCs. We
+designed this technology to enable leading-edge graphics for the more visual experience provided by the Microsoft®
+
+ Windows Vista
+™
+
+ operating system, longer battery life, enhanced security and compatibility with the latest wireless technologies. In addition, we have designed the process used to manufacture AMD Turion 64 mobile technology for more
+thermally efficient processor operation and reduced power consumption. 
+
+Desktop PCs.
+    Our microprocessors for desktop PCs consist primarily of the following tiered product brands: AMD Athlon
+™
+
+ 64 FX, AMD Athlon 64 and AMD Sempron processors. We designed the AMD Athlon 64 FX processor specifically for gamers, PC
+enthusiasts and digital content creators who require processors that can perform graphic-intensive tasks. We designed our AMD Athlon 64 processors for enterprises and sophisticated PC users that seek to access large amounts of data and memory. For
+value-conscious consumers of desktop and notebook PCs, we offer the AMD Sempron microprocessor, which we designed to provide core computing needs at affordable prices. We also offer AMD Athlon 64 X2 dual-core processors and AMD Athlon 64 FX X2
+dual-core processors, which like the dual-core AMD Opteron processors, contain two processor cores on one semiconductor die. The performance advantages of AMD Athlon 64 X2 dual-core processors enable operating systems to prioritize and manage
+tasks from multiple software applications simultaneously. For example, users are able to simultaneously download audio files such as MP3s, record to digital media devices, check and write email, edit a digital photo and run virus protection without
+compromising the performance of their PC. AMD Athlon 64 X2 dual-core processors also have an integrated DDR2 memory controller, which is designed to increase performance on memory-intensive applications. We designed the AMD Athlon 64 X2 dual-core
+processors for “prosumer” and digital media enthusiasts or other users who routinely run multiple processor-intensive software applications simultaneously. 
+
+In December 2006, we introduced a new generation of AMD Athlon 64 X2 dual-core processors which are manufactured using
+65-nanometer technology. We designed these processors to deliver improved 
+
+5 
+
+Table of Contents
+
+performance-per-watt by maintaining the performance of the previous generation of AMD Athlon 64 X2 dual-core processors and reducing power consumption. To
+aid in reducing power consumption, these new processors incorporate a feature called “C1 Enhanced,” a power management feature that slows selected system functions when not in use to reduce overall power consumption. 
+
+On October 25, 2006, we completed our acquisition of ATI. We believe
+that the acquisition of ATI will allow us to deliver products that better fulfill the increasing demand for more integrated computing solutions. We plan to deliver a range of integrated platforms to serve key markets, including commercial clients,
+mobile computing, and gaming and media computing. We believe that these integrated platforms will bring customers improved system stability, better time-to-market and increased performance and energy efficiency. We also plan to develop and offer
+monolithic silicon solutions for specialized uses that are comprised of microprocessors, graphics processors and video processors. We refer to these design initiatives as “Fusion.” At the same time, we plan to continue to develop discrete
+microprocessor and graphics processor products and to maintain open interface and software standards in order to allow our customers to choose the combination of technologies that best serve their needs. 
+
+Embedded Products 
+
+The Embedded Processor Market 
+
+During 2006, we offered embedded microprocessors for high end commercial markets, commercial client markets and certain consumer markets. The high end
+commercial markets that we address include communication servers, networking equipment, storage servers, and imaging systems. The applications in these markets typically require high-performance, enterprise-class products that include embedded
+server-class products. Customers use commercial client products to address specialized needs within a variety of industries, including computer devices such as thin clients, single board computers, blade PCs, points of sale terminals, commercial
+value clients, and access devices such as gateways and access points. Devices for specific consumer markets are used in ultra mobile PC’s, ultra value clients and entertainment devices such as media players and set top boxes. The applications
+in these devices typically require highly integrated systems-on-chip, or SoCs, that include high-performance, low-power embedded processors and microcontrollers. 
+
+Embedded Processors 
+
+Our products range from low-power x86 architecture-based embedded processors to high-performance, enterprise class, harsh environment-capable x86
+architecture-based products. We design embedded connectivity devices to address customer needs in non-PC markets where low power, Internet connectivity and/or low power processing is a priority. Typically these embedded processors are used in
+products that require high to moderate levels of performance where key features include low cost, mobility, low power and small form factor. We target some products that use our embedded processors for specific markets using SoC design techniques.
+
+Our embedded microprocessor products include the AMD
+Geode™
+
+ product family. AMD Geode microprocessors
+are 32-bit processors based on the x86 instruction set architecture. These processors integrate functionality such as processing, system logic, graphics, audio and video decompression onto one integrated device. We also offer embedded processors
+based on AMD64 technology, which consists of low-power versions of our AMD Athlon, AMD Turion, AMD Sempron and AMD Opteron families of products. These low power products deliver the same performance as their corresponding full power parts while
+offering the added benefit of reduced power consumption and thermal output. These processors are configured specifically for demanding embedded applications traditionally served by custom silicon designs. We believe these processors also offer our
+customers the ability to leverage the AMD64 infrastructure. In addition, a distinguishing characteristic of our AMD64-based embedded processors is our AMD64 Longevity Program. The AMD64 Longevity Program offers a select set of AMD64 processors with
+an extended standard availability period of five years. The extended availability period addresses the requirements of customers designing products for network, storage, blade and 
+
+6 
+
+Table of Contents
+
+telecommunications servers; digital imaging; and military and industrial controls systems. Such markets have lengthy design and qualification cycles and
+longer life spans in the marketplace than typical mainstream computing products. 
+
+Prior to July 2006, we also provided MIPS®
+
+ architecture-based Alchemy embedded processors. In July 2006 we sold the Alchemy family of products to Raza Microelectronics, Inc. 
+
+Our embedded processor products, from AMD Opteron to AMD Geode, exemplify our “x86 Everywhere” microprocessor
+strategy, which is our goal for utilizing the x86 instruction set architecture to power a wide variety of devices in diverse places such as the home, office or car, in the supply chain, in storage networks, in the data center, and/or in global
+communications networks. We believe that when a greater number of devices are standardized with an x86-based platform, end-users can benefit from the ability to run their existing x86-based software on devices that interoperate with each other. This
+can accelerate and simplify the process of enabling faster, easier connectivity and data sharing between a wide range of products, from portable consumer electronics to PCs and servers. With our full range of embedded microprocessors, we are able to
+extend our x86-based product offerings to serve markets from embedded appliances to embedded server-class products.
+
+Graphics and Chipset Products 
+
+Graphics and Chipset Market 
+
+The semiconductor graphics market addresses the need for visual processing in various computing and entertainment platforms such as desktop and notebook
+PCs, workstations and game consoles. The strength of the semiconductor graphics market is heavily dependent upon the market for PCs. Visual realism and graphical display capabilities are key elements of product differentiation among various product
+platforms. PC users value a rich visual experience, particularly in the high-end enthusiast market where consumers seek out the fastest and highest performing visual processing products to deliver the most compelling and immersive gaming
+experiences. Moreover, for some consumers, the PC market is evolving from a traditional data and communications processing machine to an entertainment platform. This has led to the increasing creation and use of processing intensive multimedia
+content for PCs and PC manufacturers creating more PCs designed for playing games, displaying photos and capturing TV and other multimedia content. In turn, the trend has contributed to the development of higher performance graphics solutions. For
+example, we believe that the enhanced 3D graphics capabilities enabled by Microsoft®
+
+ Windows Vista
+™
+
+ and the increasing availability of “media center” PCs will spur development of advanced graphics applications intended for mainstream users, which will contribute to increased demand for graphics and chipset
+products. 
+
+The primary product of a semiconductor graphics
+supplier is the graphics processing unit, or GPU, a semiconductor chip that increases the speed and complexity of images that can be displayed on a graphical interface and improves image resolution and color definition. The GPU off-loads the burden
+of graphics processing from the CPU. In this way, a dedicated graphics processor and CPU work in tandem to increase overall speed and performance of the system. A graphics solution can be in the form of either a stand-alone graphics chip or an
+integrated chipset solution. Recently, to further improve graphics processing performance, semiconductor graphics suppliers have introduced multi-GPU technologies which increase graphics processing speed by dividing graphics rendering and display
+among two or more graphics processors. 
+
+Graphics and Chipset Products
+
+We provide our graphics solution for both desktop and
+notebook PCs by adding either one or more discrete graphics processors, which are stand-alone graphics chips, or by integrating the graphics hardware into the motherboard chipset. Discrete graphics chips tend to provide higher levels of performance
+and speed, while integrated chipsets generally offer a lower cost solution, improved power consumption and smaller form factors. The demand for integrated graphics solutions has grown in recent years as the performance of integrated chipsets has
+advanced. Also, customers of graphics products such as original equipment manufacturers, or OEMs, and PC system integrators, or SIs, who are continually pressured to meet lower price and power consumption targets 
+
+7 
+
+Table of Contents
+
+while still maintaining reasonable profit margins, are increasingly using integrated chipsets over discrete graphics chips in their products because of the
+lower cost of integrated graphics solutions. 
+
+Our customers
+generally use our graphics and chipset products to increase the speed of rendering images and to improve image resolution and color attributes. Our products include 3D graphics, video and multimedia products and chipsets developed for use in desktop
+and notebook PCs, including home media PCs, professional workstations and servers. With each of our graphics products, we provide drivers and supporting software packages that enable the effective use of these products under a variety of operating
+systems and applications. Our latest generation of graphics, chipset and related software offer full support for the Microsoft®
+
+ Windows Vista™ operating system. In addition to the Microsoft
+®
+
+ Windows
+®
+
+ family of operating systems, our graphics products support Apple’s Mac OS X as well as Linux
+®
+
+-based applications. 
+
+Discrete Desktop Products.    
+Our discrete GPUs for desktop PCs include our ATI
+Radeon
+™
+
+ X1000 family of products which we
+introduced in October 2005. From our current enthusiast level product, the ATI Radeon X1950 to the value-based ATI Radeon X1300, this product family includes offerings that incorporate features and price-performance characteristics for the
+enthusiast, performance, mainstream and value categories of the desktop PC market. These products support our CrossFire
+™
+
+ dual-GPU technology, first introduced in May 2005. Crossfire technology increases graphics processing power and speed by combining two GPUs in the same
+PC platform. The ATI Radeon X1000 family of products incorporates our proprietary ATI Avivo
+™
+
+ platform technology. ATI Avivo
+™
+
+ technology is a video and display platform that enables high-definition (HD) video playback and display. 
+
+Although an increasing percentage of desktop PCs rely on integrated chipsets for graphics, we believe that discrete graphic
+solutions will continue to offer higher performance and be the preferred solution for several types of desktop PC configurations, such as platforms designed for gaming enthusiasts, CAD professionals and animation as well as for applications such as
+multimedia, photo and video editing, and other graphic-intensive applications. 
+
+Discrete Notebook Products.    
+Our discrete GPUs for the notebook PC market include our ATI Mobility Radeon X1000 series of products which we introduced in December 2005. When
+selecting a graphics solution, the key considerations for notebook PC manufacturers are visual performance, power consumption, form factor and cost. We designed our products to provide the mix of performance, features and flexibility desired by the
+major categories of the notebook PC market, including the thin and light, performance, desktop replacement and value categories. 
+
+Our high-end ATI Mobility Radeon X1900 products deliver 3D graphics performance and video playback quality and vibrant image quality for performance
+notebook PCs. An ultra-threaded 3D architecture with advanced power management provides high-definition video and display enhancements. At the value end, we offer the ATI Mobility Radeon X1300 with features such as enhanced 3D gaming, high-quality
+video playback and longer battery life for price-conscious consumers. 
+
+Chipset Products.    
+Our integrated chipset solutions, also known as core logic on the motherboard, include our Radeon
+™
+
+ Xpress and Crossfire
+™
+
+ families. We target our Radeon Xpress series chipsets to motherboard manufacturers and offer a high degree of performance, stability and
+connectivity for mainstream and commercial desktop and notebook PCs. Radeon Xpress chipsets contain integrated graphics while our Crossfire
+™
+
+ chipsets are discrete chipsets without integrated graphics and are intended to be used in systems targeting the higher end markets, such as gaming,
+that use multiple add-in graphics boards. Our chipset solutions include products that are compatible with Intel platforms. We expect to continue to ship existing chipsets for Intel CPUs throughout 2007 and beyond to the extent there is demand for
+these products. However, we expect that sales of these products will continue to decline and will eventually cease. 
+
+Home Media PC Products
+.    Our home media PC products incorporate a wide variety of features for consumers that intend
+to use their PCs for multimedia applications. For example, our family of TV Wonder
+™
+
+8 
+
+Table of Contents
+
+products allows consumers to watch and record TV on their PC, listen to FM radio stations and watch DVD movies. Our latest generation of these products also
+incorporates our ATI Avivo technology which enables PCs to record and playback in HD. 
+
+Workstation and Server Products.
+    Our products for the professional workstation market consist of our FireGL
+™
+
+ and FireMV
+™
+
+ product families. We designed our FireGL products for demanding 3D applications such as computer-aided design, while we designed our FireMV multi-view
+2D workstation cards for financial and corporate environments. We also provide products for the server market, where we leverage our graphics expertise and align our offerings to provide stability, video quality and bus architectures that our server
+customers desire. 
+
+Consumer Electronics Products 
+
+Consumer Electronics Market 
+
+The semiconductor market for video, graphics and media processors in
+consumer electronics products addresses the need for enhancing the visual experience provided by devices such as mobile phones, digital TVs and game consoles. Consumers value entertainment and communications products that can deliver an engaging
+multimedia experience. Accordingly, semiconductor suppliers of video, graphics and media processors strive to deliver products that improve visual realism and allow manufacturers of mobile phones, digital TVs and game consoles the opportunity to
+differentiate their products. 
+
+Handheld
+Market.
+    In recent years, mobile phones have transitioned towards color displays with higher resolutions that deliver a variety of multimedia features. Manufacturers are offering functionality such as built-in digital
+cameras and camcorders, MP3 audio playback, video playback, mobile-TV reception and 3D gaming in an increasing percentage of mobile phones, thereby increasing the opportunity to supply media processors to mobile phone manufacturers. 
+
+Digital TV Market.
+    The market for
+digital TVs is growing, driven in part by the transition of terrestrial broadcast television transmissions from analog to digital in many different regions throughout the world. For example, on February 18, 2009, full power television stations
+in the United States will stop analog broadcasting and transition to digital broadcasting. This conversion is supported by a U.S. Federal Communications Commission mandate that requires electronics manufacturers to include digital tuners in all new
+television sets by March 2007. 
+
+There is also a worldwide shift
+in the television industry from analog cathode ray tube, or CRT, displays to digital flat panel displays such as LCD and plasma. These flat panel displays are able to support larger screen sizes and higher resolutions. Producing the
+highest quality images on these advanced televisions is fundamental to television manufacturers. Semiconductor graphics solutions play an integral role in improving video image quality to enhance the user viewing experience. 
+
+Game Consoles
+.    Semiconductor graphics
+suppliers have leveraged their core visual and graphics processing technologies developed for the PC market by providing solutions to game console manufacturers. In this market, semiconductor graphics suppliers work alongside game console
+manufacturers to enhance the visual experience for users of sophisticated video games. 
+
+Consumer Electronics Products 
+
+We
+continue to leverage our core technology, visual processing expertise and power management know-how to meet the needs of certain consumer electronics markets. We have initially targeted three categories of the consumer electronics market: (i)
+handheld devices, including mobile phones; (ii) digital TVs; and (iii) game consoles. 
+
+9 
+
+Table of Contents
+
+Our products for consumer electronics devices include media processors used in handheld devices such as
+mobile phones and video processors used in digital TVs. We also receive royalties from game console manufacturers in connection with sales of systems that incorporate our graphics intellectual property and designs. With each of these products we
+provide drivers and supporting software that enable the effective use of these products by our customers. 
+
+Handheld Devices.
+    The latest generation of handheld devices, particularly mobile phones, are driving demand for more
+advanced multimedia processors. Higher resolution displays, higher performing embedded processors, increased internal and removable storage, mobile email and PDA-like features as well as multimedia functionality such as built-in digital cameras, MP3
+audio playback, video playback, mobile TV and 3D gaming are all contributing to rapid changes in handheld and mobile communication devices. 
+
+Our AMD Imageon™
+
+ product line provides visual processing, high quality audio and power saving technologies. We offer products for each category of the mobile phone media processor market: entry level,
+feature phones, performance phones and fully loaded multimedia and gaming phones. The AMD Imageon video engine enables a mobile digital camcorder/player and supports advanced features such as video-telephony and video-streaming. We also provide AMD
+Imageon products that include a programmable audio engine that enables features such as positional 3D sound, CD-quality ring-tones and music phones with high-quality stereo recording and playback. 
+
+Digital TVs.
+    As television broadcasters
+in North America and other parts of the world transition their analog television signals to digital transmissions, we believe increased consumer interest in digital TV will spur demand for more advanced systems. Digital transmission standards
+provide significant advantages compared to analog standards, including greater picture clarity and resolution as well as opportunities for more channels, e-commerce and enhanced TV viewing. 
+
+We offer two groups of products that target two major silicon blocks inside
+an integrated digital TV: the digital video receiver and the decoder. An integrated digital TV is one where a digital receiver and digital video decoder are integrated inside the TV rather than externally, such as via a set top box. Our AMD
+Xilleon™ and Theater™ product lines are used in integrated digital TVs to demodulate and decode digital broadcast signals. AMD Xilleon products also provide video, graphics and audio processing. The drivers and supporting software that we
+provide with our digital TV products allow deployment in multiple worldwide markets with either customer designed applications or AMD supplied Customer Application Ready Design (CARD) software applications. 
+
+In September 2006, we announced the AMD Xilleon®
+
+ 260, an SoC product that supports full high-definition for worldwide digital
+TV standards including Europe, Japan, Korea and North America. The AMD Xilleon 260 includes a powerful video pipeline for both standard-definition and HD content. Advanced features which enhance image quality include HD de-interlacing, a 3D comb
+filter, dynamic contrast, noise reduction, sharpness, and color control. 
+
+Game Consoles.
+    We also leverage our core visual processing technology into the game console market. Our customized GPUs process the graphics in the Microsoft
+®
+
+ Xbox 360
+™
+
+, Nintendo Wii and Nintendo GameCube videogame consoles. 
+
+Marketing and Sales 
+
+We sell our products through our direct sales force and through independent
+sales representatives in both domestic and international markets pursuant to non-exclusive agreements. Our sales arrangements generally operate on the basis of product forecasts provided by the particular customer, but do not typically include any
+commitment or requirement for minimum product purchases. We primarily use binding purchase orders, sales order acknowledgments, and contractual agreements as evidence of our sales arrangements. Our agreements typically contain standard
+terms and conditions covering matters such as payment terms, warranties and indemnities for issues specific to our products.
+
+10 
+
+Table of Contents
+
+We generally warrant that microprocessor products sold to our customers will, at the time of shipment, be
+free from defects in workmanship and materials and conform to our approved specifications. Subject to certain exceptions, we offer a three-year limited warranty to end users for microprocessor products that are commonly referred to as
+“processors in a box,” a one-year limited warranty to direct purchasers for all other microprocessor products that are commonly referred to as “tray” microprocessor products, and a one-year limited warranty to direct purchasers
+of embedded processor products. We have offered extended limited warranties to certain customers of “tray” microprocessor products who have written agreements with us and target their computer systems at the commercial and/or embedded
+markets. 
+
+We generally warrant that graphics, chipsets, and
+certain products for consumer electronics devices will be free from defects in material and workmanship under normal use and service for a period of one year, beginning on the date first sold to an end user but not later than 90 days after shipment
+of such products to our customers. We generally warrant that ATI-branded PC workstation products will be free from defects in material and workmanship under normal use and service for a period of three years, beginning on the date first sold to an
+end user but not later than 90 days after shipment of such products to our customers. Generally, our microprocessor and embedded processor customers may cancel orders 30 days prior to shipment without incurring a penalty. Under our standard terms
+and conditions, graphics and chipset customers may cancel orders by providing 30 days prior written notice to us without incurring a penalty, while certain customers of products for consumer electronic devices may cancel orders by providing 90 days
+prior advance notice to us without incurring a penalty. 
+
+We
+market and sell our microprocessor and embedded processor products under the AMD trademark. Our product brands for microprocessors consist primarily of AMD Athlon 64, AMD Athlon 64 FX and AMD Sempron processor brands for desktop PCs, the AMD Opteron
+processor brand for servers and workstations, the AMD Turion 64 mobile technology and AMD Sempron processor brands for notebook PCs. We also have the AMD LIVE!™
+
+ brand through which we promote our entertainment platform solutions for desktop and notebook PCs as well as film,
+broadcast and music professional artists that use AMD64 technology. Our product brands for our embedded processors consist of AMD Geode processors. We also sell low-power versions of our AMD Athlon, AMD Turion, AMD Sempron and AMD Opteron processors
+as embedded processor solutions. 
+
+With respect to our graphics
+and chipset products, we intend to continue to market and sell GPUs and graphics chipsets for the Intel platform under the ATI trademark. We market and sell other chipset products and our products for consumer electronics devices under the AMD
+trademark. 
+
+We market our products through our direct marketing
+and co-marketing programs. Our direct marketing activities include print and Web-based advertising as well as consumer and trade events and other industry and consumer communications. We also sponsor teams such as the Discovery Channel Pro Cycling
+Team and the Scuderia Ferrari. We work with these groups to determine their technology needs and how our AMD64 technology can help support those needs. The goal of these sponsorships is to increase awareness of our brand and AMD64 technology.
+
+In addition, we have cooperative advertising and marketing
+programs with customers or third parties, including market development programs, pursuant to which we may provide product information, training, marketing materials and funds. Under our marketing development programs, eligible customers can use
+market development funds as partial reimbursement for advertisements and marketing programs related to our products, subject to meeting defined criteria. Customers may qualify for market development funds based on purchases of eligible products.
+
+Customers 
+
+Our microprocessor customers consist primarily of OEMs, original design
+manufacturers, or ODMs, and third-party distributors in both domestic and international markets. ODMs provide design and/or manufacturing services to branded and unbranded private label resellers. 
+
+11 
+
+Table of Contents
+
+Customers of our graphics and chipset products consist primarily of: PC OEMs, often through ODMs or other
+contract manufacturers who build GPUs into their PC motherboard and graphics board products, add-in-board, or AIB, manufacturers who incorporate GPUs into their graphics board products, SIs, who build GPUs into their PC products, third party
+distributors, retail stores and e-commerce retailers. 
+
+Customers of our products for consumer electronic devices consist primarily of OEMs and ODMs. 
+
+Our sales and marketing teams work closely with our customers to define product features, performance and timing of new products so that the products we
+are developing meet the needs of our customers. We also employ application engineers to assist our customers in designing, testing and qualifying system designs that incorporate our products in order to assist in optimizing product compatibility. We
+believe that our commitment to customer service and design support improves our customers’ time-to-market and fosters relationships that encourage customers to use the next generation of our products. 
+
+Original Equipment Manufacturers 
+
+We focus on three types of OEMs: multi-nationals, selected regional accounts
+and target market customers. Large multi-nationals and regional accounts are our core OEM customers. Our OEM customers include numerous foreign and domestic manufacturers of servers and workstations, desktop and notebook PCs, PC motherboards and
+consumer electronics products such as mobile phones and digital TVs. Under our standard terms and conditions, OEMs do not have a right to return our products other than pursuant to the standard limited warranty. However, from time to time we may
+agree to repurchase a portion of some categories of products pursuant to negotiated terms. 
+
+In 2006, Hewlett-Packard Company accounted for greater than 10 percent of our consolidated net revenues. Sales to Hewlett-Packard consisted primarily of products from our Computation Products segment. In addition, one
+handset manufacturer accounted for more than half of the revenue attributable to our Consumer Electronics segment and one game console provider accounted for a significant portion of revenue attributable to our Consumer Electronics segment.
+Moreover, two customers accounted for approximately one third of the revenue attributable to our Graphics and Chipsets segment. A loss of any of these customers could have a material adverse effect on our business. 
+
+Third-Party Distributors 
+
+Our authorized distributors resell to sub-distributors and mid-sized and
+smaller OEMs and ODMs. Typically, distributors handle a wide variety of products, including those that compete with our products. Distributors typically maintain an inventory of our products. In most instances, our agreements with distributors
+protect their inventory of our products against price reductions and provide return rights with respect to any product that we have removed from our price book and that is not more than twelve months older than the manufacturing code date. In
+addition, some agreements with our distributors may contain standard stock rotation provisions permitting limited levels of product returns. 
+
+In 2006, Avnet, Inc. and its subsidiaries and affiliated companies accounted for approximately 10 percent of our consolidated net revenue. Avnet is a
+distributor of our products and sales to Avnet consisted primarily of products, from our Computation Products segment. 
+
+AIB Manufacturers and System Integrators 
+
+We strive to establish and broaden our relationships with AIB manufacturers. We offer component-level graphics and chipset products to AIB manufacturers
+who in turn build and sell board-level products using our technology to SIs and at retail. We also work directly with our SI customers. SIs typically sell from positions of regional or product-based strength in the market. They usually operate on
+short design cycles and can respond quickly with new technologies. SIs often use discrete graphics solutions as a means to differentiate their products and add value to their customers. 
+
+12 
+
+Table of Contents
+
+Competition 
+
+Generally, the IC industry is intensely competitive. Products typically compete on product quality, power consumption, reliability, speed, size (or form
+factor), cost, selling price, adherence to industry standards, software and hardware compatibility and stability, brand recognition, timely product introductions and availability. Technological advances in the industry result in frequent product
+introductions, regular price reductions, short product life cycles and increased product capabilities that may result in significant performance improvements. Our ability to compete depends on our ability to develop, introduce and sell new products
+or enhanced versions of existing products on a timely basis and at competitive prices, while reducing our manufacturing costs. 
+
+Competition in the Microprocessor Market 
+
+Intel Corporation has dominated the market for microprocessors for many years. Intel’s market power and significant financial resources enable it to
+market its products aggressively, to target our customers and our channel partners with special incentives and to discipline customers who do business with us. These aggressive activities have in the past and are likely in the future to result in
+lower unit sales and average selling prices for our products, and adversely affect our margins and profitability. As long as Intel remains in this dominant position, we may be materially adversely affected by Intel’s: 
+
+•
+
+ business practices, including rebating, and allocation strategies and pricing actions, designed to limit our market share; 
+
+•
+
+ product mix and introduction schedules; 
+
+•
+
+ product bundling, marketing and merchandising strategies; 
+
+•
+
+ exclusivity payments to its current and potential customers; 
+
+•
+
+ control over industry standards, PC manufacturers and other PC industry participants, including motherboard, memory, chipset and basic input/output system, or BIOS,
+suppliers and software companies as well as the graphics interface for Intel platforms; and 
+
+•
+
+ marketing and advertising expenditures in support of positioning the Intel brand over the brand of its OEM customers. 
+
+Intel exerts substantial influence over computer manufacturers and their
+channels of distribution through various brand and marketing programs. Because of its dominant position in the microprocessor market, Intel has been able to control x86 microprocessor and computer system standards and to dictate the type of products
+the microprocessor market requires of Intel’s competitors. Intel also dominates the computer system platform, which includes core logic chipsets, graphics chips, motherboards and other components necessary to assemble a computer system. As a
+result, OEMs that purchase microprocessors for computer systems are highly dependent on Intel, less innovative on their own and, to a large extent, are distributors of Intel technology. Additionally, Intel is able to drive de facto standards for x86
+microprocessors that could cause us and other companies to have delayed access to such standards. 
+
+We expect Intel to maintain its dominant position in the microprocessor market and to continue to invest heavily in marketing, research and development,
+new manufacturing facilities and other technology companies. Intel has substantially greater financial resources than we do and accordingly spends substantially greater amounts on research and development and production capacity than we do. We
+expect intense competition from Intel to continue. 
+
+Competition in the
+Embedded Processor Market 
+
+With respect to our
+embedded processors for personal connectivity devices, our principal competitors are Freescale Semiconductor Inc., Hitachi, Ltd., Intel Corporation, NEC Corporation, Toshiba Corporation and Via Technologies, Inc. We expect competition in the market
+for these devices to increase as our principal competitors focus more resources on developing low-power embedded processor solutions. 
+
+13 
+
+Table of Contents
+
+Competition in the Graphics and Chipset Market 
+
+In the graphics and chipset market, our competitors include discrete
+graphics suppliers and suppliers of integrated graphics chipsets. A recent trend in the graphics processing market is that PC manufacturers are increasingly choosing to use integrated chipsets, particularly for notebook computers, over discrete GPUs
+because integrated chipsets cost significantly less than discrete GPUs while offering acceptable graphics performance for most mainstream PC users. Intel manufactures and sells integrated graphics chipsets bundled with their microprocessors and is a
+dominant competitor in this market. It is possible that Intel could leverage its dominance in the microprocessor market to sell its integrated chipsets, which could shrink the total available market for certain of our discrete GPUs, that Intel could
+re-enter the discrete GPU market, or that Intel will take other actions that place our discrete GPUs and integrated chipsets at a competitive disadvantage such as designing a proprietary graphics interface. 
+
+Other than Intel, our principal competitor is Nvidia Corporation, and to a
+lesser extent, Matrox Electronic Systems Ltd., Silicon Integrated Systems Corp. and Via Technologies, Inc. Other competitors include a number of smaller companies which may have greater flexibility to address specific market needs. However, we
+believe that the growing complexity of visual processors and the associated research and development costs represent an increasingly high barrier to entry in this market. 
+
+Competition in the Consumer Electronics Market 
+
+In the semiconductor market for consumer electronics products we have different competitors in each of our product
+categories. With respect to our products for handheld devices, we have three primary categories of competitors: vendors of baseband processors, vendors of applications processors and vendors of media co-processors. The baseband processor provides
+the basic voice and communication processing functionality in mobile phones. For certain value categories of the market, baseband processor vendors are integrating the multimedia processing required for feature-rich mobile phones. Baseband processor
+vendors incorporating this basic level of graphics processing include Analog Devices, Inc., Agere Systems Inc., Broadcom Corporation, Freescale Semiconductor Inc., Infineon Technologies AG, Koninklijke Phillips Electronics N.V., Qualcomm
+Incorporated and Texas Instruments Incorporated. Another category of competitor, application processor vendors, target manufacturer of high-end feature and smart phones whose products require large amounts of general purpose processing capability as
+well as multimedia processing. These vendors include Freescale Semiconductor Inc., Marvell Technology Group Ltd., Nvidia Corporation, Qualcomm Incorporated, Samsung Electronics Co., Ltd., STMicroelectronics N.V. and Texas Instruments Incorporated.
+The third category of competitor provides dedicated processors to drive a high level of multimedia functionality. This approach is most comparable to our strategy, and our competitors in this category include Core Logic Incorporated, Epson Corp.,
+MTEK Vision Co. Ltd., Nvidia Corporation and Renesas Technology Corp. 
+
+With respect to our products for digital TVs, our primary competitors include Broadcom Corporation, Genesis Microchip Inc., MediaTek Inc., NEC Corporation, NXP Semiconductors, STMicroelectronics N.V., Trident Microsystems Inc. and Zoran
+Corporation, as well as in-house semiconductor development divisions at companies such as LG Electronics, Inc., Matsushita Electric Industrial Co., Ltd. (a brand of Panasonic Electronic Devices Co., Ltd.), Samsung Electronics Co. Ltd. and Toshiba
+Corporation. 
+
+In the game console category, we compete
+primarily against Nvidia. Other competitors include Intel and IBM. 
+
+Research
+and Development 
+
+We focus our research and development
+activities on product design and system and manufacturing process development. One main area of focus is on delivering the next generation of microprocessors with improved system performance and performance-per-watt characteristics. We have devoted
+significant resources to product 
+
+14 
+
+Table of Contents
+
+design and to developing and improving manufacturing process technologies and plan to do so in the future. We also work with other industry leaders, public
+foundations, universities and industry consortia to conduct early stage research and development. 
+
+With respect to graphics and chipsets and products for consumer electronics devices, our primary research and development objective is to develop products
+and technologies that meet the ever-changing demands of the PC and consumer electronics industries on a timely basis so as to meet market windows. We are also focusing on delivering a range of integrated platforms to serve key markets, including
+commercial clients, mobile computing, and gaming and media computing. We believe that these integrated platforms will bring customers improved system stability, better time-to-market and increased performance and energy efficiency. Longer-term, our
+research and development efforts are focused on developing monolithic silicon solutions for specialized uses that are comprised of microprocessors, graphics processors and video processors. 
+
+Our research and development expenses for 2006, 2005, and 2004 were $1,205
+million, $1,144 million and $934 million. Research and development expenses for 2006 included ATI’s research and development expenses from October 25, 2006 through December 31, 2006. For more information, see “Part II,
+Item 7, MD&A.” 
+
+We conduct product and system
+research and development activities for our microprocessor products in the United States with additional design and development engineering teams located in Germany, Singapore, China, Japan, Penang, Taiwan and India. In August 2006 we announced the
+opening of a new research and development facility in Shanghai, China. Also, in September 2006 we announced the opening of a new advanced microprocessor development facility in Fort Collins, Colorado. 
+
+We conduct our microprocessor manufacturing process development activities
+primarily through our joint development agreement with IBM. Under this agreement, we jointly develop new process technologies, including 45-nanometer, 32-nanometer, 22-nanometer and certain other advanced technologies, to be implemented on silicon
+wafers. Our relationship also includes laboratory-based research of emerging technologies such as new transistor, interconnect, lithography and die-to-package connection technologies. We pay fees to IBM for joint development projects. The actual
+amounts we pay to IBM are dependent upon the number of partners, including us and IBM, engaged in related development projects under the agreement. In addition, we agreed to pay IBM specified royalties upon the occurrence of specified events,
+including in the event that we sublicense the jointly developed process technologies to specified third parties or if we bump wafers for a third party. For more information on the fees paid or payable to IBM, see “Part II,
+Item 7, Contractual Cash Obligations and Guarantees—Unconditional Purchase Commitments,” and “Part I, Item 1A, Risk Factors—We cannot be certain that our substantial investments in research and development will
+lead to timely improvements in product designs or technology used to manufacture our products or that we will have sufficient resources to invest in the level of research and development that is required to remain competitive.” 
+
+Under the agreement, our joint development relationship continues through
+December 31, 2011. However, the continuation of capital purchases by IBM necessary for process development projects under the agreement past December 31, 2008 is conditioned upon the approval of IBM’s board of directors. If IBM’s
+board of directors does not approve our agreement by September 30, 2007, either party has the right to terminate the agreement effective December 31, 2008 without liability. In addition, our agreement with IBM may be extended further by
+the mutual agreement of the parties and can also be terminated immediately by either party if the other party permanently ceases doing business, becomes bankrupt or insolvent, liquidates or undergoes a change of control or can be terminated by
+either party upon 30 days written notice upon a failure of the other party to perform a material obligation thereunder. Under our agreement, research and development takes place in IBM’s Watson Research Center in Yorktown Heights, N.Y., the
+Center for Semiconductor Research at Albany NanoTech, and at IBM’s 300-millimeter manufacturing facility in East Fishkill, N.Y. 
+
+We conduct research and development activities for our graphics and chipset products and products for consumer electronics devices at design centers
+located throughout the world, including in the United States, 
+
+15 
+
+Table of Contents
+
+Canada, India, Finland and China. Due to the rapid pace of technological change in the graphics industry, our strategy is to focus on developing the newest
+generation of products that meet market and customer requirements on a timely basis so as to meet each market window. 
+
+Manufacturing, Assembly and Test Facilities 
+
+We own and operate five manufacturing facilities, of which two are microprocessor wafer fabrication facilities and three are microprocessor assembly and
+test facilities. We developed an approach to manufacturing called Automated Precision Manufacturing, or APM. APM comprises a suite of automation, optimization and real-time data analysis technologies which automate the way decisions are made within
+our fabrication facilities. We use APM during process technology transitions, and believe APM enables greater efficiency, higher baseline yields, better binning and faster yield learning. 
+
+Our microprocessor manufacturing is conducted at the facilities described in the chart below. These facilities are the
+cornerstone of our flexible capacity growth plan, which focuses on bringing the right amount of capacity online at the right time through ongoing, incremental increases in total output. 
+
+Facility Location
+
+Wafer Size(diameter in
+millimeters)
+
+PrincipalProduction
+Technology
+(in nanometers)
+
+ApproximateClean Room
+Square
+Footage
+
+ Dresden, Germany
+
+ Fab 30
+
+200
+
+90
+
+150,000
+
+ Fab 36
+
+300
+
+90/65
+
+140,000
+
+During 2006, we
+manufactured our microprocessor products at Fab 30 and Fab 36 primarily on 90-nanometer process technology. In December 2006, we began manufacturing using 65-nanometer technology at Fab 36. Our goal is to have substantially all of the wafers out of
+Fab 36 being manufactured on 65-nanometer technology by mid-2007 and to begin manufacturing using 45-nanometer technology in mid-2008. 
+
+In May 2006, we announced plans to significantly expand our 300-millimeter manufacturing capacity in Dresden, Germany. The expansion includes the
+conversion of Fab 30 from manufacturing on 200-millimeter wafers to 300-millimeter wafers, capacity expansion in Fab 36, and the addition of a new facility to support bump and test activities. Bump and test is the final stage of the manufacturing
+process in which wafers are prepared for assembly and test. 
+
+We
+anticipate that after being converted to a 300-millimeters facility, Fab 30 will be able to handle approximately up to 20,000 300-millimeter wafer starts per month. We intend to begin to decrease 200-millimeter production at Fab 30 in mid 2007, and
+to bring up 300-millimeter production in early 2008. Use of 300-millimeter wafers can contribute to decreasing manufacturing costs per unit and helps increase capacity by yielding significantly more chips per wafer than 200-millimeter wafers. Use of
+smaller process geometries allows us to put more transistors on an equivalent size chip, which can result in products that are higher performing, use less power and/or cost less to manufacture. 
+
+Another facet of our flexible capacity growth strategy involves working with
+third-party foundries, and to this end, we have sourcing and manufacturing technology agreements with Chartered Semiconductor Manufacturing pursuant to which Chartered is an additional manufacturing source for our AMD64-based microprocessors. In
+June 2006, we began our first revenue shipments of microprocessors manufactured at Chartered. We also have foundry arrangements with third parties for the production of our embedded processors, graphics and chipset products and products for consumer
+electronics devices. 
+
+In anticipation of the potential need for
+increased manufacturing capacity over the longer term, on December 22, 2006, we entered into a Grant Disbursement Agreement with the New York State Urban 
+
+16 
+
+Table of Contents
+
+Development Corporation d/b/a Empire State Development Corporation, or ESDC, in connection with a potential new 300-millimeter wafer fabrication facility on
+the Luther Forest Technology Campus in Saratoga County, New York. Under the agreement, AMD would be able to construct a new facility designed to produce 300-millimeter wafers using 32-nanometer process technology between July 2007 and July 2009.
+However, we are not obligated to commence construction, and our decision regarding proceeding with the construction is dependent on business conditions and market demand. Should we choose to build the facility, the State of New York is required to
+issue bonds or otherwise fund the project and related research and development in the amount of $650 million. Actual disbursement of funds occurs as we submit appropriate documentation verifying that expenditures on the project have been incurred.
+If we move forward with the project, we must complete the construction of the facility in accordance with the final plans and specifications approved in writing by ESDC and must maintain business operations on the Luther Forest Technology Campus for
+a minimum of seven years after the date full employment at the facility is first achieved. Funds disbursed to us may be subject to repayment, in whole or part, if we do not attain and or maintain certain levels of employment for specified periods of
+time. 
+
+Our current microprocessor assembly and test facilities
+are described in the chart set forth below: 
+
+Facility Location
+
+ApproximateManufacturing
+Area Square
+Footage
+
+Activity
+
+ Penang, Malaysia
+
+206,000
+
+Assembly
+
+ Singapore
+
+194,000
+
+Test, Mark & Packaging
+
+ Suzhou, China
+
+44,310
+
+Test, Mark & Packaging
+
+Some assembly and
+final testing of our microprocessor and embedded processor products is performed by subcontractors in the United States and Asia. 
+
+With respect to our graphics and chipset products and products for consumer electronics devices, we have strategic relationships with three semiconductor
+foundries, Taiwan Semiconductor Manufacturing Company, United Microelectronics Corp. and Chartered. Currently, we are in volume production in TSMC’s and UMC’s 300-millimeter fabrication facilities. As of December 31, 2006, our
+graphics and chipset products and products for consumer electronics devices were manufactured on 80-, 90-, 110-, 130-, 150 or 180-nanometer process technologies at third party foundries. Smaller process geometries can lead to gains in graphics
+processing performance, lower power consumption and lower per unit manufacturing costs. We intend to transition to 65-nanometer process technology for some of these products in 2007.
+
+From the foundry, wafers for our graphics products are delivered to our test, assembly and packaging partners including
+Advanced Semiconductor Engineering Group, Amkor, King Yuan Electronics, Siliconware Precision Industries and STATS-Chippac, who package and test the final application-specific integrated circuit. 
+
+We outsource board-level graphics product manufacturing to third-party
+manufacturers. These include Celestica, Fairway and PC Partner with locations in China. Our facility in Markham, Ontario, Canada is primarily devoted to prototyping and trial runs for new graphics product introductions. 
+
+Raw Materials 
+
+Our manufacturing processes require many raw materials, such as silicon wafers, IC packages, mold compound, substrates and
+various chemicals and gases, and the necessary equipment for manufacturing. We obtain these materials and equipment from a large number of suppliers located throughout the world. Certain raw materials we use in manufacturing our microprocessor
+products or that are used in the manufacture of our graphics products are available only from a limited number of suppliers. Interruption of supply or increased demand in the industry could cause shortages and price increases in various essential
+materials. 
+
+17 
+
+Table of Contents
+
+Intellectual Property and Licensing 
+
+We rely on contracts and intellectual property rights to protect our products and technologies from unauthorized third-party
+copying and use. Intellectual property rights include copyrights, patents, patent applications, trademarks, trade secrets and maskwork rights. As of December 31, 2006, we had more than 6,000 patents in the United States and over 1,600 patent
+applications pending in the United States, including more than 600 patents in the United States and 400 patent applications in the United States that we acquired from ATI. In certain cases, we have filed corresponding applications in foreign
+jurisdictions. We expect to file future patent applications in both the United States and abroad on significant inventions, as we deem appropriate. We do not believe that any individual patent, or the expiration thereof, is or would be material to
+our business. 
+
+In connection with the formation of Spansion LLC
+as of June 2003 and the closing of Spansion’s initial public offering, or IPO, in December 2005, we and Fujitsu transferred to Spansion various intellectual property rights pursuant to an Intellectual Property Contribution and Ancillary Matters
+Agreement, or IPCAAMA. Under the IPCAAMA, Spansion became the owner or joint owner with each of us and Fujitsu, of specified patents, patent applications, trademarks and other intellectual property rights and technology. The patents that we
+transferred included patents and patent applications covering Flash memory products and technology, the processes necessary to manufacture Flash memory products, and the operation and control of Flash memory products. We reserved rights, on a
+royalty free basis, to practice the contributed patents and to license these patents to our affiliates and successors-in-interest. We also have the right to use the jointly-owned intellectual property for our internal purposes and to license such
+intellectual property to others to the extent consistent with our non-competition obligations to Spansion. 
+
+In addition, for as long as our ownership interest in Spansion remains above 12.5 percent, Spansion is required to identify its technology to us and to
+provide copies of, and training with respect to, that technology. Spansion also granted a non-exclusive, perpetual, irrevocable, fully paid and royalty-free license of its rights in this technology to us. We may grant licenses under Spansion’s
+patents, provided that these licenses are of no broader scope than, and are subject to the same terms and conditions that apply to, any license of our patents granted in connection with such license, and the recipient of such license grants to
+Spansion a license of similar scope under its patents. 
+
+We also
+have a patent cross-license agreement with Fujitsu whereby each party was granted a non-exclusive license under certain of the other party’s respective semiconductor-related patents. This patent cross-license agreement terminates on
+June 30, 2013, unless earlier terminated upon 30 days notice following a change of control of the other party. We also have a patent cross-license agreement with Spansion. The patents and patent applications that are licensed are those with an
+effective filing date prior to the termination of the patent cross-license agreement. The agreement will automatically terminate on the later of June 30, 2013 and the date we sell our entire equity interest in Spansion. The agreements may be
+terminated by a party on a change in control of the other party or its semiconductor group. 
+
+In addition, as is typical in the semiconductor industry, we have numerous cross-licensing and technology exchange agreements with other companies under which we both transfer and receive technology and intellectual
+property rights. One such agreement is the patent cross-license agreement with Intel which was effective as of January 1, 2001. Under this agreement we granted each other a non-exclusive license under each party’s patents for the
+manufacture and sale of semiconductor products worldwide. We pay Intel a royalty for certain licensed microprocessor products sold by us or any AMD affiliate anywhere in the world. The license applies to each party’s patents that have a first
+effective filing date during the capture period, which is the period from January 1, 2001 through January 1, 2010. Either party may terminate the agreement if the other party commits a material breach of the agreement and does not correct
+the breach within 60 days after receiving written notice thereof. In addition, either party may terminate the agreement upon 60 days written notice in the event of a filing by the other party of a petition in bankruptcy or insolvency, or any
+adjudication thereof, the filing of any petition seeking reorganization under any law relating to bankruptcy, the appointment of a receiver, the making of any 
+
+18 
+
+Table of Contents
+
+assignment for the benefit of creditors, the institution of any proceedings for the liquidation or winding up of the other party’s business, or in the
+event of a change of control. For purposes of our agreement with Intel, change of control means a transaction or a series of related transactions in which (i) one or more related parties who did not previously own at least a 50 percent interest
+in a party obtain at least a 50 percent interest in such party, and, in the reasonable business judgment of the other party, such change in ownership will have a material effect on the other party’s business, or (ii) a party acquires, by
+merger, acquisition of assets or otherwise, all or any portion of another legal entity such that either the assets or market value of such party after the close of such transaction are greater than one and one third of the assets or market value of
+such party prior to such transaction. 
+
+Backlog 
+
+We manufacture and sell standard lines of products. Consequently, a
+significant portion of our sales are made from inventory on a current basis. Sales are made primarily pursuant to purchase orders for current delivery or agreements covering purchases over a period of time. These orders or agreements may be revised
+or canceled without penalty. Generally, in light of current industry practice and experience and the fact that substantially our entire order backlog is cancelable, we do not believe that such agreements provide meaningful backlog figures or are
+necessarily indicative of actual sales for any succeeding period. 
+
+Employees
+
+As of December 31, 2006, we had approximately 16,500
+employees. 
+
+Environmental Regulations 
+
+Many aspects of our business operations and products are regulated by
+domestic and international environmental laws and regulations. These regulations include limitations on discharge of pollutants to air, water, and soil; remediation requirements; product chemical content limitations; manufacturing chemical use and
+handling restrictions; pollution control requirements; waste minimization considerations; and requirements with respect to treatment, transport, storage and disposal of solid and hazardous wastes. If we fail to comply with any of the applicable
+environmental regulations we may be subject to fines, suspension of production, alteration of our manufacturing processes, import/export restrictions, sales limitations, and/or criminal and civil liabilities. Existing or future regulations could
+require us to procure expensive pollution abatement or remediation equipment; to modify product designs; or to incur other expenses to comply with environmental regulations. Any failure to adequately control the use, disposal or storage, or
+discharge of hazardous substances could expose us to future liabilities that could have a material adverse effect on our business. We believe we are in material compliance with applicable environmental requirements and do not expect those
+requirements to result in material expenditures in the foreseeable future. 
+
+Environmental laws are complex, change frequently and have tended to become more stringent over time. For example, the European Union and China are two among a growing number of jurisdictions that have enacted in
+recent years restrictions on the use of lead, among other chemicals, in electronic products. These regulations affect semiconductor packaging. Other regulatory requirements potentially affecting our manufacturing processes and the design and
+marketing of our products are in development throughout the world. While we have budgeted for foreseeable associated expenditures, we cannot assure you that future environmental legal requirements will not become more stringent or costly in the
+future. Therefore, we cannot assure you that our costs of complying with current and future environmental and health and safety laws, and our liabilities arising from past and future releases of, or exposure to, hazardous substances will not have a
+material adverse effect on us. 
+
+19 
+
+Table of Contents
+
+ITEM 1A.    RISK FACTORS 
+
+Risks Related to Our Business 
+
+Intel Corporation’s
+dominance of the microprocessor market and its aggressive business practices may limit our ability to compete effectively. 
+
+Intel has dominated the market for microprocessors for many years. Intel’s significant financial resources enable it to market its products
+aggressively, to target our customers and our channel partners with special incentives, and to discipline customers who do business with us. These aggressive activities have in the past and are likely in the future to result in lower unit sales and
+average selling prices for our products and adversely affect our margins and profitability. 
+
+Intel also manufactures and sells integrated graphics chipsets bundled with their microprocessors and is a dominant competitor with respect to this portion of our new semiconductor graphics business that we have added
+through the acquisition of ATI. It is possible that Intel could leverage its dominance in the microprocessor market to sell its integrated chipsets, which could shrink the total available market for certain of our discrete GPUs, that Intel could
+re-enter the discrete GPU market, or that Intel will take other actions that place our discrete GPUs and integrated chipsets at a competitive disadvantage such as designing a proprietary graphics interface. Moreover, computer manufacturers are
+increasingly using integrated graphics chipsets, particularly for notebooks, because they cost significantly less than traditional discrete graphics components while offering reasonably good graphics performance for most mainstream PCs. The success
+of our graphics business is dependent, in part, upon the success of our integrated chipset products. If our graphics products do not successfully address the discrete GPU and integrated chipset markets, our graphics business could be adversely
+affected. 
+
+As long as Intel remains in this dominant position,
+we may be materially adversely affected by Intel’s: 
+
+•
+
+ business practices, including rebating and allocation strategies and pricing actions, designed to limit our market share; 
+
+•
+
+ product mix and introduction schedules; 
+
+•
+
+ product bundling, marketing and merchandising strategies; 
+
+•
+
+ exclusivity payments to its current and potential customers; 
+
+•
+
+ control over industry standards, PC manufacturers and other PC industry participants, including motherboard, memory, chipset and basic input/output system, or BIOS,
+suppliers and software companies as well as the graphics interface for Intel platforms; and 
+
+•
+
+ marketing and advertising expenditures in support of positioning the Intel brand over the brand of its OEM customers. 
+
+Intel exerts substantial influence over computer manufacturers and their
+channels of distribution through various brand and other marketing programs. Because of its dominant position in the microprocessor market, Intel has been able to control x86 microprocessor and computer system standards and to dictate the type of
+products the microprocessor market requires of Intel’s competitors. Intel also dominates the computer system platform, which includes core logic chipsets, graphics chips, motherboards and other components necessary to assemble a computer
+system. As a result, OEMs that purchase microprocessors for computer systems are highly dependent on Intel, less innovative on their own and, to a large extent, are distributors of Intel technology. Additionally, Intel is able to drive de facto
+standards for x86 microprocessors that could cause us and other companies to have delayed access to such standards. 
+
+We expect Intel to maintain its dominant position and to continue to invest heavily in marketing, research and development, new manufacturing facilities
+and other technology companies. Intel has substantially greater financial resources than we do and accordingly spends substantially greater amounts on research and development and production capacity than we do. Moreover, Intel currently
+manufactures a large portion of its processors using 65-nanometer technology whereas we only began commercial shipments of processors 
+
+20 
+
+Table of Contents
+
+manufactured using 65-nanometer technology in the fourth quarter of 2006. To the extent Intel manufactures a significantly larger portion of its
+microprocessor products using smaller process technologies, we may be more vulnerable to Intel’s aggressive marketing and pricing strategies for microprocessor products, which may result in market share gains for Intel. 
+
+Intel’s dominant position in the microprocessor market and integrated
+graphics chipset market, its existing relationships with top-tier OEMs and its aggressive marketing and pricing strategies could result in lower unit sales and average selling prices for our products, which could have a material adverse effect on
+us. 
+
+We may not realize all of the anticipated benefits of our acquisition
+of ATI. 
+
+The success of our recent acquisition of ATI
+depends, in part, on our ability to realize the anticipated synergies, cost savings and growth opportunities from integrating the businesses of ATI with the businesses of AMD, and failure to realize these anticipated benefits could cause our
+business to be materially adversely affected. Our success in realizing these benefits and the timing of this realization depends upon our successful integration of ATI’s operations. The integration of two independent companies is a complex,
+costly, and time-consuming process. The difficulties of combining the operations of the companies include, among others: 
+
+•
+
+ retaining key employees; 
+
+•
+
+ bridging possible differences in cultures and management philosophies; 
+
+•
+
+ consolidating corporate and administrative infrastructures and systems; 
+
+•
+
+ coordinating sales and marketing functions; 
+
+•
+
+ preserving our and ATI’s customer, supplier, ecosystem partner and other important relationships; 
+
+•
+
+ aligning and executing on new products roadmaps; 
+
+•
+
+ minimizing the diversion of management’s attention from ongoing business concerns; and 
+
+•
+
+ coordinating geographically separate organizations. 
+
+We cannot assure you that our integration of ATI will result in the realization of the full benefits that we anticipate will result from the acquisition.
+For example, it is possible that as a result of the acquisition, previous ATI customers of discrete GPUs may decide to purchase products that can be used with Intel platforms from one of our competitors or that ecosystem partners will be wary of
+continuing to do business with us because they view the former ATI operations as competitive with portions of their business. Any inability to integrate successfully, or a delay in integrating, ATI could have a material adverse effect on us.
+
+We cannot be certain that our substantial investments in research and
+development will lead to timely improvements in product designs or technology used to manufacture our products or that we will have sufficient resources to invest in the level of research and development that is required to remain competitive.
+
+We make substantial investments in research and
+development for process technologies in an effort to design and manufacture leading-edge microprocessors. We cannot be certain that we will be able to develop, obtain or successfully implement leading-edge process technologies needed to manufacture
+future generations of our products profitably or on a timely basis or that our competitors will not develop new technologies, products or processes that render our products uncompetitive or obsolete. We also make substantial investments in research
+and development related to product design and anticipate that we will continue to do so in the future. For example, we recently opened a research and development facility in Shanghai and an advanced microprocessor development facility in Fort
+Collins, Colorado. Similarly, in connection with the recent acquisition of ATI, we plan to continue to invest in research and development related to our graphics and chipset products and products for consumer electronics devices, including new
+integrated platforms and our design initiative called “Fusion.” Moreover, in connection with the acquisition, we committed to the Minister of Industry of Canada to increase total expenditures on research and development in Canada when
+compared to 
+
+21 
+
+Table of Contents
+
+ATI’s expenditures in this area in prior years. However, we cannot assure you that we will have sufficient resources to achieve planned investments in
+research and development or to otherwise maintain the level of investment in research and development that is required for us to remain competitive. 
+
+We have a joint development agreement with IBM, pursuant to which we have agreed to work together to develop new process technologies through
+December 31, 2011. We anticipate that under this agreement, we will pay fees to IBM of between $473 million and $523 million in connection with joint development projects from 2007 to 2011. 
+
+Capital purchases by IBM necessary for the continued development of process
+development projects past December 31, 2008 are conditioned upon the approval by IBM’s board of directors. If such approval is not received by September 30, 2007, either party has the right to terminate the agreement effective
+December 31, 2008 without liability. If this agreement were to be terminated, we would either have to resume certain research and development activities internally or find an alternate partner. In either case, our research and development costs
+could increase, and we could experience delays or other setbacks in the development of new process technologies, any of which would materially adversely affect us. Moreover, the timely achievement of the milestones set forth in the joint development
+agreement is critical to our ability to continue to manufacture microprocessors using advanced process technologies. 
+
+The success of our business is dependent upon our ability to introduce products on a timely basis with required features and performance levels that provide value to
+our customers and support and coincide with significant industry transitions. 
+
+Our success depends to a significant extent on the development, qualification, implementation and acceptance of new product designs and improvements that provide value to our customers. Our ability to develop and
+qualify new products and related technologies to meet evolving industry requirements, at prices acceptable to our customers and on a timely basis are significant factors in determining our competitiveness in our target markets. If we are delayed in
+developing or qualifying new products or technologies, such as what occurred with the multiple delays in the launch of our R600 GPU for the high-end category of the PC market, we may lose credibility and our competitors may be able to take advantage
+of these delays by launching higher performing products before we do, which could cause us to lose market share and force us to discount the selling price of our products. Delays in developing or qualifying new products can also cause us to miss our
+customers’ product design windows. 
+
+Market demand requires
+that products incorporate new features and performance standards on an industry-wide basis. Over the life of a specific product, the average selling price undergoes regular price reductions. The introduction of new products and enhancements to
+existing products is necessary to maintain overall corporate average selling prices. If we are unable to introduce new products such as quad-core processors or launch new products with sufficient increases in average selling price or increased unit
+sales volumes capable of offsetting these reductions in average selling prices of existing products, our revenues, inventories, gross margins and operating results could be adversely affected. 
+
+Our ability to design and introduce new graphics products in a timely manner is dependent
+upon third party intellectual property. 
+
+In the design and
+development of new graphics products and graphics product enhancements, we rely on third-party intellectual property such as software development tools. Historically, ATI has experienced delays in the introduction of products as a result of the
+inability of then available software development tools to fully simulate the complex features and functionalities of its products. The design requirements necessary to meet consumer demands for more features and greater functionality from graphics
+products in the future may exceed the capabilities of the software development tools available to us. If the third-party intellectual property that we use becomes unavailable or fails to produce designs that meet consumer demands, our business could
+be materially adversely affected. 
+
+22 
+
+Table of Contents
+
+The semiconductor industry is highly cyclical and has experienced severe downturns that materially adversely affected,
+and may in the future materially adversely affect, our business. 
+
+The semiconductor industry is highly cyclical and has experienced significant downturns, often in conjunction with constant and rapid technological change, wide fluctuations in supply and demand, continuous new product introductions, price
+erosion and declines in general economic conditions. Our historical financial results have also been subject to substantial fluctuations. Our financial performance has been, and may in the future be, negatively affected by these downturns. We
+incurred substantial losses in recent downturns, due to: 
+
+•
+
+ substantial declines in average selling prices; 
+
+•
+
+ the cyclical nature of supply/demand imbalances in the semiconductor industry; 
+
+•
+
+ a decline in demand for end-user products (such as PCs) that incorporate our products; 
+
+•
+
+ excess inventory levels in the channels of distribution, including those of our customers; and 
+
+•
+
+ excess production capacity. 
+
+For example, in 2001 and 2002 we implemented restructuring plans due to weak customer demand associated with the downturn in the semiconductor industry.
+If the semiconductor industry were to experience a downturn in the future, we would be materially adversely affected. 
+
+The demand for our products depends in part on continued growth in the industries and geographies into which they are sold. A market decline in any of these industries
+or geographies would have a material adverse effect on our results of operations. 
+
+Our microprocessor business is dependent upon the market for mobile and desktop PCs and servers. Industry-wide fluctuations in the computer marketplace have materially adversely affected us in the past and may
+materially adversely affect us in the future. Depending on the growth rate of computers sold, sales of our products may not grow and may even decrease. If demand for computers is below our expectations, we could be materially adversely
+affected. 
+
+The business we acquired from ATI is also
+dependent upon the market for mobile and desktop PCs, the consumer electronics market and, in particular, the markets for digital TVs, handheld devices, such as multimedia-enabled mobile phones, and game consoles. A market decline in any of these
+industries would have a material adverse effect on our results of operations. 
+
+The growth of our business is also dependent on continued demand for our products from high-growth global markets. In 2006, sales of our products to high-growth markets such as China increased significantly compared
+to 2005, and these markets are an important area of future growth for us. If demand from these markets is below our expectations, sales of our products may not grow, and may even decrease, which would have a material adverse effect on us.
+
+The markets in which our products are sold are highly competitive.
+
+The markets in which our products are sold are very
+competitive and delivering the latest and best products to market on a timely basis is critical to achieving revenue growth. We expect competition to intensify due to rapid technological changes, frequent product introductions and aggressive pricing
+by competitors. We believe that the main factors that determine our competitiveness are product quality, power consumption, reliability, speed, size (or form factor), cost, selling price, adherence to industry standards, software and hardware
+compatibility and stability, brand recognition, timely product introductions and availability. After a product is introduced, costs and average selling prices normally decrease over time as production efficiency improves, and successive generations
+of products are developed and introduced for sale. We expect that competition will intensify in these markets and our competitors’ products may be less costly, provide better performance or 
+
+23 
+
+Table of Contents
+
+include additional features that render our products uncompetitive. With respect to our graphics products in particular, some competitors may have greater
+access or rights to companion technologies, including interface, processor and memory technical information. In addition, as a result of the ATI acquisition, Intel may discriminate against us and put us as a competitive disadvantage by giving our
+competitors in the graphics market preferential access to interface or other useful information. Generally, we may not be able to compete effectively because of Intel’s market dominance and business practices designed to maintain it.
+
+We depend on third-party companies for the design, manufacture and supply
+of motherboards, BIOS software and other components. 
+
+We
+depend on third-party companies for the design, manufacture and supply of motherboards, BIOS software and other components that support our microprocessor offerings. In addition, despite our recent acquisition of ATI, we continue to work with other
+third parties for graphics chips in order to provide our customers with a greater choice of technologies to best meet their needs. 
+
+Our microprocessors are not designed to function with motherboards and chipsets designed to work with Intel microprocessors because our patent
+cross-license agreement with Intel does not extend to Intel’s proprietary bus interface protocol. If we are unable to secure sufficient support for our microprocessor products from designers and manufacturers of motherboards and chipsets, our
+business would be materially adversely affected. Our recent acquisition of ATI could exacerbate this problem because we plan to design and supply a significantly greater amount of graphics products ourselves. Doing so could cause third-party
+designers, manufacturers and suppliers to be less willing to do business with us or to support our products out of a perceived risk that we will be less willing to support their products or because we may compete with them. As a result, these
+third-party designers, manufacturers and suppliers could forge relationships, or strengthen their existing relationships, with our competitors. If the designers, manufacturers and suppliers of graphics chips, motherboards, and other components
+decrease their support for our product offerings and increase their support for the product offerings of our competitors, our business could be materially adversely affected. 
+
+We must achieve further market acceptance of our 64-bit technology, AMD64, or we will be materially adversely affected. 
+
+We are making substantial investments in our microprocessor roadmaps and
+platforms, particularly as we transition from dual-core to multi-core processors. Increasing market acceptance of our processors, and the AMD64 technology on which they are based, is subject to risks and uncertainties including: 
+
+•
+
+ the continued support of application program providers for our 64-bit instruction set, including timely development of 64-bit software applications and applications
+that can take advantage of the functionality of our multi-core processors; 
+
+•
+
+ our ability to produce these processors in a timely manner using advanced process technologies, in the volume and with the performance and feature set required by
+customers; and 
+
+•
+
+ the availability, performance and feature set of components designed for these processors, in the volume and with the performance and feature set required by our
+customers. 
+
+If we are unable to achieve
+further market acceptance of our AMD64 technology, we would be materially adversely affected. 
+
+If we are ultimately unsuccessful in any of our antitrust lawsuits against Intel, our business may be materially adversely affected. 
+
+On June 27, 2005, we filed an antitrust complaint against Intel Corporation and Intel’s Japanese subsidiary, Intel
+Kabushiki Kaisha, which we refer to collectively as Intel, in the United States District Court for the District 
+
+24 
+
+Table of Contents
+
+of Delaware under Section 2 of the Sherman Antitrust Act, Sections 4 and 16 of the Clayton Act, and the California Business and Professions Code. Our
+complaint alleges that Intel has unlawfully maintained a monopoly in the x86 microprocessor market by engaging in anti-competitive financial and exclusionary business practices that limit the ability and/or incentive of Intel’s customers in
+dealing with AMD. Also, on June 30, 2005, our subsidiary in Japan, AMD Japan K.K., filed an action in Japan against Intel K.K. in the Tokyo High Court and the Tokyo District Court for damages arising from violations of Japan’s Antimonopoly
+Act. On September 26, 2006, the United States District Court for the District of Delaware granted Intel’s motion to dismiss foreign conduct claims. The effect of that decision was clarified by the Court’s January 12, 2007, adoption of
+the Special Master’s decision on our motion to compel foreign conduct discovery. As a result of these two decisions, we will be permitted to develop evidence of Intel’s exclusionary practices wherever they occur, including practices
+foreclosing AMD from foreign customers or in foreign market segments. However, the court’s ruling limits our damages to lost sales in the United States and lost sales abroad that would have originated from the United States. The Court also set
+an immovable trial date of April 27, 2009. 
+
+If our
+antitrust lawsuits against Intel are ultimately unsuccessful, our business, including our ability to increase market share in the microprocessor market, could be materially adversely affected. 
+
+The loss of a significant customer may have a material adverse effect on us.
+
+Collectively, our top five customers accounted for almost
+half of our total revenue in 2006. Moreover, historically a significant portion of ATI’s revenues were derived from sales to a small number of customers, and we expect that a small number of customers will continue to account for a substantial
+part of revenues from our graphics and consumer electronics businesses in the future. For example, for the period from October 25, 2006 to December 31, 2006, one handset manufacturer accounted for more than half of the revenue, and one
+game console provider accounted for a significant portion of the revenue, of our Consumer Electronics segment. Moreover, two customers accounted for approximately one third of the revenue of our Graphics and Chipsets segment. If one of our top
+microprocessor, graphics business or consumer electronics customers decided to stop buying our products, or if one of these customers were to materially reduce its operations or its demand for our products, we would be materially adversely affected.
+
+Our operating results are subject to quarterly and seasonal sales patterns.
+
+A substantial portion of our quarterly sales have
+historically been made in the last month of the quarter. This uneven sales pattern makes prediction of revenues for each financial period difficult and increases the risk of unanticipated variations in quarterly results and financial condition. In
+addition, our operating results tend to vary seasonally. For example, demand in the retail sector of the PC market is often stronger during the fourth quarter as a result of the winter holiday season. European sales are often weaker during the
+summer months. Many of the factors that create and affect seasonal trends are beyond our control. 
+
+Manufacturing capacity constraints and manufacturing capacity utilization rates may have a material adverse affect on us. 
+
+There may be situations in which our microprocessor manufacturing facilities are inadequate to meet the demand for certain
+of our microprocessor products. Our inability to obtain sufficient manufacturing capacity to meet demand, either in our own facilities or through foundry or similar arrangements with third parties, could result in an adverse effect on our
+relationships with customers, which could have a material adverse effect on us. 
+
+In November 2004, we entered into sourcing and manufacturing technology agreements with Chartered Semiconductor Manufacturing whereby Chartered agreed to become a contract manufacturer for our AMD64-based
+microprocessors. Although Chartered has begun production, the ability of Chartered to continue to ramp production on a timely basis depends on several factors beyond our control, including Chartered’s ability to continue to implement our
+technology at their facilities on a timely basis. 
+
+In addition,
+the additional capacity gained through the use of 300-millimeter wafers at Fab 36 and our plans to increase capacity at Fab 36 and convert Fab 30 into a 300-millimeter wafer manufacturing facility play a 
+
+25 
+
+Table of Contents
+
+fundamental role in our growth plans for the next several years. In order to transition Fab 30 to a 300-millimeter facility, we plan to incrementally bring
+down its 200-millimeter output beginning in mid 2007, and we do not expect to have any 300-millimeter output until early 2008. If we are not able to achieve our production plans on a timely basis, we may not have sufficient manufacturing capacity to
+meet anticipated demand for our microprocessor products. If we cannot obtain sufficient manufacturing capacity to meet demand for our microprocessor products, either in our own facilities or through foundry or similar arrangements, we could be
+materially adversely affected. 
+
+We rely on third party foundries and other
+contractors to manufacture certain products. 
+
+We rely on
+independent foundries such as Taiwan Semiconductor Manufacturing Company and United Microelectronics Corp. to manufacture our graphics and chipset products. Chartered Semiconductor manufactures some of our microprocessor products and products for
+consumer electronics devices. Independent contractors also perform the assembly, testing and packaging of these products. We obtain these manufacturing services for our graphics and chipset products and products for consumer electronics devices on a
+purchase order basis and these foundries are not required to provide us with any specified minimum quantity of product. Accordingly, our graphics and consumer electronics businesses depend on these suppliers to allocate to us a portion of their
+manufacturing capacity sufficient to meet our needs, to produce products of acceptable quality and at acceptable manufacturing yields and to deliver those products to us on a timely basis at acceptable prices. We cannot assure you that these
+manufacturers will be able to meet our near-term or long-term manufacturing requirements. The manufacturers we use fabricate wafers for other companies, including certain of our competitors. With respect to our graphics and chipset products and
+products for consumer electronics devices, they could choose to prioritize capacity for other users, reduce or eliminate deliveries to us, or increase the prices that they charge us on short notice. 
+
+We must have reliable relationships with our wafer manufacturers and
+subcontractors to ensure adequate product supply to respond to customer demand. If we move production of our products to new manufacturers or if current manufacturers implement new process technology or design rules, any transition difficulties may
+result in lower yields or poorer performance of our products. Because it could take several quarters to establish a strategic relationship with a new manufacturing partner, we may be unable to secure an alternative supply for any specific graphics
+product in a short time frame. Other risks associated with our dependence on third-party manufacturers include reduced control over delivery schedules, quality assurance, manufacturing yields and cost, lack of capacity in periods of excess demand,
+misappropriation of our intellectual property, dependence on several small undercapitalized subcontractors, reduced ability to manage inventory and parts, and exposure to foreign countries and operations. If we are unable to secure sufficient or
+reliable supplies of wafers, our ability to meet customer demand for our graphics and consumer electronics businesses may be adversely affected and this could have an adverse effect on us. 
+
+If essential equipment or materials are not available to manufacture our products, we
+could be materially adversely affected. 
+
+Our
+microprocessor manufacturing operations depend upon obtaining deliveries of equipment and adequate supplies of materials on a timely basis. We purchase equipment and materials from a number of suppliers. From time to time, suppliers may extend lead
+times, limit supply to us or increase prices due to capacity constraints or other factors. Because the equipment that we purchase is complex, it is difficult for us to substitute one supplier for another or one piece of equipment for another.
+Certain raw materials we use in manufacturing our microprocessor products or that are used in the manufacture of our graphics products are available only from a limited number of suppliers. 
+
+For example, we are largely dependent on one supplier for our 200-millimeter
+and 300-millimeter silicon-on-insulator (SOI) wafers that we use to manufacture our microprocessor products. We are also dependent on key chemicals from a limited number of suppliers and rely on a limited number of foreign companies to supply the
+majority of certain types of integrated circuit packages for our microprocessor products. Similarly, certain non-proprietary materials or components such as memory, PCBs, substrates and capacitors 
+
+26 
+
+Table of Contents
+
+used in the manufacture of our graphics products are currently available from only a limited number of sources and often subject to rapid changes in price
+and availability. Interruption of supply or increased demand in the industry could cause shortages and price increases in various essential materials. If we are unable to procure certain of these materials, we may have to reduce our manufacturing
+operations. Such a reduction has in the past and could in the future have a material adverse effect on us. 
+
+If we fail to improve the efficiency of our supply chain in order to respond to increases or changes in customer demand for our products, our business could be materially adversely affected.
+
+Our ability to meet customer demand for our products
+depends, in part, on our ability to deliver the products our customers want on a timely basis. Accordingly, we must continually improve the management of our supply chain by synchronizing the entire supply chain, from sourcing through
+manufacturing, distribution and fulfillment. As we continue to grow our business, acquire new OEM customers and strengthen relationships with existing OEM customers, the efficiency of our supply chain will become increasingly important because
+OEMs tend to have specific requirements for particular products, and specific time-frames in which they require delivery of these products. In the second half of 2006, we experienced challenges in the ability of our supply chain to keep up
+with the significant ramp in microprocessor units sold across a diverse set of customers and geographies and to deliver products on a timely basis. Also, the breadth of our product portfolio increased significantly as a result of our acquisition of
+ATI, which put stress on our supply chain. If we fail to adequately improve the efficiency of our supply chain and adjust our operations in response to future increases or changes in OEM demand for our products, our business could be
+materially adversely affected. 
+
+Industry overcapacity could cause us to
+under-utilize our microprocessor manufacturing facilities and have a material adverse effect on us. 
+
+Both we and our competitor, Intel, have added significant capacity in recent years, both by expanding capacity at wafer fabrication facilities and by
+transitioning to more advanced manufacturing technologies, and we plan on further increasing our capacity by expanding the production capacity of Fab 36 and converting Fab 30 into a 300-millimeter wafer manufacturing facility. In the past, capacity
+additions sometimes exceeded demand requirements leading to oversupply situations and downturns in the industry. Fluctuations in the growth rate of industry capacity relative to the growth rate in demand for our products contribute to cyclicality in
+the semiconductor market, which may in the future put pressure on our average selling prices and materially adversely affect us. 
+
+It is difficult to predict future growth or decline in the markets we serve, making it very difficult to estimate requirements for production capacity. If
+our target markets do not grow as we anticipate, we may under-utilize our manufacturing facilities, which may result in write-downs or write-offs of inventories and losses on products for which demand is lower than we anticipate. 
+
+In addition, during periods of industry overcapacity, customers do not
+generally order products as far in advance of the scheduled shipment date as they do during periods when our industry is operating closer to capacity, which can exacerbate the difficulty in forecasting capacity requirements. Many of our costs are
+fixed. Accordingly, during periods in which we under-utilize our manufacturing facilities as a result of reduced demand for certain of our products, our costs cannot be reduced in proportion to the reduced revenues for such a period. When this
+occurs, our operating results are materially adversely affected. If the demand for our microprocessor products is not consistent with our increased expectations, we may under-utilize our manufacturing facilities or we may not fully utilize the
+reserved capacity at Chartered’s foundry. This may have a material adverse effect on us. 
+
+Unless we maintain manufacturing efficiency, our future profitability could be materially adversely affected. 
+
+Manufacturing our products involves highly complex processes that require advanced equipment. Our manufacturing efficiency is an important factor in our
+profitability, and we cannot be sure that we will be able to 
+
+27 
+
+Table of Contents
+
+maintain or increase our manufacturing efficiency to the same extent as our competitors. We continually modify manufacturing processes in an effort to
+improve yields and product performance and decrease costs. We may fail to achieve acceptable yields or experience product delivery delays as a result of, among other things, capacity constraints, and delays in the development or implementation of
+new process technologies, changes in our process technologies, upgrades or expansion of existing facilities, or impurities or other difficulties in the manufacturing process. For example, beginning in mid-2007 we plan to incrementally bring down
+200-millimeter output at Fab 30 in order to transition this facility to 300-millimeter manufacturing. While this facility is being converted, we will have some fixed costs that cannot be scaled down in proportion. 
+
+Improving our microprocessor manufacturing efficiency in future periods is
+dependent on our ability to: 
+
+•
+
+ develop advanced product and process technologies; 
+
+•
+
+ successfully transition to advanced process technologies; 
+
+•
+
+ ramp product and process technology improvements rapidly and effectively to commercial volumes across our facilities; and 
+
+•
+
+ achieve acceptable levels of manufacturing wafer output and yields, which may decrease as we implement more advanced technologies. 
+
+We have begun to ramp 65-nanometer production and our goal is to be
+substantially converted to 65-nanometer in Fab 36 by mid-2007. During periods when we are implementing new process technologies, manufacturing facilities may not be fully productive. A substantial delay in the technology transitions to smaller
+process technologies could have a material adverse effect on us, particularly if our competitors transition to more cost effective technologies earlier than we do. Our results of operations would also be adversely affected by the increase in fixed
+costs and operating expenses related to increases in production capacity if revenues do not increase proportionately. 
+
+Similarly, the operating results of our graphics and consumer electronics businesses are dependent upon achieving planned semiconductor manufacturing
+yields. Our graphics and chipset products and products for consumer electronics devices are manufactured at independent foundries, but we have the responsibility for product design and the design and performance of the tooling required for
+manufacturing. Semiconductor manufacturing yields are a function of both product design and process technology, which is typically proprietary to the manufacturer, and low yields can result from either design or process technology failures. In
+addition, yield problems require cooperation by and communication between us and the manufacturer and sometimes the customer as well. The offshore location of our principal manufacturers compounds these risks, due to the increased effort and time
+required to identify, communicate and resolve manufacturing yield problems. We cannot assure you that we or our foundries will identify and fix problems in a timely manner, and achieve acceptable manufacturing yields in the future. Our inability, in
+cooperation with our independent foundries, to achieve planned production yields for these products could have a material adverse effect on us. In particular, failure to reach planned production yields over time could result in us not having
+sufficient product supply to meet demand and/or higher production costs and lower gross margins for our graphics and consumer electronics businesses. This could materially adversely affect us. 
+
+If we lose Microsoft Corporation’s support for our products, our ability to sell our
+microprocessors could be materially adversely affected. 
+
+Our ability to innovate beyond the x86 instruction set controlled by Intel depends partially on Microsoft designing and developing its operating systems to run on or support our microprocessor products. If Microsoft does not continue to
+design and develop its operating systems so that they work with our x86 instruction sets, independent software providers may forego designing their software applications to take advantage of our innovations and customers may not purchase PCs with
+our microprocessors. If we fail to retain the support of Microsoft, our ability to market our microprocessors would be materially adversely affected. 
+
+28 
+
+Table of Contents
+
+If we cannot generate sufficient operating cash flow or obtain external financing, we may be unable to make all of our
+planned capital expenditures or fulfill our obligations. 
+
+For 2007, we plan to make approximately $2.5 billion of capital expenditures, primarily related to expanding production capacity at Fab 36, beginning the conversion of Fab 30 from manufacturing on 200-millimeter wafers to 300-millimeter
+wafers and purchasing equipment for a new facility to support bump and test activities. However, our ability to fund these capital expenditures in accordance with our business plan depends on generating sufficient cash flow from operations and the
+availability of external financing, if necessary. 
+
+Our capital
+expenditures, together with ongoing operating expenses, will be a substantial drain on our cash flow and may decrease our cash balances. The timing and amount of our capital requirements cannot be precisely determined at this time and will depend on
+a number of factors including future demand for products, product mix, changes in semiconductor industry conditions and market competition. We regularly assess markets for external financing opportunities, including debt and equity financing.
+Additional debt or equity financing may not be available when needed or, if available, may not be available on satisfactory terms. In addition, in order to finance our acquisition of ATI, we borrowed $2.5 billion pursuant to a Credit Agreement with
+Morgan Stanley Senior Funding Inc. dated October 24, 2006 (October 2006 Term Loan). While amounts remain outstanding under this agreement, we are required to prepay these amounts with (i) 100 percent of the net cash proceeds from any debt
+incurred by us or a restricted subsidiary, (ii) 50 percent of net cash proceeds from the issuance of any capital stock by us (subject to specified exceptions); (iii) 100 percent of extraordinary receipts (as defined in the October 2006
+Term Loan) in excess of $30 million; (iv) 100 percent of net cash proceeds from asset sales outside of the ordinary course in excess of $30 million, subject to a reinvestment allowance; (v) commencing with the fiscal year ending
+December 30, 2007, 50 percent of excess cash flow; and (vi) 100 percent of net cash proceeds from sales of capital stock of Spansion Inc. See “Part II, Item 7, MD&A—Liquidity,” for additional information on the
+definition of “excess cash flow.” These mandatory prepayment requirements limit our ability to use our cash flow, borrow additional funds or conduct equity offerings for future working capital, capital expenditures, acquisitions or other
+general corporate purposes. Our inability to obtain needed financing or to generate sufficient cash from operations may require us to abandon projects or curtail capital expenditures. If we curtail capital expenditures or abandon projects, we could
+be materially adversely affected. 
+
+We have a substantial amount of
+indebtedness that could adversely affect our financial position. 
+
+As of December 31, 2006 we had consolidated debt of approximately $3.8 billion. In addition, a significant portion of our consolidated debt bears a variable interest rate, which increases our exposure to interest rate fluctuations. Our
+substantial indebtedness may: 
+
+•
+
+ make it difficult for us to satisfy our financial obligations, including making scheduled principal and interest payments; 
+
+•
+
+ limit our ability to borrow additional funds for working capital, capital expenditures, acquisitions and general corporate and other purposes;
+
+•
+
+ limit our ability to use our cash flow or obtain additional financing for future working capital, capital expenditures, acquisitions or other general corporate
+purposes; 
+
+•
+
+ require us to use a substantial portion of our cash flow from operations to make debt service payments; 
+
+•
+
+ limit our flexibility to plan for, or react to, changes in our business and industry; 
+
+•
+
+ place us at a competitive disadvantage compared to our less leveraged competitors; and 
+
+•
+
+ increase our vulnerability to the impact of adverse economic and industry conditions. 
+
+We may not be able to generate sufficient cash to service our debt obligations.
+
+Our ability to make payments on and to refinance our
+debt, or our guarantees of other parties’ debts, will depend on our financial and operating performance, which may fluctuate significantly from quarter to quarter, 
+
+29 
+
+Table of Contents
+
+and is subject to prevailing economic conditions and financial, business and other factors, many of which are beyond our control. We cannot assure you that
+we will continue to generate sufficient cash flow or that we will be able to borrow funds in amounts sufficient to enable us to service our debt or to meet our working capital and capital expenditure requirements. If we are not able to generate
+sufficient cash flow from operations or to borrow sufficient funds to service our debt, we may be required to sell assets or equity, reduce capital expenditures, refinance all or a portion of our existing debt or obtain additional financing. We
+cannot assure you that we will be able to refinance our debt, sell assets or equity or borrow more funds on terms acceptable to us, if at all. 
+
+In addition, amounts outstanding under our October 2006 Term Loan are secured by, among other things, our accounts receivable, a pledge of the capital
+stock of specific material subsidiaries, specific intercompany debt, and proceeds from any sale of our equity interest in Spansion Inc. Moreover, as a result of the security interest granted to Morgan Stanley, holders of our outstanding 7.75% Senior
+Notes due 2012 (7.75% Notes) received an equal and ratable security interest. These assets are not available to be used as security in other borrowing arrangements, which may also have a material adverse effect on our ability to borrow additional
+funds on terms acceptable to us, if at all. 
+
+Our debt instruments impose
+restrictions on us that may adversely affect our ability to operate our business. 
+
+The October 2006 Term Loan and the indenture governing our 7.75% Notes contain various covenants that limit our ability to: 
+
+•
+
+ incur additional indebtedness, except specified permitted debt; 
+
+•
+
+ pay dividends and make other restricted payments; 
+
+•
+
+ make certain investments if a default or an event of default exists, or if specified financial conditions are not satisfied; 
+
+•
+
+ create or permit certain liens; 
+
+•
+
+ create or permit restrictions on the ability of certain restricted subsidiaries to pay dividends or make other distributions to us; 
+
+•
+
+ consolidate, merge or sell assets as an entirety or substantially as an entirety unless specified conditions are met; 
+
+•
+
+ enter into certain types of transactions with affiliates; 
+
+•
+
+ make or commit to make any capital expenditures in the ordinary course of business exceeding a certain amount; 
+
+•
+
+ issue or sell any shares of capital stock of our restricted subsidiaries; 
+
+•
+
+ permit domestic wholly-owned restricted subsidiaries to guarantee our indebtedness unless they also guarantee the October 2006 Term Loan; and
+
+•
+
+ permit our Consolidated Net Senior Secured Leverage Ratio (as defined in the October 2006 Term Loan) to exceed 2.25 to 1.00. 
+
+In addition, the Fab 36 Loan Agreements contain restrictive covenants,
+including a prohibition on the ability of our Germany subsidiary, AMD Fab 36 Limited Liability Company & Co. KG, or AMD Fab 36 KG, and its affiliated limited partners to pay us dividends and other payments and also require us to maintain
+specified financial ratios when group consolidated cash is below specified amounts. Our ability to satisfy these covenants, financial ratios and tests can be affected by events beyond our control. We cannot assure you that we will meet those
+requirements. A breach of any of these covenants, financial ratios or tests could result in a default under the applicable agreement. 
+
+30 
+
+Table of Contents
+
+Moreover, our agreements contain cross-default provisions whereby a default under one agreement would
+likely result in cross default under agreements covering other borrowings. For example, the occurrence of a default with respect to any indebtedness or any failure to repay debt when due in an amount in excess of $50 million would cause a cross
+default under the October 2006 Term Loan or the indenture governing our 7.75% Notes. The occurrence of a default under any of these borrowing arrangements would permit the applicable lenders or note holders to declare all amounts outstanding under
+those borrowing arrangements to be immediately due and payable. If the lenders under the October 2006 Term Loan or the note holders or the trustee under the indenture governing our 7.75% Notes accelerates the repayment of borrowings, we cannot
+assure you that we will have sufficient assets to repay those borrowings and our other indebtedness. 
+
+If we are unable to comply with the covenants in the subsidy grant documents that we receive from the State of Saxony, the Federal Republic of Germany and/or the European Union for Fab 30, Fab 36 or other research
+and development projects we may undertake in Germany, we may forfeit or have to repay our subsidies, which could materially adversely affect us. 
+
+We receive capital investment grants and allowances from the State of Saxony and the Federal Republic of Germany for Fab 36. We have also received capital
+investment grants and allowances as well as interest subsidies from these governmental entities for Fab 30. From time to time, we also apply for and obtain subsidies from the State of Saxony, the Federal Republic of Germany and the European Union
+for certain research and development projects. The subsidy grant documents typically contain covenants that must be complied with, and noncompliance with the conditions of the grants, allowances and subsidies could result in the forfeiture of all or
+a portion of any future amounts to be received, as well as the repayment of all or a portion of amounts received to date. If we are unable to comply with any of the covenants in the grant documents, we could be materially adversely affected.
+
+If our microprocessors are not compatible with some or all
+industry-standard software and hardware, we could be materially adversely affected. 
+
+Our microprocessors may not be fully compatible with some or all industry-standard software and hardware. Further, we may be unsuccessful in correcting any such compatibility problems in a timely manner. If our
+customers are unable to achieve compatibility with software or hardware after our products are shipped in volume, we could be materially adversely affected. In addition, the mere announcement of an incompatibility problem relating to our products
+could have a material adverse effect on us. 
+
+Costs related to defective
+products could have a material adverse effect on us. 
+
+Products as complex as those we offer may contain defects or failures when first introduced or when new versions or enhancements to existing products are released. We cannot assure you that, despite our testing procedures, errors will not
+be found in new products or releases after commencement of commercial shipments in the future, which could result in loss of or delay in market acceptance of our products, material recall and replacement costs, delay in recognition or loss of
+revenues, writing down the inventory of defective products, the diversion of the attention of our engineering personnel from product development efforts, defending against litigation related to defective products or related property damage or
+personal injury, and damage to our reputation in the industry and could adversely affect our relationships with our customers. In addition, we may have difficulty identifying the end customers of the defective products in the field. As a result, we
+could incur substantial costs to implement modifications to correct defects. Any of these problems could materially adversely affect us. 
+
+In addition, because we sell directly to consumers, we could be subject to potential product liability claims if one of our products causes, or merely
+appears to have caused, an injury. Claims may be made by consumers or others selling our products, and we may be subject to claims against us even if an alleged injury is due to the actions of others. A product liability claim, recall or
+other claim with respect to uninsured liabilities or for amounts in excess of insured liabilities could have a material adverse effect on our business. 
+
+31 
+
+Table of Contents
+
+Our receipt of royalty revenues is dependent upon the success of third-party products. 
+
+Our graphics technology for the game console market is being used in the
+Nintendo GameCube, Nintendo Wii and Microsoft®
+
+ Xbox
+360
+™
+
+ game consoles. The only revenues that we
+receive from these technology platforms are in the form of non-recurring engineering revenues, as well as royalties paid to us by Nintendo and Microsoft based upon the market success of their products. Accordingly, our royalty revenues will be
+directly related to the sales of these products. We anticipate royalties in future years resulting from our agreements with Nintendo and Microsoft. However, we have no control over the marketing efforts of Nintendo and Microsoft and we cannot assure
+you that sales of those products will achieve expected levels in the current or future fiscal years. Consequently, the revenues from royalties expected by us from these technology platforms may not be fully realized, and our operating results may be
+adversely affected. 
+
+Our entry into new consumer markets is subject to a
+number of uncertainties. 
+
+As a result of the ATI
+acquisition, we sell products for the consumer electronics market, including digital TVs and color mobile phones. There are a significant number of competitors targeting this market. The delay in acceptance of digital TV technology has also provided
+further opportunities for competitors to enter this market. In addition, as the telecommunications, cable and consumer electronics industries and their suppliers undergo a period of convergence, we expect that competition will increase in these
+markets. Our ability to succeed in these new consumer markets is subject to a number of uncertainties, including acceptance of our graphics and multimedia processors, the development of new technologies sufficient to meet market demand, the need to
+develop customer relationships, different sales strategies and channels, new and different industry standards from those in the PC market and changing strategic alliances. We cannot assure you that we will be able to successfully compete in this new
+market. If we are unable to successfully introduce products and compete in this market, we could be materially adversely affected. 
+
+Our inability to continue to attract and retain qualified personnel may hinder our product development programs. 
+
+Our future success depends upon the continued service of numerous qualified
+engineering, manufacturing, marketing, sales and executive personnel, including the more than 4,000 employees we acquired through the ATI acquisition. If we are not able to continue to attract, retain and motivate qualified personnel necessary for
+our business, the progress of our product development programs could be hindered, and we could be materially adversely affected. 
+
+We outsource to third parties certain supply-chain logistics functions, including physical distribution of our products, and co-source some information technology
+services. 
+
+We rely on a third-party provider to deliver
+our products to our customers and to distribute materials for some of our manufacturing facilities. In addition, we rely on a third party in India to provide certain information technology services to us, including helpdesk support, desktop
+application services, business and software support applications, server and storage administration, data center operations, database administration, and voice, video and remote access. Our relationships with these providers are governed by fixed
+term contracts. We cannot guarantee that these providers will fulfill their respective responsibilities in a timely manner in accordance with the contract terms, in which case our internal operations, the distribution of our products to our
+customers and the distribution of materials for some facilities could be materially adversely affected. Also, we cannot guarantee that our contracts with these third-party providers will be renewed, in which case we would have to transition these
+functions in-house or secure new providers, which could have a material adverse effect on us. 
+
+In addition, we decided to outsource or co-source these functions to third parties primarily to lower our operating expenses and to create a more variable cost structure. However, if the costs related to
+administration, communication and coordination of these third-party providers are greater than we expect, then we will not realize our anticipated cost savings. 
+
+32 
+
+Table of Contents
+
+Uncertainties involving the ordering and shipment of, and payment for, our products could materially adversely affect
+us. 
+
+We typically sell our products pursuant to individual
+purchase orders. We generally do not have long-term supply arrangements with our customers or minimum purchase requirements. Generally, our customers may cancel orders more than 30 days prior to shipment without incurring a significant penalty. We
+base our inventory levels on customers’ estimates of demand for their products, which are difficult to predict. This difficulty may be compounded when we sell to OEMs indirectly through distributors, as our forecasts for demand are then based
+on estimates provided by multiple parties. Moreover, PC and consumer markets are characterized by short product lifecycles, which can lead to rapid obsolescence and price erosion. In addition, our customers may change their inventory practices on
+short notice for any reason. We may build inventories during periods of anticipated growth, and the cancellation or deferral of product orders, the return of previously sold products or overproduction due to failure of anticipated orders to
+materialize, could result in excess or obsolete inventory, which could result in write-downs of inventory and an adverse effect on profit margins. Because market conditions are uncertain, these and other factors could materially adversely affect us.
+
+Our reliance on third-party distributors subjects us to certain risks.
+
+We market and sell our products directly and through
+third-party distributors pursuant to agreements that can generally be terminated for convenience by either party upon prior notice to the other party. These agreements are non-exclusive and permit our distributors to offer our competitors’
+products. Our third party distributors have been a significant factor in our ability to increase sales of our products in certain high growth international markets. Accordingly, we are dependent on our distributors to supplement our direct marketing
+and sales efforts. If any significant distributor or a substantial number of our distributors terminated their relationship with us or decided to market our competitors’ products over our products, our ability to bring our products to market
+would be impacted and we would be materially adversely affected. 
+
+Additionally, distributors typically maintain an inventory of our products. In most instances, our agreements with distributors protect their inventory of our products against price reductions, as well as provide return rights for any
+product that we have removed from our price book and that is not more than twelve months older than the manufacturing code date. Some agreements with our distributors also contain standard stock rotation provisions permitting limited levels of
+product returns. We defer the gross margins on our sales to distributors, resulting from both our deferral of revenue and related product costs, until the applicable products are re-sold by the distributors. However, in the event of an unexpected
+significant decline in the price of our products, the price protection rights we offer to our distributors would materially adversely affect us because our revenue would decline. 
+
+Our operations in foreign countries are subject to political and economic risks, which could have a material adverse effect on us.
+
+We maintain operations around the world, including in the
+United States, Canada, Europe and Asia. For example, all of our wafer fabrication capacity for microprocessors is located in Germany. Nearly all product assembly and final testing of our microprocessor products is performed at manufacturing
+facilities in China, Malaysia and Singapore. In addition, our graphics and chipset products and products for consumer electronics devices are manufactured, assembled and tested by independent third parties in the Asia-Pacific region and inventory
+related to those products is stored there. We also have international sales operations and as part of our business strategy, we are continuing to seek expansion of product sales in high growth markets. Our international sales as a percentage of our
+total consolidated revenue was 75 percent in 2006, and China was one of our largest and fastest growing markets. 
+
+The political and economic risks associated with our operations in foreign countries include, without limitation: 
+
+•
+
+ expropriation; 
+
+•
+
+ changes in a specific country’s or region’s political or economic conditions; 
+
+33 
+
+Table of Contents
+
+•
+
+ changes in tax laws, trade protection measures and import or export licensing requirements; 
+
+•
+
+ difficulties in protecting our intellectual property; 
+
+•
+
+ difficulties in achieving headcount reductions; 
+
+•
+
+ changes in foreign currency exchange rates; 
+
+•
+
+ restrictions on transfers of funds and other assets of our subsidiaries between jurisdictions; 
+
+•
+
+ changes in freight and interest rates; 
+
+•
+
+ disruption in air transportation between the United States and our overseas facilities; and 
+
+•
+
+ loss or modification of exemptions for taxes and tariffs. 
+
+Any conflict or uncertainty in the countries in which we operate, including public health or safety, natural disasters or general economic factors,
+could have a material adverse effect on our business. Any of the above risks, should they occur, could result in an increase in the cost of components, production delays, general business interruptions, delays from difficulties in obtaining export
+licenses for certain technology, tariffs and other barriers and restrictions, potentially longer payment cycles, potentially increased taxes, restrictions on the repatriation of funds and the burdens of complying with a variety of foreign laws, any
+of which could ultimately have a material adverse effect on us. 
+
+Worldwide
+economic and political conditions may adversely affect demand for our products. 
+
+Worldwide economic conditions may adversely affect demand for our products. For example, China’s economy has been growing at a fast pace over the past several years, and the Chinese government introduced various
+measures to slow down the pace of economic growth. A decline in economic conditions in China could lead to declining worldwide economic conditions. If economic conditions decline, whether in China or worldwide, we could be materially adversely
+affected. 
+
+The occurrence and threat of terrorist attacks and
+the consequences of sustained military action in the Middle East have in the past, and may in the future, adversely affect demand for our products. Terrorist attacks may negatively affect our operations, directly or indirectly, and such attacks or
+related armed conflicts may directly impact our physical facilities or those of our suppliers or customers. Furthermore, these attacks may make travel and the transportation of our products more difficult and more expensive, which could materially
+adversely affect us. 
+
+The United States has been and may
+continue to be involved in armed conflicts that could have a further impact on our sales, and our supply chain. Political and economic instability in some regions of the world may also result and could negatively impact our business. The
+consequences of armed conflicts are unpredictable, and we may not be able to foresee events that could have a material adverse effect on us. 
+
+More generally, any of these events could cause consumer confidence and spending to decrease or result in increased volatility in the United States
+economy and worldwide financial markets. Any of these occurrences could have a material adverse effect on us and also may result in volatility of the market price for our securities. 
+
+Unfavorable currency exchange rate fluctuations could adversely affect us. 
+
+We have costs, assets and liabilities that are denominated in foreign
+currencies, primarily the euro and yen, and as a result of our recent acquisition of ATI, the Canadian dollar. As a consequence, movements in exchange rates could cause our Canadian dollar and euro-denominated expenses and yen-based raw material
+purchases to increase as a percentage of revenue, affecting our profitability and cash flows. Whenever we believe appropriate, we hedge a portion of our foreign currency exposure to protect against fluctuations in currency exchange rates. We
+determine our total foreign currency exposure using projections of expenditures for items such as payroll, 
+
+34 
+
+Table of Contents
+
+equipment and materials used in manufacturing. We cannot assure you that these activities will be effective in reducing foreign exchange rate exposure.
+Failure to do so could have an adverse effect on our business, financial condition, results of operations and cash flow. 
+
+In addition, the majority of our product sales are denominated in U.S. dollars. Fluctuations in the exchange rate between the U.S. dollar and the local
+currency can cause increases or decreases in the cost of our products in the local currency of such customers. An appreciation of the U.S. dollar relative to the local currency could reduce sales of our products. 
+
+Our inability to effectively control the sales of our products on the gray market could
+have a material adverse effect on us. 
+
+We market and sell
+our products directly to OEMs and through authorized third-party distributors. From time to time, our products are diverted from our authorized distribution channels and are sold on the “gray market.” Gray market products entering the
+market result in shadow inventory that is not visible to us, thus making it difficult to forecast demand accurately. Also, when gray market products enter the market, we and our distribution channel compete with heavily discounted gray market
+products, which adversely affect demand for our products. In addition, our inability to control gray market activities could result in customer satisfaction issues, because any time products are purchased outside our authorized distribution channel,
+there is a risk that our customers are buying counterfeit or substandard products, including products that may have been altered, mishandled or damaged, or used products represented as new. Our inability to control sales of our products on the gray
+market could have a material adverse effect on us. 
+
+If we cannot adequately
+protect our technology or other intellectual property in the United States and abroad, through patents, copyrights, trade secrets, trademarks and other measures, we may lose a competitive advantage and incur significant expenses. 
+
+We rely on a combination of protections provided by contracts, including
+confidentiality and nondisclosure agreements, copyrights, patents, trademarks and common law rights, such as trade secrets, to protect our intellectual property. However, we cannot assure you that we will be able to adequately protect our technology
+or other intellectual property from third party infringement or from misappropriation in the United States and abroad. Any patent licensed by us or issued to us could be challenged, invalidated or circumvented or rights granted thereunder may not
+provide a competitive advantage to us. Furthermore, patent applications that we file may not result in issuance of a patent or, if a patent is issued, the patent may not be issued in a form that is advantageous to us. Despite our efforts to protect
+our intellectual property rights, others may independently develop similar products, duplicate our products or design around our patents and other rights. In addition, it is difficult to monitor compliance with, and enforce, our intellectual
+property on a worldwide basis in a cost-effective manner. Foreign laws may provide less intellectual property protection than afforded in the United States. If we cannot adequately protect our technology or other intellectual property in the United
+States and abroad, we would be materially adversely affected. 
+
+We are party
+to litigation, including intellectual property litigation, and may become a party to other claims or litigation that could cause us to incur substantial costs or pay substantial damages or prohibit us from selling our products. 
+
+From time to time we are a defendant or plaintiff in various legal actions.
+Litigation can involve complex factual and legal questions and its outcome is uncertain. In addition, as a result of our acquisition of ATI, we have assumed responsibility for ATI’s legal proceedings which include a securities litigation
+proceeding and a consumer class action. In November 2006, we received a subpoena for documents and information in connection with the U.S. Department of Justice’s criminal investigation into potential antitrust violations related to graphics
+processing units and cards. We also sell products to consumers, which could increase our exposure to consumer actions such as product liability claims. Any claim that is successfully asserted against us may cause us to pay substantial damages.
+
+35 
+
+Table of Contents
+
+With respect to intellectual property litigation, from time to time, we have been notified, or third
+parties may bring actions against us, based on allegations that we are infringing the intellectual property rights of others. If any such claims are asserted against us, we may seek to obtain a license under the third party’s intellectual
+property rights. We cannot assure you that we will be able to obtain all of the necessary licenses on satisfactory terms, if at all. In the event that we cannot obtain a license, these parties may file lawsuits against us seeking damages
+(potentially including treble damages) or an injunction against the sale of our products that incorporate allegedly infringed intellectual property or against the operation of our business as presently conducted, which could result in our having to
+stop the sale of some of our products or to increase the costs of selling some of our products or could damage our reputation. The award of damages, including material royalty payments, or the entry of an injunction against the manufacture and sale
+of some or all of our products, would have a material adverse effect on us. We could decide, in the alternative, to redesign our products or to resort to litigation to challenge such claims. Such challenges could be extremely expensive and
+time-consuming and could have a material adverse effect on us. We cannot assure you that litigation related to our intellectual property rights or the intellectual property rights of others can always be avoided or successfully concluded.
+
+Even if we were to prevail, any litigation could be costly and
+time-consuming and would divert the attention of our management and key personnel from our business operations, which could have a material adverse effect on us. 
+
+We are subject to a variety of environmental laws that could result in liabilities. 
+
+Our operations and properties are subject to various United States and
+foreign environmental laws and regulations, including those relating to materials used in our products and manufacturing processes, discharge of pollutants into the environment, the treatment, transport, storage and disposal of solid and hazardous
+wastes, and remediation of contamination. These laws and regulations require us to obtain permits for our operations, including the discharge of air pollutants and wastewater. Although our management systems are designed to maintain compliance, we
+cannot assure you that we have been or will be at all times in complete compliance with such laws, regulations and permits. If we violate or fail to comply with any of them, a range of consequences could result, including fines, suspension of
+production, alteration of manufacturing processes, import/export restrictions, sales limitations, criminal and civil liabilities or other sanctions. We could also be held liable for any and all consequences arising out of exposure to hazardous
+materials used, stored, released, disposed of by us or located at or under our facilities or other environmental or natural resource damage. 
+
+Certain environmental laws, including the U.S. Comprehensive, Environmental Response, Compensation and Liability Act of 1980, or the Superfund Act, impose
+strict, joint and several liability on current and previous owners or operators of real property for the cost of removal or remediation of hazardous substances and impose liability for damages to natural resources. These laws often impose liability
+even if the owner or operator did not know of, or was not responsible for, the release of such hazardous substances. These environmental laws also assess liability on persons who arrange for hazardous substances to be sent to disposal or treatment
+facilities when such facilities are found to be contaminated. Such persons can be responsible for cleanup costs even if they never owned or operated the contaminated facility. We have been named as a responsible party on Superfund clean-up orders
+for three sites in Sunnyvale, California. Although we have not yet been, we could be named a potentially responsible party at other Superfund or contaminated sites in the future. In addition, contamination that has not yet been identified could
+exist at our other facilities. 
+
+Environmental laws are complex,
+change frequently and have tended to become more stringent over time. For example, the European Union and China are two among a growing number of jurisdictions that have enacted restrictions on the use of lead, among other chemicals, in electronic
+products. These regulations affect semiconductor packaging, and we continue our work to ensure compliance across product lines. There is a risk that the cost, quality and manufacturing yields of lead-free products may be less favorable compared
+to lead-based products or that the transition to lead-free products may produce sudden changes in demand, which may result in excess inventory. Other regulatory requirements potentially affecting our manufacturing processes and the design and
+marketing of our products are in development throughout the world. We have management 
+
+36 
+
+Table of Contents
+
+systems in place to identify and ensure compliance with such requirements and have budgeted for foreseeable associated expenditures. However, we cannot
+assure you that future environmental legal requirements will not become more stringent or costly in the future. Therefore, we cannot assure you that our costs of complying with current and future environmental and health and safety laws, and our
+liabilities arising from past and future releases of, or exposure to, hazardous substances will not have a material adverse effect on us. 
+
+Our worldwide operations could be subject to natural disasters and other business disruptions, which could harm our future revenue and financial condition and increase
+our costs and expenses. 
+
+All of our wafer fabrication
+capacity for microprocessors is located in Germany. Nearly all product assembly and final testing of our microprocessor products is performed at manufacturing facilities in China, Malaysia and Singapore. The independent foundries used to manufacture
+our graphics and chipset products and products for consumer electronics devices are located in Hsin Chiu and Tainan, Taiwan. A significant amount of our inventories for our graphics and consumer electronics businesses are stored in Taiwan prior to
+delivery to customers. Many of our assembly, testing and packaging suppliers for our graphics products are also located in southern Taiwan. On September 22, 1999, Taiwan suffered a major earthquake that measured 7.6 on the Richter scale and
+disrupted the operations of these manufacturing suppliers and contributed to a temporary shortage of graphics processors. Additional earthquakes, fires or other occurrences that disrupt our manufacturing suppliers may occur in the future. To the
+extent that the supply from our independent foundries or suppliers is interrupted for a prolonged period of time or terminated for any reason, we may not have sufficient time to replace our supply of products manufactured by those foundries.
+
+Moreover, our corporate headquarters are located near major
+earthquake fault lines in California. In the event of a major earthquake, or other natural or manmade disaster, we could experience loss of life of our employees, destruction of facilities or business interruptions, any of which could materially
+adversely affect us. 
+
+Our business is subject to potential tax liabilities.
+
+We are subject to income taxes in the United States,
+Canada and other foreign jurisdictions. Significant judgment is required in determining our worldwide provision for income taxes. In the ordinary course of our business, there are many transactions and calculations where the ultimate tax
+determination is uncertain. Although we believe our tax estimates are reasonable, we cannot assure you that the final determination of any tax audits and litigation will not be materially different from that which is reflected in historical income
+tax provisions and accruals. Should additional taxes be assessed as a result of an audit or litigation, there could be a material effect on our cash, income tax provision and net income in the period or periods for which that determination is made.
+
+For example, the Canadian Revenue Agency, or CRA, is in the
+process of auditing ATI for the years 1999 - 2004 with respect to transactions between ATI and its subsidiaries. We could be subject to significant tax liability as well as a loss of certain tax credits and other tax attributes as a result
+of the CRA audit. 
+
+Risks Related to Our Ownership of Spansion Inc. Common
+Stock 
+
+Spansion’s financial position, results of
+operations and cash flows were consolidated with ours through December 20, 2005, but as a result of its initial public offering, we currently report our interest in Spansion using the equity method of accounting. Following Spansion’s IPO,
+we owned approximately 38 percent of Spansion’s outstanding common stock. In November 2006 we sold shares of Spansion’s common stock, and as a result, as of December 31, 2006, we owned approximately 21 percent of Spansion’s
+outstanding common stock. Our 21 percent share of Spansion’s net income (loss) will impact our net income (loss). The following risks and uncertainties that Spansion faces could affect Spansion’s financial position or results of operations
+and correspondingly our financial position and results of operations. These are not the only risks and uncertainties that Spansion faces. Spansion also faces many of the risks and uncertainties that we face as described above in this “Risk
+Factors” section, as well as those set forth in Spansion’s Annual Report on Form 10-K and other SEC filings, to which we refer you. 
+
+37 
+
+Table of Contents
+
+The demand for Spansion’s products depends in large part on continued growth in the industries into which they
+are sold. A market decline in any of these industries, or a decline in demand for Flash memory products in these industries, would have a material adverse effect on Spansion’s results of operations. 
+
+Sales of Spansion’s Flash memory products are dependent to a large
+degree upon consumer demand for mobile phones. In fiscal 2006, wireless customers, which primarily consist of mobile phone OEMs represented the largest market for NOR Flash memory. In fiscal 2006 and fiscal 2005, sales to wireless Flash memory
+customers drove a majority of Spansion’s sales. 
+
+Similarly, sales of Spansion’s products targeting embedded Flash memory customers are dependent upon demand for consumer electronics such as set top boxes, or STBs, and DVD players, automotive electronics, industrial electronics such
+as networking equipment, PCs and PC peripheral equipment such as printers. Sales of Spansion’s products are also dependent upon the inclusion of increasing amounts of Flash memory content in some of these products. In fiscal 2005 and fiscal
+2006, sales to embedded Flash memory customers drove a significant portion of Spansion’s sales. 
+
+If demand for mobile phones or products in the embedded portion of the Flash memory market, or the Flash memory content of these products, is below
+Spansion’s expectations, if the functionality of successive generations of such products does not require increasing Flash memory density or if such products no longer require Flash memory due to alternative technologies or otherwise, Spansion
+would be materially adversely affected. 
+
+Spansion has lost key intellectual
+property arrangements because it is no longer a beneficiary of our patent cross-license agreements and other licenses, which creates a greatly increased risk of patent or other intellectual property infringement claims against Spansion.
+
+As a majority owned subsidiary through December 20,
+2005, Spansion had been the beneficiary of our intellectual property arrangements with third parties, including patent cross-license agreements with other major semiconductor companies such as Intel, Motorola and IBM, and licenses from third parties
+for technology incorporated in Spansion’s products and software used to operate its business. As a result of the conversion of Spansion’s outstanding shares of Class D common stock into shares of Spansion’s Class A common stock in
+November 2006, Spansion ceased to be a beneficiary under most of the remainder of these license agreements. As a result, Spansion may be subject to claims that it is infringing intellectual property rights of third parties through the manufacture
+and sale of Spansion’s products and the operation of Spansion’s business. Therefore, absent negotiating its own license agreements with the third parties who own such intellectual property, Spansion will be vulnerable to claims by such
+parties that Spansion’s products or operations infringe such parties’ patents or other intellectual property rights. 
+
+Spansion will continue to attempt to negotiate its own agreements and arrangements with third parties for intellectual property and technology that are
+important to Spansion’s business, including the intellectual property that it previously had access to through its relationship with us. Spansion will also attempt to acquire new patents as Spansion’s success in negotiating patent
+cross-license agreements with other industry participants will depend in large part upon the strength of its patent portfolio relative to that of the third party with which it is negotiating. If the third-party benefits from an existing patent
+cross-license agreement with us or Fujitsu, in many cases it will retain the rights that it has under that agreement, including rights to utilize the patents that we and Fujitsu transferred to Spansion in connection with Spansion’s
+reorganization as Spansion LLC in June 2003. In many cases, any such third party will also retain such rights to utilize any patents that have been issued to Spansion or acquired by Spansion subsequent to Spansion’s reorganization and prior to
+Spansion’s IPO or, in some cases, at the time of the conversion of the Class D common stock. Spansion’s negotiating position will therefore be impaired, because the other party will already be entitled to utilize a large number of
+Spansion’s patents, while Spansion no longer has the right to utilize that party’s patents. As a result, Spansion may be unable to obtain access to the other party’s patent portfolio on favorable terms or at all. Similarly, with
+respect to licenses from third parties for technology incorporated in Spansion’s products or software used to operate Spansion’s business, 
+
+38 
+
+Table of Contents
+
+Spansion may not be able to negotiate prices with these third parties on terms as favorable to Spansion as those previously available to Spansion because it
+is not able to take advantage of our size and purchasing power. These parties, and other third parties with whom we had no prior intellectual property arrangement, may file lawsuits against Spansion seeking damages (potentially including treble
+damages) or an injunction against the sale of Spansion’s products that incorporate allegedly infringed intellectual property or against the operation of Spansion’s business as presently conducted. Such litigation could be extremely
+expensive and time-consuming. Spansion cannot be sure that such litigation would be avoided or successfully concluded. The award of damages, including material royalty payments, or the entry of an injunction against the manufacture or sale of some
+or all of Spansion’s products, would have a material adverse effect on Spansion. 
+
+A significant market shift to NAND architecture could materially adversely affect Spansion. 
+
+Flash memory products are generally based either on NOR architecture or NAND architecture. To date, Spansion’s Flash memory products have been based
+on NOR architecture which are typically produced at a higher cost-per-bit than NAND-based products. Spansion does not currently manufacture products based on NAND architecture. Spansion has developed its MirrorBit ORNAND architecture to address
+certain portions of the integrated category of the Flash memory market served by NAND-based products, but it cannot be certain that its MirrorBit ORNAND-based products will satisfactorily address those market needs. 
+
+During 2004, industry sales of NAND-based Flash memory products grew at a
+higher rate than sales of NOR-based Flash memory products, resulting in NAND vendors in aggregate gaining a greater share of the overall Flash memory market and NOR vendors in aggregate losing overall market share. This trend continued in 2005 and
+2006 when sales of NAND-based Flash memory products represented a majority of the Flash memory products sold in the overall Flash memory market. In 2005, and the first half of 2006, sales of NAND-based Flash memory products represented a majority of
+the Flash memory products sold in the overall Flash memory market. 
+
+Moreover, the removable storage category of the Flash memory market, which is predominantly served by floating gate NAND vendors, is expected to be a significant portion of the Flash memory market for the foreseeable future. As mobile
+phones and other consumer electronics become more advanced, they will require higher density Flash memory to meet the increased data storage requirements associated with music downloads, photos and videos. Because storage requirements will increase
+to accommodate data-intensive applications, OEMs may increasingly choose higher density floating gate NAND-based Flash memory products over MirrorBit NOR-, ORNAND- or Quad-based Flash memory products for their applications. If this occurs and OEMs
+continue to prefer the attributes and characteristics of floating gate NAND-based products over those of MirrorBit NOR-, ORNAND- or Quad-based products for their applications, Spansion may be materially and adversely affected. Moreover, some
+floating gate NAND vendors are manufacturing on 300-millimeter wafers or may choose to utilize more advanced manufacturing process technologies than Spansion uses today to offer products competitive to Spansion’s at a lower cost. If floating
+gate NAND vendors continue to increase their share of the Flash memory market, Spansion’s market share may decrease, which would materially adversely affect Spansion. 
+
+Competitors may introduce new memory or other technologies that may make Spansion’s Flash memory products uncompetitive or obsolete.
+
+Spansion’s competitors are working on a number of
+new technologies, including FRAM, MRAM, polymer and phase-change based memory technologies. If successfully developed and commercialized as a viable alternative to Flash memory, these or other technologies could pose a competitive threat to a number
+of Flash memory companies, including Spansion. In addition, Spansion and some of Spansion’s competitors have licensed Flash memory intellectual property associated with NROM technology from a third party. Use of this NROM intellectual property
+may allow these competitors to develop Flash memory technology that may compete with MirrorBit technology. 
+
+39 
+
+Table of Contents
+
+If Spansion fails to successfully develop products based on its new MirrorBit NOR, or MirrorBit ORNAND or MirrorBit
+Quad architectures, or if there is a lack of market acceptance of products based on these products, Spansion’s future operating results would be materially adversely affected. 
+
+Spansion is positioning itself to address the increasing demand for higher density data optimized Flash memory by offering
+products based on its new MirrorBit ORNAND and MirrorBit Quad architectures. The success of these architectures requires that Spansion timely and cost effectively develop, manufacture and market products based on these architectures that are
+competitive with floating gate NAND-based Flash memory products. Spansion began commercial shipments of MirrorBit ORNAND-based products in the second quarter of fiscal 2006 and announced the MirrorBit Quad-based family of products in January 2007.
+However, if Spansion fails to develop and commercialize these products and additional products based on these architectures on a timely basis, Spansion’s future operating results would be materially adversely affected. Furthermore, if market
+acceptance of products based on Spansion’s MirrorBit technology occurs at a slower rate than Spansion anticipates, its ability to compete will be reduced, and Spansion would be materially adversely affected. If Spansion does not achieve market
+acceptance of these products or subsequent MirrorBit products, Spansion’s future operating results would be materially adversely affected. 
+
+The loss of a significant customer or a reduction in demand for Spansion’s Flash memory products from a significant customer in the mobile phone
+market could have a material adverse effect on 
+Spansion
+. 
+
+Sales of Spansion’s products are dependent to a large extent on demand for mobile phones. Historically, a small number of wireless Flash memory customers have driven a substantial portion of Spansion’s net
+sales. If one of these customers decided to stop buying Spansion’s Flash memory products, or if one of these customers were materially to reduce its operations or its demand for Spansion’s products, Spansion could be materially adversely
+affected. For example, in the fourth quarter of fiscal 2006 Spansion was materially adversely affected by the reduced demand for mid-range wireless handsets that incorporate custom high density NOR-based Flash memory solutions. 
+
+Spansion has a substantial amount of indebtedness which could adversely affect its
+financial condition. 
+
+Spansion currently has and will
+continue to have for the foreseeable future, a substantial amount of indebtedness. This substantial indebtedness may: 
+
+•
+
+ require Spansion to use a substantial portion of its cash flows from operations to make debt service payments; 
+
+•
+
+ make it difficult for Spansion to satisfy its financial obligations; 
+
+•
+
+ limit Spansion’s ability to use its cash flows or obtain additional financing for future working capital, capital expenditures, acquisitions or other general
+corporate purposes; 
+
+•
+
+ limit Spansion’s flexibility to plan for, or react to, changes in its business and industry; 
+
+•
+
+ place Spansion at a competitive disadvantage compared to its less leveraged competitors; and 
+
+•
+
+ increase Spansion’s vulnerability to the impact of adverse economic and industry conditions. 
+
+If Spansion cannot generate sufficient operating cash flows and obtain external financing,
+it may be unable to make all of its planned capital expenditures. 
+
+Spansion’s ability to fund anticipated capital expenditures depends on generating sufficient cash flows from operations and the availability of external financing. Spansion’s capital expenditures, together with ongoing operating
+expenses, will be a substantial drain on its cash flows and may decrease its cash balances. The timing and amount of Spansion’s capital requirements cannot be precisely determined at this time and will depend on a number of factors, including
+demand for its products, product mix, changes in industry conditions and market competition. 
+
+Spansion may need to assess markets for external financing, including debt and equity. Such financing may not be available when needed or, if available, may not be available on satisfactory terms. Any equity financing
+
+40 
+
+Table of Contents
+
+would cause dilution to its stockholders. Spansion’s inability to obtain needed financing or to generate sufficient cash from operations may require it
+to abandon projects or curtail capital expenditures. If Spansion cannot generate sufficient operating cash flows or obtain external financing, it may be delayed in achieving, or may not achieve, needed manufacturing capacity, and Spansion could be
+materially adversely affected. 
+
+If Spansion is unable to timely and
+efficiently expand its manufacturing capacity to implement 300-millimeter wafer capacity at SP1, Spansion’s business, results of operations or financial condition could be materially adversely affected. 
+
+Spansion intends to expand its manufacturing capacity to produce
+approximately 15,000 to 20,000 300-millimeter wafers per month at SP1. Spansion’s goal is to have 65- and 45-nanometer process technology on 300-millimeter wafer capacity in place in fiscal 2008. In fiscal 2006 Spansion commenced a plan to
+spend approximately $1.2 billion over three years to construct and equip its planned flash memory manufacturing facility in Aizu-Wakamatsu, Japan, which Spansion refers to as SP1. However, the actual cost and capacity achieved will vary depending on
+various factors, including available financing and future product demand. Financing for the construction of and equipment for SP1 may not be available when needed or, if available, may not be available on satisfactory terms. If Spansion does not
+achieve its desired capacity at the anticipated cost, or if Spansion cannot obtain suitable financing, Spansion may be delayed in achieving, or may not achieve, such capacity, and Spansion could be materially adversely affected. 
+
+The timing for implementing 300-millimeter capacity in SP1 will also depend
+in part on Spansion’s ability to execute its plan for constructing and equipping the facility and other factors that may be beyond its control, such as delivery schedules for the required machinery and equipment and construction schedules. If
+Spansion is delayed in implementing this capability or is unable to obtain foundry services at competitive rates or to timely and efficiently ramp production on 300-millimeter wafers, it will not achieve anticipated cost savings associated with this
+technology and its gross margins could decline. Even if Spansion is successful in implementing this capacity, if the demand for its products is not sufficient to support the additional capacity when it becomes available, it could be materially and
+adversely affected. 
+
+If Spansion’s cost reduction efforts are not
+effective, Spansion’s business could be materially adversely affected. 
+
+Spansion continues to undertake a number of actions in an effort to significantly reduce its expenses. These actions include and have included streamlining operations, continuing to align manufacturing utilization to
+the level of demand for Spansion products, controlling increasing testing costs and working with us and Fujitsu to reduce costs under services agreements. We cannot assure you that any of these actions will occur as anticipated or at all, or that
+Spansion will be able to achieve significant cost reductions. If Spansion’s cost reduction efforts are unsuccessful, Spansion would be materially adversely affected. 
+
+Manufacturing capacity constraints may have a material adverse affect on Spansion. 
+
+There may be situations in which Spansion’s manufacturing capacity is
+inadequate to meet the demand for some of its products. Spansion increasingly depends on foundry, subcontractor and similar arrangements with third parties to meet demand. Spansion’s arrangements with third-party suppliers do not necessarily
+include capacity guarantees. If a third-party manufacturer on which it relies does not have the capacity to deliver an adequate amount of product to meet actual demand, Spansion may not be able to obtain the manufacturing capacity, either in its own
+facilities or through other third-party arrangements, to meet such demand. During fiscal 2006, demand for certain of Spansion’s products exceeded the available supply. As a result, Spansion was unable to meet the demand of some of its customers
+for these products. This could adversely impact Spansion’s relationships with customers, cause harm to Spansion’s reputation in the marketplace, cause these customers to move future business to Spansion’s competitors or cause Spansion
+to make financial concessions to its customers. Any of these occurrences could have a material adverse effect on Spansion. Also, in the third and fourth quarters of fiscal 2005 and the third quarter of fiscal 2006, Spansion experienced capacity
+constraints for 
+
+41 
+
+Table of Contents
+
+final test and assembly of some of its products. These constraints continued into the fourth quarter of fiscal 2006. While Spansion has worked internally and
+with subcontractors to increase capacity to meet anticipated demand, it cannot be assured that it will not experience similar constraints in the future. These capacity constraints limit Spansion’s ability to respond to rapid and short-term
+surges in demand for its products. If Spansion is unable to obtain sufficient manufacturing capacity to meet anticipated demand, either in its own facilities or through foundry, subcontractor or similar arrangements with third parties, or if it is
+unable to obtain foundry services at competitive rates, Spansion’s business may be materially adversely affected. 
+
+Spansion’s increased reliance on third-party manufacturers entails risks that could materially adversely affect Spansion. 
+
+Spansion currently obtains foundry services from other companies, including
+Taiwan Semiconductor Manufacturing Company Limited, and following the sale of its JV1 and JV2 manufacturing facilities Spansion will also obtain foundry services from Fujitsu. Spansion also uses independent contractors to perform some of the
+assembly, testing and packaging of its products. Third-party manufacturers are often under no obligation to provide Spansion with any specified minimum quantity of product. Spansion depends on these manufacturers to allocate to Spansion a portion of
+their manufacturing capacity sufficient to meet Spansion’s needs, to produce products of acceptable quality and at acceptable manufacturing yields and to deliver those products to Spansion on a timely basis at acceptable prices. These
+manufacturers may not be able to meet Spansion’s near-term or long-term manufacturing requirements. These manufacturers also make products for other companies, including certain of Spansion’s competitors, and/or for themselves and could
+choose to prioritize capacity for themselves or other customers beyond any minimum guaranteed amounts, reduce deliveries to Spansion or, in the absence of price guarantees, increase the prices they charge Spansion on short notice, such that Spansion
+may not be able to pass cost increases on to Spansion’s customers. Because it could take several quarters or more to establish a relationship with a new manufacturing partner, Spansion may be unable to secure an alternative supply for specific
+products in a short timeframe or at all at an acceptable cost to satisfy Spansion’s production requirements. In addition, Spansion may be required to incur additional development, manufacturing and other costs to establish alternative sources
+of supply. Other risks associated with Spansion’s increased dependence on third-party manufacturers include: their ability to adapt to Spansion’s proprietary technology, reduced control over delivery schedules, quality assurance,
+manufacturing yields and cost, lack of capacity in periods of excess demand, misappropriation of Spansion’s intellectual property, reduced ability to manage inventory and parts and risks associated with operating in foreign countries. If
+Spansion is unable to secure sufficient or reliable suppliers of wafers or obtain the necessary assembling, testing and packaging services, Spansion’s ability to meet customer demand for its products may be adversely affected, which could have
+a material adverse effect on Spansion. 
+
+Spansion’s business has been
+characterized by average selling prices that decline over relatively short time periods, which can negatively affect Spansion’s results of operations unless it is able to reduce its costs or introduce new products with higher average selling
+prices. 
+
+Average selling prices for Spansion’s
+products historically have declined over relatively short time periods. Spansion is unable to predict pricing conditions for future periods. Even in the absence of downturns or oversupply in the industry, average selling prices of Spansion’s
+products have decreased during the products’ lives. When Spansion’s average selling prices decline, its net sales and net income decline unless it is able to compensate by selling more units, reducing its manufacturing costs or introducing
+new, higher margin products that have higher densities and/or incorporate advanced features. Spansion has experienced declining average selling prices in the past, and it has stated that it expects to continue to experience them in the future,
+although Spansion cannot predict when they may occur or how severe they will be. If Spansion’s average selling prices continue to decline, its operating results could be materially adversely affected. In addition, average selling prices for
+Spansion’s products may also be adversely affected by a significant decline in the price for NAND products. Such a decline may result in downward price pressure in the overall Flash memory market, which would adversely affect Spansion.
+
+42 
+
+Table of Contents
+
+Spansion is party to intellectual property litigation and may become party to other intellectual property claims or
+litigation that could cause it to incur substantial costs or pay substantial damages or prohibit it from selling its products. 
+
+Tessera, Inc. filed a lawsuit against Spansion alleging that it has infringed certain of Tessera’s patents. Tessera has sought to enjoin such alleged
+infringement and to recover an unspecified amount of damages. In addition, Fujitsu has informed Spansion that Texas Instruments has asserted that a number of its products infringe some of Texas Instruments’ patents. Fujitsu has also provided
+Spansion with formal notice that they believe Spansion has a duty to defend or indemnify Fujitsu against Texas Instruments’ claims under the terms of its distribution agreement. Since then, Spansion and Fujitsu have been discussing the issues
+raised by this notice and if Fujitsu were to terminate the distribution agreement with Spansion, it could have a material adverse effect on Spansion. Defending these alleged infringement claims and similar claims could be extremely expensive and
+time-consuming and an award of damages or an injunction could have a material adverse effect on Spansion. 
+
+Intense competition in the Flash memory market could materially adversely affect Spansion. 
+
+Spansion’s principal competitors in the Flash memory market are Intel Corporation, Samsung Electronics Co., Ltd., STMicroelectronics, Silicon Storage
+Technology, Inc., Macronix International Co., Ltd., Toshiba Corporation, Sharp Electronics Corp., Renesas Technology Corp., Micron Technology, Inc. and Hynix Semiconductor Inc. In the future, Spansion’s principal competitors may also include
+SanDisk Corporation and IM Flash Technology, LLC, the joint venture between Intel and Micron Technology, Inc. The Flash memory market is characterized by intense competition. The basis of competition is cost, selling price, performance, quality,
+customer relationships and ability to provide value-added solutions. In particular, in the past, Spansion’s competitors have aggressively priced their products in order to increase market share, which resulted in decreased average selling
+prices for Spansion’s products in the second half of fiscal 2004 and the first quarter of fiscal 2005 and adversely impacted its results of operations. Some of Spansion’s competitors, including Intel, Samsung, STMicroelectronics, Toshiba,
+Sharp and Renesas, are more diversified than Spansion is and may be able to sustain lower operating margins in their Flash memory business based on the profitability of their other, non-Flash memory businesses. In addition, recent capital
+investments by competitors have resulted in substantial industry manufacturing capacity, which may further contribute to a competitive pricing environment. 
+
+Moreover, some of Spansion’s competitors are able to manufacture on 300-millimeter wafers or may choose to utilize more advanced manufacturing
+process technologies than Spansion uses today to offer products competitive to Spansion’s at a lower cost. 
+
+Spansion has stated that it expects competition in the market for Flash memory devices to intensify as existing manufacturers introduce new products, new
+manufacturers enter the market, industry-wide production capacity increases and competitors aggressively price their Flash memory products to increase market share. Competition also may increase if NOR memory vendors merge, if NAND memory vendors
+acquire NOR businesses or other NAND businesses, or if Spansion’s competitors otherwise consolidate their operations. Furthermore, Spansion faces increasing competition from NAND Flash memory vendors in some portions of the integrated Flash
+memory market. 
+
+Spansion has also stated that it expects to
+face competition as it addresses new applications with the introduction of Spansion’s MirrorBit ORNAND- and MirrorBit Quad-based products. These products are intended to allow Spansion to compete in the data storage portion of the integrated
+category and select portions of the removable category of the Flash memory market that might otherwise be served by NAND-based Flash memory products or other non-volatile storage technologies such as ROM or optical discs. As a result, Spansion may
+compete with a number of established NAND-based Flash memory vendors and other incumbent suppliers of alternative technology in marketing and selling these products. Moreover, Spansion’s MirrorBit ORNAND- and MirrorBit Quad-based products may
+not have the price, performance, quality and other features necessary to compete successfully for these applications. 
+
+43 
+
+Table of Contents
+
+To compete successfully, Spansion must decrease its manufacturing costs and develop, introduce and sell
+products that meet the increasing demand for greater Flash memory content in mobile phones, consumer electronics and automotive applications, among other markets, at competitive prices. If Spansion is unable to compete effectively, it could be
+materially adversely affected. 
+
+If essential equipment or adequate supplies
+of satisfactory materials are not available to manufacture Spansion’s products, Spansion could be materially adversely affected. 
+
+Spansion’s manufacturing operations depend upon obtaining deliveries of equipment and adequate supplies of materials on a timely basis. Spansion
+purchases equipment and materials from a number of suppliers. From time to time, suppliers may extend lead times, limit supply to Spansion or increase prices due to capacity constraints or other factors. Because the equipment that Spansion purchases
+is complex, it is difficult for Spansion to substitute one supplier for another or one piece of equipment for another. Some raw materials Spansion uses in the manufacture of Spansion’s products are available from a limited number of suppliers.
+Spansion’s manufacturing operations also depend upon the quality and usability of the materials Spansion uses in its products, including raw materials and wafers Spansion receives from its suppliers. For example, in the third quarter of fiscal
+2006, Spansion had lower than expected yields on 12,000 raw wafers received from one of its suppliers and Spansion’s revenue and gross margins were adversely affected. If the materials Spansion receives from its suppliers do not meet
+Spansion’s manufacturing requirements or product specifications, Spansion may be materially adversely affected. 
+
+Spansion also relies on purchasing commercial memory die from third-party suppliers to incorporate these die into multi-chip package, or MCP, products.
+The availability of these third-party purchased commercial die is subject to market availability, and the process technology roadmaps and manufacturing capacities of Spansion’s vendors. For example, Spansion’s production was constrained in
+the first half of fiscal 2004 because of difficulties in procuring adequate supply of pseudo static RAM, or pSRAM. In addition, some of Spansion’s major suppliers, including Samsung, are also Spansion’s competitors. Interruption of supply
+from a competitor that is a supplier or otherwise or increased demand in the industry could cause shortages and price increases in various essential materials. If Spansion is unable to procure these materials, or if the materials it receives from
+Spansion’s suppliers do not meet Spansion’s production requirements or product specifications, Spansion may have to reduce its manufacturing operations or its manufacturing yields may be adversely affected. Such a reduction and yield
+issues have in the past and could in the future have a material adverse effect on Spansion. 
+
+If the market value of our shares of Spansion common stock remains below our book value of such shares for an extended period of time, then our results of operations may be adversely affected. 
+
+If the market value of our shares of Spansion common stock remains below our
+book value of such shares and the decline in the market value level is deemed “other than temporary,” then we may be required to take an impairment charge in the amount of the difference between the book value and the market value. For the
+quarter in which we take any such impairment charge, our results of operations could be adversely affected by the amount of such impairment charge. In addition, the carrying value of our investment in Spansion on our balance sheet would also be
+reduced. Therefore, sustained decreases in the market price of Spansion’s common stock could have an adverse effect on us and our results of operations.

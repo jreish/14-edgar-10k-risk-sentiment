@@ -337,7 +337,7 @@ Available Information
 
 Our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to these reports, are available free of charge on our website at www.rollins.com, under the heading “SEC Filings,” as soon as reasonably practicable after those reports are electronically filed with or furnished to the Securities and Exchange Commission (“SEC”).
 
-Item 1.A.    Risk Factors
+
 
 An investment in our common stock involves certain risks. Before making an investment decision, you should carefully consider the following risks and all of the other information included in this Annual Report on Form 10-K. Our business, reputation, financial condition, results of operations, or cash flows could be materially adversely affected by any of these risks. The trading price of our common stock could decline due to any of these risks, and you may lose all or part of your investment. This Annual Report on Form 10-K also contains forward-looking statements that involve risks and uncertainties. Our actual results could differ materially from those anticipated in these forward-looking statements as a result of certain factors, including the risks faced by us described below and elsewhere in this Annual Report on Form 10-K. You are cautioned that the risk factors discussed below are not exhaustive. 
 
@@ -553,31 +553,3 @@ additional securities of the Company or the disposition of securities of the Com
 Certain provisions in Rollins, Inc.’s certificate of incorporation and bylaws may inhibit a takeover of the Company.
 
 Rollins, Inc.’s certificate of incorporation, bylaws and other documents contain provisions including advance notice requirements for stockholder proposals. These provisions may make a tender offer, change in control or takeover attempt that is opposed by the Company’s Board of Directors more difficult or expensive.
-
-Item 1.B.    Unresolved Staff Comments
-
-None.
-
-Item 1.C Cybersecurity
-
-The Company has security incident response policies and procedures for identifying, assessing, and managing material risks arising from cybersecurity incidents, including those arising from third-party service providers. The Company welcomed a new Chief Information Security Officer (“CISO”) on December 15, 2025. The new CISO has over 20 years of experience in information security and has previously served as CISO for a public company. He will be the executive primarily responsible for managing cybersecurity risks. 
-The CISO assesses cybersecurity incidents and classifies them by severity level in accordance with the Company’s Security Incident Guidelines, which determine how each cybersecurity incident is managed and communicated. The Company uses both internal and external resources to assess risk and manage its IT and 24x7 cybersecurity operations, including managed service providers who assist in the support of key business systems. The Company may also periodically engage external consultants to assist with cybersecurity incident management, particularly where advanced or specialized expertise may be required. The Company’s Incident Response and Breach Notification Policy outlines the procedures that the Company follows for evaluation and recovery from an incident, including containment of the affected systems, and restoring systems to normal operations
-. 
-To date, the Company has not had a cybersecurity event that materially impacted or affected its business strategy, results of operations, financial condition, or the security of its proprietary data.
-
-The Company has assigned responsibility for Board oversight of cybersecurity risk to the Audit Committee, which monitors the cybersecurity risk management and cyber control functions, including external security audits, and receives periodic updates from experienced senior management, including the CISO, who are knowledgeable about assessing and managing cyber risks, including, as appropriate, providing updates on the prevention, detection, mitigation, and remediation of cyber incidents.
-
-Cybersecurity incidents that significantly impact the confidentiality, integrity, or availability of Company data or the reliability of the Company system or network are reported to certain members of the Company’s Executive Leadership Team, including the Chief Executive Officer, Chief Financial Officer, Chief Legal Officer, Chief Administrative Officer, and Chief Information Officer, for assessment of the materiality of the incident, which will be made using both quantitative and qualitative analyses to determine an incident’s immediate and reasonably likely future impacts. Such cybersecurity incidents are also reported to the Audit Committee. Cybersecurity incidents that moderately impact the confidentiality, integrity, or availability of Company data or the reliability of the Company systems or networks are reported to the Security Incident Response Team, for assessment of the materiality of the incident.
-
-Our privacy compliance and digital risk management initiatives focus on the threats and risks to enterprise information and the underlying IT systems processing such information as part of the implementation of business processes. We have also 
-
-19
-
-Table of 
-Contents
-
-implemented policies and procedures for the assessment, identification, and management of material risks from cybersecurity threats, including internal training, system controls, and monitoring and audit processes to protect the Company from internal and external vulnerabilities and to comply with consumer privacy laws in the areas in which we operate. Further, we limit retention of certain data, encrypt certain data and otherwise protect information to comply with consumer privacy laws in the areas in which we operate. The Company also has a cross-functional group of representatives from several departments that comprise the Privacy Committee, which meets and discusses information at least quarterly related to cybersecurity and privacy compliance at the Company, including training, policies, and trends. We also rely on, among other things, commercially available third parties including vendors, cybersecurity protection systems, software, tools and monitoring to provide security for processing, transmission and storage of protected information and data. The systems currently used for transmission and approval of payment card transactions, and the technology utilized in payment cards themselves, all of which can put payment card data at risk, meet standards set by the payment card industry.
-
-The Company has a global cybersecurity training program that requires all employees with access to the Company networks to participate in regular and mandatory training on how to be aware of, and help defend against, cybersecurity risks. Also, the Company regularly tests the efficacy of its training efforts as well as its systems to assess vulnerabilities to cybersecurity risks, including tabletop incident response exercises. 
-
-Annually the Company conducts an Enterprise Risk Assessment during which management identifies and quantifies risks, including cybersecurity risks, which could enhance or impede the Company’s ability to achieve current or future strategic objectives. The conclusions of the annual Enterprise Risk Assessment are shared with the Audit Committee and the full Board. The CISO also reviews with the Audit Committee the strategy, priorities, and goals of the cybersecurity program.
