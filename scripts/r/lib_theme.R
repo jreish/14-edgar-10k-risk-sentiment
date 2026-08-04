@@ -55,7 +55,7 @@ top_n_plus_other <- function(df, group_col, value_col, n = 7, other_label = "Oth
 # inches-per-data-unit, not a literal 1:1 data-unit ratio -- the x axis
 # (years) and y axis (filing counts) have very different scales, so a true
 # 1:1 slope would look nearly flat).
-make_hatch <- function(xmin, xmax, ymin, ymax, spacing = 0.09, slope = 30) {
+make_hatch <- function(xmin, xmax, ymin, ymax, spacing = 0.16, slope = 30) {
   height <- ymax - ymin
   offsets <- seq(xmin - height / slope, xmax, by = spacing)
   segs <- lapply(offsets, function(x0) {
