@@ -17,6 +17,7 @@
 
 source(here::here("scripts", "r", "lib_theme.R"))
 library(forcats)
+library(patchwork)
 
 con <- db_connect()
 raw <- dbGetQuery(con, "SELECT year, sector, n_filings FROM tariffs_by_year_sector")
@@ -137,12 +138,8 @@ p <- ggplot(trends, aes(x = year, y = n_filings, fill = sector)) +
   scale_x_continuous(breaks = seq(2006, 2026, by = 2), expand = expansion(mult = c(0.02, 0.02))) +
   scale_y_continuous(expand = expansion(mult = c(0, 0.05))) +
   coord_cartesian(clip = "off") +
-  theme(
-    plot.margin = margin(t = 5.5, r = 150, b = 5.5, l = 5.5),
-    plot.title = element_text(size = rel(2.6), margin = margin(b = 10))
-  ) +
+  theme(plot.margin = margin(t = 5.5, r = 150, b = 5.5, l = 5.5)) +
   labs(
-    title = "Risky Business",
     x = NULL, y = "Filings mentioning tariffs",
     caption = paste(
       SOURCE_CAPTION_BASE,
@@ -155,7 +152,24 @@ p <- ggplot(trends, aes(x = year, y = n_filings, fill = sector)) +
     )
   )
 
+# Title lives in its own subplot, stacked on top of the chart via patchwork
+# with a fixed height ratio (title_height : 1). Because the two panels are
+# sized by that ratio -- not by how much space the title text needs -- you
+# can crank TITLE_SIZE up or down and it will never resize the chart panel
+# below it. If a very large size starts to look cramped, raise the ratio's
+# first number (currently 1, out of 1 + 7) instead of shrinking the font.
+TITLE_SIZE <- 44
+
+title_plot <- ggplot() +
+  annotate("text", x = 0, y = 0, label = "Risky Business", hjust = 0, vjust = 0.5, fontface = "bold", size = TITLE_SIZE / .pt) +
+  xlim(0, 1) + ylim(-1, 1) +
+  theme_void() +
+  coord_cartesian(clip = "off") +
+  theme(plot.margin = margin(t = 5.5, r = 150, b = 0, l = 5.5))
+
+combined <- title_plot / p + plot_layout(heights = c(1, 7))
+
 out_path <- here::here("output", "figures", "tariffs_by_sector_missing.png")
 dir.create(dirname(out_path), showWarnings = FALSE, recursive = TRUE)
-ggsave(out_path, p, width = 11, height = 7.6, dpi = 300, bg = "white")
+ggsave(out_path, combined, width = 11, height = 7.6, dpi = 300, bg = "white")
 message("Wrote ", out_path)
