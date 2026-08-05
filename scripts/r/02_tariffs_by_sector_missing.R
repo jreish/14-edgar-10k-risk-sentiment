@@ -152,22 +152,47 @@ p <- ggplot(trends, aes(x = year, y = n_filings, fill = sector)) +
     )
   )
 
-# Title lives in its own subplot, stacked on top of the chart via patchwork
-# with a fixed height ratio (title_height : 1). Because the two panels are
-# sized by that ratio -- not by how much space the title text needs -- you
-# can crank TITLE_SIZE up or down and it will never resize the chart panel
-# below it. If a very large size starts to look cramped, raise the ratio's
-# first number (currently 1, out of 1 + 7) instead of shrinking the font.
-TITLE_SIZE <- 44
+# --- Floating title -------------------------------------------------------
+# The title is a free-floating text overlay. It has ZERO impact on the chart:
+# the plot `p` above is complete and its margins are untouched, and the title
+# is laid on top of the finished figure via inset_element(). Nothing about the
+# title feeds back into the chart's layout, so you can resize it, reposition
+# it, or change its top padding and the chart will not budge one pixel.
+#
+# Knobs, and only these, control the title:
+#   TITLE_SIZE    = font size in points. Bigger = bigger text, nothing else moves.
+#   TITLE_X       = horizontal position, 0 = far left of figure, 1 = far right.
+#   TITLE_TOP_PAD = whitespace ABOVE the title, as a fraction of figure height.
+#                   0 = title top flush with the figure's top edge; 0.03 leaves
+#                   a 3% strip of padding above the text. This is pure overlay
+#                   padding -- it pushes the title DOWN into the figure, it does
+#                   not add space to the chart or move the panel.
+# The text is anchored by its top-left corner (hjust = 0, vjust = 1), and
+# clip = FALSE lets it spill freely past its box, so size is never constrained
+# by position. TITLE_Y below is derived from the padding so the top of the
+# text always sits exactly TITLE_TOP_PAD below the figure's top edge -- as you
+# grow TITLE_SIZE the title extends downward while its top padding stays put.
+TITLE_SIZE    <- 44
+TITLE_X       <- 0.07
+
+TITLE_Y <- 1
 
 title_plot <- ggplot() +
-  annotate("text", x = 0, y = 0, label = "Risky Business", hjust = 0, vjust = 0.5, fontface = "bold", size = TITLE_SIZE / .pt) +
-  xlim(0, 1) + ylim(-1, 1) +
+  annotate(
+    "text", x = 0, y = 1, label = "Risky Business",
+    hjust = 0, vjust = 1, fontface = "bold", size = TITLE_SIZE / .pt
+  ) +
+  scale_x_continuous(limits = c(0, 1), expand = c(0, 0)) +
+  scale_y_continuous(limits = c(0, 1), expand = c(0, 0)) +
   theme_void() +
-  coord_cartesian(clip = "off") +
-  theme(plot.margin = margin(t = 5.5, r = 150, b = 0, l = 5.5))
+  coord_cartesian(clip = "off")
 
-combined <- title_plot / p + plot_layout(heights = c(1, 7))
+combined <- p +
+  inset_element(
+    title_plot,
+    left = TITLE_X, bottom = TITLE_Y, right = 1, top = TITLE_Y,
+    align_to = "full", on_top = TRUE, clip = FALSE
+  )
 
 out_path <- here::here("output", "figures", "tariffs_by_sector_missing.png")
 dir.create(dirname(out_path), showWarnings = FALSE, recursive = TRUE)
