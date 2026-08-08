@@ -1,23 +1,8 @@
 #!/usr/bin/env Rscript
-# Tariff mentions per year, stacked by sector, with a hatched box showing
-# ONLY filings that haven't come due yet (sub_reason = 'not_yet_due') --
-# not every missing company-year for that sector/year.
-#
-# This is a deliberate correction of the prior build's version of this
-# chart, which hatched every 'no_filing_found' row regardless of reason.
-# The hatch box is meant to answer "how much could this year's count still
-# grow as pending filings arrive" -- mixing in cik-resolution-stage gaps,
-# extraction failures, or genuinely-delinquent filings overstates that
-# story and (checked against the prior version) the resolution-stage gaps
-# alone run several times the height of the real bars, which would make
-# the box unreadable and misleading. See decisions.md.
-#
-# Every other missing reason is still fully queryable in missing_records --
-# this chart just doesn't visualize them in the hatch box.
-
 source(here::here("scripts", "r", "lib_theme.R"))
 library(forcats)
 library(patchwork)
+library(ggtext)
 
 con <- db_connect()
 raw <- dbGetQuery(con, "SELECT year, sector, n_filings FROM tariffs_by_year_sector")
@@ -65,36 +50,16 @@ hatch_label <- missing_boxes |>
 leader_gap <- 0.12
 base_label_dx <- 1.2 - leader_gap
 
-# Manual x/y position for each label's text, in data units (years / filing
-# counts) added on top of its default position. The leader line is a single
-# horizontal segment drawn at the label's height (label_y), running from just
-# right of the bar into the text. Because the line sits at label_y, nudging a
-# label's y moves the line and the text together -- they stay locked at the
-# same height, and the line is always perfectly horizontal. There's no
-# auto-collision avoidance fighting your edits. Positive x = right, positive
-# y = up. Edit these directly to move labels (and their lines) around by hand.
 label_x_nudge <- c(
-  "Industrials" = 0,
-  "Information Technology" = 0,
-  "Consumer Discretionary" = 0,
-  "Consumer Staples" = 0,
-  "Health Care" = 0,
-  "Materials" = 0,
-  "Utilities" = 0,
-  "Other" = 0,
-  "Not yet due" = 0
+  "Industrials" = 0, "Information Technology" = 0, "Consumer Discretionary" = 0,
+  "Consumer Staples" = 0, "Health Care" = 0, "Materials" = 0, "Utilities" = 0,
+  "Other" = 0, "Not yet due" = 0
 )
 
 label_y_nudge <- c(
-  "Industrials" = 0,
-  "Information Technology" = -10,
-  "Consumer Discretionary" = 0,
-  "Consumer Staples" = 0,
-  "Health Care" = -10,
-  "Materials" = 0,
-  "Utilities" = 0,
-  "Other" = 0,
-  "Not yet due" = 15
+  "Industrials" = 0, "Information Technology" = -15, "Consumer Discretionary" = 0,
+  "Consumer Staples" = -5, "Health Care" = -15, "Materials" = 0, "Utilities" = 0,
+  "Other" = 0, "Not yet due" = 25
 )
 
 label_data <- bind_rows(
@@ -109,6 +74,21 @@ label_data <- bind_rows(
   )
 
 sector_colors_ext <- c(sector_colors, "Not yet due" = unname(okabe_ito["vermillion"]))
+
+y_top <- max(c(bar_totals$bar_top, missing_boxes$ymax))
+title_x <- min(trends$year)
+title_y <- y_top * 1.02
+subtitle_gap <- y_top * 0.05
+
+# --- Small data frames for the title/subtitle richtext layers ---
+title_df <- data.frame(
+  x = title_x, y = title_y,
+  label = "<b>Risky Business</b>"
+)
+subtitle_df <- data.frame(
+  x = title_x, y = title_y - subtitle_gap - 50,
+  label = "<i>10-K filings whose Item 1A mentions tariffs, stacked by sector</i>"
+)
 
 p <- ggplot(trends, aes(x = year, y = n_filings, fill = sector)) +
   geom_col(position = position_stack(reverse = TRUE), width = 0.8, color = "black", linewidth = 0.3) +
@@ -128,15 +108,29 @@ p <- ggplot(trends, aes(x = year, y = n_filings, fill = sector)) +
     data = label_data, aes(x = label_x, y = label_y, label = sector, color = sector),
     inherit.aes = FALSE, hjust = 0, fontface = "bold", size = 4.5
   ) +
-  annotate(
-    "text", x = 2007, y = 385,
-    label = "Tariff mentions in Item 1A of 10-K filings\nhave risen steadily since 2006",
-    hjust = 0, vjust = 1, color = "grey30", size = 4, fontface = "italic", lineheight = 1.15
-  ) +
+  # ---- Title: crisp black text over an opaque white box ----
+geom_richtext(
+  data = title_df, aes(x = x, y = y, label = label),
+  inherit.aes = FALSE, hjust = 0, vjust = 1,
+  size = 20, colour = "black",
+  fill = "white",     # opaque backing to cover the bars/lines
+  label.color = NA    # no border box
+) +
+  # ---- Subtitle: crisp grey text over an opaque white box ----
+geom_richtext(
+  data = subtitle_df, aes(x = x, y = y, label = label),
+  inherit.aes = FALSE, hjust = 0, vjust = 1,
+  size = 5, colour = "grey50",
+  fill = "white",
+  label.color = NA
+) +
   scale_fill_manual(values = sector_colors) +
   scale_color_manual(values = sector_colors_ext) +
   scale_x_continuous(breaks = seq(2006, 2026, by = 2), expand = expansion(mult = c(0.02, 0.02))) +
-  scale_y_continuous(expand = expansion(mult = c(0, 0.05))) +
+  scale_y_continuous(
+    expand = expansion(mult = c(0, 0.05)),
+    sec.axis = dup_axis(name = NULL)
+  ) +
   coord_cartesian(clip = "off") +
   theme(plot.margin = margin(t = 5.5, r = 150, b = 5.5, l = 5.5)) +
   labs(
@@ -152,49 +146,7 @@ p <- ggplot(trends, aes(x = year, y = n_filings, fill = sector)) +
     )
   )
 
-# --- Floating title -------------------------------------------------------
-# The title is a free-floating text overlay. It has ZERO impact on the chart:
-# the plot `p` above is complete and its margins are untouched, and the title
-# is laid on top of the finished figure via inset_element(). Nothing about the
-# title feeds back into the chart's layout, so you can resize it, reposition
-# it, or change its top padding and the chart will not budge one pixel.
-#
-# Knobs, and only these, control the title:
-#   TITLE_SIZE    = font size in points. Bigger = bigger text, nothing else moves.
-#   TITLE_X       = horizontal position, 0 = far left of figure, 1 = far right.
-#   TITLE_TOP_PAD = whitespace ABOVE the title, as a fraction of figure height.
-#                   0 = title top flush with the figure's top edge; 0.03 leaves
-#                   a 3% strip of padding above the text. This is pure overlay
-#                   padding -- it pushes the title DOWN into the figure, it does
-#                   not add space to the chart or move the panel.
-# The text is anchored by its top-left corner (hjust = 0, vjust = 1), and
-# clip = FALSE lets it spill freely past its box, so size is never constrained
-# by position. TITLE_Y below is derived from the padding so the top of the
-# text always sits exactly TITLE_TOP_PAD below the figure's top edge -- as you
-# grow TITLE_SIZE the title extends downward while its top padding stays put.
-TITLE_SIZE    <- 44
-TITLE_X       <- 0.07
-
-TITLE_Y <- 1
-
-title_plot <- ggplot() +
-  annotate(
-    "text", x = 0, y = 1, label = "Risky Business",
-    hjust = 0, vjust = 1, fontface = "bold", size = TITLE_SIZE / .pt
-  ) +
-  scale_x_continuous(limits = c(0, 1), expand = c(0, 0)) +
-  scale_y_continuous(limits = c(0, 1), expand = c(0, 0)) +
-  theme_void() +
-  coord_cartesian(clip = "off")
-
-combined <- p +
-  inset_element(
-    title_plot,
-    left = TITLE_X, bottom = TITLE_Y, right = 1, top = TITLE_Y,
-    align_to = "full", on_top = TRUE, clip = FALSE
-  )
-
 out_path <- here::here("output", "figures", "tariffs_by_sector_missing.png")
 dir.create(dirname(out_path), showWarnings = FALSE, recursive = TRUE)
-ggsave(out_path, combined, width = 11, height = 7.6, dpi = 300, bg = "white")
+ggsave(out_path, p, width = 11, height = 7.6, dpi = 300, bg = "white")
 message("Wrote ", out_path)
