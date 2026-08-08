@@ -87,7 +87,7 @@ title_df <- data.frame(
 )
 subtitle_df <- data.frame(
   x = title_x, y = title_y - subtitle_gap - 50,
-  label = "<i>10-K filings whose Item 1A mentions tariffs, stacked by sector</i>"
+  label = "<i>Tariff mentions in 10-K item 1A have grown<br>steadily since 2006, with large jumps<br>during Trump 1.0 and Trump 2.0</i>"
 )
 
 p <- ggplot(trends, aes(x = year, y = n_filings, fill = sector)) +
@@ -112,7 +112,7 @@ p <- ggplot(trends, aes(x = year, y = n_filings, fill = sector)) +
 geom_richtext(
   data = title_df, aes(x = x, y = y, label = label),
   inherit.aes = FALSE, hjust = 0, vjust = 1,
-  size = 20, colour = "black",
+  size = 15, colour = "black",
   fill = "white",     # opaque backing to cover the bars/lines
   label.color = NA    # no border box
 ) +
@@ -128,8 +128,7 @@ geom_richtext(
   scale_color_manual(values = sector_colors_ext) +
   scale_x_continuous(breaks = seq(2006, 2026, by = 2), expand = expansion(mult = c(0.02, 0.02))) +
   scale_y_continuous(
-    expand = expansion(mult = c(0, 0.05)),
-    sec.axis = dup_axis(name = NULL)
+    expand = expansion(mult = c(0, 0.05))
   ) +
   coord_cartesian(clip = "off") +
   theme(plot.margin = margin(t = 5.5, r = 150, b = 5.5, l = 5.5)) +
