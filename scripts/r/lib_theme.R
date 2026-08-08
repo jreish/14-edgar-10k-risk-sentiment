@@ -24,7 +24,7 @@ okabe_ito <- c(
   black          = "#000000"
 )
 
-theme_set(theme_minimal(base_size = 13))
+theme_set(theme_minimal(base_size = 13, base_family = "Source Sans 3"))
 theme_update(
   panel.grid.minor = element_blank(),
   panel.grid.major.x = element_blank(),

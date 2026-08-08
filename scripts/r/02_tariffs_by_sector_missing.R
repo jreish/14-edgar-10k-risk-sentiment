@@ -106,13 +106,13 @@ p <- ggplot(trends, aes(x = year, y = n_filings, fill = sector)) +
   ) +
   geom_text(
     data = label_data, aes(x = label_x, y = label_y, label = sector, color = sector),
-    inherit.aes = FALSE, hjust = 0, fontface = "bold", size = 4.5
+    inherit.aes = FALSE, hjust = 0, fontface = "bold", size = 4.5, family = "Source Sans 3"
   ) +
   # ---- Title: crisp black text over an opaque white box ----
 geom_richtext(
   data = title_df, aes(x = x, y = y, label = label),
   inherit.aes = FALSE, hjust = 0, vjust = 1,
-  size = 15, colour = "black",
+  size = 15, colour = "black", family = "Source Sans 3",
   fill = "white",     # opaque backing to cover the bars/lines
   label.color = NA    # no border box
 ) +
@@ -120,7 +120,7 @@ geom_richtext(
 geom_richtext(
   data = subtitle_df, aes(x = x, y = y, label = label),
   inherit.aes = FALSE, hjust = 0, vjust = 1,
-  size = 5, colour = "grey50",
+  size = 5, colour = "grey50", family = "Source Sans 3",
   fill = "white",
   label.color = NA
 ) +
