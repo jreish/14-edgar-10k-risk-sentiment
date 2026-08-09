@@ -77,18 +77,20 @@ sector_colors_ext <- c(sector_colors, "Not yet due" = unname(okabe_ito["vermilli
 
 y_top <- max(c(bar_totals$bar_top, missing_boxes$ymax))
 title_x <- min(trends$year)
-title_y <- y_top * 1.02
+title_y <- y_top * 1.02 
 subtitle_gap <- y_top * 0.05
 
 # --- Small data frames for the title/subtitle richtext layers ---
 title_df <- data.frame(
-  x = title_x, y = title_y,
+  x = title_x, y = title_y+10,
   label = "<b>Risky Business</b>"
 )
 subtitle_df <- data.frame(
-  x = title_x, y = title_y - subtitle_gap - 50,
-  label = "<i>Tariff mentions in 10-K item 1A have grown<br>steadily since 2006, with large jumps<br>during Trump 1.0 and Trump 2.0</i>"
+  x = title_x,
+  y = title_y - subtitle_gap - 30,
+  label = "***10-K filings mentioning tariffs in Item 1A <br> (risk factors) have grown steadily since 2006, <br> with large jumps during Trump 1.0 and 2.0***"
 )
+
 
 p <- ggplot(trends, aes(x = year, y = n_filings, fill = sector)) +
   geom_col(position = position_stack(reverse = TRUE), width = 0.8, color = "black", linewidth = 0.3) +
@@ -130,7 +132,54 @@ geom_richtext(
   scale_y_continuous(
     expand = expansion(mult = c(0, 0.05))
   ) +
+  
+  # ---- Elbow connector: one vertical line + one horizontal line ----
+# vertical leg: straight up from the lower anchor
+annotate("segment",
+         x = 2016, xend = 2016, y = 145, yend = 300,
+         linewidth = 0.6) +
+  # horizontal leg: across to the upper anchor (the label rests on this line)
+  annotate("segment",
+           x = 2016, xend = 2020, y = 300, yend = 300,
+           linewidth = 0.6) +
+  # dot at the lower anchor
+  annotate("point", x = 2016, y = 145,
+           shape = 16, size = 1, stroke = 1, color = "black") +
+  # dot at the upper anchor
+  annotate("point", x = 2020, y = 300,
+           shape = 16, size = 1, stroke = 1, color = "black") +
+  # "Trump 1.0" sitting on top of the horizontal line
+  annotate("label", x = 2018, y = 303, label = "Trump 1.0",
+           vjust = 0, fill = "white", label.size = 0,
+           fontface = "bold", size = 4.5, family = "Source Sans 3",
+           color = "black") +
+  
+  # ---- Dotted Elbow connector: one vertical line + one horizontal line ----
+
+  # vertical leg: straight up from the lower anchor
+  annotate("segment",
+           x = 2024, xend = 2024, y = 330, yend = 410,
+           linewidth = 0.6, 
+           linetype = "dotted") +
+  # # horizontal leg: across to the upper anchor (the label rests on this line)
+  # annotate("segment",
+  #          x = 2016, xend = 2020, y = 300, yend = 300,
+  #          linewidth = 0.6) +
+  # dot at the lower anchor
+  annotate("point", x = 2024, y = 330,
+           shape = 16, size = 1, stroke = 1, color = "black") +
+  # # dot at the upper anchor
+  # annotate("point", x = 2020, y = 300,
+  #          shape = 16, size = 1, stroke = 1, color = "black") +
+  
+  # "Trump 2.0" sitting on top of the vertical dotted line
+  annotate("label", x = 2024, y = 413, label = "Trump 2.0",
+           vjust = 0, fill = "white", label.size = 0,
+           fontface = "bold", size = 4.5, family = "Source Sans 3",
+           color = "black") +
+  
   coord_cartesian(clip = "off") +
+
   theme(plot.margin = margin(t = 5.5, r = 150, b = 5.5, l = 5.5)) +
   labs(
     x = NULL, y = "Filings mentioning tariffs",
