@@ -42,12 +42,48 @@ import re
 import sys
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
-from lib.cover_page import verify_ticker
+from lib.cover_page import declared_symbols
 from lib.db import connect, record_meta
-from lib.edgar import all_10k_filings, filing_doc_url, get
+from lib.edgar import SearchUnavailable, all_10k_filings, filing_doc_url, full_text_search, get
 
 CANDIDATE_RE = re.compile(r"found candidate CIK (\d+)")
 MATCH_WINDOW = datetime.timedelta(days=400)
+
+# Same narrow window 01 uses for its fallback search: wide windows surface
+# unrelated documents as top hits purely because there is more noise to
+# outscore the real filing.
+SEARCH_BEFORE = datetime.timedelta(days=200)
+SEARCH_AFTER = datetime.timedelta(days=400)
+# How many ranked hits per query to treat as candidates. 01 only ever looked
+# at the single top hit, which is what capped it at ~70%: the right company
+# is frequently present but ranked second or third behind a filing that
+# merely mentions the ticker more often. Verification does not care about
+# rank, so widening the candidate set costs nothing in accuracy -- an
+# unverifiable extra candidate is simply rejected -- and buys real recall.
+TOP_N = 3
+
+ROOT = pathlib.Path(__file__).resolve().parents[2]
+# Declared symbols keyed by accession number, persisted so re-runs (and the
+# seed-an-override / re-run loop) don't re-download filings. Keyed by
+# accession alone, NOT by ticker, so one fetch serves every ticker and year
+# that happens to land on the same filing.
+SYMBOL_CACHE_PATH = ROOT / "data" / "raw" / "coverpage_symbols.json"
+
+
+def load_symbol_cache() -> dict[str, list[str]]:
+    if SYMBOL_CACHE_PATH.exists():
+        try:
+            return json.loads(SYMBOL_CACHE_PATH.read_text())
+        except (json.JSONDecodeError, OSError):
+            pass
+    return {}
+
+
+def save_symbol_cache(cache: dict) -> None:
+    SYMBOL_CACHE_PATH.parent.mkdir(parents=True, exist_ok=True)
+    tmp = SYMBOL_CACHE_PATH.with_suffix(".tmp")
+    tmp.write_text(json.dumps(cache))
+    tmp.replace(SYMBOL_CACHE_PATH)
 
 
 def pick_10k_near(filings: list[dict], snapshot: datetime.date) -> dict | None:
@@ -58,6 +94,27 @@ def pick_10k_near(filings: list[dict], snapshot: datetime.date) -> dict | None:
         if gap <= MATCH_WINDOW.days and (best_gap is None or gap < best_gap):
             best, best_gap = f, gap
     return best
+
+
+def candidate_ciks(ticker: str, snapshot: datetime.date, today: datetime.date,
+                   stashed: int | None) -> list[int]:
+    """Every plausible CIK for this (ticker, year), best-ranked first."""
+    found: list[int] = []
+    if stashed is not None:
+        found.append(stashed)
+    window_start = snapshot - SEARCH_BEFORE
+    window_end = min(snapshot + SEARCH_AFTER, today)
+    for query in (f'"{ticker}"', f'symbol "{ticker}"'):
+        try:
+            hits = full_text_search(query, "10-K", window_start.isoformat(), window_end.isoformat())
+        except SearchUnavailable:
+            continue
+        for hit in hits[:TOP_N]:
+            for raw in hit.get("_source", {}).get("ciks", []):
+                cik = int(raw)
+                if cik not in found:
+                    found.append(cik)
+    return found
 
 
 def main():
@@ -81,44 +138,83 @@ def main():
     print(f"  {n_with_candidate} of them carry a stashed candidate CIK.\n")
 
     # ---- Pass 1: direct cover-page verification -------------------------
+    today = datetime.date.today()
+    symbol_cache = load_symbol_cache()
+    print(f"  symbol cache warm with {len(symbol_cache)} filings.\n")
     counts = collections.Counter()
+
+    def symbols_for(cik: int, filing: dict) -> set[str] | None:
+        """Declared symbols for one filing, memoized on disk by accession.
+        None means the document could not be fetched."""
+        accn = filing["accession_number"]
+        if accn in symbol_cache:
+            return set(symbol_cache[accn])
+        resp = get(filing_doc_url(cik, accn, filing["primary_document"]))
+        if resp.status_code != 200:
+            return None
+        symbols = declared_symbols(resp.content)
+        symbol_cache[accn] = sorted(symbols)
+        return symbols
+
+    norm = lambda s: s.replace(".", "").replace("-", "").upper()
+
     for i, (year, ticker, snapshot, stint_start, detail) in enumerate(rows):
-        if i % 200 == 0:
+        if i % 100 == 0:
             print(f"  pass1 {i}/{len(rows)} ({dict(counts)})")
+            save_symbol_cache(symbol_cache)
+
         match = CANDIDATE_RE.search(detail or "")
-        if not match:
+        stashed = int(match.group(1)) if match else None
+        candidates = candidate_ciks(ticker, snapshot, today, stashed)
+        if not candidates:
             counts["no_candidate"] += 1
             continue
-        cand = int(match.group(1))
 
-        if cand not in filings_cache:
-            filings_cache[cand] = all_10k_filings(cand)
-        filing = pick_10k_near(filings_cache[cand], snapshot)
-        if filing is None:
-            counts["candidate_has_no_10k_that_year"] += 1
-            verdicts[(year, ticker)] = "candidate_has_no_10k_that_year"
-            continue
-
-        key = (cand, filing["accession_number"], ticker)
-        if key not in verdict_cache:
-            resp = get(filing_doc_url(cand, filing["accession_number"], filing["primary_document"]))
-            if resp.status_code != 200:
-                verdict_cache[key] = ("fetch_failed", set())
+        # Verify EVERY candidate, not just the best-ranked one. Ranking is the
+        # unreliable step; this asks each candidate the question it can answer
+        # definitively -- "do you claim this ticker?" -- and lets the evidence
+        # pick the winner instead of the search engine's score.
+        confirmed, contradicted_any = [], False
+        for cand in candidates:
+            if cand not in filings_cache:
+                filings_cache[cand] = all_10k_filings(cand)
+            filing = pick_10k_near(filings_cache[cand], snapshot)
+            if filing is None:
+                continue
+            symbols = symbols_for(cand, filing)
+            if symbols is None:
+                continue
+            if not symbols:
+                continue  # filing declares no symbol at all -- no evidence either way
+            if norm(ticker) in {norm(s) for s in symbols}:
+                confirmed.append((cand, filing))
             else:
-                verdict_cache[key] = verify_ticker(resp.content, ticker)
-        verdict, declared = verdict_cache[key]
-        counts[verdict] += 1
-        verdicts[(year, ticker)] = verdict
+                contradicted_any = True
 
-        if verdict == "verified":
+        if len(confirmed) == 1:
+            cand, filing = confirmed[0]
+            counts["verified"] += 1
+            verdicts[(year, ticker)] = "verified"
             verified_by_stint[(ticker, stint_start)].add(cand)
             updates[(year, ticker)] = (cand, "fulltext_coverpage_verified", (
-                f"full text search candidate CIK {cand} CONFIRMED: its {filing['filing_date']} 10-K "
-                f"declares trading symbol {ticker} on the cover page / in its own text"
+                f"CIK {cand} CONFIRMED out of {len(candidates)} search candidates: its "
+                f"{filing['filing_date']} 10-K declares trading symbol {ticker}"
             ))
-        elif verdict == "contradicted":
+        elif len(confirmed) > 1:
+            # Two filings both claiming the ticker in the same year. Real, and
+            # exactly the case that must not be guessed at (a mid-year
+            # succession, or a genuine dual listing).
+            counts["ambiguous_multiple_verified"] += 1
+            verdicts[(year, ticker)] = (
+                f"ambiguous_multiple_verified ({','.join(str(c) for c, _ in confirmed)})")
+        elif contradicted_any:
+            counts["contradicted"] += 1
             verdicts[(year, ticker)] = "contradicted"
+        else:
+            counts["no_evidence"] += 1
+            verdicts[(year, ticker)] = "no_evidence"
 
+    save_symbol_cache(symbol_cache)
     print(f"\nPass 1 verdicts: {dict(counts)}")
     print(f"Pass 1 resolved {len(updates)} rows.")
 
