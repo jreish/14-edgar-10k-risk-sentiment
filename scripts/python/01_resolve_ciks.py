@@ -46,7 +46,8 @@ import sys
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
 from lib.db import connect, record_meta
-from lib.edgar import fetch_company_tickers, fetch_submissions, full_text_search, get_json
+from lib.edgar import (SearchUnavailable, fetch_company_tickers, fetch_submissions,
+                       full_text_search, get_json)
 
 # How far from a year's snapshot date a 10-K may sit and still count as
 # "this ticker's filing for this year". 400 days (not 365) because filing
@@ -305,6 +306,7 @@ def main():
     FALLBACK_WINDOW_AFTER = datetime.timedelta(days=400)
 
     results = []
+    n_search_failures = [0]
     for i, (year, snapshot_date, ticker) in enumerate(universe_rows):
         if i % 500 == 0:
             print(f"  ...{i}/{len(universe_rows)}")
@@ -364,7 +366,24 @@ def main():
             if fb_key not in fallback_cache:
                 window_start = snapshot_date - FALLBACK_WINDOW_BEFORE
                 window_end = min(snapshot_date + FALLBACK_WINDOW_AFTER, today)
-                fb_cik, fb_method = fulltext_candidate(ticker, window_start, window_end)
+                try:
+                    fb_cik, fb_method = fulltext_candidate(ticker, window_start, window_end)
+                except SearchUnavailable as exc:
+                    # Recorded as its own method, NOT as "no candidate found":
+                    # the search never ran, so this row has not actually been
+                    # investigated and must stay distinguishable from one that
+                    # was searched and came back empty. Re-running the script
+                    # retries these (the API cache makes that cheap).
+                    n_search_failures[0] += 1
+                    fallback_cache[fb_key] = (
+                        None, "fulltext_search_failed",
+                        detail + f"; full text search ({window_start}..{window_end}) could not be "
+                                 f"reached ({exc}) -- this row was NOT searched, retry on re-run",
+                    )
+                    cik, method, detail = fallback_cache[fb_key]
+                    results.append((year, ticker, snapshot_date, stint_start, stint_end, cik, method,
+                                    "resolved" if cik else "unresolved", detail))
+                    continue
                 if fb_cik is not None:
                     # NOT auto-accepted as resolved. A 27-item manual audit
                     # against known company identities (see decisions.md)
@@ -442,6 +461,11 @@ def main():
         method_counts[r[6]] = method_counts.get(r[6], 0) + 1
     for method, count in sorted(method_counts.items(), key=lambda x: -x[1]):
         print(f"  {method}: {count}")
+
+    if n_search_failures[0]:
+        print(f"\n!! {n_search_failures[0]} rows could not be searched at all (network). "
+              f"They are recorded as fulltext_search_failed, NOT as 'no candidate found'. "
+              f"Re-run to retry them -- the API cache makes the rest of the run cheap.")
 
 
 if __name__ == "__main__":

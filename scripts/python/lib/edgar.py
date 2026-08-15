@@ -37,6 +37,19 @@ _CACHEABLE_PREFIXES = (
 )
 _CACHE_DISABLED = os.environ.get("EDGAR_NO_CACHE") == "1"
 
+# How long to keep waiting out connection-level failures before giving up.
+CONNECT_RETRY_BUDGET_S = 600.0
+
+
+class SearchUnavailable(Exception):
+    """EDGAR full text search could not be reached at all.
+
+    Distinct from "the search ran and returned nothing", because the two must
+    not be recorded the same way: a network outage silently logged as "no
+    candidate found" would be an unresolved row that looks investigated when
+    it never was.
+    """
+
 
 def _cache_path(url: str) -> pathlib.Path | None:
     if _CACHE_DISABLED or not url.startswith(_CACHEABLE_PREFIXES):
@@ -71,19 +84,33 @@ def get(url: str, max_retries: int = 6, **kwargs) -> requests.Response:
     """
     last_exc = None
     resp = None
-    for attempt in range(max_retries):
+    attempt = 0
+    connect_waited = 0.0
+    while attempt < max_retries:
         _throttle()
         try:
             resp = _session.get(url, timeout=30, **kwargs)
         except requests.RequestException as exc:
             last_exc = exc
-            time.sleep(min(2 ** attempt, 30))
+            # A connection-level failure is almost always the local network
+            # going away briefly, not SEC rejecting us -- so it must NOT spend
+            # the HTTP retry budget. Confirmed: a DNS failure to resolve
+            # efts.sec.gov burned all six retries in 61 seconds and killed a
+            # run 2000 rows in. Wait it out on its own budget instead; ten
+            # minutes of sleeping is far cheaper than losing two hours.
+            wait = min(30.0, 2.0 ** min(attempt, 5))
+            if connect_waited + wait > CONNECT_RETRY_BUDGET_S:
+                break
+            connect_waited += wait
+            time.sleep(wait)
             continue
         if resp.status_code in (429, 403):
             time.sleep(10 * (attempt + 1))
+            attempt += 1
             continue
         if resp.status_code >= 500:
             time.sleep(2 ** attempt)
+            attempt += 1
             continue
         return resp
     if resp is not None:
@@ -207,6 +234,8 @@ def full_text_search(query: str, forms: str, start: str, end: str) -> list[dict]
     )
     try:
         data = get_json(url)
-    except (requests.HTTPError, ValueError):
-        return []
+    except requests.HTTPError:
+        return []  # search reached, refused this query -- a real empty result
+    except (requests.RequestException, ValueError) as exc:
+        raise SearchUnavailable(f"{type(exc).__name__}: {exc}") from exc
     return (data or {}).get("hits", {}).get("hits", [])
