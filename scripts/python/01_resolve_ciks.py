@@ -15,11 +15,12 @@ Method, per (ticker, year):
   1. Find the real membership stint (start_date, end_date) containing this
      year's snapshot_date, from sp500_ticker_stints (checkpoint 1).
   2. Look up the ticker's CURRENT holder CIK via company_tickers.json.
-  3. Validate: does that CIK's own filing history (earliest filing date,
-     via SEC submissions.json) predate the stint, and does it have 10-Ks
-     filed spanning the stint? If yes -> resolved, "current_ticker_validated".
-  4. If the current holder fails that check (didn't exist yet / never
-     filed near the stint) -- or the ticker has no current holder at all
+  3. Validate PER YEAR: did that CIK file a 10-K within 400 days of THIS
+     year's snapshot date? If yes -> resolved, "current_ticker_validated".
+     (This deliberately does not anchor to the stint start -- see
+     validate_year for the 503-row false-negative bug that caused.)
+  4. If the current holder fails that check (didn't exist yet / wasn't
+     filing that year) -- or the ticker has no current holder at all
      (fully delisted, e.g. via acquisition) -- fall back to EDGAR full
      text search: search 10-K filings for the ticker string within a tight
      window around the target year. Cross-check two independent queries
@@ -37,6 +38,7 @@ actually adds coverage, since older 10-Ks commonly state "trades under
 the symbol 'XYZ'" in Item 5 even though there was no dedicated structured
 cover-page ticker field before SEC's 2019 rule change.
 """
+import csv
 import datetime
 import json
 import pathlib
@@ -46,7 +48,12 @@ sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
 from lib.db import connect, record_meta
 from lib.edgar import fetch_company_tickers, fetch_submissions, full_text_search, get_json
 
-CONTINUITY_BUFFER_DAYS = 365
+# How far from a year's snapshot date a 10-K may sit and still count as
+# "this ticker's filing for this year". 400 days (not 365) because filing
+# dates drift: a company that files in March one year and the following
+# February is 11 months apart, and a fiscal-year change can stretch the gap
+# past a calendar year without any break in coverage.
+YEAR_MATCH_WINDOW = datetime.timedelta(days=400)
 TENK_FORMS = {"10-K", "10-K405", "10-KSB", "10-KSB405", "10-K/A", "10-KSB/A"}
 
 
@@ -107,19 +114,63 @@ def has_10k_in_window(tenk_dates: list[datetime.date], start: datetime.date, end
     return any(start <= d <= end for d in tenk_dates)
 
 
-def validate_continuity(cik: int, submissions: dict, stint_start: datetime.date, stint_end: datetime.date) -> bool:
-    earliest = earliest_filing_date(submissions)
-    if earliest is None:
-        return False
-    if earliest > stint_start + datetime.timedelta(days=CONTINUITY_BUFFER_DAYS):
-        return False
+def validate_year(cik: int, submissions: dict, snapshot_date: datetime.date) -> tuple[bool, str | None, str]:
+    """Did this CIK actually file a 10-K around THIS year, not "was it alive
+    at the start of the S&P membership stint"?
+
+    Confirmed bug (this replaces validate_continuity): the old check anchored
+    to stint_start, which for most tickers is 1996-01-02 -- a decade before
+    the study window even opens. Any company whose current CIK is newer than
+    its 1996 index entry therefore failed EVERY year, including years where
+    that CIK is unambiguously the filer. Measured against SEC's own data,
+    that wrongly rejected 503 of 883 rows: ORCL (CIK 1341439, 21 10-Ks on
+    file, first 2006-07-21) failed all 21 study years because Oracle's
+    current holding company was registered in 2005 and the check demanded
+    1996. Same for CMCSA, COP, DUK, ED, EXC, FE, MCO, NEM, NOC, RF, CNP --
+    all 21-for-21 false negatives. FDX missed the CONTINUITY_BUFFER_DAYS
+    grace window by ten months and lost two decades of data.
+
+    Anchoring to the snapshot year is also STRICTLY better at catching the
+    ticker-recycling case the old check existed to catch: a company that
+    IPO'd under a recycled ticker in 2024 has no 10-K anywhere near a 2010
+    snapshot, so 2010 still will not resolve to it. The old check only
+    verified the stint's start; this verifies the actual year in question.
+
+    Returns (ok, method, detail).
+    """
     tenks = tenk_filing_dates(cik, submissions)
-    # A company that passes the earliest-filing check but has no 10-K
-    # anywhere in its full filing history covering this stint is treated as
-    # inconclusive -- we don't hard-fail a stint of a long-lived filer whose
-    # 10-K cadence we can't pin down at all; we only require *some* 10-K,
-    # anywhere in its history, near enough to plausibly be from this era.
-    return has_10k_in_window(tenks, stint_start, stint_end + datetime.timedelta(days=400)) or not tenks
+    lo = snapshot_date - YEAR_MATCH_WINDOW
+    hi = snapshot_date + YEAR_MATCH_WINDOW
+
+    if tenks:
+        if has_10k_in_window(tenks, lo, hi):
+            return True, "current_ticker_validated", (
+                f"current holder CIK {cik} filed a 10-K within "
+                f"{YEAR_MATCH_WINDOW.days}d of this year's snapshot ({lo}..{hi})"
+            )
+        return False, None, (
+            f"current holder CIK {cik} has {len(tenks)} 10-Ks on file but none within "
+            f"{YEAR_MATCH_WINDOW.days}d of this year's snapshot ({lo}..{hi})"
+        )
+
+    # No 10-K anywhere in this CIK's entire filing history. That is not a
+    # resolution failure -- it is very often a real identification of a real
+    # company that simply does not file 10-Ks under this identity (a foreign
+    # private issuer filing 20-F, say). Resolving it keeps 05's
+    # cik_candidate_never_filed bucket working instead of dumping the row
+    # into the far less informative cik_never_resolved bucket. The guard is
+    # that the entity must demonstrably have existed and been filing SOMETHING
+    # by this year, which still rejects a recycled ticker's newer holder.
+    earliest = earliest_filing_date(submissions)
+    if earliest is not None and earliest <= snapshot_date:
+        return True, "current_ticker_non_10k_filer", (
+            f"current holder CIK {cik} filed no 10-K ever, but was filing by {earliest} "
+            f"(<= snapshot {snapshot_date}); resolved so downstream can classify it as a non-10-K filer"
+        )
+    return False, None, (
+        f"current holder CIK {cik} has no 10-K on file and no filing history at or before "
+        f"snapshot {snapshot_date} (earliest={earliest})"
+    )
 
 
 def fulltext_candidate(ticker: str, window_start: datetime.date, window_end: datetime.date):
@@ -165,6 +216,52 @@ def fulltext_candidate(ticker: str, window_start: datetime.date, window_end: dat
     return bare_cik, "fulltext_fallback"
 
 
+OVERRIDES_PATH = pathlib.Path(__file__).resolve().parents[2] / "data" / "manual_cik_overrides.csv"
+
+
+def load_overrides() -> list[dict]:
+    """Hand-verified (ticker, year range) -> CIK mappings, checked into the
+    repo as data, not code.
+
+    This is the escape hatch for identities no automated path can reach: most
+    importantly the successor-entity chain, where a ticker's CURRENT holder is
+    a newer corporate entity than the one that actually filed the 10-Ks.
+    Confirmed case: company_tickers.json maps XOM to ExxonMobil Holdings Corp
+    (CIK 2115436), a 2026 reorg entity with zero 10-Ks ever filed, so every
+    automated route -- current-holder validation and full text search alike --
+    either fails or points at the wrong entity for all 21 study years.
+
+    Every row carries a source_url and a note recording the evidence, so an
+    override is auditable and diffable rather than an unexplained magic
+    number. Overrides take priority over all automated paths; that is the
+    point of them, and it is safe precisely because each one is justified in
+    the file itself.
+    """
+    if not OVERRIDES_PATH.exists():
+        return []
+    with OVERRIDES_PATH.open(newline="") as fh:
+        rows = list(csv.DictReader(fh))
+    return [
+        {
+            "ticker": r["ticker"].strip(),
+            "year_start": int(r["year_start"]),
+            "year_end": int(r["year_end"]),
+            "cik": int(r["cik"]),
+            "source_url": r["source_url"].strip(),
+            "note": r["note"].strip(),
+        }
+        for r in rows
+        if r.get("ticker") and not r["ticker"].startswith("#")
+    ]
+
+
+def find_override(overrides: list[dict], ticker: str, year: int) -> dict | None:
+    for rule in overrides:
+        if rule["ticker"] == ticker and rule["year_start"] <= year <= rule["year_end"]:
+            return rule
+    return None
+
+
 def find_stint(stints: list[tuple], ticker: str, snapshot_date: datetime.date):
     matches = [
         s for s in stints
@@ -189,8 +286,11 @@ def main():
     current_holder = fetch_company_tickers()
     print(f"Loaded {len(current_holder)} current ticker->CIK mappings from company_tickers.json")
 
+    overrides = load_overrides()
+    print(f"Loaded {len(overrides)} manual override rules from {OVERRIDES_PATH.name}")
+
     submissions_cache: dict[int, dict | None] = {}
-    stint_resolution_cache: dict[tuple, tuple] = {}  # (ticker, stint_start) -> (cik, method, detail) | None (means "needs per-year fallback")
+    year_resolution_cache: dict[tuple, tuple] = {}  # (ticker, snapshot_date) -> (cik, method, detail); cik None means "needs fallback"
     fallback_cache: dict[tuple, tuple] = {}  # (ticker, snapshot_date) -> (cik, method, detail)
     today = datetime.date.today()
     # Fallback full text search window: narrow, centered on this specific
@@ -217,10 +317,27 @@ def main():
             continue
 
         _, stint_start, stint_end = stint
-        stint_key = (ticker, stint_start)
-        stint_end_eff = stint_end or today
 
-        if stint_key not in stint_resolution_cache:
+        # Highest priority: a hand-verified override, which exists precisely
+        # because every automated path below is known to be wrong here.
+        override = find_override(overrides, ticker, year)
+        if override is not None:
+            results.append((
+                year, ticker, snapshot_date, stint_start, stint_end, override["cik"],
+                "manual_override", "resolved",
+                f"manual override -> CIK {override['cik']} ({override['source_url']}): {override['note']}",
+            ))
+            continue
+
+        # Keyed by (ticker, snapshot_date), NOT (ticker, stint_start). Caching
+        # one verdict per stint was half of the bug validate_year documents:
+        # a single 1996-anchored rejection was reused for all 21 study years.
+        # Network cost is unchanged -- submissions_cache and the 10-K date
+        # cache are both keyed by CIK, so per-year validation is pure
+        # computation over already-fetched data.
+        year_key = (ticker, snapshot_date)
+
+        if year_key not in year_resolution_cache:
             cik, method, detail = None, None, None
             candidate_cik = current_holder.get(ticker)
 
@@ -228,18 +345,19 @@ def main():
                 if candidate_cik not in submissions_cache:
                     submissions_cache[candidate_cik] = fetch_submissions(candidate_cik)
                 subs = submissions_cache[candidate_cik]
-                if subs is not None and validate_continuity(candidate_cik, subs, stint_start, stint_end_eff):
-                    cik, method = candidate_cik, "current_ticker_validated"
-                    detail = f"current holder CIK {candidate_cik}, continuity validated against stint"
+                if subs is None:
+                    detail = f"current holder CIK {candidate_cik} has no submissions data at SEC"
                 else:
-                    detail = f"current holder CIK {candidate_cik} failed continuity check for this stint"
+                    ok, ok_method, detail = validate_year(candidate_cik, subs, snapshot_date)
+                    if ok:
+                        cik, method = candidate_cik, ok_method
             else:
                 detail = "ticker has no current holder in company_tickers.json"
 
-            # None cik here means "fall back per-year below", not unresolved yet.
-            stint_resolution_cache[stint_key] = (cik, method, detail)
+            # None cik here means "fall back below", not unresolved yet.
+            year_resolution_cache[year_key] = (cik, method, detail)
 
-        cik, method, detail = stint_resolution_cache[stint_key]
+        cik, method, detail = year_resolution_cache[year_key]
 
         if cik is None:
             fb_key = (ticker, snapshot_date)
@@ -307,7 +425,7 @@ def main():
             "stint_start": "Start date of the sp500_ticker_stints membership stint this row falls into",
             "stint_end": "End date of that stint (NULL = still current)",
             "cik": "Resolved historical CIK, or NULL if unresolved",
-            "resolution_method": "current_ticker_validated / fulltext_fallback / fulltext_fallback_low_confidence / unresolved",
+            "resolution_method": "current_ticker_validated (10-K filed within 400d of this year's snapshot) / current_ticker_non_10k_filer (real entity, files no 10-Ks) / fulltext_candidate_unverified (candidate found but NOT accepted) / unresolved / no_stint_match",
             "resolution_status": "resolved / unresolved",
             "resolution_detail": "Free-text explanation of how/why this row resolved or didn't",
         },

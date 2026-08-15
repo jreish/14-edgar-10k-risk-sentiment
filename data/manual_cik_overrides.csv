@@ -1,0 +1,2 @@
+ticker,year_start,year_end,cik,source_url,note
+XOM,2006,2026,34088,https://data.sec.gov/submissions/CIK0000034088.json,"company_tickers.json now maps XOM to CIK 2115436 ExxonMobil Holdings Corp, a 2026 reorg entity whose earliest filing is 2026-07-01 and which has filed zero 10-Ks; the ticker points FORWARD to a successor rather than back to the filer. CIK 34088 EXXON MOBIL CORP has 33 10-Ks spanning 1994-03-11..2026-02-18 and its 2025 and 2026 cover pages declare trading symbol XOM (verified via lib/cover_page.verify_ticker)."
