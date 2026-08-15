@@ -1,8 +1,27 @@
 """Shared SEC EDGAR access: rate limiting, User-Agent, common endpoints.
 
 SEC enforces 10 req/sec; we throttle to ~9/sec to stay safely under it.
+
+Derived SEC API responses are cached to data/raw/ (gitignored, and the
+location README already designates for cached raw API responses). Only the
+two endpoint families that get hammered repeatedly are cached:
+data.sec.gov/submissions and efts.sec.gov full text search. A full
+resolution run issues thousands of both, largely repeats across years, and
+takes ~2 hours uncached -- which makes the iterate-on-overrides loop that
+manual_cik_overrides.csv depends on impractical.
+
+Deliberately NOT cached: the point-in-time membership source files and
+company_tickers.json. Checkpoint 1 established that source-of-truth inputs
+are always re-fetched, never served stale from disk, because a silently
+reused stale snapshot is the exact failure that sank the previous build.
+Caching is for derived lookups whose answers are historical facts; it is
+not for the inputs that define the study universe. Set EDGAR_NO_CACHE=1 to
+bypass entirely.
 """
+import hashlib
+import json
 import os
+import pathlib
 import time
 
 import requests
@@ -10,6 +29,19 @@ import requests
 USER_AGENT = os.environ.get("EDGAR_CONTACT", "Your Name your.email@example.com")
 _MIN_INTERVAL = 1.0 / 9.0
 _last_request_time = [0.0]
+
+_CACHE_DIR = pathlib.Path(__file__).resolve().parents[3] / "data" / "raw" / "api_cache"
+_CACHEABLE_PREFIXES = (
+    "https://data.sec.gov/submissions/",
+    "https://efts.sec.gov/",
+)
+_CACHE_DISABLED = os.environ.get("EDGAR_NO_CACHE") == "1"
+
+
+def _cache_path(url: str) -> pathlib.Path | None:
+    if _CACHE_DISABLED or not url.startswith(_CACHEABLE_PREFIXES):
+        return None
+    return _CACHE_DIR / f"{hashlib.sha256(url.encode()).hexdigest()}.json"
 
 
 def _throttle():
@@ -59,10 +91,32 @@ def get(url: str, max_retries: int = 6, **kwargs) -> requests.Response:
     raise last_exc
 
 
-def get_json(url: str, **kwargs):
+def get_json(url: str, allow_missing: bool = False, **kwargs):
+    """GET returning parsed JSON, served from data/raw/api_cache when the URL
+    is on the cacheable allowlist. Returns None on 404 if allow_missing.
+    """
+    path = _cache_path(url)
+    if path is not None and path.exists():
+        try:
+            return json.loads(path.read_text())
+        except (json.JSONDecodeError, OSError):
+            pass  # corrupt/truncated entry -- fall through and re-fetch
+
     resp = get(url, **kwargs)
+    if allow_missing and resp.status_code == 404:
+        return None
     resp.raise_for_status()
-    return resp.json()
+    data = resp.json()
+
+    if path is not None:
+        path.parent.mkdir(parents=True, exist_ok=True)
+        # Write-then-rename: these runs get killed midway often enough that a
+        # half-written cache entry is a real risk, and a truncated JSON file
+        # that looks present is worse than no cache at all.
+        tmp = path.with_suffix(".tmp")
+        tmp.write_text(json.dumps(data))
+        tmp.replace(path)
+    return data
 
 
 def fetch_company_tickers() -> dict:
@@ -100,11 +154,7 @@ def fetch_company_tickers() -> dict:
 
 def fetch_submissions(cik: int) -> dict | None:
     padded = str(cik).zfill(10)
-    resp = get(f"https://data.sec.gov/submissions/CIK{padded}.json")
-    if resp.status_code == 404:
-        return None
-    resp.raise_for_status()
-    return resp.json()
+    return get_json(f"https://data.sec.gov/submissions/CIK{padded}.json", allow_missing=True)
 
 
 TEN_K_FORMS = {"10-K", "10-K405", "10-KSB", "10-KSB405"}
@@ -155,8 +205,8 @@ def full_text_search(query: str, forms: str, start: str, end: str) -> list[dict]
         f"?q={requests.utils.quote(query)}&forms={forms}"
         f"&dateRange=custom&startdt={start}&enddt={end}"
     )
-    resp = get(url)
-    if resp.status_code != 200:
+    try:
+        data = get_json(url)
+    except (requests.HTTPError, ValueError):
         return []
-    data = resp.json()
-    return data.get("hits", {}).get("hits", [])
+    return (data or {}).get("hits", {}).get("hits", [])
