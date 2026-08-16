@@ -86,9 +86,9 @@ title_df <- data.frame(
   label = "<b>Risky Business</b>"
 )
 subtitle_df <- data.frame(
-  x = title_x,
+  x = title_x+.1,
   y = title_y - subtitle_gap - 30,
-  label = "***10-K filings mentioning tariffs in Item 1A <br> (risk factors) have grown steadily since 2006, <br> with large jumps during Trump 1.0 and 2.0***"
+  label = "***S&amp;P 500 10-K filings mentioning tariffs in <br>the Item 1A  Risk Factors section have grown <br>steadily since 2006, with not a single year<br> seeing a decrease.***"
 )
 
 

@@ -936,3 +936,74 @@ what extraction cannot currently reach.
   would reveal.
 - `tests/test_risk_factor_parser.py` (new): 11/11, pinning the BNY Mellon
   running-header case and five stub phrasings that defeated phrase matching.
+
+---
+
+## 2026-08-16 (later still) — Attacking cik_never_resolved without a crosswalk
+
+`cik_never_resolved` fell **503 -> 175 rows** (111 -> 49 tickers). Item 1A
+9219 -> **9525**; universe coverage 87.6% -> **90.5%**.
+
+No WRDS access, so the CRSP/Compustat crosswalk was unavailable. Instead ran
+the existing propose-and-verify loop over all 111 delisted tickers in four
+batches: hypotheses proposed from recollection, every one adjudicated by
+`01d` against SEC's filings before it could reach the overrides file. 85
+rules now, covering 646 ticker-years.
+
+**Roughly a fifth of my own proposals were rejected**, which is the only
+reason this method is acceptable. TIN (proposed Temple-Inland) resolves to a
+CIK declaring NUE; TRB (Tribune) declares AXE/CAT; MEL declares SYBT; CBE
+declares MA; MEDI declares NVAX. Three tickers were handed the same CIK
+(Avery Dennison, 8818) through simple carelessness and all three came back
+NO_EVIDENCE rather than landing in the data.
+
+### Two extensions were needed, both from studying the batch-1 failures
+
+**CIK-restricted full text search as a second evidence path.** SEC only
+required a trading symbol on the 10-K cover page from 2019, and Safeway,
+Forest Labs, Avon, Sigma-Aldrich, Legg Mason and US Steel each file a decade
+of 10-Ks without the string appearing once -- so the 10-K-only standard could
+never confirm them however correct the hypothesis. The same companies state
+the symbol readily in proxies and 8-Ks. Restricting EFTS to the candidate's
+own CIK (`&ciks=`, verified to actually filter: 2191 -> 949 hits) makes that
+admissible on the same evidence standard: a document FILED BY this company
+declaring this symbol. Converted Safeway, Forest Labs, AABA and WYND.
+
+**Bankruptcy ticker suffixes.** Chapter 11 moves a listing to OTC and appends
+a suffix ending in Q -- Peabody BTU -> BTUUQ, Kodak EK -> EKDKQ, RadioShack
+RSH -> RSHCQ, Lehman LEH -> LEHMQ, GM MTL -> MTLQQ. The membership source
+records the bankruptcy ticker while the filings declare the base symbol.
+Accepting a declared symbol that is a genuine PREFIX of a Q-terminated ticker
+is tight enough that it cannot match an unrelated company, only the
+pre-bankruptcy form of the same one.
+
+### A near-miss worth recording: SEC reports CURRENT names
+
+Three confirmations looked obviously wrong on the summary line and were held
+back before being appended:
+
+| ticker | SEC current name | former names |
+|---|---|---|
+| ATGE | Covista Inc. | DEVRY EDUCATION GROUP INC. |
+| WAMUQ | Maverick Merger Sub 2, LLC | WMI HOLDINGS CORP. (WaMu's successor) |
+| IAC | Match Group, Inc. | IAC/INTERACTIVECORP |
+
+All three were correct. SEC's submissions API reports a CIK's *current* name,
+which for precisely the successor chains this file exists to handle is not
+the name that filed the 10-Ks. The evidence was sound and the display was
+misleading -- which would have made a human review of
+`manual_cik_overrides.csv` actively counterproductive. `01d` now carries
+`formerNames` into every evidence note.
+
+### Where it stops, and why
+
+19 tickers ended NO_EVIDENCE: LM, SIAL, AVP, X, FII, GR, AYE, AKS, BDK, BUD,
+LEHMQ, BSC, CFC, PD, BLS, DDR, ACV, ASO, AT. SEC's entity name matches the
+proposal exactly in most cases -- LEGG MASON, INC.; AVON PRODUCTS INC; BEAR
+STEARNS COMPANIES INC; BELLSOUTH CORP -- but no filing of any type declares
+the symbol, and a name that looks right is not evidence. Left unresolved.
+
+This is the honest boundary of what can be done without an external
+ticker-history crosswalk. CRSP (PERMNO-ticker history joined to Compustat's
+CIK) would settle all 19 in minutes and remains the recommendation if WRDS
+access appears.

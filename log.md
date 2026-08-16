@@ -530,3 +530,53 @@ To make sure none of this quietly broke what already worked, there's now a
 test that re-downloads 300 filings we'd already parsed and checks the text
 comes out byte-for-byte identical. It passed — 297 identical, and the only
 two differences were stubs being correctly rejected.
+
+## 2026-08-16 (later still) — Putting names to the companies that vanished
+
+The biggest remaining hole was 503 company-years belonging to businesses that
+no longer exist — bought, merged, or bankrupted, their ticker symbols long
+since recycled or retired. Nobody sells us a lookup table for "who owned this
+ticker in 2009," and the commercial one (CRSP, via a university subscription)
+wasn't available.
+
+So we did it by proposal and proof. I put forward a company for each of the
+111 orphaned tickers from memory, and a script checked every single one
+against the government's own filing records before it was allowed anywhere
+near the dataset. Nothing gets in on my say-so.
+
+**About a fifth of my proposals were wrong**, and that's the point of the
+arrangement. I said ticker TIN was Temple-Inland; the records showed that
+company code belongs to something declaring itself Nucor. I said TRB was
+Tribune; the filings said otherwise. I gave three different tickers the same
+company code out of plain carelessness. Every one of those was caught and
+thrown out rather than quietly becoming data.
+
+Two things had to be added along the way, both learned from the first round
+of failures. Companies weren't required to print their ticker symbol on the
+front page of an annual report until 2019, and plenty didn't — Safeway, Avon,
+Legg Mason and US Steel file a decade of reports without the symbol appearing
+once. But they say it freely in shareholder proxies. Widening the search to
+everything a company filed, rather than just its annual reports, unlocked a
+batch of them. Separately, companies in bankruptcy get a "Q" tacked onto their
+ticker — Kodak's EK becomes EKDKQ — so those needed matching to the original.
+
+**One near-miss is worth telling.** Three of the confirmations looked plainly
+wrong: the ticker for DeVry University came back as a company called Covista,
+Washington Mutual as "Maverick Merger Sub 2." I pulled them out before adding
+them and checked. They were right — the government lists the company's
+*current* name, and those company codes had simply been renamed over the
+years. Covista's earlier names include DeVry Education Group. The evidence was
+fine; the label was misleading. Now every entry records the former names too,
+so anyone reviewing the file later isn't misled the way I nearly was.
+
+**Result:** that category dropped from 503 missing company-years to 175.
+Overall we now have risk factors for 9,525 company-years, 90.5% of the target
+— up from 7,445 and 71% when the day started. The worst year, 2006, went from
+48% to 74%.
+
+**What's left that this approach can't reach:** nineteen companies where the
+name matches perfectly but no document they ever filed states their ticker
+symbol — Legg Mason, Avon, Bear Stearns, BellSouth among them. A name that
+looks right isn't proof, so they stay marked as missing. That's the limit of
+what's possible without the commercial crosswalk, and worth revisiting if
+university access to it turns up.

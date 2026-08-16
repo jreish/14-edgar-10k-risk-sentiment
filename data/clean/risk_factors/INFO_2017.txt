@@ -1,0 +1,361 @@
+In addition to the other information provided in this Form 10-K, you should carefully consider the risks described in this section. The risks described below are not the only risks that could adversely affect our business; other risks currently deemed immaterial or additional risks not currently known to us could also adversely affect us. These and other factors could have a material adverse effect on the value of your investment in our securities, meaning that you could lose all or part of your investment.
+
+Note that this section includes forward-looking statements and future expectations as of the date of this Form 10-K. This discussion of Risk Factors should be read in conjunction with “Management's Discussion and Analysis of Financial Condition and Results of Operations” and the consolidated financial statements and related notes in Part II of this Form 10-K.
+
+Our business performance might not be sufficient for us to meet the full-year financial guidance that we provide publicly.
+
+We provide full-year financial guidance to the public based upon our assumptions regarding our expected financial performance. For example, we provide assumptions regarding our ability to grow revenue and to achieve our profitability targets. While we believe that our annual financial guidance provides investors and analysts with insight to our view of the company's future performance, such financial guidance is based on assumptions that may not always prove to be accurate and may vary from actual results. If we fail to meet the full-year financial guidance that we provide, or if we find it necessary to revise such guidance during the year, the market value of our common shares could be adversely affected.
+
+We operate in competitive markets, which may adversely affect our market share and financial results.
+
+While we do not believe that we have a direct competitor across all of our workflows and industry solutions, we face competition in specific industries and with respect to specific offerings, including by smaller competitors which may be able to adopt new or emerging technologies to address customer requirements more quickly than we can. We may also face competition from organizations and businesses that have not traditionally competed with us but that could adapt their products and services or utilize significant financial and information-gathering resources, recognized brands, or technological expertise to begin competing with us. We believe that competitors are continuously enhancing their products and services, developing new products and services, investing in technology and acquiring new businesses to better serve the needs of their existing customers and to attract new customers. Increased competition could require us to make additional capital investments. Some of our competitors may also choose to sell products competitive with ours at lower prices, which may require us to reduce the prices of our offerings. An increase in our capital investments or price reductions by our competitors could negatively impact our margins and results of operations.
+
+Achieving our growth and profitability objectives may prove unsuccessful.
+
+We seek to achieve our growth objectives by enhancing our offerings to meet the needs of our customers through organic development, including by delivering integrated workflow platforms, cross-selling our products across our existing customer 
+
+ 12
+
+Table of Contents
+
+base and acquiring new customers, entering into strategic partnerships, acquisitions, and by implementing operational efficiency initiatives. If we are unable to successfully execute on our strategies to achieve our growth objectives or drive operational efficiencies, or if we experience higher than expected operating costs that cannot be adjusted accordingly, our growth and profitability rates could be adversely affected. An additional factor that may adversely affect our growth rates is continued global economic uncertainty, particularly in our energy and financial end markets. Our resources and financial markets segments in particular may continue to be adversely affected by industry dynamics, including decisions on the part of our customers to defer capital spending in uncertain economic environments.
+
+If we are unable to develop successful new products and services or adapt to rapidly changing technology, our business could suffer serious harm.
+
+The information services industry is characterized by rapidly changing technology, evolving industry standards and changing regulatory requirements. Our growth and success depend upon our ability to enhance our existing products and services and to develop and introduce new products and services to keep pace with such changes and developments and to meet changing customer needs. The process of developing our products and services is complex and may become increasingly complex and expensive in the future due to the introduction of new platforms, operating systems and technologies. Current areas of significant technological change include mobility, cloud-based computing, blockchain and the processing and analyzing of large amounts of data. We may find it difficult or costly to update our services and software and to develop new products and services quickly enough to work effectively with new or changed technologies and regulations, to keep the pace with evolving industry standards or to meet our customers’ needs. If we are unable to develop new products or services, or to successfully enhance or update existing products and services, we may not be able to grow our business as quickly as we anticipate.
+
+We could experience system failures or capacity constraints that could negatively impact our business.
+
+Our ability to provide reliable service largely depends on the efficient and uninterrupted operation of complex systems, relying on people, processes, and technology to function effectively. Most of our products and services are delivered electronically, and our customers rely on our ability to process and deliver substantial quantities of information and other services on computer-based networks. Some elements of these systems have been outsourced to third-party providers, including critical data inputs received from third-party suppliers. Some of our systems have been consolidated for the purpose of enhancing scalability and efficiency, which increases our dependency on a smaller number of systems. Any failure of, or significant interruption, delay or disruption to, or security breaches affecting, our systems could result in: disruption to our operations; significant expense to repair, replace or remediate systems, equipment or facilities; a loss of customers; legal or regulatory claims, proceedings or fines; damage to our reputation; and harm to our business. System interruption, failures or security breaches could result from a wide variety of causes, including: human error, natural disasters, infrastructure or network failures (including failures at third-party data centers), disruptions to the internet, increased government regulation straining systems, malicious attacks or cyber incidents such as unauthorized access, loss or destruction of data (including confidential and/or personal customer information), account takeovers, computer viruses or other malicious code, and the loss or failure of systems over which we have no control. In addition, significant growth of our customer base or increases in the number of products or services or in the speed at which we are required to provide products and services may also strain our systems in the future. We may also face significant increases in our use of power and data storage and may experience a shortage of capacity and increased costs associated with such usage. Any of the above factors could individually or in the aggregate adversely affect our business, and our insurance may not be adequate to compensate us for all failures, interruptions, delays, disruptions or security breaches. 
+
+Design defects, errors, failures or delays associated with our products or services could negatively impact our business.
+
+Despite testing, software, products and services that we develop, license or distribute may contain errors or defects when first released or when major new updates or enhancements are released that cause the product or service to operate incorrectly or less effectively. Many of our products and services also rely on data and services provided by third-party providers over which we have no control and may be provided to us with defects, errors or failures. We may also experience delays while developing and introducing new products and services for various reasons, such as difficulties in licensing data inputs or adapting to particular operating environments. Defects, errors or delays in our products or services that are significant, or are perceived to be significant, could result in rejection or delay in market acceptance, damage to our reputation, loss of revenue, a lower rate of license renewals or upgrades, diversion of development resources, product liability claims or regulatory actions, or increases in service and support costs. We may also need to expend significant capital resources to eliminate or work around defects, errors, failures or delays. In each of these ways, our business, financial condition or results of operations could be materially adversely impacted.
+
+ 13
+
+Table of Contents
+
+We depend on externally obtained content and services to support our offerings, and the inability to continue to obtain access could prove harmful to our business.
+
+We obtain data from a wide variety of external sources that we transform into critical information and analytics and use to create integrated solutions for our customers. Many of our offerings include content and information that is either purchased or licensed from third parties, or obtained using independent contractors. In addition, we often rely on third-party dealers to sell or distribute some of our offerings, such as in locations where we do not maintain a sales office or sales teams or methods of distribution we do not have direct access to. 
+
+For instance, our industry standards offerings that are part of our Product Design workflow rely on information licensed from standards developing organizations, and many of our financial institution customers provide us with data which is a critical input for many of our Financial Services offerings. We believe that the content licensed from many of these third parties cannot be obtained from alternate sources on favorable terms, if at all.
+
+Our license agreements with these third parties are often nonexclusive and many are terminable on less than one year's notice. In addition, many of these third parties compete with one another and with us, including by providing data to our competitors, which may cause them to reduce their willingness to supply data and content that are important to our products and services. We could also become subject to legislative, regulatory, judicial or contractual restrictions on the use of data, such as if such data is not collected by the third parties in a way which allows us to process the data or use it legally. We are also limited in our ability to monitor and direct the activities of our independent contractors, but if any actions or business practices of these individuals or entities violate our policies or procedures or are otherwise deemed inappropriate or illegal, we could lose access to the data they collect, as well as be subject to litigation, regulatory sanctions, or reputational damage. If we lose access to, or are restricted in receiving, a significant number of data sources and cannot replace the data through alternative sources or we are unable to obtain information licensed to us consistently or at cost-effective prices, specific products, services and customer solutions may be impacted and our business, reputation, financial condition, operating results and cash flow could be materially adversely affected.
+
+Our relationships with third-party service providers may not be successful or may change, which could adversely affect our results of operations. 
+
+We have commercial relationships with third-party service providers whose capabilities complement our own, for integral services, software and technologies. Many of our products and services are developed using third-party service providers’ data or services, or are made available to our customers or are integrated for our customers’ use through integral infrastructure, information and technology solutions provided by such third-party service providers. For example, we outsource certain data hosting functions, as well as certain functions involving our data transformation process, to business partners who we believe offer us deep expertise in these areas, as well as scalability and cost effective services. In some cases, these providers are also our competitors or may in the future become our competitors as we expand our product and service offerings, which could impact our relationships.
+
+The priorities and objectives of these providers may differ from ours, which may make us vulnerable to changes or terminations of our commercial relationships and could reduce our access over time to information and technology. We have little control over these third-party providers, which increases our vulnerability to errors, failures, interruptions or disruptions or problems with their services or technologies. We also face risks that one or more service providers may perform work that deviates from our standards or that we may not be able to adequately protect our intellectual property.
+
+Any errors, failures to perform, interruptions, delays or terminations of service experienced in connection with these third-party providers, or if we do not obtain the expected benefits from our relationships with third-party service providers, we may be less competitive, our products and services may be negatively affected, and our results of operations could be adversely impacted.
+
+Fraudulent or unpermitted data access and other security or privacy breaches may negatively impact our business and harm our reputation.
+
+Many of our products and services involve the storage and transmission of proprietary information and sensitive or confidential data. Security breaches in our facilities, computer networks, and databases may cause harm to our business and reputation and result in a loss of customers. Our systems may be vulnerable to physical break-ins, computer viruses, attacks by hackers and similar disruptive problems. Third-party contractors and service providers also may experience security or privacy breaches involving the storage, transmission and distribution of proprietary information, including products and services provided to third parties under embargo prior to official release by us. Cybersecurity threats are evolving and include malicious 
+
+ 14
+
+Table of Contents
+
+software, attempts to gain unauthorized access to data, information security breaches, or employee or contractor error or malfeasance. Such threats could lead to disruptions in systems, unauthorized release or destruction of confidential or otherwise protected information and corruption of data. 
+
+We rely on a system of internal processes and software controls along with policies, procedures and training to protect the confidentiality of information. If users gain improper access to our facilities, systems or networks, or those of our contractors or service providers, they may be able to steal, publish, delete or modify information included in our products and services or confidential or sensitive customer information that is stored or transmitted on such systems and networks. Any misappropriation and/or misuse of our information, whether inadvertent or deliberate, could result in us, among other things, being in breach of the terms of our agreements and of certain data protection and related legislation, including regulations relating to the privacy of personal or payment card information. Similarly, if any embargoed data is inadvertently disclosed or deliberately misused prior to our authorization, customers and financial markets could be negatively affected, and any resulting need to change our procedures around the provision of embargoed data to any third parties may diminish the value of such offerings. 
+
+A security or privacy breach may affect us in the following ways:
+
+•
+deterring customers from using our products or services;
+
+•
+deterring data suppliers from supplying data to us;
+
+•
+harming our reputation;
+
+•
+exposing us to liability;
+
+•
+disclosing valuable trade secrets, know-how, or other confidential information;
+
+•
+increasing expenses to correct problems caused by the breach and to prevent future breaches of a similar nature;
+
+•
+affecting our ability to meet customers’ expectations; or
+
+•
+causing inquiry or penalization from governmental authorities.
+
+Incidents in which customer data has been fraudulently or improperly acquired or viewed, or any other security or privacy breaches, may occur and could go undetected. We have experienced security breaches, unauthorized disclosures and cybersecurity attacks, as have many of our customers, contractors and service providers. While prior cybersecurity attacks have not had a material adverse effect on our financial results, we have taken and are taking reasonable steps to prevent future events, including implementation of system security measures, information back-up and disaster recovery processes. However, these steps may not be effective and there can be no assurance that any such steps can be effective against all possible risks.
+
+Some of the critical information we use in our offerings is publicly available in raw form at little or no cost.
+
+The internet, widespread availability of sophisticated search engines, pervasive wireless data delivery and public sources of free or relatively inexpensive information and solutions have simplified the process of locating, gathering, and disseminating data, potentially diminishing the perceived value of our offerings. While we believe our offerings are distinguished by such factors as currency, accuracy and completeness, and our analysis and other added value, our customers could choose to obtain the information and solutions they need from public, regulatory, governmental or other sources. To the extent that customers become more self-sufficient, demand for our offerings may be reduced, and our business, financial condition, and results of operations could be adversely affected.
+
+Our use of open source software could result in litigation or impose unanticipated restrictions on our ability to commercialize our products and services.
+
+We use open source software in our technology, most often as small components within a larger product or service. Open source code is also contained in some third-party software we rely on. The terms of many open source licenses are ambiguous and have not been interpreted by U.S. or other courts, and these licenses could be construed in a manner that imposes unanticipated conditions or restrictions on our ability to commercialize our products and services, license the software on unfavorable terms, require us to re-engineer our products and services or take other remedial actions, any of which could have a material adverse effect on our business. We could also be subject to suits by parties claiming breach of the terms of licenses, which could be costly for us to defend.
+
+Our brand and reputation are key assets and competitive advantages of our company and our business may be affected by how we are perceived in the marketplace.
+
+Our ability to attract and retain customers is affected by external perceptions of our brand and reputation. We enter into redistribution arrangements that allow other firms to represent certain of our products and services. Reputational damage from 
+
+ 15
+
+Table of Contents
+
+negative perceptions or publicity could damage our reputation with customers, prospects, and the public generally. Although we monitor developments for areas of potential risk to our reputation and brand, negative perceptions or publicity could have a material adverse effect on our business and financial results.
+
+Cost-cutting pressures and consolidation in our customer markets could lower demand for our products and services.
+
+Our customers are focused on controlling or reducing spending as a result of the continued financial challenges and market uncertainty many of them face. Customers within the financial services, shipping and energy industries in particular strive to reduce their operating costs, and may use strategies that result in a reduction in their spending on our products and service, such as by consolidating their spending with fewer or lower cost vendors or by internally developing products, services and functionality. In addition, mergers or consolidations among our customers could reduce the number of our customers and potential customers, which could cause them to discontinue or reduce their use of our products and services. All such developments could materially and adversely affect our business, financial condition, operating results and cash flow.
+
+Declining activity levels in our core end markets, or weak or declining financial performance of companies in our end markets, could lower demand for certain of our products and services.
+
+Many of our products and services are dependent upon the robustness of the core end markets in which we operate, as well as the financial health of the participants in those markets and the general economy. In addition, a proportion of our revenue in our Financial Services segment is variable and depends upon transaction volumes, investment levels, or the number of positions we value. Unfavorable or uncertain economic conditions or lower activity levels in the end markets in which we operate could result in cancellations, reductions, or delays for our products and services and have a material adverse effect on our financial condition or results of operations.
+
+Some of our products and services typically face long selling cycles to secure new contracts, which require significant resource commitments and result in long lead times before we receive revenue.
+
+For certain new products and services, and especially for complex products and services, we often face long selling cycles to secure new contracts and customers and there can be a long preparation period before we commence providing products and services. For instance, some of our Financial Markets products and services can require active engagement with potential customers and can take 12 months or more to reach deal closure. Some products’ success is also dependent on building a network of users, and may not be profitable while such a network is developing. We can incur significant business development expenses during the selling cycle and we may not succeed in winning a new customer’s business, in which case we receive no revenue and may receive no reimbursement for such expenses. Selling cycle periods have historically lengthened and could lengthen further, causing us to incur even higher business development expenses with no guarantee of winning a new customer’s business. Even if we succeed in developing a relationship with a potential new customer, we may not be successful in obtaining contractual commitments after the selling cycle or in maintaining contractual commitments after the implementation cycle, and our business, financial condition, and results of operations could be adversely affected.
+
+The loss of, or the inability to attract and retain, key personnel could impair our future success.
+
+Our future success depends to a large extent on the continued service of our employees, including our experts in research and analysis and other areas, as well as colleagues in sales, marketing, product development, critical operational roles, and management, including our executive officers. We do not carry any “key person” insurance policies that could offset potential loss of service under applicable circumstances. We must maintain our ability to attract, motivate, compensate and retain highly qualified colleagues in order to support our customers and achieve business results. The loss of the services of key personnel and our inability to recruit effective replacements or to otherwise attract, motivate, or retain highly qualified personnel could have a material adverse effect on our business, financial condition, and operating results.
+
+If we are unable to consistently renew and enter into new subscriptions for our offerings, our results could weaken.
+
+The majority of our revenue is recurring, typically based on subscription agreement to our offerings. In 2016, approximately 82 percent of our revenues were recurring fixed and recurring variable revenues. Our operating results depend on our ability to achieve and sustain high renewal rates on our existing subscription base and to enter into new subscription arrangements at acceptable prices and other commercially acceptable terms. Failure to meet one or more of these subscription objectives could have a material adverse effect on our business, financial condition, and operating results.
+
+ 16
+
+Table of Contents
+
+Changes in the legislative, regulatory, and commercial environments in which we operate may adversely impact our ability to collect, compile, use, and publish data, subject us to increased regulation of our products and services or prevent us from offering certain products or service, decrease demand for our products and services and impact our financial results. 
+
+Our customers rely on many of our products and services to meet their operational, regulatory or compliance needs. All our financial industry customers, in particular, operate within a highly regulated environment and must comply with governmental and quasi-governmental legislation, regulations, directives and standards. In addition, certain types of information we collect, compile, use, and publish, including offerings in our IHS Markit Automotive and CARFAX businesses, are subject to regulation by governmental authorities in jurisdictions in which we operate.
+
+Over the past few years, the United States, the European Union and other jurisdictions have introduced new legislation and regulation of financial markets, such as The Dodd-Frank Wall Street Reform and Consumer Protection Act (the “Dodd-Frank Act”) in the United States and the European Market Infrastructure Regulation (“EMIR”), the new Markets in Financial Instruments Directive (“MiFID II”) and the Markets in Financial Instruments Regulation (“MiFIR”) in the European Union. In addition, there is increasing focus among certain advocates and government regulators regarding marketing and privacy matters, particularly as they relate to individual privacy interests. These concerns may result in new or amended laws and regulations, including with respect to the collection, compilation, use, and publication of information and consumer privacy. Similarly, new rules promulgated by the U.S. Securities and Exchange Commission (“SEC”), U.S. Commodity Futures Trading Commission (the “CFTC”) and the International Organization of Securities Commissions (“IOSCO”) and other governmental and quasi-governmental organizations may also affect demand, structure and regulation of the products and services we offer to the financial services industry, such as benchmark administration, intermediating and clearing services, and offerings in which we function as a “third-party service provider.” It is also possible that we could be prohibited or constrained from collecting or disseminating certain types of data or from providing certain products or services. Uncertainty caused by political change in the United States and European Union (particularly Brexit) heightens regulatory uncertainty in these areas. New legislation, or a significant change in rules, regulations, directives or standards could result in some of our products and services becoming obsolete or prohibited, reduce demand for our products and services, increase expenses as we modify our products and services to comply with new requirements and retain relevancy, impose limitations on our operations, and increase compliance or litigation expense, each of which could have a material adverse effect on our business, financial condition and results of operations.
+
+We may be exposed to litigation related to content we make available to customers and we may face legal liability or damage to our reputation if our customers are not satisfied with our offerings or if our offerings are misused.
+
+We are significantly dependent on data, technologies and business methods, as well as the intellectual property rights related to them, both with respect to licensing and delivering intellectual property to our customers and obtaining intellectual property from our suppliers. 
+
+We may face potential liability for, among other things, breach of contract, defamation, libel, fraud or negligence, with respect to the use of our offerings by our customers, particularly if the information in our offerings was incorrect for any reason, or if it were misused or used inappropriately. In addition, companies in our industry have increasingly pursued patent and other intellectual property protection for their data, technologies and business methods. As we do not actively monitor third-party intellectual property, if any of our data, technologies or business methods are covered or become covered by third-party intellectual property protection and used without license or if we misuse data, technologies or business methods outside the terms of our licenses, we may be subject to claims or threats of infringement, misappropriation or other violation of intellectual property rights, or have the use of our data, technologies and business methods otherwise challenged. We have also in the past been, and may in the future be, called upon to defend partners, customers, suppliers or distributors against such third-party claims under indemnification clauses in our agreements.
+
+Responding to such claims or threats, regardless of merit, can consume valuable time and resources, result in costly or unfavorable litigation or settlements that could exceed the limits of applicable insurance coverage, delay operations of our business, require redesign of our products and services, or require new royalty and licensing agreements. It could also damage our reputation for any reason which could adversely affect our ability to attract and retain customers, employees, and information suppliers. Any such factors could have a material adverse effect on our financial condition or results of operations.
+
+We may not be able to protect our intellectual property rights and confidential information.
+
+Our success depends in part on our proprietary technology, processes, methodologies and information. We rely on a combination of copyright, trademark, trade secret, patent and other intellectual property laws and nondisclosure, license, assignment and confidentiality arrangements to establish, maintain and protect our proprietary rights as well as the intellectual 
+
+ 17
+
+Table of Contents
+
+property rights of third parties whose content we license. However, we cannot assure you that the steps we have taken to protect our intellectual property rights, and the rights of those from whom we license intellectual property, are adequate to prevent unauthorized use, misappropriation, or theft of our intellectual property. Intellectual property laws in various jurisdictions in which we operate are also subject to change at any time and could further restrict our ability to protect our intellectual property and proprietary rights. In particular, a portion of our revenues are derived from jurisdictions where adequately protecting intellectual property rights may prove more challenging or impossible. We may also not be able to detect unauthorized uses or take timely and effective steps to remedy unauthorized conduct. To prevent or respond to unauthorized uses of our intellectual property, we might be required to engage in costly and time-consuming litigation or other proceedings and we may not ultimately prevail. Any failure to establish, maintain or protect our intellectual property or proprietary rights could have a material adverse effect on our business, financial condition or results of operations.
+
+Our compliance and risk management methods might not be effective and may result in outcomes that could adversely affect our reputation, financial condition and operating results. 
+
+Our ability to comply with applicable complex and changing laws and rules is largely dependent on our establishment and maintenance of compliance, surveillance, audit and reporting systems, as well as our ability to attract and retain qualified compliance and other risk management personnel. While we have policies and procedures to identify, monitor and manage our risks, we cannot assure you that our policies and procedures will always be effective or that we will always be successful in monitoring or evaluating the risks to which we are or may be exposed. In addition, some of our risk management methods depend upon evaluation of information regarding markets, customers or other matters that are publicly available or otherwise accessible by us. That information may not in all cases be accurate, complete, up-to-date or properly evaluated. In case of non-compliance or alleged non-compliance with applicable laws or regulations, we could be subject to investigations and proceedings that may be very expensive to defend and may result in substantial penalties or civil lawsuits, including by customers, for damages which can be significant. Any of these outcomes would adversely affect our reputation, financial condition and operating results. Further, the implementation of new legislation or regulations, or changes in or unfavorable interpretations of existing regulations by courts or regulatory bodies, could require us to incur significant compliance costs and impede our ability to operate, expand and enhance our products and services as necessary to remain competitive and grow our business, which could materially and adversely affect our business, financial condition and results of operations.
+
+The U.K. electorate voted in favor of a U.K. exit from the E.U. in a referendum, which could adversely impact our business, results of operations and financial condition.
+
+The U.K. Government held an in-or-out referendum on the United Kingdom’s membership of the European Union in June 2016, which resulted in the electorate voting in favor of a U.K. exit from the E.U. (Brexit). A process of negotiation will now determine the future terms of the United Kingdom’s relationship with the European Union. We are headquartered and tax domiciled in the UK and conduct business in Europe primarily through our U.K. subsidiaries. Depending on the terms of Brexit, we could face new regulatory costs and challenges. For instance, the United Kingdom could lose access to the single E.U. market and to the global trade deals negotiated by the European Union on behalf of its members, and we may be required to move certain operations to other European Union members to maintain such access. A decline in trade could affect the attractiveness of the United Kingdom as a global investment center and, as a result, could have a detrimental impact on U.K. growth. Although we have an international customer base, we could be adversely affected by reduced growth and greater volatility in the Pound Sterling and the U.K. economy. Changes to U.K. immigration policy could likewise occur as a result of Brexit. Although the United Kingdom would likely retain its diverse pool of talent, London’s role as a global financial center may decline, particularly if financial institutions shift their operations to the European Union and the E.U. financial services passport is not maintained. Any adjustments we make to our business and operations as of Brexit could result in significant time and expense to complete. Any of the foregoing factors could have a material adverse effect on our business, results of operations or financial condition.
+
+Our international operations are subject to exchange rate fluctuations.
+
+We operate in many countries around the world and a significant part of our revenue comes from international sales. In 2016, we generated approximately 40 percent of our revenues from sales outside the United States. Approximately 20 percent of our revenue is transacted in currencies other than the U.S. dollar. We earn revenues, pay expenses, own assets, and incur liabilities in countries using currencies other than the U.S. dollar, including the British Pound, the Canadian Dollar, the Indian rupee and the Euro. As we continue to leverage our global delivery model, more of our expenses will likely be incurred in currencies other than those in which we bill for the related products and services. An increase in the value of certain currencies against the U.S. dollar could increase costs for delivery of services at offshore sites by increasing labor and other costs that are denominated in local currency. Because our consolidated financial statements are presented in U.S. dollars, we must translate revenues, income, expenses, and the value of assets and liabilities into U.S. dollars at exchange rates in effect during or at the 
+
+ 18
+
+Table of Contents
+
+end of each reporting period. We may use derivative financial instruments to reduce our net exposure to currency exchange rate fluctuations. Nevertheless, increases or decreases in the value of the U.S. dollar against other major currencies can materially affect our net operating revenues, operating income, and the value of balance sheet items denominated in other currencies. We expect foreign currency to negatively impact our revenue growth in 2017.
+
+Our international operations are subject to risks relating to worldwide operations.
+
+Operating in many jurisdictions around the world, we may be affected by numerous, and sometimes conflicting, legal and regulatory regimes, including: changes in tax rates and tax laws or their interpretation, including changes related to tax holidays or tax incentives; trade protection laws, policies and measures, and other regulatory requirements affecting trade and investment; unexpected changes in regulatory requirements; social, political, labor, or economic conditions in a specific country or region; and difficulties in staffing and managing local operations. We must also manage: difficulties in penetrating new markets because of established and entrenched competitors, uncertainties of obtaining data and creating products and services that are relevant to particular geographic markets; lack of recognition of our brands, products or services, unavailability of joint venture partners or local companies for acquisition, restrictions or limitations on outsourcing contracts or services abroad, differing levels of data privacy and intellectual property protection in various jurisdictions; potential adverse tax consequences on the repatriation of funds and from taxation reform affecting multinational companies and exposure to adverse government action in countries where we may conduct reporting activities. Because of the varying degrees of development of the legal systems of the countries in which we operate, local laws might be insufficient to protect our rights. Compliance with diverse legal and regulatory requirements is costly, time-consuming and requires significant resources. Violations could result in significant fines or monetary damages, criminal sanctions, prohibitions or restrictions on doing business and damage to our reputation.
+
+In addition, as we operate our business around the world, we must manage the potential conflicts between locally accepted business practices in any given jurisdiction and our obligations to comply with laws and regulations, including anti-corruption laws or regulations applicable to us, such as the U.S. Foreign Corrupt Practices Act and the UK Bribery Act 2010. We have developed and instituted a corporate compliance program which includes, among other things, employee training and the creation of appropriate policies defining employee behavior that mandate adherence to laws. While we implement policies and procedures intended to promote and facilitate compliance with all applicable laws, our employees, contractors, and agents, as well as those independent companies to which we outsource certain business operations, may take actions in violation of our policies. Any such violation, even if prohibited by our policies, could subject us to criminal or civil enforcement actions or otherwise have an adverse effect on our business and reputation. Our inability to manage some or all of these risks of operating a global business could have a material adverse effect on our business, financial condition, and operating results.
+
+International hostilities, terrorist or cyber-terrorist activities, natural disasters, pandemics, and infrastructure disruptions could prevent us from effectively serving our customers and thus adversely affect our results of operations. 
+
+Acts of terrorist violence, cyber-terrorism, political unrest, armed regional and international hostilities and international responses to these hostilities, natural disasters, including hurricanes or floods, global health risks or pandemics or the threat of or perceived potential for these events could have a negative impact on us. These events could adversely affect our customers’ levels of business activity and precipitate sudden significant changes in regional and global economic conditions and cycles. These events also pose significant risks to our employees and our physical facilities and operations around the world, whether the facilities are ours or those of our third-party service providers or customers. By disrupting communications and travel and increasing the difficulty of obtaining and retaining highly skilled and qualified personnel, these events could make it difficult or impossible for us to deliver products and services to our customers. Extended disruptions of electricity, other public utilities or network services at our facilities, as well as system failures at our facilities or otherwise, could also adversely affect our ability to serve our customers. We may be unable to protect our employees, facilities and systems against all such occurrences. We generally do not have insurance for losses and interruptions caused by terrorist attacks, conflicts and wars. If these disruptions prevent us from effectively serving our customers, our results of operations could be adversely affected.
+
+If we are unable to successfully identify acquisitions, strategic investments, partnerships or alliances or we experience integration or other risks resulting from our acquisitions, strategic investments, partnerships or alliances, our financial results may be adversely affected.
+
+As we continue pursuing selective acquisitions, strategic investments, partnerships or alliances with third parties to support our business and growth strategy, we seek to be disciplined, and there can be no assurance that we will be able to identify suitable acquisition, strategic investment, partnership or alliance candidates on favorable terms, if at all. In addition, our ability to achieve the expected returns and synergies from our past and future acquisitions, strategic investments, partnerships and alliances depends in part upon our ability to effectively integrate the offerings, technology, sales, 
+
+ 19
+
+Table of Contents
+
+administrative functions, and personnel of these businesses into our business. We cannot assure you that we will be successful in integrating acquired businesses, strategic investments, partnerships or alliances or that they will perform at the levels we anticipate. In addition, our past and future strategic acquisitions, partnerships and alliances may subject us to unanticipated risks or liabilities or disrupt our operations.
+
+We may fail to realize the anticipated benefits of the Merger. 
+
+The success of the Merger will depend on, among other things, our ability to combine the legacy businesses of IHS and Markit in a manner that realizes anticipated synergies and exceeds the projected stand-alone cost savings and revenue growth trends identified by us. We expect to benefit from cost synergies driven by integrating corporate functions, reducing technology spending by optimizing IT infrastructure, using centers of excellence in cost-competitive locations and optimizing real estate and other costs, as well as greater tax efficiencies from global management and global cash movement. We may also enjoy revenue synergies, including product and service cross-selling, a more diversified and expanded product offering and balance across geographic regions.
+
+However, we must successfully combine the legacy businesses of IHS and Markit in a manner that permits these cost savings and synergies to be realized. In addition, we must achieve the anticipated savings and synergies in a timely manner and without adversely affecting current revenues and investments in future growth. If we are not able to successfully achieve these objectives, or the cost to achieve these synergies is greater than expected, we may not realize fully, or at all, the anticipated benefits of the Merger, or it may take longer to realize the benefits than expected. 
+
+A variety of factors may adversely affect our ability to realize the currently expected operating synergies, savings and other benefits of the Merger, including the failure to successfully optimize our facilities footprint, the inability to leverage existing customer relationships, the failure to identify and eliminate duplicative programs, the failure to otherwise integrate the legacy businesses of IHS and Markit, unforeseen increased expenses associated with the Merger and possible adverse tax consequences pursuant to changes in applicable tax laws, regulations or other administrative guidance.
+
+We may encounter significant difficulties in combining the legacy IHS and Markit businesses.
+
+The combination of two independent businesses is a complex, costly and time-consuming process. As a result, we will be required to devote significant management attention and resources to combining the business practices and operations of the legacy IHS and Markit businesses. This process may disrupt the businesses. The failure to meet the challenges involved in combining the two businesses and to realize the anticipated benefits of the transactions could cause an interruption of, or a loss of momentum in, the activities of the combined company and could adversely affect our results of operations. The overall combination of legacy IHS and Markit businesses may also result in material unanticipated problems, expenses, liabilities, competitive responses, loss of customer and other business relationships and diversion of management attention. The difficulties of combining the operations of the companies include, among others:
+
+•
+
+the diversion of management attention to integration matters;
+
+•
+
+difficulties in integrating operations and systems and maintaining institutional knowledge and procedures;
+
+•
+
+challenges in conforming standards, controls, procedures and accounting and other policies, business cultures and compensation structures between the two companies;
+
+•
+
+difficulties in attracting and retaining key personnel;
+
+•
+
+challenges in keeping existing customers and obtaining new customers;
+
+•
+
+difficulties in achieving anticipated cost savings, synergies, business opportunities and growth prospects from the combination;
+
+•
+
+unanticipated transaction and integration expenses;
+
+•
+
+difficulties in managing the expanded operations of a significantly larger and more complex and geographically diverse company;
+
+•
+
+contingent liabilities (including contingent tax liabilities) that are larger than expected; and
+
+•
+
+potential unknown liabilities, adverse consequences and unforeseen increased expenses associated with the Merger, including possible adverse tax consequences to the combined company pursuant to changes in applicable tax laws or regulations.
+
+Many of these factors are outside of our control, and any one of them could result in increased costs, decreased expected revenues and diversion of management time and energy, which could materially impact the business, financial condition and results of operations of the combined company.
+
+Our indebtedness could adversely affect our business, financial condition, and results of operations.
+
+ 20
+
+Table of Contents
+
+Our indebtedness could have significant consequences on our future operations, including: 
+
+•
+
+making it more difficult for us to satisfy our indebtedness obligations and our other ongoing business obligations, which may result in defaults; 
+
+•
+
+events of default if we fail to comply with the financial and other covenants contained in the agreements governing our debt instruments, which could result in all of our debt becoming immediately due and payable or require us to negotiate an amendment to financial or other covenants that could cause us to incur additional fees and expenses;
+
+•
+
+sensitivity to interest rate increases on our variable rate outstanding indebtedness, which could cause our debt service obligations to increase significantly;
+
+•
+
+reducing the availability of our cash flow to fund working capital, capital expenditures, acquisitions and other general corporate purposes, and limiting our ability to obtain additional financing for these purposes; 
+
+•
+
+limiting our flexibility in planning for, or reacting to, and increasing our vulnerability to, changes in our business, the industries in which we operate, and the overall economy; 
+
+•
+
+placing us at a competitive disadvantage compared to any of our competitors that have less debt or are less leveraged; and 
+
+•
+
+increasing our vulnerability to the impact of adverse economic and industry conditions. 
+
+Our ability to meet our payment and other obligations under our debt instruments depends on our ability to generate significant cash flow in the future. This, to some extent, is subject to general economic, financial, competitive, legislative and regulatory factors as well as other factors that are beyond our control. We cannot assure you that our business will generate cash flow from operations, or that future borrowings will be available to us under our existing or any future credit facilities or otherwise, in an amount sufficient to enable us to meet our indebtedness obligations and to fund other liquidity needs. We may incur substantial additional indebtedness, including secured indebtedness, for many reasons, including to fund acquisitions. If we add additional indebtedness or other liabilities, the related risks that we face could intensify.
+
+The price of our common shares may be volatile and may be affected by market conditions beyond our control.
+
+Our share price is likely to fluctuate in the future because of the volatility of the stock market in general and a variety of factors, many of which are beyond our control. Market fluctuations could result in volatility in the price of our common shares, one possible outcome of which could be a decline in the value of your investment. In addition, if our operating results fail to meet the expectations of stock analysts or investors, or if we are perceived by the market to suffer material business or reputational damage, we may experience a significant decline in the trading price of our common shares.
+
+Sales of substantial amounts of our common shares in the public market, or the perception that these sales may occur, could cause the market price of our shares to decline.
+
+Sales of substantial amounts of our common shares in the public market, or the perception that these sales may occur, could depress the market price of our common shares and could impair our ability to raise capital through the sale of additional equity securities. We have entered into a registration rights and lock-up agreement with certain of our shareholders. Following the expiration of the lock-up periods set forth in that agreement, these shareholders will have the right to demand that we file a registration statement covering the offer and sale of their securities under the Securities Act, for as long as each holds unregistered securities. Sales of common shares by these or any other shareholders, including through the exercise of options and the sale of shares by our employees, could have a material adverse effect on the trading price of our common shares. In addition, in February 2016, General Atlantic entered into a loan agreement pursuant to which it pledged 23,275,970 of our common shares to secure a $170.0 million loan. If General Atlantic were to default on its obligations under the loan and not timely post additional collateral, the lender would have the right to sell shares to satisfy General Atlantic’s obligation. We cannot predict the effect, if any, that future sales and issuances of shares would have on the market price of our common shares.
+
+The U.S. Internal Revenue Service (the “IRS”) may not agree that, after the Merger, IHS Markit should be treated as a foreign corporation for U.S. federal income tax purposes, and/or that we are not subject to certain other adverse U.S. federal income tax laws relating to certain transactions that we may undertake in the future. In addition, future changes to U.S. tax laws could adversely affect us.
+
+Although IHS Markit is incorporated in Bermuda and is and has been treated as tax resident in the United Kingdom, the IRS may assert that IHS Markit should be treated as a U.S. corporation (and, therefore, a U.S. tax resident) for U.S. federal income tax purposes pursuant to Section 7874 of the Code (referred to as “Section 7874”). Section 7874 provides that if, following an acquisition of a U.S. corporation by a non-U.S. corporation, at least 80% of the acquiring non-U.S. corporation’s stock (by vote or value) is considered to be held by former shareholders of the U.S. corporation by reason of holding stock of such U.S. corporation (such percentage referred to as the “ownership percentage” and such test referred to as the “ownership 
+
+ 21
+
+Table of Contents
+
+test”) and the “expanded affiliated group” which includes the acquiring non-U.S. corporation does not have substantial business activities in the country in which the acquiring non-U.S. corporation is created or organized, then the non-U.S. corporation would be treated as a U.S. corporation for U.S. federal income tax purposes even though it is a corporation created and organized outside the United States. 
+
+Moreover, if the ownership percentage is 60% or more (but less than 80%), the acquired U.S. corporation and its U.S. affiliates could be prohibited from using foreign tax credits or other attributes to offset the income or gain recognized by reason of the transfer of property to a foreign related person or any income received or accrued by reason of a license of any property by the acquired U.S. corporation to a foreign related person. In addition, in such case, a combined company may have a limited ability to integrate certain of its non-U.S. operations or access cash earned by the acquired U.S. corporation’s non-U.S. subsidiaries, in each case without incurring substantial U.S. tax liabilities.
+
+We believe that, based on current law, Section 7874 did not to apply to us after the Merger because the former IHS stockholders held, for purposes of the relevant Section 7874 rules, less than 60% of our common shares (by vote and value) after the Merger by reason of holding IHS common stock. However, there is limited guidance regarding the application of Section 7874, and there can be no assurance that the IRS will agree with the position that the former IHS stockholders will be treated as holding less than 60% of our common shares (by vote and value) after the Merger by reason of holding IHS common stock for purposes of the ownership test. Further, a subsequent change in law might cause IHS stockholders to be treated as owning either 60% or more, or 80% or more, of our common shares after the Merger for U.S. federal income tax purposes, including with retroactive effect to the date of the Merger. 
+
+If IHS stockholders were treated as having acquired 80% of our common shares for U.S. federal income tax purposes, IHS Markit would be treated as a U.S. corporation for U.S. federal income tax purposes, and we could be liable for substantial additional U.S. federal income tax on its operations and income following the closing of the Merger. Additionally, non-U.S. shareholders would be subject to U.S. withholding tax on the gross amount of any dividends we pay to such shareholders. If IHS stockholders were treated as having acquired 60% or more (but less than 80%) of our common shares for U.S. federal income tax purposes, while IHS Markit would not be treated as a U.S. corporation for U.S. federal income tax purposes, we could be subject to the other adverse tax consequences described above.
+
+Finally, recent legislative proposals have aimed to expand the scope of U.S. corporate tax residence, including in such a way as would cause IHS Markit to be treated as a U.S. corporation if the management and control of IHS Markit and its affiliates were determined to be located primarily in the United States, or would reduce the ownership percentage at or above which IHS Markit would be treated as a U.S. corporation. Thus, the rules under Section 7874 and other relevant provisions of U.S. tax law could change on a prospective or retroactive basis in a manner that could adversely affect us.
+
+Audits, investigations and tax proceedings could have a material adverse effect on our results of operations and financial condition.
+
+We are subject to direct and indirect taxes in numerous jurisdictions. We calculate and provide for such taxes in each tax jurisdiction in which we operate. The amount of tax we pay is subject to our interpretation of applicable tax laws in the jurisdictions in which we file. We have taken and will continue to take tax positions based on our interpretation of tax laws, but tax accounting often involves complex matters and judgment is required in determining our worldwide provision for taxes and other tax liabilities. Although we believe that we have complied with all applicable tax laws, we have been and expect to continue to be subject to ongoing tax audits in various jurisdictions, and tax authorities have disagreed, and may in the future disagree, with some of our interpretations of applicable tax law. We regularly assess the likely outcomes of these audits to determine the appropriateness of our tax provisions. However, our judgments may not be sustained on completion of these audits, and the amounts ultimately paid could be different from the amounts previously recorded, which may have a material adverse effect on our results of operations and financial condition.
+
+Future changes in tax laws, including in the rates of taxation, could have a material adverse effect on our results of operations and financial condition.
+
+Our tax liabilities and effective tax rate in the future could be adversely affected by changes in the mix of earnings in countries with differing statutory tax rates, changes in the valuation of deferred tax assets and liabilities and changes in tax laws. Tax laws, including tax rates, in the jurisdictions in which we operate may change as a result of macroeconomic, political or other factors, and such changes could have a negative impact on our profitability. For example, the U.S. Congress, the Organisation for Economic Co-operation and Development (“OECD”) and other government agencies have had an extended focus on issues related to the taxation of multinational corporations. One example is in the area of “base erosion and profit shifting.” The G20 finance ministers have endorsed a comprehensive plan set forth by the OECD to create an agreed set of 
+
+ 22
+
+Table of Contents
+
+international rules for fighting base erosion and profit shifting. As a result, the tax laws in the United States, the United Kingdom, and other countries in which we operate could change on a prospective or retroactive basis, and any such changes could adversely affect us. In addition, changes in tax laws, treaties or regulations, or their interpretation or enforcement, may be unpredictable, particularly in less developed markets, and could become more stringent, which could materially adversely affect our tax position. Any of these occurrences could have a material adverse effect on our results of operations and financial condition.
+
+Bermuda law differs from the laws in effect in the United States and may afford less protection to holders of our common shares, including enforcing judgments against us or our directors and executive officers. 
+
+We are organized under the laws of Bermuda, as a Bermuda exempted company. As a result, our corporate affairs and the rights of holders of our common shares are governed by Bermuda law, including the Companies Act 1981 (the “Companies Act”), which differs in some material respects from laws typically applicable to U.S. corporations and shareholders, including the provisions relating to interested directors, amalgamations, mergers and acquisitions, takeovers, shareholder lawsuits and indemnification of directors. Generally, the duties of directors and officers of a Bermuda company are owed to the company only. Shareholders of Bermuda companies typically do not have rights to take action against directors or officers of the company and may only do so in limited circumstances. Class actions are not available under Bermuda law. The circumstances in which derivative actions may be available under Bermuda law are substantially more proscribed and less clear than they would be to shareholders of U.S. corporations. The Bermuda courts, however, would ordinarily be expected to permit a shareholder to commence an action in the name of a company to remedy a wrong to the company where the act complained of is alleged to be beyond the corporate power of the company or illegal, or would result in the violation of the company’s memorandum of association or bye-laws. Furthermore, consideration would be given by a Bermuda court to acts that are alleged to constitute a fraud against the minority shareholders or, for instance, where an act requires the approval of a greater percentage of the company’s shareholders than that which actually approved it. 
+
+When the affairs of a company are being conducted in a manner that is oppressive or prejudicial to the interests of some shareholders, one or more shareholders may apply to the Supreme Court of Bermuda, which may make such order as it sees fit, including an order regulating the conduct of the company’s affairs in the future or ordering the purchase of the shares of any shareholders by other shareholders or by the company. Additionally, under our bye-laws and as permitted by Bermuda law, each shareholder has waived any claim or right of action against our directors or officers for any action taken by directors or officers in the performance of their duties, except for actions involving fraud or dishonesty. In addition, the rights of holders of our common shares and the fiduciary responsibilities of our directors under Bermuda law are not as clearly established as under statutes or judicial precedent in existence in jurisdictions in the United States, particularly the State of Delaware. It is also doubtful whether courts in Bermuda will enforce judgments obtained in other jurisdictions, including the United States, against us or our directors or officers under the securities laws of those jurisdictions or entertain actions in Bermuda against us or our directors or officers under the securities laws of other jurisdictions. Therefore, holders of our common shares may have more difficulty protecting their interests than would shareholders of a corporation incorporated in a jurisdiction within the United States.
+
+We have anti-takeover provisions in our bye-laws that may discourage a change of control.
+
+Our bye-laws contain provisions that could make it more difficult for a third party to acquire us without the consent of our Board of Directors. These provisions provide for:
+
+•
+
+a classified board of directors with staggered three-year terms;
+
+•
+
+directors only to be removed for cause;
+
+•
+
+restrictions on the time period in which directors may be nominated;
+
+•
+
+our Board of Directors to determine the powers, preferences and rights of our preference shares and to issue the preference shares without shareholder approval; and
+
+•
+
+an affirmative vote of 66-2/3% of our voting shares for certain “business combination” transactions which have not been approved by our Board of Directors.
+
+These provisions could make it more difficult for a third party to acquire us, even if the third party’s offer may be considered beneficial by many shareholders. As a result, shareholders may be limited in their ability to obtain a premium for their shares.

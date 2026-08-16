@@ -1,0 +1,354 @@
+.
+
+ Risks
+ and Uncertainties
+
+ Described below are some of the risks and uncertainties that
+ could cause actual results to differ materially from the results
+ contemplated by the forward-looking statements contained in this
+ Annual Report. See “Forward-Looking Statements” that
+ precedes Part I of this
+ Form 10-K.
+
+ We
+ compete in a cyclical market.
+
+ Our business depends on capital expenditures of customers in a
+ wide range of industries, including the telecommunications,
+ semiconductor, and computer industries. Each of these industries
+ has historically been cyclical and has experienced periodic
+ downturns, which have had a material adverse impact on the
+ demand for equipment and services manufactured and marketed by
+ us. During periods of reduced and declining demand, we may need
+ to rapidly align our cost structure with prevailing market
+ conditions while at the same time motivate and retain key
+ employees. Our net sales and operating results could be
+ adversely affected by the reversal of any favorable trends or
+ any future downturns or slowdowns in the rate of capital
+ investment in these industries. In addition, the
+ telecommunications industry has been going through a period of
+ consolidation in which several major telecommunications
+ operators and equipment manufacturers have either merged with
+ each other or been acquired. This consolidation activity may
+ affect the overall level of capital expenditures made by these
+ operators for test and measurement equipment, and may also
+ affect the relative competitive position between us and our
+ competitors in this market.
+
+ The
+ industries we serve experience rapid changes in
+ technology.
+
+ We sell our products to customers that participate in rapidly
+ changing high technology markets, which are characterized by
+ short product life cycles. Our ability to deliver a timely flow
+ of competitive new products and market acceptance of those
+ products, as well as the ability to increase production or to
+ develop and maintain effective sales channels, is essential to
+ growing the business. Because we sell test, measurement and
+ monitoring products that enable our customers to develop new
+ technologies, we must accurately anticipate the ever-evolving
+
+ 9
+
+Table of Contents
+
+ needs of those customers and deliver appropriate products and
+ technologies at competitive prices to meet customer demands. Our
+ ability to deliver those products could be affected by
+ engineering or other development program delays as well as the
+ availability of parts and supplies from third-party providers on
+ a timely basis and at reasonable prices. In addition, we face
+ risks associated with designing products and obtaining
+ components that are compliant with the “Restriction of
+ Hazardous Substances” worldwide regulatory provisions,
+ which include removing lead from current and future product
+ designs. We also expect spending for traditional networks to
+ continue to decrease, which requires that we continue to develop
+ products and applications for networks based on emerging
+ next-generation
+ wireless and packet-based technologies and standards. We may not
+ successfully develop or acquire additional competitive products
+ for these emerging technologies and standards. Failure to timely
+ develop or acquire competitive and reasonably priced products
+ that are compliant with evolving regulatory standards could have
+ an adverse effect on our results of operations, financial
+ condition, or cash flows.
+
+ Competition
+ is intense, may intensify and could result in increased downward
+ pricing pressure, reduced margins and the loss of market
+ share.
+
+ We compete with a number of companies in specialized areas of
+ other test and measurement products and one large broad line
+ measurement products supplier, Agilent Technologies. Other
+ competitors include Anritsu Corporation, Catapult Communications
+ Corporation, Harris Corporation, JDS Uniphase Corporation,
+ LeCroy Corporation, NetHawk Group, Rohde & Schwarz,
+ Spirent Communications, Yokogawa Electric Corporation, and many
+ other smaller companies. In general, the test and measurement
+ industry is a highly competitive market based primarily on
+ product performance, technology, customer service, product
+ availability, and price. Some of our competitors may have
+ greater resources to apply to each of these factors and in some
+ cases have built significant reputations with the customer base
+ in each market in which we compete. We face pricing pressures
+ that may have an adverse impact on our earnings. If we are
+ unable to compete effectively on these and other factors, it
+ could have a material adverse effect on our results of
+ operations, financial condition, or cash flows. In addition, we
+ enjoy a leadership position in various core product categories,
+ and continually develop and introduce new products designed to
+ maintain that leadership, as well as to penetrate new markets.
+ Failure to develop and introduce new products that maintain a
+ leadership position or that fail to penetrate new markets may
+ adversely affect operating results.
+
+ We
+ obtain various key components, services and licenses from sole
+ and limited source suppliers.
+
+ Our manufacturing operations are dependent on the ability of
+ suppliers to deliver high quality components, subassemblies and
+ completed products in time to meet critical manufacturing and
+ distribution schedules. We periodically experience constrained
+ supply of component parts in some product lines as a result of
+ strong demand in the industry for those parts. We buy a
+ significant portion of our circuit boards from one supplier and
+ a significant portion of our Application Specific Integrated
+ Chips (“ASICs”) from two suppliers. Both circuit
+ boards and ASICs are important components of our products and
+ are built to Tektronix’ specifications. We believe other
+ suppliers could build the circuit boards, however there are a
+ limited number of suppliers that could build ASICs to
+ Tektronix’ specifications. These constraints, if
+ persistent, may adversely affect operating results until
+ alternate sourcing can be developed. There is increased risk of
+ supplier constraints in periods where we are increasing
+ production volume to meet customer demands. Volatility in the
+ prices of these component parts, an inability to secure enough
+ components at reasonable prices to build new products in a
+ timely manner in the quantities and configurations demanded or,
+ conversely, a temporary oversupply of these parts, could
+ adversely affect our future operating results. In addition, we
+ use various sole source components that are integral to a
+ variety of products. Disruption in key sole source suppliers
+ could have a significant adverse effect on our results of
+ operations.
+
+ We are dependent on various third-party logistics providers to
+ distribute our products throughout the world. Any disruptions in
+ their ability to ship products to our customers could have a
+ significant adverse effect on our results of operations.
+
+ We rely upon software licensed from third parties. If we are
+ unable to maintain these software licenses on commercially
+ reasonable terms, our business, financial condition, results of
+ operations, or cash flow could be harmed.
+
+ 10
+
+Table of Contents
+
+ Changes
+ or delays in the implementation or customer acceptance of our
+ products could harm our financial results.
+
+ Revenues for a significant portion of our network management
+ solution products are typically recognized upon the completion
+ of system installation or customer acceptance. Delays caused by
+ us or our customers in the commencement or completion of
+ scheduled product installations and acceptance testing may occur
+ from time to time. Changes or delays in the implementation or
+ customer acceptance of our products could harm our financial
+ results.
+
+ There are additional product risks associated with sales of the
+ network management products. Sales of our network management
+ products often involve large contracts and custom development
+ criteria. Because a significant portion of our total revenues on
+ a quarterly basis is derived from projects requiring explicit
+ acceptance by the customer, product installation
+ and/or
+ development delays could materially harm our financial results
+ for a particular period. Additionally, we may be subject to
+ penalties or other customer claims for failure to meet
+ contractually agreed upon milestones or deadlines, which could
+ include cancellation of an order and impairment of the
+ associated inventory.
+
+ Our
+ network management business and reputation could suffer if we do
+ not prevent security breaches.
+
+ We have included security features in some of the network
+ management products that are intended to protect the privacy and
+ integrity of customer data. Despite the existence of these
+ security features, these products may be vulnerable to breaches
+ in security due to unknown defects in the security mechanisms,
+ as well as vulnerabilities inherent in the operating system or
+ hardware platform on which the product runs or the networks
+ linked to that platform. Security vulnerabilities, regardless of
+ origin, could jeopardize the security of information stored in
+ and transmitted through the computer systems of our customers.
+ Any security problem may require significant expenditures to
+ solve and could materially harm our reputation and product
+ acceptance.
+
+ A
+ significant portion of our revenues are from international
+ customers, and, as a result, our business may be harmed by
+ political and economic conditions in foreign markets and the
+ challenges associated with operating
+ internationally.
+
+ We maintain operations and conduct business in four major
+ geographies: the Americas, Europe, the Pacific, and Japan. Some
+ of our manufacturing operations and key suppliers are located in
+ foreign countries, including China, where we expect to further
+ expand our operations. As a result, business is subject to the
+ worldwide economic and market condition risks generally
+ associated with doing business globally, such as fluctuating
+ exchange rates; the stability of international monetary
+ conditions; tariff and trade policies; export license
+ requirements and technology export restrictions; import
+ regulations; domestic and foreign tax policies; foreign
+ governmental regulations; political unrest, wars and acts of
+ terrorism; epidemic disease and other health concerns; and
+ changes in other economic and political conditions. These
+ factors, among others, could restrict or adversely affect our
+ ability to sell in global markets, as well as our ability to
+ manufacture products or procure supplies, and could subject us
+ to additional costs. In addition, a significant downturn in the
+ global economy or a particular region could adversely affect our
+ results of operations, financial condition, or cash flows.
+
+ Our
+ success depends on our ability to maintain and protect our
+ intellectual property and the intellectual property licensed
+ from others.
+
+ As a technology-based company, our success depends on developing
+ and protecting our intellectual property. We rely generally on
+ patent, copyright, trademark and trade secret laws in the United
+ States and abroad. Electronic equipment as complex as most of
+ our products, however, is generally not patentable in its
+ entirety. We also license intellectual property from third
+ parties and rely on those parties to maintain and protect their
+ technology. We cannot be certain that actions we take to
+ establish and protect proprietary rights will be adequate,
+ particularly in countries (including China) where intellectual
+ property rights are not highly developed or protected. If we are
+ unable to adequately protect our technology, or if we are unable
+ to continue to obtain or maintain licenses for protected
+ technology from third parties, it could have a material adverse
+ effect on our results of operations, financial condition, or
+ cash flows. From time to time in the usual course of business,
+ we receive notices from third parties
+
+ 11
+
+Table of Contents
+
+ regarding intellectual property infringement or take action
+ against others with regard to intellectual property rights. Even
+ where we are successful in defending or pursuing infringement
+ claims, we may incur significant costs. In the event of a
+ successful claim against us, we could lose our rights to needed
+ technology or be required to pay license fees for the infringed
+ rights, either of which could have an adverse impact on our
+ business.
+
+ We are
+ subject to environmental regulations.
+
+ We are subject to a variety of federal, state, local and foreign
+ environmental regulations relating to the use, storage,
+ discharge and disposal of hazardous chemicals used during our
+ manufacturing process.
+
+ We have closed a licensed hazardous waste management facility at
+ our Beaverton, Oregon campus and have entered into a consent
+ order with the Oregon Department of Environmental Quality
+ requiring certain remediation actions. If we fail to comply with
+ the consent order or any present or future regulations, we could
+ be subject to future liabilities or the suspension of
+ production. In addition, environmental regulations could
+ restrict our ability to expand our facilities or could require
+ us to acquire costly equipment, or to incur other significant
+ expenses to comply with environmental regulations.
+
+ Our
+ defined benefit pension plans are subject to financial market
+ risks.
+
+ Our defined benefit pension plan obligations are affected by
+ changes in market interest rates and the majority of plan assets
+ are invested in publicly traded debt and equity securities,
+ which are affected by market risks. Significant changes in
+ market interest rates, decreases in the fair value of plan
+ assets and investment losses on plan assets may adversely impact
+ our operating results. See “Critical Accounting
+ Estimates — Pension Plans” in Item 7
+ Management’s Discussion and Analysis of Financial Condition
+ and Results of Operations of Part II of this
+ Form 10-K
+ below for additional discussion.
+
+ Our
+ reported results of operations will be materially and adversely
+ affected by our adoption of SFAS 123R.
+
+ Statement of Financial Accounting Standards (“SFAS”)
+ No. 123 (Revised 2004), “Share-Based Payment”
+ (“SFAS 123R”), which will be effective in our
+ first quarter of fiscal year 2007, will result in our
+ recognition of substantial compensation expense relating to our
+ stock incentive plan and employee stock purchase plan. We
+ currently use the intrinsic value method to measure compensation
+ expense for stock-based awards to our employees. Under this
+ standard, we generally have not recognized any compensation
+ expense related to stock option grants we issue under our stock
+ incentive plans or the discounts we provide under our employee
+ stock purchase plan. Under the new rules, we will be required to
+ adopt a fair value-based method for measuring the compensation
+ expense related to employee stock awards, which will lead to
+ substantial additional compensation expense and will have a
+ material adverse effect on our reported results of operations.
+ See Note 4 of the Notes to Consolidated Financial
+ Statements under Part II Item 8 Financial Statements
+ and Supplementary Data of this Report for the pro forma impact
+ on net earnings and earnings per share from calculating
+ stock-related compensation cost under the fair value alternative
+ of SFAS No. 123. However, the calculation of
+ compensation cost for share-based payment transactions after the
+ effective date of SFAS No. 123R may be different from
+ the calculation of compensation cost under
+ SFAS No. 123, but such differences have not yet been
+ quantified.
+
+ We
+ face other risk factors.
+
+ Our business could be impacted by macroeconomic factors. The
+ recent volatility in energy prices and rising interest rates
+ could have a negative impact on the economy overall and could
+ adversely affect our results of operations, financial condition,
+ or cash flows.
+
+ Other risk factors include but are not limited to changes in the
+ mix of products sold, regulatory and tax legislation, changes in
+ effective tax rates, inventory risks due to changes in market
+ demand or our business strategies, potential litigation and
+ claims arising in the normal course of business, credit risk of
+ customers, the fact that a substantial portion of our sales
+ during a quarter are generated from orders received during that
+ quarter, and significant modifications to existing information
+ systems. If any of these risks occur, they could adversely
+ affect our results of operations, financial condition, or cash
+ flows.
+
+ 12
+
+Table of Contents

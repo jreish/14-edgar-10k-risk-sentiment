@@ -1,0 +1,1687 @@
+,” and “
+Management’s Discussion and Analysis of Financial Condition and Results of Operations” contain forward-looking statements. 
+
+Other factors not identified above, including the risk factors described in the section entitled “Risk Factors” included
+elsewhere in this Annual Report on Form 10-K, may also cause actual results to differ materially from those projected by our forward-looking statements. Most of these factors are difficult to anticipate and are generally beyond our reasonable
+control. 
+
+You should consider the areas of risk described above, as well as those set forth in the section entitled
+“Risk Factors” included elsewhere in this Annual Report on Form 10-K, in connection with considering any forward-looking statements that may be made by us and our businesses generally. We cannot assure you that projected results or
+events reflected in the forward-looking statements will be achieved or occur. The forward-looking statements included in this document are made as of the date of this Annual Report on Form 10-K. We undertake no obligation to publicly release any
+revisions to any forward-looking statements, to report events or to report the occurrence of unanticipated events. 
+
+MOTOROLA and the Stylized M Logo are trademarks or registered trademarks of Motorola Trademark Holdings, LLC. DROID
+is a trademark of Lucasfilm Ltd. and its related companies. Used under license. GOOGLE and ANDROID are trademarks of Google Inc. All other product or service names are the property of their respective owners. ©
+ 2011 Motorola Mobility, Inc. All rights reserved. 
+
+Table of Contents
+
+1
+
+PART I 
+
+Throughout this 10-K report we “incorporate by reference” certain information in parts of other documents filed with the
+Securities and Exchange Commission (the “SEC”). The SEC allows us to disclose important information by referring to it in that manner. Please refer to such information. 
+
+We are making forward-looking statements in this report. In “Item 1A: Risk Factors” we discuss some of the risk factors
+that could cause actual results to differ materially from those stated in the forward-looking statements. 
+
+“Motorola Mobility” (which may be referred to as the “Company,” “we,” “us,” or
+“our”) means Motorola Mobility Holdings, Inc. or Motorola Mobility Holdings, Inc. and its subsidiaries, or one of our segments, as the context requires. “Motorola” is a registered trademark of Motorola Trademark
+Holdings, LLC. 
+
+Item 1: Business 
+
+Separation from Motorola, Inc. 
+
+On January 4, 2011 (the
+“Distribution Date”), Motorola Mobility Holdings, Inc. became an independent, publicly traded company as a result of Motorola, Inc.’s distribution of its shares of Motorola Mobility to Motorola, Inc. stockholders. On the Distribution
+Date, Motorola, Inc. stockholders of record as of the close of business on December 21, 2010 (the “Record Date”) received one share of Motorola Mobility common stock for every eight shares of Motorola, Inc. common stock held as of the
+Record Date (the “Distribution”). Motorola Mobility is comprised of Motorola, Inc.’s former Mobile Devices and Home businesses. Motorola, Inc.’s Board of Directors approved the distribution of its shares of Motorola Mobility
+Holdings, Inc. on November 30, 2010. Motorola Mobility Holdings, Inc. was incorporated on May 28, 2010 and is the parent of Motorola Mobility, Inc., our main U.S. wholly owned operating subsidiary through which we conduct substantially all of the
+business activities discussed in this Annual Report on Form 10-K. Our Registration Statement on Form 10 was declared effective by the U.S. Securities and Exchange Commission on December 1, 2010. Our common stock began trading “regular-way”
+under the ticker symbol “MMI” on the New York Stock Exchange on January 4, 2011. 
+
+Motorola, Inc. changed its name to
+Motorola Solutions, Inc. (hereinafter, our “Former Parent”) effective on separation on January 4, 2011. 
+
+Motorola Mobility
+
+Motorola Mobility Holdings, Inc. is a provider of innovative technologies, products and services that enable a broad range
+of mobile and wireline digital communication, information and entertainment experiences. The Company’s integrated products and platforms deliver rich multimedia content, such as video, voice, messaging and Internet-based applications and
+services to multiple screens, such as mobile devices, televisions and personal computers (“multi-screens”). Our product portfolio primarily includes mobile devices, wireless accessories, set-top boxes and video distribution systems, and
+wireline broadband infrastructure products and associated customer premises equipment. We are focused on developing differentiated, innovative products to meet the expanding needs of consumers to communicate, to collaborate and to discover, consume,
+create and share content at a time and place of their choosing on multiple devices. We operate our business in two segments, our Mobile Devices segment and our Home segment. 
+
+We believe we are well positioned to enable the evolving digital lifestyle by delivering multi-screen experiences
+across multiple types of devices. Previously separate industries like the wireless, media, the Internet and computing industries are increasingly interacting with each other, creating consumer demand for new devices, applications and services,
+including cloud-based services. Cloud-based refers to a computing environment where applications and content are shared and delivered over the network using resources that might be located in a single data center, distributed across a number of data
+centers, or spread throughout the entire network. We offer devices that support these new applications and services, including the ATRIX™
+ smartphone and DROID™ by MOTOROLA family of smartphones. MOTOBLUR™, our cloud-based service platform, manages, aggregates, automatically delivers (referred
+to as “push”) and uploads personalized digital content, such as photos, videos and social networking updates. We are also a provider of products and services for the delivery of video, voice and data to the home. Our
+
+Table of Contents
+
+2
+
+businesses have complementary core strengths and synergies in intellectual property, technology, design, distribution and operator and carrier relationships, which together with a global brand
+uniquely position us to capitalize on emerging opportunities. 
+
+The relationship between consumers, devices and the world around
+them is rapidly evolving due to the convergence of wireless, media, the Internet and computing, and consumers’ demand for anywhere, anytime communications and collaboration. This convergence is enabling new digital lifestyles, as demonstrated
+by the following key trends, including: 
+
+•
+
+ Adoption of wireless and wired broadband Internet connectivity; 
+
+•
+
+ Increased use of social networking across multiple devices; 
+
+•
+
+ Growth of online and mobile video; and 
+
+•
+
+ Widespread use of online and mobile commerce. 
+
+These digital lifestyles are characterized by new engagement models. Consumers want to: 
+
+•
+
+ Communicate using voice, text, instant messaging, email, social networking and blogs; 
+
+•
+
+ Rapidly access information through broadband connectivity anywhere and anytime; 
+
+•
+
+ Consume and interact with entertainment and media content; 
+
+•
+
+ Use one device for both business and personal applications; 
+
+•
+
+ Capture and share user generated content, such as photos and videos; and 
+
+•
+
+ Purchase goods and services through online and mobile commerce. 
+
+We sell our products globally and in 2010 our net revenues were $11.5 billion. We have approximately 19,000 employees and we operate in
+approximately 40 countries, with major facilities in the U.S., China, Brazil and Taiwan. Our direct customers are large, leading telecommunications and cable operators. We also sell our products through retailers and distributors. We are strongly
+committed to research and development and we have a broad portfolio of approximately 17,000 granted patents and approximately 7,500 pending patent applications worldwide. 
+
+Business Segments 
+
+We report financial results
+for the following two business segments: 
+
+Mobile Devices Segment 
+
+The Mobile Devices segment is a provider of mobile devices and related products and services designed to deliver mobile communications,
+such as voice, messaging, push-to-talk and video, and to deliver mobile Internet access and content, including multimedia, social networking, navigation and other mobile applications. Mobile Devices net revenues represented 68% of Motorola
+Mobility’s combined net revenues in 2010. 
+
+Our Products 
+
+We design, manufacture and sell a range of mobile devices encompassing multiple network technologies, form factors (which are the physical look and mechanical function of a device), capabilities, price
+points and geographies. Our product portfolio of mobile devices includes smartphones (which are wireless phones with advanced Internet browsing and application capabilities), feature phones (which are wireless phones with limited Internet browsing
+and application capabilities), voice-centric phones (which are primarily used for calls and text messaging), and media tablet devices (also known as slates) (“media tablets”) that offer enhanced multimedia and functionality to the end
+user. We also provide complementary mobile software, services, and accessories and license our extensive portfolio of intellectual property. We market our products globally to mobile network operators and carriers (collectively “wireless
+carriers”) and consumers through direct sales, retailers, and distributors. 
+
+Our Industry 
+
+In 2010, total industry shipments of wireless handsets increased from an economically weakened level in 2009. The smartphone segment grew
+on a unit basis more than 60% from 2009 to 2010. We expect the smartphone 
+
+Table of Contents
+
+3
+
+segment unit growth to be between 40% to 50% for the full year 2011. In addition, wireless connectivity is being integrated into new classes of devices (“converged devices”), including
+media tablets, creating new growth opportunities for mobile devices manufacturers. We expect the market for media tablet units to more than double in 2011. 
+
+Key drivers of mobile device growth include: 
+
+•
+
+ Growing Consumer Demand for Multi-Function Devices. The mobile device is evolving from a voice-only communications device to a multi-function
+device with features like digital still camera, video camera, music player, organizer, email and calendars, Internet browsing and gaming. Consumers’ desire for mobile data and their evolving communication patterns will continue to drive the
+demand for devices with enhanced, personalized mobile experiences, including easy access to the Internet, content and applications on a real-time basis. 
+
+•
+
+ Wireless Carriers’ Focus on Growing Data ARPU. In response to intense competition and shifting consumer communication behavior, we expect
+wireless carriers to continue to focus on increasing data average revenue per user (“ARPU”) to offset declining voice ARPU. To drive data ARPU, we believe wireless carriers will continue to promote smartphones and converged devices that
+provide Internet access, applications and services. In addition, wireless carriers are continuing to deploy higher bandwidth wireless technologies such as fourth generation cellular (“4G”) standards to better support smartphones and
+converged devices that enhance consumers’ overall mobile experience. 
+
+•
+
+ Advanced Device Technology. High performance mobile microprocessors, advanced mobile browsers, and high speed wireless networks are enabling
+mobile devices to provide functionality similar to what consumers experience on a personal computer. Advanced operating systems have enabled third-party developers to create thousands of new innovative mobile applications that consumers can easily
+download and install on their mobile devices. 
+
+•
+
+ Emergence of Mobile Cloud-Based Services. Increasingly, cloud-based services and applications are being used to deliver information and content
+to mobile devices. Examples of these services include sharing and consumption of media, social networking and location based services, such as navigation. 
+
+•
+
+ Increasing Consumer Choices Within the Enterprise. Businesses are increasingly permitting employees to choose the mobile devices they use in the
+workplace. At the same time, employees are seeking multi-functional devices to serve business and personal applications. 
+
+Mobile device manufacturers compete in a rapidly evolving marketplace. To be successful, manufacturers must consistently innovate and deliver a differentiated product portfolio. This requires extensive
+intellectual property assets and expertise in the integration of hardware, software and, increasingly, services. Manufacturers must also have strong wireless carrier relationships, global distribution capabilities, a strong brand and the ability to
+effectively build or work within a growing ecosystem of applications. 
+
+Our Strengths 
+
+We believe the strengths of our Mobile Devices segment position us well to bring to market innovative and differentiated products and
+services. Our key strengths include: 
+
+•
+
+ Innovative Mobile Technologies. We have a long history of developing innovative mobile devices including the first portable cellular phone, the
+StarTAC
+®
+ and RAZR
+®
+ phones, the DROID by MOTOROLA family of smartphones and, more recently, the ATRIX. We have devoted extensive research and development resources into integrating
+advanced technologies such as multiple radio interfaces, mobile microprocessors, advanced mobile operating systems and advanced multimedia functionality and industrial design into our mobile devices. In addition, we have extended our expertise into
+software application and services development to create the MOTOBLUR service platform. 
+
+•
+
+ Diverse Product Portfolio. Our diverse global product portfolio includes media tablets, smartphones, feature phones and voice-centric devices.
+This portfolio extends across various wireless technologies, capabilities, form factors and price points. 
+
+•
+
+ Deep Customer Relationships. We have extensive relationships with wireless carriers, retailers and global distributors that have been in place
+for many years. Our global sales organization markets our portfolio of devices and services around the world. 
+
+Table of Contents
+
+4
+
+•
+
+ Strong Patent Portfolio. We have developed an extensive portfolio of intellectual property assets through our significant and continued
+investment in research and development. The intellectual property assets held by our Mobile Devices segment include approximately 15,200 granted patents and 6,200 pending patent applications, worldwide, which are complemented by another
+approximately 1,900 granted patents and 1,300 pending patent applications, worldwide, held by our Home segment for a total held by our two segments of approximately 17,000 granted patents and 7,500 pending patent applications, worldwide. These
+patents and patent applications are directed to inventions in areas such as wireless, audio, video, design and user interface (“UI”).” Further, we believe our portfolio of patents in 4G will position us well in the upcoming technology
+transition from 2G and 3G. 
+
+•
+
+ Global Brand. Our highly recognizable and successful global brand has been in use for over 80 years. We believe our brand is associated with
+quality, reliability and innovation. 
+
+Our Strategy 
+
+We are committed to provide a portfolio of smartphones and media tablets that will enhance the mobility of the Internet and deliver
+interactive, personalized multi-screen experiences and services to consumers around the world. The convergence of these experiences and services onto a single mobile device requires integration of hardware, software, services and UI, which we
+believe we can provide with our mobile devices. We also selectively develop devices which target other segments of the mobile device market, including feature phones and voice-centric devices. 
+
+Our strategy is to differentiate ourselves from competitors across a number of dimensions. We are differentiating our portfolio by
+providing an array of innovative and integrated smartphone devices and media tablets encompassing multiple price points, technologies and geographies. Media tablets will bring the power of computing into a mobile form factor and are a critical
+component to enable multi-screen experiences. We are also differentiating our products through our global distribution reach, highly recognized brand and extensive customer relationships. As the new digital lifestyle continues to evolve, we plan to
+take advantage of our capabilities in mobile and wireline communications to meet consumers’ increasing demands to communicate and collaborate inside and outside the home effortlessly on multiple devices. Key elements of our strategy include:
+
+•
+
+ Capitalize on Our Leading Technology Position.    We believe that open-source platforms foster rapid innovation and
+encourage third-party development of applications and services, resulting in an expansive ecosystem of consumer experiences and entertainment. We are currently using the Android
+
+TM
+
+ operating system, a royalty-free, open-source platform developed by Google™, to develop our portfolio of
+smartphones, which currently has a large offering of applications and services. 
+
+We are differentiating
+certain of our product offerings by using the Android operating system with MOTOBLUR. This platform aggregates data such as social network updates, email and calendar and automatically pushes data to the device rather than requiring the user to
+login individually to multiple services, which increases network traffic and reduces battery life. 
+
+We recently announced an
+innovative new mobile computing solution. Beginning with the ATRIX, certain of our smartphones will feature our Webtop software, providing a desktop environment with a full desktop browser. When combined with our docking accessories, the device
+functionality is transformed into a powerful mobile computer. We believe the launch of our advanced Webtop-enabled smartphones and docking accessories opens the doors for Motorola Mobility to enter new mobile computing markets. With our
+Webtop-enabled smartphone-docking accessory bundles, our customers will experience desktop PC performance on a mobile smartphone. 
+
+As data consumption continues to increase, next-generation wireless technologies will be critical to ensure efficient use of wireless carriers’ spectrum. We continue to invest in next-generation
+wireless technologies, including evolved high speed packet access (“HSPA+”) and 4G, including long-term evolution (“LTE”). These investments will enable us to develop devices for high speed networks to enable delivery of
+converged services and media. 
+
+Table of Contents
+
+5
+
+•
+
+ Extend Our Product Portfolio.     
+
+Our primary product portfolio focus is developing and marketing a portfolio of smartphones and 
+
+media tablets. We plan to address multiple smartphone and media tablet segments including high-tier performance devices, devices optimized for enterprise and business users, and entry-level devices. These
+devices will continue to be differentiated by a variety of factors, including form factor, price, processor speed, display size and consumer experience. We will offer new classes of docking accessory devices that extend the capabilities of our
+mobile devices by enabling the connection of external keyboards and displays. We believe our bundled mobile device and accessories will enable a wide range of multimedia, broadband Internet browsing and other mobile computing experiences without the
+need for a traditional computer. Our market priorities continue to be primarily North America, China, and Latin America, followed by Western Europe and other strategic markets. 
+
+In the feature phone market, we are developing a limited number of phones for specific customers or applications. This
+may include rugged devices for certain wireless carriers and integrated digital enhanced network
+(“iDEN®
+”) push-to-talk devices. Our feature phone portfolio is focused primarily on North American
+based customers.
+
+We also utilize original design manufacturers (“ODMs”) to develop a portfolio of lower-priced mobile
+devices. These devices are our lowest priced devices and are aimed primarily at retailers and distributors in emerging markets. 
+
+•
+
+ Leverage Customer Relationships and Global Distribution.    We currently market our mobile devices portfolio to leading
+wireless carriers, distributors and retailers around the world through our global sales organization. We recently strengthened our relationship with our customers through the launch of several smartphones in North America, China, Latin America,
+Western Europe and Korea in 2010. We plan to continue to build upon these relationships and use our global reach to drive future business growth. 
+
+•
+
+ Maximize Our Intellectual Property.    With approximately 17,000 granted patents and approximately 7,500 pending patent
+applications, worldwide, held by our two segments, we believe we have one of the strongest portfolios of intellectual property assets in the wireless industry. Areas of strength include wireless technologies, video, security, UI, and design. We will
+use our intellectual property and seek to expand our intellectual property portfolio to maintain our competitive position. 
+
+•
+
+ Market Our Products Under Our Highly Recognizable Global Brand.    Our brand has been in use for over 80 years and we
+believe it is associated with quality, reliability and innovation. We are strengthening our brand through advertising and marketing of our products globally. 
+
+•
+
+ Pursue Complementary Technology Through Acquisitions.    We regularly evaluate opportunities to acquire capabilities that
+complement our internal research and development. We have historically acquired various businesses and technologies to grow our capabilities. We expect to continue targeting acquisition candidates that have complementary technology and products.
+
+Competition 
+
+Mobile device manufacturers compete in a rapidly evolving and highly competitive marketplace. Competitors include traditional mobile device manufacturers as well as new competitors who have entered the
+market in the last several years. As market demand continues to shift toward smartphones and media tablets, additional competitors may enter the mobile devices market. 
+
+The segment experiences intense competition from numerous global competitors such as Nokia, Samsung, LG, Sony-Ericsson, Apple, RIM and HTC. In 2010, these seven manufacturers together held an aggregate
+market share of approximately 80% of the total mobile devices market. Smartphone manufacturers have benefited from the growing smartphone demand. New competitors are also entering from the traditional computing market. In addition, second-tier
+vendors are increasing their presence in Asia, as well as expanding into other regions, providing another layer of competition. 
+
+In 2010, our overall market share decreased; however, our share in smartphones increased compared to 2009. 
+
+Table of Contents
+
+6
+
+General competitive factors in the market for our products include: overall quality of user
+experience; design; time-to-market; brand awareness; technology offered; price; product innovation, features, performance and quality; delivery and warranty; the quality and availability of service; and relationships with key customers. 
+
+Home Segment 
+
+The Home segment is a provider of products and services to cable operators and wireline telecommunications (“telco”) service providers (collectively, “network operators”) that enable
+the delivery of video, voice and data services to consumers. Our product portfolio primarily includes interactive set-top boxes, end-to-end digital video and Internet Protocol Television (“IPTV”) distribution systems, broadband access
+infrastructure platforms, and associated data and voice customer premises equipment (“CPE”). Home net revenues represented 32% of Motorola Mobility’s combined net revenues in 2010. 
+
+Our Products 
+
+Our
+products and services are used by content providers and network operators throughout the delivery network and by consumers in the home. 
+
+•
+
+ We are a leader in providing set-top boxes and data and voice modems on consumers’ premises. We provide a broad array of set-top boxes for
+network operators that support standard definition television (“SDTV”) and high definition television (“HDTV”) delivery, including set-top boxes with integrated digital video recorder (“DVR”) capability. Our set-top
+boxes support a variety of delivery architectures including conventional cable TV, IPTV and hybrid IP/conventional environments. We also supply modems and gateways for data over cable service interface specification (“DOCSIS”) 3.0 and
+Optical Terminal Nodes for digital subscriber line (“DSL”) networks and passive optical networks (“PON”). 
+
+•
+
+ We provide a wide range of network equipment to transport signals to and from the end-user premises. Our cable modem termination systems
+(“CMTS”) for DOCSIS 3.0 networks and our optical headend and network equipment enable network operators to deliver video, data and voice services. 
+
+•
+
+ Our products are used by network operators to process, deliver and manage video, voice and data services. We provide integrated receiver
+decoders (“IRDs”), multiplexers and transcoders that receive content from the content providers for redistribution over the operators’ networks. We also provide encoders for local programming, video-on-demand (“VOD”) servers
+and multiplexers for placement of advertising streams. Our portfolio includes software that enables the delivery and management of multi-screen experiences across a wide range of cable, telco and wireless platforms. Our products include security
+solutions used between the headend and the home and device management technology for set-top boxes and modems. 
+
+•
+
+ We are a leading supplier to content providers. Our Moving Picture Experts Group (“MPEG”)-compliant SDTV and HDTV video encoding, as
+well as processing and multiplexing equipment, is used by leading content providers to deliver programming to network operators’ headends and central offices. Our conditional access technology secures the video content during transmission.
+
+Our Industry 
+
+Over the last 15 years, video delivery technology has converted from analog to digital, greatly increasing program choices for consumers and enabling new capabilities such as HDTV, VOD and interactive
+services. During this period, both traditional cable operators and telcos have expanded their offerings to deliver video, voice and data services (“triple play”). The triple play packages and advances in wireless data technology are
+allowing consumers to be in touch and access the same entertainment and information inside and outside the home. 
+
+Providing
+video, voice and data services to consumers is a highly competitive business and our customers compete aggressively to provide individual services, triple play packages and even quad play packages, which also include mobile voice and data services.
+The competitive environment is driving operators to enhance and expand service offerings by adding more high definition (“HD”) channels and three dimensional television (“3D-TV”), increasing data speeds and mobile data services,
+and providing new experiences that bridge conventional TV and Internet services. Enabling these new capabilities is driving network operators to regularly upgrade their networks and in-home devices, such as set-top boxes and other customer premises
+equipment such as modems and gateways. 
+
+Table of Contents
+
+7
+
+In 2010, while there was some economic recovery from the 2009 adverse macroeconomic
+conditions, demand has not yet returned to pre-2009 levels. As economic conditions improve over time, we expect industry demand to recover and return to growth. 
+
+Although the U.S. has the highest adoption of advanced video technologies like HDTV and DVR, growth opportunity remains in the U.S. as the adoption of advanced video technologies continues.
+In addition, the majority of global TV households has only begun to adopt these technologies and represents a significant growth opportunity. During 2010, digital TV households that purchase video programming from cable, satellite and
+telco providers grew by approximately 17% worldwide and global residential broadband subscribers grew by approximately
+ 12%. We expect this trend to continue for the next couple of years as digital TV households are
+expected to
+ grow by 25% to 30% and residential broadband subscribers are expected to
+ grow by 20% to 24% from the end of 2010 through 2012. 
+
+The consumer viewing experience is expanding beyond the TV and consumers now also watch video programming on Internet Protocol (“IP”)-enabled devices, such as PCs, media tablets and smartphones.
+Video delivery requires substantially more bandwidth than other data services and its growth is driving operators to upgrade their network and customer premises equipment. This expanded data capacity is allowing new content providers and aggregators
+to use the service providers’ high speed data networks to provide over-the-top (“OTT”) services to consumers. These OTT providers sell content directly to the consumer and deliver it to the consumer’s IP-enabled devices and
+web-capable BluRay players, TV’s and consumer-purchased set-top boxes. Competition from OTT services is driving network operators to invest to expand their content choices, upgrade their networks and enhance their consumer experiences across
+TVs, PCs and wireless devices. 
+
+Our Strengths 
+
+We believe our key strengths position us well to be a leading provider of products and services to network operators. Our key strengths include: 
+
+•
+
+ A Long History of Innovation. We introduced our first cable TV system products in 1950 and have been a major supplier of cable network and
+in-home products for 60 years. We enabled the first pay-per-view event and launched the first all digital HDTV system. Our industry leadership also includes “firsts” in digital video compression and encryption. We were a pioneer in cable
+modems, produced the first HD set-top boxes with integrated DVR and developed the first multi-room DVR content distribution system. 
+
+•
+
+ Broad Portfolio of Infrastructure and Devices. We offer a broad portfolio of infrastructure and devices to enable network operators to deliver
+video, data and voice services. We are an industry leader in providing interactive set-top boxes supporting the major video delivery technologies. We are experienced in enabling video networks with a complete portfolio of video processing equipment
+and in building broadband access networks. 
+
+•
+
+ Strategic Customer Relationships. Through our global sales organization, we market our portfolio of infrastructure and devices to network
+operators around the world. In North America, our largest market, we are a provider to all of the top ten cable and telco service providers that provide video services to the premise and together account for over 90% of digital video subscribers. As
+a result of our history of supplying the industry, we have a large installed base of infrastructure and devices which positions us well to participate in network upgrades. 
+
+•
+
+ Extensive Intellectual Property and Industry Standards Leadership. We have made substantial contributions to industry standards such as MPEG for
+video compression, Advanced Television Systems Committee (“ATSC”) for digital TV transmission and DOCSIS for data transmission over cable systems. We believe that being at the forefront of these standardization efforts positions us as a
+leader in new technology adoption and gives us time-to-market advantages. The Home segment also has a strong intellectual property portfolio with approximately 1,900 granted patents and 1,300 pending patent applications, worldwide, and this
+portfolio is complemented by the portfolio of the Mobile Devices segment. 
+
+•
+
+ Protection and Security of High-Value Content and Devices. Our industry leading conditional access technology is used by major content providers
+to protect the content they distribute to network operators and has been deployed by network operators to deliver content to consumers for over 15 years in over 
+
+Table of Contents
+
+8
+
+100 million set-top boxes. We believe our core security intellectual property and extensive experience in securing high-value content position us to provide digital rights management
+(“DRM”) technology for content protection in the multi-screen video market. 
+
+Our Strategy 
+
+Our Home segment is a provider of products for the delivery of video, data and voice services. We are focused on leading the development
+of next-generation broadband solutions which will enable the delivery of personalized media experiences across multiple devices. Key elements of our strategy include: 
+
+•
+
+ Expand Our Product Portfolio and Capabilities to Support Multi-screen Convergence and 3D Technology.    We are continuing to
+evolve our video infrastructure solutions to enable consumers to view, and to enhance the delivery of, video content on multiple screens such as PCs and mobile devices. We are developing products and software for securely streaming and shifting
+content and enhancing the content experience through linkage with social networking. We have also begun to incorporate the capability to support 3D-TV in our advanced set-top boxes and for our video infrastructure products to support the network
+operators’ launch of 3D programming. 
+
+•
+
+ Expand Our Software, Services and Applications Portfolio. We are expanding our ability to provide remote management of set-top boxes,
+gateways and other devices to support troubleshooting, customer support and software upgrades. We are also providing software application solutions that support home monitoring and control leveraging devices in the home and
+broadband networks. 
+
+•
+
+ Increase Digital Adoption by Customers of Network Operators in North America.    We are working to increase adoption of
+digital technology by network operators in North America through a portfolio of enhanced set-top boxes. These products range from basic models supporting the industry movement to all digital delivery and advanced units with HD and DVR functions, as
+well as network-enabled devices that support multi-room DVR playback and access to IP-delivered content. Adoption of digital technology by network operators is a key driver of growth for our business. 
+
+•
+
+ Increase Our Sales to Target Customers Outside North America.    We also are investing to grow our business globally to
+capitalize on the growth of video and data services in markets outside North America. We are leveraging our technology portfolio to capitalize on the growth of HDTV in Latin America, Europe, the Middle East and Africa (“EMEA”) and Asia as
+well and the demand for increased data speeds that are driving infrastructure investment. We also are pursuing a number of opportunities in new markets where customers are looking to deploy advanced networks to enable triple play services.
+
+•
+
+ Continue to Enhance Our Intellectual Property Portfolio.    We also are building our intellectual property portfolio to
+address the changing video network architecture with hybrid IP devices and multimedia home gateways that enable the integration of IP-enabled applications. We are developing software for the network operator’s core network that supports the
+convergence of the video, data and voice service platforms to deliver integrated experiences. In addition, we are developing in-home and mobile media platforms that use IP-enabled CPE devices and applications to support the discovery and consumption
+of content across in-home and mobile devices by providing personalized services and social collaboration. 
+
+•
+
+ Pursue Complementary Technology Through Acquisitions.    We regularly evaluate opportunities to acquire capabilities that
+complement our internal research and development. We expect to continue targeting acquisition candidates that have complementary technology and products. We also expect to evaluate acquisition candidates that will enable us to expand our business
+internationally or enter adjacent markets. 
+
+Competition 
+
+Our set-top boxes and cable and wireline infrastructure equipment products compete in highly competitive global markets. We have a broad
+array of competitors including those with whom we compete across multiple product categories and those who are focused on products in a portion of our portfolio. The rapid technology changes occurring in the markets in which this segment competes
+may lead to the entry of new competitors. General competitive factors in the market for our products and systems include: technology; product and system performance; price; time-to-market; product features; quality; delivery and availability.
+Currently, our primary competitors include Cisco, Pace and Arris. 
+
+Table of Contents
+
+9
+
+The cable industry had a long history of protecting the video content transmitted over its
+network by using a conditional access system that was integrated into the set-top box. The Federal Communications Commission (“FCC”) passed regulations that took effect in 2007 requiring separation of security functionality from the
+set-top box. These regulations enable competitors to sell set-top boxes to cable operators and enable retail distribution of TVs and other devices that are capable of accessing encrypted cable programming through use of a cable operator-supplied
+security module. Several major cable operators support a full two-way security interface, which allows consumers with such a retail device to access all programming available on the operator’s network without the need for an operator-provided
+set-top box. As a result, we face competition from several new manufacturers which are able to supply set-top boxes to operators and, to a lesser extent, from consumer electronics manufacturers which sell directly through retail. 
+
+Other Information 
+
+Financial Information About Segments.    The response to this section of Item 1 incorporates by reference Note 12, “Information by
+Segment and Geographic Region,” of Part II, Item 8: “Financial Statements and Supplementary Data” of this document. 
+
+Customers 
+
+Motorola Mobility’s products are primarily sold through wireless carriers, network and cable operators, distributors and to end consumers. In 2010, aggregate net revenues from our five largest
+customers represented approximately 49% of our net revenues. During 2010, approximately 28% of net revenues were from Verizon Communications Inc. (including Verizon Wireless) (“Verizon”). In 2010, our two largest markets by locale of end
+customer were North America, accounting for 66% of net revenues, and Latin America, accounting for 14% of net revenues. Motorola Mobility has several large customers, the loss of one or more of which could have a material adverse effect on us.
+
+Motorola Mobility’s sales to many of its customers, including Verizon and Sprint Nextel, are governed by framework
+agreements that do not contain volume commitments. The framework agreements outline the general terms and conditions that govern the purchase and sale of the Company’s products to its customers. The framework agreements may not require the
+customer to purchase products or by themselves constitute binding contractual obligations for the purchase and sale of products. Purchases are made by customers on individual purchase orders that specify the quantity of products desired at the price
+specified in the Company’s customer-specific pricing sheet, both issued under the relevant framework agreement. Customers issue purchase orders on an as needed or quarterly basis, but are generally not committed to purchase any products until
+the purchase order is issued. 
+
+In 2010, aggregate net revenues from the Mobile Devices segment’s five largest customers,
+which included Verizon and Sprint Nextel, among others, represented approximately 57% of the segment’s net revenues. In addition to selling directly to wireless carriers, our Mobile Devices business also sells products through a variety of
+third-party distributors and retailers. 
+
+In 2010, aggregate net revenues from the Home segment’s five largest customers,
+primarily large cable operators and telecommunication companies located throughout the world, such as Comcast and Verizon, represented approximately 48% of the segment’s net revenues. 
+
+In 2010, North America was both segments’ largest market based on locale of end customer, accounting for 65% of Mobile Devices net
+revenues and 75% of Home net revenues. 
+
+Research and Development 
+
+Motorola Mobility’s business segments participate in very competitive industries with constant changes in technology. Throughout our
+history, we have relied, and continue to rely, primarily on our research and development (“R&D”) programs for the development of new products, and on our production engineering capabilities for the improvement of existing products. We
+believe that our commitment to R&D programs should allow each of our segments to remain competitive. 
+
+R&D expenditures
+relating to new product development or product improvement were $1.5 billion in 2010, compared to $1.6 billion in 2009 and $2.4 billion in 2008. R&D expenditures decreased 7% in 2010 as compared
+
+Table of Contents
+
+10
+
+to 2009, after decreasing 33% in 2009 as compared to 2008. Motorola Mobility continues to believe that a strong commitment to R&D is required to drive long-term growth and we have
+professional employees around the world dedicated to R&D activities. 
+
+Intellectual Property 
+
+The protection of patents, trademarks and other intellectual property is extremely important to our operations. The industries in which
+the Mobile Devices and Home business segments compete are characterized by the vigorous pursuit and protection of intellectual property rights. We are focused on the development, implementation and customer acceptance of new products, designs and
+improvements. The development of associated intellectual property rights is an important component of our business and growth strategy. Motorola Mobility has a robust intellectual asset management process for building, maintaining and leveraging its
+portfolio of patents, trademarks, technology rights and other intellectual property to obtain licenses from other industry participants and to pursue royalty based licensing opportunities. Motorola Mobility intends to continue to obtain patents,
+trademarks, technology rights and other intellectual property. 
+
+Motorola Mobility has a large portfolio of trademarks
+registered or otherwise effective in various countries around the world. Motorola Mobility’s increased focus on marketing products directly to consumers is reflected in an increasing emphasis on brand equity creation and protection. 
+
+Motorola Mobility has approximately 24,500 patents and patent applications, worldwide. These include substantially all of the patents
+unique to the Mobile Devices and Home businesses, and a number of other patent families allocated to Motorola Mobility by our Former Parent and intended in part to mitigate certain intellectual property risks associated with operation as a new
+entity. 
+
+Motorola Mobility’s patent portfolio generally relates to wireless, audio, video, security, user interface and
+product design, along with applications and services related to our products. 
+
+The Mobile Devices business segment has
+approximately 15,200 granted patents and 6,200 pending patent applications, worldwide, substantially related to the Mobile Devices product portfolio. This patent portfolio includes numerous patents related to various industry standards, including
+2G, 3G, 4G, H.264, MPEG-4, 802.11, open mobile alliance (“OMA”) and near field communication (“NFC”). Motorola Mobility is an active participant in the development of these and other industry related standards, and has developed
+a significant portfolio of standards related patents. The patent portfolio also includes substantial sets of patents related to strategic areas of the product portfolio or business including audio codec technology, UI, power management, location
+based services, wireless email, and other smartphone related applications and services. 
+
+The Home business
+segment has approximately 1,900 granted patents and 1,300 pending patent applications, worldwide, substantially related to the Home product portfolio. We have contributed intellectual property in the industry standards setting process, including
+MPEG video compression, ATSC for digital TV transmission and DOCSIS for data transmission over cable systems. We seek to focus our intellectual property portfolio upon our core enabling technologies, such as digital compression, encryption and
+conditional access systems to protect technology we consider important to our business strategy. We develop and maintain our competitive position based on our proprietary knowledge and ongoing technological innovation, and periodically seek to
+include our proprietary technologies in certain patent pools that support the implementation of standards. We were a founder of MPEG LA, LLC, the patent licensing authority established to foster broad deployment of MPEG-2-compliant systems and have
+joined the MPEG-4 Visual patent pool as a licensor. In addition, we have licensed our digital conditional access technology, DigiCipher®
+ II, to other equipment suppliers. Our joint ventures with Comcast also support the development and licensing of conditional access technology. 
+
+Many of the patents owned by Motorola Mobility are used in its operations or licensed for use by others, and Motorola Mobility is licensed
+to use certain patents owned by others. We enter into license agreements with other industry participants, both as licensor and licensee, covering our products and products of the other party to the cross-license. Royalty and licensing fees vary
+from year to year and are subject to the terms of the license agreements and sales volumes of the products subject to licenses. The freedom of action afforded to our operations as a result of these license agreements is important to our competitive
+position. 
+
+Table of Contents
+
+11
+
+From time to time, third-parties may and do assert their patent, copyright, trademark and
+other intellectual property rights against technologies that are important to our business segments. Our ability to develop products and related technologies protected by intellectual property rights will be a significant factor in determining our
+competitiveness in our target markets. 
+
+Environmental 
+
+During 2010, compliance with federal, state and local laws regulating the discharge of materials into the environment, or otherwise
+relating to the protection of the environment, did not have a material effect on capital expenditures, earnings or the competitive position of Motorola Mobility. 
+
+Employees 
+
+At December 31, 2010, Motorola
+Mobility and its subsidiaries had approximately 19,000 employees. 
+
+Payment Terms 
+
+Payment terms vary worldwide, depending on the arrangement. In North America, payment is generally due 30 to 60 days from the invoice
+date. In regions outside of North America, terms can vary widely but are typically limited to no more than 90 days. 
+
+As
+required for competitive reasons, extended payment terms are provided to customers from time to time on a limited basis. The Company’s payment terms are consistent with industry practice, as many of our contracts are awarded through a
+competitive bid process. In limited circumstances and when required for competitive reasons, we may provide long-term financing in connection with equipment purchases. Financing may cover all or a portion of the purchase price. 
+
+Backlog 
+
+Motorola Mobility’s aggregate backlog position for all of its segments, as of the end of the last two fiscal years, was approximately as follows: 
+
+(Dollars in millions)
+
+ December 31, 2010
+
+$
+
+1,110
+
+ December 31, 2009
+
+$
+
+ 787
+
+The Mobile Devices segment’s backlog (excluding any deferred revenue) was $678 million at December 31, 2010, compared to $409 million at December 31, 2009. This increase in backlog is
+primarily due to demand for the new smartphones launched in 2010. The Home segment’s backlog was $432 million at December 31, 2010, compared to $378 million at December 31, 2009. The orders supporting the 2010 backlog amounts are
+believed to be generally firm, and approximately 99% of the backlog on hand at December 31, 2010 is expected to be recognized as revenue in 2011. The forward-looking estimate of the firmness of such orders is subject to future events that may
+cause the amount recognized to change. 
+
+Regulatory Matters 
+
+Radio frequencies are required to provide wireless services. The allocation of frequencies is regulated in the U.S. and other countries,
+and limited spectrum space is allocated to wireless services. The growth of wireless communications may be affected if adequate frequencies are not allocated or, alternatively, if new technologies are not developed to better utilize the frequencies
+currently allocated for such use. Industry growth may also be affected by the cost of the new licenses required to use frequencies and any related frequency relocation costs. The U.S promotes deregulated spectrum access policies to allow new
+wireless communication technologies to be developed and offered for sale with minimal delay. These policies allow for the deployment of wireless local area network systems, such as wireless fidelity (“WiFi”), and wide area networks, such
+as LTE, with only minimal regulatory approval. Other countries have adopted similar policies to allow consumers and telecommunications carriers to deploy new technologies with minimal regulatory requirements. Such deregulatory polices may introduce
+new competition and create new opportunities for us and our customers. 
+
+Table of Contents
+
+12
+
+Many of the products sold by our business are subject to regulation by the FCC in the U.S.
+and other communications regulatory agencies around the world. In addition, our customers, and their networks into which our products are incorporated, are subject to government regulation. Government regulatory policies affecting either the
+willingness or the ability of cable and telecommunications operators, wireless operators and wireline operators to offer certain services, or the terms on which these operators offer the services and conduct their business, may have a material
+adverse effect on our results. 
+
+In 2009, Congress directed the FCC to develop a National Broadband Plan outlining its strategic
+vision for increased broadband deployment and adoption, which the FCC delivered to Congress in March 2010. The Plan contains several long-term goals, including providing affordable access to actual download speeds of 100 megabits per second and
+actual upload speeds of at least 50 megabits per second to at least 100 million households and improving mobile broadband speeds and innovation. The Plan contains numerous recommendations for future action by the FCC, other governmental agencies and
+Congress. Although the FCC has yet to implement most of the Plan’s recommendations, several proposals in the Plan could have an impact on Motorola Mobility’s operations and revenues. For example, included in the Plan are recommendations
+for making 500 megahertz of spectrum newly available for broadband use and for increasing new avenues for opportunistic and unlicensed use of spectrum. If these recommendations are implemented, the Plan may result in increased business opportunities
+for Motorola Mobility as well as increased competition. Likewise, the Plan recommends changes to the current regulatory regime that governs the video set-top box market. Consistent with these recommendations, in 2010 the FCC requested public comment
+on its proposal to require U.S. cable, satellite and other video operators to supply their customers with a device or gateway (called “AllVid”) that would be capable of delivering as many as six different IP video streams to TVs, DVRs or
+other equipment in the home no later than the end of 2012. While the FCC has not formally adopted any new regulatory mandates in this area, the FCC’s proposed AllVid regime as well as other changes to the existing regulatory framework could
+impact our set-top box business. 
+
+Inventory, Raw Materials, Right of Return and Seasonality 
+
+Our practice is to carry reasonable amounts of inventory in manufacturing and distribution centers in order to meet customer delivery
+requirements in a manner consistent with industry standards. At the end of 2010, the net inventory balance was significantly higher than at the end of 2009, primarily due to a significant increase in Mobile Devices’ inventory to support
+higher demand in the first quarter of 2011 versus the first quarter of 2010 and a slight increase in Home’s inventory. 
+
+Availability of materials and components is relatively dependable. However, fluctuations in supply and market demand could cause selective
+shortages and affect results. We currently source certain materials and components from single vendors. Any material disruption from a single-source vendor may have a material adverse impact on our results of operations. If certain key suppliers
+were to become capacity constrained or insolvent, it could result in a reduction or interruption in supplies or an increase in the price of supplies, which could adversely impact our financial results. 
+
+Furthermore, certain of our key single source supplier relationships, including those with our chipset providers, are governed by
+component supply agreements that may not contain long-term volume commitments to provide components to the Company. However, under these component supply agreements, the Company generally receives limited end-of-life supply protections with notice
+of cancellation. The component supply agreements outline the general terms and conditions that govern the purchase and supply of components to the Company. Purchases of components under these component supply agreements are typically made by the
+Company on an “as needed” basis through the issuance of purchase orders, which may include periodic delivery by the Company of its forecasted delivery requirements against which suppliers may make certain component delivery commitments.
+
+Natural gas, electricity and, to a lesser extent, oil are the primary sources of energy required for our manufacturing
+operations and each of these resources are currently in generally adequate supply for our operations. The cost of operating our facilities and freight costs are dependent on world oil prices, which we continue to monitor. Labor is generally
+available in reasonable proximity to our manufacturing facilities. However, difficulties in obtaining any of the aforementioned resources or a significant cost increase could affect our results. 
+
+Table of Contents
+
+13
+
+The Mobile Devices segment permits product returns under limited circumstances in order to
+remain competitive with current industry practices. The Home business generally does not permit customers to return products, other than under standard warranty provisions. 
+
+The Mobile Devices segment typically experiences sequentially higher sales in the fourth calendar quarter and sequentially lower sales in the first calendar quarter of each year due to seasonal trends in
+the mobile device industry. The Home segment has not experienced seasonal buying patterns for its products. 
+
+Financial Information About Geographic Areas.    The response to this section of Item 1 incorporates by reference Note 11, “Commitments and Contingencies,” and Note 12, “Information by
+Segment and Geographic Region” of Part II, Item 8: “Financial Statements and Supplementary Data” of this document, the “Results of Operations—2010 Compared to 2009” and “Results of Operations—2009
+Compared to 2008” sections of Part II, Item 7: “Management’s Discussion and Analysis of Financial Condition and Results of Operations” of this document and Item 1A: “Risk Factors” of this document.
+
+Available Information 
+
+We make available free of charge through our website, http://investors.motorola.com, our annual reports on Form 10-K,
+quarterly reports on Form 10-Q, current reports on Form 8-K, proxy statements, other reports filed under the Securities Exchange Act of 1934 (“Exchange Act”) and all amendments to those reports simultaneously or as soon as
+reasonably practicable after such material is electronically filed with, or furnished to, the Securities and Exchange Commission (“SEC”). Our reports are also available free of charge on the SEC’s website, 
+www.sec.gov. Also
+available free of charge on our website are the following corporate governance documents: 
+
+•
+
+ Amended and Restated Certificate of Incorporation 
+
+•
+
+ Restated Bylaws 
+
+•
+
+ Board Governance Guidelines 
+
+•
+
+ Code of Business Conduct, which is applicable to all Motorola Mobility directors and employees, including the principal executive officers, the
+principal financial officer and the controller (principal accounting officer) 
+
+•
+
+ Audit Committee Charter 
+
+•
+
+ Compensation and Leadership Committee Charter 
+
+•
+
+ Governance and Nominating Committee Charter 
+
+All of our reports and corporate governance documents may also be obtained without charge by contacting Investor Relations, Motorola Mobility Holdings, Inc., Corporate Offices, 600 N. U.S. Highway
+45, Libertyville, Illinois, 60048, E-mail: MobilityInvestors@motorola.com. Our Annual Report on Form 10-K and Definitive Proxy Statement may also be requested in hardcopy by clicking on “Printed Materials” at
+
+http://investors.motorola.com. Our Internet website and the information contained therein or incorporated therein are not intended to be incorporated into this Annual Report on Form 10-K. 
+
+ 
+
+You should carefully consider each of the following risk factors and all of the other information set forth in this report or in our other Securities and Exchange Commission filings. The risk factors
+generally have been separated into three groups: (1) risks relating to our business, (2) risks relating to our recent separation, and (3) risks relating to our common stock. Based on the information currently known to us, we believe
+that the following information identifies the most significant risk factors affecting our Company in each of these categories of risks. However, the risks and uncertainties our Company faces are not limited to those set forth in the risk factors
+described below and may not be in order of importance or probability of occurrence. Additional risks and uncertainties not presently known to us or that we currently believe to be immaterial may also adversely affect our business. In addition, past
+financial performance may not be a reliable indicator of future performance, and historical trends should not be used to anticipate results or trends in future periods. 
+
+If any of the following risks and uncertainties develops into actual events, these events could have a material adverse effect on our business, financial condition or results of operations. In such
+case, the trading price of our common stock could decline. 
+
+Table of Contents
+
+14
+
+Risks Relating to Our Business 
+
+We have had net losses in each of the last four years and may continue to incur losses. 
+
+In each of the last four years, Motorola Mobility had net losses as a result of the financial performance of our Mobile Devices business. We cannot be certain that we will return to profitability in the
+near-term or maintain profitability if achieved. 
+
+In 2010, the telecommunication and cable industries were impacted by adverse macro
+economic conditions and our financial performance could be negatively impacted if conditions do not improve. 
+
+In 2010,
+the telecommunications, cable industries and our Home business were impacted by the weakened global macro economic environment, particularly in the U.S. Our financial performance could be negatively impacted if these industries do not return to
+growth. 
+
+We operate in an extremely competitive environment and our success depends in part on our timely introduction of, and effective
+investment in, new competitive products, and technologies and services, the failure of which could negatively impact our business. 
+
+We operate in an extremely competitive environment and the markets for our products are characterized by rapidly changing technologies, frequent new product introductions, short product life cycles and
+evolving industry standards. The convergence of the telecommunication, data and media industries which is driven by technological development related to IP based communications is driving rapid change in our industries. Product life cycles can be
+short and new products are expensive to develop and bring to market. Our success depends, in substantial part, on the timely and successful introduction of new products, services and upgrades of current products to comply with emerging industry
+standards and to address competing technological and product developments by our competitors. The research and development of new, technologically advanced products is a complex and uncertain process requiring high levels of innovation and
+investment, as well as the accurate anticipation of technology, market trends and customer needs. We may focus our resources on technologies that do not become widely accepted, are not timely released or are not commercially viable. In addition, our
+products may contain defects or errors that are detected only after deployment. If our products are not competitive or do not work properly, our business could suffer and our financial performance could be negatively impacted. 
+
+Our results are subject to risks related to our significant investment in developing and introducing new products and services, such as
+advanced wireless mobile devices, including smartphones, and products for transmission of telephony and high speed data over hybrid fiber coaxial cable systems. These risks include: (1) difficulties and delays in the development, production,
+testing and marketing of products, (2) customer acceptance of products, (3) the development of, approval of and compliance with industry standards, (4) the significant amount of resources we must devote to the development of new
+technologies, and (5) the ability to differentiate our products and compete with other companies in the same markets. 
+
+We have
+several large customers and the loss of, or a significant reduction in revenue from, one or more of these customers could have a negative impact on our business
+
+. 
+
+During 2010, approximately 28% of our net revenues were from Verizon Communications Inc. (including Verizon Wireless)
+(“Verizon”). It may be difficult to replace or find new large customers, especially with increasing concentration in the U.S. where there are a limited number of carriers. If any significant customer, particularly Verizon or Sprint
+Nextel or other large customers, such as Comcast, stopped doing business with us, or significantly reduced the level of business they do with us, it could impact our ability to service other customers using similar technology and our financial
+results could be negatively impacted. 
+
+Our contracts with wireless carriers do not provide for long-term
+guaranteed volumes of purchases or exclusivity and are cancellable by our customers with little, if any, notice. Our financial results could be negatively impacted as a result of doing business with wireless carriers under these types of
+arrangements. 
+
+We sell the majority of our handsets to wireless carriers. Currently, we do not have long-term
+exclusivity arrangements with our customers or commitments by them to purchase guaranteed volumes. Moreover, our customers can cancel orders or contracts with us with little, if any, notice. Some of our current competitors may
+
+Table of Contents
+
+15
+
+have more favorable contractual arrangements with some wireless carriers, including exclusivity arrangements. These more favorable contractual arrangements may give our competitors competitive
+advantages. Our financial results could be negatively impacted as a result of these types of arrangements. 
+
+We have lost significant
+market share in our Mobile Devices business and such loss has negatively impacted our performance and could continue to negatively impact our financial results. 
+
+Our share of the worldwide wireless mobile device market has declined significantly in the last several years. While we reduced our costs during this period of time, our significantly lower sales volume
+and the resulting market share declines have had a negative impact on our financial results. Although our primary focus is profitable growth, if our global market share of smartphone shipments does not increase, our strategy to return our Mobile
+Devices business to sustained profitability could be negatively impacted. 
+
+If our current product strategy and operating system strategy
+are not successful, our Mobile Devices business could be negatively impacted. 
+
+Our current strategy is to concentrate
+our mobile devices portfolio on smartphones and to use third-party and/or open-source operating systems and associated application ecosystems, predominantly the Google™ Android operating system (a royalty-free open-source platform) and
+marketplace, in our wireless products. As a result, we are dependent on third-parties’ continued development of operating systems, software application ecosystem infrastructures and such third-parties’ approval of our implementations of
+their operating system and associated applications. If we had to change our strategy, our financial results could be negatively impacted because a resulting shift away from using Android and the associated applications ecosystem could be costly and
+difficult. A strategy shift could increase the burden of development on Motorola Mobility and potentially create a gap in our portfolio for a period of time, which could competitively disadvantage Motorola Mobility. 
+
+We are at risk if Android-based smartphones do not remain competitive in the marketplace. Even if Android-based smartphones remain
+competitive, the Android operating system is an open-source platform and many other companies sell competing Android-based smartphones. If the Android-based smartphones of our competitors are more successful than ours, our financial results could be
+negatively impacted. It is also critical to the success of the Android operating system that third-party developers continue to develop and offer applications for this operating system that are competitive with applications developed for other
+operating systems. From an overall risk perspective, the industry is currently engaged in an extremely competitive phase with respect to operating system platforms, applications and software generally. If Android does not continue to gain operator
+and/or developer adoption, or any updated versions or new releases of Google’s Android operating system or applications are not made available to Motorola Mobility in a timely fashion, Motorola Mobility could be competitively disadvantaged and
+Motorola Mobility’s financial results could be negatively impacted. 
+
+As part of our ongoing effort to improve the product
+portfolio of our Mobile Devices business, we also have been rationalizing our hardware platforms to reduce the complexity of our product platforms and system architecture. This allows us to lower our costs to develop and produce mobile devices and
+to enable richer consumer experiences. Failure to continue to execute on these rationalization plans in a timely and effective manner could cause us to be competitively disadvantaged in many areas, including but not limited to, cost, time-to-market
+and the ability to ramp-up production in a timely fashion with acceptable quality and improved/additional features. 
+
+We have identified
+priority markets as we introduce our new smartphone products and grow our business and our Mobile Devices business could be negatively impacted if we are not successful in these priority markets or are unable to succeed in other markets.
+
+Our current priority markets for our new smartphones are North America, China and Latin America, followed by Western
+Europe and other strategic markets. Our ability to grow our business and achieve the scale we need to be profitable is highly dependent on our success in our priority markets. While North America has traditionally been our strongest market and we
+have been successful in China, we face intense competition in both markets, and there can be no assurance that we can achieve the targeted levels of sales and profitability in these markets. 
+
+Table of Contents
+
+16
+
+The effects of Federal Communications Commission (“FCC”) regulations requiring separation of
+security functionality from set-top boxes could negatively impact our sales of set-top boxes to cable providers. 
+
+Historically, reception of digital television (“TV”) programming from a cable broadband network required a set-top box with
+security technology. Traditionally, cable service providers leased their set-top boxes to their customers. This security technology limited the availability of set-top boxes to those manufactured by a few cable network manufacturers, including
+Motorola Mobility. In 2007, FCC regulations requiring separation of security functionality from set-top boxes became effective. This has increased competition for sales of set-top boxes to cable operators and enabled retail distribution of set-top
+boxes. Moreover, it also enabled retail distribution of televisions with other video devices capable of accessing encrypted cable programming. Several major cable operators are working to support full two-way security interface architecture that
+allows retail customers access to all programming available on a cable operator’s network without the need for a set-top box. In addition, a few television and video device manufacturers have begun shipping or are developing such devices. If
+either of these strategies achieve a meaningful volume of sales it could negatively impact Motorola Mobility’s sales of set-top boxes. 
+
+The AllVid/Smart Video Notice of Inquiry currently in process by the FCC is exploring standardization of interfaces, protocols and operations related to set-top boxes and gateways. While the process
+is in its infancy and no decisions have been made, future rules adopting some or all of the proposed standards could negatively impact our set-top box business. 
+
+We face many risks relating to intellectual property rights. 
+
+Our
+business could be harmed if: (1) we, our customers and/or our suppliers are found to have infringed intellectual property rights of third-parties, (2) the intellectual property indemnities in our supplier agreements are inadequate to cover
+damages and losses we suffer due to infringement of third-party intellectual property rights by our suppliers’ products, (3) we are required to indemnify our customers for significant amounts under agreements providing for intellectual
+property indemnities that have been entered into with some of our customers, (4) our intellectual property protection is inadequate to protect our proprietary rights, (5) the indemnity rights passed through by our customers are
+insufficient, or (6) our competitors negotiate significantly more favorable terms for licensed intellectual property. We may be harmed if we are forced to make publicly available, under the relevant open-source licenses, certain internally
+developed software related intellectual property as a result of either our use of open-source software code or the use of third-party software that contains open-source code. Our intellectual property protection could be limited due to the use of
+such open-source software code in our products. 
+
+Intellectual Property Infringement Risks 
+
+Because our products are comprised of complex technology, we are often involved in or impacted by assertions, including both requests to
+take licenses and litigation, regarding infringement of patent and other intellectual property rights of third-parties. Third-parties have asserted, and in the future may assert, intellectual property infringement claims against us and against our
+customers and suppliers. These assertions against us and our customers and suppliers have become more frequent as the complexity of our products and the intensity of competition in our industry and over intellectual property has increased.
+Increasingly, many of these assertions are brought by non-practicing entities whose principal business model is to secure patent licensing revenue from product manufacturing companies. The patent holders often make broad and sweeping claims
+regarding the applicability of their patents to our products and the products of our customers and suppliers, seeking a percentage of sales or a percentage of downstream customer revenues as license fees, or seeking injunctions to pressure us, our
+customers and suppliers into taking a license, or a combination thereof. Defending claims, including pursuant to indemnity obligations, may be expensive and divert the time and efforts of our management and employees. An exclusion order or cease and
+desist order could have a severe negative impact on the Company, particularly in light of the U.S. being a target market and our substantial manufacturing operations overseas. Increasingly, third-parties have sought broad injunctive relief by filing
+claims in the ITC for exclusion and cease and desist orders which could limit our ability to sell our products in the U.S. or elsewhere if our products or those of our customers or suppliers are found to infringe the intellectual property subject to
+the claims. If we do not succeed in such litigation, we could be required to expend significant resources to pay damages, to develop non-infringing products or to obtain licenses to the intellectual property that is the subject of such litigation,
+each of which could have a negative impact on our financial results. We cannot be certain that any such licenses, if available at all, will be available to us on 
+
+Table of Contents
+
+17
+
+commercially reasonable terms. In some cases, we might be forced to stop delivering certain products if we or our customers or suppliers are subject to a final exclusion or cease and desist
+order. 
+
+Intellectual Property Indemnity Risks 
+
+We attempt to negotiate favorable intellectual property indemnities with our suppliers for infringement by their products of third-party intellectual property rights. However, certain suppliers require us
+to provide intellectual property infringement indemnification or provide limited or no intellectual property infringement indemnities to us in existing contracts. There is no assurance that we will be successful in our future negotiations, that a
+supplier’s indemnity will cover all damages and losses suffered by us and our customers due to any infringing products, or that a supplier may choose to accept a license or modify or replace its products with non-infringing products which would
+otherwise mitigate such damages and losses. Further, we may not be able to participate in intellectual property litigation involving a supplier and may not be able to influence any ultimate resolution or outcome that could negatively impact our
+sales if a court enters an injunction against the supplier’s products or if the ITC issues an exclusion order that blocks our products from importation into the U.S. that contain their components or software. As our volumes of Android-based
+smartphones increase, we could be affected if (1) a third-party successfully asserted an intellectual property infringement claim against either us based on our products using Android software or our supplier, Google, or (2) the supply of
+Android software for our products were limited or foreclosed or royalties were assessed. 
+
+In addition, our customers
+increasingly demand that we indemnify them broadly from damages and losses resulting from intellectual property litigation against them relating to our products. Third-parties have asserted, and in the future may assert intellectual property
+infringement claims against our customers that may be covered by our indemnification to such customers. 
+
+Customers may also
+demand third-party content without providing sufficient pass-through indemnities. Because our customers often derive much larger revenue streams by reselling or leasing our products than we generate from the sale of our products to them, these
+indemnity claims by our customers have the potential to expose us to damages that are much higher than we would be exposed to if we were sued directly. 
+
+Intellectual Property Protection Risks 
+
+Our patent and other intellectual
+property rights are important competitive tools that we use to generate income under license agreements or to give us an advantage over our competitors. We regard our intellectual property as proprietary and attempt to protect it with patents,
+copyrights, trademarks, trade secret laws, confidentiality agreements and other methods. We also generally restrict access to and distribution of our proprietary information. Despite these precautions, it may be possible for a third-party to obtain
+and use our proprietary information or develop similar technology independently. Trademark competition may also be increasing as competitors choose to trademark names and rely less on model numbers. In the course of litigation, courts may also
+invalidate our intellectual property rights. In addition, effective patent, copyright, trademark and trade secret protection may be unavailable or limited in certain foreign countries. Unauthorized use of our intellectual property rights by
+third-parties and the cost of any litigation necessary to enforce our intellectual property rights could have a negative impact on our business. 
+
+Intellectual Property Competition Risks 
+
+As we expand our business,
+including through acquisitions, and compete with new competitors in new markets, the breadth and strength of our intellectual property portfolio in those new areas may not be as developed as in our longer standing businesses. This may expose us to a
+heightened risk of litigation and other challenges from competitors in these new markets. Further, competitors may be able to negotiate significantly more favorable terms for licensed intellectual property than we are able to, which would put them
+at a competitive advantage. 
+
+Intellectual Property Separation Risks 
+
+As a business segment of our Former Parent, we were the beneficiary of certain of our Former Parent’s intellectual property licensing
+arrangements with respect to technology incorporated in our products and used to operate our businesses, including cross-licensing arrangements with leading telecommunications equipment companies, various royalty bearing license agreements, and
+other licensing agreements entered into with third-
+
+Table of Contents
+
+18
+
+parties. Some of these agreements are assignable unilaterally by our Former Parent, while the assignment of others may be subject to consent or other conditions. We are seeking to
+obtain assignments of some of these agreements, as well as entering into our own agreements and arrangements with certain third-parties, with respect to intellectual property and technology that is important to our business and that was previously
+licensed through our Former Parent. It is possible that some third-parties may use the requirement of a consent or a new agreement to seek to obtain more favorable contractual terms or refuse to enter into a new arrangement. In addition,
+there may be third-parties who have refrained from asserting intellectual property infringement claims against our products while we were a business segment of our Former Parent that elect to pursue such claims against us after our separation from
+our Former Parent. Failure to retain or secure licenses on terms and conditions as favorable as those secured by our competitors or those we have enjoyed while part of our Former Parent could put us at a competitive disadvantage. 
+
+Motorola Mobility’s reliance on trademarks owned by third-parties presents additional business risks. 
+
+The Company has licensed, or has otherwise obtained the rights from third-parties to use, certain trademarks in connection with our
+products, including, but not limited to, ANDROID™, DROID™ and CLIQ™. Such third-party ownership rights may be challenged by other third-parties. In the event that such third-party licensor is successfully challenged, our continued use
+of such trademarks could result in an injunction barring the sale of our products, and if such third-party licensor refuses or fails to indemnify the Company, we could be liable for payment of damages resulting from trademark infringement, thereby
+disrupting our continued and/or long-term use of such trademarks. 
+
+Our future financial results could be negatively impacted if we are
+not successful in licensing our intellectual property. 
+
+As part of our business strategy, we generate revenue through
+the licensing of intellectual property rights. The licensed rights include those that are essential to telecommunications standards, such as the global system for mobile communications (“GSM”), third generation cellular (“3G”)
+and 4G standards, wireless networking standards (e.g., 802.11), and video coding standards (e.g., H.264), as well as other patents directed to features and implementations of our products. Previously agreed-upon terms of some of our long-standing
+license agreements have reduced our royalty revenue over the past several years and may continue to reduce that revenue. As an independent legal entity we may no longer receive certain licensing revenue that was allocated to us when we were part of
+our Former Parent. Uncertainty in the legal environment makes it difficult to assure that we will be able to enter into new license agreements that will be sufficient to offset that reduction in our revenue. 
+
+Copyright levies in numerous countries for the sale of products could negatively impact our business. 
+
+Motorola Mobility faces the possibility of substantial copyright levies from collecting societies in numerous countries for the sale of
+products that might be used for the private copying or reproduction of copyright protected works such as mobile phones, memory cards and set-top boxes. The collecting societies argue that such levies should apply to such products because they
+include audio/video recording functionality, such as a Moving Picture Experts Group Format for Audio Layer 3 (“MP3”) player or a DVR or storage capability, despite the fact that such products are not primarily intended to act as a
+recording device. We are currently working with other major companies who are subject to copyright levies to challenge the applicability of these levies to our products, and are also engaged in aggressive efforts against the levies in general in the
+European Union. However, if levies are imposed upon our products, our financial results could be negatively impacted. 
+
+The occurrence or
+perception of a breach of our security or privacy policies, or inappropriate disclosure of end-user confidential or personal information could harm our business. 
+
+MOTOBLUR™, our service platform, handles the transmission of personally identifiable and other confidential information and data from end-users (“User Information”), and as such, provides
+the Company with access to such User Information. In addition, information stored in our smartphone products is subject to virus and security attacks related to the wireless transmission of data. In the event that the security measures implemented
+by us, our customers or our third-party service providers are breached, or if there is an inappropriate disclosure of User Information, including as a result of a security breach relating to either MOTOBLUR or our smartphones, we could be exposed to
+litigation or regulatory action, which may result in significant liability or other sanctions. Even if we are not held liable, a security breach or inappropriate disclosure of User Information could harm our reputation,
+
+Table of Contents
+
+19
+
+and even the perception of security vulnerabilities or risks associated with our products could lead some customers to reduce or delay future purchases, or to purchase competing products or
+services. In addition, we may be required to invest additional resources to protect the Company against these actual or perceived disruptions or security breaches in the future. 
+
+The collection, storage, transmission, use and distribution of User Information and other personally identifiable information could give rise to liabilities or additional costs as a result of laws,
+governmental regulations or carrier and other customer requirements or differing views of personal privacy rights. 
+
+We
+collect, store and transmit large volumes of data, including User Information and other personally identifiable information, including employee and consumer information, in the course of supporting our internal operating systems and procedures as
+well as our MOTOBLUR service and smartphone products and related services. This information is increasingly subject to legislation and regulations in numerous jurisdictions around the world. Governmental regulations are typically intended to protect
+the privacy and security of such User Information and other personally identifiable information as well as to regulate the collection, storage, transmission, transfer, use and distribution of such information. 
+
+We could be adversely affected if domestic or international legislation or regulations are expanded to require changes in our business
+practices or if governing jurisdictions interpret or implement their legislation or regulations in ways that negatively affect our business. If we are required to allocate significant resources to modify our internal operating systems and procedures
+as well as our MOTOBLUR service or smartphones to enable enhanced security of User Information that we transmit and store, our business results could be adversely affected. 
+
+In addition, because various foreign jurisdictions have different laws and regulations concerning the storage and transmission of User Information and other personally identifiable information, we may
+face requirements that pose compliance challenges in new international markets that we seek to enter. Such variation could subject us to costs, liabilities or negative publicity that could impair our ability to expand our operations into some
+countries and therefore limit our future growth. 
+
+Our wireless carrier or other customers may have differing expectations or
+impose particular requirements for the collection, storage, processing and transmittal of User Information and other personally identifiable information in connection with our MOTOBLUR service, or smartphone product and service offerings. Such
+expectations or requirements could subject us to costs, liabilities or negative publicity, and limit our future growth. If we are required to allocate significant resources to modify our MOTOBLUR service or smartphone product and service offerings
+to meet such requirements, we may incur additional costs to meet such requirements, and our time-to-market with various product and service offerings could be negatively affected. 
+
+Our customers, suppliers, employees and facilities are located throughout the world and, as a result, we face risks that other non-global companies may not face. 
+
+Our customers and suppliers are located throughout the world and in 2010 approximately 36% of our Mobile Devices business sales and 33% of
+our Home business sales were made to customers outside the U.S. In addition, we have many manufacturing, research and development, administrative and sales facilities outside the U.S. and more than half of our employees are employed outside the U.S.
+Most of our suppliers’ operations are outside the U.S. and nearly all of our products (other than some prototypes) are manufactured outside the U.S. 
+
+As with all companies that have sizeable sales and operations outside the U.S., we are exposed to risks that could negatively impact sales or profitability, including but not limited to:
+(1) import/export regulations, tariffs, trade barriers and trade disputes, customs classifications and certifications, including but not limited to changes in classifications or errors or omissions related to such classifications and
+certifications, (2) patent infringement actions in the ITC, (3) changes in U.S. and non-U.S. rules related to trade, the environment, health and safety, technical standards and consumer protection, (4) longer payment cycles,
+(5) tax issues, such as tax law changes, inconsistent interpretation, variations in tax laws from country to country and as compared to the U.S., and difficulties in repatriating cash generated or held abroad in a tax-efficient manner,
+(6) currency fluctuations, particularly in the Chinese yuan, euro, Brazilian real, Taiwan dollar, and Korean won which could negatively impact our revenues and profits, (7) foreign exchange regulations, which may limit Motorola
+Mobility’s ability to convert or repatriate foreign currency, (8) challenges in collecting accounts receivable, (9) cultural and language differences, 
+
+Table of Contents
+
+20
+
+(10) employment regulations and local labor conditions, (11) difficulties protecting intellectual property in foreign countries, (12) instability in economic or political
+conditions, including inflation, recession and actual or anticipated military or political conflicts, including war and other hostilities, (13) natural disasters, (14) public health issues or outbreaks, (15) changes in laws or
+regulations that negatively impact benefits, such as tax benefits, being received by Motorola Mobility, (16) the impact of each of the foregoing on our outsourcing and procurement arrangements, and (17) litigation in foreign judicial
+systems and foreign administrative proceedings. 
+
+We also face additional challenges in emerging markets, including creating
+demand for our products and the negative impact of changes in the law or interpretation of the law in those countries. 
+
+We also
+are subject to risks that our operations outside the U.S. could be conducted by our employees, contractors, service providers, representatives or agents in ways that violate the Foreign Corrupt Practices Act or other similar anti-bribery laws. While
+we have policies and procedures to comply with these laws, our employees, contractors, service providers, representatives and agents may take actions that violate our policies. Any such violations could have a negative impact on our business and
+could result in government investigations and/or injunctive, monetary or other penalties. Moreover, we face additional risks that our anti-bribery policy and procedures may be violated by third-party sales representatives or other agents that help
+sell our products or provide other services, because such representatives or agents are not our employees and it may be more difficult to oversee their conduct. 
+
+Our products are manufactured outside the U.S., primarily in China, Taiwan and Brazil, and there are unique risks of doing business in these countries that could negatively impact our performance.
+
+Our products are manufactured outside the U.S., primarily in China, Taiwan and Brazil. If our manufacturing in these
+regions is disrupted, our overall capacity could be significantly reduced and sales or profitability could be negatively impacted. Furthermore, the legal systems in these countries are still developing and we face risks related to the negative
+impact of changes in the laws, or the interpretation of the laws, in these countries. In China and elsewhere, we face risks that our proprietary information may not be afforded the same protection under law as it is in countries with well-developed
+intellectual property laws similar to those in the U.S. Also in China, certain China-based competitors are acquiring very large portfolios of Chinese patents and may use those patents to interfere with our China-based manufacturing operations.
+
+In Brazil, where we manufacture and sell products and employ over 2,000 people, we face additional risks
+related to that country’s complex tax, labor, trade compliance and consumer protection laws and regulations. In connection with our operations in Brazil, we have had and continue to have legal disputes and controversies,
+including tax, labor and trade compliance controversies and other legal matters that take many years to resolve. We incur legal and other costs in managing and defending these matters and expect to continue to incur such costs. Based on
+our assessment of these matters, we have recorded reserves on only a small portion of the total potential exposure. It is, however, very difficult to predict the outcome of legal disputes and controversies, including litigation, in
+Brazil and our ultimate exposure may be significantly greater than our current assessments and related reserves. 
+
+In the event
+of a loss of matters at the intermediate administrative level, in order to continue to dispute the matter in Brazil’s judicial system, the Company may be required to deposit additional cash, post bank or insurance bonds, or
+pledge assets while the underlying matter is pending judicial review to cover an amount equal to the full value of the alleged tax assessment plus penalties and interest, which may negatively impact the Company’s cash liquidity,
+potentially significantly in some cases. In some matters, where we have lost at the intermediate administrative level, we have had to deposit cash in escrow accounts or provide surety bonds or letters of credit. Following the Distribution, we have
+approximately $150 million of cash deposits in Brazil related to these matters. 
+
+Our operations in Brazil
+could also be negatively impacted if we are deemed to be in violation of laws or regulations. Moreover, we may be subject to substantial fines, taxes, judgments and litigation costs. We also face additional challenges in Brazil
+due to frequent changes in laws that may impact our operations and market strategy. 
+
+Table of Contents
+
+21
+
+If the quality of our products does not meet our customers’ expectations or our products are
+found to be defective, then our sales and operating earnings, and ultimately our reputation, could be negatively impacted. 
+
+The products we sell may have quality issues resulting from the design or manufacture of the product, or from the software used in the product. Sometimes, these issues may be caused by components we
+purchase from other manufacturers or suppliers. Often these issues are identified prior to the shipment of the products and may cause delays in shipping products to customers, or even the cancellation of orders by customers. Sometimes, we discover
+quality issues in the products after they have been shipped to our customers, distributors or end-users, requiring us to resolve such issues in a manner that is the least disruptive to our customers. Such pre-shipment and post-shipment quality
+issues can have legal and financial ramifications, including delays in the recognition of revenue, loss of revenue or future orders, customer imposed penalties for failure to meet our contractual obligations, penalties from regulatory agencies,
+increased costs associated with repairing or replacing products, a negative impact on our goodwill and brand name reputation, warranty claims and litigation, including class action litigation. 
+
+In some cases, if the quality issue affects the product’s safety or regulatory compliance, then such a “defective” product
+may need to be recalled or be subject to other actions in the field. Depending on the nature of the defect and the number of products in the field, it could cause us to incur substantial recall or field action costs, in addition to the costs
+associated with the potential loss of future orders and the damage to our goodwill or brand reputation. In addition, we may be required, under certain customer contracts, to pay damages for failed performance that could exceed the revenue that we
+receive from the contracts. Recalls involving regulatory agencies could also result in fines and additional costs and trigger indemnification obligations. Finally, product defects could result in third-party litigation, including class action
+litigation by persons alleging common harm resulting from the purchase of the products. 
+
+If the volume of our sales decreases or does
+not reach projected targets, we could face increased materials and manufacturing costs that could make our products less competitive, which could negatively impact our financial results. 
+
+We have negotiated favorable pricing terms with many of our suppliers, some of which have volume-based pricing. Under such pricing
+arrangements, we may experience higher than anticipated costs if current volume-based purchase projections are not met. Some contracts have minimum purchase commitments and we may incur financial liabilities or price increases if these commitments
+are not met. We also may have unused production capacity if our current volume projections are not met, increasing our production cost per unit. In the future, as we establish new pricing terms, our volume demand could negatively impact future
+pricing from suppliers. All of these outcomes may result in our products being more costly per unit to manufacture and therefore less competitive or could negatively impact our financial results. 
+
+Failure to meet supply demands could negatively impact our relationship with customers and results of operations and cash flows.
+
+A failure to meet the supply demands of our customers can lead customers to drop or otherwise restrict our products
+from promotions and key product placements. This could negatively impact our relationship with customers and our financial results. 
+
+Our
+future operating results depend on our ability to purchase a sufficient amount of materials, parts and components to meet the demands of our customers and any reduction or interruption in supplies or significant increase in the price of supplies
+could have a negative impact on our business. 
+
+Our ability to meet customers’ demands depends, in part, on our
+ability to obtain timely and adequate delivery of quality materials, parts and components from our suppliers. Due to increased demand for products, many electronic manufacturers are experiencing shortages for certain components. We have experienced
+shortages in the past driven by raw material availability, manufacturing capacity, labor shortages, industry allocations, natural disasters and significant changes in the financial or business conditions of our suppliers that have negatively
+impacted our operations. Although we work closely with our suppliers to avoid shortages, there can be no assurance that we will not encounter shortages in the future or that such shortages will not negatively impact our operations. 
+
+Table of Contents
+
+22
+
+Furthermore, certain of our components are available only from a single source or limited
+sources, such as certain specialized components for our smartphones and set-top boxes. In the event of an interruption of supply or a significant price increase from these suppliers, we may not be able to diversify sources of supply in a timely
+manner, which could have a negative impact on our business. In addition, our current contractual arrangements with certain suppliers may be cancelled or not extended by such suppliers and, therefore, not afford the Company with sufficient protection
+against a reduction or interruption in supplies. Moreover, in the event any of these single source or limited source suppliers breach their contracts with us, our legal remedies associated with such a breach may be insufficient to compensate the
+Company for any damages we may suffer. Certain of our competitors may also negotiate more favorable contractual terms based on volume or other commitments which may provide them competitive advantages and may impact supply to the Company.
+
+Many of our components and products are designed or manufactured by third-parties. If third-party manufacturers lack sufficient quality
+control or if there are significant changes in the financial or business condition of such third-party manufacturers, it could have a negative impact on our business. 
+
+We rely on third-party manufacturers to manufacture many of our assemblies and finished products. If we are not able to engage such manufacturers with the capabilities or capacities required by our
+business, or if such third-parties lack sufficient quality control or if there are significant changes in the financial or business condition of such third-parties, it could have a negative impact on our business. We also have third-party
+arrangements for the design or manufacture of certain products, parts and components, including batteries. If we are not able to engage such parties with the capabilities or capacities required by our business, or if these third-parties fail to
+deliver quality products, parts and components on time and at reasonable prices, we could have difficulties fulfilling our orders and that could have a negative impact on our sales and results of operations. 
+
+Failure of our suppliers, business partners and customers to use acceptable ethical business practices could negatively impact our business.
+
+It is our policy to require our suppliers, business partners and customers to operate in compliance with applicable
+laws, rules and regulations and our code of business conduct regarding working conditions, employment practices, environmental compliance and trademark and copyright licensing. However, we do not control their labor and other business practices. If
+one of our suppliers violates labor or other laws or implements labor or other business practices that are regarded as unethical, the shipment of finished products to us could be interrupted, orders could be canceled, relationships could be
+terminated and our reputation could be damaged. If one of our suppliers fails to procure necessary license rights to trademarks, copyrights or patents owned by third-parties, legal action could be taken against us that could impact the salability of
+our products and expose us to financial obligations to third-parties. Any of these events could have a negative impact on our sales and results of operations. 
+
+Our success is dependent, in part, upon our ability to form successful strategic alliances. If these arrangements do not develop as expected, our business could be negatively impacted.
+
+We currently form alliances with industry leaders to meet customer product and service requirements and to develop
+innovative advances in design and technology. Some of our alliances allow us to supplement internal manufacturing capacity and share the cost of developing next-generation technologies. Other alliances allow us to offer more services and features to
+our customers. If such arrangements do not develop as expected, our business could be negatively impacted. Further, if our competition forms more successful strategic alliance that we are able to, our business could be negatively impacted.
+
+We rely on third-party distributors, representatives and retailers to sell certain of our products and our ability to bring products to
+market may be adversely affected by the loss or failure of one or more of our distributors. 
+
+In addition to our own
+sales force, we offer our products through a variety of third-party distributors, representatives and retailers. Certain of our distributors, representatives or retailers may also market other products that compete with our products. The loss or
+termination of one or more of our distributors, representatives or retailers, the failure of one or more of our distributors or representatives to effectively promote our products, or changes in the financial or business condition of these
+distributors or representatives could affect our ability to bring products to market. 
+
+Table of Contents
+
+23
+
+Industry consolidation in the telecommunications and cable industries could negatively impact our
+business because there would be fewer network operators and it could be more difficult to replace any lost customers. 
+
+The telecommunications and cable industries have experienced consolidation to gain efficiencies and economies of scale and this trend may
+continue. The convergence of video, voice and data service offerings may cause network operators to further consolidate across wireline, wireless and satellite delivery platforms. Consolidation by or among our customers could result in delays of
+purchases or in the selection of new suppliers by the merged companies, and negatively impact equipment suppliers, including our business. Due to continuing concentration within the cable industry worldwide, a small number of operators own a
+majority of cable TV systems and account for a significant portion of the capital spending made by cable telecommunication systems operators. Customer concentration has resulted in a smaller number of telecommunications customers making it more
+difficult to diversify our customer base. 
+
+The uncertainty of current economic and political conditions makes budgeting and forecasting
+difficult and could reduce demand for our products. 
+
+Current conditions in the domestic and world economies remain very
+uncertain. The global financial crisis, U.S. unemployment levels and ongoing political conflicts in the Middle East and elsewhere have created many economic and political uncertainties that have impacted worldwide markets. As a result, it is
+difficult to estimate changes in various parts of the world economy, including the markets in which we participate. Because all components of our budgeting and forecasting are dependent upon estimates of demand for our products, the prevailing
+economic uncertainties render estimates of future income and expenditures difficult. 
+
+The potential for future terrorist
+attacks, increased global conflicts and the escalation of existing conflicts and public health issues have created worldwide uncertainties that have negatively impacted, and could continue to negatively impact, demand for certain of our products.
+
+Changes in our operations or sales outside the U.S. markets could result in lost benefits in impacted countries and increase our cost
+of doing business. 
+
+We may enter into new agreements from time to time, with non-U.S. governments, agencies or similar
+organizations under which we have received or may receive certain benefits relating to our operations and/or sales in the jurisdiction. If our circumstances change and operations or sales are not at levels originally anticipated, we could be at risk
+of losing some or all of these benefits and increasing our cost of doing business. In addition, certain of the benefits we enjoyed while part of our Former Parent and its subsidiaries may no longer be available to us as an independent company.
+
+We may not generate sufficient future taxable income, which could require additional deferred tax asset valuation allowances.
+
+If we are unable to generate sufficient future taxable income in certain non-U.S. jurisdictions, or if there are
+significant changes in tax laws or in the actual effective tax rates or the time period within which the underlying temporary differences become taxable or deductible, we could be required to increase our valuation allowances against our deferred
+tax assets resulting in an increase in our effective tax rate and a negative impact on future operating results. 
+
+The outcome of
+currently ongoing and future examinations of our income tax returns by the IRS and other tax authorities could impact our financial results and cash flows. 
+
+We are subject to continued examination of the income tax returns filed by certain of our subsidiaries by the IRS and other tax authorities. We regularly assess the likelihood of adverse outcomes
+resulting from these examinations to determine the adequacy of our provision for income taxes. There can be no assurance that the outcomes from these continuing examinations will not have a negative impact on future operating results. 
+
+Table of Contents
+
+24
+
+We may be required to record additional goodwill or other long-lived asset impairment charges, which
+could result in additional significant charges to earnings. 
+
+Under generally accepted accounting principles, we review
+our long-lived assets for impairment when events or changes in circumstances indicate the carrying value may not be recoverable. Goodwill is tested for impairment at least annually. Factors that may be considered in assessing whether goodwill or
+intangible assets may not be recoverable include a decline in our stock price or market capitalization, reduced estimates of future cash flows and slower growth rates in our industry. 
+
+While part of our Former Parent, our businesses have incurred goodwill impairments and asset impairments. The goodwill impairment charges
+resulted from lower asset values in the overall market and the impact of the macroeconomic environment on our near-term forecasts. The intangible asset impairments resulted from a change in a technology platform strategy. Further declines in our
+stock price or reductions in our future cash flow estimates and future operating results may require us to record significant additional goodwill or other long-lived asset impairment charges in our financial statements in future periods, which could
+negatively impact our financial results. 
+
+We may make strategic acquisitions of other companies or businesses and these acquisitions
+would introduce significant risks and uncertainties, including risks related to integrating the acquired businesses and achieving benefits from the acquisitions. 
+
+In order to position ourselves to take advantage of growth opportunities, we may make strategic acquisitions that involve significant risks and uncertainties. These risks and uncertainties include:
+(1) the difficulty in integrating newly acquired businesses and operations in an efficient and effective manner, (2) the challenges in achieving strategic objectives, cost savings and other anticipated benefits from acquisitions,
+(3) the risk that our markets do not evolve as anticipated and that the technologies acquired do not prove to be those needed to be successful in those markets, (4) the potential loss of key employees of the acquired businesses,
+(5) the risk of diverting the attention of senior management from our operations, (6) the risks of entering new markets in which we have limited experience, (7) risks associated with integrating financial reporting and internal
+control systems, (8) difficulties in expanding information technology systems and other business processes to accommodate the acquired businesses, and (9) future impairments of goodwill of an acquired business. 
+
+Acquisition candidates in the industries in which we participate may carry higher relative valuations (based on their earnings) than we
+do. This is particularly evident in software and services businesses. Acquiring a business that has a higher relative valuation than Motorola Mobility may be dilutive to our earnings, especially if the acquired business has little or no revenue. In
+addition, we may not pursue opportunities that are highly dilutive to near-term earnings and have, in the past, foregone certain of these acquisition opportunities. 
+
+Key employees of acquired businesses may receive substantial value in connection with a transaction in the form of change in control payments, acceleration of stock options and the lifting of restrictions
+on other equity- based compensation rights. To retain such employees and integrate the acquired business, we may offer additional retention incentives, but it could still be costly and difficult to retain certain key employees. 
+
+It may be difficult for us to recruit and retain the types of engineers and other highly skilled employees that are necessary to remain
+competitive. 
+
+Competition for key technical personnel in high technology industries is intense. We believe that our
+future success depends in large part on our continued ability to hire, assimilate, retain and leverage the skills of qualified engineers and other highly skilled personnel. We may not be as successful as our competitors at recruiting, assimilating,
+retaining and utilizing these highly skilled personnel. We may have more difficulty attracting or retaining highly skilled personnel during periods of poor operating performance. 
+
+Our success depends in part upon our ability to attract, retain and prepare succession plans for senior management and key employees. 
+
+The performance of our senior management and other key employees, in particular our chief executive officer, Dr. Jha, is critical to
+our success. If we are unable to retain talented, highly qualified senior management and other key employees or attract them when needed, it could negatively impact Motorola Mobility. We rely on the
+
+Table of Contents
+
+25
+
+experience of our senior management, who have specific knowledge relating to us and our industry that is difficult to replace and competition for management with experience in the technology
+industry is intense. A loss of the chief executive officer, a member of senior management or a key employee, particularly to a competitor, could also place us at a competitive disadvantage. Further, if we fail to adequately plan for the succession
+of our chief executive officer, senior management and other key employees, our business could be negatively impacted by their loss. As a newly independent company if certain subject matter experts or employees with specialized skills have to be
+replaced at Motorola Mobility the organizational structure risk is heightened. 
+
+We have taken significant
+cost-reduction actions, which may expose us to additional production risk and could have a negative impact on our sales, profitability and ability to attract and retain employees. 
+
+We have been reducing costs and simplifying our product portfolios in our businesses, with sizable reductions particularly in our Mobile
+Devices business. We have discontinued product lines, consolidated manufacturing operations, increased reliance on third-parties, reduced our employee population and changed our compensation and benefits programs. 
+
+The impact of these cost-reduction actions on our sales and profitability may be influenced by many factors, including, but not limited
+to: (1) our ability to successfully complete these ongoing efforts, (2) our ability to generate the remaining level of cost savings we expect, (3) delays in implementing anticipated workforce reductions in highly regulated locations
+outside the U.S., particularly in Europe, (4) decline in employee morale and the potential inability to meet operational targets due to the loss of employees, (5) our ability to retain or recruit key employees, (6) the adequacy of our
+manufacturing capacity, including capacity provided by third-parties, (7) the performance of other parties under contract manufacturing arrangements on which we rely for the manufacture of certain products, parts and components, and (8)
+possible litigation or other third-party intervention. 
+
+Our business has consolidated or exited certain facilities and our
+products are manufactured in fewer facilities than in the past. While we have business continuity and risk management plans in place in case capacity is significantly reduced or eliminated at a given facility, the reduced number of alternative
+facilities could cause the duration of any manufacturing disruption to be longer or more severe. As a result, we could have difficulties fulfilling our orders and our sales and profits could decline. 
+
+It is important that we are able to obtain many different types of insurance, and if we are not able to obtain insurance we are forced to retain
+the risk. 
+
+As part of our Former Parent, we had many types of insurance coverage and also were self-insured for some
+risks and obligations. Although we recently secured acceptable insurance, there can be no assurance we will be able to continue to obtain certain types of insurance at sufficient levels of coverage or at cost-effective rates. The insurance market
+has been disrupted in the past after specific events such as September 11, 2001, the 2005 hurricanes and recent earthquakes and flooding. While the cost and availability of most insurance has stabilized, there are still certain types and levels
+of insurance that may become difficult to obtain at a cost effective level. Natural disasters and certain risks arising from securities claims and product liability are potential self-insured events that could negatively impact our financial
+results. 
+
+The unfavorable outcome of any pending or future litigation or administrative action could negatively impact us.
+
+Our financial results could be negatively impacted by unfavorable outcomes to any pending or future litigation,
+investigation or administrative actions, domestically or in a foreign jurisdiction, including those related to the Foreign Corrupt Practices Act and other anti-bribery laws. There can be no assurances as to the favorable outcome of any litigation.
+In addition, it can be very costly to defend litigation and these costs could negatively impact our financial results. See “Item 3. 
+Legal Proceedings”. 
+
+We are subject to a wide range of product regulatory and safety, consumer protection, worker safety and environmental laws and failure to comply with these laws could subject us to future costs or
+liabilities, impact our production capabilities, constrict our ability to sell, expand or acquire facilities, and negatively impact our financial performance. 
+
+Our operations and the products we manufacture and/or sell are subject to a wide range of global laws. We must comply with a variety of laws, standards and other requirements governing, among other
+things, health and 
+
+Table of Contents
+
+26
+
+safety, hazardous materials usage, packaging, consumer protection and environmental matters. Our products must obtain regulatory approvals and satisfy other regulatory requirements in the various
+jurisdictions where they are manufactured and/or sold. Many of our products must meet standards governing, among other things, interference with other electronic equipment and human exposure to radio frequency energy. Failure to comply with such
+requirements can subject us to liability, additional costs, reputational harm and, in severe cases, prevent us from selling our products in certain jurisdictions. Additionally, changes to regulatory requirements governing our products could have a
+negative impact on Motorola Mobility’s business, results of operations, and financial condition. 
+
+Compliance with existing
+or future laws, regulations or government directives could subject us to future costs or liabilities, impact our production capabilities, constrict our ability to sell, expand or acquire facilities, and negatively impact our financial performance.
+Some of these laws also relate to the use, disposal, clean up of, and exposure to hazardous substances. In the U.S., laws often require parties to fund remedial studies or actions regardless of fault. Changes to U.S. or foreign environmental laws or
+our discovery of additional obligations under these laws could have a negative impact on Motorola Mobility. 
+
+Over the last
+several years, laws focused on the energy efficiency of electronic products and accessories, recycling of both electronic products and packaging, reducing or eliminating certain hazardous substances in electronic products, and the transportation of
+batteries have expanded significantly. Laws pertaining to accessibility features of electronic products, standardization of connectors and power supplies, sound levels of music playing devices and other aspects of our products and business are also
+proliferating. 
+
+These laws impact our products and make it more expensive to manufacture and sell products. It may also be
+difficult to comply with the laws in a timely way. We may not have compliant products available in the quantities requested by our customers, thereby impacting our sales and profitability. We expect these trends to continue. In addition, we
+anticipate increased demands from our customers for products meeting voluntary criteria related to the reduction or elimination of certain hazardous substances from products, increasing energy efficiency, and providing additional accessibility, and
+our sales may be impacted by our timely ability to meet those criteria. 
+
+Allegations of health risks with using Motorola Mobility
+products, and the lawsuits and publicity relating to them, regardless of merit, could negatively impact our business, operating cash flows and financial condition. 
+
+Assertions about health and safety, hazardous materials usage and other environmental concerns related to using Motorola Mobility products could adversely impact our business, operating cash flows and
+financial condition. Adverse factual developments or lawsuits against us, or even the perceived risk of adverse health effects from chemical or physical agents associated with the use of smartphones or other devices we sell could negatively impact
+sales, subject us to costly litigation and/or harm our reputation, business, operating cash flows and financial condition. 
+
+There has been public speculation about possible health risks to individuals from exposure to radio frequency energy from the use of
+mobile devices. Government agencies, international health organizations and other scientific bodies are currently conducting research into these issues. In addition, we have been named in individual plaintiff and class action lawsuits alleging that
+radio frequency emissions from mobile phones have caused or contributed to brain tumors, and that the use of mobile phones poses a health risk. There has been significant scientific research by various independent research bodies that has indicated
+that exposure to electromagnetic fields or to radio frequency energy, at levels within the limits prescribed by public health authority standards and recommendations, presents no known adverse effect to human health. Nevertheless, there can be no
+assurance that other studies will not suggest or identify a link between electromagnetic fields or radio frequency energy and adverse health effects or that we will not be the subject of future lawsuits relating to this issue. See “Item 3.
+Legal Proceedings” for more details. 
+
+Government regulation of radio frequencies may limit the growth of the wireless
+communications industry or reduce barriers to entry for new competitors. 
+
+Radio frequencies are required to provide
+wireless services. The allocation of frequencies is regulated in the U.S. and other countries and limited spectrum space is allocated to wireless services. The growth of the wireless and personal communications industry may be affected: (1) by
+regulations relating to the access to allocated spectrum for wireless communication users, especially in urban areas, (2) if adequate frequencies are not allocated, or (3) if 
+
+Table of Contents
+
+27
+
+new technologies are not developed to better utilize the frequencies currently allocated for such use. Industry growth has been and may continue to be affected by the cost of new licenses
+required to use frequencies and any related frequency relocation costs. 
+
+The U.S. leads the world in spectrum deregulation,
+allowing new wireless communications technologies to be developed and offered for sale. Examples include wireless local area network systems, such as Wireless Fidelity (“WiFi”) and Long-Term Evolution (“LTE”). Other countries
+have also deregulated portions of their available spectrum to allow deployment of new technologies. Deregulation may introduce new opportunities for Motorola Mobility and our customers, but also new competition. 
+
+Changes in government policies and laws related to the Internet could negatively impact our financial results and cash flows. 
+
+The laws and regulations that impact access to, content on or commerce conducted on the Internet are still evolving. We could be
+negatively impacted by any such regulation in any country where we operate, including in the U.S. The adoption of such measures could decrease demand for our products and at the same time increase the cost of selling such products. 
+
+We rely on complex information technology systems and networks to operate our business. Any significant system or network disruption could have a
+negative impact on our operations, sales and operating results. 
+
+We rely on the efficient and uninterrupted operation
+of complex information technology systems and networks, some of which are within Motorola Mobility and some are outsourced. All information technology systems are potentially vulnerable to damage or interruption from a variety of sources, including
+but not limited to computer viruses, security breach, energy blackouts, natural disasters, terrorism, war and telecommunication failures. We regularly face attempts by others to gain unauthorized access through the Internet to our information
+technology systems. These attempts, which might be the result of industrial or other espionage, or actions by hackers seeking to harm Motorola Mobility, our products or end-users, are sometimes successful. There also may be system or network
+disruptions if new or upgraded business management systems are defective or are not installed properly. 
+
+We have implemented
+various measures to manage our risks related to system and network disruptions, but these measures may be insufficient and a system failure or security breach could negatively impact our operations and financial results. The theft and/or
+unauthorized use or publication of our trade secrets and other confidential business information as a result of such an incident could negatively impact our competitive position. In addition, we may incur additional costs to remedy the damages
+caused by these disruptions or security breaches. 
+
+We face a number of risks related to the recent global financial crisis.
+
+The global financial crisis that affected the banking system and financial markets which began during late 2008 and
+continued throughout 2009 and into 2010 resulted in a severe tightening in the worldwide credit markets, a low level of liquidity in many financial markets and extreme volatility in credit and equity markets. More recently, the destabilization of
+various currencies has also negatively impacted the global markets. This financial crisis has impacted, and could continue to impact, our business in a number of ways, including: 
+
+•
+
+ Destabilization of currencies: Destabilization of currencies has negatively impacted the credit markets and the valuation of certain currencies
+and may cause, and in some cases has caused, consumers and businesses to defer purchases in response to tighter credit, decreased purchasing power and/or declining consumer confidence. If future demand for our products declines due to global
+economic conditions, it could negatively impact our financial results. 
+
+•
+
+ Potential deferment or cancellation of purchases and orders by customers: Uncertainty about current and future global economic conditions may
+cause, and in some cases has caused, consumers, and businesses to defer or cancel purchases in response to tighter credit, decreased cash availability and declining consumer confidence. If future demand for our products declines due to global
+economic conditions, it could negatively impact our financial results. 
+
+•
+
+ Negative impact from increased financial pressures on key suppliers: Our ability to meet customers’ demands depends, in part, on our
+ability to obtain timely and adequate delivery of quality materials, parts and components from our suppliers. Certain of our components are available only from a single source or limited
+
+Table of Contents
+
+28
+
+sources. If certain key suppliers were to become capacity or liquidity constrained or insolvent, it could result in a reduction or interruption in supplies or an increase in the price of supplies
+and negatively impact our financial results. In addition, credit constraints at key suppliers have resulted in accelerated payment of accounts payable by Motorola Mobility, impacting our cash flow. If this trend continues, it could negatively impact
+our cash flow. If suppliers consolidate to address this financial pressure, less competition among suppliers could result in increased costs which could negatively impact our financial results. 
+
+As a new company without long-term debt credit ratings, there can be no assurances that we will have access to the capital markets on terms
+acceptable to us. 
+
+From time to time we may need to access the long-term and short-term capital markets
+to obtain financing. Although we believe we have sufficient capital to permit us to finance our operations on acceptable terms and conditions, our access to, and the availability of, further financing on acceptable terms and conditions in the future
+will be impacted by many factors currently and in the future, including: (1) our financial performance, (2) our credit ratings or absence of a credit rating, (3) the liquidity of the overall capital markets, and (4) the state of
+the economy, including the telecommunications and cable industries. There can be no assurance that we will have future access to the capital markets on terms acceptable to us. 
+
+We currently do not have long-term debt or a credit rating. As a result, the following activities we conducted at our Former Parent, as a rated company, may be more difficult to perform: 
+
+•
+
+ Ability to sell receivables: We may sell certain accounts receivable under facilities that may involve contractual commitments from
+third-parties to purchase qualifying receivables up to certain stated limits. These sales of receivables provide us the ability to accelerate cash flow when it is prudent to do so. The ability to sell (or “factor”) receivables may be
+subject to the credit quality of the obligor and our ability to obtain sufficient levels of credit insurance from independent insurance companies. We could be limited in our ability to sell receivables in the future because of our financial
+position, the creditworthiness of our customers or our ability to purchase credit insurance. 
+
+•
+
+ Our ability to obtain standby letters of credit and surety bonds could be limited: Certain commercial contracts with our customers require that
+we arrange for standby letters of credit, performance bonds and surety bonds (collectively referred to as “Performance Bonds”) to be issued on behalf of Motorola Mobility by banks and/or insurance companies. Issuers of these Performance
+Bonds may be less likely to provide Performance Bonds on our behalf in the future, unless we provide a sufficient level of collateral, and the costs for issuance may be higher. These limitations on issuance may apply to the renewal and extension of
+existing Performance Bonds, as well as the issuance of new Performance Bonds. Such collateral requirements could result in less liquidity for other operational needs, and financial flexibility would be reduced. 
+
+•
+
+ Our ability to hedge foreign exchange risk could be limited: Counterparties may be unwilling to provide trading and derivative credit facilities
+for us without cash collateral. This would limit our ability to reduce volatility in earnings and cash flow. Should cash collateral be provided, less liquidity would be available for operational needs, and our financial flexibility would be reduced.
+
+•
+
+ Our ability to fund our foreign affiliates could be limited: Motorola Mobility relies on uncommitted lines of credit from banks to provide
+daylight overdraft, short-term loans and other sources of liquidity for foreign affiliates. Lenders may be unwilling to provide credit to our foreign affiliates as Motorola Mobility will have no credit ratings at the time of the Distribution. This
+situation could result in Motorola Mobility using U.S. cash to make loans to these affiliates or provide permanent equity where loans are not possible. If this occurs, less liquidity would be available for other operational needs, and our financial
+flexibility would be reduced. 
+
+•
+
+ Our trade terms with suppliers may be less favorable than those of our competitors: Suppliers may require letters of credit, cash collateral or
+other forms of security as part of standard payment conditions. Such requests could result in reduced liquidity and less leverage in pricing negotiations. 
+
+•
+
+ Our access to short-term and long-term financing is extremely limited and could be very costly: As a company with unrated credit, we may have
+limited access to short-term and long-term borrowing and the cost of such borrowings could be high as compared to the cost for companies with favorable credit ratings. 
+
+Table of Contents
+
+29
+
+We may have higher levels of restricted cash or cash deposits as an independent,
+publicly traded company and we currently do not expect to have a credit rating, which could result in less liquidity and financial flexibility for Motorola Mobility
+
+.
+
+Following the Distribution, we have approximately $150 million of cash deposits in Brazil related to various legal disputes. In addition,
+as an independent, publicly traded company we may have to use more cash to collateralize standby letters of credit, surety bonds and performance bonds (collectively “Performance Bonds”) as part of our ordinary operations, which means such
+cash will not be immediately available to us. The use of cash to obtain Performance Bonds could result in less liquidity for other important operational needs, and financial flexibility could be reduced. 
+
+We may be unable to obtain a sufficient supply of components and parts that are free of minerals mined from the Democratic
+Republic of Congo and adjoining countries, which could result in a shortage of such components and parts or reputational damages if we are unable to certify that our products are free of such minerals.
+
+The Dodd-Frank Wall Street Reform and Consumer Protection Act included disclosure requirements regarding the use of “conflict”
+minerals mined from the Democratic Republic of Congo and adjoining countries (“DRC”) and procedures regarding a manufacturer’s efforts to prevent the sourcing of such “conflict” minerals. While final rules implementing these
+requirements are not expected from the SEC until later in 2011, the implementation of these requirements may limit the pool of suppliers who can provide us DRC Conflict Free components and parts, and we cannot make assurances that we will be able to
+obtain products in sufficient quantities that meet the DRC Conflict Free designation as proposed by the requirements. Also, since our supply chain is complex, we may face reputational challenges with our customers, stockholders and other
+stakeholders if we are unable to sufficiently verify the origins for the defined conflict metals used in our products. 
+
+Risks Relating to
+Our Recent Separation 
+
+If the Distribution, together with certain related transactions, were to fail to qualify as a reorganization
+for U.S. federal income tax purposes under Sections 355 and 368(a)(1)(D) of the Code, then we and/or our Former Parent and our stockholders could be subject to significant tax liability. 
+
+Our Former Parent received an opinion from Wachtell, Lipton, Rosen & Katz that the Distribution, together with certain related
+transactions, qualifies as a reorganization for U.S. federal income tax purposes under Sections 355 and 368(a)(1)(D) of the Code. The opinion relies on certain representations, assumptions and undertakings, including those relating to the past and
+future conduct of our business, and the opinion would not be valid if such representations, assumptions and undertakings were incorrect. Notwithstanding the opinion, the IRS could determine that the Distribution should be treated as a taxable
+transaction if it determines that any of the representations, assumptions or undertakings upon which the opinion relied is false or has been violated or if it disagrees with the conclusions in the tax opinion. For more information regarding the tax
+opinion, see the section entitled “The Separation—Material U.S. Federal Income Tax Consequences of the Distribution” included in the Information Statement of our Registration Statement on Form 10. 
+
+If the Distribution fails to qualify for tax-free treatment, our Former Parent would be subject to tax on gain, if any, as if it had sold
+the common stock of our Company in a taxable sale for its fair market value. In addition, if the Distribution fails to qualify for tax-free treatment, each of our initial public stockholders would be treated as if the stockholder had received a
+distribution equal to the fair market value of our common stock that was distributed to the stockholder, which generally would be taxed as a dividend to the extent of the stockholder’s pro rata share of our Former Parent’s current and
+accumulated earnings and profits and then treated as a non-taxable return of capital to the extent of the stockholder’s basis in our Former Parent’s common stock and finally as capital gain from the sale or exchange of our Former
+Parent’s common stock. Furthermore, even if the Distribution were otherwise to qualify under Sections 355 and 368(a)(1)(D) of the Code, it may be taxable to our Former Parent (but not to our Former Parent’s stockholders) under
+Section 355(e) of the Code, if the Distribution were later deemed to be part of a plan (or series of related transactions) pursuant to which one or more persons acquire, directly or indirectly, stock representing a 50% or greater interest in
+our Former Parent or us. For this purpose, any acquisitions of our Former Parent’s stock or of our common stock within the period beginning two years before the Distribution and ending two years after the Distribution are presumed to be part of
+such a plan, although we or our Former Parent may be able to rebut that presumption. For a more detailed discussion, see the section entitled “The Separation—Material U.S. Federal Income Tax Consequences of the Distribution”
+included in the Information Statement of our Registration Statement on Form 10. 
+
+Table of Contents
+
+30
+
+Under the Tax Sharing Agreement among our Former Parent, Motorola Mobility, Inc. and us, we
+would generally be required to indemnify our Former Parent against any tax resulting from the Distribution to the extent that such tax resulted from any of the following events (among others): (1) an acquisition of all or a portion of our stock
+or assets, whether by merger or otherwise, (2) any negotiations, understandings, agreements or arrangements with respect to transactions or events that cause the Distribution to be treated as part of a plan pursuant to which one or more persons
+acquire, directly or indirectly, stock representing a 50% or greater interest in Motorola Mobility, (3) certain other actions or failures to act by us, or (4) any breach by us of certain of our representations or undertakings. For a more
+detailed discussion, see the section entitled “Certain Relationships and Related Party 
+Transactions—Agreements With Motorola, Inc.—Tax Sharing Agreement” included in the Information Statement of our Registration
+Statement on Form 10. Our indemnification obligations to our Former Parent and its subsidiaries, officers and directors are not limited by any maximum amount. If we are required to indemnify our Former Parent or such other persons under the
+circumstances set forth in the Tax Sharing Agreement, we could be subject to substantial liabilities. 
+
+We may be unable to achieve some
+or all of the benefits that we expect to achieve as an independent, publicly traded company. 
+
+By separating from our
+Former Parent there is a risk that our Company may be more susceptible to market fluctuations and other adverse events than we would have otherwise been were we still a part of the our Former Parent. As part of our Former Parent, we were able to
+enjoy certain benefits from our Former Parent’s operating diversity, purchasing and borrowing leverage, and available capital for investments. We may not be able to achieve some or all of the benefits that we expect to achieve as an
+independent, publicly traded company. 
+
+We have no operating history as an independent, publicly traded company, and our historical
+financial statements are not necessarily representative of the results we would have achieved as an independent, publicly traded company and may not be reliable indicators of our future results. 
+
+The historical financial statements do not necessarily reflect the financial condition, results of operations or cash flows that we would
+have achieved as an independent, publicly traded company during the periods presented or those that we will achieve in the future, primarily as a result of the following factors: 
+
+•
+
+ Prior to our separation, our business was operated by our Former Parent as part of its broader corporate organization, rather than as an independent
+company. Our Former Parent or one of its affiliates performed various corporate functions for us, including, but not limited to, tax administration, treasury activities, accounting, information technology services, human resources, legal, ethics and
+compliance program administration, real estate management, investor and public relations, certain governance functions (including internal audit) and external reporting. Our historical financial statements reflect allocations of corporate expenses
+from our Former Parent for these and similar functions. These allocations may be more or less than the comparable expenses we would have incurred had we operated as an independent, publicly traded company. 
+
+•
+
+ Historically, we have shared economies of scope and scale in costs, employees, vendor relationships and customer relationships with the other
+businesses of our Former Parent. We may not capture all the benefits our businesses have enjoyed as a result of being integrated with the other businesses of our Former Parent. The loss of some or all of these benefits could have an adverse effect
+on our business, results of operations and financial condition following the completion of the separation. 
+
+•
+
+ We may need to obtain additional financing from banks, through public offerings or private placements of debt or equity securities, strategic
+relationships or other arrangements, and such arrangements may not be available to us or available on terms that are as favorable as those we could have obtained when we were part of our Former Parent. 
+
+•
+
+ Other significant changes may occur in our cost structure, management, financing and business operations as a result of our operation as a company
+separate from our Former Parent. 
+
+Table of Contents
+
+31
+
+Motorola Mobility and its Former Parent share the use of certain logos and other trademarks, trade
+names and service marks, including “MOTOROLA” and the Stylized M logo and all derivatives and formatives thereof such as MOTO (“Motorola Marks”), which could result in product and market confusion and negatively impact our
+ability to expand our business under the Motorola brand. 
+
+There are risks associated with both Motorola Mobility and
+our Former Parent using the Motorola Marks. Because both Motorola Mobility and our Former Parent will be using the Motorola Marks, confusion could arise in the market, including customer and investor confusion regarding the products offered by the
+two companies. This risk could increase as both our Former Parent’s and our products continue to converge. Also, any negative publicity associated with either company in the future could adversely affect the public image of the other.
+
+In addition because our Former Parent has the exclusive right to use the Motorola Marks with products and services within its
+specified fields of use, Motorola Mobility will not be permitted to use the Motorola Marks in those fields of use. In the event that Motorola Mobility desires to expand its business into any of our Former Parent’s fields of use, it will need to
+do so with a brand other than Motorola. Developing a brand as well-known and with as much brand equity as Motorola could take considerable time and expense. The risk of needing to develop a second brand increases as our Former Parent’s and our
+products continue to converge. 
+
+A change of control related to our Former Parent could result in an incompatible third-party being
+entitled to use the Motorola Marks, thereby increasing the risks associated with sharing the Motorola Marks. 
+
+Our
+Former Parent’s license to use the Motorola Marks is assignable to an acquiring entity. Similarly, in the event of a liquidation of our Former Parent, it is possible that a bankruptcy court would permit its license rights to be assigned to a
+third-party. While our Former Parent’s right to use the Motorola Marks is limited to a specific field of use, in the event of a change of control, it is possible that Motorola Mobility could be party to a license arrangement with a third-party
+whose interests are incompatible with those of Motorola Mobility, thereby potentially making the license arrangement difficult to administer, and increasing the costs and risks associated with sharing the Motorola Marks. 
+
+As part of our Former Parent, we benefited from licenses held by our Former Parent and we may incur additional unanticipated cost as an independent
+company when we no longer have the benefit of such licenses. 
+
+As part of our Former Parent, we enjoyed the benefits of
+a number of intellectual property licenses, including patent and software licenses, which covered all of our Former Parent’s businesses. As an independent company, we may have additional unanticipated costs to license intellectual property
+rights that in the past we had access to as part of our Former Parent. Such costs could include license fees or litigation costs. Although we cannot predict the extent of such unanticipated costs, it is possible such costs could negatively impact
+our financial results. 
+
+We may be unable to make, on a timely or cost-effective basis, the changes necessary to operate as an
+independent company without transition services, and we may experience increased costs as a result of the separation. 
+
+Our Former Parent is contractually obligated to provide to us only those transition services specified in the Transition Services
+Agreement and the other agreements we entered into with our Former Parent in connection with the separation. The expiration date of the Transition Services Agreement varies by service provided, but is generally no longer than 12 months from the date
+of the Distribution. We may be unable to replace in a timely manner or on comparable terms the services or other benefits that our Former Parent previously provided to us. Upon the expiration of the Transition Services Agreement or other agreements,
+many of the services that are covered in such agreements will be provided internally or by unaffiliated third-parties, and we expect that, in some instances, we will incur higher costs to obtain such services than we incurred prior to the separation
+or under the terms of such agreements. If our Former Parent does not effectively perform the transition services and the other services that are called for under the Transition Services Agreement and other agreements, we may not be able to operate
+our business effectively and our profitability may decline. After the expiration of the Transition Services Agreement and the other agreements, we may be unable to replace the services specified in such agreements in a timely manner or on comparable
+terms. 
+
+Similarly, we currently purchase a wide variety of products and services, including software licenses, from
+third-parties as part of our Former Parent. We may experience some increased costs after the separation as a result 
+
+Table of Contents
+
+32
+
+of our inability to continue to purchase products and services on terms that are as favorable to us as those obtained under these combined purchasing arrangements. Although we cannot predict the
+extent of any such increased costs, it is possible that such costs could have a negative impact on our business and results of operations. 
+
+We may have been able to receive better terms from unaffiliated third-parties than the terms provided in our agreements with our Former Parent.
+
+The agreements related to our separation from our Former Parent including the Master Separation and Distribution
+Agreement, Transition Services Agreement, Trademark License Agreement, Intellectual Property Agreements and other agreements, were negotiated in the context of our separation from our Former Parent while we were still part of our Former Parent and,
+accordingly, may not reflect terms that would have been reached between unaffiliated parties. The terms of the agreements we negotiated in the context of our separation relate to, among other things, allocation of assets, liabilities, rights,
+indemnifications and other obligations between our Former Parent and us as well as certain ongoing arrangements between our Former Parent and us. Had these agreements been negotiated with unaffiliated third-parties, they might have been more
+favorable to us. For more information, see the section entitled “Certain Relationships and Related Party Transactions” included in the Information Statement of our Registration Statement on Form 10. 
+
+Motorola Mobility and our Former Parent might not be able to engage in desirable strategic transactions and equity issuances following the
+Distribution. 
+
+To preserve the tax-free treatment to our Former Parent of the Distribution, under the Tax Sharing
+Agreement that we entered into with our Former Parent and Motorola Mobility, Inc., we agreed to refrain from taking or failing to take any action that prevents the Distribution and related transactions from being tax-free. Further, for the two-year
+period following the Distribution, in certain circumstances we may be precluded from: 
+
+•
+
+ entering into any transaction resulting in the acquisition of 40% or more of our stock or 60% or more of our assets, whether by merger or otherwise;
+
+•
+
+ merging, consolidating or liquidating; 
+
+•
+
+ issuing equity securities beyond certain thresholds; 
+
+•
+
+ repurchasing Motorola Mobility common stock beyond certain thresholds; and 
+
+•
+
+ ceasing to actively conduct the Mobile Devices business. 
+
+These restrictions may limit our ability to pursue strategic transactions or engage in new business or other transactions that may maximize the value of our business. Furthermore, we could be liable for
+any resulting tax if our actions are deemed to be in violation of the Tax Sharing Agreement. For more information, see the sections entitled “The Separation—Material U.S. Federal Income Tax Consequences of the Distribution” and
+“
+Certain Relationships and Related Party Transactions—Agreements With Motorola, Inc.—Tax Sharing Agreement” included in the Information Statement of our Registration Statement on Form 10. 
+
+In connection with our separation, our Former Parent will indemnify us for certain liabilities and we will indemnify our Former Parent for certain
+liabilities. If we are required to indemnify our Former Parent, we may need to divert cash to meet those obligations and our financial results could be negatively impacted. In the case of our Former Parent’s indemnity, there can be no assurance
+that the indemnity will be sufficient to insure us against the full amount of such liabilities, or as to our Former Parent’s ability to satisfy its indemnification obligations in the future. 
+
+Pursuant to the Master Separation and Distribution Agreement and certain other agreements with our Former Parent, our Former Parent agreed
+to indemnify us from certain liabilities, and we agreed to indemnify our Former Parent for certain liabilities, in each case for uncapped amounts, as discussed further in the section entitled “Certain Relationships and Related Party
+Transactions—Agreements With Motorola, Inc.—” under each of “
+Master Separation and Distribution Agreement—Indemnification” “
+Tax Sharing Agreement” and “
+Employee 
+Matters
+Agreement” included in the Information Statement of our Registration Statement on Form 10. Indemnities that Motorola Mobility may be required to provide our Former Parent are not subject to any cap, may be significant and could negatively
+impact our business, particularly indemnities relating to our actions that could impact the tax-free 
+
+Table of Contents
+
+33
+
+nature of the Distribution. Third-parties could also seek to hold us responsible for any of the liabilities that our Former Parent has agreed to retain. Further, there can be no assurance that
+the indemnity from our Former Parent will be sufficient to protect us against the full amount of such liabilities, or that our Former Parent will be able to fully satisfy its indemnification obligations. Moreover, even if we ultimately succeed in
+recovering from our Former Parent, any amounts for which we are held liable, we may be temporarily required to bear these losses ourselves. Each of these risks could negatively affect our business, results of operations and financial condition.
+
+A court could deem the Distribution to be a fraudulent conveyance and void the transaction or impose substantial liabilities upon us.
+
+A court could deem the Distribution or certain internal restructuring transactions undertaken by our Former Parent in
+connection with the separation to be a fraudulent conveyance or transfer. Fraudulent conveyances or transfers are defined to include transfers made or obligations incurred with the actual intent to hinder, delay or defraud current or future
+creditors or transfers made or obligations incurred for less than reasonably equivalent value when the debtor was insolvent, or that rendered the debtor insolvent, inadequately capitalized or unable to pay its debts as they become due. A court could
+void the transactions or impose substantial liabilities upon us, which could adversely affect our financial condition and our results of operations. Among other things, the court could require our stockholders to return to our Former Parent some or
+all of the shares of our common stock issued in the Distribution, or require us to fund liabilities of other companies involved in the restructuring transactions for the benefit of creditors. Whether a transaction is a fraudulent conveyance or
+transfer will vary depending upon the jurisdiction whose law is being applied. 
+
+Risks Relating to Our Common Stock 
+
+There is not a long market history for our common stock and the market price of our shares may fluctuate widely. 
+
+We cannot predict the prices at which our common stock may trade. The market price of our common stock may fluctuate widely, depending
+upon many factors, some of which may be beyond Motorola Mobility’s control, including: 
+
+•
+
+ a shift in our investor base; 
+
+•
+
+ our quarterly or annual earnings, or those of other companies in our industry; 
+
+•
+
+ actual or anticipated fluctuations in our results of operations; 
+
+•
+
+ announcements by us or our competitors of significant acquisitions or dispositions; 
+
+•
+
+ the failure of securities analysts to cover our common stock after the Distribution; 
+
+•
+
+ changes in earnings estimates by securities analysts or our ability to meet our earnings guidance; 
+
+•
+
+ the operating and stock price performance of other comparable companies; and 
+
+•
+
+ overall market fluctuations and general economic conditions. 
+
+Stock markets in general have also experienced volatility that has often been unrelated to the operating performance of a particular company. These broad market fluctuations could negatively affect the
+trading price of our common stock. 
+
+Stockholders’ percentage ownership in Motorola Mobility may be diluted in the future.
+
+As with any publicly traded company, a stockholder’s percentage ownership in Motorola Mobility may be diluted in
+the future because of equity awards that we expect will be granted to our directors, officers and employees and if we issue new equity for acquisitions and other transactions involving the issuance of equity. 
+
+We do not expect to pay any cash dividends for the foreseeable future. 
+
+We presently intend to retain future earnings, if any, to finance our business. As a result, we do not expect to pay any cash dividends
+for the foreseeable future. All decisions regarding the payment of dividends by our Company will be made by our Board of Directors from time to time in accordance with applicable law. There can be no assurance that we will have sufficient surplus
+under Delaware law to be able to pay any dividends. This may result 
+
+Table of Contents
+
+34
+
+from extraordinary cash expenses, actual expenses exceeding contemplated costs, funding of capital expenditures or increases in reserves. If we do not pay dividends, the price of our common stock
+must appreciate for stockholders to receive a gain on their investment in Motorola Mobility. This appreciation may not occur. Further, in order to generate cash flow from their investments, stockholders may have to sell shares.

@@ -1,0 +1,967 @@
+” included in Part I, Item 1A of this Annual Report on Form 10-K. 
+The forward-looking statements contained herein are based on information available to Activision Blizzard, Inc. as of the date of this filing, and we assume no obligation to update any such forward-looking sta
+tements. Actual events or results may differ from those expressed in forward-looking statements. As such, you should not rely on forward-looking statements as predictions of future events. We have based the forward-looking statements contained in this Annual Report on Form 10-K primarily on our current expectations and projections about future events and trends that we believe may affect our business, financial condition, operating results, prospects, strategy, and financial needs. These statements are not guarantees of our future performance and are subject to risks, uncertainties, an
+d other factors, some of which are beyond our control and may cause actual results to differ materially from current expectations.
+
+Activision Blizzard, Inc.’s names, abbreviations thereof, logos, and product and service designators are all either the registered or unregistered trademarks or trade names of Activision Blizzard, Inc. All other product or service names are the property of their respective owners. All dollar amounts referred to in, or contemplated by, this Annual Report on Form 10-K refer to U.S. dollars, unless otherwise explicitly stated to the contrary.
+
+3
+
+Table of Contents
+
+Item 1. BUSINESS
+
+Overview
+
+Activision Blizzard, Inc. is a leading global developer and publisher of interactive entertainment content and services. We develop and distribute content and services on video game consoles, personal computers (“PCs”), and mobile devices. We also operate esports leagues and offer digital advertising within some of our content. The terms “Activision Blizzard,” the “Company,” “we,” “us,” and “our” are used to refer collectively to Activision Blizzard, Inc. and its subsidiaries. For a discussion of the history of the formation of our Company, including our year and form of incorporation, refer to 
+Part I, Item 1 “Business” of our Annual Report on Form 10-K for the year ended December 31, 2019
+
+.
+
+Merger Agreement
+
+On January 18, 2022, we entered into an Agreement and Plan of Merger (the “Merger Agreement”) with Microsoft Corporation (“Microsoft”) and Anchorage Merger Sub Inc. (“Merger Sub”), a wholly owned subsidiary of Microsoft. Subject to the terms and conditions of the Merger Agreement, Microsoft agreed to acquire the Company for $95.00 per issued and outstanding share of our common stock, par value $0.000001 per share (the “Shares”), in an all-cash transaction. Pursuant to the Merger Agreement, following consummation of the merger of Merger Sub with and into the Company (the “Merger”), the Company will be a wholly-owned subsidiary of Microsoft. As a result of the Merger, we will cease to be a publicly traded company. We have agreed to various customary covenants and agreements, including, among others, agreements to conduct our business in the ordinary course during the period between the execution of the Merger Agreement and the effective time of the Merger (the “Effective Time”). We do not believe these restrictions will prevent us from meeting our debt service obligations, ongoing costs of operations, working capital needs or capital expenditure requirements. 
+
+If the Merger Agreement is terminated under certain specified circumstances, we or Microsoft will be required to pay a termination fee. We will be required to pay Microsoft a termination fee of approximately $2.27 billion under specified circumstances, including termination of the Merger Agreement in connection with our entry into an agreement with respect to a Superior Proposal (as defined in the Merger Agreement) prior to us receiving stockholder approval of the Merger, or termination by Microsoft upon a Company Board Recommendation Change (as defined in the Merger Agreement), in each case, if certain other conditions are met. Microsoft will be required to pay us a reverse termination fee under specified circumstances, including termination of the Merger Agreement due to a permanent injunction arising from Antitrust Laws (as defined in the Merger Agreement) when we are not then in material breach of any provision of the Merger Agreement and if certain other conditions are met, in an amount equal to (1) $2.0 billion if the termination notice is provided prior to January 18, 2023, (2) $2.5 billion if the termination notice is provided after January 18, 2023, and prior to April 18, 2023, or (3) $3.0 billion if the termination notice is provided at any time after April 18, 2023. The consummation of the Merger remains subject to customary closing conditions, including satisfaction of certain regulatory approvals, approval by our stockholders and other customary closing conditions. The Merger is currently expected to close in Microsoft’s fiscal year ending June 30, 2023.
+
+For additional information related to the Merger Agreement, please refer to the preliminary proxy statement previously filed with the SEC and other relevant materials in connection with the transaction that we will file with the SEC and that will contain important information about the Company and the Merger.
+
+Our Strategy and Vision
+
+Our objective is to connect and engage the world through epic entertainment by continuing to be a worldwide leader in the development, publishing, and distribution of high-quality interactive entertainment content and services, as well as related media, that deliver engaging entertainment experiences to our network of connected players on a year-round basis. In pursuit of this objective, we focus on three strategic pillars: expanding audience reach; deepening consumer engagement; and increasing player investment.
+
+Expanding audience reach. 
+Building on our strong established franchises and creating new franchises through compelling content is at the core of our business. We endeavor to expand our network and reach as many consumers as possible by offering our content on multiple platforms, particularly mobile, the largest and fastest growing platform, and delivering compelling experiences across multiple business models (e.g., premium, free-to-play, subscription-based).
+
+4
+
+Table of Contents
+
+Driving deep consumer engagement
+. Our high-quality entertainment content not only expands our audience reach, but it also drives deep engagement with our franchises. We design our games, as well as related media, to provide a depth of content that keeps consumers engaged for a long period of time following a game’s release. In addition, our games are designed to provide players the ability to connect with each other socially within our franchise communities, thus delivering more value to our players and providing additional growth opportunities for our franchises.
+
+Increasing player investment. 
+The connected, online nature of our network enables us to offer content and player investment opportunities directly to our consumers on a year-round basis. In addition to purchasing full games or subscriptions, players can invest in our franchises by purchasing incremental in-game content. These digital revenue streams tend to be more recurring and have relatively higher profit margins. In addition, we generate revenue through offering advertising within certain of our franchises, and we believe there are opportunities to grow new forms of player investment through esports and consumer products. We are still in the early stages of developing these new revenue streams.
+
+Our Segments
+
+Based upon our organizational structure, we conduct our business through three reportable segments, each of which is a leading global developer and publisher of interactive entertainment content and services based primarily on our internally-developed intellectual properties.
+
+(i) Activision Publishing, Inc.
+
+Activision Publishing, Inc. (“Activision”) delivers content through both premium and free-to-play offerings and primarily generates revenue from full-game and in-game sales, as well as by licensing software to third-party or related-party companies that distribute Activision products. Activision’s key product franchise is Call of Duty
+®
+, a first-person action franchise. Activision also includes the activities of the Call of Duty League™, a global professional esports league with city-based teams.
+
+(ii) Blizzard Entertainment, Inc.
+
+Blizzard Entertainment, Inc. (“Blizzard”) delivers content through both premium and free-to-play offerings and primarily generates revenue from full-game and in-game sales, subscriptions, and by licensing software to third-party or related-party companies that distribute Blizzard products. Blizzard also maintains a proprietary online gaming platform, Battle.net
+®
+, which facilitates digital distribution of Blizzard content and selected Activision content, online social connectivity, and the creation of user-generated content. Blizzard’s key product franchises include: Warcraft
+®
+, which includes World of Warcraft
+®
+, a subscription-based massive multi-player online role-playing game and Hearthstone
+®
+, an online collectible card game based in the Warcraft
+
+universe; Diablo
+®
+, an action role-playing franchise; and Overwatch
+®
+, a team-based first-person action franchise. Blizzard also includes the activities of the Overwatch League™, a global professional esports league with city-based teams.
+
+(iii) King Digital Entertainment
+
+King Digital Entertainment (“King”) delivers content through free-to-play offerings and primarily generates revenue from in-game sales and in-game advertising on mobile platforms. King’s key product franchise is Candy Crush™, a “match three” franchise.
+
+Other
+
+We also engage in other businesses that do not represent reportable segments, including the Activision Blizzard Distribution (“Distribution”) business, which consists of operations in Europe that provide warehousing, logistics, and sales distribution services to third-party publishers of interactive entertainment software, our own publishing operations, and manufacturers of interactive entertainment hardware.
+
+Impacts of the Global COVID-19 Pandemic
+
+In December 2019, a novel strain of coronavirus (“COVID-19”) emerged and has since extensively impacted global health and the economic environment. On March 11, 2020, the World Health Organization characterized COVID-19 as a pandemic. In an effort to contain the spread of COVID-19, domestic and international governments around the world enacted various measures, including orders to close all businesses not deemed “essential,” quarantine orders for individuals to stay in their homes or places of residence, and to practice social distancing when engaging in essential activities.
+
+5
+
+Table of Contents
+
+During the early stages of the COVID-19 pandemic, our business experienced an increase in demand for certain of our products and services as a result of the stay-at-home orders enacted in various regions as players had more time to engage with our games. We have, however, seen a moderation in these trends from when the stay-at-home orders were originally enacted early in 2020 and at this time stay-at-home orders have largely been lifted in most regions. It is uncertain how our business could be impacted in the current state of the pandemic as stay-at-home orders in certain regions are reduced, lifted, or at times, fully or partially reinstated, as new cases and variants of COVID-19 arise and evolve.
+
+In an effort to protect the health and safety of our employees, the majority of our workforce continues to work from home, and we have placed restrictions on non-essential business travel. During 2022 we expect that our workforce will return to our offices in some capacity while also having the option to continue to work from home depending on business requirements and health and safety concerns. Additionally, thus far, the pandemic has caused minimal disruption to our game titles’ published release dates. Please see 
+“Management’s Overview of Business Trends”
+
+ section included in Part II, Item 7 “Management’s Discussion and Analysis of Financial Condition and Results of Operations” of this Annual Report on Form 10-K.
+
+As the COVID-19 pandemic continues to be present and evolve, the impact on our business, reputation, financial condition, results of operations, income, revenue, profitability, cash flows, liquidity, and stock price will depend on numerous evolving factors that we are not able to fully predict at this time, including the duration and spread of the pandemic and associated macroeconomic impacts including labor shortages and supply chain disruption, the speed and effectiveness of regional and worldwide containment and vaccination efforts including vaccine mandates, and the impact of these and other factors on our employees, customers, and partners. We will continue to actively monitor the developments of the COVID-19 pandemic and may take further actions that could alter our business operations as may be required by federal, state, local, or foreign authorities, or that we determine are in the best interests of our employees, customers, partners, and shareholders.
+
+Refer to Part I, Item 1A “
+Risk Factors
+
+” of this Annual Report on Form 10-K for additional details on risks and uncertainties regarding the impacts of the global COVID-19 pandemic on our business, reputation, financial condition, results of operations, income, revenue, profitability, cash flows, liquidity, and stock price.
+
+Products
+
+We develop interactive entertainment content and services, principally for console, PC, and mobile devices, and we market and sell our games primarily through digital distribution channels. Our products span various genres, including first- and third-person action/adventure, role-playing, strategy, and “match three,” among others. We primarily offer the following products and services:
+
+•
+premium full-games, which typically provide access to main game content after purchase;
+
+•
+free-to-play offerings, which allow players to download the game and engage with the associated content for free;
+
+•
+in-game content for purchase to enhance gameplay (i.e., microtransactions and downloadable content) available within both our premium full-games and free-to-play offerings; and
+
+•
+subscriptions for players in 
+World of Warcraft
+ that provide for ongoing access to the game content.
+
+Providing additional content and experiences within franchises has increased opportunities for player investment outside of premium full-game purchases. This has allowed us to shift from our historical seasonality to a more consistently recurring and year-round revenue model. In addition, if executed properly, it allows us to increase player engagement with our games and content.
+
+Product Development and Support
+
+We focus on developing enduring wholly-owned franchises backed by well-designed, high-quality games with regular content updates. We aim to build interactive entertainment content with the potential for broad reach, sustainable engagement, and year-round player investment. It is our experience that enduring franchises then serve as the basis for related new products and content that can be released over an extended period of time. We believe that the development and distribution of products and content based on established franchises enhances predictability of revenues and the probability of high unit volume sales and operating profits. We intend to continue development of content based on our owned franchises in the future.
+
+6
+
+Table of Contents
+
+We develop and produce our titles using a model in which individual game studios have responsibility for the entire development and production process, including the supervision and coordination of internal and, where appropriate, external resources. We believe this model allows us to deploy the best resources for a given task, including by supplementing our internal expertise with top-quality external resources on an as-needed basis.
+
+While most of our content is developed by our internal studios, we periodically engage independent third-party developers to create content on our behalf. From time to time, we also acquire the license rights to publish and/or distribute software products that are, or will be, independently created by third-party developers.
+
+We provide various forms of product support. Central technology and development teams review, assess, and provide support to products throughout the development process. Quality assurance personnel are also involved throughout the development and production of published content. We subject all such content to extensive testing before public release to ensure compatibility with appropriate hardware systems and configurations and in an effort to minimize the number of bugs and other defects found in the products. To support our content, we generally provide 24-hour game support to players, primarily online.
+
+Marketing, Sales, and Distribution
+
+Many of our products contain software that enables us to connect with our gamers directly. This allows us to communicate and market directly to our customers, including through customized advertising and in-game messaging based on customer preferences and trends. Our marketing efforts also include: activities on online social networks; other online advertising; public relations activities; print and broadcast advertising; coordinated in-store and industry promotions (including merchandising and point of purchase displays); participation in cooperative advertising programs; direct response vehicles; and product sampling. From time to time, we also receive marketing support from hardware manufacturers, producers of consumer products related to a game, and retailers in connection with their own promotional efforts, as well as co-marketing from promotional partners.
+
+Most of our products and content are available in a digital format, which allows consumers to purchase and download the content at their convenience directly to their console, PC, or mobile device through our platform partners, including Apple Inc. (“Apple”), Facebook, Inc. (“Facebook”), Google Inc. (“Google”), Microsoft, and Sony Interactive Entertainment Inc. (“Sony”). Blizzard utilizes its proprietary online gaming platform, Battle.net, to distribute most of Blizzard’s content and selected Activision content directly to PC consumers.
+
+In addition to serving as a distribution platform, Battle.net offers players communications features, social networking, player matching, and digital content delivery and is designed to allow people to connect regardless of which of our games on Battle.net they are playing.
+
+Our physical products are available for sale in outlets around the world. These products are sold primarily on a direct basis to mass-market retailers (e.g., Target, Walmart), consumer electronics stores (e.g., Best Buy), discount warehouses, game specialty stores (e.g., GameStop), and other stores (e.g., Amazon), or through third-party distribution and licensing arrangements.
+
+Manufacturing
+
+We prepare master program copies for our products on each release platform. With respect to products for consoles, such as for Microsoft and Sony, our disk duplication, packaging, printing, manufacturing, warehousing, assembly, and shipping are performed by third-party subcontractors or distribution facilities owned by us.
+
+Microsoft and Sony generally specify or control the manufacturing and assembly of finished products and license their hardware technologies to us. In return, we pay an applicable royalty per unit once the manufacturer fills the product order, even if the units do not ultimately sell. We deliver the master materials to the licensor or its approved replicator, who then manufactures the finished goods and delivers them to us for distribution under our label.
+
+7
+
+Table of Contents
+
+Significant Customers and Top Franchises
+
+Customers
+
+While the Company does sell directly to end consumers in certain instances, such as sales through Battle.net, in other instances our customers are platform providers, such as Sony, Microsoft, Google, and Apple, or retailers, such as Walmart, Target, Best Buy, and GameStop, who act as distributors of our content to end consumers. 
+
+The percentage of our consolidated net revenues by our most significant customers were as follows:
+
+For the Years Ended
+
+December 31, 2021
+
+December 31, 2020
+
+December 31, 2019
+
+Apple
+
+17 
+
+%
+
+15 
+
+%
+
+17 
+
+%
+
+Google
+
+17 
+
+%
+
+14 
+
+%
+
+13 
+
+%
+
+Sony
+
+15 
+
+%
+
+17 
+
+%
+
+11 
+
+%
+
+Microsoft
+
+*
+
+11 
+
+%
+
+*
+
+*    Customer did not account for 10% or more of our consolidated net revenues for the noted period.
+
+No other customer accounted for 10% or more of our net revenues in the periods above. We had two customers—Microsoft and Sony—who accounted for 20% and 22%, respectively, of consolidated gross receivables at December 31, 2021, and 28% and 21%, respectively, at December 31, 2020. No other customer accounted for 10% or more of our consolidated gross receivables in those periods.
+
+Top Franchises
+
+For the years ended December 31, 2021, 2020, and 2019, our top three franchises—Call of Duty, Candy Crush, and Warcraft—collectively accounted for 82%, 79%, and 72%, respectively, of our net revenues. No other franchise comprised 10% or more of our net revenues in those periods.
+
+Competition
+
+We compete for the leisure time and discretionary spending of consumers with other interactive entertainment companies and software competitors, as well as with providers of different forms of entertainment, such as film, television, social networking, music, and other consumer products.
+
+The interactive entertainment industry is intensely competitive, and new interactive entertainment software products and platforms are regularly introduced. We believe that the main competitive factors in the interactive entertainment industry include: product features, game quality, and playability; brand name recognition; compatibility of products with popular platforms; access to distribution channels; online capability and functionality; ease of use; price of content; marketing support; and quality of customer service.
+
+In addition to third-party software competitors, integrated video game console hardware and software companies, such as Microsoft, Sony, and Nintendo, compete directly with us in the development of software titles for their respective platforms, while at the same time act as key distribution channels and payment gateways for our products and services through their digital storefronts. Apple and Google are similarly positioned on mobile devices. 
+
+As our teams have contributed to transforming gaming into social experiences, enabling players to find purpose and meaning through games, we believe connecting these communities together is the next step in our industry. This can be seen by established and emerging competitors seeing opportunity for virtual worlds filled with professionally produced content, user generated content and rich social connections. As investments in cloud computing, artificial intelligence and machine learning, data analytics, and user interface and experience capabilities are becoming more competitive, we believe that our recently announced merger and partnership with Microsoft will better enable our ambitions in this dynamic and highly competitive environment. 
+
+8
+
+Table of Contents
+
+Intellectual Property
+
+Like other interactive entertainment companies, our business is significantly dependent on the creation, acquisition, use and protection of intellectual property. Some of this intellectual property is in the form of copyrighted software code, patented technology, and other technology and trade secrets that we use to develop and run our games. Other intellectual property is in the form of copyrighted audio-visual elements that consumers can see, hear, and interact with when they are playing our games.
+
+We develop a majority of our products based on wholly-owned intellectual properties, such as Call of Duty, Warcraft, and Candy Crush. In other cases, we obtain intellectual property through licenses and service agreements. Further, our products that play on consoles and mobile platforms include technology that is owned by the platform provider and is licensed non-exclusively to us for use in the relevant product. We also license technology from providers other than console manufacturers in developing our content and services. While we may have renewal rights for some licenses, our business is dependent on our ability to continue to obtain the intellectual property rights from the owners of these rights on reasonable terms and at reasonable rates.
+
+We are actively engaged in enforcement of our copyright, trademark, patent, and trade secret rights against potential infringers of those rights along with other protective activities, including monitoring online channels for distribution of pirated copies and participating in various enforcement initiatives, education programs, and legislative activity around the world. For our PC products, we use technological protection measures to prevent piracy and the use of unauthorized copies of our products. For other platforms, the platform providers typically incorporate technological protections and other security measures in their platforms to prevent the use of unlicensed products on those platforms.
+
+Our People
+
+We are committed to becoming the most welcoming, inclusive company in our industry. Genuinely embodying this mission and responsibility to our communities is a powerful lever to attract and retain the very best talent. Our continued success and growth are directly related to our ability to attract, recruit, enable, retain, and develop diverse and innovative talent. 
+
+During 2021, the Company has worked to address concerns raised regarding our workplace and related matters.
+
+These concerns have been set forth in, among other contexts, various legal actions against the Company, as described in Part I, Item 1A “
+Risk Factors
+
+” and 
+Note 22
+
+ to the notes to the consolidated financial statements included in Part II, Item 8 of this Annual Report on Form 10-K. The leadership of the Company has committed to take action to produce meaningful change and provide employees the resources and support to succeed in our collective aspiration to be the model workplace in our industry.
+
+Steps we have taken to improve our workplace and address concerns include:
+
+•
+In November 2021, the Board of Directors formed a “Workplace Responsibility Committee” (the “Committee”), initially comprised of two independent directors, to oversee the Company’s progress in successfully implementing its workplace policies, procedures, and commitments. The Committee will require management to develop key performance indicators and/or other means to measure progress and ensure accountability, with executive management providing frequent progress reports to the Committee, which will regularly brief the full Board of Directors.
+
+•
+For any Activision Blizzard employee who chooses not to arbitrate an individual claim of sexual harassment, unlawful discrimination, or related retaliation arising from events after October 2021, the Company will waive any obligation to do so. 
+
+•
+We have investigated–and will continue to investigate–complaints of harassment, discrimination and retaliation raised through various reporting channels. In October 2021, we combined our investigations groups into one centralized “investigations unit” within the Ethics & Compliance team. This centralized unit with expanded resources increases our ability to conduct prompt investigations and maintain and measure consistency throughout investigations of all types and across the Company. 
+
+•
+Our Way to Play Heroes–who are volunteers who help other employees understand reporting options, champion speaking up, and provide feedback and advise on how to strengthen our overall ethics and compliance program– are receiving additional resources and recognition through an overall expansion of the program.
+
+9
+
+Table of Contents
+
+•
+We are committed to continuing to grow our investment in anti-harassment and anti-discrimination training resources.
+
+•
+We released our U.S. Pay Equity Review 2020 in October 2021. We also released our 2021 Representation Data report in December 2021, based on data in Company records as of November 30, 2021. We believe transparency with our stakeholders is an important part of our mission.
+
+•
+In October 2021, we announced the launch of a new zero-tolerance harassment policy Company-wide. 
+
+•
+We launched Upward Feedback in December 2021, an annual process where employees share constructive, actionable feedback to their managers through an anonymous survey, enabling awareness regarding managers’ inclusive behaviors and commitment to living our values.
+
+•
+We announced a global drug and alcohol policy for Company-sponsored events and zero tolerance for alcohol consumption in the workplace in November 2021.
+
+•
+We removed content in our games that we believe to be inappropriate. 
+
+While some of these initiatives will have an immediate impact, others may take time to be felt across the Company and will continue to evolve as we gather further feedback from our employees. Additionally, our employees in the U.S. are not covered by collective bargaining agreements. At Raven Software, one of our studios, the Communications Workers of America has filed a petition to represent a unit of employees, and the National Labor Relations Board will oversee the election process, including a determination of the appropriate set of employees who would be included in any bargaining unit (and thus participate in the election on potential unionization). We deeply respect the rights of all employees to make their own decisions about whether or not to join a union and exercise all other National Labor Relations Act rights. Across the Company, we believe that a direct relationship between managers and team members allows us to quickly respond and deliver the strongest results and opportunities for employees. As discussed in Part I, Item 1A under “
+Risk Factors
+
+” of this Annual Report on Form 10-K, while the Merger Agreement is in effect, we are also subject to certain interim covenants with respect to various matters (including, among other things, with respect to collective bargaining agreements and employee benefit plans) concerning the operation of our business during the pendency of the Merger.
+
+Other important aspects and areas of focus for the Company to attract, recruit, enable, retain, and develop diverse and innovative talent are set out below:
+
+ Overview
+: As of December 31, 2021, Activision Blizzard had approximately 9,800 full-time and part-time employees, with approximately 68% in North America, approximately 25% in the Europe, Middle East, and Africa (“EMEA”) region, and approximately 7% in the Asia Pacific region. Of these employees, approximately 68% either work directly on, or support, our game and technology development, which represents an approximate seven percentage point increase from 2020. 
+
+Diversity, Equity, and Inclusion (“DE&I”)
+: We believe that a culture of inclusion and diversity enables us to create, develop, and fully leverage the strengths of our workforce to exceed players’ and fans’ expectations and meet our growth objectives. We remain committed to building and sustaining a culture of belonging, where our employees can be their authentic selves. By embedding DE&I practices and programs in the full employee lifecycle, we work to attract, recruit, enable, retain and develop diverse world-class talent. Our employee resource groups play an active role in our DE&I efforts by building community and awareness. We also offer leadership and management development opportunities on the topics of unconscious bias and inclusive leadership and train our recruiting workforce in diverse sourcing strategies.
+
+Our Corporate Governance Principles and Policies demonstrate our commitment to diversity at the Board of Directors level, providing that the initial list from which any new independent director nominee is chosen includes qualified female and racially/ethnically diverse candidates and, similarly, if we conduct an external search for a new CEO, that the initial list of external candidates includes qualified female and racially/ethnically diverse candidates. As of December 31, 2021, 20% of the members of our Board of Directors are women, and 20% are members of underrepresented communities. Under current California law, we were required to add an additional female director to our Board of Directors by the end of 2021. To meet this requirement and improve the diversity of our Board of Directors, the Company retained a search firm and began interviewing potential additional female directors in 2021. However, since the Company’s current directors would cease to continue to serve on our Board of Directors upon consummation of our proposed transaction with Microsoft, we were unable to conclude the process in 2021. We will be continuing our efforts to appoint a new female director. 
+
+10
+
+Table of Contents
+
+Additionally, since 2016, the number of women in our game development leadership roles has more than doubled. As of November 30, 2021, approximately 24% of our global employee population identifies as women or non-binary, and in 2021, we committed to increase the percentage of women and non-binary employees in our workforce by 50% over the next five years to achieve over one-third representation. Further, upon joining the Company, and again every two years, every employee is required to take our bespoke online Equality & Diversity Training, which underscores our commitment to creating a respectful workplace culture.
+
+Our overall goal in hiring is to provide an objective and equitable process that helps us recruit the very best creative and technical talent in the world and explore an array of resources to increase the share of women, underrepresented ethnic groups (“UEGs”), and other forms of diversity in our workforce.
+
+In 2021 we launched a new tool that tracks–for every single hire–data on the representation and presence of women and UEG candidates at applicant, interview, and hiring stages of our recruiting process. This tool will enable us to provide transparency on our diversity progress as well as helping to reinforce our objective of having diverse candidate slates for open positions.
+
+We also recognize that formal tools and mechanisms around our candidate slates alone will not create the change we strive for in our organization or our industry, which is why we have also prioritized and taken meaningful action on a broad portfolio of initiatives–from expanding opportunities in the gaming and technology space for underrepresented communities to mentorship and sponsorship programs for our current teammates and future leaders. As part of these efforts, we have committed to invest $250 million over the next 10 years in initiatives that foster expanded opportunities in gaming and technology for under-represented communities. Additionally, our work to support the Call of Duty Endowment in 2021 resulted in 16,138 veteran job placements and more than $1 billion in positive economic impact for the veteran community.
+
+Compensation and Benefits
+: The main objective of our compensation program is to provide a compensation package that attracts, retains, motivates, and rewards employees that operate in a highly competitive and technologically challenging environment. We seek to do this by linking compensation (including annual changes in compensation) to overall Company and business unit/franchise performance, as well as each individual’s contribution to the results achieved. The emphasis on overall Company performance is intended to align our employees’ financial interests with the interests of our shareholders. We continue to make efforts across our global organization to promote equal pay practices. For example, our U.S. analysis showed that women at the Company on average earned slightly more than men for comparable work in 2020. Further, we have announced improved benefits provided to a large portion of our employees, such as increased holiday, sick, and vacation time off. We also have increased our overall investment in development and operations by announcing the conversion of approximately 500 temporary workers to full-time employees at our Activision studios.
+
+We are committed to providing comprehensive benefit options, and it is our intention to offer benefits that allow our employees and their families to live healthier and more secure lives. Some examples of our wide-ranging benefits offered are: 401(k) with matching Company contributions; a comprehensive well-being program; paid leave programs; medical insurance; prescription drug benefits; dental insurance; vision insurance; accidental death and dismemberment insurance; critical illness insurance; life insurance; disability insurance; health savings accounts; flexible spending accounts; and benefits to support current and hopeful parents. We frequently upgrade our benefit portfolio by seeking out pioneer partners that give our employees modern benefit experiences. As an example, at the onset of the COVID-19 pandemic when traditional medical services became under huge demand, in order to help ensure that our employees and their families had access to medical advice, we created an enterprise-wide global network of physicians. 
+
+Further, the Company has been reviewing our overall compensation structure and philosophy and began implementing changes to our compensation payments for 2021, primarily to enhance employee equity ownership and bring our employee equity compensation in line with current industry practice. As a result of this review, the Company made changes to our 2021 bonus and equity structure so that all eligible employees will receive incentives in the form of Company equity for 2021 in an amount equal to or greater than 2021 target Company performance without regard to whether target performance was achieved.
+
+11
+
+Table of Contents
+
+Developing Careers and Growing Leaders: 
+Recognizing that ours is a rapidly changing industry with constant innovation, developing our diverse and innovative talent base is vital to our business. Our talent processes are focused on performance management, strategic talent assessment and succession planning, and career and leadership development opportunities through promotion and internal mobility. We intend for our employees to have a clear understanding of their strengths and development opportunities, while fostering a collaborative and productive relationship between employees and their managers. Our performance management process begins with the establishment of goals, followed by encouraged regular check-ins on progress and performance so that employees have an understanding of their strengths, areas for improvement, and how they are contributing to the Company. We assess employee contributions to our Company results and culture so that we can recognize and reward their contributions. Additionally, on an annual basis, we conduct an organizational and performance review process with our CEO and all segment, business unit, and function leaders, focusing on our high-performing and high-potential talent, diversity and inclusion, and the performance and succession for our most critical roles.
+
+Engaging Employees:
+ Employees across the Company have the opportunity to join and contribute to one of our nine Employee Networks. These groups enrich our employees’ experiences, our culture, and our business by driving inclusion, cultural awareness, professional development, networking, and community involvement. Employee engagement also plays a critical role in how we identify and improve the way we work. We capture and act on the voice of our employees through multiple means including pulse surveys, listening sessions and newly added upward feedback. We emphasize to employees that this is their chance to “provide honest, candid feedback about their experience working for the Company.”
+
+Our employee feedback is dynamic and relevant to our employees’ immediate needs.
+
+Sustainability
+
+We understand that we have a responsibility to operate sustainably. Our ongoing conversion to a more digital business is enabling us to set and achieve important sustainability goals. As a result of this transition, during 2021 we have made significant progress in reducing packaging waste for which, using 2019 as a baseline, we have achieved a 60% reduction, surpassing our original goal of a 50% reduction by 2024. We are also in the process of establishing baselines and setting quantitative interim targets to measure progress towards our goal of achieving net zero greenhouse gas emissions by 2050.
+
+Information about our Executive Officers
+
+Our executive officers and their biographical summaries are provided below:
+
+Name
+
+Age
+
+Position
+
+Robert A. Kotick
+
+58
+
+Chief Executive Officer of Activision Blizzard
+
+Daniel Alegre
+
+53
+
+President and Chief Operating Officer of Activision Blizzard
+
+Armin Zerza
+
+52
+
+Chief Financial Officer of Activision Blizzard 
+
+Grant Dixton
+
+48
+
+Chief Legal Officer of Activision Blizzard
+
+Brian Bulatao
+
+57
+
+Chief Administrative Officer of Activision Blizzard
+
+Robert A. Kotick, Chief Executive Officer of Activision Blizzard
+
+Robert A. Kotick, who serves as our Chief Executive Officer, has been a director of Activision Blizzard since February 1991, following his purchase of a significant interest in the Company, which was then on the verge of insolvency. Mr. Kotick was our Chairman and Chief Executive Officer from February 1991 until July 2008, when he became our President and Chief Executive Officer. He served as our President from July 2008 until June 2017. Mr. Kotick is also a member of the board of directors of The Coca-Cola Company, a multinational beverage corporation, and the boards of trustees for the Harvard-Westlake School. He is also the Vice Chairman of the Board and Chairman of the Committee of trustees of the Los Angeles County Museum of Art. In addition, Mr. Kotick is the co-founder and co-Chairman of the Call of Duty Endowment, a nonprofit, public benefit corporation that seeks to help organizations that provide job placement and training services for veterans.
+
+12
+
+Table of Contents
+
+Daniel Alegre, President and Chief Operating Officer of Activision Blizzard
+
+Daniel Alegre has served as our Chief Operating Officer since April 2020. Prior to joining the Company, Mr. Alegre held a number of leadership positions at Google, a technology company specializing in internet-related services and products, from 2004 to 2020, including serving as President of Global Retail and Shopping, where he led the initiatives to embed e-commerce across all Google product areas and to help diversify beyond advertising into the retail transactions business. Prior to that, Mr. Alegre was President of the Google’s Global and Strategic Partnerships organization, working across all of Google’s core business lines to create and foster key strategic relationships with some of the world’s largest partners. Mr. Alegre was also instrumental in Google’s international expansion, serving as President of Google’s Asia-Pacific and Japan businesses living in China, Singapore, and Tokyo and as Vice President of the Latin America business, overseeing a massive expansion in both regions. Prior to joining Google, Mr. Alegre was Vice President at Bertelsmann Media, running a division of BMG Music in Latin America as well as Partnerships of the Bertelsmann eCommerce Group in New York City. Mr. Alegre holds a B.A. degree from the Woodrow Wilson School of Public and International Affairs at Princeton University, as well as dual M.B.A. and J.D. degrees from Harvard Business School and Harvard Law School.
+
+Armin Zerza, Chief Financial Officer of Activision Blizzard 
+
+Armin Zerza has served as our Chief Financial Officer since April 2021. Prior to that, he served as the Company’s Chief Commercial Officer from 2019 to 2021, as the Chief Operating Officer of Blizzard from 2017 to 2019, and as Chief Financial Officer of Blizzard from 2015 to 2017. Mr. Zerza joined Activision Blizzard in August 2015 with more than 20 years of senior leadership experience at Procter & Gamble, serving in North America, Europe, Asia, and Latin America. Mr. Zerza has held a number of senior roles across multi-billion dollar businesses at Procter & Gamble, including as Director of Procter & Gamble’s global M&A team and CFO of the European Baby Care and Latin America divisions. Mr. Zerza also served as a board member of the Italy Procter & Gamble-Fater and Spain Procter & Gamble-Arbora & Ausonia joint ventures. Mr. Zerza holds a degree from Vienna University.
+
+Grant Dixton, Chief Legal Officer of Activision Blizzard
+
+Grant Dixton 
+has served as our Chief Legal Officer since June 2021. From 2006 to 2021, Mr. Dixton held a number of positions of increasing responsibility within the legal department of The Boeing Company, an aerospace company and leading manufacturer in space and security systems, most recently as Senior Vice President, General Counsel, and Corporate Secretary, in addition to serving as a member of the company’s Executive Council. Prior to joining The Boeing Company, Mr. Dixton served in the White House as Associate Counsel to the President. Earlier in his career, Mr. Dixton practiced law at Kirkland & Ellis in Washington, D.C. He served as a law clerk for the Honorable Anthony M. Kennedy at the Supreme Court of the United States and for the Honorable J. Michael Luttig at the United States Court of Appeals for the Fourth Circuit. Mr. Dixton holds an A.B. degree in history from Harvard University and a J.D. from Harvard Law School.
+
+Brian Bulatao, Chief Administrative Officer of Activision Blizzard
+
+Brian Bulatao 
+has served as Chief Administrative Officer of Activision Blizzard since March 2021. Prior to joining the Company, Mr. Bulatao served as the Under Secretary of State for Management from 2018
+
+to 2021, directly responsible for the budget, security, IT infrastructure, consular affairs and global talent management of the U.S. State Department’s 70,000 plus workforce based in 190 countries around the world. Prior to that, Mr. Bulatao served as Chief Operating Officer at the Central Intelligence Agency from 2017 to 2018, where he also led diversity and inclusion initiatives. Before joining the CIA, Mr. Bulatao held a number of leadership positions in private equity and investment companies, having served as Senior Advisor at Highlander Partners from 2016 to 2017 and Managing Director at Pallas Capital Partners from 2015 to 2017, helping companies grow organically and through acquisitions and creating transformational value through strategic positioning. Prior to that, Mr. Bulatao held executive and CEO roles at The Nefab Group, co-founded Thayer Aerospace with fellow West Point graduates, and served as a consultant with McKinsey & Company. Mr. Bulatao is a retired Infantry Captain and a distinguished graduate of the US Army Ranger School. Mr. Bulatao holds a BS degree in Engineering Management from the United States Military Academy at West Point and an MBA degree from Harvard Business School.
+
+Additional Financial Information
+
+See the 
+“Critical Accounting Policies and Estimates”
+
+ section under Item 7 “Management’s Discussion and Analysis of Financial Condition and Results of Operations” for a discussion of our practices with regard to several working capital items. See the 
+“Management’s Overview of Business Trends”
+
+ under Item 7 “Management’s Discussion and Analysis of Financial Condition and Results of Operations” for a discussion of the impact of seasonality on our business. 
+
+13
+
+Table of Contents
+
+Available Information
+
+Our website, located at https://www.activisionblizzard.com, allows free-of-charge access to our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, proxy statements and amendments to those documents filed with or furnished to the SEC pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended (the “Exchange Act”). The information found on our website is not a part of, and is not incorporated by reference into, this or any other report that we file with or furnish to the Securities and Exchange Commission (“SEC”).
+
+The SEC maintains a website at www.sec.gov that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC.
+
+
+
+Risk Factors Summary
+
+Below is a summary of the principal risks associated with an investment in the Company. This summary should not be relied upon as an exhaustive list of the material risks facing our business.
+
+•
+the Merger, the pendency of the Merger Agreement, or our failure to complete the Merger;
+
+•
+the impact of the global COVID-19 pandemic;
+
+•
+our ability to deliver popular, high-quality content in a timely manner;
+
+•
+the level of demand for our games and products;
+
+•
+our ability to meet customer expectations with respect to our brands, games, services, and/or business practices; 
+
+•
+negative impacts on our business resulting from concerns regarding our workplace, including associated legal proceedings;
+
+•
+our ability to attract, retain, and motivate skilled personnel; 
+
+•
+competition;
+
+•
+our reliance on a relatively small number of franchises for a significant portion of our revenues and profits; 
+
+•
+negative impacts from unionization or attempts to unionize by our workforce;
+
+•
+our ability to adapt to rapid technological change and allocate our resources accordingly;
+
+•
+the increasing importance of digital sales and the risks of that business model;
+
+•
+our ability to effectively manage the scope and complexity of our business;
+
+•
+our reliance on third-party platforms, which are also our competitors, for the distribution of products;
+
+•
+our dependence on the success and availability of video game consoles manufactured by third parties and our ability to develop commercially successful products for these consoles;
+
+•
+the increasing importance of free‑to‑play games and the risks of that business model;
+
+•
+the risks and uncertainties of conducting business outside the U.S., including the need for regulatory approval to operate, the relatively weaker protection for our intellectual property rights, and the impact of cultural differences on consumer preferences;
+
+•
+the importance of retail sales to our business and the risks of that business model;
+
+•
+our ability to realize the expected benefits of our recent restructuring actions;
+
+•
+any difficulties in integrating acquired businesses or realizing the anticipated benefits of strategic transactions;
+
+•
+seasonality in the sale of our products;
+
+•
+fluctuation in our recurring business;
+
+•
+the risk of distributors, retailers, development, and licensing partners or other third parties being unable to honor their commitments or otherwise putting our brand at risk;
+
+•
+our reliance on tools and technologies owned by third parties;
+
+•
+our use of open source software;
+
+•
+risks associated with undisclosed content or features in our games;
+
+•
+impact of objectionable consumer- or other third-party‑created content on our operating results or reputation;
+
+•
+outages, disruptions, or degradations in our services, products, and/or technological infrastructure;
+
+•
+any cybersecurity‑related attack, significant data breach, fraudulent activity, or disruption of our information technology systems or networks;
+
+•
+significant disruption during our live events;
+
+•
+catastrophic events; 
+
+•
+climate change;
+
+•
+provisions in our corporate documents and Delaware state law that could delay or prevent a change of control;
+
+•
+ongoing legal proceedings, related to workplace concerns and otherwise;
+
+•
+increasing regulation in key territories over our business, products, and distribution;
+
+•
+changes in government regulation relating to the Internet;
+
+14
+
+Table of Contents
+
+•
+our compliance with evolving data privacy laws and regulations;
+
+•
+scrutiny regarding the appropriateness of the content in our games and our ability to receive target ratings for certain titles;
+
+•
+changes in tax rates and/or tax laws and exposure to additional tax liabilities;
+
+•
+fluctuations in currency exchange rates;
+
+•
+changes in financial accounting standards or the application of existing or future standards as our business evolves;
+
+•
+insolvency or business failure of any of our business partners; and
+
+•
+declines in general economic conditions and related discretionary spending on our products and services.
+
+The following are detailed descriptions of our Risk Factors summarized above.
+
+We wish to caution the reader that the following important risk factors, and those risk factors described elsewhere in this report or in our other filings with the SEC, could cause our actual results to differ materially from those stated in forward‑looking statements contained in this document and elsewhere. These risks are not presented in order of importance or probability of occurrence. Further, the risks described below are not the only risks that we face. Additional risks and uncertainties not currently known to us or that we currently deem immaterial may also impair our business operations. Any of these risks may have a material adverse effect on our business, reputation, financial condition, results of operations, income, revenue, profitability, cash flows, liquidity, or stock price.
+
+Risks Related to the Merger
+
+While the Merger Agreement is in effect, we are subject to certain interim covenants.
+
+On January 18, 2022, we entered into the Merger Agreement with Microsoft and Merger Sub, a wholly owned subsidiary of Microsoft, pursuant to which Microsoft agreed to acquire the Company in an all-cash transaction for $95.00 per share of our issued and outstanding common stock. 
+
+The Merger Agreement generally requires us to operate our business in the ordinary course, subject to certain exceptions, including as required by applicable law, pending consummation of the Merger, and subjects us to customary interim operating covenants that restrict us, without Microsoft’s approval (such approval not to be unreasonably conditioned, withheld or delayed), from taking certain specified actions until the Merger is completed or the Merger Agreement is terminated in accordance with its terms. These restrictions could prevent us from pursuing certain business opportunities that may arise prior to the consummation of the Merger and may affect our ability to execute our business strategies and attain financial and other goals and may impact our financial condition, results of operations and cash flows.
+
+The announcement and pendency of the Merger may result in disruptions to our business, and the Merger could divert management's attention, disrupt our relationships with third parties and employees, and result in negative publicity or legal proceedings, any of which could negatively impact our operating results and ongoing business.
+
+In connection with the pending Merger, our current and prospective employees may experience uncertainty about their future roles with us following the Merger, which may materially adversely affect our ability to attract and retain key personnel and other employees while the Merger is pending. Key employees may depart because of issues relating to the uncertainty and difficulty of integration or a desire not to remain with us following the Merger, and may depart prior to the consummation of the Merger. Accordingly, no assurance can be given that we will be able to attract and retain key employees to the same extent that we have been able to in the past.
+
+The proposed Merger could cause disruptions to our business or business relationships with our existing and potential customers, suppliers, vendors, landlords, and other business partners, and this could have an adverse impact on our results of operations. Parties with which we have business relationships may experience uncertainty as to the future of such relationships and may delay or defer certain business decisions, seek alternative relationships with third parties, or seek to negotiate changes or alter their present business relationships with us. Parties with whom we otherwise may have sought to establish business relationships may seek alternative relationships with third parties.
+
+15
+
+Table of Contents
+
+The pursuit of the Merger may place a significant burden on management and internal resources, which may have a negative impact on our ongoing business. It may also divert management’s time and attention from the day-to-day operation of our remaining businesses and the execution of our other strategic initiatives. This could adversely affect our financial results. In addition, we have incurred and will continue to incur other significant costs, expenses, and fees for professional services and other transaction costs in connection with the proposed Merger, and many of these fees and costs are payable regardless of whether or not the pending Merger is consummated.
+
+Any of the foregoing, individually or in combination, could materially and adversely affect our business, our financial condition and our results of operations and prospects.
+
+The Merger may not be completed within the expected timeframe, or at all, for a variety of reasons, including the possibility that the Merger Agreement is terminated prior to the consummation of the Merger, and the failure to complete the Merger could adversely affect our business, results of operations, financial condition, and the market price of our common stock.
+
+There can be no assurance that the Merger will be completed in the expected timeframe, or at all. The Merger Agreement contains a number of customary closing conditions that must be satisfied or waived prior to the completion of the Merger, including, among others, (1) the approval and adoption of the Merger Agreement by our stockholders, (2) the absence of any court order or law prohibiting (or seeking to prohibit) the consummation of the Merger, (3) the termination or expiration of any applicable waiting period or periods under the Hart-Scott-Rodino Antitrust Improvements Act of 1976 (as amended) and specified approvals under certain other antitrust and foreign investment laws, subject to certain limitations, (4) compliance by us and Microsoft in all material respects with our respective obligations under the Merger Agreement, and (5) subject to specified exceptions and qualifications for materiality, the accuracy of representations and warranties made by us and Microsoft, respectively, as of the signing date and the closing date.
+
+There can be no assurance that all required approvals will be obtained or that all closing conditions will otherwise be satisfied (or waived, if applicable), and, if all required approvals are obtained and all closing conditions are satisfied (or waived, if applicable), we can provide no assurance as to the terms, conditions and timing of such approvals or that the Merger will be completed in a timely manner or at all. Many of the conditions to completion of the Merger are not within our or Microsoft’s control, and we cannot predict when or if these conditions will be satisfied (or waived, as applicable). Even if regulatory approval is obtained, it is possible conditions will be imposed that could result in a material delay in, or the abandonment of, the Merger or otherwise have an adverse effect on us. 
+
+The Merger Agreement contains customary mutual termination rights for us and Microsoft, which could prevent the consummation of the Merger, including if the Merger is not completed by January 18, 2023 (subject to automatic extension first to April 18, 2023, then to July 18, 2023, in each case, to the extent the regulatory closing conditions are the only conditions that remain outstanding).
+
+The Merger Agreement also contains customary termination rights for the benefit of each party, including if the other party breaches its representations, warranties, or covenants under the Merger Agreement in a way that would result in a failure of the other party’s condition to closing being satisfied (subject to certain procedures and cure periods). Additionally, the Merger Agreement provides termination rights, if certain conditions are met, including (1) for Microsoft, if our Board of Directors changes its recommendation in favor of the Merger, and (2) for us, if our Board of Directors authorizes entry into a definitive agreement with respect to a Superior Proposal (as defined in the Merger Agreement) prior to us receiving stockholder approval of the Merger.
+
+If the Merger is not completed within the expected timeframe or at all, we may be subject to a number of material risks, including: 
+
+•
+the market price of our common stock may decline to the extent that current market prices reflect a market assumption that the Merger will be completed; 
+
+•
+if the Merger Agreement is terminated under certain specified circumstances, we or Microsoft will be required to pay a termination fee, including that we will be required to pay Microsoft a termination fee of approximately $2.27 billion under specified circumstances, and Microsoft will be required to pay us a reverse termination fee ranging from $2.0 billion to $3.0 billion under specified circumstances;
+
+16
+
+Table of Contents
+
+•
+some costs related to the Merger must be paid whether or not the Merger is completed, and we have incurred, and will continue to incur, significant costs, expenses and fees for professional services and other transaction costs in connection with the proposed transaction, as well as the diversion of management and resources towards the Merger, for which we will have received little or no benefit if completion of the Merger does not occur; and 
+
+•
+we may experience negative publicity and/or reactions from our investors, customers, partners, suppliers, vendors, landlords, other business partners and employees
+
+Stockholder litigation could prevent or delay the closing of the pending Merger or otherwise negatively impact our business, operating results and financial condition.
+
+We may incur additional costs in connection with the defense or settlement of stockholder litigation in connection with the pending Merger. Such litigation may adversely affect our ability to complete the pending Merger. We could incur significant costs in connection with such litigation, including costs associated with the indemnification obligations to our directors and officers. Such litigation may be distracting to management and may require us to incur additional, significant costs. Such litigation could result in the Merger being delayed and/or enjoined by a court of competent jurisdiction, which could prevent the Merger from becoming effective. See 
+Note 22
+
+ to the notes to the consolidated financial statements included in Part II, Item 8 of this Annual Report on Form 10-K for a description of complaints filed on February 24, 2022 with respect to the pending Merger.
+
+Business and Industry Risks
+
+We are unable to predict the full impact of the global COVID-19 pandemic.
+
+Since COVID-19 emerged in December 2019 and was declared a pandemic in March 2020, it has extensively impacted global health and the economic environment. The full extent to which the global COVID-19 pandemic and its aftermath impacts our business, reputation, financial condition, results of operations, income, revenue, profitability, cash flows, liquidity, or stock price continues to depend on numerous evolving factors that we are not able to fully predict, including: the duration and severity of the pandemic and the prevalence and severity of new COVID variants; the impact of the pandemic on the global economy and consumer habits; the impact of governmental, business, and individual actions that have been and will continue to be taken in response to the pandemic; unintended consequences of actions we take, or have taken, in response to the pandemic; the impact of the pandemic on the health or productivity of our employees and external developers, including the ability to develop high-quality and well-received interactive software products and entertainment content and/or to release our products and content in a timely manner with effective quality control; the longer-term impact of substantially-increased remote access to our networks and systems on our ability to prevent, detect, and remedy cyber-attacks or information security incidents while our workforce remains dispersed; the effects on the health, finances and discretionary spending patterns of our consumers, including the ability of our consumers to pay for our products and content; our ability to sell products at assumed prices; the financial impact, supply chain constraints and other strains on the retail customers and distributors on whom we rely to sell our physical products to consumers; the financial impact and strain on platform providers for whose video game consoles and/or on whose networks certain of our products are exclusively available; the financial impact and strain on third-party mobile and web platforms that provide significant online distribution for, and/or provide other services critical for the operation of, a number of our games; the effects on our suppliers who manufacture our physical products and on other third parties with which we partner (e.g., to market or ship our products), including from supply chain disruptions; the effects on our lenders and financial counterparties; the effects on regulatory agencies around the world on which we rely; our ability to continue to develop our emerging businesses, such as advertising; increased volatility in foreign currency exchange rates; the impact of recent and potential upcoming or ongoing large-scale actions by local and federal governments and agencies or similar governing bodies in the U.S. and around the world, the U.S. Federal Reserve, and other central banks around the world, including the impact of any of these actions on the U.S. or world economy or global financial markets; and any other factor which results in disruptions or increased costs associated with the development, production, post-production, marketing and distribution of our products, and/or the digital advertising offered within our content. If adverse effects in these areas from the ongoing global COVID-19 pandemic continue or worsen, our business may be negatively impacted. Further, we cannot predict the emergence of new variants, the rise and fall of case rates, or the associated reducing, lifting, and reenacting of stay-at-home orders and other, similar measures to mitigate the spread of COVID-19. As in the case of COVID-19, the occurrence of other epidemics, medical emergencies, and other public health crises outside of our control could have a negative impact on our business. Additionally, stay-at-home orders, the curtailment of certain other forms of entertainment, and other pandemic-related factors that make consumers more inclined to spend time at home may increase demand for our products, and such increase may not be sustained if pandemic-related restrictions and behaviors change. These trends may continue to evolve, and prior trends for revenues, net income, and other financial results and operating metrics, may not be indicative of results for future periods, particularly as pandemic-related factors become less significant.
+
+17
+
+Table of Contents
+
+Our professional esports leagues (i.e., the Overwatch League and the Call of Duty League) and the franchise teams that make up the leagues generate revenues from live in-person events. The COVID-19 pandemic has resulted in the cancellation of live in-person events and any continued health and safety concerns with large public gatherings may impact the ability of the teams in our leagues to hold future live in-person events. Prolonged COVID-19 risks could result in teams being unable or unwilling to make continued investments or otherwise participate in our leagues going forward. This, in turn, could result in the loss of future entry fee payments, revenue from advertising, and other future potential league revenues or income, other benefits associated with our esports business, and/or the termination of our leagues. Also, we have provided, and may continue to provide, financial support to the owners of the teams as a result of the COVID-19 pandemic. Any one of these things could harm our business. Additionally, a prolonged impact of COVID-19 could heighten many of the risk factors included in this Annual Report filed on Form 10-K.
+
+If we do not consistently deliver popular, high‑quality content in a timely manner, our business may be negatively impacted.
+
+Consumer preferences for games are usually cyclical and difficult to predict. Even the most successful games can lose consumer audiences over time, and remaining popular is increasingly dependent on the games being refreshed with new content or other enhancements. In order to remain competitive and maximize the chances that consumers select our products as opposed to the various entertainment options available to them and with which we compete, we must continuously develop new products or new content for, or other enhancements to, our existing products. These products or enhancements may not be well‑received by consumers, even if well‑reviewed and of high quality. 
+
+Additionally, consumer expectations regarding the quality, performance, and integrity of our products and services are high. Consumers may be critical of our brands, games, services, and/or business practices for a wide variety of reasons, and such negative reactions may not be foreseeable or within our control to manage effectively. For example, we are subject to legal proceedings regarding workplace concerns, as described in 
+Note 
+22
+
+ of the notes to the consolidated financial statements included in Part II, Item 8 of this Annual Report on Form 10-K, and could become subject to additional, similar legal proceedings in the future. These legal proceedings have negatively impacted our public reputation and, as a result, some consumers have elected not to continue subscribing to one of our games, and existing and potential players may decide not to play our games in the future. Some existing sponsors, partners, and advertisers have also elected not to be associated with our brand due to this impact on our reputation, and others may so elect in the future. As another example, if we fail to create fun, fair, and safe playing environments, consumers may engage less with our games. All of this may negatively impact, and in the case of those legal proceedings is negatively impacting, our business.
+
+Our products and services are complex software programs. We have quality controls in place to detect defects, “bugs,” or other errors in our products and services before they are released. Nonetheless, these quality controls are subject to human error, overriding, and resource or technical constraints. As such, these quality controls and preventative measures may not be effective, and at times have not been successful, in detecting all defects, bugs, or errors in our products and services before they have been released into the marketplace. Our games with online features are frequently updated, increasing the risk that a game may contain errors. If any of these issues occur, consumers may stop playing the game and may be less likely to return to the game as often in the future, which may negatively impact our business. If our games or services, such as our proprietary online gaming platform, do not function as consumers expect, whether because they fail to function as advertised or otherwise, our sales may suffer. The risk that this may occur is particularly pronounced with respect to our games with online features because they involve ongoing consumer expectations, which we may not be able to consistently satisfy.
+
+Negative reactions to our products and services may not be foreseeable. We also may not effectively manage or respond to these negative perceptions for reasons within or outside of our control. We expect to continue to expend resources to address concerns with our products and services. Negative perceptions could arise despite our efforts, though, and may result in loss of engagement with our products and services, increased scrutiny from government bodies and consumer groups, and/or litigation, any of which could negatively impact our business.
+
+18
+
+Table of Contents
+
+Further, delays in product releases or disruptions following the commercial release of one or more new products have negatively impacted, and could in the future negatively impact, our business and reputation and could cause our results of operations to be materially different from expectations. Our ability to meet development schedules depends on numerous factors, some of which are outside of our control, including our ability to attract and retain qualified personnel, the time-intensive nature of creative processes, the coordination of large and often dispersed development teams, the complexity of our products and the platforms for which they are developed, and third-party approvals. If we fail to release our products in a timely manner, or if we are unable to continue to extend the life of existing games by adding features and functionality that will encourage continued engagement with the game, our business may be negatively impacted. For example, we are now planning for a later launch for our Overwatch 2 and Diablo IV titles than originally expected, which will delay the uplift to our results that we usually experience following the release of new titles. Any negative impact which occurs during key selling periods, particularly in the fourth quarter of the year, could be especially pronounced.
+
+Additionally, the amount of lead time and cost involved in the development of high‑quality products is increasing, and the longer the lead time involved in developing a product and the greater the allocation of financial resources to such product, the more critical it is that we accurately predict consumer demand for such product. If our future products do not achieve expected consumer acceptance or generate sufficient revenues upon introduction, we may not be able to recover the substantial up‑front development and marketing costs associated with those products.
+
+We are experiencing adverse effects related to concerns raised about our workplace.
+
+As described below under “We are subject to legal proceedings regarding workplace concerns that have negatively affected our reputation” and in 
+Note 22
+
+ to the notes to the consolidated financial statements included in Part II, Item 8 of this Annual Report on Form 10-K, we are subject to legal proceedings regarding workplace concerns. The outcome of these matters remains uncertain, though such matters could be decided unfavorably to the Company and could have a material adverse effect on our business, reputation, financial condition, results of operations, income, revenue, profitability, cash flows, liquidity, or stock price. 
+
+We are taking actions to address the concerns of employees and other key stakeholders and the adverse consequences to our business. We are experiencing, and are likely to continue to experience, adverse publicity regarding our Company and executives related to these matters. These matters are having a negative effect on the Company’s business and reputation. If we experience significantly reduced productivity, significant worker protests or strikes in regards to these matters, significant continued loss of sponsors, advertisers or players, or other negative consequences relating to these matters, our business could be materially adversely impacted. We cannot predict the duration and severity of these impacts, and we are continuing to carefully monitor all aspects of our business for such impacts and to take actions to address such concerns.
+
+If we do not attract, retain, and motivate skilled personnel, we will be unable to effectively conduct our business.
+
+Our success depends significantly on our ability to identify, attract, hire, retain, motivate, and utilize the abilities of qualified personnel which includes both our direct employees and talent from other employers such as consultants, agencies, and external developers. This particularly pertains to personnel with the specialized skills needed to create and deliver high‑quality, well‑received content upon which our business is substantially dependent, as well as to ensure business continuity in areas such as risk management, information security, human resources, and compliance. Our industry is generally characterized by a high level of employee mobility, competitive compensation programs, and aggressive recruiting among competitors for employees with technical, marketing, sales, engineering, product development, creative, and/or management skills, all of which is magnified for us because of our leading position within the industry. We have observed labor shortages, increasing competition for talent, and increasing attrition. We are experiencing increased difficulty in attracting and retaining skilled personnel. For example, we observed a significantly higher turnover rate of our human resources function in 2021. Additionally, recent litigation involving the Company relating to workplace and employee concerns, as further discussed in this Part I, Item 1A “Risk Factors” and 
+Note 22
+
+ of the notes to the consolidated financial statements included in Part II, Item 8 of this Annual Report on Form 10-K, and related media attention can be expected to have an adverse effect on our ability to attract and retain employees and has resulted in work stoppages. If we are unable to attract additional qualified personnel or retain and utilize the services of key personnel, we can expect this would adversely affect our business.
+
+19
+
+Table of Contents
+
+If consumers prefer products from our competitors, our business may be negatively impacted.
+
+Our competitors include very large corporations with significantly greater financial, marketing, and product development resources than we have—increasingly including technology companies entering, or expanding their investment in, interactive entertainment. Our larger competitors may be able to leverage their greater financial, technical, personnel, and other resources to provide larger budgets for development and marketing and make higher offers to licensors and developers for commercially desirable properties, as well as adopt more aggressive pricing policies to develop more commercially successful video game products than we do. The proliferation of companies developing for mobile platforms creates similar risks.
+
+Competitors may develop content that imitates or competes with our best‑selling games, potentially reducing our sales or our ability to charge the same prices we have historically charged for our products. These competing products may take a larger share of consumer spending than anticipated, which could cause product sales to fall below expectations. If we do not continue to develop consistently high‑quality and well‑received games or new content for or enhancements to those games, if our marketing fails to resonate with our consumers, or if consumers lose interest in a genre of games we produce, our revenues and profit margins could decline. In addition, our own best‑selling products could compete with our other games, reducing sales for those other games. Further, a failure by us to develop a high‑quality product, or our development of a product that is otherwise not well‑received, could potentially result in additional expenditures to respond to consumer demands, harm our reputation, and increase the likelihood that our future products will not be well‑received. The increased importance of add-on content to our business amplifies these risks, as add-on content for poorly‑received games typically generates lower‑than‑expected sales. The increased demand for consistent new content releases for, and enhancements to, our products also requires a greater allocation of financial resources to those products.
+
+We depend on a relatively small number of franchises for a significant portion of our revenues and profits.
+
+We follow a franchise model, and a significant portion of our revenues has historically been derived from products based on a relatively small number of popular franchises. These products are also responsible for a disproportionately high percentage of our profits. For example, in 2021, revenues associated with the Call of Duty, Candy Crush, and Warcraft franchises, collectively, accounted for approximately 82% of our net revenues—and a significantly higher percentage of our operating income. We expect that a relatively limited number of popular franchises will continue to produce a disproportionately high percentage of our revenues and profits. Due to this dependence on a limited number of franchises, the failure to achieve anticipated results by one or more products based on these franchises could negatively impact our business. Additionally, if the popularity of a franchise declines, as has happened in the past with other popular franchises, we may have to write off the unrecovered portion of the underlying intellectual property assets, which could negatively impact our business.
+
+We may be impacted by unionization or attempts to unionize by our workforce.
+
+Our personnel may attempt, successfully or unsuccessfully, to form one or more unions. For example, at Raven Software, one of our studios, the Communications Workers of America has filed a petition to represent a unit of employees, and the National Labor Relations Board will oversee the election process, including a determination of the appropriate set of employees who would be included in any bargaining unit (and thus participate in the election on potential unionization). Work stoppages or strikes could occur within a unionized workforce. While none of our employees are currently unionized, several of our employees have engaged in a strike for one or more days, leading to a business impact. Further disruptions to our workforce could negatively impact our business and lead to delayed product and content releases as well as a potential impact on product quality.
+
+20
+
+Table of Contents
+
+Our industry is subject to rapid technological change, and if we do not adapt to, and appropriately allocate our resources among, emerging technologies and business models, our business may be negatively impacted.
+
+Technology changes rapidly in the interactive entertainment industry. We must continually anticipate and adapt to emerging technologies, such as cloud-based game streaming, and business models, such as free-to-play and subscription-based access to a portfolio of interactive content, to stay competitive. Forecasting the financial impact of these changing technologies and business models is inherently uncertain and volatile. Supporting a new technology or business model may require partnering with a new platform, business, or technology partner, which may be on terms that are less favorable to us than those for traditional technologies or business models. If we invest in the development of interactive entertainment products for distribution channels that incorporate a new technology or business model that does not achieve significant commercial success, whether because of competition or otherwise, we may not recover the often substantial up-front costs of developing and marketing those products, or recover the opportunity cost of diverting management and financial resources away from other products or opportunities. Further, our competitors may adapt to an emerging technology or business model more quickly or effectively than we do, creating products that are technologically superior to ours, more appealing to consumers, or both.
+
+If, on the other hand, we elect not to pursue the development of products incorporating a new technology, or otherwise elect not to pursue new business models that achieve significant commercial success, it may have adverse consequences. It may take significant time and expenditures to shift product development resources to that technology or business model, and it may be more difficult to compete against existing products incorporating that technology or using that business model. 
+
+The increasing importance of digital sales to our business exposes us to the risks of that business model, including greater competition.
+
+The proportion of our revenues derived from digital distribution channels, as compared to traditional retail sales, continues to increase. The increased importance of digital online channels in our industry increases our potential competition, as the minimum capital needed to produce and publish a digitally delivered game, particularly a game for a mobile platform, may be significantly less than that needed to produce and publish one that is purchased through retail distribution and is played on a game console or PC. Further, some of the providers of the platforms through which we digitally distribute content are also publishers of their own content distributed on those platforms, and, therefore, a platform provider may give priority to its own products or those of our competitors.
+
+We may be unable to effectively manage the scope and complexity of our business, including our expansion into new business models that are untested and into adjacent business opportunities with large, established competitors.
+
+We have experienced significant growth in the scope and complexity of our business, including through acquisitions and the development of our esports, advertising, and consumer products businesses. Our future success depends, in part, on our ability to manage this expanded business and our aspirations for continued expansion and growth. We have dedicated resources both to new business models that are largely untested, as is the case with esports, and to adjacent business opportunities in which very large competitors have an established presence, as is the case with our advertising and consumer products businesses. We do not know to what extent our future expansions will be successful. Further, even if successful, our aspirations for growth in our core businesses and these adjacent businesses could create significant challenges for our management, operational, and financial resources. If not managed effectively, this growth could result in the over‑extension of our operating infrastructure, and our management systems, information technology systems, and internal controls and procedures may not be adequate to support this growth. Failure by these new businesses or failure to adequately manage our growth in any of these ways may cause damage to our brand or otherwise negatively impact our core business. Further, the success of these new businesses is largely contingent on the success of our underlying franchises, and as such, delays in product releases or a decline in the popularity of a franchise may impact the success of the new businesses adjacent to that franchise. 
+
+21
+
+Table of Contents
+
+Due to our reliance on third‑party platforms, platform providers are frequently able to influence our products and costs.
+
+Generally, when we develop interactive entertainment software products for hardware platforms offered by companies such as Sony and Microsoft, the physical products are replicated exclusively by that hardware manufacturer or their approved replicator. The agreements with these manufacturers include certain provisions, such as approval rights over all software products and related promotional materials and the ability to change the fee they charge for the manufacturing of products, which allow the hardware manufacturers substantial influence over the cost and the release schedule of such interactive entertainment software products. During a console transition, like the one that occurred in 2020, as described below, these manufacturers may seek to change the terms governing our relationships with them. In addition, because each of the manufacturers is also a publisher of games for its own hardware platforms and may manufacture products for other licensees, a manufacturer may give priority to its own products or those of our competitors. Accordingly, console manufacturers could cause unanticipated delays in the release of our products, as well as increases to projected development, manufacturing, marketing, or distribution costs, any of which could negatively impact our business.
+
+Sony and Microsoft are also platform providers which control the networks over which consumers purchase digital products and services for their platforms and through which we provide online game capabilities for our products. The control that these platform providers have over consumer access to our games, the fee structures and/or retail pricing for products and services for their platforms and online networks and the terms and conditions under which we do business with them could impact the availability of our products or the volume of purchases of our products made over their networks and our profitability. The networks provided by these platform providers are the exclusive means of selling and distributing our content on these platforms. Further, increased competition for limited premium “digital shelf space” has placed the platform providers in an increasingly better position to negotiate favorable terms of sale. If the platform provider establishes terms that restrict our offerings on its platform, significantly alters the financial terms on which these products or services are offered, or does not approve the inclusion of content on its platform, our business could be negatively impacted. We also derive significant revenues from distribution on third‑party mobile and web platforms, such as the Apple App Store, the Google Play Store, and Facebook, which are also our direct competitors, and in some cases the exclusive means through which our content reaches gamers on those platforms, and most of the virtual currency we sell is purchased using these platform providers’ payment processing systems. These platforms also serve as significant online distribution platforms for, and/or provide other services critical for the operation of, a number of our games. If these platforms deny access to our games, modify their current discovery mechanisms, communication channels available to developers, operating systems, terms of service, or other policies (including fees), our business could be negatively impacted. Additionally, if these platform providers change how they label a game’s business model, such as free‑to‑play, change how they apply content ratings to a game, or change how the personal information of consumers is made available to developers, our business could be negatively impacted. These platform providers or their services may be unavailable or may not function as intended or may experience issues with their in‑app purchasing functionality. As has sometimes happened in the past, if any of these events occurs on a prolonged, or even short‑term, basis or other similar issues arise that impact players’ ability to access our games, access social features, or make purchases, it may result in lost revenues and otherwise negatively impact our business.
+
+Our business is highly dependent on the success and availability of video game consoles manufactured by third parties, as well as our ability to develop commercially successful products for these consoles.
+
+We derive a substantial portion of our revenues from the sale of products for play on video game consoles manufactured by third parties, such as Sony’s PS4 and PS5, Microsoft’s Xbox One and Series X, and Nintendo’s Switch. Sales of products for consoles accounted for 30% of our consolidated net revenues in 2021. The success of our console business is driven in large part by our ability to accurately predict which consoles will be successful in the marketplace and our ability to develop commercially successful products for these consoles. We also rely on the availability of an adequate supply of these video game consoles (which has been negatively impacted by supply chain issues) and the continued support for these consoles by their manufacturers, including our ability to reach consumers via the online networks operated by these console manufacturers. If increased costs are not offset by higher revenues and other cost efficiencies, our business could be negatively impacted. If the consoles for which we develop new software products or modify existing products do not attain significant consumer acceptance, we may not be able to recover our development costs, which could be significant.
+
+22
+
+Table of Contents
+
+Sony and Microsoft each launched next‑generation consoles in 2020. We have released titles that operate on these consoles, and we may continue to develop games for these new console systems. When next-generation consoles are announced or introduced into the market, consumers have typically reduced their purchases of game console entertainment software products for prior-generation consoles in anticipation of purchasing a next-generation console and products for that console. During these periods, sales of the game console entertainment software products we publish may decline until new platforms achieve wide consumer adoption. Console transitions may have a comparable impact on sales of add-on content, amplifying the impact on our revenues. This decline may not be offset by increased sales of products for the next-generation consoles. In addition, as console hardware moves through its life cycle, hardware manufacturers typically enact price reductions, and decreasing prices may put downward pressure on software prices. During console transitions, we may simultaneously incur costs both in continuing to develop, market, and operate titles for prior‑generation video game platforms, while also developing and supporting next‑generation platforms. As a result, our business and operating results may be more volatile and difficult to predict during console transitions than during other times.
+
+The increasing importance of free‑to‑play games to our business exposes us to the risks of that business model, including the dependence on a relatively small number of consumers for a significant portion of revenues and profits from any given game.
+
+We are increasingly dependent on our ability to develop, enhance, and monetize free‑to‑play games, such as the games in our Candy Crush franchise, 
+Hearthstone, Call of Duty: Warzone
+™,
+
+and 
+Call of Duty: Mobile
+. As such, we are increasingly exposed to the risks of the free‑to‑play business model. For example, we may invest in the development of new free‑to‑play interactive entertainment products that are not successful in building and maintaining a significant player base, in which case our revenues from those products likely will be lower than anticipated and we may not recover our development costs. Further, our business may be negatively impacted if: (1) we are unable to encourage new and existing consumers to purchase our virtual items; (2) we fail to offer monetization features that appeal to these consumers; (3) our platform providers make it more difficult or expensive for players to purchase our virtual items; and/or (4) our free-to-play releases reduce sales of our other games. 
+
+We are a global company and are subject to the risks and uncertainties of conducting business outside the U.S. 
+
+We conduct business throughout the world, and we derive a substantial amount of our revenues and profits from international trade, particularly from Europe and Asia. We expect that international sales will continue to account for a significant portion of our total revenues and profits and, moreover, that sales in emerging markets in Asia and elsewhere will continue to be an important part of our international sales. As such, we are, and may be increasingly, subject to risks inherent in foreign trade generally, as well as risks inherent in doing business in non-U.S. markets, including increased tariffs and duties, compliance with economic sanctions, fluctuations in currency exchange rates, shipping delays, increases in transportation costs, international political, regulatory and economic developments, unexpected changes to laws, regulatory requirements, and enforcement on us and our platform partners and differing local business practices, all of which may impact profit margins or make it more difficult, if not impossible, for us to conduct business in foreign markets.
+
+A deterioration in relations between either us or the U.S. and any country in which we have significant operations or sales, or the implementation of government regulations in the U.S. or such a country, could result in the adoption or expansion of trade restrictions, including economic sanctions or absolute prohibitions, that could have a negative impact on our business. For instance, to operate in China, all games must have regulatory approval. A decision by the Chinese government to revoke its approval for any of our games or to decline to approve any products we desire to sell in China in the future could have a negative impact on our business, as could delays in the approval process. Additionally, in the past, legislation has been implemented in China that has required modifications to our products and our business model to satisfy regulatory requirements, such as Chinese regulations that limit the number of hours per week children under the age of 18 can play video games. The future implementation of similar or new laws or regulations in China or any other country in which we have operations or sales may restrict or prohibit the sale of our products or may require engineering modifications to our products and our business model that are not cost‑effective, if even feasible at all, or could degrade the consumer experience to the point where consumers cease to purchase such products. Changes in Chinese game approval procedures in 2018 have resulted in reduced rates of approval for games and unclear approval timeframes, making it uncertain as to if and when our new products will be approved for release in China. 
+
+Further, the continued enforcement of regulations relating to mobile and other games with an online element in China could have a negative impact on our business in China.
+
+23
+
+Table of Contents
+
+The laws of some countries either do not protect our products, brands, and intellectual property to the same extent as the laws of the U.S. or are inconsistently enforced. Legal protection of our rights may be ineffective in countries with weaker intellectual property enforcement mechanisms. In addition, certain third parties have registered our intellectual property rights without authorization in foreign countries. Successfully registering such intellectual property rights could limit or restrict our ability to offer products and services based on such rights in those countries. Although we take steps to enforce and police our rights, our practices and methodologies may not be effective against all eventualities.
+
+In addition, cultural differences may affect consumer preferences and limit the international popularity of games that are popular in the U.S. or require us to modify the content of the games or the method by which we charge our customers for the games to be successful. If we do not correctly assess consumer preferences in the countries in which we sell our products, it could negatively impact our business.
+
+We are also subject to risks that our operations outside the U.S. could be conducted by our employees, contractors, third‑party partners, representatives, or agents in ways that violate the Foreign Corrupt Practices Act, the U.K. Anti‑Bribery Act, or other similar anti‑bribery laws, as well as the 2017 U.K. Criminal Finances Act or other similar financial crime laws. While we have policies, procedures, and training for our employees, intended to secure compliance with these laws, our employees, contractors, third‑party partners, representatives, or agents may take actions that violate our policies. Moreover, it may be more difficult to oversee the conduct of any such persons who are not our employees, potentially exposing us to greater risk from their actions.
+
+The importance of retail sales to our business exposes us to the risks of that business model.
+
+While the proportion of our revenues derived from traditional retail sales, as compared to revenue from digital distribution channels, continues to decline, retail sales remain important to our business. Such sales are made primarily on a purchase order basis without long‑term agreements or other forms of commitments, and due to the increased proportion of our revenue from digital distribution channels, our retail customers and distributors have generally been reducing the levels of inventory they are willing to carry. The loss of, or significant reduction in sales to, any of Activision’s principal retail customers or distributors, including digital distributors, could have adverse consequences.
+
+We may not realize the expected benefits of our recent restructuring actions.
+
+During 2019, we began implementing a plan aimed at refocusing our resources on our largest opportunities and removing unnecessary levels of complexity and duplication from certain parts of our business. While we believe this plan enables us to provide better opportunities for talent, and greater expertise and scale over the long term, our ability to achieve the desired and anticipated benefits from the plan is subject to many estimates and assumptions. These estimates and assumptions are also subject to significant economic, competitive, and other uncertainties, some of which are beyond our control. 
+
+Additionally, there can be no assurance that our business will be more efficient or effective than prior to implementation of the plan, and we do not expect to realize significant net savings as a result of the plan as cost reductions in our selling, general and administrative activities are expected to be offset by increased investment in product development. Any of these consequences could negatively impact our business. In addition, there can be no assurance that additional plans will not be required or implemented in the future. 
+
+We engage in strategic transactions and may encounter difficulties in integrating acquired businesses or otherwise realizing the anticipated benefits of these transactions.
+
+As part of our business strategy, from time to time, we acquire, make investments in, or enter into strategic alliances and joint ventures with, complementary businesses. These transactions may involve significant risks and uncertainties, including: (1) in the case of an acquisition, (i) the potential for the acquired business to underperform relative to our expectations and the acquisition price, (ii) the potential for the acquired business to cause our financial results to differ from expectations in any given period, or over the longer‑term, (iii) unexpected tax consequences from the acquisition, or the tax treatment of the acquired business’s operations going forward, giving rise to incremental tax liabilities that are difficult to predict, (iv) difficulty in integrating the acquired business, its operations, and its employees in an efficient and effective manner, (v) any unknown liabilities or internal control deficiencies assumed as part of the acquisition, and (vi) the potential loss of key employees of the acquired businesses; and (2) in the case of an investment, alliance, or joint venture, (i) our ability to cooperate with our partner, (ii) our partner having economic, business, or legal interests or goals that are inconsistent with ours, and (iii) the potential that our partner may be unable to meet its economic or other obligations, which may require us to fulfill those obligations alone. 
+
+24
+
+Table of Contents
+
+Further, any such transaction may involve the risk that our senior management’s attention will be excessively diverted from our other operations, the risk that our industry does not evolve as anticipated, and that any intellectual property or personnel skills acquired do not prove to be those needed for our future success, and the risk that our strategic objectives, cost savings or other anticipated benefits are otherwise not achieved.
+
+We are exposed to seasonality in the sale of our products.
+
+The interactive entertainment industry is somewhat seasonal, with the highest levels of consumer demand occurring during the calendar year‑end holiday buying season. As a result, our sales, particularly for our Activision segment, receivables, and credit risk, are higher during the fourth quarter of the year, as consumers and retailers increase their purchases in anticipation of the holiday season. Delays in development, approvals or manufacturing could affect the release of products, causing us to miss key selling periods such as the year‑end holiday buying season, which could negatively impact our business.
+
+Our recurring business is subject to fluctuation, and we could see a decline in that portion of our business.
+
+Our business model includes recurring revenue we deem recurring in nature, such as revenue from subscriptions for 
+World of Warcraft
+. There is no guarantee that demand for this service will remain at current levels. Consumer demand has declined and fluctuated in the past, and could do so in the future. If consumers lose interest in our services; if we fail to adapt our services to changing markets, distribution channels, and business models; if we discontinue our services; if we, or third parties we rely on, experience network disruptions or outages; if our competitors offer more attractive services; if our advertising and marketing of our service fails; or if there is a general downturn in the market, revenues generated by this service may decline, which could negatively impact our business.
+
+Our business may be harmed if our distributors, retailers, development, and licensing partners, or other third parties with whom we are affiliated are unable to honor their commitments or act in ways that put our brand at risk.
+
+In many cases, our business partners and other third-party affiliates, which may include, among others, individuals or entities affiliated with the esports leagues we operate, are given access to sensitive and proprietary information or control over our intellectual property to provide services and support to our team. These third parties may misappropriate or misuse our information or intellectual property and engage in unauthorized use of it. Further, the failure of these third parties to provide adequate services and technologies or to adequately maintain or update their services and technologies could result in a disruption to our business operations or an adverse effect on our reputation and may negatively impact our business. At the same time, if the media, consumers, or employees raise any concerns about our actions vis-à-vis third parties including consumers who play our games, this could also damage our reputation or our business. Further, should we terminate our relationship with a third-party affiliate for any reason, we may experience interruptions in our business and incur costs as we transition to a new partner. 
+
+In developing our games, we rely on tools and technologies owned by third parties.
+
+In developing our games, we often use tools and technologies owned by third parties. If entities that own tools and technologies we use are acquired by our competitors we may lose access to such resources. Further, third party tools and technologies we use might be “sunsetted” or modified in such a way that would require us to engineer a workaround. Such events could cause delays in our production schedule and we may incur time and cost as we acquire or develop alternative assets. 
+
+25
+
+Table of Contents
+
+We use open source software in connection with certain of our games and services, which may pose particular risks to our proprietary software, products, and services in a manner that could have a negative impact on our business.
+
+We use open-source software in connection with some of the games and services we offer. Some open source software licenses require users who distribute open source software as part of their software to publicly disclose all or part of the source code to such software or make available any derivative works of the open source code on unfavorable terms or at no cost. The terms of various open source licenses have not been interpreted by courts, and there is a risk that such licenses could be construed in a manner that imposes unanticipated conditions or restrictions on our use of the open source software. Were it determined that our use was not in compliance with a particular license, we may be required to release our proprietary source code, pay damages for breach of contract, re‑engineer our games or products, discontinue distribution in the event re‑engineering cannot be accomplished on a timely basis, or take other remedial action that may divert resources away from our game development efforts, any of which could negatively impact our business. Additionally, the shared nature of open source software may increase the ability of cyber-attackers to discover and exploit vulnerabilities, which may increase the likelihood of a data breach, ransomware, network interruption, or other type of cyber-attack against us or against third parties who may use open source software, such as our platform partners or key vendors, any of which could negatively impact our business.
+
+Our games may include undisclosed content or features. If our retailers refuse to sell such titles, or consumers refuse to purchase such titles, due to what they perceive to be objectionable undisclosed content, it could have a negative impact on our business.
+
+Throughout the history of the interactive entertainment industry, many interactive software products have included hidden content and/or hidden gameplay features, some of which have been accessible through the use of in‑game codes or other technological means, that are intended to enhance the gameplay experience. In some cases, such undisclosed content or features have been considered to be objectionable. While publishers are required to disclose pertinent hidden content during the Entertainment Software Rating Board (the “ESRB”) ratings process, in a few cases, publishers have failed to disclose pertinent content, and the ESRB has required the recall of the game, changed the rating or associated content descriptors originally assigned to the product, required the publisher to change the game or game packaging and/or imposed fines on the publisher. Retailers have on occasion reacted to the discovery of such undisclosed content by removing these games from their stores, refusing to sell them, and demanding that their publishers accept them as product returns. Likewise, some consumers have reacted to the revelation of undisclosed content by refusing to purchase such games, demanding refunds for games they have already purchased, refraining from buying other games published by the Company whose game contained the objectionable material, and, on at least one occasion, filing a lawsuit against the publisher of the product containing such content.
+
+We have implemented preventive measures designed to reduce the possibility of objectionable undisclosed content from appearing in the interactive software products we publish. Nonetheless, these preventive measures are subject to human error, circumvention, overriding, and reasonable resource constraints. If an interactive software product we publish is found to contain undisclosed content, we could be subject to any of these consequences.
+
+Our results of operations or reputation may be harmed as a result of objectionable consumer- or other third-party‑created content.
+
+Certain of our games and esports broadcasts support collaborative online features that allow consumers to communicate with one another and post narrative comments, in real time, that are visible to other consumers. Additionally, certain of our games allow consumers to create and share “user‑generated content” that is visible to other consumers. From time to time, objectionable and offensive consumer content may be distributed within our games and on our broadcasts through these features or to gaming websites or other sites or forums with online chat features or that otherwise allow consumers to post comments. Although we expend resources, and expect to continue to expend resources, to promote positive play, our efforts may not be successful due to scale, limitations of existing technologies, or other factors. We may be subject to lawsuits, governmental regulation or restrictions, and consumer backlash (including decreased sales and harmed reputation), as a result of consumers posting offensive content. 
+
+Additionally, we have begun to generate revenue through offering advertising within certain of our franchises and in connection with our esports broadcasts. The content of in‑game and esports broadcast advertisements may be created and delivered by third‑party advertisers without our pre‑approval, and, as such, objectionable content may be published in our games or during our esports broadcasts by these advertisers. This objectionable third-party‑created content may expose us to regulatory action or claims related to content, or otherwise negatively impact our business. We may also be subject to consumer backlash from comments made in response to postings we make on social media sites such as Facebook, YouTube, and Twitter.
+
+26
+
+Table of Contents
+
+We may experience outages, disruptions, or degradations in our services, products, and/or technological infrastructure.
+
+The reliable performance of our products and services depends on the continuing operation and availability of our information technology systems and those of our external service providers, including third-party “cloud” computing services. Our games and services are complex software products, and maintaining the sophisticated internal and external technological infrastructure required to reliably deliver these games and services is expensive and complex. The reliable delivery and stability of our products and services has been, and could in the future be, adversely impacted by outages, disruptions, failures, or degradations in our network and related infrastructure, as well as in the online platforms or services of key business partners that offer, support or host our products and services. The reliability and stability of our products and services has been affected by events outside of our control as well as by events within our control, such as the migration of data among data centers and to third-party hosted environments, the performance of upgrades and maintenance on our systems, and online demand for our products and services that exceeds the capabilities of our technological infrastructure.
+
+If we or our external business partners were to experience an event that caused a significant system outage, disruption, or degradation or if a transition among data centers or service providers or an upgrade or maintenance session encountered unexpected interruptions, unforeseen complexity, or unplanned disruptions, our products and services may not be available to consumers or may not be delivered reliably and stably. As a result, our reputation and brand may be harmed, consumer engagement with our products and services may be reduced, and our revenue and profitability could be negatively impacted. We do not have redundancy for all our systems and many of our critical applications reside in only one of our data centers, which may make such an event more damaging to us.
+
+As our digital business grows, we will require an increasing amount of internal and external technical infrastructure, including network capacity and computing power to continue to satisfy the needs of our players. We are investing, and expect to continue to invest, in our own technology, hardware, and software and the technology, hardware, and software of external service providers to support our business. It is possible that we may fail to scale effectively and grow this technical infrastructure to accommodate increased demands, which may adversely affect the reliable and stable performance of our games and services, therefore negatively impact our business.
+
+Any cybersecurity‑related attack, significant data breach, fraudulent activity, or disruption of the information technology systems or networks on which we rely could negatively impact our business.
+
+In the course of our day‑to‑day business, we and third parties operating on our behalf create, store, and/or use commercially sensitive information, such as the source code and game assets for our interactive entertainment software products and sensitive and confidential information with respect to our customers, consumers, and employees. A malicious cybersecurity‑related attack, intrusion, or disruption by hackers (including through spyware, ransomware, viruses, phishing, denial of service, and similar attacks) or other breach of the systems (including harm or improper access due to error by employees or third parties who have authorized access) on which such source code and assets, account information (including personal information), and other sensitive data is stored could lead to piracy of our software, fraudulent activity, disclosure, or misappropriation of, or access to, our customers’, consumers’, or employees’ personal information, or our own business data. Such incidents could also lead to product code‑base and game distribution platform exploitation, should undetected viruses, spyware, or other malware be inserted into our products, services, or networks, or systems used by our consumers. We have implemented cybersecurity programs and the tools, technologies, processes, and procedures intended to secure our data and systems, and prevent and detect unauthorized access to, or loss of, our data, or the data of our customers, consumers, or employees. However, because these cyberattacks may remain undetected for prolonged periods of time and the techniques used by criminal hackers and other third parties to breach systems change frequently, we may be unable to anticipate these techniques or implement adequate preventative measures. A data intrusion into a server for a game with online features or for our proprietary online gaming platform could also disrupt the operation of such game or platform. If we are subject to cybersecurity breaches, or a security‑related incident that materially disrupts the availability of our products and services, we may have a loss in sales or subscriptions or be forced to pay damages or incur other costs, including from the implementation of additional cyber and physical security measures, or suffer reputational damage. Additionally, although we maintain insurance policies, they may be insufficient to reimburse us for all losses or all types of claims that may be caused by cyberbreaches or system or network disruptions, and it is uncertain whether we will be able to maintain our current level of coverage in the future. Moreover, if there were a public perception that our data protection measures are inadequate, whether or not the case, it could result in reputational damage and potential harm to our business relationships or the public perception of our business model. In addition, such cybersecurity breaches may subject us to legal claims or proceedings, like individual claims and regulatory investigations and actions, including fines, especially if there is loss, disclosure, or misappropriation of, or access to, our customers’ personal information or other sensitive information, or there is otherwise an intrusion into our customers’ privacy.
+
+27
+
+Table of Contents
+
+Additionally, many of our games include virtual economies, comprising virtual currencies and assets, which are subject to fraud, exploitation, and abuse. In-game exploits and the use of automated or other fraudulent practices to generate virtual currency or assets illegitimately can detract from players’ enjoyment of our games and can cause loss of revenue and harm to our reputation. Further, the measures we take to remedy abuse and protect against future fraudulent actions can be costly and time-consuming and may negatively impact our operations and financial outlook.
+
+Significant disruption during our live events may adversely affect our business.
+
+We, as well as the teams in the esports leagues we operate, host live events each year, many of which are attended by a large number of people. There are many risks that are inherent in large gatherings of people, including actual or threatened terrorist attacks or other acts of violence, fire, explosion, protests, and riots, and other safety or security issues, any one of which could result in injury or death to attendees and/or damage to the facilities at which such an event is hosted. While we maintain insurance policies, they may be insufficient to reimburse us for all losses or all types of claims that may be caused by such an event. Moreover, if there were a public perception that the safety or security measures are inadequate at the events we host or events hosted by teams in the esports leagues we operate, whether or not the case, it could result in reputational damage and a decline in future attendance at events hosted by us or those teams. Any one of these things could harm our business. 
+
+Catastrophic events may disrupt our business.
+
+Our corporate headquarters and our primary corporate data center are located in the Los Angeles, California area, which is near a major earthquake fault. A major earthquake or other catastrophic event that results in the destruction or disruption of any of our critical business or information technology systems, impacts the health and safety of our employees or the employees of third-party affiliates and the regulatory agencies we rely on, or otherwise prevents us from conducting our normal business operations, could require significant expenditures to resume operations and negatively impact our business. While we maintain insurance coverage for some of these events, the potential liabilities associated with such events could exceed the insurance coverage we maintain. Further, our system redundancy may be ineffective or inadequate to protect us against such events. Any such event could also limit the ability of retailers, distributors, or our other customers to sell or distribute our products.
+
+Climate change may have an impact on our business.
+
+Risks related to climate change are increasing in both impact and type. We do not expect significant near-term impacts to our operations as a result of climate change, but long-term impacts remain unknown.
+
+There may be business or operational risk due to the significant impacts that climate change could pose to our employees’ lives, consumers’ lives, our supply chain, or other operational disruptions from climate change-related weather events. In addition, rapidly changing customer and regulatory requirements, along with stakeholder expectations, to reduce carbon emissions and otherwise to reduce our environmental footprint could increase our costs of operations to comply or present a risk of loss of business if we are not able to meet those requirements.
+
+Provisions in our corporate documents and Delaware state law could delay or prevent a change of control.
+
+Our Fifth Amended and Restated Bylaws contain a provision regulating the ability of shareholders to bring matters for action before annual and special meetings. The regulations on shareholder action could make it more difficult for any person seeking to acquire control of the Company to obtain shareholder approval of actions that would support this effort. In addition, our Third Amended and Restated Certificate of Incorporation authorizes the issuance of so‑called “blank check” preferred stock. This ability of our Board of Directors to issue and fix the rights and preferences of preferred stock could effectively dilute the interests of any person seeking control or otherwise make it more difficult to obtain control.
+
+28
+
+Table of Contents
+
+Regulatory and Legal Risks
+
+We are subject to legal proceedings regarding workplace concerns that have negatively affected our reputation. 
+
+As described in 
+Note 22
+
+ to the notes to the consolidated financial statements included in Part II, Item 8 of this Annual Report on Form 10-K, in July 2021, the California Department of Fair Employment and Housing (the “DFEH”) filed a complaint against Activision Blizzard, Blizzard Entertainment, and Activision Publishing alleging violations of the California Fair Employment and Housing Act and the California Equal Pay Act. The Company is separately awaiting court approval of a consent decree with the EEOC settling claims against the Company regarding certain employment practices, while the DFEH has objected to the consent decree. The Company has also been named as a defendant in a shareholder class action and a nominal defendant in shareholder derivative actions involving allegations similar to those alleged in the foregoing matters and is cooperating in an investigation with the SEC with respect to its disclosures on employment matters and related issues. The outcome of these matters remains uncertain, and we could become subject to additional, similar legal proceedings in the future. If such matters are decided unfavorably to the Company, they could have a material adverse effect on our business, reputation, financial condition, results of operations, income, revenue, profitability, cash flows, liquidity, or stock price.
+
+These legal proceedings have negatively impacted our public reputation and, as a result, some consumers have elected not to continue subscribing to one or more of our games, and existing and potential players may decide not to play our games in the future. Some existing sponsors, partners, and advertisers have also elected not to be associated with our brand due to this impact on our reputation, and others may so elect in the future. The outcome of these matters remains uncertain, though such matters could be decided unfavorably to the Company and could have a material adverse effect on our business, reputation, financial condition, results of operations, income, revenue, profitability, cash flows, liquidity, or stock price. 
+
+We are involved in legal proceedings that can have a negative impact on our business.
+
+From time to time, we are involved in claims, suits, investigations, audits, and proceedings arising in the ordinary course of our business, including with respect to intellectual property, competition and antitrust, regulatory, tax, privacy, labor and employment, compliance, unclaimed property, liability and personal injury, product damage, collection, and/or commercial matters. In addition, negative consumer sentiment about our business practices may result in inquiries or investigations from regulatory agencies and consumer groups, as well as litigation.
+
+Claims, suits, investigations, audits, and proceedings are inherently difficult to predict, including those referenced above, and their results are subject to significant uncertainties, many of which are outside of our control. Regardless of the outcome, such legal proceedings can have a negative impact on us due to reputational harm, legal costs, diversion of management resources, and other factors. It is also possible that a resolution of one or more such proceedings could result in substantial settlements, judgments, fines or penalties, injunctions, criminal sanctions, consent decrees, or orders preventing us from offering certain features, functionalities, products, or services, requiring us to change our development process or other business practices.
+
+There is also inherent uncertainty in determining reserves for these matters. Significant judgment is required in the analysis of these matters, including assessing the probability of potential outcomes and determining whether a potential exposure can be reasonably estimated. In making these determinations, we, in consultation with outside counsel, examine the relevant facts and circumstances on a quarterly basis assuming, as applicable, a combination of settlement and litigated outcomes and strategies. Further, it may take time to develop factors on which reasonable judgments and estimates can be based. 
+
+We regard our software as proprietary and rely on a variety of methods, including a combination of copyright, patent, trademark, and trade secret laws, and employee and third‑party non‑disclosure agreements, to protect our proprietary rights. We own or license various copyrights, patents, trademarks, and trade secrets. The process of registering and protecting these rights in various jurisdictions is expensive and time‑consuming. Further, we are aware that some unauthorized copying and piracy occurs, and if a significantly greater amount of unauthorized copying or piracy of our software products were to occur, it could negatively impact our business. We also cannot be certain that existing intellectual property laws will provide adequate protection for our products in connection with emerging technologies or that we will be able to effectively protect our intellectual property through litigation and other means.
+
+29
+
+Table of Contents
+
+Our business, products, and distribution are subject to increasing regulation in key territories. If we do not successfully respond to these regulations, our business could be negatively impacted.
+
+The video game industry continues to evolve, and new and innovative business opportunities are often subject to new attempts at regulation. As such, legislation is continually being introduced, and litigation and regulatory enforcement actions are taking place, that may affect the way in which we, and other industry participants, may offer content and features, and distribute and advertise our products. These laws, regulations, and investigations are related to protection of minors, gambling, screen time, business models, consumer privacy, cybersecurity, data protection, accessibility, advertising, taxation, payments, intellectual property, distribution, and antitrust, among others.
+
+For example, many foreign countries have laws that permit governmental entities to restrict or prohibit marketing or distribution of interactive entertainment software products because of the content therein (and similar legislation has been introduced at one time or another at the federal and state levels in the U.S., including legislation that attempts to impose additional taxes based on content). In addition, certain jurisdictions have laws that restrict or prohibit marketing or distribution of interactive entertainment software products with random digital item mechanics, which some of our online games and services include, or subject such products to additional regulation and oversight, such as reporting to regulators, mandatory disclosure to consumers of item drop rates, and higher age ratings for products that contain such mechanics. 
+
+We are also subject to laws in a number of jurisdictions concerning the operation and offering of tournaments and games, many of which are still evolving and could be interpreted in ways that could harm our business. Certain jurisdictions also have laws that restrict or prohibit certain types of esports tournament structures. These laws may have an impact on our ability to offer certain esports competitions and/or to offer consumers of our online and casual games various types of contests and promotional opportunities.
+
+Further, the growth and development of electronic commerce, virtual items, and currency may prompt calls for more stringent consumer protection laws that may impose additional burdens or limitations on operations of companies such as ours conducting business through the Internet and mobile devices, including related to screen time. Also, existing laws or new laws regarding the marketing of in‑app purchases, regulation of currency, banking institutions, unclaimed property, and money laundering may be interpreted to cover virtual currency or goods. Additionally, laws may limit or prevent the auto-renewal of contracts and subscriptions. Further, the European Commission has recently imposed a large antitrust fine on a number of other game publishers who had been geoblocking certain EU countries. In addition, in 2019 the World Health Organization included “gaming disorder” in the 11th Revision of the International Classification of Diseases (ICD-11), leading some countries to consider legislation and policies aimed at addressing this issue. Moreover, the public dialogue concerning interactive entertainment may have an adverse impact on our reputation and consumers’ willingness to purchase our products.
+
+The adoption and enforcement of legislation that restricts the marketing, content, business model, or sales of our products in countries in which we do business may harm the sales of our products, as the products we are able to offer to our customers and the size of the potential audience for our products may be limited. We may be required to modify certain product development processes or products or alter our marketing strategies to comply with regulations, which could be costly or delay the release of our products. In addition, the laws and regulations affecting our products vary by territory and may be inconsistent with one another, imposing conflicting or uncertain restrictions. Failure to comply with any applicable legislation may also result in government‑imposed fines or other penalties, as well as harm to our reputation. 
+
+Change in government regulations relating to the Internet could negatively impact our business.
+
+We rely on our consumers’ access to significant levels of Internet bandwidth for the sale and digital delivery of our content and the functionality of our games with online features. Changes in laws or regulations that adversely affect the growth, popularity, or use of the Internet, including laws impacting “net neutrality” or the availability of bandwidth could impair our consumers’ online video game experiences, decrease the demand for our products and services or increase our cost of doing business. Although certain jurisdictions have implemented laws and regulations intended to prevent Internet service providers from discriminating against particular types of legal traffic on their networks, other jurisdictions may lack such laws and regulations or repeal existing laws or regulations. Given uncertainty around these rules relating to the Internet, including changing interpretations, amendments, or repeal of those rules, coupled with the potentially significant political and economic power of local Internet service providers and the relatively significant level of Internet bandwidth access our products and services require, we could experience discriminatory or anti‑competitive practices that could impede our growth, cause us to incur additional expenses, or otherwise negatively impact our business.
+
+30
+
+Table of Contents
+
+The laws and regulations concerning data privacy are continually evolving. Failure to comply with these laws and regulations could harm our business.
+
+Consumers play certain of our games online using our own distribution platforms, including Blizzard Battle.net, third‑party platforms and networks, through online social platforms, and on mobile devices. We collect and store information about our consumers, including consumers who play these games. In addition, we collect and store information about our employees. We are subject to laws from a variety of jurisdictions regarding privacy and the protection of this information, including the E.U.’s General Data Protection Regulation (the “GDPR”), the U.S. Children’s Online Privacy Protection Act, which regulates the collection, use, and disclosure of personal information from children under 13 years of age, the California Consumer Privacy Act, and China’s Personal Information Protection Law, among others. Failure to comply with any of these laws or regulations may increase our costs, subject us to expensive and distracting government investigations, result in substantial fines, and other punitive measures, including restricting or prohibiting the sale of our products, or result in lawsuits and claims against us to the extent these laws include a private right of action.
+
+Data privacy protection laws are rapidly changing and likely will continue to do so for the foreseeable future and may be inconsistent from jurisdiction to jurisdiction. For example, the E.U. and China have taken a broader view than the U.S. and certain other jurisdictions as to what is considered personal information and has imposed greater obligations under data privacy and protection regulations, including those imposed under the GDPR. The U.S. government, including the Federal Trade Commission and the Department of Commerce, various U.S. state governments, and other various national and local governments are continuing to review the need for greater regulation over the collection, sharing, use, or sale of personal information and information about consumer behavior on the Internet and on mobile devices. Complying with emerging and changing laws could require us to incur substantial costs or impact our approach to operating and marketing our games. Due to the rapidly changing nature of these data privacy protection laws, there is not always clear guidance from the respective governments and regulators regarding the interpretation of the law, which may create the risk of an inadvertent violation. Various government and consumer agencies worldwide have also called for new regulation and changes in industry practices. In addition, in some cases, we are dependent upon our platform providers and external data processors to assist us in ensuring compliance with these various types of regulations, and a violation by one of these third parties may also subject us to government investigations and result in substantial fines.
+
+Player interaction with our games is subject to our privacy policies, end user license agreements (“EULAs”), and terms of service. If we fail to comply with our posted privacy policies, EULAs, or terms of service, or if we fail to comply with existing privacy‑related or data protection laws and regulations, it could result in proceedings or litigation against us by governmental authorities or others, which could result in fines or judgments against us, damage our reputation, impact our financial condition, and harm our business. If regulators, the media, consumers, or employees raise any concerns about our privacy and data protection or consumer protection practices, even if unfounded, this could also result in fines or judgments against us, damage our reputation, negatively impact our financial condition, or damage our business.
+
+Our games are subject to scrutiny regarding the appropriateness of their content. If we fail to receive our target ratings for certain titles, or if our retailers refuse to sell such titles due to what they perceive to be objectionable content, it could have a negative impact on our business.
+
+Our console and PC games are subject to ratings by the ESRB, a self‑regulatory body based in the U.S. that provides U.S. and Canadian consumers of interactive entertainment software with ratings information, including information on the content in such software, such as violence, nudity, or sexual content, along with an assessment of the suitability of the content for certain age groups. Certain other countries have also established content rating systems as prerequisites for product sales in those countries. In addition, certain third parties use other ratings systems. For example, Apple uses a proprietary “App Rating System” and certain online stores, including Google Play, use the International Age Rating Coalition (“IARC”) rating system, whereby ratings are assigned in participating regions through a single application. If we are unable to obtain the ratings we have targeted for our products, it could have a negative impact on our business. In some instances, we may be required to modify our products to meet the requirements of the rating systems, which could delay or disrupt the release of any given product or may prevent its sale altogether in certain territories. Further, if one of our games is “re‑rated” for any reason, a ratings organization could require corrective actions, which could include a recall, retailers could refuse to sell it and demand that we accept the return of any unsold or returned copies or consumers could demand a refund for copies previously purchased.
+
+31
+
+Table of Contents
+
+Additionally, retailers may decline to sell, and/or consumers may decline to buy, interactive entertainment software containing what they judge to be graphic violence or sexually explicit material or other content that they deem inappropriate for their businesses, whether because a product received a certain rating by the ESRB or other content rating system, or otherwise. If retailers decline to sell our products or consumers decline to buy them based upon their opinion that they contain objectionable themes, graphic violence or sexually explicit material, or other generally objectionable content, we might be required to modify particular titles or forfeit the revenue opportunity of selling such titles.
+
+Financial and Economic Risks
+
+Changes in tax rates and/or tax laws or exposure to additional tax liabilities could negatively impact our business.
+
+Our income tax liability and effective tax rate could be adversely affected by a variety of factors, including changes in our business, the mix of earnings in countries with differing statutory tax rates, changes in tax laws or tax rulings, changes in interpretations of existing laws, or developments in tax examinations or investigations. Any of these factors could have a negative impact on our business or require us to change the manner in which we operate our business. The tax regimes we are subject to, or operate under, are unsettled and may be subject to significant change. Furthermore, tax authorities may choose to examine or investigate our tax reporting or tax liability, including under transfer pricing or permanent establishment theories. These proceedings may lead to adjustments or proposed adjustments to our income taxes or provisions for uncertain tax positions. Additionally, a number of countries, including the U.S., have been pursuing fundamental changes to the tax laws applicable to multinational companies like us, including changing the U.S. taxation of non-U.S. income, developing new global OECD guidelines, and enacting revenue-based taxes on digital services. If these developments lead to enacted policy changes, it may have an adverse impact on our income tax expense and could negatively impact our business. 
+
+Fluctuations in currency exchange rates could negatively impact our business.
+
+We transact business in various currencies other than the U.S. dollar and have significant international sales and expenses denominated in currencies other than the U.S. dollar, subjecting us to currency exchange rate risks. A substantial portion of our international sales and expenses are denominated in local currencies, which could fluctuate against the U.S. dollar. Since we have significant international sales but incur the majority of our costs in the U.S., the impact of foreign currency fluctuations, particularly the strengthening of the U.S. dollar, may have an asymmetric and disproportional impact on our business. We have, in the past, utilized currency derivative contracts to hedge certain foreign exchange exposures and managed these exposures with natural offsets. However, there can be no assurance that we will continue our hedging programs, or that we will be successful in managing exposure to currency exchange rate risks whether or not we do so.
+
+Our reported financial results could be significantly impacted by changes in financial accounting standards or by the application of existing or future accounting standards to our business as it evolves.
+
+Our reported financial results are impacted by the accounting policies promulgated by the SEC and national accounting standards bodies and the methods, estimates, and judgments that we use in applying our accounting policies. Policies affecting revenue recognition have affected, and could further significantly affect, the way we report revenues related to our products and services. We recognize a majority of the revenues from video games that include an online service on a deferred basis over an estimated service period for such games. In addition, we defer the cost of revenues of those products. Further, as we increase our add-on content and add new features to our online services, our estimate of the service period may change, and we could be required to recognize revenues, and defer related costs, over a shorter or longer period of time. As we enhance, expand, and diversify our business and product offerings, the application of existing or future financial accounting standards, particularly those relating to the way we account for revenues and income taxes, could have a significant impact on our reported net revenues, net income, and earnings per share under generally accepted accounting principles in the U.S. in any given period.
+
+32
+
+Table of Contents
+
+The insolvency or business failure of any of our business partners could negatively impact us.
+
+Our sales, whether digital or retail, are concentrated in a small number of large customers, which makes us more vulnerable to collection risk if one or more of these large customers becomes unable to pay for our products or seeks protection under the bankruptcy laws. Retailers and distributors in the interactive entertainment industry have from time to time experienced significant fluctuations in their businesses and a number of them have failed. Challenging economic conditions may impair the ability of our customers to pay for products they have purchased and, as a result, our reserves for doubtful accounts and write‑off of accounts receivable could increase and, even if increased, may turn out to be insufficient. While we have insurance to protect against a customer’s bankruptcy, insolvency, or liquidation, this insurance typically contains a significant deductible and co‑payment obligation and does not cover all instances of non‑payment. Further, a payment default or the insolvency or business failure of, other types of business partners could result in disruptions to the manufacturing or distribution of our products or the cancellation of contractual arrangements that we consider to be favorable and could negatively impact our business. In addition, having such a large portion of our total net revenues concentrated in a few customers reduces our negotiating leverage with these customers.
+
+Because purchases of our products and services are discretionary spending, if general economic conditions decline, demand for our products and services could decline.
+
+Purchases of our products and services involve discretionary spending on the part of consumers. Consumers are generally more willing to make discretionary purchases, including purchases of products and services like ours, during periods in which favorable economic conditions prevail. As a result, our products are sensitive to general economic conditions and economic cycles. A reduction or shift in domestic or international consumer spending could result in an increase in our selling and promotional expenses, in an effort to offset that reduction, and could negatively impact our business.

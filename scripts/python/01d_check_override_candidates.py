@@ -35,7 +35,7 @@ import sys
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
 from lib.cover_page import declared_symbols
 from lib.db import connect
-from lib.edgar import all_10k_filings, fetch_submissions, filing_doc_url, get
+from lib.edgar import all_10k_filings, fetch_submissions, filing_doc_url, get, get_json
 
 ROOT = pathlib.Path(__file__).resolve().parents[2]
 SYMBOL_CACHE_PATH = ROOT / "data" / "raw" / "coverpage_symbols.json"
@@ -43,6 +43,77 @@ SYMBOL_CACHE_PATH = ROOT / "data" / "raw" / "coverpage_symbols.json"
 
 def norm(s: str) -> str:
     return s.replace(".", "").replace("-", "").upper()
+
+
+def symbol_matches(ticker: str, declared: set[str]) -> bool:
+    """Does any declared symbol correspond to this ticker?
+
+    Exact match after normalising separators, plus one specific allowance:
+    when a company enters Chapter 11 its listing moves to OTC and the ticker
+    gains a suffix ending in Q -- Peabody BTU -> BTUUQ, Eastman Kodak EK ->
+    EKDKQ, RadioShack RSH -> RSHCQ, Lehman LEH -> LEHMQ, GM MTL -> MTLQQ. The
+    index membership source records the bankruptcy ticker; the company's own
+    filings, written before or during the transition, still declare the base
+    symbol. Requiring the declared symbol to be a genuine PREFIX of a
+    Q-terminated ticker keeps this tight -- it cannot match an unrelated
+    company, only the pre-bankruptcy form of this same one.
+    """
+    target = norm(ticker)
+    declared_norm = {norm(s) for s in declared}
+    if target in declared_norm:
+        return True
+    if target.endswith("Q") and len(target) >= 4:
+        return any(len(d) >= 2 and target.startswith(d) for d in declared_norm)
+    return False
+
+
+def declared_via_any_filing(cik: int, ticker: str, symbol_cache: dict, max_hits: int = 4):
+    """Second evidence path: search THIS CIK's entire filing history.
+
+    SEC only required a trading-symbol field on the 10-K cover page from
+    2019, and a great many pre-2019 10-Ks never print their own ticker --
+    Safeway, Avon, Sigma-Aldrich, Legg Mason, US Steel and Plum Creek all
+    file a decade of 10-Ks without the string appearing once. But the same
+    companies say it readily in proxies and 8-Ks ("trades on the NYSE under
+    the symbol"). Restricting full text search to the candidate's own CIK
+    turns that into evidence: a document FILED BY this company that declares
+    this symbol is the company claiming the ticker, whatever form it is on.
+
+    Returns (matching_accession, declared_symbols) or (None, set()).
+    """
+    url = (
+        "https://efts.sec.gov/LATEST/search-index"
+        f"?q=%22{ticker}%22&ciks={str(cik).zfill(10)}"
+    )
+    try:
+        data = get_json(url)
+    except Exception:
+        return None, set()
+
+    seen = set()
+    for hit in (data.get("hits", {}).get("hits", []) or [])[:max_hits]:
+        source = hit.get("_source", {})
+        hit_id = hit.get("_id", "")
+        # _id is "accession:document"; the accession has no dashes here.
+        accn_raw, _, doc = hit_id.partition(":")
+        if not doc:
+            continue
+        accn = accn_raw.replace("-", "")
+        if len(accn) != 18:
+            continue
+        formatted = f"{accn[:10]}-{accn[10:12]}-{accn[12:]}"
+        if formatted in symbol_cache:
+            symbols = set(symbol_cache[formatted])
+        else:
+            resp = get(filing_doc_url(cik, formatted, doc))
+            if resp.status_code != 200:
+                continue
+            symbols = declared_symbols(resp.content)
+            symbol_cache[formatted] = sorted(symbols)
+        seen |= symbols
+        if symbol_matches(ticker, symbols):
+            return formatted, symbols
+    return None, seen
 
 
 def main():
@@ -74,7 +145,21 @@ def main():
         if subs is None:
             print(f"{ticker:8} {cik:>9}  {'BAD_CIK':12} (no SEC submissions record)")
             continue
+        # SEC reports a CIK's CURRENT name, which for exactly the successor
+        # chains this file exists to handle is not the name that filed the
+        # 10-Ks. Reviewing "ATGE -> Covista Inc." looks like an obvious error
+        # until you see the former names include DEVRY EDUCATION GROUP; the
+        # same for WAMUQ -> "Maverick Merger Sub 2, LLC" (formerly WMI
+        # HOLDINGS, Washington Mutual's successor) and IAC -> "Match Group"
+        # (formerly IAC/INTERACTIVECORP). Carrying former names into the
+        # evidence note is what makes a human review of this file meaningful
+        # rather than misleading.
+        former = [f.get("name") for f in subs.get("formerNames", []) if f.get("name")]
         name = subs.get("name", "?")
+        if former:
+            name_with_history = f"{name} (formerly {'; '.join(former[:3])})"
+        else:
+            name_with_history = name
 
         in_range = [f for f in all_10k_filings(cik)
                     if lo - 1 <= int(f["filing_date"][:4]) <= hi + 1]
@@ -94,7 +179,7 @@ def main():
                 symbols = declared_symbols(resp.content)
                 symbol_cache[accn] = sorted(symbols)
             declared_all |= symbols
-            if norm(ticker) in {norm(s) for s in symbols} and evidence is None:
+            if symbol_matches(ticker, symbols) and evidence is None:
                 evidence = filing
 
         if evidence is not None:
@@ -111,16 +196,33 @@ def main():
             if (year_start, year_end) != (lo, hi):
                 span_note = (f" [range narrowed from the {lo}-{hi} gap to {year_start}-{year_end}: "
                              f"this CIK only filed 10-Ks in {min(filed_years)}-{max(filed_years)}]")
-            note = (f"{name} filed {len(in_range)} 10-Ks {lo}-{hi}; its {evidence['filing_date']} "
+            note = (f"{name_with_history} filed {len(in_range)} 10-Ks {lo}-{hi}; its {evidence['filing_date']} "
                     f"10-K (accession {evidence['accession_number']}) declares trading symbol "
                     f"{ticker} (verified via lib/cover_page.declared_symbols){span_note}")
             accepted.append((ticker, year_start, year_end, cik, name, note))
-        elif declared_all:
-            verdict = "CONTRADICTED"
-            note = f"declares only {sorted(declared_all)[:6]} across {len(in_range)} filings in range"
         else:
-            verdict = "NO_EVIDENCE"
-            note = f"{len(in_range)} 10-Ks in range, none prints any trading symbol (normal pre-2019)"
+            # The 10-Ks did not settle it. Widen to every form this CIK ever
+            # filed before concluding anything -- a pre-2019 10-K routinely
+            # omits the symbol that the same company's proxy states plainly.
+            accn, wider = declared_via_any_filing(cik, ticker, symbol_cache)
+            if accn is not None:
+                verdict = "CONFIRMED"
+                filed_years = sorted({int(f["filing_date"][:4]) for f in in_range})
+                year_start, year_end = max(lo, min(filed_years)), min(hi, max(filed_years))
+                note = (f"{name_with_history} filed {len(in_range)} 10-Ks {lo}-{hi}; none prints a symbol "
+                        f"(pre-2019 cover pages did not require one), but its own filing "
+                        f"{accn} declares {ticker} (CIK-restricted full text search + "
+                        f"lib/cover_page.declared_symbols)")
+                accepted.append((ticker, year_start, year_end, cik, name, note))
+                print(f"{ticker:8} {cik:>9}  {verdict:12} {name[:34]:34} {note[:130]}")
+                continue
+            declared_all |= wider
+            if declared_all:
+                verdict = "CONTRADICTED"
+                note = f"declares only {sorted(declared_all)[:6]} across all filings searched"
+            else:
+                verdict = "NO_EVIDENCE"
+                note = f"{len(in_range)} 10-Ks in range; no filing of any type declares a symbol"
 
         print(f"{ticker:8} {cik:>9}  {verdict:12} {name[:34]:34} {note[:140]}")
 
