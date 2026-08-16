@@ -1,0 +1,273 @@
+.
+
+The following risk factors, among others that are not presently known or that we currently believe unimportant, could affect our future results and could cause our actual results to differ materially from those expressed in our forward-looking statements. Before you decide to buy, hold, or sell our common stock, you should carefully consider these risks, in addition to the other information contained in this report. Our business, financial condition, and operations results could be seriously harmed if any of the events described here actually occurs. In that situation, the market price for our common stock could decline, and you may lose all or part of your investment.
+
+Our financial results are affected by general economic conditions and the highly cyclical nature of the semiconductor industry.
+
+Semiconductor companies, such as Altera, experience significant fluctuations in sales and profitability. The semiconductor industry has experienced economic downturns and business contractions from time to time, which can be severe and prolonged. The fluctuations follow the turns of the global economy and in a downturn can result in significant reductions in product demand and excess customer inventories. Global economic weakness or cyclical downturns have previously resulted from periods of economic recession, reduced access to credit markets, weakening or strengthening of the U.S. dollar relative to other currencies, weak end-user demand, excess industry capacity or general reductions in inventory levels by customers. It is difficult for our customers, our vendors and us to accurately forecast and plan future business activities in today's global economy. 
+
+Our ability to predict the quantity and type of products our customers will need in the future is challenging because our customers face volatile pricing and unpredictable demand for their own products and are increasingly focused on cash 
+
+15
+
+preservation and tighter inventory management. These factors could affect the timing of customer orders and the overall level of demand for our products. Because it is extremely difficult to forecast the success or timing of a customer's product, and because our end markets are highly fragmented (we have over 
+13,000
+ PLD customers), our ability to forecast end customer demand is difficult. If we overestimate customer demand, we may allocate resources to manufacturing products that we may not be able to sell as quickly as estimated, if at all. As a result we could hold excess or obsolete inventory, which would reduce our profit margins and adversely affect our financial results. 
+
+The volatility and disruption of the capital and credit markets and adverse changes in the global economy may negatively impact our customers' business and their ability to access financing, which could adversely affect demand for our products. Our operating cash flows are highly dependent on the continued collection of receivables and our ability to sell inventories. Declines in overall economic conditions could lead to deterioration in the quality of our receivables. In addition to reductions in sales and elevated risk associated with the collection of receivables, our profitability and cash flows may suffer during downturns because we may not be able to reduce costs at the same rate as our sales decline. 
+
+As further described below, we depend entirely on independent subcontractors to supply us with finished silicon wafers and to assemble, test and ship our semiconductor products. Uncertainties in the capital and credit market, however, may adversely affect the ability of our suppliers to obtain financing for operations. If our subcontractors' capital structures weaken, they may fail to satisfy our demand and our business could be materially disrupted. 
+
+If global economic and market conditions remain uncertain or persist, spread or deteriorate further, we could experience a material impact on our business, financial condition, results of operations or cash flows. 
+
+Our gross margins are subject to fluctuations due to many factors.
+
+Our gross margins may fluctuate due to many factors, including: 
+
+•    
+
+Vertical market pricing mix
+
+•    
+
+Changes in the mix of our prototyping and production-based business
+
+•    
+
+Competitive pricing dynamics and customer mix
+
+•    
+
+Various manufacturing cost variables including product yields, wafer prices, package and assembly costs, provisions for excess and obsolete inventory, and absorption of manufacturing overhead
+
+Additionally, since the majority of our sales are booked and shipped through our distributors within the same quarter, forecasting our gross margins is difficult.
+
+Our failure to compete successfully in the highly competitive semiconductor industry would adversely affect our financial results and business prospects.
+
+The semiconductor industry, including the PLD market, is intensely competitive. Our ability to compete successfully in the semiconductor industry depends on our ability to provide our customers with solutions providing greater value than those offered by competing programmable logic vendors, such as Xilinx and Lattice, and other semiconductor companies that indirectly compete with us. Because we develop PLDs for applications that are presently served by ASIC, ASSP, FPGA, CPLD, digital signal processing (“DSP”), and microprocessor/microcontroller vendors, we compete against these vendors. 
+
+To the extent that our efforts to compete are not successful, our financial condition and results of operations could be materially adversely affected. Other competitors include manufacturers of:
+
+•    
+
+high-density programmable logic products characterized by FPGA-type architectures
+
+•    
+
+high-volume and low-cost FPGAs as programmable replacements for ASICs and ASSPs
+
+•    
+
+ASICs and ASSPs with incremental amounts of embedded programmable logic
+
+•    
+
+high-speed, low-density CPLDs
+
+•    
+
+high-performance DSP devices
+
+•    
+
+products with embedded multi-gigabit transceivers
+
+•    
+
+other new or emerging programmable logic products
+
+Many of these competitors have substantially more financial, technical, and marketing resources than we do and have well-established market positions and solutions that have proven technically feasible and economically competitive over several decades. We may be unable to displace these vendors in the targeted applications and densities. Several companies have introduced products that compete with ours or have announced their intention to sell PLD products. The benefits of 
+
+16
+
+programmable logic have attracted a number of competitors to this segment. We recognize that different applications require different programmable technologies, and we are developing architectures, processes and products to meet these varying customer needs. Recognizing the increasing importance of standard software solutions, we have developed common software design tools that support the full range of our IC products. We believe that automation and ease of design are significant competitive factors in this segment.
+
+The highly competitive environment of the semiconductor industry and the high costs associated with manufacturing technologies and developing marketable products have resulted in significant consolidation in the industry and are likely to lead to further consolidation in the future. We recently acquired all of the outstanding equity of Avalon Microelectronics, Inc., a leading provider of FPGA-based Optical Transport Network solutions. We may continue to pursue business combination opportunities to improve our market share and the applications and products we can market. However, we may be outbid for the best assets. We also may become a target for a company looking to improve its competitive position. Such an occurrence may take place at any time with consequences that may not be predictable and that could have a materially adverse effect on our results of operations and financial condition. 
+
+A downturn in the communications equipment end market could cause a reduction in demand for our products and limit our ability to maintain revenue levels and operating results.
+
+Approximately 
+44%
+ of our net sales for 2010 was derived from customers participating in the telecom and wireless vertical market. In the past, a general weakening in demand for programmable logic products from customers in the communications end market has adversely affected our revenue. Any deterioration in the communication end market or reduction in capital spending to support this end market could lead to a reduction in demand for our products and could adversely affect our revenue and results of operations.
+
+The length of our design-in and sales cycles could affect our ability to forecast future sales.
+
+Our sales depend on our products being designed into end customers' products, and on those products being produced in volume. Our products are very complex, and the time from design-in to volume production ranges from six months to three years or more. From initial product design-in to volume production, many factors can affect the timing and/or volume of our sales. These factors include, but are not limited to, changes in the competitive position of our technology, the competitiveness of our end customers' products in the markets they serve, our customers' financial stability, end customer program delays and cancellations, and our ability to ship products according to customer schedules. 
+
+Our business is characterized by a general decline in semiconductor product selling prices that may materially and adversely affect our profitability.
+
+The selling prices of our products have decreased over time. We have offset the selling price decreases by reducing manufacturing costs, improving yields, and increasing unit sales. However, our ongoing efforts may not be successful or may not keep pace with the anticipated, continued decline in product selling prices, which could ultimately reduce revenues and gross margins. 
+
+Because we depend on international sales for a majority of our total sales, we may be subject to political, economic, and other conditions that could increase our operating expenses and disrupt our business.
+
+Our operations outside of the United States are subject to risks that are inherent in conducting business under non-U.S. laws, regulations and customs. During 
+2010
+, sales outside of the U.S. and Canada constituted approximately 
+81%
+ of our net sales, and we expect that international sales will continue to account for a significant portion of our net sales. Risks related to our foreign operations include: 
+
+•    
+
+Unfavorable economic, market, political, and social conditions in a specific country or region
+
+•    
+
+Fluctuation in foreign currency exchange rates
+
+•    
+
+Adverse changes in tax laws
+
+•    
+
+Increased freight costs
+
+•    
+
+Interruptions in air transportation
+
+•    
+
+Reduced protection for intellectual property rights in some countries
+
+•    
+
+Longer receivable collection periods
+
+•    
+
+Natural or man-made disasters in the countries or regions where we sell our products
+
+•    
+
+Different labor regulations
+
+17
+
+Our business must comply with a variety of foreign laws and take risks associated with legislation and regulations for importing and exporting semiconductor products. In the future, the United States or other countries may impose quotas, duties, tariffs, taxes, or other charges, restrictions, or trade barriers for the import or export of our products. 
+
+We rely heavily on distributors to generate a significant portion of our sales and fulfill our customer orders. The failure of our distributors to perform as expected could materially reduce our future sales.
+
+Worldwide sales through distributors accounted for 
+81%
+ of our net sales during 
+2010
+. We rely on many distributors to help us create end customer demand, provide technical support and other value-added services to end customers, fill customer orders, and stock our products. Our contracts with our distributors may be terminated by either party upon notice. 
+
+Our distributors are located all over the world and are of various sizes and financial conditions. Lower sales, lower earnings, debt downgrades, the inability to access capital markets, and higher interest rates could potentially affect our distributors' operations.
+
+We are highly dependent on Arrow Electronics, Inc. including its affiliates (“Arrow”), in many locations across the world, particularly in North America.
+
+During 
+2010
+, Arrow accounted for approximately 
+46%
+ of net sales on a worldwide basis, while our next-largest distributor, Macnica, Inc. including its affiliates (“Macnica”), accounted for approximately 
+20%
+ of net sales. As of 
+December 31, 2010
+, accounts receivable from Arrow and Macnica individually accounted for 
+18%
+ and 
+51%
+, respectively, of our total accounts receivable. 
+
+Our ability to add or replace distributors is limited.
+
+Our distributors are contracted by Altera to perform two primary, yet distinct, functions that are difficult to replace: 
+
+•    
+
+Distributors provide logistics support, such as order entry, credit, forecasting, inventory management, and shipment of product, to end customers. The process of integrating systems to allow for electronic data interchange is complex and can be time consuming.
+
+•    
+
+Distributors create demand for our products at the engineering level. This mandates the training of an extended distributor sales force, as well as hiring and training specialized applications engineers skilled in promoting and servicing products at the engineering level.
+
+In addition, our distributors' expertise in the determination and stocking of acceptable inventory levels may not be easily transferable to a new distributor. Also, end customers may be hesitant to accept the addition or replacement of a distributor. 
+
+We depend entirely on independent subcontractors to supply us with finished silicon wafers. The failure of these subcontractors to satisfy our demand could materially disrupt our business.
+
+Nearly all of our silicon wafers are produced by TSMC in its manufacturing facilities located primarily in Taiwan and the U.S. Silicon wafer production facilities have a fixed capacity that is allocated solely by our vendors and beyond our direct control. We have no formalized long-term supply or allocation commitments from our foundry suppliers. Our operations would be disrupted if TSMC ended its relationship with us and we were unable to arrange a satisfactory and cost-effective alternative to quickly fulfill customer orders. 
+
+To ensure continued wafer supply, we may establish other wafer supply sources as these arrangements become economically advantageous or technically necessary. However, only a few foundry vendors have the capability to manufacture our most advanced products. If we engage alternative supply sources, we may encounter start-up difficulties and incur additional costs. In addition, shipments could be significantly delayed while these sources are qualified for volume production. 
+
+Furthermore, because we rely on third-party foundries, we have little or no direct control over production costs, delivery schedules, and wafer quality. We also face increased exposure to potential misappropriation of our intellectual property. 
+
+Wafer shortages and/or increased wafer and assembly material costs could lower our gross margins, reduce our sales, or otherwise materially disrupt our business.
+
+If market demand for silicon wafers or assembly material suddenly exceeds market supply, our supply of silicon wafers or assembly material could quickly become limited. A shortage in manufacturing capacity could hinder our ability to meet product 
+
+18
+
+demand. Moreover, silicon wafers constitute more than half of our product cost. If we are unable to purchase wafers at favorable prices, our gross margins will be adversely affected. 
+
+Product manufacturing is complex, and our foundries may not achieve the necessary yields or product reliability that our business requires.
+
+Manufacturing our products is a highly complex and precise process, requiring production in a tightly controlled environment. We depend not only on sufficient foundry manufacturing capacity and wafer prices, but also good production yields (the number of good die per wafer) and timely wafer delivery to meet customer demand and maintain profit margins. Wafer production yields depend on a wide variety of factors including the level of contaminants in the manufacturing environment, impurities in the materials used, and the performance of personnel and equipment. As a result, we may experience problems with achieving acceptable production yields and timely delivery from our foundry vendor. 
+
+Difficulties in production yields can often occur when we begin new product production, when we transition to new processes, or when our principal wafer supplier, TSMC, moves production of a product from one manufacturing plant to another, or manufactures the same product at multiple factories. As a result of manufacturing defects, TSMC has also occasionally scrapped wafers, resulting in longer manufacturing lead times. Further, production throughput times vary considerably among the various factories used by our wafer suppliers, and we may occasionally experience production delays. These difficulties and delays can potentially cause significantly higher costs and lower product availability.
+
+We depend on independent subcontractors, located in Asia, to assemble, test, and ship our semiconductor products. The failure of these subcontractors to satisfy our demand could materially disrupt our business.
+
+Because we rely on independent subcontractors to assemble, test, and ship our semiconductor products and to provide package piece parts, we cannot directly control our product delivery schedules or quality levels. We are dependent upon sufficient subcontractor assembly and test capacities, both in raw materials and services, to meet the demand for our own products. Our future success also depends on the financial viability of our independent subcontractors. If market demand for subcontractor material and services exceeds available supply or if the subcontractors' capital structures weaken, we may experience product shortages, quality assurance problems, and/or increased manufacturing costs. 
+
+Conditions outside the control of our independent subcontractors and distributors may impact their business operations and thereby adversely interrupt our manufacturing and sales processes.
+
+The economic, market, social, and political situations in countries where certain independent subcontractors and distributors are located are unpredictable, can be volatile, and can have a significant impact on our business because we may be unable to obtain or distribute product in a timely manner. Market and political conditions, including currency fluctuation, terrorism, political strife, war, labor disruption, and other factors, including natural or man-made disasters, adverse changes in tax laws, tariff, import or export quotas, power and water shortages, or interruption in air transportation, in areas where our independent subcontractors and distributors are located also could have a severe negative impact on our operating capabilities. 
+
+Our failure to define, develop, and manufacture technologically advanced products would adversely affect the success and growth of our company.
+
+We operate in a dynamic market characterized by rapid technological change. Our products are manufactured using a highly complex and precise process, requiring production in a tightly controlled environment. Our current product development efforts focus on developing new PLDs, related development software and hardware, and advanced semiconductor wafer fabrication processes. Our development efforts may impact the timely introduction of competitive new products or product enhancements. Additionally, we may not be successful in developing new products or using and converting established products to new and more advanced process technologies. For example, our current generation product families, the Stratix V (including E, GX, GS and GT) families, are manufactured on a 28-nanometer process technology, but our next-generation product families will be manufactured on smaller circuit geometries that we have not used before. The use of advanced process technology has technological risks and start-up difficulties that can adversely affect research and development spending, yields, product costs, and product delivery timeliness. 
+
+Any prolonged disruption to our global communications infrastructure could impair our ability to plan factory activity and respond to customer demand.
+
+Demand for our products is highly volatile, especially at the detailed ordering code level. To achieve short delivery lead times and superior levels of customer service while maintaining low levels of inventory, we constantly adjust our manufacturing 
+
+19
+
+subcontractors' production schedules. We develop and adjust these schedules based on end customer demand as communicated by our distributors and based on our inventory levels, manufacturing cycle times, component lead times, and projected production yields. We combine and distribute all of this information electronically over a complex global communications network. Our ability to estimate demand and to adjust our production schedules is highly dependent on this network; we have no manual back-up. A prolonged disruption or service failure in a portion of this network would impair our ability to plan factory activity and respond to demand. 
+
+Product quality problems could lead to reduced revenue, gross margins, and net income.
+
+We produce highly complex hardware and software products that incorporate leading-edge technology. Our pre-shipment testing programs may not detect all defects. Because our product warranties against materials and workmanship defects and non-conformance to our specifications are for varying lengths of time, we have occasionally been required to replace components or refund the purchase price paid due to product defects. If the costs for customer or warranty claims increase significantly compared with our historical experience, our revenue, gross margins, and net income may be adversely affected. For example, if we cannot fix a product defect in a timely manner, we may incur product reengineering expenses, increased inventory costs, or damage to our reputation, any of which could materially affect our revenue, gross margins, and net income. 
+
+We may be subject to product liability claims.
+
+Our devices are used in automotive, military, aerospace, avionics, medical equipment, and other systems where system failure could cause damage to property or people. We may receive product liability claims if our devices cause system failures. Based on our historical experience, we believe that the risk of exposure to product liability claims is currently low, but could be higher if both the sales volume in these applications and the frequency of system failures caused by our devices increases. 
+
+Our business is subject to the risks of earthquakes and other catastrophic events.
+
+Our corporate headquarters in San Jose, California is located near major earthquake faults. Some of our international facilities and those of our key suppliers, including TSMC which produces nearly all of our silicon wafers, are also located near major earthquake faults. Any catastrophic event, such as an earthquake or other natural disaster, could make it difficult for Altera and our independent subcontractors to meet product design deadlines, maintain our records, pay our suppliers, or manufacture or ship our products. 
+
+As we carry only limited insurance coverage, any incurred liability resulting from uncovered claims could adversely affect our financial condition and operating results.
+
+Our insurance policies may not be adequate to fully offset losses from covered incidents, and we do not have coverage for certain losses. We believe our existing insurance coverage is consistent with common practice and economic and availability considerations. If our insurance coverage is inadequate to protect us against unforeseen catastrophic losses, any uncovered losses could adversely affect our financial condition and operating results. 
+
+Legislative action in the United States could materially and adversely affect us from a tax perspective.
+
+Legislative action may be taken by the U.S. Congress which, if ultimately enacted, would adversely affect our effective tax rate and/or require us to take further action, at potentially significant expense, to seek to preserve our effective tax rate. The current administration and Congress have announced proposals for new U.S. tax legislation that, if adopted, could substantially modify the rules governing the U.S. taxation of certain non-U.S. affiliates. The potential changes include, but are not limited to, curbing the deferral of U.S. taxation of certain foreign earnings and limiting the ability to use foreign tax credits. We cannot predict the outcome of any specific legislative proposals. However, any of these changes could have a material adverse affect on our profitability. 
+
+We may not be able to maintain a competitive worldwide effective corporate tax rate. 
+
+We cannot give any assurance as to what our effective tax rate will be because of, among other things, uncertainty regarding the tax policies of the jurisdictions where we operate. As a result, our actual effective tax rate may vary from our expectations and that variance may be material. Additionally, the tax laws of the jurisdictions in which we operate could change in the future, and such changes could cause a material change in our effective tax rate. 
+
+The failure of our intellectual property rights to provide meaningful protection from our competitors could harm our competitive position.
+
+20
+
+We rely on patent, trademark, trade secret, copyright, and mask work laws to protect our intellectual property, proprietary information, and technology rights. As of 
+December 31, 2010
+, we owned more than 
+2,280
+ U.S. patents and 
+260
+ foreign patents, and had more than 
+1,090
+ patents applications pending worldwide. Our patents and patent applications may not protect us from our competition, which may be able to circumvent our patents or develop new patentable technologies that displace our products. In addition, other parties, including our former employees or consultants, may try to disclose, obtain, or use our proprietary information or technologies without our authorization despite our best efforts at prevention. If other companies obtain this information or develop similar information or technologies, they may develop products that compete against ours. 
+
+Moreover, the laws of certain countries where we sell, manufacture, or distribute products may not protect our products and intellectual property rights to the same extent as U.S. laws. Policing the unauthorized use of our products is difficult and costly and could divert the efforts of our technical and management personnel. Even if we spend significant resources and efforts to protect our intellectual property, we may be unable to prevent misappropriation of our technology. If others use our proprietary rights, it could materially harm our business and require expensive litigation to enforce our intellectual property rights. 
+
+Intellectual property infringement claims could adversely affect our ability to manufacture and market our products.
+
+We occasionally receive inquiries about possible patent infringements that may require us to obtain licenses relating to our current or future products. We may be unable to obtain licenses on reasonable terms, or the license agreements may have set durations or may not provide complete protection against infringement claims involving all of our current or future products. If we are sued for patent infringement, the costs and outcome of litigation will be unpredictable and may have a negative impact on our financial results. Intellectual property claims, regardless of their merit, can result in costly litigation and divert the efforts of our technical and management personnel. Legal proceedings are also unpredictable and may be affected by events outside of our control. If our defense against intellectual property infringement claims is unsuccessful, we may be required to pay significant monetary damages or be subject to an injunction against the manufacture and sale of one or more of our product families. Alternatively, we could be required to spend significant resources to develop non-infringing technology, the success of which may be uncertain. Intellectual property litigation may have an adverse effect on our financial position, results of operations, and cash flows.

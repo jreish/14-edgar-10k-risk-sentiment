@@ -1,0 +1,801 @@
+Investing in our common stock involves a high degree of risk. You should carefully consider the risks and uncertainties described below, together with all of the other information in this Annual Report on Form 10-K, including the section titled “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and our consolidated financial statements and related notes, before making a decision to invest in our common stock. The risks and uncertainties described below may not be the only ones we face. If any of the risks actually occurs, our business, financial condition, operating results, cash flows and prospects could be materially and adversely affected. In that event, the market price of our common stock could decline, and you could lose part or all of your investment.
+
+Risk Factor Summary
+
+Our business operations are subject to numerous risks and uncertainties, including those outside of our control, that could cause our business, financial condition or operating results to be harmed, including risks regarding the following:
+
+Business and Operational Factors
+
+•
+our ability to increase our mDAU, ad engagement or other general engagement on our platform;
+
+•
+the loss of advertising revenue;
+
+•
+competition for people to use our platform and for content and data partners;
+
+•
+competition for advertising spend;
+
+•
+our prioritization of the long-term health of our service; 
+
+•
+our prioritization of product innovation;
+
+•
+our ability to maintain and promote our brand;
+
+•
+our ability to hire, retain and motivate highly skilled personnel;
+
+•
+the interoperability of our products and services across third-party services and systems;
+
+•
+the impact of spam and fake accounts on our platform experience;
+
+•
+actual or perceived security breaches or incidents, as well as errors, vulnerabilities or defects in our software and in products of third-party providers;
+
+•
+our international operations;
+
+•
+the impact of the COVID-19 pandemic and responsive measures;
+
+•
+our significant past operating losses and any inability to maintain profitability or accurately predict fluctuations in the future;
+
+•
+our reliance on assumptions and estimates to calculate certain key metrics;
+
+•
+catastrophic events and interruptions by man-made problems;
+
+Intellectual Property and Technology
+
+•
+our ability to scale our existing technology and infrastructure;
+
+•
+our failure to protect our intellectual property rights;
+
+•
+our use of open source software;
+
+•
+current and future litigation related to intellectual property rights;
+
+Regulatory and Legal
+
+•
+complex and evolving U.S. and foreign laws and regulations;
+
+•
+regulatory investigations and adverse settlements;
+
+12
+
+Table of Contents
+
+•
+lawsuits or liability as a result of content published through our products and services;
+
+•
+our ability to maintain an effective system of disclosure controls and internal control over financial reporting;
+
+•
+our ability to obtain adequate insurance coverage or self-insure for potential exposures;
+
+Financial and Transactional Risks
+
+•
+our ability to make and successfully integrate acquisitions and investments or complete divestitures;
+
+•
+our debt obligations;
+
+•
+our tax liabilities;
+
+•
+our ability to realize the anticipated benefits of our share repurchase programs;
+
+•
+our ability to use our net operating loss carryforwards;
+
+•
+the impairment of our goodwill or intangible assets;
+
+Governance Risks and Risks related to Ownership of our Capital Stock
+
+•
+provisions of Delaware law and our certificate of incorporation and bylaws could impair a takeover attempt if deemed undesirable by our board of directors;
+
+•
+the volatility of the trading price of our common stock; and
+
+•
+our note hedge and warrant transactions.
+
+Business and Operational Factors
+
+If we fail to increase our mDAU, ad engagement or other general engagement on our platform, our revenue, business and operating results may be harmed.
+
+Our mDAU and their level of engagement with advertising are critical to our success and our long-term financial performance will continue to be significantly determined by our success in increasing the growth rate of our mDAU as well as the number of ad engagements. Our mDAU growth rate has fluctuated over time, and it may slow or decline in general or in certain geographies or among certain groups. To the extent our mDAU growth rate slows or the absolute number of mDAU declines, our revenue growth will become dependent on our ability to increase levels of engagement on Twitter, generate advertiser demand, and increase revenue growth from third-party publishers’ websites and applications, data licensing and other offerings. We generate a substantial majority of our revenue based upon engagement with the ads that we display. A number of factors have affected and could potentially negatively affect mDAU growth and engagement, including if:
+
+•
+accounts, including influential accounts, such as those of world leaders, government officials, celebrities, athletes, journalists, sports teams, media outlets and brands or certain age demographics, do not contribute unique or engaging content, or engage with other products, services or activities as an alternative to ours;
+
+•
+we are unable to convince people of the value and usefulness of our products and services;
+
+•
+there is a decrease in the perceived quality, usefulness, trustworthiness or relevance of the content generated by people on Twitter or by our content partners;
+
+•
+the actions we take to better foster a healthy conversation or to improve relevancy negatively impact, or are perceived to negatively impact, people’s experiences on the platform;
+
+•
+there are concerns related to communication, privacy, data protection, safety, cybersecurity, spam, manipulation or other hostile or inappropriate usage or other factors, or our health efforts result in the removal of certain accounts;
+
+•
+we remove certain influential accounts from our platform for violations of our terms of service or otherwise;
+
+•
+our content partners terminate their relationships with us or do not renew their agreements on economic or other terms that are favorable to us;
+
+•
+technical or other problems prevent us from delivering our products or services in a rapid and reliable manner or otherwise affect people’s experiences on Twitter;
+
+13
+
+Table of Contents
+
+•
+people have difficulty installing, updating, or otherwise accessing our products or services on mobile devices as a result of actions by us or third parties that we rely on to distribute our products and deliver our services;
+
+•
+changes in our products or services that are mandated by, or that we elect to make to address, laws (such as the General Data Protection Regulation (GDPR) and the California Consumer Protection Act (CCPA)) or legislation, inquiries from legislative bodies, regulatory authorities or litigation (including settlements or consent decrees) adversely affect our products or services;
+
+•
+we fail to provide adequate customer service; or
+
+•
+we do not maintain our brand image or reputation.
+
+We have made certain projections regarding our mDAU growth. If we are unable to achieve these projections, or to generally increase our mDAU or engagement, or if these metrics decline, our products and services could be less attractive to people on Twitter, as well as to advertisers, content partners and platform partners, which would have a material and adverse impact on our business, financial condition and operating results.
+
+We generate the substantial majority of our revenue from advertising. The loss of advertising revenue could harm our business.
+
+The substantial majority of our revenue is currently generated from third parties advertising on Twitter. We generate substantially all of our advertising revenue through the sale of our Promoted Products: Promoted Ads, Twitter Amplify, Follower Ads and Twitter Takeover. As is common in our industry, our advertisers do not have long-term advertising commitments with us. 
+
+In addition, many of our advertisers purchase our advertising services through one of several large advertising agencies' holding companies. To sustain or increase our revenue, we must add new advertisers and encourage existing advertisers to maintain or increase the amount of advertising inventory purchased through our platform and adopt new features and functionalities that we add to our platform. However, advertising agencies and potential new advertisers may view our Promoted Products or any new products or services we offer as experimental and unproven, and we may need to devote additional time and resources to educate them about our products and services. Further, our advertisers’ ability to effectively target their advertising to our audience’s interests may be impacted by the degree to which people on Twitter agree in our settings to certain types of personalization or ad targeting, which could have an impact on our revenue. People that already have accounts may change their choices as a result of changes to our privacy control settings that we have implemented or may implement in the future, and people new to Twitter may choose varied levels of personalization, whether in connection with future changes we make to product privacy settings, regulations, regulatory actions, the customer experience, or otherwise. 
+
+Changes to operating systems’ practices and policies, such as Apple’s changes related to its App Tracking Transparency policy, have reduced and may continue to reduce the quantity and quality of the data and metrics that can be collected or used by us and our partners or harm our ability to target advertising. These limitations have affected and may continue to adversely affect both our and our advertisers' ability to effectively target advertisements and measure their performance, thereby reducing the demand and pricing for our advertising products and harming our business, and have led to us to retool some of our revenue products and adjust our product roadmap in light of Apple’s changes. The impact of these changes on the overall mobile advertising ecosystem, our business, and the developers, partners, and advertisers in the ecosystem are evolving and their ultimate impact is not yet clear. Over time, personalization rates will impact our ability to grow our performance advertising business. Advertisers also may choose to use our free products and services instead of our Promoted Products. Advertisers will not continue to do business with us, or they will reduce the prices they are willing to pay to advertise with us, if we do not deliver ads in an effective manner, or if they do not believe that their investment in advertising with us will generate a competitive return on investment relative to alternatives, including online, mobile and traditional advertising platforms. In addition, competition for advertising is becoming increasingly more intense, and our advertising revenue could be further impacted by escalating competition for digital ad spending.
+
+Our advertising revenue growth is primarily driven by increases in mDAU, increases in ad pricing or number of ads shown and increases in our clickthrough rate. To date, our available advertising inventory has been greater than demand. Our future revenue growth, however, may be limited by available advertising inventory for specific ad types on certain days if we do not increase our mDAU or monetize our larger global audience. Our advertising revenue also could be affected by a number of other factors, including advertiser reaction to content published on our platform or our policies and responses thereto, bugs or other product issues that may impact our ability to effectively help advertisers target ads or share data with our measurement and ad partners. In addition, macroeconomic factors, such as supply chain disruptions and inflation, have caused advertisers to reduce or delay ad spending and may continue to do so. The occurrence of any of these factors could result in a reduction in demand for our ads, which may reduce the prices we receive for our ads, either of which would adversely impact our revenue, business, financial condition and operating results.
+
+14
+
+Table of Contents
+
+If we are unable to compete effectively for people to use our platform, and for content and data partners, our business and operating results could be harmed.
+
+We face intense competition for people to use our platform, and for content and data partners. We compete for our audience against a variety of social networking platforms, messaging companies and media companies, some of which have greater financial resources, larger audiences or more established relationships with advertisers, such as Meta (including Facebook, Instagram and WhatsApp), Alphabet (including Google and YouTube), Microsoft (including LinkedIn), Snapchat, TikTok, Pinterest and Yahoo, or in certain regions WeChat, Kakao and Line. New or existing competitors may draw people towards their products or services and away from ours by introducing new product features, including features similar to those we offer, investing their greater resources in audience acquisition efforts or otherwise developing products or services that audiences choose to engage with rather than Twitter, any of which could decrease mDAU growth or engagement and negatively affect our business.
+
+We also compete with respect to content generated by our content partners and the availability of applications developed by platform partners. We may not establish and maintain relationships with content partners who publish on our platform or platform partners who develop applications that integrate with our platform. Our content and platform partners may choose to publish content on, or develop applications for, other platforms, and if they cease to utilize our platform or decrease their use of our platform, then mDAU, engagement, and advertising revenue may decline.
+
+We believe that our ability to compete effectively for audiences and content partners depends upon many factors both within and beyond our control, including:
+
+•
+the popularity, usefulness, ease of use, performance and reliability of our products and services compared to those of our competitors, as well as our reputation and brand, and our ability to adapt to continuously evolving preferences and expectations of people on Twitter, advertisers, content partners, platform partners and developers;
+
+•
+the amount, quality and timeliness of content generated on our platform, including the relative mix of ads;
+
+•
+the timing and market acceptance of our products and services;
+
+•
+the prominence of our applications in application marketplaces and of our content in search engine results, as well as those of our competitors;
+
+•
+our ability, in and of itself, and in comparison to the ability of our competitors, to develop new products and services and enhancements to existing products and services, and to maintain the reliability and security of our products and services as usage increases globally;
+
+•
+changes mandated by, or that we elect to make to address legislation, regulatory authorities or litigation, including settlements, antitrust matters, consent decrees and privacy, data protection and cybersecurity laws and regulations, some of which may have a disproportionate effect on us compared to our competitors; and
+
+•
+the continued adoption and monetization of our products and services internationally.
+
+Additionally, there have been significant acquisitions and consolidation by and among our actual and potential competitors. We anticipate this trend of consolidation will continue, which will present heightened competitive challenges for our business. Acquisitions by our competitors may result in reduced functionality of our products and services. For example, following Facebook’s acquisition of Instagram, Facebook disabled Instagram’s photo integration with Twitter such that Instagram photos were no longer viewable within Tweets and people are instead re-directed to Instagram to view Instagram photos through a link within a Tweet. As a result, people who use Twitter may be less likely to click on links to Instagram photos in Tweets, and people who use Instagram may be less likely to Tweet or remain active on Twitter. Any similar elimination of integration with Twitter in the future, whether by Facebook or other competitors, may adversely impact our business and operating results. Consolidation may also enable our larger competitors to offer bundled or integrated products that feature alternatives to our platform and provide alternative opportunities for advertisers.
+
+If we are not able to compete effectively for audience, content and platform partners, our mDAU and engagement would decline and our business and operating results would be materially and adversely impacted.
+
+If we are unable to compete effectively for advertising spend, our business and operating results could be harmed.
+
+We face significant competition for advertiser spend. We compete against online and mobile businesses and traditional media outlets, such as television, radio and print, for advertising budgets. In order to grow our revenue and improve our operating results, we must increase our share of spending on advertising relative to our competitors, many of which are larger companies that offer more traditional and widely accepted advertising products. In addition, some of our larger competitors have substantially broader product or service offerings and leverage their relationships based on other products or services to gain additional share of advertising budgets.
+
+15
+
+Table of Contents
+
+We believe that our ability to compete effectively for advertiser spend depends upon many factors both within and beyond our control, including:
+
+•
+the size and composition of our audience relative to those of our competitors;
+
+•
+our ad targeting and measurement capabilities, and those of our competitors;
+
+•
+the timing and market acceptance of our advertising services, and those of our competitors, including our ability to demonstrate to advertisers the value of our advertising services, particularly during the periods in which they are determining their budgets, which may be annually or biannually;
+
+•
+our marketing and selling efforts, and those of our competitors;
+
+•
+the pricing of our advertising services, including the actual or perceived return our advertisers receive from our advertising services, and those of our competitors; and
+
+•
+our reputation and the strength of our brand relative to our competitors, including advertisers' perception of the health and safety of our platform.
+
+If we are not able to compete effectively for advertiser spend, our mDAU and engagement would decline and our business and operating results would be materially and adversely impacted.
+
+Our prioritization of the long-term health of our service may adversely impact our short-term operating results.
+
+We believe that our long-term success depends on our ability to improve the health of the public conversation on Twitter. We have made this one of our top priorities and have focused our efforts on improving the quality of that conversation, including by devoting substantial internal resources to our strategy. These efforts include the reduction of abuse, harassment, spam, manipulation and malicious automation on the platform, as well as a focus on improving information quality (including information around elections and the COVID-19 pandemic), and the health of conversation on Twitter. Some of the health initiatives that we have implemented as part of our ongoing commitment to a healthy public conversation have negatively impacted, and may in the future negatively impact, our publicly reported metrics in a few ways.
+
+First, our health efforts include the removal of accounts pursuant to our terms and services that are abusive, spammy, fake or malicious, and these accounts may have been included in our mDAU, as well as actions taken to detect and challenge potentially automated, spammy or malicious accounts during the sign-up process. If we make a sudden improvement to one of the algorithms we use to detect spammy or suspicious behavior, we may remove a larger number of accounts as a result and impact the year-over-year average of mDAU growth. Additionally, we may remove certain influential accounts for violations of our terms of service and the removal of such accounts has in the past reduced and may in the future reduce our mDAU growth and engagement. 
+
+Second, we are also making active decisions to prioritize certain health-related initiatives over other near-term product improvements that may drive more usage of Twitter as a daily utility. These decisions may not be consistent with the short-term expectations of our advertising customers or investors and may not produce the long-term benefits that we expect, in which case our mDAU growth and engagement, our relationships with advertisers and our business and operating results could be harmed.
+
+Our decision to invest in the long-term health of our service may not produce the long-term benefits that we expect, in which case our mDAU growth and engagement, our relationships with advertisers and our business and operating results would be adversely impacted, and may not be consistent with the expectations of investors, which could have a negative effect on the trading price of our common stock.
+
+16
+
+Table of Contents
+
+Our prioritization of innovations to improve the experience of people using our products and services and performance for advertisers in the long term may adversely impact our short-term operating results and our new or enhanced products, product features or services may fail to increase engagement on our platform or generate revenue.
+
+We encourage employees to quickly develop and help us launch new and innovative features. We focus on improving the experience for people using our products and services, which includes measures to help protect the privacy of people on Twitter. Similarly, we prioritize developing new and improved products and services for advertisers on our platform. We frequently make product, product feature and service decisions that may reduce our short-term operating results if we believe that the decisions are consistent with our goals to improve the long-term experience for people on Twitter and/or performance for advertisers, which we believe will improve our operating results over the long term. For example, in January 2022, we completed the sale of our MoPub business. The sale of MoPub enables us to accelerate the development of our core revenue products and drive growth across key areas of the business, including performance-based advertising, small and medium-sized business (SMB) offerings, and commerce initiatives on Twitter. While the product, engineering, and go-to-market teams associated with MoPub began to shift over to these key focus areas immediately upon the closing of the transaction, it will take time for their work to deliver results. As a result, we do not expect to recoup the full revenue loss associated with the sale of MoPub in 2022, but there are no changes to our long-term goals with an increased focus and additional resources working on increasing our market share within the addressable market for ads on our website and apps. However, we can provide no assurance that we will recoup the revenue impact from MoPub on the expected timeline, or at all.
+
+Our industry is subject to rapid and frequent changes in technology, evolving customer needs and the frequent introduction by our competitors of new and enhanced offerings. We must constantly assess the playing field and determine whether we need to improve or re-allocate resources amongst our existing products and services or create new ones (independently or in conjunction with third parties). Our ability to increase mDAU and engagement, attract content partners, advertisers and platform partners and generate revenue will depend on those decisions. We may introduce significant changes to our existing products and services or develop and introduce new and unproven products and services, including technologies with which we have little or no prior development or operating experience. For example, we are in the early stages of exploring additional potential revenue product opportunities that could, if successful, complement our advertising business in the future, although we do not expect any significant revenue attributable to these opportunities in the near-term and these opportunities may not prove successful at all. We are also continuing our work to increase the stability, performance and scale of our ads platform and our Mobile Application Promotion (MAP) product, and such work will take place over multiple quarters, and any positive revenue impact will be gradual in its impact.
+
+If our decisions to invest in product innovations rather than short-term results do not produce the long-term benefits that we expect, and if our new or enhanced products, product features or services fail to engage people on Twitter, content partners and advertisers, we may fail to attract or retain mDAU or to generate sufficient revenue or operating profit to justify our investments, and our business, financial condition and operating results would be adversely impacted. 
+
+If we are unable to maintain and promote our brand, our business and operating results may be harmed.
+
+We believe that maintaining and promoting our brand is critical to increasing mDAU, content partners and advertiser spend. Maintaining and promoting our brand will depend largely on our ability to continue to provide timely, useful, reliable and innovative products and services with a focus on a positive experience on Twitter, which we may not do successfully. We may introduce new features, products, services or terms of service that people on Twitter, content partners, advertisers or platform partners do not like, which may negatively affect our brand. Additionally, the actions of content partners may affect our brand if people do not have a positive experience using third-party applications or websites integrated with Twitter or that make use of Twitter content. We will also continue to experience media, legislative or regulatory scrutiny of our decisions regarding privacy, data protection, cybersecurity, content (including our removal of certain influential accounts for violations of our terms of service) and other issues, which may adversely affect our reputation and brand. Our brand may also be negatively affected by the actions of people that are hostile or inappropriate to other people, by accounts impersonating other people, by accounts identified as spam, by use or perceived use, directly or indirectly, of our products or services by people (including governments and government-sponsored actors) to disseminate information that may be viewed as misleading (or intended to manipulate people's opinions), by accounts introducing excessive amounts of spam on our platform, by third parties obtaining control over people's accounts, such as the security breach in July 2020 whereby attackers gained control of certain highly-visible accounts, or by other security or cybersecurity incidents. Maintaining and enhancing our brand may require us to make substantial investments and these investments may not achieve the desired goals.
+
+Additionally, we and our executive leadership receive a high degree of media coverage around the world. Negative publicity about our company or executives, including about the quality and reliability of our products or of content shared on our platform, changes to our products, policies and services, our privacy, data protection, policy enforcement and cybersecurity practices (including actions taken or not taken with respect to certain accounts or reports regarding government surveillance or compliance with government legal requests), litigation, regulatory activity, the actions of certain accounts (including actions taken by prominent accounts on our platform or the dissemination of information that may be viewed as misleading or manipulative), even if inaccurate, could adversely affect our reputation. Such negative publicity and reputational harm could adversely affect mDAU and their confidence in and loyalty to our platform and could result in decreased revenue or increased costs to reestablish our brand, which would adversely impact our business, financial condition and operating results.
+
+17
+
+Table of Contents
+
+We depend on highly skilled personnel to grow and operate our business. If we are unable to hire, retain and motivate our personnel, we may not be able to grow effectively.
+
+Our future success and strategy will depend upon our continued ability to identify, hire, develop, motivate and retain highly skilled personnel. We depend on contributions from our employees, and, in particular, our senior management team, to execute efficiently and effectively. We do not have employment agreements other than offer letters with any member of our senior management or other key employees, and we do not maintain key person life insurance for any employee. We also face significant competition for experienced employees, whose talents are in high demand. As a result, we may not be able to retain our existing employees or hire new employees quickly enough to meet our needs.
+
+From time to time, we have also experienced high voluntary attrition, and in those times, the resulting influx of new leaders and other employees has required us to expend time, attention and resources to recruit and retain talent, restructure parts of our organization and train and integrate new employees. In addition, to attract and retain skilled personnel, we have had to offer, and believe we will need to continue to offer, highly competitive compensation packages. We may need to invest significant amounts of cash and equity to attract and retain employees and we may not realize sufficient return on these investments. In addition, changes to U.S. immigration and work authorization laws and regulations can be significantly affected by political forces and levels of economic activity. Our business may be materially and adversely affected if legislative or administrative changes to immigration or visa laws and regulations impair our hiring processes or projects involving personnel who are not citizens of the country where the work is to be performed. If we are not able to effectively attract and retain employees, we may not be able to innovate or execute quickly on our strategy and our ability to achieve our strategic objectives will be adversely impacted, and our business will be harmed.
+
+We also believe that our culture and core values have been, and will continue to be, a key contributor to our success and our ability to foster the innovation, creativity and teamwork we believe we need to support our operations. We allow most of our employees to work where they feel most productive, whether that is working full-time from home, from a Twitter office or splitting their time between their home and a Twitter office. If we fail to effectively manage our hiring needs and successfully integrate our new hires, our efficiency and ability to meet our forecasts, as well as our culture, employee morale, productivity and retention, could suffer, and our business and operating results would be adversely impacted.
+
+Our products, mDAU growth, and engagement depend upon the availability of a variety of third-party services and systems and the effective interoperation with operating systems, networks, devices, web browsers and standards. We do not control all of these systems and cannot guarantee their availability, and we cannot guarantee that third parties will not take actions that harm our products or profitability.
+
+One of the reasons people come to Twitter every day is for real-time information, and our products and the success of our business is dependent upon the ability of people to access the Internet and the proper functioning of the various operating systems, platforms, and services upon which we rely. These systems are provided and controlled by factors outside of our control, including nation-state actors who may suppress or censor our products, and broadband and Internet access marketplace, including incumbent telephone companies, cable companies, mobile communications companies, government-owned service providers, device manufacturers and operating system providers. Any of these actors could take actions that degrade, disrupt or increase the cost of access to our products or services, which would, in turn, negatively impact our business. The adoption or repeal of any laws or regulations that adversely affect the growth, popularity or use of the Internet, including laws or practices limiting Internet neutrality, could decrease the demand for, or the usage of, our products and services, increase our cost of doing business and adversely affect our operating results. For example, access to Twitter is blocked in China and has been intermittently blocked in Turkey in the past.
+
+We also rely on other companies to maintain reliable network systems that provide adequate speed, data capacity and security. We utilize third-party cloud computing services in connection with certain aspects of our business and operations, and any disruption of, or interference with, our use of such cloud services could adversely impact our business and operations. As the Internet continues to experience growth in the number of consumers, frequency of use and amount of data transmitted, the Internet infrastructure that we rely on may be unable to support the demands placed upon it. The failure of the Internet infrastructure that we rely on, even for a short period of time, could undermine our operations and harm our operating results.
+
+Furthermore, these systems, devices or software or services may experience changes, bugs or technical issues that may affect the availability of services or the accessibility of our products. We have experienced, and may in the future experience, service disruptions, outages and other performance problems due to a variety of factors, including infrastructure changes, human or software errors, hardware failure, capacity constraints due to an overwhelming number of people accessing our products and services simultaneously, computer viruses and denial of service or fraud or security attacks. In the past, we have experienced brief service outages during which Twitter.com and Twitter mobile clients were inaccessible as a result, in part, of software misconfigurations. Additionally, although we are investing significantly to improve the capacity, capability and reliability of our infrastructure, we are not currently serving traffic equally through our co-located data centers that support our platform. Accordingly, in the event of a significant issue at the data center supporting most of our network traffic, some of our products and services may become inaccessible to the public or the public may experience difficulties accessing our products and services. Any disruption or failure in our infrastructure could hinder our ability to handle existing or increased traffic on our platform, which could significantly harm our business.
+
+18
+
+Table of Contents
+
+The availability of these services are also dependent upon our relationships with third parties, which may change, including if they change their terms of service or policies that diminish the functionality of our products and services, make it difficult for people to access our content, limit our ability to target or measure the effectiveness of ads, impose fees related to our products or services or give preferential treatment to competitive products or services could adversely affect usage of our products and services. Additionally, some of our mobile carriers have experienced infrastructure issues due to natural disasters, which have caused deliverability errors or poor quality communications with our products. Because a majority of people on Twitter access our products and services through mobile devices, we are particularly dependent on the interoperability of our products and services with mobile devices and operating systems in order to deliver our products and services. We also may not be successful in developing relationships with key participants in the mobile industry or in developing products or services that operate effectively with these operating systems, networks, devices, web browsers and standards. Further, if the number of platforms for which we develop our product expands, it will result in an increase in our operating expenses. In order to deliver high quality products and services, it is important that our products and services work well with a range of operating systems, networks, devices, web browsers and standards that we do not control. In the event that it is difficult for people to access and use our products and services, particularly on their mobile devices, our mDAU growth and engagement could be harmed, and our business and operating results could be adversely impacted. 
+
+Our release of new products, product features and services on mobile devices is dependent upon and can be impacted by digital storefront operators, such as the Apple App Store and Google Play Store review teams, which decide what guidelines applications must operate under and how to enforce such guidelines. Such review processes can be difficult to predict and certain decisions may harm our business. Additionally, changes to operating systems’ practices and policies, such as Apple’s changes related to its App Tracking Transparency policy, have reduced and may continue to reduce the quantity and quality of the data and metrics that can be collected or used by us and our partners or our ability to target advertising. These limitations have affected and may continue to adversely affect both our and our advertisers' ability to effectively target advertisements and measure their performance, thereby reducing the demand and pricing for our advertising products and harming our business.
+
+Spam and fake accounts could diminish the experience on our platform, which could damage our reputation and deter people from using our products and services.
+
+“Spam” on Twitter refers to a range of abusive activities that are prohibited by our terms of service and is generally defined as unsolicited, repeated actions that negatively impact other people with the general goal of drawing attention to a given account, site, product or idea. This includes posting large numbers of unsolicited mentions of an account, duplicate Tweets, malicious automation, misleading links (e.g., to malware or “click-jacking” pages) or other false or misleading content, and aggressively following and unfollowing accounts, adding accounts to lists, sending invitations, Retweeting and liking Tweets to inappropriately attract attention. Our terms of service prohibit the creation of serial or bulk accounts, both manually or using automation, for disruptive or abusive purposes, such as to Tweet spam or to artificially inflate the popularity of accounts seeking to promote themselves on Twitter. Although we continue to invest resources to reduce spam and fake accounts on Twitter, which includes our investments to improve the health of the public conversation on Twitter, we expect spammers will continue to seek ways to act inappropriately on our platform. In addition, we expect that increases in the number of accounts on our platform will result in increased efforts by spammers to misuse our platform. We continuously combat spam and fake accounts, including by suspending or terminating accounts we believe to be spammers and launching algorithmic changes focused on curbing abusive activities. Our actions to combat spam and fake accounts require significant resources and time. If spam and fake accounts increase on Twitter, this could hurt our reputation for delivering relevant content or reduce mDAU growth rate and mDAU engagement and result in continuing operational cost to us.
+
+Our products may contain errors or our security measures may be breached, resulting in the exposure of private information. Our products and services may be subject to attacks that degrade or deny the ability of people to access our products and services. These issues may result in the perception that our products and services are not secure, and people on Twitter and advertisers may curtail or stop using our products and services and our business and operating results could be harmed.
+
+Our products and services involve the storage and transmission of people's and advertisers’ information, and security incidents, including those caused by unintentional errors and those intentionally caused by third parties, may expose us to a risk of loss of this information, litigation, increased security costs and potential liability. We and our third-party service providers experience cyber-attacks of varying degrees on a regular basis. We expect to incur significant costs in an effort to detect and prevent security breaches and other security-related incidents, including those that our third-party suppliers and service providers may suffer, and we may face increased costs in the event of an actual or perceived security breach or other security-related incident. In particular, the COVID-19 pandemic has increased the opportunities available to criminals, as more companies and individuals work online, and as such, the risk of a cybersecurity incident potentially occurring has increased. We cannot provide assurances that our preventative efforts will be successful. If an actual or perceived breach of our security occurs, the market perception of the effectiveness of our security measures could be harmed, people on Twitter and our advertisers may be harmed, lose trust and confidence in us, decrease the use of our products and services or stop using our products and services in their entirety. We may also incur significant legal and financial exposure, including legal claims, higher transaction fees and regulatory fines and penalties. Any of these actions could have a material and adverse effect on our business, reputation and operating results. While our insurance policies include liability coverage for certain of these matters, if we experienced a significant security incident, we could be subject to liability or other damages that exceed our insurance coverage.
+
+19
+
+Table of Contents
+
+Our products and services incorporate complex software and we encourage employees to quickly develop and help us launch new and innovative features. Our software, including any open source software that is incorporated into our code, has contained, and may now or in the future contain, errors, bugs or vulnerabilities. For example, in 2019, we discovered, and took steps to remediate, bugs that primarily affected our legacy MAP product, impacting our ability to target ads and share data with our measurement and ad partners. We also discovered that certain personalization and data settings were not operating as expected. As was the case with these errors, errors in our software code may only be discovered after the product or service has been released. Errors, vulnerabilities, or other design defects within the software on which we rely may result in a negative experience for people on Twitter, partners and advertisers who use our products, delay product introductions or enhancements, result in targeting, measurement, or billing errors, compromise our ability to protect the data of the people on Twitter and/or our intellectual property or lead to reductions in our ability to provide some or all of our services. We have policies and procedures in place to address security as part of our software development, testing, evaluation, and deployment process. Additionally, we have implemented and maintain vulnerability scanning and management policies and procedures, including a bug bounty program. However, these measures may not be sufficient in all cases. Any errors, bugs or vulnerabilities discovered in our code after release could result in damage to our reputation, loss of accounts, loss of content or platform partners, loss of advertisers or advertising revenue or liability for damages or other relief sought in lawsuits, regulatory inquiries or other proceedings, any of which could adversely impact our business and operating results.
+
+Our products operate in conjunction with, and we are dependent upon, third-party products and components across a broad ecosystem. There have been and may continue to be significant attacks on certain third-party providers, and we cannot guarantee that our or our third-party providers’ systems and networks have not been breached or that they do not contain exploitable defects or bugs that could result in a breach of or disruption to our systems and networks or the systems and networks of third parties that support us and our services. If there is a security vulnerability, error, or other bug in one of these third-party products or components and if there is a security exploit targeting them, we could face increased costs, liability claims, reduced revenue, or harm to our reputation or competitive position. The natural sunsetting of third-party products and operating systems that we use requires that our infrastructure teams reallocate time and attention to migration and updates, during which period potential security vulnerabilities could be exploited.
+
+Unauthorized parties may also gain access to Twitter handles and passwords without attacking Twitter directly and, instead, access people’s accounts by using credential information from other recent breaches, using malware on victim machines that are stealing passwords for all sites, or a combination of both. In addition, some of our developers or other partners, such as third-party applications to which people have given permission to Tweet on their behalf, may receive or store information provided by us or by people on Twitter through mobile or web applications integrated with us. If these third parties or developers fail to adopt or adhere to adequate data security practices, or in the event of a breach of their networks, our data or data of people on Twitter may be improperly accessed, used or disclosed. Unauthorized parties have obtained, and may in the future obtain, access to our data, data of people on Twitter or our advertisers’ data. Any systems failure or actual or perceived compromise of our security that results in the unauthorized access to or release of data of people on Twitter or our advertisers’ data, such as credit card data, could significantly limit the adoption of our products and services, as well as harm our reputation and brand and, therefore, our business.
+
+Our security measures may also be breached due to employee error, malfeasance or otherwise. Additionally, outside parties may attempt to fraudulently induce employees, people on Twitter, or advertisers to disclose sensitive information in order to gain access to our data, data of people on Twitter or advertisers’ data, or may otherwise obtain access to such data or accounts. Since people on Twitter and our advertisers may use Twitter to establish and maintain online identities, unauthorized communications from Twitter accounts that have been compromised may damage their personal security, reputations and brands as well as our reputation and brand. Because the techniques used to obtain unauthorized access, disable or degrade service or sabotage systems change frequently and often are not recognized until launched against a target, we may be unable to anticipate these techniques or to implement adequate preventative measures.
+
+For example, in July 2020, we became aware of what we believe to be a coordinated social engineering attack by people who successfully targeted one or more of our employees with access to internal systems and tools. The attackers used this access to target a small group of accounts (130) and to gain control of a subset of these accounts and send Tweets from those accounts and access non-public information relating to at least some of those accounts. This security breach may have harmed the people and accounts affected by it. It may also impact the market perception of the effectiveness of our security measures, and people may lose trust and confidence in us, decrease the use of our products and services or stop using our products and services in their entirety. It may also result in damage to our reputation, loss of accounts, loss of content or platform partners, loss of advertisers or advertising revenue, or legal and financial exposure, including legal claims, regulatory inquiries or other proceedings. Any of these effects could have a material and adverse impact on our business, reputation and operating results.
+
+20
+
+Table of Contents
+
+Our international operations are subject to increased challenges and risks.
+
+We have offices and employees around the world and our products and services are available in multiple languages. However, our ability to manage our business, monetize our products and services and conduct our operations internationally requires considerable management attention and resources and is subject to the particular challenges of supporting a rapidly growing business in an environment of multiple languages, cultures, customs, legal and regulatory systems, alternative dispute systems and commercial markets. Our international operations have required and will continue to require us to invest significant funds and other resources. Operating internationally subjects us to new risks and may increase risks that we currently face, including risks associated with:
+
+•
+recruiting and retaining talented and capable employees in foreign countries and maintaining our company culture across all geographies;
+
+•
+providing our products and services and operating across a significant distance, in different languages and among different cultures, including the potential need to modify our products, services, content and features to ensure that they are culturally relevant in different countries;
+
+•
+increased competition from largely regional websites, mobile applications and services that provide real-time communications and have strong positions in particular countries, which have expanded and may continue to expand their geographic footprint;
+
+•
+differing and potentially lower levels of mDAU growth, engagement and ad engagement in new and emerging geographies;
+
+•
+different levels of advertiser demand, including fluctuations in advertiser demand due to regional activities, regional economic effects of the COVID-19 pandemic and political upheaval;
+
+•
+greater difficulty in monetizing our products and services, including costs to adapt our products and services in light of the manner in which people access Twitter in such jurisdictions, such as the use of feature phones in certain emerging markets such as India and Pakistan, and challenges related to different levels of Internet access or mobile device adoption in different jurisdictions;
+
+•
+compliance with applicable foreign laws and regulations, including laws and regulations with respect to privacy, data protection, data localization, cybersecurity, taxation, consumer protection, copyright, fake news, hate speech, spam and content, as well as laws regarding the environment and climate change, and the risk of penalties to the people who use our products and services and individual members of management if our practices are deemed to be out of compliance;
+
+•
+actions by governments or others to restrict access to Twitter or censor content on Twitter, such as how domestic Internet service providers in China have blocked access to Twitter and other countries, including Iran, Libya, Pakistan, Turkey, Syria and Nigeria, have intermittently restricted access to Twitter, whether these actions are taken for political reasons, in response to decisions we make regarding governmental requests or content generated by people on Twitter, or otherwise;
+
+•
+actions by governments or others that may result in Twitter being unable or unwilling to continue to operate in a particular country or jurisdiction;
+
+•
+longer payment cycles in some countries;
+
+•
+credit risk and higher levels of payment fraud;
+
+•
+operating in jurisdictions that do not protect intellectual property rights to the same extent as the United States;
+
+•
+compliance with anti-bribery laws including, without limitation, compliance with the Foreign Corrupt Practices Act and the U.K. Bribery Act, including by our business partners;
+
+•
+currency exchange rate fluctuations, as we conduct business in currencies other than U.S. dollars but report our operating results in U.S. dollars and any foreign currency forward contracts into which we enter may not mitigate the impact of exchange rate fluctuations;
+
+•
+foreign exchange controls that might require significant lead time in setting up operations in certain geographic territories and might prevent us from repatriating cash earned outside the United States;
+
+•
+political and economic instability in some countries;
+
+21
+
+Table of Contents
+
+•
+double taxation of our international earnings and potentially adverse tax consequences due to changes in the tax laws of the United States or the foreign jurisdictions in which we operate; and
+
+•
+higher costs of doing business internationally, including increased accounting, travel, infrastructure and legal compliance costs.
+
+If our revenue from our international operations, and particularly from our operations in the countries and regions where we have focused our spending, does not exceed the expense of establishing and maintaining these operations, our business and operating results will suffer. In addition, mDAU may grow more rapidly than revenue in international regions where our monetization of our products and services is not as developed. If we are unable to successfully expand our business, manage the complexity of our global operations or monetize our products and services internationally, it could adversely impact our business, financial condition and operating results.
+
+The COVID-19 pandemic has disrupted and harmed, and may in the future disrupt and harm, our business, financial condition and operating results. We are unable to predict the extent to which it may impact our business, financial condition and operating results and the achievement of our strategic objectives in the future.
+
+Our business, operations and financial performance have been, and may in the future be, negatively impacted by the COVID-19 pandemic and related public health responses, such as travel bans, restrictions, social distancing requirements and shelter-in-place orders. The pandemic and these related responses have caused, and may in the future cause, decreased advertiser demand for our platform, global slowdown of economic activity, disruptions of major events, volatility and disruption of financial markets, and changes in consumer behavior.
+
+Our past results may not be indicative of our future performance, and historical trends in revenue, income (loss) from operations, net income (loss), and net income (loss) per share may differ materially. For example, to the extent the pandemic continues to disrupt economic activity globally, it could adversely affect our business, financial condition and operating results through prolonged decreases in advertising spend, credit deterioration of our customers, depressed economic activity, or declines in capital markets. The impacts of the COVID-19 pandemic, including supply chain constraints, labor shortages and inflation, have caused advertisers in a variety of industries to be cautious in their spending, and in 2021 had a modest negative impact on, and may negatively impact in future periods, our advertising revenue. While the economy is reopening in various parts of the world, some countries and locations are reinstating lockdowns and other restrictions that make a full recovery difficult to predict. We continue to monitor the evolving situation and guidance from international and domestic authorities, including federal, state and local public health authorities, and there may be developments outside our control requiring us to adjust our operating plan.
+
+We have incurred significant operating losses in the past, and we may not be able to maintain profitability or accurately predict fluctuations in our operating results from quarter to quarter.
+
+While we have been profitable on a generally accepted accounting principles in the United States (GAAP) basis at times, our quarterly operating results have fluctuated in the past and will fluctuate in the future. As a result, our past quarterly operating results are not necessarily indicators of future performance. Our operating results in any given quarter have been and can be influenced by numerous factors, many of which we are unable to predict or are outside of our control, including: 
+
+•
+our ability to attract and retain mDAU, advertisers, content partners and platform partners;
+
+•
+the occurrence of planned significant events or changes to the timing of events, such as major sporting events, political elections, or awards shows, or unplanned significant events, such as natural disasters and political revolutions, as well as seasonality which may differ from our expectations;
+
+•
+the impacts of the COVID-19 pandemic and governmental and business actions in response thereto on the global economy;
+
+•
+the pricing of our advertising services or data licensing, and our ability to maintain or improve revenue and margins;
+
+•
+the development and introduction of new products or services, changes in features of existing products or services or de-emphasis or termination of existing products, product features or services;
+
+•
+the actions of our competitors;
+
+•
+increases in research and development, marketing and sales and other operating expenses that we may incur to grow and expand our operations and to remain competitive, including stock-based compensation expense and costs related to our technology infrastructure;
+
+•
+costs related to the acquisition or divestiture of businesses, talent, technologies or intellectual property, including potentially significant amortization costs;
+
+22
+
+Table of Contents
+
+•
+changes as a result of acquisitions or dispositions of assets or businesses;
+
+•
+system failures resulting in the inaccessibility of our products and services;
+
+•
+actual or perceived privacy or cybersecurity breaches or incidents, and the costs associated with remediating any such breaches or incidents;
+
+•
+adverse litigation judgments, settlements or other litigation-related costs, and the fees associated with investigating and defending claims;
+
+•
+changes in the legislative or regulatory environment, including with respect to security, tax, privacy, data protection, or content, or enforcement by government regulators, including fines, orders or consent decrees;
+
+•
+changes in reserves or other non-cash credits or charges, such as establishment or releases of deferred tax assets valuation allowance, impairment charges or purchase accounting adjustments;
+
+•
+changes in our expected estimated useful life of property and equipment and intangible assets;
+
+•
+fluctuations in currency exchange rates and changes in the proportion of our revenue and expenses denominated in foreign currencies;
+
+•
+changes in U.S. generally accepted accounting principles; and
+
+•
+changes in global or regional business or macroeconomic conditions.
+
+In January 2022, we completed the sale of our MoPub business. The sale of MoPub enables us to concentrate more of our efforts on the significant opportunity for performance-based advertising, SMB offerings, and commerce initiatives on Twitter. While the product, engineering, and go-to-market teams associated with MoPub largely began to shift over to these key focus areas immediately upon the closing of the transaction, it will take time for their work to deliver results. As a result, we do not expect to recoup the full revenue loss associated with the sale of MoPub in 2022, but there are no changes to our long-term goals with an increased focus and additional resources working on increasing our market share within the addressable market for ads on our website and apps. However, we can provide no assurance that we will recoup the revenue impact from MoPub on the expected timeline, or at all.
+
+Given the rapidly evolving markets in which we compete, our historical operating results may not be useful to you in predicting our future operating results. If our revenue growth rate slows, we expect that the seasonality in our business may become more pronounced and may in the future cause our operating results to fluctuate. For example, advertising spending is traditionally seasonally strong in the fourth quarter of each year, and we believe that this seasonality affects our quarterly results, which generally reflect higher sequential advertising revenue growth from the third to fourth quarter compared to sequential advertising revenue growth from the fourth quarter to the subsequent first quarter. Additionally, certain new revenue products or product features may carry higher costs relative to our other products, which may decrease our margins, and we may incur increased costs to scale our operations if mDAU and engagement on our platform increase. If we are unable to generate adequate revenue growth and to manage our expenses, we may incur significant losses in future periods and may not be able to maintain profitability.
+
+23
+
+Table of Contents
+
+We rely on assumptions and estimates to calculate certain of our key metrics, and real or perceived inaccuracies in such metrics may harm our reputation and negatively affect our business.
+
+We calculate our mDAU using internal company data that has not been independently verified. While these numbers are based on what we believe to be reasonable calculations for the applicable period of measurement, there are inherent challenges in measuring mDAU and mDAU engagement. For example, there are a number of false or spam accounts in existence on our platform. We estimate that the average of false or spam accounts during the fourth quarter of 2021 continued to represent fewer than 5% of our mDAU during the quarter. However, this estimate is based on an internal review of a sample of accounts and we apply significant judgment in making this determination. As such, our estimation of false or spam accounts may not accurately represent the actual number of such accounts, and the actual number of false or spam accounts could be higher than we have currently estimated. We are continually seeking to improve our ability to estimate the total number of spam accounts and eliminate them from the calculation of our mDAU, but we otherwise treat multiple accounts held by a single person or organization as multiple accounts for purposes of calculating our mDAU because we permit people and organizations to have more than one account. Additionally, some accounts used by organizations are used by many people within the organization. As such, the calculations of our mDAU may not accurately reflect the actual number of people or organizations using our platform. We regularly review and may adjust our processes for calculating our internal metrics to improve their accuracy. Our measures of mDAU growth and engagement may differ from estimates published by third parties or from similarly-titled metrics of our competitors due to differences in methodology. If advertisers, content or platform partners or investors do not perceive our metrics to be accurate representations of our total accounts or mDAU engagement, or if we discover material inaccuracies in our metrics, our reputation may be harmed and content partners, advertisers and platform partners may be less willing to allocate their budgets or resources to our products and services, which could negatively affect our business and operating results. Further, as our business develops, we may revise or cease reporting metrics if we determine that such metrics are no longer accurate or appropriate measures of our performance. If investors, analysts or customers do not believe our reported measures, such as mDAU, are sufficient or accurately reflect our business, we may receive negative publicity and our operating results may be adversely impacted.
+
+Our business is subject to the risks of earthquakes, fire, power outages, floods and other catastrophic events, and to interruption by man-made problems such as terrorism.
+
+A significant natural disaster, such as the COVID-19 pandemic or an earthquake, fire, flood or significant power outage could have a material adverse impact on our business, operating results, and financial condition. For example, the COVID-19 pandemic led to certain business disruptions, including travel bans and restrictions, shelter-in-place orders and the postponement or cancellation of major events, which adversely affected demand for our advertising products and the economy as a whole, and which may have an adverse effect on our business, financial condition and operating results in the future. We have offices and a significant number of employees in the San Francisco Bay Area, a region known for seismic activity. Additionally, despite any precautions we may take, the occurrence of a natural disaster or other unanticipated problems at our data centers could result in lengthy interruptions in our services. In addition, our employees, offices, and infrastructure have recently been the subject of increased threats by extremists. Acts of terrorism and other geo-political unrest could cause disruptions in our business. All of the aforementioned risks may be further increased if our disaster recovery plans prove to be inadequate. We have implemented a disaster recovery program, which allows us to move production to a back-up data center in the event of a catastrophe. Although this program is functional, we do not currently serve network traffic equally from each data center, so if our primary data center shuts down, there will be a period of time that our products or services, or certain of our products or services, will remain inaccessible or people may experience severe issues accessing our products and services. We do not carry business interruption insurance sufficient to compensate us for the potentially significant losses, including the potential harm to our business that may result from interruptions in our ability to provide our products and services. Any such natural disaster or man-made problem could adversely impact our business, financial condition and operating results.
+
+Intellectual Property and Technology
+
+Our business and operating results may be harmed by our failure to timely and effectively scale and adapt our existing technology and infrastructure.
+
+As accounts generate more content, including photos and videos hosted by Twitter, we may be required to expand and adapt our technology and infrastructure to continue to reliably store, serve and analyze this content. It may become increasingly difficult to maintain and improve the performance of our products and services, especially during peak usage times, as our products and services become more complex and our account traffic increases. In addition, because we lease our data center facilities, we cannot be assured that we will be able to expand our data center infrastructure to meet demand in a timely manner, or on favorable economic terms. If people are unable to access Twitter or we are not able to make information available rapidly on Twitter, people may seek other channels to obtain the information, and may not return to Twitter or use Twitter as often in the future, or at all. This would negatively impact our ability to attract new people to Twitter, content partners and advertisers and increase the frequency of people returning to Twitter. We expect to continue to make significant investments to maintain and improve the capacity, capability and reliability of our infrastructure. To the extent that we do not effectively address capacity constraints, upgrade our systems as needed and continually develop our technology and infrastructure to accommodate actual and anticipated changes in technology, our business and operating results may be harmed.
+
+24
+
+Table of Contents
+
+We continue to scale the capacity of, and enhance the capability and reliability of, our infrastructure to support mDAU growth and increased activity on our platform. We expect that investments and expenses associated with our infrastructure will continue to grow, including the expansion and improvement of our data center operations and related operating costs, additional servers and networking equipment to increase the capacity of our infrastructure, increased utilization of third-party cloud computing and associated costs thereof, increased bandwidth costs and costs to secure our customers’ data. The improvement of our infrastructure requires a significant investment of our management’s time and our financial resources. If we fail to efficiently scale and manage our infrastructure, our business, financial condition and operating results would be adversely impacted.
+
+Our intellectual property rights are valuable, and any inability to protect them could reduce the value of our products, services and brand.
+
+Intellectual property rights are important assets of our business and we seek protection for such rights as appropriate. To establish and protect our trade secrets, trademarks, copyrights, and patents as well as restrictions in confidentiality, license and intellectual property assignment agreements we enter into with our employees, consultants and third parties. Various circumstances and events outside of our control, however, pose threats to our intellectual property rights. We may fail to obtain effective intellectual property protection, effective intellectual property protection may not be available in every country in which our products and services are available, or such laws may provide only limited protection. Also, the efforts we have taken to protect our intellectual property rights may not be sufficient or effective, and any of our intellectual property rights may be challenged, circumvented, infringed or misappropriated which could result in them being narrowed in scope or declared invalid or unenforceable. There can be no assurance our intellectual property rights will be sufficient to protect against others offering products or services that are substantially similar to ours and compete with our business.
+
+We rely on restrictions on the use and disclosure of our trade secrets and other proprietary information contained in agreements we sign with our employees, contractors, and other third parties to limit and control access to and disclosure of our trade secrets and confidential information. These agreements may be breached, or this intellectual property may otherwise be disclosed or become known to our competitors, including through hacking or theft, which could cause us to lose any competitive advantage resulting from these trade secrets and proprietary information.
+
+We are pursuing registration of trademarks and domain names in the United States and in certain jurisdictions outside of the United States. Effective protection of trademarks and domain names is expensive and difficult to maintain, both in terms of application and registration costs as well as the costs of defending and enforcing those rights. We may be required to protect our rights in an increasing number of countries, a process that is expensive and may not be successful or which we may not pursue in every country in which our products and services are distributed or made available.
+
+We are party to numerous agreements that grant licenses to third parties to use our intellectual property. For example, many third parties distribute their content through Twitter, or embed Twitter content in their applications or on their websites, and make use of our trademarks in connection with their services. We have a policy designed to assist third parties in the proper use of our trademarks, and an internal team dedicated to enforcing this policy and protecting our brand. This team routinely reviews reports of improper and unauthorized use of the Twitter trademarks and issues takedown notices or initiates discussions with the third parties to correct the issues. However, there can be no assurance that we will be able to protect against the unauthorized use of our brand or trademarks. If the licensees of our trademarks are not using our trademarks properly and we fail to maintain and enforce our trademark rights, we may limit our ability to protect our trademarks which could result in diminishing the value of our brand or in our trademarks being declared invalid or unenforceable. There is also a risk that one or more of our trademarks could become generic, which could result in such trademark being declared invalid or unenforceable. For example, there is a risk that the word “Tweet” could become so commonly used that it becomes synonymous with any short comment posted publicly on the Internet, and if this happens, we could lose protection of this trademark.
+
+We also seek to obtain patent protection for some of our technology. We may be unable to obtain patent protection for our technologies. Even if patents are issued from our patent applications, which is not certain, our existing patents, and any patents that may be issued in the future, may not provide us with competitive advantages or distinguish our products and services from those of our competitors. In addition, any patents may be contested, circumvented, or found unenforceable or invalid, and we may not be able to prevent third parties from infringing or otherwise violating them. Effective protection of patent rights is expensive and difficult to maintain, both in terms of application and maintenance costs, as well as the costs of defending and enforcing those rights.
+
+25
+
+Table of Contents
+
+Our Innovator’s Patent Agreement, or IPA, also can limit our ability to prevent infringement of our patents. In May 2013, we implemented the IPA, which we enter into with our employees and consultants, including our founders. The IPA, which applies to our current and future patents, allows us to assert our patents defensively. The IPA also allows us to assert our patents offensively with the permission of the inventors of the applicable patent. Under the IPA, an assertion of claims is considered to be for a defensive purpose if the claims are asserted: (i) against an entity that has filed, maintained, threatened or voluntarily participated in a patent infringement lawsuit against us or any people on Twitter, or any of our affiliates, customers, suppliers or distributors; (ii) against an entity that has used its patents offensively against any other party in the past ten years, so long as the entity has not instituted the patent infringement lawsuit defensively in response to a patent litigation threat against the entity; or (iii) otherwise to deter a patent litigation threat against us or people on Twitter, or any of our affiliates, customers, suppliers or distributors. In addition, the IPA provides that the above limitations apply to any future owner or exclusive licensee of any of our patents, which could limit our ability to sell or license our patents to third parties. In this case, while we may be able to claim protection of our intellectual property under other rights (such as trade secrets or contractual obligations with our employees not to disclose or use confidential information), we may be unable to assert our patent rights against third parties that we believe are infringing our patents, even if such third parties are developing products and services that compete with our products and services. For example, in the event that an inventor of one of our patents goes to work for another company and that company uses the inventor’s patented invention to compete with us, we would not be able to assert that patent against such other company unless the assertion of the patent right is for a defensive purpose since it would be unlikely the employee would consent to offensive use of the patent against his or her current employer. In such event, we would need to rely on trade secret protection or the contractual obligation of the inventor to us not to disclose or use our confidential information. In addition, the terms of the IPA could affect our ability to monetize our intellectual property portfolio.
+
+Significant impairments of our intellectual property rights, and limitations on our ability to assert our intellectual property rights against others, could harm our business and our ability to compete.
+
+Also, obtaining, maintaining and enforcing our intellectual property rights is costly and time consuming. Any increase in the unauthorized use of our intellectual property would adversely impact our business, financial condition and operating results.
+
+Many of our products and services contain open source software, and we license some of our software through open source projects, which may pose particular risks to our proprietary software, products, and services in a manner that could adversely impact our business.
+
+We use open source software in our products and services and will use open source software in the future. In addition, we regularly contribute software source code to open source projects under open source licenses or release internal software projects under open source licenses, and anticipate doing so in the future. The terms of many open source licenses to which we are subject have not been interpreted by U.S. or foreign courts, and there is a risk that open source software licenses could be construed in a manner that imposes unanticipated conditions or restrictions on our ability to provide or distribute our products or services. Additionally, under some open source licenses, if we combine our proprietary software with open source software in a certain manner, third parties may claim ownership of, or demand release of, the open source software or derivative works that we developed using such software, which could include our proprietary source code. Such third parties may also seek to enforce the terms of the applicable open source license through litigation which, if successful, could require us to make our proprietary software source code freely available, purchase a costly license or cease offering the implicated products or services unless and until we can re-engineer them to avoid infringement. This re-engineering process could require significant additional research and development resources, and we may not be able to complete it successfully. In addition to risks related to open source license requirements, use of certain open source software may pose greater risks than use of third-party commercial software, since open source licensors generally do not provide warranties or controls on the origin of software. Any of these risks could be difficult to eliminate or manage, and, if not addressed, could adversely impact our business, financial condition and operating results.
+
+26
+
+Table of Contents
+
+We are currently, and expect to be in the future, party to intellectual property rights claims that are expensive and time consuming to defend, and, if resolved adversely, would adversely impact our business, financial condition and operating results.
+
+Companies in the internet, technology and media industries are subject to litigation based on allegations of infringement, misappropriation or other violations of intellectual property rights. Many companies in these industries, including many of our competitors, have substantially larger patent and intellectual property portfolios than we do, which could make us a target for litigation as we may not be able to assert counterclaims against parties that sue us for patent, or other intellectual property infringement. In addition, various “non-practicing entities” that own patents and other intellectual property rights often attempt to assert claims in order to extract value from technology companies. From time to time we receive claims from third parties which allege that we have infringed upon their intellectual property rights. Further, from time to time we may introduce new products, product features and services, including in areas where we currently do not have an offering, which could increase our exposure to patent and other intellectual property claims from competitors and non-practicing entities. In addition, although our standard terms and conditions for our Promoted Products and public APIs do not provide advertisers and platform partners with indemnification for intellectual property claims against them, some of our agreements with advertisers, content partners, platform partners and data partners require us to indemnify them for certain intellectual property claims against them, which could require us to incur considerable costs in defending such claims, and may require us to pay significant damages in the event of an adverse ruling. Such advertisers, content partners, platform partners and data partners may also discontinue use of our products, services and technologies as a result of injunctions or otherwise, which could result in loss of revenue and adversely impact our business.
+
+We presently are involved in a number of intellectual property lawsuits, and as we face increasing competition and develop new products, the number of patent and other intellectual property claims against us may grow. There may be intellectual property or other rights held by others, including issued or pending patents, that cover significant aspects of our products and services, and we cannot be sure that we are not infringing or violating, and have not infringed or violated, any third-party intellectual property rights or that we will not be held to have done so or be accused of doing so in the future. Any claim or litigation alleging that we have infringed or otherwise violated intellectual property or other rights of third parties, with or without merit, and whether or not settled out of court or determined in our favor, could be time-consuming and costly to address and resolve, and could divert the time and attention of our management and technical personnel. Some of our competitors have substantially greater resources than we do and are able to sustain the costs of complex intellectual property litigation to a greater degree and for longer periods of time than we could. The outcome of any litigation is inherently uncertain, and there can be no assurances that favorable final outcomes will be obtained in all cases. In addition, plaintiffs may seek, and we may become subject to, preliminary or provisional rulings in the course of any such litigation, including potential preliminary injunctions requiring us to cease some or all of our operations. We may decide to settle such lawsuits and disputes on terms that are unfavorable to us. Similarly, if any litigation to which we are a party is resolved adversely, we may be subject to an unfavorable judgment that may not be reversed upon appeal. The terms of such a settlement or judgment may require us to cease some or all of our operations or pay substantial amounts to the other party. In addition, we may have to seek a license to continue practices found to be in violation of a third-party’s rights. If we are required, or choose to enter into royalty or licensing arrangements, such arrangements may not be available on reasonable terms, or at all, and may significantly increase our operating costs and expenses. As a result, we may also be required to develop or procure alternative non-infringing technology, which could require significant effort and expense or discontinue use of the technology. An unfavorable resolution of the disputes and litigation referred to above would adversely impact our business, financial condition and operating results.
+
+Regulatory and Legal
+
+Our business is subject to complex and evolving U.S. and foreign laws and regulations. These laws and regulations are subject to change and uncertain interpretation, and could result in claims, changes to our business practices, monetary penalties, increased cost of operations or declines in mDAU growth, mDAU engagement or ad engagement, or otherwise harm our business.
+
+We are subject to a variety of laws and regulations in the United States and abroad that involve matters central to our business, including privacy, data protection, cybersecurity, advertising, rights of publicity, content regulation, intellectual property, competition, protection of minors, consumer protection, provision of online payment services and credit card processing, securities law compliance, and taxation, as well as laws and regulations regarding the environment and climate change. For example, new content regulation laws may affect our ability to operate in certain markets and/or subject us to significant fines or penalties. Compliance with these laws may be onerous and/or inconsistent with our work to serve the public conversation. Many of these laws and regulations are still evolving and being tested in courts and new laws and regulations are being proposed. As a result, it is possible that these laws and regulations may be interpreted and applied in a manner that is inconsistent from country to country and inconsistent with our current policies and practices and in ways that could harm our business, particularly in the new and rapidly evolving industry in which we operate. Additionally, the introduction of new products or services may subject us to additional laws and regulations.
+
+27
+
+Table of Contents
+
+From time to time, governments, regulators and others have expressed concerns about whether our products, services or practices compromise the privacy or data protection rights of the people on Twitter and others. While we strive to comply with applicable laws and regulations relating to privacy, data protection and cybersecurity, our privacy policies and other obligations we may have with respect to privacy, data protection and cybersecurity, the failure or perceived failure to comply may result, and in some cases has resulted, in inquiries and other proceedings or actions against us by governments, regulators or others. A number of proposals have recently been adopted or are currently pending before federal, state and foreign legislative and regulatory bodies that could significantly affect our business. For example, the California Consumer Privacy Act (CCPA) requires, among other things, covered companies to provide disclosures to California consumers and afford such consumers the ability to opt-out of certain sales of personal information. Similar legislation has been proposed or adopted in other states. Additionally, the California Privacy Rights Act (CPRA) created obligations relating to consumer data beginning on January 1, 2022, with implementing regulations expected on or before July 1, 2022, and enforcement beginning July 1, 2023. On March 2, 2021, Virginia enacted the Virginia Consumer Data Protection Act, or CDPA, a comprehensive privacy statute that becomes effective on January 1, 2023, and on June 8, 2021, Colorado enacted the Colorado Privacy Act, or CPA, which takes effect on July 1, 2023. The CDPA and CPA share similarities with the CCPA, CPRA, and legislation proposed in other states. Aspects of the CCPA, the CPRA and these other state laws and regulations, as well as their enforcement, remain unclear, and we may be required to modify our practices in an effort to comply with them. Moreover, foreign data protection, privacy, cybersecurity, and other laws and regulations are often more restrictive or burdensome than those in the United States. For example, the GDPR imposes stringent operational requirements for entities processing personal information and significant penalties for non-compliance, including fines of up to €20 million or 4% of total worldwide revenue, whichever is higher. Additionally, we have historically relied upon a variety of legal bases to transfer certain personal information outside of the European Economic Area (EEA), including the EU-U.S. Privacy Shield Framework, the Swiss-U.S. Privacy Shield Framework, and EU Standard Contractual Clauses (SCCs). These legal bases all have been, and may be, the subject of legal challenges and on July 16, 2020, the Court of Justice of the European Union (CJEU) invalidated the U.S.-EU Privacy Shield framework and imposed additional obligations on companies when relying on the SCCs. The Swiss-U.S. Privacy Shield framework subsequently was invalidated by the Swiss Federal Data Protection and Information Commissioner. These developments may result in different EEA data protection regulators applying differing standards for, or require ad hoc verification of measures taken with respect to, certain data flows. The CJEU’s decision, the European Commission’s issuance of new SCCs in June 2021, the use of which was required in connection with new contracts and new personal data processing operations as of September 27, 2021, continued guidance from the European Commission and European Data Protection Board (EDPB) , and other developments with regard to cross-border data transfers may require us to take additional steps to legitimize impacted personal data transfers, and we may find it necessary or desirable to modify our data handling practices in connection with these or future legal challenges or other developments relating to cross-border data transfers. This could result in additional contractual negotiations and increased costs of compliance and limitations on our customers, vendors, and us. This CJEU decision and related developments, or future legal challenges or other developments, also could result in us being required to implement duplicative, and potentially expensive, information technology infrastructure and business operations in Europe or could limit our ability to collect or process personal information in Europe, and may serve as a basis for our personal data handling practices, or those of our customers and vendors, to be challenged. Moreover, the GDPR and other similar regulations require companies to give specific types of notice and in some cases seek consent from consumers and other data subjects before collecting or using their data for certain purposes, including some marketing activities. In addition to the GDPR, the European Commission has another draft regulation in the approval process that focuses on a person’s right to conduct a private life. The proposed legislation, known as the Regulation of Privacy and Electronic Communications (ePrivacy Regulation), would replace the current ePrivacy Directive. Originally planned to be adopted and implemented at the same time as the GDPR, the ePrivacy Regulation is still being negotiated. Most recently, on February 10, 2021, the Council of the EU agreed on its version of the draft ePrivacy Regulation. If adopted, the earliest date for entry into force is in 2023, with broad potential impacts on the use of internet-based services and tracking technologies, such as cookies. Aspects of the ePrivacy Regulation remain for negotiation between the European Commission and the Council. Any of these changes or other developments with respect to EU data protection law could disrupt our business and otherwise adversely impact our business, financial condition and operating results.
+
+Further, the UK officially left the EU in 2020 (often referred to as Brexit). The full effect of Brexit remains uncertain, but Brexit creates economic and legal uncertainty in the region and could adversely affect the tax, currency, operational, legal and regulatory regimes to which our business is subject, including with respect to privacy and data protection. Brexit may adversely affect our revenues and subject us to new regulatory costs and challenges, in addition to other adverse effects that we are unable effectively to anticipate. The UK has implemented a Data Protection Act, and legislation referred to as the UK GDPR, that substantially implement the GDPR, with penalties for noncompliance of up to the greater of £17.5 million or four percent of worldwide revenues. On June 28, 2021, the European Commission adopted an adequacy decision with respect to the UK, which allows cross-border data transfers from the EEA to the UK for a four-year period, subject to renewal and the potential for earlier modification or termination. Nevertheless, substantial uncertainty remains regarding future regulation of data protection in the UK, and we may face challenges and significant costs and expenses in addressing applicable requirements and making necessary changes to our policies and practices.
+
+28
+
+Table of Contents
+
+Legislative changes in the United States, at both the federal and state level, could impose new obligations in areas such as moderation of content posted on our platform by third parties, including with respect to requests for removal based on claims of copyright. Further, there are various Executive and Congressional efforts to restrict the scope of the protections from legal liability for content moderation decisions and third-party content posted on online platforms that are currently available to online platforms under Section 230 of the Communications Decency Act, and our current protections from liability for content moderation decisions and third-party content posted on our platform in the United States could decrease or change, potentially resulting in increased liability for content moderation decisions and third-party content posted on our platform and higher litigation costs. Additionally, recent amendments to U.S. patent laws may affect the ability of companies, including us, to protect their innovations and defend against claims of patent infringement.
+
+In April 2019, the EU passed the Directive on Copyright in the Digital Single Market (the EU Copyright Directive), which expands the liability of online platforms for third-party content posted on the platform. Each EU member state had two years to implement it, with a deadline of June 7, 2021, though implementation has been delayed in several EU member states. The EU Copyright Directive may increase our costs of operations, our liability for third-party content posted on our platform, and our litigation costs.
+
+Additionally, we have relationships with third parties that perform a variety of functions such as payments processing, tokenization, vaulting, currency conversion, fraud prevention and cybersecurity audits. The laws and regulations related to online payments and other activities of these third parties, including those relating to the processing of data, are complex, subject to change, and vary across different jurisdictions in the United States and globally. As a result, we may be required to spend significant time, effort and expense to comply with applicable laws and regulations. Any failure or claim of our failure to comply, or any failure or claim of failure by the above-mentioned third parties to comply, could increase our costs or could result in liabilities. Additionally, because we accept payment via credit cards, we are subject to global payments industry operating rules and certification requirements governed by the PCI Security Standards Council, including the Payment Card Industry Data Security Standard. Any failure by us to comply with these operating rules and certification requirements also may result in costs and liabilities and may result in us losing our ability to accept certain payment cards. We recently announced new subscription and paid features on Twitter. Depending on how these products and features evolve, we may also be subject to other laws and regulations related to online payments, money transmission, prepaid access, electronic fund transfers or other financial laws or regulations, and we may need to register as a money services business with the U.S. Treasury Department and obtain state money transmitter licenses in the United States and an Electronic Money (E-money) license in the EEA to permit us to conduct certain activities. These licenses and other legal requirements will generally require us to demonstrate compliance with many domestic and foreign laws in these areas, including anti-money laundering, counter-terrorist financing, government sanctions, cybersecurity, privacy, and consumer protection laws, and failure to do so may limit our ability to offer these products and features as they evolve.
+
+The U.S. and foreign laws and regulations described above, as well as any associated inquiries or investigations or any other regulatory actions, may be onerous and costly to comply with and may be inconsistent from jurisdiction to jurisdiction, further increasing the cost of compliance and doing business. Any such costs may delay or impede the development of new products and services, result in negative publicity, increase our operating costs, require significant management time and attention, and subject us to remedies that may result in a loss of mDAU or advertisers and otherwise harm our business, including fines or demands or orders that we modify or cease existing business practices.
+
+We currently allow use of our platform without the collection of extensive personal information. We may experience additional pressure to expand our collection of personal information in order to comply with new and additional legal or regulatory demands or we may independently decide to do so. If we obtain such additional personal information, we may be subject to additional legal or regulatory obligations.
+
+29
+
+Table of Contents
+
+Regulatory investigations and settlements could cause us to incur additional expenses or change our business practices in a manner material and adverse to our business.
+
+From time to time we notify the Irish Data Protection Commission and other regulators of certain personal data breaches and privacy, cybersecurity or data protection issues, and are subject to inquiries and investigations regarding various aspects of our regulatory compliance. We are currently the subject of inquiries by the Irish Data Protection Commission with respect to our compliance with the GDPR. In the past, we have been subject to regulatory investigations and orders, and we expect to continue to be subject to regulatory scrutiny as our business grows and awareness of our brand increases.
+
+In March 2011, to resolve an investigation into various incidents, we entered into a consent order with the FTC that, among other things, required us to establish an information security program designed to protect non-public consumer information and also requires that we obtain biennial independent security assessments. The obligations under the consent order remain in effect until the later of March 2, 2031, or the date 20 years after the date, if any, on which the U.S. government or the FTC files a complaint in federal court alleging any violation of the order. We expect to continue to be the subject of regulatory inquiries, investigations and audits in the future by the FTC and other regulators around the world. Violation of existing or future regulatory orders, settlements or consent decrees could subject us to substantial fines, penalties and costs that would adversely impact our financial condition and operating results. For example, on July 28, 2020, we received a draft complaint from the FTC alleging violations of the 2011 consent order with the FTC and the FTC Act. The allegations relate to our use of phone number and/or email address data provided for safety and security purposes for targeted advertising during periods between 2013 and 2019. We estimate that the range of probable loss in this matter is $150.0 million to $250.0 million. The matter remains unresolved, and there can be no assurance as to the timing or the terms of any final outcome.
+
+It is possible that a regulatory inquiry, investigation or audit could cause us to incur substantial fines and costs, result in reputational harm, prevent us from offering certain products, services, features or functionalities, require us to change our policies or practices, divert management and other resources from our business, or otherwise materially and adversely impact our business, financial condition and operating results.
+
+We may face lawsuits or incur liability as a result of content published or made available through our products and services.
+
+We have faced and will continue to face claims relating to content that is published or made available through our products and services or third-party products or services. In particular, the nature of our business exposes us to claims related to defamation, intellectual property rights, rights of publicity and privacy, illegal content, misinformation, content regulation and personal injury torts. The laws relating to the liability of providers of online products or services for activities of the people who use them remains somewhat unsettled, both within the United States and internationally. For example, there are various Executive and Congressional efforts to restrict the scope of the protections from legal liability for content moderation decisions and third-party content posted on online platforms that are currently available to online platforms under Section 230 of the Communications Decency Act, and our current protections from liability for content moderation decisions and third-party content posted on our platform in the United States could decrease or change, potentially resulting in increased liability for content moderation decisions and third-party content posted on our platform and higher litigation costs. This risk may be enhanced in certain jurisdictions outside the United States where we may be less protected under local laws than we are in the United States. For example, we are subject to legislation in Germany that may impose significant fines for failure to comply with certain content removal and disclosure obligations. Other countries, including Brazil, Turkey, Singapore, India, Australia, and the United Kingdom, have implemented or are considering similar legislation imposing penalties for failure to remove certain types of content. In addition, the public nature of communications on our platform exposes us to risks arising from the creation of impersonation accounts intended to be attributed to people on Twitter or our advertisers. We could incur significant costs investigating and defending these claims. If we incur material costs or liability as a result of these occurrences, our business, financial condition and operating results would be adversely impacted.
+
+If we fail to maintain an effective system of disclosure controls and internal control over financial reporting, our ability to produce timely and accurate financial statements or comply with applicable regulations could be impaired.
+
+As a public company, we are subject to the reporting requirements of the Securities Exchange Act of 1934, as amended, or the Exchange Act, the Sarbanes-Oxley Act of 2002, as amended, or the Sarbanes-Oxley Act, and the listing standards of the New York Stock Exchange. The Sarbanes-Oxley Act requires, among other things, that we maintain effective disclosure controls and procedures and internal control over financial reporting. In order to maintain and improve the effectiveness of our disclosure controls and procedures and internal control over financial reporting, we have expended, and anticipate that we will continue to expend, significant resources, including accounting-related costs and significant management oversight.
+
+Any failure to develop or maintain effective controls, or any difficulties encountered in their implementation or improvement, could cause us to be subject to one or more investigations or enforcement actions by state or federal regulatory agencies, stockholder lawsuits or other adverse actions requiring us to incur defense costs, pay fines, settlements or judgments. Any such failures could also cause investors to lose confidence in our reported financial and other information, which would likely have a negative effect on the trading price of our common stock. In addition, if we are unable to continue to meet these requirements, we may not be able to remain listed on the New York Stock Exchange.
+
+30
+
+Table of Contents
+
+Our inability to obtain insurance at acceptable rates or our failure to adequately reserve for self-insured exposures may negatively impact our business, financial condition and operating results.
+
+We maintain insurance coverage, but these policies do not cover all of our potential losses, costs, or liabilities. Our ability to purchase and maintain insurance policies for various aspects of our business may be affected by conditions in the insurance market or other factors over which we have no control. Costs and premiums for insurance have increased over time, and insurance coverage for all types of risk is becoming more restrictive, and, in many cases, subject to higher deductibles or retentions. It has and may continue to become more difficult to maintain insurance coverage at historic levels, and at reasonable costs. Accordingly, we may determine that we cannot obtain insurance at acceptable rates, or at all. In some cases, we have chosen, and may in the future choose, to forego or limit our purchase of insurance for certain business risks, electing instead to self-insure for all or a portion of potential liabilities. We record reserves for potential liability based on historical experience. However, if a significant loss, judgment, claim or other event is not covered by insurance or exceeds our self-insurance reserves, the loss and related expenses could harm our business, financial condition and operating results.
+
+Financial and Transactional Risks
+
+Acquisitions, divestitures and investments could disrupt our business and harm our financial condition and operating results.
+
+Our success will depend, in part, on our ability to expand our products, product features and services, and grow our business in response to changing technologies, demands of people on Twitter and our advertisers and competitive pressures. In some circumstances, we may determine to do so through the acquisition of complementary businesses and technologies rather than through internal development. The identification of suitable acquisition candidates can be difficult, time-consuming and costly, and we may not be able to successfully complete identified acquisitions. The risks we face in connection with acquisitions include:
+
+•
+diversion of management time and focus from operating our business to addressing acquisition integration challenges;
+
+•
+retention of key employees from the acquired company;
+
+•
+cultural challenges associated with integrating employees from the acquired company into our organization;
+
+•
+integration of the acquired company’s accounting, management information, human resources and other administrative systems and processes;
+
+•
+the need to implement or improve controls, procedures, and policies at a business that prior to the acquisition may have lacked effective controls, procedures and policies;
+
+•
+liability for activities of the acquired company before the acquisition, including intellectual property infringement claims, violations of laws, commercial disputes, tax liabilities and other known and unknown liabilities;
+
+•
+unanticipated write-offs or charges; and
+
+•
+litigation or other claims in connection with the acquired company, including claims from terminated employees, former stockholders or other third parties.
+
+Our failure to address these risks or other problems encountered in connection with our past or future acquisitions and investments could cause us to fail to realize the anticipated benefits of these acquisitions or investments, cause us to incur unanticipated liabilities, and harm our business generally. Future acquisitions could also result in dilutive issuances of our equity securities, the incurrence of debt, contingent liabilities, amortization expenses, incremental operating expenses or the impairment of assets, any of which could adversely impact our financial condition and operating results.
+
+We also make investments in privately-held companies in furtherance of our strategic objectives. Many of the instruments in which we invest are non-marketable at the time of our initial investment. We may not realize a return and may recognize a loss on such investments.
+
+31
+
+Table of Contents
+
+In certain cases, we have also divested or stopped investing in certain businesses or products, including products that we acquired, and we may continue to do so. For example, in January 2022, we completed the sale of our MoPub business. The sale of a business or product line may require us to restructure operations and/or terminate employees, and could expose us to unanticipated ongoing obligations and liabilities, including as a result of our indemnification obligations. Additionally, such transactions could disrupt our customer, supplier and/or employee relationships and divert management and our employees’ time and attention. During the pendency of a divestiture, we may be subject to risks related to a decline in the business, loss of employees, customers, or suppliers, and that the transaction may not close, which could have a material and adverse effect on the business to be divested and on us. If a divestiture is not completed for any reason, we may not be able to find a buyer on the same terms. If we decide to sell a business or product line, we may experience difficulty separating out portions of or entire businesses, incur additional expenses and potential loss of revenue or experience a negative impact on margins. Ultimately, we may experience harm to our financial results, including loss of revenue, and we may not realize the expected benefits and cost savings of these actions and our operating results may be adversely impacted.
+
+Our debt obligations could adversely affect our financial condition.
+
+In 2018, we issued $1.15 billion in aggregate principal amount of 0.25% convertible senior notes due 2024, or the 2024 Notes. In 2019, we issued $700.0 million in aggregate principal amount of 3.875% senior notes due 2027, or the 2027 Notes. In 2020, we issued $1.0 billion in aggregate principal amount of 0.375% convertible senior notes due 2025, or the 2025 Notes. In March 2021, we issued $1.44 billion in aggregate principal amount of 0% convertible senior notes due 2026, or the 2026 Notes. We refer to the 2024 Notes, the 2025 Notes, and the 2026 Notes as the Convertible Notes, and we refer to the Convertible Notes and the 2027 Notes as the Notes. As of December 31, 2021, we had $4.29 billion in aggregate principal amount of Notes outstanding and an undrawn unsecured revolving credit facility providing for loans in the aggregate principal amount of $500.0 million.
+
+Our debt obligations could adversely impact us. For example, these obligations could:
+
+•
+require us to use a substantial portion of our cash flow from operations to pay principal and interest on debt, including the Notes, or to repurchase our Notes when required upon the occurrence of certain change of control events or otherwise pursuant to the terms thereof, which will reduce the amount of cash flow available to fund working capital, capital expenditures, acquisitions, and other business activities;
+
+•
+require us to use cash and/or issue shares of our common stock to settle any conversion obligations of the Convertible Notes;
+
+•
+result in certain of our debt instruments, including the Notes, being accelerated or being deemed to be in default if certain terms of default are triggered, such as applicable cross payment default and/or cross-acceleration provisions;
+
+•
+adversely impact our credit rating, which could increase future borrowing costs;
+
+•
+limit our future ability to raise funds for capital expenditures, strategic acquisitions or business opportunities, and other general corporate requirements;
+
+•
+restrict our ability to create or incur liens and enter into sale-leaseback financing transactions;
+
+•
+increase our vulnerability to adverse economic and industry conditions;
+
+•
+with respect to indebtedness other than the Notes, increase our exposure to interest rate risk from variable rate indebtedness;
+
+•
+dilute our earnings per share as a result of the conversion provisions in the Convertible Notes; and
+
+•
+place us at a competitive disadvantage compared to our less leveraged competitors.
+
+Our ability to meet our payment obligations under our debt instruments depends on our ability to generate significant cash flows in the future. This, to some extent, is subject to market, economic, financial, competitive, legislative, and regulatory factors as well as other factors that are beyond our control. There can be no assurance that our business will generate cash flow from operations, or that additional capital will be available to us, in amounts sufficient to enable us to meet our debt payment obligations and to fund other liquidity needs. Additionally, events and circumstances may occur which would cause us to not be able to satisfy applicable draw-down conditions and utilize our revolving credit facility. If we are unable to generate sufficient cash flows to service our debt payment obligations, we may need to refinance or restructure our debt, sell assets, reduce or delay capital investments, or seek to raise additional capital. If we are unable to implement one or more of these alternatives on commercially reasonable terms or at all, we may be unable to meet our debt payment obligations, which would materially and adversely impact our business, financial condition and operating results.
+
+32
+
+Table of Contents
+
+We may have exposure to greater than anticipated tax liabilities, which could adversely impact our operating results.
+
+Our income tax obligations are based in part on our corporate operating structure, including the manner in which we develop, value, manage, protect and use our intellectual property and the scope of our international operations. We are subject to review and audit by tax authorities in the United States (federal and state), Ireland, and other foreign jurisdictions and the laws in those jurisdictions are subject to interpretation. Tax authorities may disagree with and challenge some of the positions we have taken and any adverse outcome of such an audit could have a negative effect on our financial position and operating results. In addition, our future income taxes could be adversely affected by earnings being lower than anticipated in jurisdictions that have lower statutory tax rates and higher than anticipated in jurisdictions that have higher statutory tax rates, by changes in the valuation of our deferred tax assets and liabilities, or by changes in tax laws, regulations or accounting principles, as well as certain discrete items.
+
+In addition, the Organization for Economic Cooperation and Development (OECD) has published proposals covering a number of issues, including country-by-country reporting, permanent establishment rules, transfer pricing rules, tax treaties and taxation of the digital economy. A significant majority of countries in the OECD's Inclusive Framework have agreed in principle to a proposed solution to address the tax challenges arising from the digitalization of the economy. Future tax reform resulting from these developments may result in changes to long-standing tax principles, which could adversely affect our effective tax rate or result in higher cash tax liabilities. Nearly 140 countries have signed up or agreed to sign up on a plan that would be implemented in 2023, setting a 15% minimum tax rate on corporations and a plan to reallocate part of the profits from the largest and most profitable businesses to countries where they make sales. The OECD's proposed solution envisages new international tax rules and the removal of all Digital Services Taxes (DST). The European Union has also published its proposal for a directive aimed at implementing the OECD rules on a 15% minimum effective tax rate in the European Union Member States. Notwithstanding this, some countries, in the European Union and beyond, continue to operate a DST regime to capture tax revenue on digital services more immediately. Overall, future tax laws may increase our tax obligations in those countries or change the manner in which we operate our business.
+
+We may not realize the anticipated long-term stockholder value of our share repurchase programs and any failure to repurchase our common stock after we have announced our intention to do so may negatively impact our stock price.
+
+In February 2022, we announced that our board of directors authorized the repurchase of up to $4.0 billion of our common stock, replacing our previously authorized $2.0 billion program from 2020, of which approximately $819 million remained. As part of the new program, we entered into a $2.0 billion accelerated share repurchase on February 10, 2022 and may repurchase the remaining $2.0 billion over time.
+
+Under this or any other future share repurchase programs, we may make share repurchases through a variety of methods, including open share market purchases, block transactions or privately negotiated transactions, in accordance with applicable federal securities laws. Future share repurchase programs may have no time limit, may not obligate us to repurchase any specific number of shares and may be suspended at any time at our discretion and without prior notice. The timing and amount of any repurchases, if any, will be subject to liquidity, stock price, market and economic conditions, compliance with applicable legal requirements such as Delaware surplus and solvency tests and other relevant factors. Any failure to repurchase stock after we have announced our intention to do so may negatively impact our reputation and investor confidence in us and may negatively impact our stock price.
+
+The existence of these share repurchase programs could cause our stock price to be higher than it otherwise would be and could potentially reduce the market liquidity for our stock. Although these programs are intended to enhance long-term stockholder value, there is no assurance they will do so because the market price of our common stock may decline below the levels at which we repurchased shares and short-term stock price fluctuations could reduce the effectiveness of the programs.
+
+Repurchasing our common stock will reduce the amount of cash we have available to fund working capital, capital expenditures, strategic acquisitions or business opportunities, and other general corporate requirements, and we may fail to realize the anticipated long-term stockholder value of these share repurchase programs.
+
+33
+
+Table of Contents
+
+Our ability to use our net operating loss carryforwards and certain other tax attributes may be limited.
+
+As of December 31, 2021, we had U.S. federal and state net operating loss carryforwards of $2.39 billion and $1.36 billion, respectively, and we had U.S. federal and state research and development credit carryforwards of $494.8 million and $349.4 million, respectively. A portion of the U.S. net operating loss carryforwards and tax credit carryforwards could be subject to ownership change limitations governed by Section 382 or 383 of the Internal Revenue Code and similar provisions of state law, or other limitations imposed under state law. Any such limitations on the ability to use our net operating loss carryforwards and other tax assets could adversely impact our business, financial condition and operating results.
+
+If our goodwill or intangible assets become impaired, we may be required to record a significant charge to earnings.
+
+Under GAAP, we review our intangible assets for impairment when events or changes in circumstances indicate the carrying value may not be recoverable. Goodwill is required to be tested for impairment at least annually. An adverse change in market conditions or financial results, particularly if such change has the effect of changing one of our critical assumptions or estimates, could result in a change to the estimation of fair value that could result in an impairment charge to our goodwill or intangible assets. Any such material charges may have a material and adverse impact on our operating results.
+
+Governance Risks and Risks related to Ownership of our Capital Stock
+
+Anti-takeover provisions contained in our amended and restated certificate of incorporation and amended and restated bylaws, as well as provisions of Delaware law, could impair a takeover attempt.
+
+Our amended and restated certificate of incorporation, amended and restated bylaws and Delaware law contain provisions which could have the effect of rendering more difficult, delaying, or preventing an acquisition deemed undesirable by our board of directors. Among other things, our amended and restated certificate of incorporation and amended and restated bylaws include provisions:
+
+•
+providing for a classified board of directors whose members serve staggered three-year terms;
+
+•
+authorizing “blank check” preferred stock, which could be issued by our board of directors without stockholder approval and may contain voting, liquidation, dividend and other rights superior to our common stock;
+
+•
+limiting the liability of, and providing indemnification to, our directors and officers;
+
+•
+limiting the ability of our stockholders to call and bring business before special meetings;
+
+•
+requiring advance notice of stockholder proposals for business to be conducted at meetings of our stockholders and for nominations of candidates for election to our board of directors; and
+
+•
+controlling the procedures for the conduct and scheduling of stockholder meetings.
+
+These provisions, alone or together, could delay or prevent hostile takeovers and changes in control or changes in our management, and amendment of our amended and restated certificate of incorporation to change or modify certain of these provisions requires approval of a super-majority of our stockholders, which we may not be able to obtain.
+
+As a Delaware corporation, we are also subject to provisions of Delaware law, including Section 203 of the Delaware General Corporation law, which prevents certain stockholders holding more than 15% of our outstanding common stock from engaging in certain business combinations without approval of the holders of at least two-thirds of our outstanding common stock not held by such 15% or greater stockholder.
+
+Any provision of our amended and restated certificate of incorporation, amended and restated bylaws or Delaware law that has the effect of delaying, preventing or deterring a change in control could limit the opportunity for our stockholders to receive a premium for their shares of our common stock, and could also affect the price that some investors are willing to pay for our common stock.
+
+34
+
+Table of Contents
+
+The market price of our common stock has been and will likely continue to be volatile, and you could lose all or part of your investment.
+
+The market price of our common stock has been and may continue to be highly volatile in response to various factors, some of which are beyond our control. In addition to the factors discussed in this “Risk Factors” section and elsewhere in this report, factors that could cause fluctuations in the market price of our common stock include the following:
+
+•
+price and volume fluctuations in the overall stock market from time to time, including fluctuations due to general economic uncertainty or negative market sentiment, including related to the COVID-19 pandemic;
+
+•
+volatility in the market prices and trading volumes of technology stocks;
+
+•
+changes in operating performance and stock market valuations of other technology companies generally, or those in our industry in particular;
+
+•
+sales of shares of our common stock by us or our stockholders;
+
+•
+rumors and market speculation involving us or other companies in our industry;
+
+•
+changes in the recommendations of securities analysts regarding our common stock, changes in financial estimates by securities analysts who follow our company, or our failure to meet these estimates or the expectations of investors;
+
+•
+the financial or non-financial metric projections we may provide to the public, any changes in those projections or our failure to meet those projections;
+
+•
+announcements by us or our competitors of new products or services;
+
+•
+the public’s reaction to our press releases, other public announcements and filings with the SEC;
+
+•
+actual or anticipated changes in our operating results or fluctuations in our operating results;
+
+•
+actual or anticipated developments in our business, our competitors’ businesses or the competitive landscape generally;
+
+•
+our issuance of shares of our common stock, whether in connection with an acquisition or upon conversion of some or all of our outstanding Convertible Notes;
+
+•
+litigation or regulatory action involving us, our industry or both, or investigations by regulators into our operations or those of our competitors;
+
+•
+developments or disputes concerning our intellectual property or other proprietary rights;
+
+•
+announced or completed acquisitions of businesses or technologies by us or our competitors;
+
+•
+new laws or regulations or new interpretations of existing laws or regulations applicable to our business and our responses thereto;
+
+•
+changes in accounting standards, policies, guidelines, interpretations or principles;
+
+•
+any significant change in our management; and
+
+•
+general economic conditions and slow or negative growth of our markets.
+
+In addition, in the past, following periods of volatility in the overall market and the market price of a particular company’s securities, securities class action litigation has often been instituted against these companies. Any securities litigation can result in substantial costs and a diversion of our management’s attention and resources. We are currently subject to securities litigation and in September 2021, we entered into a binding agreement to settle a shareholder class action lawsuit. The proposed settlement resolves all claims asserted against us and the other named defendants in the shareholder class action lawsuit without any liability or wrongdoing attributed to them personally or to us. Under the terms of the proposed settlement, we paid $809.5 million from cash on hand in the fourth quarter of 2021. The settlement agreement is subject to final approval by the U.S. District Court for the Northern District of California. We may experience more such litigation following any future periods of volatility.
+
+35
+
+Table of Contents
+
+The note hedge and warrant transactions may affect the value of our common stock.
+
+Concurrent with the issuance of the 2024 Notes and 2026 Notes we entered into note hedge transactions with certain financial institutions, which we refer to as the option counterparties. The note hedge transactions are generally expected to reduce the potential dilution upon any conversion of the 2024 Notes and 2026 Notes and/or offset any cash payments we are required to make in excess of the principal amount converted with respect to the 2024 Notes or 2026 Notes as the case may be. We also entered into warrant transactions with the option counterparties. However, the warrant transactions could separately have a dilutive effect to the extent that the market price of our common stock exceeds the applicable strike price of the warrants.
+
+The option counterparties or their respective affiliates may modify their initial hedge positions by entering into or unwinding various derivatives contracts with respect to our common stock and/or purchasing or selling our common stock or other securities of ours in secondary market transactions prior to the maturity of the 2024 Notes and 2026 Notes, as applicable (and are likely to do so during any applicable observation period related to a conversion of the 2024 Notes and 2026 Notes as applicable, or following any repurchase of the 2024 Notes and 2026 Notes, as applicable, by us on any fundamental change repurchase date or otherwise). This activity could cause or avoid an increase or a decrease in the market price of our common stock.
+
+Additionally, we entered into similar note hedge transactions and warrant transactions in connection with the issuance of our 2021 Notes which matured on September 15, 2021. The note hedge transactions entered into in connection with the 2021 Notes expired on September 15, 2021 and the warrant transactions in connection with the 2021 Notes expire over a 60 trading day settlement period commencing 90 days after the maturity of the 2021 Notes and scheduled to end on March 11, 2022. These warrant transactions could also have a dilutive effect to the extent that the market price of our common stock exceeds the strike price of such warrants.

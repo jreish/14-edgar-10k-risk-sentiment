@@ -1,0 +1,645 @@
+” under Item 1A of this Report for a discussion of the risks associated with our dependence on independent foundry subcontractors.
+
+Most of our products are manufactured using complementary metal oxide semiconductor, or CMOS, process technology. Our products are currently fabricated on a variety of processes ranging from 500 nanometers to 28 nanometers. We generally evaluate the benefits of migrating to smaller geometry process technologies based on the benefits in performance, power and/or cost. In 2013, approximately 
+35%
+ of our products were manufactured in 40 nanometers and 
+45%
+ in 65 nanometers. We are designing most new products in 40 nanometers and 28 nanometers, and are beginning to evaluate FinFET technologies. See “
+Risk Factors
+” under Item 1A of this Report for a discussion of the risks associated with transitioning to smaller geometry process technologies.
+
+Assembly and Test
+
+Our products are tested at either the wafer level and/or the packaged finished products level. Our product testing is conducted by independent foundries, and independent test subcontractors. The die are assembled into finished products by independent assembly and package subcontractors. A majority of our test and assembly is performed by the following independent subcontractors:
+
+•
+
+Advanced Semiconductor Engineering (ASE) in Singapore, China and Taiwan (test, assembly and packaging);
+
+•
+
+Siliconware Precision in Taiwan (test, assembly and packaging);
+
+•
+
+United Test and Assembly Center in Singapore, China and Thailand (test, assembly and packaging);
+
+•
+
+Amkor in Korea, Philippines, Taiwan and China (assembly and packaging only); and
+
+•
+
+STATSChipPAC in Singapore, Korea, Malaysia and China (test, assembly and packaging);
+
+See “
+Risk Factors
+” under Item 1A of this Report for a discussion of the risks associated with our dependence on third party assembly and test subcontractors.
+
+8
+
+Table of Contents
+
+Quality Assurance
+
+We consider product reliability from the initial stage of the design cycle through each specific design process, from layout through testing. Our operations and quality engineering teams closely manage the interface between manufacturing and design engineering. We evaluate each assembly and foundry subcontractor. We also participate in quality and reliability monitoring by reviewing electrical and parametric data from our wafer foundry and assembly subcontractors. We closely monitor wafer foundry production to ensure consistent overall quality, reliability and yield levels. All of our principal independent foundries and package assembly facilities are currently ISO 9001 certified, a comprehensive International Standards Organization specified quality system acknowledgment. As part of our total quality program, we received ISO 9001 certification for our Singapore distribution facility.
+
+Environmental Management
+
+We assess the environmental impact of our products to international standards. Our manufacturing subcontractors have registered our manufacturing flow to ISO 14000, the international standard related to environmental management. Lead-free solutions in electronic components and systems are receiving increasing attention within the semiconductor industry. Our products are compliant with the Restriction of Hazardous Substances Directive, or RoHS, the European legislation that restricts the use of a number of substances, including lead, and current European REACH (Regulation, Evaluation and Authorization of Chemicals) laws.
+
+Product Distribution
+
+Due largely to the location of our customers and their fabrication facilities, the majority of our products are shipped internationally to customers through our distribution center in Singapore and a smaller portion domestically via an operations and distribution center in Irvine, California. Net product revenue derived from actual shipments to international destinations, primarily in Asia represented 
+96.4%
+, 
+96.4%
+ and 
+96.5%
+ of our net revenue in 
+2013
+, 
+2012
+ and 
+2011
+, respectively.
+
+Sales and Marketing
+
+Our sales and marketing strategy is to achieve design wins with technology leaders by providing quality, state-of-the-art products, superior engineering execution, and superior sales, field application and engineering support. We market and sell our products in the United States through a direct sales force, distributors and manufacturers’ representatives. The majority of our domestic sales occur through our direct sales force, which is based in offices located in California and throughout the United States. We market and sell our products internationally through regional offices primarily in Asia, Europe and North America, as well as through a network of independent and fulfillment distributors and representatives in Asia, Australia, Europe and North America. We or our customers select these independent entities based on their ability to provide effective field sales, marketing communications and technical support to our customers. All international sales to date have been in U.S. dollars. We present revenue from independent customers by geographic area in Note 12 of Notes to Consolidated Financial Statements, included in Part IV, Item 15 of this Report.
+
+Backlog
+
+Our sales are primarily made through standard purchase orders for delivery of products. We follow industry practice that allows customers to cancel, change or defer orders with limited advance notice prior to shipment. Given this practice, we do not believe that backlog is a reliable indicator of future revenue levels.
+
+Competition
+
+The semiconductor industry in general, and wired and wireless communications markets in particular, are intensely competitive and are characterized by constant innovation, rapid change, rapid cadence through technology standards, short product life cycles and steady price erosion. We believe that the principal factors of competition for integrated circuit providers in general, or their product offerings in particular, include:
+
+9
+
+Table of Contents
+
+• product quality and reputation
+
+• market presence
+
+• product capabilities
+
+• standards compliance
+
+• level of integration
+
+• system cost
+
+• engineering execution and scale
+
+• breadth of intellectual property
+
+• reliability
+
+• customer interface and support
+
+• power efficiency
+
+• time-to-market
+
+• circuit board footprint
+
+• security
+
+We believe that we currently compete favorably with respect to each of these factors.
+
+We compete with a number of major domestic and international suppliers of integrated circuits and related applications, including the following, among others:
+
+Broadband Communications
+
+Mobile and Wireless
+
+Infrastructure and Networking
+
+• Entropic Communications, Inc.
+
+• CSR plc
+
+• Cavium, Inc.
+
+• Intel Corporation
+
+• Intel Corporation
+
+• Freescale Semiconductor,Ltd. 
+
+• Marvell Technology Group Ltd.
+
+• Marvell Technology Group Ltd.
+
+• Intel Corporation
+
+• Mediatek Inc.
+
+• Mediatek Inc.
+
+• Marvell Technology Group Ltd.
+
+• STMicroelectronics NV
+
+• QUALCOMM Incorporated
+
+• PMC-Sierra, Inc.
+
+We also compete with suppliers of system-level and motherboard-level solutions incorporating integrated circuits that are proprietary or sourced from manufacturers other than Broadcom. This competition, along with Moore's law, has resulted and may continue to result in declining average selling prices for our products in certain markets. We also may face competition from newly established competitors, suppliers of products based on new or emerging technologies, and customers that choose to develop their own silicon solutions. We also expect to encounter consolidation in the markets in which we compete.
+
+Some of our competitors operate their own fabrication facilities and have longer operating histories and presence in key markets, greater name recognition, larger customer bases and significantly greater financial, sales and marketing, manufacturing, distribution and other resources than we do. As a result, these competitors may be able to adapt more quickly to new or emerging technologies and changes in customer requirements or devote greater resources to the promotion and sale of their products. Current and potential competitors have established or may establish financial or strategic relationships among themselves or with existing or potential customers, resellers or other third parties, and may refuse to provide us with information necessary to permit the interoperability of our products with theirs. Accordingly, it is possible that new competitors or alliances among competitors could emerge and rapidly acquire significant market share. In addition, competitors may develop technologies that more effectively address our markets with products that offer enhanced features, lower power requirements or lower costs. Increased competition could result in pricing pressures, decreased gross margins and loss of market share and may materially and adversely affect our business, financial condition and results of operations. See “
+Risk Factors
+” under Item 1A of this Report for further discussion of the risks associated with competition.
+
+Seasonality
+
+An increasing number of our products continue to be incorporated into consumer electronic products, which are subject to seasonality and fluctuations in demand, and tend to have stronger sales in the middle of the fiscal year as manufacturers prepare for the major holiday selling seasons.
+
+Intellectual Property
+
+Our success and future product revenue growth depend, in part, on our ability to protect our intellectual property. We rely primarily on patents, copyrights, trademarks and trade secrets, as well as nondisclosure agreements and other methods, to protect our proprietary technologies and processes. However, these may not provide meaningful or adequate protection for our intellectual property.
+
+10
+
+Table of Contents
+
+We currently hold more than 
+9,000
+ U.S. and more than 
+3,850
+ foreign patents (up from more than 
+7,800
+ U.S. and more than 
+3,100
+ foreign patents from the prior year) and have more than 
+9,000
+ additional U.S. and foreign pending patent applications. We believe that no single patent is solely responsible for protecting our products and that the duration of our patents is adequate relative to the expected lives of our products. 
+
+We generally enter into confidentiality agreements with our employees and strategic partners, and typically control access to and distribution of product documentation and other proprietary information. Despite these precautions, it is possible that competitors or other unauthorized third parties may obtain, copy, use or disclose our technologies and processes, develop similar technology independently, or design around our patents. As such, any rights granted under our patents may not provide us with meaningful protection. In addition, we may not be able to successfully enforce our patents against infringing products in every jurisdiction. See “
+Risk Factors
+” under Item 1A of this Report for further discussion of the risks associated with patents and intellectual property.
+
+Some or all of our patents have in the past been licensed and may in the future be licensed to certain of our competitors through cross-license agreements, such as the Qualcomm Agreement. Moreover, because we have participated and continue to participate in developing various industry standards, we may be required to license some of our patents to others, including competitors, who develop products based on those standards.
+
+Companies in and related to the semiconductor industry and the wired and wireless communications markets often aggressively protect and pursue their intellectual property rights. We are currently engaged in litigation and may need to engage in additional litigation to enforce our intellectual property rights or the rights of our customers, to protect our trade secrets, or to determine the validity and scope of proprietary rights of others, including our customers. In addition, we are currently engaged in litigation and may engage in future litigation with parties that claim that we infringed their patents or misappropriated or misused their trade secrets. Such litigation could result in substantial costs and diversion of our resources and could materially and adversely affect our business, financial condition and results of operations. For a detailed description of various outstanding intellectual property litigation matters, see Note 9 of Notes to Consolidated Financial Statements, included in Part IV, Item 15 of this Report.
+
+Employees
+
+As of December 31, 
+2013
+ we had approximately 
+12,550
+ employees, including 
+9,800
+ individuals engaged in research and development, 
+1,000
+ engaged in sales and marketing, 
+750
+ engaged in manufacturing operations, and 
+1,000
+ engaged in general and administrative activities. Although we have works council or employee representatives in certain countries, our U.S. employees are not represented by a labor union.
+
+Additional Information
+
+Investors and others should note that we announce material financial information using our company website (
+www.broadcom.com
+), our investor relations website (
+investors.broadcom.com
+), SEC filings, press releases, public conference calls and webcasts. Information about Broadcom and our business may also be announced by posts on the following social media channels:  
+
+•
+
+B-Connected Blog (
+blog.broadcom.com
+)
+
+•
+
+Broadcom's Twitter feed (
+www.twitter.com/Broadcom
+) 
+
+•
+
+Broadcom's Facebook page (
+www.facebook.com/Broadcom
+)
+
+The information that we post on these social media channels could be deemed to be material information. As a result, we encourage investors, the media, and others interested in Broadcom to review the information that we post on these social media channels. These channels may be updated from time to time on our website. The information on or accessible through our websites and social media channels is not incorporated by reference in this Annual Report on Form 10-K.
+
+11
+
+Table of Contents
+
+
+
+Before deciding to purchase, hold or sell our common stock, you should carefully consider the risks described below in addition to the other information contained in this Report and in our other filings with the SEC, including subsequent reports on Forms 10-Q and 8-K. The risks and uncertainties described below are not the only ones we face. Additional risks and uncertainties not presently known to us or that we currently deem immaterial may also affect our business. If any of these known or unknown risks or uncertainties actually occurs with material adverse effects on Broadcom, our business, financial condition, results of operations and/or liquidity could be seriously harmed. In that event, the market price for our Class A common stock will likely decline, and you may lose all or part of your investment.
+
+Our quarterly operating results may fluctuate significantly.
+
+Our quarterly net revenue and operating results have fluctuated significantly in the past and are likely to continue to vary from quarter to quarter. Variability in the nature of our operating results may be attributed to the factors identified throughout this “Risk Factors” section, many of which may be outside our control, including:
+
+•
+
+changes in economic conditions in the markets we address, including the continuing volatility in the technology sector and semiconductor industry;
+
+•
+
+our dependence on a few significant customers and/or design wins for a substantial portion of our revenue;
+
+•
+
+changes in customer product needs and market acceptance of our products;
+
+•
+
+seasonality in sales of consumer and enterprise products in which our products are incorporated;
+
+•
+
+timing, rescheduling or cancellation of significant customer orders and our ability, as well as the ability of our customers, to manage inventory;
+
+•
+
+competitive pressures and other factors such as the qualification, availability and pricing of competing products and technologies and the resulting effects on sales and pricing of our products;
+
+•
+
+goodwill and other purchased intangible impairment charges;
+
+•
+
+the impact of a significant natural disaster, such as an earthquake, severe weather, tsunami or other flooding, or a nuclear crisis, as well as interruptions or shortages in the supply of utilities such as water and electricity, in a key location such as our corporate headquarters or our Northern California facilities, both of which are located near major earthquake fault lines, in our Singapore distribution center or in a key location of one of our suppliers, foundries or customers;
+
+•
+
+the impact of enterprise system failures or network disruptions, the lack of system redundancies, and the potential failure of our disaster recovery planning to cover various unanticipated occurrences; and
+
+•
+
+the impact of tax examinations.
+
+We depend on a few significant customers for a substantial portion of our revenue.
+
+We derive a substantial portion of our revenue from sales to a relatively small number of customers. Contributions to our net revenue by these customers have increased in the last several years. Sales to our five largest customers represented 
+48.3%
+, 
+46.9%
+ and 
+42.3%
+ of our total net revenue in 
+2013
+, 
+2012
+ and 
+2011
+, respectively. Sales to two significant customers, those representing 10% or more of total net revenue, represented 
+34.6%
+, 
+31.9%
+ and 
+23.1%
+ of our total net revenue in 
+2013
+, 
+2012
+ and 
+2011
+, respectively. We expect that our largest customers will continue to account for a substantial portion of our total net revenue for the foreseeable future. The loss of any significant customer could materially and adversely affect our financial condition and results of operations. Also, as our significant customers become larger relative to our business and the industry, they may be able to leverage pricing pressure through the supply chain, vertical integration or other avenues, thereby adversely affecting our gross margins.
+
+A significant portion of our revenue in any period may also depend on a single product design win with a large customer. As a result, the loss of any such key design win or any significant delay in the ramp of volume production of the customer’s products into which our product is designed could materially and adversely affect our financial 
+
+12
+
+Table of Contents
+
+condition and results of operations. We may not be able to maintain sales to certain of our key customers or continue to secure key design wins for a variety of reasons, including:
+
+•
+
+agreements with our customers typically do not require them to purchase a minimum quantity of our products; and
+
+•
+
+our customers can stop incorporating our products into their own products with limited notice to us and suffer little or no penalty.
+
+In addition, the vast majority of our licensing revenue and related income to date has been derived from the Qualcomm Agreement. From April 2009 through June 30, 2013, we recorded $856 million in income derived from this agreement. The income from the Qualcomm Agreement is non-recurring and terminated in April 2013. It is unlikely that we will be able to enter into additional such arrangements of this magnitude in the future.
+
+The loss of a key customer or design win, a reduction in sales to any key customer, significant delay in our customers’ product development plans, or our inability to attract new significant customers or secure new key design wins could seriously impact our revenue and materially and adversely affect our results of operations.
+
+We face intense competition.
+
+The semiconductor industry and the wired and wireless communications markets are intensely competitive. We expect competition to continue to increase as new markets develop, as industry standards become well known and as other competitors enter our business. We expect to encounter further consolidation in the markets in which we compete.
+
+Some of our competitors have longer operating histories and presences in key markets, greater name recognition, larger customer bases, and significantly greater financial, sales and marketing, manufacturing, distribution, technical and other resources than we do, and in some cases operate their own fabrication facilities. These competitors may be able to adapt more quickly to new or emerging technologies and changes in customer requirements. They may also be able to devote greater resources to the promotion and sale of their products. We also face competition from newly established competitors, suppliers of products, and customers who choose to develop their own semiconductor solutions.
+
+Existing or new competitors may develop technologies that more effectively address our markets with products that offer enhanced features and functionality, lower power requirements, lower cost or greater levels of integration. The trend of increasingly integrated SoCs and chipset solutions in particular could pose a risk to various lines of our business, as customers may opt for a solution that includes functionality that was previously sourced from us on a standalone basis.
+
+Increased competition also has resulted in and is likely to continue to result in increased expenditures on research and development, a decline in average selling prices, reduced gross margins and loss of market share in certain markets. These factors in turn create increased pressure to consolidate. We cannot provide assurance that we will be able to continue to compete successfully against current or new competitors. If we do not compete successfully, we may lose market share in our existing markets and our revenues may fail to increase or may decline.
+
+We manufacture and sell complex products and may be unable to successfully develop and introduce new products.
+
+We expect that a high percentage of our future sales will come from sales of new products. We sell products in markets that are characterized by rapid technological change, evolving industry standards, frequent new product introductions and short product life cycles. The markets for some of these products are new to us and may be immature and/or unpredictable. These markets may not develop into profitable opportunities and we have in the past invested substantial resources in emerging technologies that did not achieve the market acceptance that we had expected. In particular, we have made a significant investment in LTE technology, including the recent acquisition of the LTE related assets of Renesas Electronics Corporation. Failure to ramp LTE products could materially adversely 
+
+13
+
+Table of Contents
+
+affect our results of operations and our long term view of the viability of our mobile and wireless segment. As a result, it is difficult to anticipate our future revenue streams from, or the sustainability of, our new products.
+
+Our industry is dynamic and we are required to devote significant resources to research and development to remain competitive. Such costs increase with the advancement of technologies and manufacturing in smaller geometry processes, which can adversely affect our operating margin. The development of new silicon devices is highly complex, and due to supply chain cross-dependencies and other issues, we may experience delays in completing the development, production and introduction of our new products. We may choose to discontinue one or more products or product development programs to dedicate more resources to other products. The discontinuation of an existing or planned product may adversely affect our relationship with one or more of our customers and/or could cause us to incur an impairment charge.
+
+Our ability to successfully develop and deliver new products will depend on various factors, including our ability to:
+
+•
+
+effectively identify and capitalize upon opportunities in new markets;
+
+•
+
+timely complete and introduce new integrated products;
+
+•
+
+transition our semiconductor products to increasingly smaller line width geometries;
+
+•
+
+obtain sufficient foundry capacity (including at smaller geometry processes) and packaging materials;
+
+•
+
+license any desired third party technology or intellectual property rights; and
+
+•
+
+qualify and obtain industry interoperability certification of our products.
+
+If we are not able to develop and introduce new products in a cost effective and timely manner, we will be unable to attract new customers or to retain our existing customers which would materially and adversely affect our results of operations.
+
+We have experienced hardware and software defects and bugs associated with the introduction of our highly complex products. If any of our products contain defects or bugs, or have reliability, quality, security or compatibility problems, our reputation may be damaged and customers may be reluctant to buy our products. These problems could interrupt or delay sales and shipments of our products to customers. To alleviate these problems, we may have to divert our resources from other development efforts. In addition, these problems could result in claims against us by our customers or others, including possible claims for consequential damages and/or lost profits. As we transition to manufacturing our products in smaller geometry processes, such as 28 nanometers and below, these risks are enhanced.
+
+We may fail to appropriately adjust our operations in response to changes in our strategy or market demand.
+
+Through internal growth and acquisitions, we significantly modified the scope of our operations and workforce in recent years. In response to changes in industry and market conditions, we may from time to time be required to strategically realign our resources. These circumstances could cause the need to implement restructuring actions and a number of other cost saving measures. Our operations are characterized by a high percentage of costs that are fixed or difficult to reduce in the short term, such as research and development expenses related to our highly skilled workforce. 
+
+As a result of our effort to reduce our expenses and better align our resources to areas of strategic focus, we implemented a restructuring plan in the third quarter of 2013. The plan focused primarily on workforce reductions and included employees from our transaction with Renesas Electronics Corporation. We cannot provide assurance that our restructuring efforts will be successful, that future operations will improve or that the completion of the restructuring will not disrupt our operations. 
+
+During other periods, our growth has placed a significant strain on our management personnel, systems and resources. To respond to such periods of increased demand, we are required to expand, train, manage and motivate our workforce, and to upgrade or enhance our existing IT systems. For example, over the next eighteen months, we plan to upgrade our enterprise resource planning system. We may not be successful in implementing new systems, 
+
+14
+
+Table of Contents
+
+which could involve business disruptions, including impeding the shipment of our products. If we are unable to effectively manage expanding operations during growth periods, we may be unable to adjust our business quickly enough to meet competitive challenges or exploit potential market opportunities. 
+
+Any of these circumstances could materially and adversely affect our current or future business.
+
+We are exposed to risks associated with our international operations.
+
+We currently obtain substantially all of our manufacturing, assembly and testing services from suppliers located outside the United States. Products shipped to international destinations, primarily in Asia, represented 
+96.4%
+, 
+96.4%
+ and 
+96.5%
+ of our product revenue in 
+2013
+, 
+2012
+ and 
+2011
+, respectively. Substantially all of our products are shipped through our logistical facilities in Singapore. An increasing portion of our product sales is made through international distributors, which increases our exposure to the risks described below. In addition, we undertake various sales and marketing activities through regional offices in a number of countries. We intend to continue expanding our international business activities and to open other design and operational centers abroad.
+
+International operations are subject to many inherent risks, including but not limited to:
+
+•
+
+political, social and economic instability;
+
+•
+
+exposure to different business practices and legal and compliance standards;
+
+•
+
+continuation of overseas conflicts and the risk of terrorist attacks and resulting heightened security;
+
+•
+
+the imposition of governmental controls and restrictions and unexpected changes in regulatory requirements;
+
+•
+
+nationalization of business and blocking of cash flows;
+
+•
+
+logistical delays or disruptions;
+
+•
+
+changes in taxation and tariffs; and
+
+•
+
+difficulties in staffing and managing international operations.
+
+Our international operations are subject to increasingly complex foreign and U.S. laws and regulations, including but not limited to anti-corruption laws, such as the Foreign Corrupt Practices Act and the UK Bribery Act and equivalent laws in other jurisdictions, antitrust or competition laws, and data privacy laws, among others. Violations of these laws and regulations could result in fines and penalties, criminal sanctions against us, our officers, or our employees, prohibitions on the conduct of our business and on our ability to offer our products and services in one or more countries, and could also materially affect our reputation, our international expansion efforts, our ability to attract and retain employees, our business, and our operating results. Although we have implemented policies, procedures and training designed to ensure compliance with these laws and regulations, there can be no complete assurance that any individual employee, contractor, or agent will not violate our policies. Additionally, the costs of complying with these laws (including the costs of investigations, auditing and monitoring) could also adversely affect our current or future business. 
+
+Economic conditions in our primary overseas markets, particularly in Asia, may negatively impact the demand for our products abroad. Also, all of our international sales to date have been denominated in U.S. dollars. Accordingly, an increase in the value of the U.S. dollar relative to foreign currencies could make our products less competitive in international markets or require us to assume the risk of denominating certain sales in foreign currencies. We anticipate that these factors will impact our business to a greater degree as we further expand our international business activities.
+
+Our business is subject to potential tax liabilities. 
+
+We are subject to income taxes in the United States and various foreign jurisdictions. The amount of income taxes we pay is subject to our interpretation and application of tax laws in jurisdictions in which we file. Changes in current or future laws or regulations, or the imposition of new or changed tax laws or regulations or new related interpretations by taxing authorities in the U.S. or foreign jurisdictions, could adversely affect our results of operations. We are subject to examinations and tax audits. There can be no assurance that the outcomes from these 
+
+15
+
+Table of Contents
+
+audits will not have an adverse effect on our net operating loss and research and development tax credit carryforwards, our financial position, or our operating results.
+
+In certain foreign jurisdictions, we operate under favorable tax incentives. For instance, in Singapore we currently operate under tax incentives, which are effective through March 31, 2014, that reduce our Singapore taxes on substantially all of our operating income in that jurisdiction. Such tax incentives often require us to meet specified employment and investment criteria in such jurisdictions. In a period of tight manufacturing capacity, our ability to meet Singapore content requirements in our products may be more limited, which may have adverse tax consequences. More generally, if any of our tax incentives are terminated, or if we fail to meet the criteria to continue to enjoy such holidays or incentives, our results of operations and our foreign tax provisions may be materially and adversely affected. For periods after March 31, 2014, we expect to utilize our Irish trading company for certain foreign operations, which we believe would result in a similar foreign tax provision as our current Singapore tax incentive. No assurance can be given that there will not be an adverse effect on our future foreign tax provisions and results of operations. 
+
+Our stock price is highly volatile.
+
+The market price of our Class A common stock has fluctuated substantially in the past and is likely to continue to be highly volatile and subject to wide fluctuations. From January 1, 2010 through 
+December 31, 2013
+ our Class A common stock has traded at prices as low as 
+$23.25
+ and as high as 
+$47.39
+ per share. Fluctuations have occurred and may continue to occur in response to various factors, many of which we cannot control.
+
+In addition, the market prices of securities of Internet-related, semiconductor and other technology companies have been and remain volatile. This volatility has significantly affected the market prices of securities of many technology companies for reasons frequently unrelated to the operating performance of the specific companies. If our operating results do not meet the expectations of securities analysts or investors, who may derive their expectations by extrapolating data from recent historical operating results, the market price of our Class A common stock will likely decline. Accordingly, you may not be able to resell your shares of common stock at or above the price you paid. In the past, we, and other companies that have experienced volatility in the market price of their securities, have been the subject of securities class action litigation.
+
+Due to the nature of our compensation programs, most of our executive officers sell shares of our common stock each quarter or otherwise periodically, often pursuant to trading plans established under Rule 10b5-1 of the Securities Exchange Act of 1934, as amended, or the Exchange Act. As a result, sales of shares by our executive officers may not be indicative of their respective opinions of Broadcom’s performance at the time of sale or of our potential future performance. Nonetheless, the market price of our stock may be affected by sales of shares by our executive officers.
+
+Our operating results may be adversely impacted by worldwide economic uncertainties and specific conditions in the markets we address.
+
+We operate primarily in the semiconductor industry, which is cyclical and subject to rapid change and evolving industry standards. From time to time, the semiconductor industry has experienced significant downturns characterized by decreases in product demand, excess customer inventories and accelerated erosion of prices. The semiconductor industry also periodically experiences increased demand and production capacity constraints, which may affect our ability to ship products. An increasing number of our products are being incorporated into consumer electronic products, which are subject to significant seasonality and fluctuations in demand. Economic volatility can cause extreme difficulties for our customers and vendors in accurately forecasting and planning future business activities. This unpredictability could cause our customers to reduce spending on our products and services, which would delay and lengthen sales cycles. Furthermore, during challenging economic times our customers and vendors may face challenges in gaining timely access to sufficient credit, which could impact their ability to make timely payments to us. As a result, we may experience growth patterns that are different than the demand for our customers' products, particularly during periods of high volatility.
+
+16
+
+Table of Contents
+
+We cannot predict the timing, strength or duration of any economic slowdown or recovery or the impact of such events on our customers, our vendors or us. The combination of our lengthy sales cycle coupled with challenging macroeconomic conditions and supply chain cross-dependencies could have a compound impact on our business. The impact of market volatility is not limited to revenue but may also affect our product gross margins and other financial metrics. Any downturn in the semiconductor industry may be severe and prolonged, and any failure of the industry or wired and wireless communications markets to fully recover from downturns could seriously impact our revenue and harm our business, financial condition and results of operations.
+
+We face risks associated with our acquisition strategy.
+
+A key element of our business strategy involves expansion through the acquisition of businesses, assets, products or technologies. The expansion of our business through acquisitions allows us to complement our existing product offerings, expand our market coverage, increase our engineering workforce and/or enhance our technological capabilities. We may not be able to identify or consummate future acquisitions or realize the desired benefit from these acquisitions.
+
+We face a number of challenges associated with our acquisition strategy that could disrupt our ongoing business and distract our management team, including:
+
+•
+
+lower gross margins, revenue and operating income than originally anticipated at the time of acquisition and other financial challenges;
+
+•
+
+delays in the timing and successful integration of an acquired company’s technologies, and/or launch of products;
+
+•
+
+the loss of key personnel;
+
+•
+
+challenges in obtaining necessary transition services; and
+
+•
+
+becoming subject to intellectual property or other litigation.
+
+Acquisitions can result in increased debt or contingent liabilities. While we believe we will have the ability to service any additional debt we may potentially issue in connection with acquisitions, our ability to make principal and interest payments when due depends upon our future performance, which will be subject to general economic conditions, industry cycles, and business and other factors affecting our operations, including the other risk factors described in this section, many of which are beyond our control. Acquisitions can also result in adverse tax consequences, warranty or product liability exposure related to acquired assets, additional stock-based compensation expense, write up of acquired inventory to fair value, and the recording and later amortization of amounts related to certain purchased intangible assets, all of which can adversely affect our reported results on a GAAP basis. Furthermore, we have in the past and may in the future record goodwill and other purchased intangible assets in connection with an acquisition and incur impairment charges. For example, in the three months ended June 30, 2013, we recorded a significant purchased intangible impairment charge in connection with our acquisition of NetLogic. 
+
+We may be required to defend against alleged infringement of intellectual property rights of others and/or may be unable to adequately protect or enforce our own intellectual property rights.
+
+Companies in the semiconductor industry and the wired and wireless communications markets aggressively protect and pursue their intellectual property rights. From time to time, we receive notices from competitors and other operating companies, as well as notices from "non-practicing entities," or NPEs, that claim we have infringed upon, misappropriated or misused other parties’ proprietary rights. We may also be required to indemnify some customers and strategic partners under our agreements if a third party alleges or if a court finds that our products or activities have infringed upon, misappropriated or misused another party’s proprietary rights. We have received requests from certain customers and strategic partners to include increasingly broad indemnification provisions in our agreements with them. Additionally, our products may contain technology provided to us by other parties such as contractors, suppliers or customers. We may have little or no ability to determine in advance whether such technology infringes the intellectual property rights of a third party. Our contractors, suppliers and licensors may not be required to indemnify us in the event that a claim of infringement is asserted against us, or they may be required 
+
+17
+
+Table of Contents
+
+to indemnify us only up to a maximum amount, above which we would be responsible for any further costs or damages. 
+
+Furthermore, our success and future revenue growth will depend, in part, on our ability to protect our intellectual property. It is possible that competitors or other unauthorized third parties may obtain, copy, use or disclose our technologies and processes, or confidential employee, customer or supplier data. Any of our existing or future patents may be challenged, invalidated or circumvented. We engage in litigation to enforce or defend our intellectual property rights, protect our trade secrets, or determine the validity and scope of the proprietary rights of others, including our customers. We also enter into confidentiality agreements with our employees, consultants and strategic partners and control access to and distribution of our technologies, documentation and other proprietary information. Despite these efforts, internal or external parties may attempt to copy, disclose, obtain or use our products, services or technology without our authorization. If we cannot adequately protect our technology, our competitors may be able to offer products similar to ours.
+
+Intellectual property litigation can be expensive, time consuming and distracting to management. An adverse determination in any of these types of disputes could prevent us from manufacturing or selling some of our products or could prevent us from enforcing our intellectual property rights. Settlements can involve royalty or other payments that could reduce our profit margins and adversely affect our financial results. Additionally, identifying unauthorized use of our products and technologies is difficult and time consuming. The initiation of litigation may adversely affect our relationships and agreements with certain customers that have a stake in the outcome of the litigation proceedings. 
+
+We may be unable to attract, retain or motivate key personnel.
+
+Our future success depends on our ability to attract, retain and motivate senior management and qualified technical personnel. Competition for these employees is intense. If we are unable to attract, retain and motivate such personnel in sufficient numbers and on a timely basis, we will experience difficulty in implementing our current business and product plans. In that event, we may be unable to successfully meet competitive challenges or to exploit potential market opportunities, which could adversely affect our business and results of operations. Our recent and any future restructuring plans may adversely impact our ability to attract and retain key employees.
+
+We are subject to order and shipment uncertainties.
+
+It is difficult to accurately predict demand for our semiconductor products. We typically sell products pursuant to purchase orders rather than long-term purchase commitments. Customers can generally cancel, change or defer purchase orders on short notice without incurring a significant penalty. Our ability to accurately forecast customer demand is further impaired by delays inherent in our lengthy sales cycle. We operate in a dynamic industry and use significant resources to develop new products for existing and new markets. After we have developed a product, there is no guarantee that our customers will integrate our product into their equipment or devices and, ultimately, bring those equipment and devices incorporating our product to market. In these situations, we may never produce or deliver a significant number of our products, even after incurring substantial development expenses. From the time a customer elects to integrate our solution into their product, it is typically six to 24 months before high volume production of that product commences. After volume production begins, we cannot be assured that the equipment or devices incorporating our product will gain market acceptance.
+
+Our products are incorporated into complex devices and systems, creating supply chain cross-dependencies. Accordingly, supply chain disruptions affecting components of our customers’ devices and/or systems could negatively impact the demand for our products, even if the supply of our products is not directly affected.
+
+Our product demand forecasts are based on multiple assumptions, each of which may introduce error into our estimates. In the event we overestimate customer demand, we may allocate resources to manufacturing products that we may not be able to sell. As a result, we could hold excess or obsolete inventory, which would reduce our profit margins and adversely affect our financial results. Conversely, if we underestimate customer demand or if insufficient manufacturing capacity is available, we could forego revenue opportunities and potentially lose market 
+
+18
+
+Table of Contents
+
+share and damage our customer relationships. Also, due to our industry’s use of “just-in-time” inventory management, any disruption in the supply chain could lead to more immediate shortages in product or component supply. Additionally, any enterprise system failures, including in connection with implementing new systems, could impact our ability to fulfill orders and interrupt other processes.
+
+A portion of our inventory is maintained under hubbing and distribution arrangements whereby products are delivered to a customer or third party warehouse based upon the customer’s projected needs. Under these arrangements, we do not recognize product revenue until the customer reports that it has removed our product from the warehouse to incorporate into its end products. Our ability to effectively manage inventory levels may be impaired under such arrangements, which could increase expenses associated with excess and obsolete product inventory and negatively impact our cash flow.
+
+We depend on third parties to fabricate, assemble and test our products.
+
+As a fabless semiconductor company, we do not own or operate fabrication, assembly or test facilities. As a result, we face competition for manufacturing capacity in the open market. We rely on third parties to manufacture, assemble and test substantially all of our semiconductor devices. Accordingly, we cannot directly control our product delivery schedules and quality assurance. This lack of control could result in product shortages or quality assurance problems. These issues could delay shipments of our products or increase our assembly or testing costs. In addition, the consolidation of foundry subcontractors, as well as the increasing capital intensity and complexity associated with fabrication in smaller process geometries has limited our diversity of suppliers and increased our risk of a “single point of failure.” Specifically, as we move to smaller geometries, we have become increasingly reliant on TSMC for the manufacture of product at and below 40 nanometers. The lack of diversity of suppliers could also drive increased wafer prices, adversely affect our results of operations, including our product gross margins.
+
+We do not have long-term agreements with any of our direct or indirect suppliers, including our manufacturing, assembly or test subcontractors. We typically procure services from these suppliers on a per order basis. In the event our third-party foundry subcontractors experience a disruption or limitation of manufacturing, assembly or testing capacity, we may not be able to obtain alternative manufacturing, assembly and testing services in a timely manner, or at all. Furthermore, our foundries must have new manufacturing processes qualified if there is a disruption in an existing process, which could be time-consuming. We could experience significant delays in product shipments if we are required to find alternative manufacturers, assemblers or testers for our products. We are continuing to develop relationships with additional third-party subcontractors to assemble and test our products.
+
+Because we rely on outside foundries and other third party suppliers, we face several significant risks in addition to those discussed above, including:
+
+•
+
+a lack of guaranteed supply of wafers and other components and potential higher wafer and component prices due to supply constraints;
+
+•
+
+the limited availability of, or potential delays in obtaining access to, key process technologies; and
+
+•
+
+the location of foundries and other suppliers in regions that are subject to earthquakes, tsunamis and other natural disasters.
+
+The manufacture of integrated circuits is a highly complex and technologically demanding process. Our foundries have from time to time experienced lower than anticipated manufacturing yields. This often occurs during the production of new products or the installation and start-up of new process technologies. In addition, we are dependent on our foundry subcontractors to successfully transition to smaller geometry processes.
+
+Our systems are subject to security breaches and other cybersecurity incidents. 
+
+We experience cyber attacks of varying degrees on a regular basis, and as a result, unauthorized parties have obtained, and may in the future obtain, access to our computer systems and networks. Such cyber attacks could result in the misappropriation of our proprietary information and technology or interrupt our business. The 
+
+19
+
+Table of Contents
+
+reliability and security of our information technology infrastructure and software, and our ability to expand and continually update technologies in response to our changing needs is critical to our business. To the extent that any disruptions or security breaches result in significant loss or damage to our data, or inappropriate disclosure of significant proprietary information, it could cause damage to our reputation and affect our relationships with our customers and ultimately harm our business.
+
+Government regulation may adversely affect our business.
+
+The effects of regulation on our customers or the industries in which they operate may materially and adversely impact our business. For example, regulatory policies of the Federal Communications Commission that affect the ability of cable or satellite operators or telephone companies to offer certain services to their customers could impede sales of our products in the United States. We and our customers are also subject to various import and export laws and regulations that apply to the encryption or other features contained in some of our products. If we fail to continue to comply with these regulations, we may be unable to manufacture the affected products at foreign foundries or ship these products to certain customers, or we may incur penalties or fines.
+
+As described above under the risk factor entitled "We are exposed to risks associated with our international operations," our business is also increasingly subject to complex foreign and U.S. laws and regulations, including but not limited to, anti-corruption laws, such as the Foreign Corrupt Practices Act and the UK Bribery Act and equivalent laws in other jurisdictions, antitrust or competition laws, and data privacy laws, among others. Foreign governments may also impose tariffs, duties and other import restrictions on components that we obtain from non-domestic suppliers and may impose export restrictions on products that we sell internationally. These tariffs, duties or restrictions could materially and adversely affect our business, financial condition and results of operations.
+
+Our product or manufacturing standards could also be impacted by new or revised environmental rules and regulations or other social initiatives. For instance, the SEC adopted new disclosure requirements in 2012 relating to the sourcing of certain minerals from the Democratic Republic of Congo and certain other adjoining countries. Those rules, which will require reporting in 2014, could adversely affect our costs, the availability of minerals used in our products and our relationships with customers and suppliers.
+
+Our co-founders and their affiliates may strongly influence the outcome of matters that require the approval of our shareholders.
+
+As of 
+December 31, 2013
+ our co-founders, directors, executive officers and their respective affiliates beneficially owned 
+9.6%
+ of our outstanding common stock and held 
+48.6%
+ of the total voting power held by our shareholders. As a result, the voting power of these shareholders may strongly influence the outcome of matters that require the approval of our shareholders, including the election of our Board of Directors and certain significant corporate transactions. In particular, as of 
+December 31, 2013
+ our two founders, Dr. Henry T. Nicholas III and Dr. Henry Samueli, beneficially owned a total of 
+8.6%
+ of our outstanding common stock and held 
+48.2%
+ of the total voting power held by our shareholders. Because of their significant voting stock ownership, we may not be able to engage in certain transactions, and our shareholders may not be able to effect certain actions or transactions, without the approval of one or both of these shareholders. In addition, repurchases of shares of our Class A common stock under our share repurchase program would result in an increase in the total voting power of our co-founders, directors, executive officers and their affiliates, as well as other continuing shareholders.
+
+Our articles of incorporation and bylaws contain anti-takeover provisions.
+
+Our articles of incorporation and bylaws contain provisions that could make it more difficult for a third party to acquire a majority of our outstanding voting stock. For example, our Board of Directors may issue shares of Class B common stock in connection with certain acquisitions, which shares have superior voting rights entitling the holder to ten votes for each share held on matters that we submit to a shareholder vote (as compared to one vote per share in the case of our Class A common stock). Furthermore, our Board of Directors has the authority to fix the rights and preferences of shares of our preferred stock and to issue shares of common or preferred stock without a shareholder vote. These provisions, among others, may discourage certain types of transactions involving an actual 
+
+20
+
+Table of Contents
+
+or potential change in our control.
+
+There can be no assurance that we will continue to declare cash dividends.
+
+In January 2010, our Board of Directors adopted a dividend policy pursuant to which Broadcom would pay quarterly dividends on our common stock. In January 2011, 2012, 2013 [and again in 2014] our Board of Directors increased the quarterly dividend payment. We intend to continue to pay such dividends subject to capital availability and periodic determinations by our Board of Directors that cash dividends are in the best interest of our shareholders and are in compliance with all laws and agreements of Broadcom applicable to the declaration and payment of cash dividends.
+
+Future dividends may be affected by, among other factors:
+
+•
+
+our views on potential future capital requirements for investments in acquisitions and the funding of our research and development;
+
+•
+
+use of cash to consummate various acquisition transactions;
+
+•
+
+stock repurchase programs;
+
+•
+
+changes in federal and state income tax laws or corporate laws; and
+
+•
+
+changes to our business model.
+
+Our dividend payments may change from time to time, and we cannot provide assurance that we will continue to increase our dividend payment or declare dividends in any particular amounts or at all. A reduction in our dividend payments could have a negative effect on our stock price.

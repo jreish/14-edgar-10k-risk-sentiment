@@ -1,0 +1,669 @@
+Our operating results may fluctuate significantly, which may harm our financial condition and our stock price. 
+Our quarterly and annual operating results have fluctuated significantly in the past and we expect that they will continue to fluctuate in the future.  Our results of operations are subject to fluctuations and other risks, including, among others: 
+
+•
+
+competitive pricing pressures, resulting in lower average selling prices and lower revenue; 
+
+•
+
+weakness in demand in one or more of our product categories, such as mobile embedded or SSDs, or adverse changes in our product or customer mix;
+
+•
+
+inability to reduce product costs to keep pace with reductions in average selling prices, resulting in lower or negative product gross margin;
+
+•
+
+potential delays in product development or lack of customer acceptance and qualification of our solutions, including on new technology nodes, particularly OEM products such as our embedded flash storage and SSD solutions;
+
+•
+
+inability to develop, or unexpected difficulties or delays in developing or ramping with acceptable yields, new technologies such as 1Y and 1Z‑nanometer process technologies, X3 NAND memory architecture, 3D NAND technology, 3D ReRAM, or other advanced technologies, or the failure of these new technologies to effectively compete with those of our competitors;
+
+•
+
+fluctuations in customer concentration and the loss of, or reduction in orders from, one or more of our major customers; 
+
+•
+
+inability to penetrate new or growing markets for flash memory, including the SSD markets, failure of existing or new markets for flash memory to grow or develop, or failure to maintain or improve our position in any of these markets;
+
+•
+
+excess or mismatched captive memory output or capacity, resulting in lower average selling prices, financial charges and impairments, lower gross margin or other consequences, or insufficient or mismatched captive memory output or capacity, resulting in lost revenue and growth opportunities;
+
+•
+
+timing, volume and cost of wafer production from Flash Ventures as impacted by fab start-up delays and costs, technology transitions, lower than expected yields or production interruptions;
+
+•
+
+fluctuations or declines in our license and royalty revenue due to license agreement renewals on less favorable terms, non-renewals, declines in sales of the products or use of technology underlying the license and royalty revenue by our licensees, or if licensees or we fail to perform on contractual obligations;
+
+•
+
+lengthy, costly and unpredictable design, qualification and sales processes for OEM customers particularly with embedded and SSD products;
+
+•
+
+increased costs and lower gross margin due to potentially higher warranty claims from our more complex solutions;
+
+•
+
+excess inventory or lost sales resulting from unpredictable or changing demand for our products; 
+
+•
+
+failure to manage the risks associated with our ventures and strategic partnerships with Toshiba;
+
+•
+
+the rate of growth of our captive flash memory supply fails to keep pace with that of our competitors for an extended period of time, resulting in lost sales opportunities and reduced market share;
+
+•
+
+insufficient non-flash memory materials or capacity from our suppliers and contract manufacturers to meet demand or increases in the cost of non-flash memory materials or capacity;
+
+•
+
+disruptions in our supply chain, whether due to natural disasters, emergencies such as power outages, fires or chemical spills, or employee strikes or other job actions;
+
+•
+
+inability to enhance current products, develop new products or transition products to new technologies on a timely basis or in advance of our competitors;
+
+•
+
+increased memory component and other costs as a result of currency exchange rate fluctuations for the U.S. dollar, particularly with respect to the Japanese yen;
+
+•
+
+inability to obtain non-captive memory supply of the right product mix and quality in the time frame necessary to meet demand, or inability to realize an adequate margin on non-captive purchases;
+
+•
+
+insufficient assembly and test or retail packaging and shipping capacity from our Shanghai, China facility or our contract manufacturers, or labor unrest, employee strikes or other disruptions at any of these facilities;
+
+•
+
+errors or defects in our products caused by, among other things, errors or defects in the memory or controller components, including memory and non-memory components we procure from third-party suppliers; 
+
+•
+
+inability to realize the potential financial or strategic benefits of business acquisitions or strategic investments;
+
+•
+
+the financial strength and market position of our customers; and
+
+•
+
+the other factors described in this “Risk Factors” section and elsewhere in this report.
+
+10
+
+Table of Contents
+
+Competitive pricing pressures may result in lower average selling prices for our products, and if such price declines are not offset by a corresponding increase in demand for our products, our revenue may decline. 
+The price of NAND flash memory is influenced by, among other factors, the balance between supply and demand, including the effects of new industry fab capacity, macroeconomic factors and business conditions, technology transitions, conversion of industry DRAM capacity to NAND, development of new technologies such as 3D NAND or other actions taken by us or our competitors to gain market share. In particular, the NAND flash memory industry has, from time-to-time, experienced periods of excess supply, resulting in price declines. Industry bit supply is expected to continue to grow, and if bit supply grows at a faster rate than market demand, the industry could again experience unanticipated price declines. If we are not able to offset price declines with sufficient increases in unit sales or average memory capacity per unit or a shift in product mix towards products with higher average selling prices, our revenue and operating results may be harmed.
+
+If we are unable to reduce our product costs to keep pace with reductions in average selling prices, our gross margin may be harmed. 
+Because of the historical and expected future declines in the price of NAND flash memory, we need to reduce our product costs in order to maintain adequate gross margin. Our ability to reduce our cost per gigabyte of memory produced depends on technology transitions and the improvement of manufacturing efficiency, including manufacturing yields. If our technology transitions (for example, the production ramp of NAND technology on the 1Y‑nanometer or 1Z‑nanometer process nodes) take longer or are more costly to complete than anticipated, our flash memory costs may not remain competitive with other NAND flash memory producers, which would harm our gross margin and financial results. The transitions to 1Y‑nanometer and 1Z‑nanometer will likely lead to less product cost reduction than we have experienced with prior technology node transitions. Furthermore, the inherent physical technology limitations of NAND flash technology may result in more costly technology transitions than we have experienced in the past, particularly with respect to required capital expenditures, which could further limit our ability to keep pace with reductions in average selling prices. Manufacturing yields are a function of both design and manufacturing process technology, and yields may also be impacted by equipment malfunctions, fabrication facility accidents or human error. Manufacturing yield issues may not be identified during the development or production process or solved until an actual product is manufactured and tested, further increasing our costs. If we are unable to improve manufacturing yields or other manufacturing efficiencies, our gross margin and results of operations would be harmed. In addition, our products contain non-flash memory materials and require product level assembly and test. Our non-flash memory product costs are increasing as a percentage of our overall products costs as we grow our sales mix of more complex products. If we are unable to reduce the cost of non-flash memory materials and manufacturing, our gross margin and results of operations would be harmed. In addition, as 2D NAND technology reaches its limits of cost-effective technology scaling, the development of alternative technologies, such as the 3D NAND and 3D ReRAM technologies we are working on, is crucial to continue the cost reductions necessary to maintain adequate gross margin, and our failure to develop these technologies in a timely or effective manner, or at all, or the failure of these technologies to effectively compete with those of our competitors, could harm our revenue, gross margin and results of operations. 
+
+Our reliance on and investments in captive manufacturing capacity limit our ability to respond to industry fluctuations in supply and demand
+. 
+The semiconductor industry, and the NAND flash memory industry in particular, is highly cyclical and is characterized by constant and rapid technological change, rapid product obsolescence, price declines, evolving standards, short product life cycles and wide fluctuations in product supply and demand. We are limited in our ability to react or adjust our cost structure in response to these cyclical fluctuations. We rely on our significant investments in Flash Ventures as a captive source of substantially all of our NAND flash memory supply. Growth in our captive memory supply comes from investments in technology transitions and new capacity at Flash Ventures. These investment decisions require significant planning and lead-time before an increase in supply can be realized, and are further determined by factors such as the timing, rate and type of investment by us and Toshiba, our partner in Flash Ventures, agreement between us and Toshiba as to these matters, our evaluation of the potential return on investment of the addition of new capacity, particularly in light of the timing, cost and availability of next generation technology, our profitability, our estimation of market demand and our liquidity position. A failure to accurately forecast demand for our products or industry capacity could cause us to over-invest or under-invest in the expansion of captive memory capacity in Flash Ventures. Over-investment could result in excess supply, which could cause significant decreases in our product prices, significant excess, obsolete or lower of cost or market inventory write-downs or under-utilization charges, and the potential impairment of our investments in Flash Ventures. For example, in fiscal year 2008 and the first quarter of fiscal year 2009, we recorded charges for adverse purchase commitments associated with under-utilization of Flash Ventures’ capacity. On the other hand, if we or Toshiba under-invest in captive memory capacity or technology transitions, if we grow capacity more slowly than the rest of the industry, if our technology transitions do not occur on the timeline that we expect or we encounter unanticipated difficulties in implementing these transitions, or if we implement technology transitions more slowly than our competitors, we may not have enough captive supply to meet demand on a timely and cost effective basis and we may lose opportunities for revenue growth and market share as a result, which would harm our ability to grow revenue. In such cases, we may have only a limited ability to satisfy our supply needs from non-captive supply 
+
+11
+
+Table of Contents
+
+sources and may not be able to obtain the right mix of non-captive product that meets our requirements within an adequate lead time or at a cost that allows us to generate an adequate gross margin. Furthermore, if our memory supply is limited, we may make strategic decisions with respect to the allocation of our supply among our products and customers that may preserve our long-term goals and customer relationships but result in short-term declines in our gross margin or less favorable gross margin. Our customers also may not allow us to change the memory in the products that they have already qualified, which can further limit our ability to satisfy our supply needs from other sources for products that require long and extensive qualification cycles, such as SSDs. Our inability to obtain sufficient cost-effective non-captive memory that meets our requirements may cause us to lose sales, market share and profits, which would harm our operating results. In addition, we are contractually obligated to pay for 50% of the fixed costs of Flash Ventures regardless of whether we purchase any wafers from Flash Ventures. Furthermore, purchase orders placed under Flash Ventures and the foundry arrangement with Toshiba for up to three months are binding and cannot be canceled. Therefore, once our purchase decisions have been made, our production costs are fixed, and we may be unable to reduce costs to match any subsequent declines in pricing or demand, which would harm our gross margin. Our limited ability to react to fluctuations in supply and demand makes us particularly susceptible to variations from our forecasts and expectations, and even in times of excess demand, our operating results may be harmed.
+
+The future growth of our business depends on the development and performance of new and existing markets for flash memory, including the SSD markets, and on our ability to maintain or improve our position in these markets.
+ Historically, removable flash memory imaging cards and USB drives, both sold primarily through the retail channel, provided the majority of our revenue. As growth in these retail products slowed, we increased sales of embedded NAND flash memory and cards for devices such as mobile phones, tablets, and other mobile devices, which now represent the largest percentage of our revenue. More recently, SSD products have generated the largest portion of our revenue growth. Our future growth is dependent on the development of new markets, new applications and new products for NAND flash memory, and on the continued use of NAND flash memory in existing markets and on our ability to maintain or improve our position in such markets. There can be no assurance that the use of NAND flash memory in existing markets and products will continue or grow fast enough, or at all, that we will be able to maintain or improve our position in existing markets, or that new markets will adopt NAND flash technologies in general or our products in particular, to enable us to grow. 
+
+Over the next several years, we believe that the largest growth areas for NAND flash will be SSD solutions in client computing and enterprise data center applications, whereas the mobile market for NAND flash is expected to grow at a slower rate than in the past, and the retail market for NAND flash is expected to be approximately constant or declining. We will continue to make significant investments in the development of hardware and software solutions for SSD markets in order to successfully penetrate and gain market share in SSD solutions. Our ability to succeed in the SSD solutions market is subject to various risks and uncertainties, including, among other things:
+
+•
+
+we may be unable to successfully develop or qualify SSD solutions that meet our customers’ requirements, and even if we do, we cannot guarantee that customers will adopt our SSD solutions;
+
+•
+
+designing and qualifying products in the SSD solutions market will require greater investments and customization than our traditional products, which results in longer development cycles and higher costs;
+
+•
+
+the complexity and longer development cycles required for SSD solutions increase the risk of development delays that can result in missing customer qualification cycles and other market opportunities; 
+
+•
+
+due to longer customer product cycles and end-of-life product support requirements in SSD solutions, we may be unable to transition customers to our leading edge products, which would prevent us from achieving the full cost advantage of new technology transitions; 
+
+•
+
+products that contain our leading-edge technologies, whether based on 2D NAND or our alternative 3D NAND or 3D ReRAM technologies, may be unable to meet the performance requirements of SSDs or to compete effectively with products from our competitors, which would inhibit our ability to succeed in these markets and could impair our growth and profitability prospects;
+
+•
+
+we may be unable to reap the expected benefits of our recently completed and pending acquisitions, many of which relate to the SSD solutions space;
+
+•
+
+SSD solutions require more software than our traditional products, therefore we must continue to develop software expertise; 
+
+•
+
+SSD solutions require more complex controllers than our traditional products, and we may be unable to develop or source controllers that meet the performance requirements of SSDs; 
+
+•
+
+SSD solutions incorporate unique non-flash memory parts, and if there is lower than expected demand, we may be unable to incorporate these unique parts in other non-SSD products;
+
+12
+
+Table of Contents
+
+•
+
+SSD solutions require longer production cycle times due to, among other things, more complex assembly and testing to produce a finished product, as well as customer requirements for consigned inventory and increased use of hubs for order fulfillment, which could lead to higher levels and cost of inventory; 
+
+•
+
+SSD solutions require different go-to-market strategies compared to our historical consumer and mobile products, which could increase our operating expenses, and we may be unable to build an effective sales and marketing operation to sell our SSD solutions.
+
+If we are unable to successfully develop, qualify and sell SSD solutions, we could lose sales and corresponding profit opportunities, which would harm our operating results. 
+
+Our revenue depends in large part on our ability to achieve design wins with OEM customers and the success of products sold by our OEM customers. 
+Our primary OEM products include cards for mobile devices, embedded memory products, and SSDs for the notebook, storage and server markets. Our OEM revenue is primarily dependent upon our products meeting OEM specifications and the achievement of design wins in an OEM’s products such as mobile phones, tablets, computers and enterprise servers. Even if our products meet OEM specifications, our sales to these customers are dependent upon the OEMs choosing our products over those of our competitors, on the OEMs’ ability to create, market and sell their products successfully, and our ability to supply our products in sufficient quantity and in a timely manner. For example, in the first half of fiscal year 2012, our OEM sales declined because our next generations of mobile embedded products were in various stages of development and qualification, and because mobile OEM customers reduced their rate of card bundling and bundled lower capacity cards. If our OEM customers are not successful in selling their current or future products in sufficient volume or in a timely manner, should they decide not to use our products, should they further reduce their card bundling or bundle lower capacity cards, or should we not be able to produce our products in sufficient quantity or quality, our revenue, operating results and financial condition could be harmed. 
+
+Sales to a small number of customers represent a significant portion of our revenue, and if we were to lose one or more of our major customers or licensees, or experience any material reduction in orders from any of our customers, our revenue and operating results could suffer
+. 
+Our ten largest customers represented approximately 
+49%
+ and 
+43%
+ of our revenue in fiscal years 
+2013
+ and 
+2012
+, respectively. In fiscal year 
+2013
+, 
+Apple
+ accounted for 
+20%
+ of our revenue. In fiscal year 
+2012
+, 
+Apple
+ accounted for 
+13%
+ of our revenue. The composition of our major customer base has changed over time, including shifts between OEM and retail-based customers, and there have been changes in the market share concentration among our customers. Many of our OEM customers purchase more than one product category from us. The primary reason that Apple’s percent of our sales increased in fiscal year 2013 relative to fiscal year 2012 is that Apple began purchasing SSDs from us, in addition to their ongoing purchases of mobile embedded and other products. We expect fluctuations in our customer and licensee base and the mix of our revenue by customer and licensee to continue as our markets and strategies evolve, which could make our revenue less predictable from period-to-period. Our sales are generally made from standard purchase orders and short-term commitments rather than long-term contracts. Accordingly, our customers, including our major customers, may generally terminate or reduce their purchases from us at any time with limited notice or penalty. If we were to lose one or more of our major customers or licensees, or experience any material reduction in orders from any of our customers or in sales of licensed products by our licensees, our revenue and operating results could suffer.
+
+Our SSD products are more complex and rely on more sophisticated firmware than our other products, which may result in increased costs and lower gross margin due to more frequent product updates.
+ Our SSD solutions are more complex than our traditional products due to, among other things, an increased dependence on more sophisticated firmware and customization of our products for specific OEM customers. Changes in our OEM customers’ specifications for these products could require us to update the firmware for our SSD products, which would result in increased costs for processing these updates. Furthermore, our failure to update our products to comply with the new specifications may result in reduced demand from our customers for a particular SSD solution, notwithstanding the long design, qualification and test cycles we have undertaken as part of our sales process for that solution, which may harm our results of operations.
+
+13
+
+Table of Contents
+
+Our enterprise SSD business is characterized by sales to a limited number of customers with long design, qualification and sales processes. 
+The enterprise SSD market is comprised of a relatively limited number of customers, with long design, qualification and test cycles prior to sales. OEM customers in the enterprise SSD market typically also require us to customize our products, which could further lengthen the product design, qualification, manufacturing and sales process. We spend substantial time, money and other resources in our sales process without any assurance that our efforts will produce any customer orders on the timelines or in the quantities we expect. These lengthy and uncertain processes also make it difficult for us to forecast demand and timing of customer orders. Moreover, we start manufacturing our products and placing orders for materials and components based on non-binding forecasts that our OEM customers provide to us, further increasing our inventory exposure when actual sales vary from the OEM customer’s forecasts. The difficulty in forecasting demand and the customized nature of our products for certain OEMs make it difficult to anticipate our inventory requirements, which may cause us to over-purchase materials and components or over-produce finished goods, resulting in inventory write-offs, or under-produce finished goods, harming our ability to meet customer requirements and generate sales. Furthermore, due to longer customer product cycles, we may not be able to transition customers to our leading edge products, which would prevent us from benefitting from the technology transitions that enable cost reductions, which may harm our gross margin. For the enterprise products we acquired with the SMART Storage Systems, or SMART Storage, acquisition, we are in the process of transitioning these products from non-captive memory to captive memory, and delays in the qualification of captive memory for these products may cause unexpected declines in our revenue or margins from these products.
+
+We rely substantially on our ventures and strategic partnerships with Toshiba, which subjects us to risks and uncertainties that could harm our business, financial condition and operating results. 
+Substantially all of our NAND flash memory is supplied by Flash Ventures. In addition, we partner with Toshiba on the development of NAND flash technology and we have entered into strategic partnerships with Toshiba relating to research and development for the next technology transitions of NAND flash and alternative technologies beyond NAND flash technologies. These ventures and strategic partnerships are subject to various risks that could harm the value of our investments, our revenue and costs, our future rate of spending or our future growth opportunities, including, among others:
+
+•
+
+under the terms of our venture agreements with Toshiba, which govern the operations of Flash Ventures, we have limited power to unilaterally direct most of the activities that most significantly impact Flash Ventures’ financial performance, including technology transitions, capital investment and other manufacturing and operational activities at Flash Ventures; the process of reaching agreement with Toshiba may be time consuming and may result in decisions that could harm our future results of operations, financial condition or competitiveness;
+
+•
+
+the terms of our arrangements with Toshiba include provisions such as exclusivity, transfer restrictions, and limited termination rights, which limit our flexibility; and
+
+•
+
+we may not always agree with Toshiba on the NAND research and development roadmap or the technology path beyond NAND flash memory, we or Toshiba may have different priorities with respect to investment in Flash Ventures or future technologies, and divergent technology paths and investment priorities may impact our results of operations.
+
+Future alternative non-volatile storage technologies or other disruptive technologies could make NAND flash memory or the alternative technologies that we are developing obsolete or less attractive, and we may not have access to those new technologies on a cost-effective basis, or at all, or new technologies could reduce the demand for flash memory in a variety of applications or devices, any of which could harm our operating results and financial condition
+. Due to inherent technology limitations, the bit growth and cost reduction from 2D NAND flash technology transitions is slowing down. We currently expect to be able to continue to scale our current 2D NAND flash memory architecture through at least two more technology nodes (1Y‑nanometer and 1Z‑nanometer), but beyond that there is no certainty that further technology scaling can be achieved cost effectively with the 2D NAND flash memory architecture. In the first quarter of fiscal year 2011, we began investing in our 3D NAND flash technology, which we have referred to as BiCS, and other alternative technologies. In 3D NAND technology, the memory cells are packed along the vertical axis as opposed to the horizontal axis as in the current 2D NAND flash technologies. As we progress with our 3D NAND development, we are evaluating and modifying certain aspects of our technology architecture to optimize for manufacturability, scalability, cost and product specifications, targeting a broader range of applications. We continue to invest in other alternative technologies, primarily our 3D ReRAM technology. We believe that both 3D NAND and 3D ReRAM technologies may be viable alternatives to 2D NAND flash memory, when 2D NAND flash memory can no longer cost-effectively scale at a sufficient rate, or at all. However, even when 2D NAND flash memory can no longer be further scaled, we expect 2D NAND flash technology and potential alternative technologies to coexist for an extended period of time. The success of our overall technology strategy is also dependent in part upon the development by third-party suppliers of advanced semiconductor materials and process technologies, such as extreme ultraviolet, or EUV. Our technology development of NAND, 3D NAND and 3D ReRAM is done in conjunction with Toshiba, and the success of our development could be influenced by whether we are able to agree with Toshiba on a technology path or the timing and amount of investment. 
+
+14
+
+Table of Contents
+
+There can be no assurance that we will be successful in developing 3D NAND, 3D ReRAM or other technologies in a timely manner or at all, or that we will be able to achieve the yields, quality or capacities to be cost competitive with existing or other alternative technologies. Furthermore, we cannot guarantee that 3D NAND, 3D ReRAM or other technologies we develop will be sufficient alternatives for 2D NAND flash memory, will match or exceed all of the performance characteristics of 2D NAND flash technology, will be developed at a rate that matches market needs, will result in cost reductions that will enable us to be competitive, or will be well-suited, in a timely manner or at all, for all of the applications in the end markets that 2D NAND flash memory currently addresses or may address in the future. Additionally, 3D NAND, 3D ReRAM or other technologies may require different capital equipment or manufacturing processes than existing 2D NAND which could impact the cost reduction benefits obtainable through these technologies. 
+
+Many companies, including some of our competitors, have developed or are attempting to develop alternative non-volatile technologies such as magnetoresistive RAM, or MRAM, ReRAM, Memristor, vertical or stacked NAND, phase-change and charge-trap flash technologies and other technologies. Samsung has announced the launch of its 3D NAND flash technology, known as 3D VNAND, with volume production beginning in 2014, and other companies have indicated they are working on 3D NAND technologies. At this time, these technologies are still emerging and it is unclear how these new technologies will compare to our 3D NAND technology and what implications 3D NAND approaches may have for our industry or our business in terms of cost leadership, technology leadership, supply increases and product specifications. For example, the specifications of competitors’ 3D NAND may make it more competitive in certain products than the 2D NAND currently produced by us. Successful broad-based commercialization of one or more of these technologies could reduce the competitiveness and future revenue and profitability of our current and future generations of 2D NAND flash technology, and it could reduce the competitiveness and future revenue and profitability of the potential alternative 3D NAND or 3D ReRAM technologies that we are developing or even supplant them in their entirety. In addition, we generate license and royalty revenue from NAND flash technology, and if NAND flash technology is replaced by a technology where our IP is less relevant, our license and royalty revenue would decrease. Also, we may not have access to or we may have to pay royalties to access alternative technologies that we do not develop internally. If our competitors successfully develop new or alternative technologies, and we are unable to scale our technology on an equivalent basis, or if our competitors’ new or alternative technologies satisfy application-specific requirements that our technologies are not able to, we may not be able to compete effectively, and our operating results and financial condition would suffer.
+
+Alternative technologies or storage solutions such as cloud storage, enabled by high bandwidth wireless or internet-based storage, could reduce the need for physical flash storage within electronic devices or reduce the rate by which average capacity increases in such devices, which could materially harm our operating results. 
+
+Growth of our NAND flash memory bit-supply at a slower rate than the overall industry for an extended period of time, would result in lowering our industry market share which could limit our future opportunities or harm our financial results.
+
+Our strategy has been to focus on increasing our share of high‑value solutions rather than our industry bit share. During 2013, our competitors in total grew their NAND flash memory bits faster than us and we expect this trend to continue in 2014. Successful broad‑based commercialization of 3D NAND may accelerate the growth of NAND flash bits more than we anticipate. If our bit growth lags behind our competitors, it will reduce our captive flash bit market share in the industry. With lower bit market share, we may not be able to sufficiently address all market opportunities. Some of our customers may want to buy multiple types of products or specific quantities of our products and if we limit the growth of our production, we may not be able to meet customer volume supply requirements or other competitors with greater market share may become more preferred suppliers based upon either the breadth of product offerings or volume of product supply. In addition to the potential loss of bit market share, our competitors may realize better cost declines than us enabled by improved economies of scale achieved through additional bit growth. If our competitors have lower costs, this could allow our competitors to offer similar products at a lower price than us which could harm our competitiveness and financial results. If we decide to purchase non-captive supply from competitors to provide supply to our customers, there is no guarantee we will be able to secure such supply at a competitive price, or in the right product mix or quality level or in sufficient volume, or at all.
+
+Difficulty in forecasting demand for our products may result in excess inventory or lost sales, either of which could harm our financial results. 
+The majority of our products are sold directly or indirectly into consumer markets, which are difficult to accurately forecast. Also, a significant portion of our quarterly sales are from orders received and fulfilled in that quarter. Additionally, we depend upon timely reporting from our customers as to their inventory levels and sales of our products in order to forecast demand for our products. The failure to accurately forecast demand for our products may result in lost sales or excess inventory and associated reserves or write-downs, any of which could harm our business, financial condition and operating results. 
+
+15
+
+Table of Contents
+
+The long lead times for some of our purchasing or other arrangements further restrict our ability to respond to variations from our forecasts. Some of our silicon purchasing arrangements provide that the first three months of our rolling six-month projected supply requirements are fixed and we may make only limited percentage changes in the second three months of the period covered by our supply requirement projections. Our products also contain non-silicon components that have long lead-times requiring us to place orders several months in advance of anticipated demand. In addition, purchasing decisions for manufacturing tools in Flash Ventures as well as tools in our captive assembly and test manufacturing facility near Shanghai, China often need to be made several months in advance in order to ensure that the tools can be integrated into the manufacturing process when increased capacity is needed. These purchasing arrangements increase the risk of excess inventory or loss of sales in the event our forecasts vary substantially from actual demand.
+
+Our license and royalty revenue may fluctuate or decline significantly in the future due to license agreement renewals, declines in sales of the products or use of technology underlying the license and royalty revenue by our licensees, or if licensees fail to perform on a portion or all of their contractual obligations. 
+If our existing licensees do not renew their licenses upon expiration, renew them on less favorable terms, exercise their option to terminate the license or fail to exercise their option to extend the licenses, or we are not successful in signing new licensees in the future, our license revenue, profitability, and cash provided by operating activities would be harmed. As our older patents expire, and the coverage of our newer patents may be different, it may be more difficult to negotiate or renew favorable license agreement terms or a license agreement at all. For example, in the first quarter of fiscal year 2010, our license and royalty revenue decreased sequentially primarily due to a new license agreement with Samsung that was effective in the third quarter of fiscal year 2009 with a term of seven years, and contains a lower effective royalty rate compared to the previous license agreement. To the extent that we are unable to renew license agreements under similar terms, or at all, our financial results would be harmed by the reduced license and royalty revenue and we may incur significant patent litigation costs to enforce our patents against these licensees. Our agreements may require us in certain instances to recognize license revenue related to a particular licensee all in one period instead of over time which could create additional volatility in our licensing revenue. A portion of our license and royalty revenue is based on sales of product categories as well as underlying technology, and fluctuations in the sales of those products or technology adoption rates would also result in fluctuations in the license and royalty revenue due to us under our agreements. If our licensees or we fail to perform on contractual obligations, we may incur costs to enforce or defend the terms of our licenses and there can be no assurance that our enforcement, defense or collection efforts will be effective. If we license new IP from third-parties or existing licensees, we may be required to pay license fees, royalty payments or offset existing license revenue. In addition, we may be subject to disputes, claims or other disagreements on the timing, amount or collection of royalties or license payments under our existing license agreements. 
+
+In transitioning to new technologies and products, we may not achieve OEM design wins, our OEM customers may delay transition to new technologies, our competitors may transition more quickly than we do, or we may experience product delays, cost overruns or performance issues that could harm our business. 
+The transition to new generations of products, such as products containing 19‑nanometer, 1Y‑nanometer or subsequent process technologies such as 1Z‑nanometer 2D NAND and 3D NAND and/or X3 NAND memory architecture, is highly complex and requires new controllers, new test procedures and modifications to numerous aspects of our manufacturing processes, resulting in the need for extensive qualification of the new products by our OEM customers and us. In addition, our competitors may transition to these new technologies more quickly or more effectively than we are able to, which could harm our ability to compete effectively. If we fail to achieve OEM design wins with new technologies such as 19‑nanometer, 1Y‑nanometer or subsequent process technologies or the use of X3 in certain products, if our OEM customers choose to transition to these new technologies more slowly than our roadmap plans, if the demand for the products that we developed is lower than expected, if the supporting technologies to implement these new technologies are not available, or if our competitors transition to these new technologies, including X3, more quickly or more effectively than we are able to, we may be unable to achieve the cost structure required to support our profit objectives or may be unable to grow or maintain our OEM market position. Furthermore, there can be no assurance that technology transitions will occur on schedule or at the yields or costs that we anticipate, that the tools and equipment required for the technology transitions will be available on a cost-effective basis or at all, or that products based on the new technologies will meet customer specifications. The vast majority of products require controllers or firmware, and any delays in developing or sourcing controllers or firmware, or incompatibility or quality issues relating to the controllers or firmware in our products, could harm our revenue and gross margin, as well as business relationships with our customers. Any material delay in a development or qualification schedule could delay deliveries and harm our operating results. 
+
+16
+
+Table of Contents
+
+We require an adequate level of product gross margin to continue to invest in our business, and our product gross margin may vary significantly depending on a number of factors. 
+Our ability to generate sufficient product gross margin and profitability to invest in our business is influenced by supply and demand balance in the flash memory industry, our ability to reduce our cost per gigabyte at an equal or higher rate than the price decline per gigabyte, our ability to develop new products and technologies, the rate of growth of our target markets, the competitive position of our products, the mix of our products, the continued acceptance of our products by our customers and our management of production capacity. Other factors that could result in volatility in our product gross margin include fluctuations in customer mix, as well as variations in the technologies or form factors of our products. For example, we experienced negative product gross margin for fiscal year 2008 and the first quarter of fiscal year 2009 due to sustained aggressive industry price declines as well as inventory charges primarily due to lower of cost or market write-downs. If we fail to maintain adequate product gross margin and profitability, our business and financial condition would be harmed and we may have to reduce, curtail or terminate certain business activities, including funding technology development and capacity expansion. Furthermore, as we diversify the products that we sell, changes in our product mix could result in volatility in our product gross margin, since we have significant variation in our product gross margin across product lines, and some of the products that we sell have product gross margin that is significantly below our overall average. 
+
+Any disruption or shortage in our supply chain could reduce our revenue, earnings and gross margin. 
+All of our flash memory products require silicon supply for the memory and controller components. Substantially all of our flash memory is currently supplied by Flash Ventures and to a much lesser extent by third-party silicon suppliers. Any disruption or shortage in supply of flash memory from our captive or non-captive sources, including disruptions due to disasters, work stoppages, supply chain interruptions and other factors, would harm our operating results.
+
+The concentration of Flash Ventures in Yokkaichi, Japan, magnifies the risks of supply disruption. The Yokkaichi location and Japan in general are subject to earthquakes, typhoons and other natural disasters. Moreover, Toshiba’s employees who produce Flash Ventures’ products are covered by collective bargaining agreements and any strike or other job action by those employees could interrupt our wafer supply from Flash Ventures. A disruption in our captive wafer supply, including but not limited to disruptions from natural disasters, emergencies such as power outages, fires or chemical spills, or employee strikes or other job actions could cause us not to have sufficient supply to meet demand, resulting in lost sales and market share, as well as significant costs, including wafer loss. For example, the March 11, 2011 earthquake and tsunami in Japan caused a brief equipment shutdown at Flash Ventures, which resulted in some wafer loss as well as delayed or canceled deliveries of certain tools and materials from suppliers impacted by the earthquake. In addition, Flash Ventures has, from time-to-time, experienced power outages and power fluctuations, which have resulted in a loss of wafers and increased costs associated with bringing the facility back online. 
+
+Currently, wafers for our internally-designed controllers are manufactured by third-party foundries. In addition, we purchase controllers from third-party sources, and some of our products require other non-flash memory components and materials for which we do not have captive supply, such as the DRAM included in some of our SSDs and MCP storage solutions that we supply for use in mobile devices. A disruption in the manufacturing operations of our controller wafer vendors, third-party controller vendors or suppliers of other non-flash memory components, such as DRAM, could result in delivery delays, harm our ability to make timely shipments of our products and harm our operating results until we could qualify an alternate source of supply for these components, which could take several quarters to complete. 
+
+Our business depends significantly upon sales through retailers and distributors, and if our retailers and distributors are not successful, we could experience reduced sales, substantial product returns or increased price protection claims, any of which would harm our business, financial condition and operating results. 
+A significant portion of our sales is made through retailers (for our retail channel) and distributors (for both our retail and commercial channels), and we must rely on them to effectively sell our products. Except in limited circumstances, we do not have exclusive relationships with our retailers or distributors. In addition, sales through retailers and distributors typically include commercial terms such as the right to return unsold inventory and protection against price declines. As a result, we do not recognize revenue until after the product has been sold through to the end user, in the case of sales to retailers, or to our distributors’ customers, in the case of sales to distributors. If our retailers and distributors are not successful in selling our products, not only would our revenue decrease, but we could also experience lower gross margin due to substantial product returns or price protection claims. Furthermore, negative changes in the credit-worthiness or the ability to access credit, or the bankruptcy or shutdown of any of our significant retail or distribution partners would harm our revenue and our ability to collect outstanding receivable balances. We also provide inventory on a consigned basis to certain of our retailers, and a bankruptcy or shutdown of these customers could preclude us from taking possession of our consigned inventory, which could result in inventory charges. 
+
+17
+
+Table of Contents
+
+We develop new applications, technologies and standards, which may not be widely adopted by consumers or enterprises, or, if adopted, may reduce demand for our older products. 
+We devote significant resources to the development of new applications, technologies and standards. New applications may require significant upfront investment with no assurance of long-term commercial success or profitability. As we introduce new standards or technologies, it can take time for these new standards or technologies to be adopted, for consumers to accept and transition to these new standards or technologies and for significant sales to be generated, if at all. Failure of consumers or enterprises to adopt our new applications, standards or technologies could harm our results of operations as we fail to reap the benefits of our investments. Competitors or other market participants could seek to develop new standards for flash memory products that, if accepted by device manufacturers or consumers, could reduce demand for our products, negatively impact our license and royalty revenue, or increase license and royalty expense. If new standards are broadly accepted and we do not adopt these new standards in our products, our revenue and results of operations may be harmed. 
+
+We face competition from numerous manufacturers and marketers of products using flash memory and if we cannot compete effectively, our operating results and financial condition will suffer. 
+We face competition from NAND flash memory manufacturers and from companies that buy NAND flash memory and incorporate it into their end products. We face different competitive pressures in different markets, and we compete to varying degrees on the basis of, among other things, price, quality and timely delivery of products, product performance, availability and differentiation, and the development of industry standards and formats. The success of our competitors may harm our future revenue or margins and may result in the loss of our key customers.
+
+•
+
+NAND Manufacturers.
+ We compete with NAND flash memory manufacturers, including Hynix, Intel, Micron, Samsung and Toshiba. These companies compete with us in selling a range of flash based products and form factors, including embedded, solid state drives, removable and other form factors. These competitors are large companies that may have greater and more advanced wafer manufacturing capacity, substantially greater financial, technical, marketing and other resources, better recognized brand names and more diversified and lower cost businesses than we do, which may allow them to produce flash memory chips in high volumes at low costs and to sell these flash memory chips themselves or to our competitors at a low cost. In addition, many of our competitors have more diversified semiconductor manufacturing capabilities and can internally produce integrated solutions or hybrid products that may include a combination of NAND flash, DRAM, custom ASICs or other integrated products, while our captive manufacturing capability is solely dedicated to NAND flash. These diversified capabilities may also provide these competitors with a competitive advantage not only in product design and manufacturing due to the ability to leverage know-how in DRAM, custom ASICs or other technologies, but also in a greater ability to respond to industry fluctuations due to their ability to convert their DRAM and other semiconductor manufacturing capacity or equipment to NAND flash and vice-versa. Furthermore, some of these competitors manufacture and sell products that are complementary to flash memory products, and may be able to leverage their competencies and customer relationships to gain a competitive advantage. Current and future memory manufacturer competitors could produce alternative flash or other memory technologies that could compete against our NAND flash technology or our alternative technologies, which may reduce demand or accelerate price declines for our products. Furthermore, the future rate of scaling of the NAND flash technology design that we employ may slow down significantly, which would slow down cost reductions that are fundamental to the adoption of NAND flash technology in new applications. If our scaling of NAND flash technology slows down relative to our competitors, our business and operating results would be harmed and our investments in captive fabrication facilities could be impaired. 
+
+•
+
+Flash Memory Card and USB Drive Manufacturers and Resellers.
+ We compete with manufacturers and resellers of flash memory card and USB drives, which purchase or have a captive supply of flash memory components and assemble memory cards. Price fluctuations, the timing of product availability and resources allocated to marketing programs can harm our branded market share and reduce our sales and profits. We also sell flash memory in the form of private label cards, wafers or components to certain OEMs who sell flash products that may ultimately compete with our branded products in the retail or commercial channels. The sales volumes and pricing to these OEMs can be highly variable and these OEMs may be more inclined to switch to an alternative supplier based on short-term price fluctuations or the timing of product availability, which could harm our sales and profits. 
+
+18
+
+Table of Contents
+
+•
+
+Client Storage Solution Manufacturers.
+ In the market for client computing SSDs, we face competition from large NAND flash producers such as Intel, Micron, Samsung and Toshiba, from third-party client SSD solution providers such as Kingston, and from hard drive manufacturers such as Seagate and WDC. In this market, we compete with these industry players largely on the basis of performance capabilities, price and product reliability. Many of the large NAND flash producers have long established relationships with computer manufacturers, or are computer manufacturers themselves, which gives them a competitive advantage in qualifying and integrating their client storage solutions in this market as well as the ability to leverage competencies that have been developed through these relationships in the past. Hard drive manufacturers may also have a competitive advantage in their ability to leverage their existing relationships and brand recognition with customers, as well as their ability to leverage existing technology in creating hybrid drive products. Our failure to compete effectively against these industry players could harm our business and results of operations.
+
+•
+
+Enterprise Storage Solution Manufacturers
+. In the market for enterprise data center SSDs, we face competition from large NAND flash producers such as Intel, Micron, Samsung and Toshiba, from enterprise SSD solution providers such as Fusion-io and LSI, and from hard drive manufacturers such as Seagate and WDC. Many of these competitors have significantly more experience with the software components that are required for successful enterprise SSD solutions, and our failure to continue to develop software expertise could harm our ability to effectively compete in this market. Many established and start-up companies are contributing to the development of the enterprise data center SSD market. Our competitors in this market may be able to leverage existing resources and competencies or acquire or develop other strategic relationships with established or start-up companies before we are able to, which could give them a competitive advantage, and if we are unable to independently develop comparable capabilities, we may be unable to effectively compete. 
+
+Our ability to generate revenue or adequate margins for certain products may be limited by our ability to secure, at competitive prices or at all, components or materials required to produce those products. 
+Our products require certain non-flash memory components and materials for which we do not have captive supply. Our ability to generate revenue or adequate margins could be impacted by an inability to source those components or materials in a cost-effective manner, or at all. For example, some of our SSDs and the MCP storage solutions that we supply for use in mobile devices include both NAND flash memory and DRAM; however, since we do not have a captive supply of DRAM, there could be periods in which we are unable to cost-effectively source the DRAM that we require or to source DRAM in the quantities or on the timeline that we require. In addition, costs of DRAM have increased in the past and continued increases in the future would harm our gross margin for our products that include DRAM. Over the past year, the non-flash memory content in our cost of sales has increased due to the increased mix of more complex products in our revenue. If we are unable to source certain components or materials cost effectively, or at all, or if we are unable to reduce the cost of non-flash memory materials and other costs, our revenue and margin may be harmed. 
+
+We may not be able to realize the potential financial or strategic benefits of business acquisitions or strategic investments, which could harm our ability to grow our business, develop new products or sell our products.
+ We have in the past and may in the future enter into acquisitions of, or investments in, businesses in order to complement or expand our current businesses or enter into new markets. Mergers and acquisitions of high-technology companies are inherently risky and subject to many factors outside of our control and no assurance can be given that our previous or future acquisitions will be successful, will deliver the intended benefits, and will not materially harm our business, operating results or financial condition. Furthermore, negotiation and integration of acquisitions or strategic investments could divert management’s attention and other company resources. 
+
+Factors associated with past or future acquisitions or investments that could harm our growth prospects or results of operations include but are not limited to:
+
+•
+
+difficulty in integrating the technology, products, operations or workforce of the acquired business into our business;
+
+•
+
+difficulty in entering into new markets in which we have limited or no experience, such as software solutions, and where competitors have stronger positions;
+
+•
+
+loss of, or the impairment of or failure to maintain and grow relationships with, key employees, vendors or customers of the acquired business;
+
+•
+
+difficulty in operating in new and potentially disperse locations;
+
+•
+
+disruption of our ongoing businesses or the ongoing business of the company we invest in or acquire;
+
+19
+
+Table of Contents
+
+•
+
+failure to realize the potential financial or strategic benefits of the transaction, including but not limited to any expected cost savings or synergies from the acquisition;
+
+•
+
+difficulty integrating the accounting, management information, human resources and other administrative systems of the acquired business;
+
+•
+
+disruption of or delays in ongoing research and development efforts and release of new products to market;
+
+•
+
+diversion of capital and other resources;
+
+•
+
+assumption of liabilities;
+
+•
+
+issuance of equity securities that may be dilutive to our existing stockholders;
+
+•
+
+diversion of resources and unanticipated expenses resulting from litigation arising from potential or actual business acquisitions or investments;
+
+•
+
+failure of the due diligence processes to identify significant issues with product quality, technology and development, or legal and financial issues, among other things;
+
+•
+
+incurring non-recurring charges, increased contingent liabilities, adverse tax consequences, depreciation or deferred compensation charges, amortization or impairment of intangible assets or impairment of goodwill, which could harm our results of operations; and
+
+•
+
+potential delay in customer purchasing decisions due to uncertainty about the direction of our product offerings or those of the acquired business.
+
+In August 2013, we completed the acquisition of SMART Storage, a developer of enterprise SSDs. In addition to the risks described above, additional factors associated with the acquisition of SMART Storage that could harm our ability to realize the potential financial or strategic benefits of the acquisition and thereby harm our growth prospects or results of operations include but are not limited to:
+
+•
+
+failure of SMART Storage’s products or technologies to perform as expected or to meet customer qualification requirements; 
+
+•
+
+failure of the enterprise SSD space to grow as expected;
+
+•
+
+delays in the timing and successful integration of SMART Storage, including the transition of the SMART Storage business from third-party sources of NAND flash memory and other components to our captive supply of these materials, which could harm our ability to achieve the expected benefits from the acquisition in a timely manner or at all;
+
+•
+
+difficulty in maintaining SMART Storage’s supplier or vendor arrangements, upon some of which SMART Storage is significantly reliant, which could harm our ability to maintain the business after the acquisition;
+
+•
+
+failure to retain SMART Storage’s key employees, particularly for the continued development of SMART Storage’s technology; and
+
+•
+
+difficulty in integrating SMART Storage’s technology into other product lines, which could diminish our expected benefits of the acquisition.
+
+In the third quarter of fiscal year 2013, we recorded impairment charges of 
+$47 million
+ related to amortizable intangible assets and 
+$36 million
+ related to an in-process research and development intangible asset, both from the acquisition of Pliant Technology, Inc., or Pliant. These impairment charges stem primarily from our decision to integrate more of the SMART Storage architecture and technology into our future enterprise product roadmap and from the delay of our next-generation SSD platform built on the Pliant technology. We will continue to monitor for any events or circumstances that could indicate whether an impairment of the remaining Pliant acquisition-related intangible assets is required.
+
+Our financial performance and the value of our investments depend significantly on worldwide economic conditions, which have deteriorated in many countries and regions, and may not recover in the foreseeable future. 
+Demand for our products is harmed by negative macroeconomic factors affecting consumer and enterprise spending. Continuing high unemployment rates, low levels of consumer liquidity, risk of default on sovereign debt and volatility in credit and equity markets have weakened consumer confidence and decreased consumer and enterprise spending in many regions around the world. These and other economic factors may reduce demand for our products and harm our business, financial condition and operating results. In addition, we maintain investments, including our cash, cash equivalents and marketable securities, of various holdings, types and maturities and, given the global nature of our business, our investment portfolio includes both domestic and international investments. Credit ratings and pricing of these investments can be negatively affected by liquidity, credit deterioration, financial results, economic risk, political risk, sovereign risk or other factors, and declines in the credit ratings or pricing of our investments could result in a decline in the value and liquidity of our investments, including our cash, cash equivalents and marketable securities, and result in a significant impairment of our assets.
+
+20
+
+Table of Contents
+
+We depend on our captive assembly and test manufacturing facility in China and our business could be harmed if this facility does not perform as planned. 
+Our reliance on our captive assembly and test manufacturing facility near Shanghai, China has increased significantly and we now utilize this factory to satisfy a majority of our assembly and test requirements, to produce products with leading-edge technologies such as multi-stack die packages and to provide order fulfillment. In addition, our Shanghai, China facility is responsible for packaging and shipping our retail products within the U.S., Asia, Europe, Canada and Latin America. Any delays in adding new equipment capacity, interruptions in production or the ability to ship product, or issues with manufacturing yields at our captive facility could harm our operating results and financial condition. In addition, investment decisions in adding new assembly and test capacity require significant planning and lead-time, and a failure to accurately forecast demand for our products could cause us to over-invest or under-invest in the expansion of captive assembly and test capacity in our facility, which would lead to excess capacity and under-utilization charges, in the event of over-investment, or insufficient assembly and test capacity resulting in a loss of sales and revenue opportunities, in the event of under-investment. Furthermore, if we were to experience labor unrest, or strikes, or if wages were to significantly increase, our ability to produce and ship products could be impaired and we could experience higher labor costs, which could harm our operating results, financial condition and liquidity. 
+
+We rely on our suppliers, some of which are the sole source of supply for our non-memory components, and capacity limitations of these suppliers expose our supply chain to unanticipated disruptions or potential additional costs. 
+We do not have long-term supply commitments from many of our suppliers, certain of which are sole sources of supply for our non-memory components. For example, the controllers for a majority of our SSD revenue are sourced from one third-party controller vendor. From time-to-time, certain materials may become difficult or more expensive to obtain, including as a result of capacity constraints of these suppliers, which could impact our ability to meet demand and could harm our profitability. Our business, financial condition and operating results could be significantly harmed by delays or reductions in shipments if we are unable to obtain sufficient quantities of these components or develop alternative sources of supply in a timely manner, on competitive terms, or at all.
+
+We depend on our third-party subcontractors and our business could be harmed if our subcontractors do not perform as planned. 
+We rely on third-party subcontractors for a portion of our wafer testing, chip assembly, product assembly, product testing and order fulfillment. From time-to-time, our subcontractors have experienced difficulty meeting our requirements. If we are unable to increase the amount of capacity allocated to us from our current subcontractors or qualify and engage additional subcontractors, we may not be able to meet demand for our products. We do not have long-term contracts with some of our existing subcontractors, nor do we have exclusive relationships with any of our subcontractors and, therefore, cannot guarantee that they will devote sufficient resources to manufacturing our products. We are not able to directly control product delivery schedules or quality assurance. Furthermore, we manufacture on a turnkey basis with some of our subcontractors. In these arrangements, we do not have visibility and control of their inventories of purchased parts necessary to build our products or of the progress of our products through their assembly line. Any significant problems that occur at our subcontractors, or their failure to perform at the level we expect, could lead to product shortages or quality assurance problems, either of which would harm our operating results.
+
+Our products may contain errors or defects, which could result in the rejection of our products, product recalls, damage to our reputation, lost revenue, diverted development resources, increased service costs, warranty and indemnification claims and litigation. 
+Our products are complex, must meet stringent user requirements and may contain errors or defects, and the majority of our products provide a warranty period. Errors or defects in our products may be caused by, among other things, errors or defects in the memory or controller components or firmware, including memory and components that we procure from non-captive sources. In addition, the substantial majority of our flash memory is supplied by Flash Ventures, and if the wafers from Flash Ventures contain errors or defects, our overall supply could be harmed. These factors could result in the rejection of our products, damage to our reputation, lost revenue, diverted development resources, increased customer service and support costs, indemnification of our customers’ product recall and other costs, warranty claims and litigation. Generally, our OEM customers have more stringent requirements than other customers and our concentration of revenue from OEMs, especially OEMs who purchase our enterprise and client SSD products, could result in increased expenditures for product testing, or increase our service costs and potentially lead to increased warranty or indemnification claims. Furthermore, the costs of errors or defects in our embedded products may be greater than those of stand-alone, removable products due to the effect that such errors or defects may have on other components of the device in which they are embedded. We record an allowance for warranty and similar costs in connection with sales of our products, but actual warranty and similar costs may be significantly higher than our recorded estimate and harm our operating results and financial condition.
+
+21
+
+Table of Contents
+
+Our new products have, from time-to-time, been introduced with design and production errors at a rate higher than the error rate in our established products. We must estimate warranty and similar costs for new products without historical information and actual costs may significantly exceed our recorded estimates. Underestimation of our warranty and similar costs would harm our operating results and financial condition.
+
+Certain of our products contain encryption or security algorithms to protect third-party content and user-generated data stored on our products. To the extent our products are hacked or the encryption schemes are compromised or breached, this could harm our business by hurting our reputation, requiring us to employ additional resources to fix the errors or defects and expose us to litigation and indemnification claims. This could potentially impact future collaboration with content providers or lead to product returns or claims against us due to actual or perceived vulnerabilities.
+
+We are exposed to foreign currency exchange rate fluctuations that could harm our business, operating results and financial condition. 
+A significant portion of our business is conducted in currencies other than the U.S. dollar, which exposes us to adverse changes in foreign currency exchange rates. An increase in the value of the U.S. dollar could increase the real cost to our customers of our products in those markets outside the U.S. where we sell in dollars, and a weakened U.S. dollar could increase local operating expenses and the cost of raw materials to the extent purchased in foreign currencies. These exposures may change over time as our business and business practices evolve, and they could harm our financial results and cash flows. 
+
+Our most significant exposure is related to our purchases of NAND flash memory from Flash Ventures, which are denominated in Japanese yen. Appreciation in the value of the Japanese yen relative to the U.S. dollar would increase our cost of NAND flash wafers, negatively impacting our gross margin and operating results. In addition, our investments in Flash Ventures are denominated in Japanese yen and strengthening of the Japanese yen would increase the cost to us of future funding and increase the value of our Japanese yen-denominated investments, increasing our exposure to asset impairments. Macroeconomic weakness in the U.S. or other parts of the world could lead to strengthening of the Japanese yen, which would harm our gross margin, operating results, and the cost of future Flash Venture funding, and increase the risk of asset impairment. We also have foreign currency exposures related to certain non-U.S. dollar-denominated revenue and operating expenses in Europe and Asia. Additionally, we have exposures to emerging market currencies, which can be extremely volatile. We also have significant monetary assets and liabilities that are denominated in non-functional currencies.
+
+We enter into foreign exchange forward and cross currency swap contracts to reduce the impact of foreign currency fluctuations on certain foreign currency assets and liabilities. In addition, from time-to-time, we hedge certain anticipated foreign currency cash flows with foreign exchange forward and option contracts, primarily for Japanese yen-denominated inventory purchases. We generally have not hedged our future equity investments, distributions and loans denominated in Japanese yen related to Flash Ventures.
+
+Our decisions and hedging strategy with respect to currency risks may not be successful, which could harm our operating results. In addition, if we do not successfully manage our hedging program in accordance with accounting guidelines, we may be subject to adverse accounting treatment, which could harm our operating results. There can be no assurance that this hedging program will be economically beneficial to us for numerous reasons, including that hedging may reduce volatility, but prevent us from benefiting from a favorable market trend. Further, the ability to enter into foreign exchange contracts with financial institutions is based upon our available credit from such institutions and compliance with covenants and other restrictions. Operating losses, third-party downgrades of our credit rating or instability in the worldwide financial markets, including the downgrade of the credit rating of the U.S. government, could impact our ability to effectively manage our foreign currency exchange rate risk, which could harm our business, operating results and financial condition.
+
+Our global operations and operations at Flash Ventures and third-party subcontractors are subject to risks for which we may not be adequately insured. 
+Our global operations are subject to many risks, including but not limited to errors and omissions, infrastructure disruptions, such as large-scale outages or interruptions of service from utilities or telecommunications providers, supply chain interruptions, third-party liabilities and fires or natural disasters. No assurance can be given that we will not incur losses beyond the limits of, or outside the scope of, the coverage of our insurance policies. From time-to-time, various types of insurance have not been available on commercially acceptable terms or, in some cases, at all. There can be no assurance that in the future we will be able to maintain existing insurance coverage or that premiums will not increase substantially. We maintain limited insurance coverage and, in some cases, no coverage at all, for natural disasters and environmental damages, as these types of insurance are sometimes not available or available only at a prohibitive cost. For example, our test and assembly facility in Shanghai, China, on which we significantly rely, may not be adequately insured against all potential losses. Accordingly, we may be subject to uninsured or under-insured losses. We depend upon Toshiba to 
+
+22
+
+Table of Contents
+
+obtain and maintain sufficient property, business interruption and other insurance for Flash Ventures. If Toshiba fails to do so, we could suffer significant unreimbursable losses, and such failure could also cause Flash Ventures to breach various financing covenants. In addition, we insure against property loss and business interruption resulting from the risks incurred at our third-party subcontractors; however, we have limited control as to how those sub-contractors run their operations and manage their risks, and as a result, we may not be adequately insured.
+
+If our security measures or security measures of our suppliers, vendors and partners are breached and unauthorized access to our or their information technology systems is obtained, we may lose proprietary data.
+
+Our security measures and the security measures of our suppliers, vendors and partners may be breached and our or their information technology systems accessed as a result of third-party action, including computer hackers, employee error, malfeasance or otherwise, and result in unauthorized access to our customers’ data or our data, including IP and other confidential business information. Because the techniques used to obtain unauthorized access, or to sabotage systems, change frequently, we may be unable to anticipate these techniques or to implement adequate preventative measures. Furthermore, we have limited or no control over the implementation of preventative measures of our suppliers, vendors and partners. Any security breach could result in disclosure of our trade secrets or confidential customer, supplier or employee data, which could result in legal liability, harm to our reputation and other harm to our business. 
+
+We may need to raise additional financing, which could be difficult to obtain, and which, if not obtained in satisfactory amounts, may prevent us from funding Flash Ventures, increasing our wafer supply, developing or enhancing our products, taking advantage of future opportunities, engaging in acquisitions of or investments in companies, growing our business or responding to competitive pressures or unanticipated industry changes, any of which could harm our business. 
+We currently believe that we have sufficient cash resources to fund our operations as well as our anticipated investments in Flash Ventures for at least the next twelve months; however, we may decide to raise additional funds to maintain the strength of our balance sheet or fund our operations through equity, public or private debt, or lease financings. However, we cannot be certain that we will be able to obtain additional financing on favorable terms, or at all. If we issue additional equity securities, our stockholders will experience dilution and the new equity securities may have rights, preferences or privileges senior to those of existing holders of common stock. If we raise funds through debt or lease financing, we will have to pay interest and may be subject to restrictive covenants, which could harm our business. If we cannot raise funds on acceptable terms, if and when needed, our credit rating may be downgraded, and we may not be able to develop or enhance our technology or products, fulfill our obligations to Flash Ventures, increase our wafer supply, take advantage of future opportunities, engage in acquisitions of or investments in companies, grow our business or respond to competitive pressures or unanticipated industry changes, any of which could harm our business.
+
+We may be unable to protect our IP rights, which would harm our business, financial condition and operating results. 
+We rely on a combination of patent, trademark, copyright and trade secret laws, confidentiality procedures and licensing arrangements to protect our IP rights. In the past, we have been involved in significant and expensive disputes regarding our IP rights and those of others, including claims that we may be infringing patents, trademarks and other IP rights of third-parties. We expect that we will be involved in similar disputes in the future.
+
+There can be no assurance that:
+
+•
+
+any of our existing patents will continue to be held valid, if challenged;
+
+•
+
+patents will be issued for any of our pending applications;
+
+•
+
+any claims allowed from existing or pending patents will have sufficient scope or strength to protect us;
+
+•
+
+our patents will be issued in the primary countries where our products are sold in order to protect our rights and potential commercial advantage; or
+
+•
+
+any of our products or technologies do not infringe on the patents of other companies.
+
+In addition, our competitors may be able to design their products around our patents and other proprietary rights. We also have patent cross-license agreements with several of our leading competitors. Under these agreements, we have enabled competitors to manufacture and sell products that incorporate technology covered by our patents. While we obtain license and royalty revenue or other consideration for these licenses, if we continue to license our patents to our competitors, competition may increase and may harm our business, financial condition and operating results.
+
+23
+
+Table of Contents
+
+There are flash memory producers, flash memory card manufacturers and other companies that utilize flash memory who we believe may infringe our IP. Enforcement of our rights often requires litigation. If we bring a patent infringement action and are not successful, our competitors would be able to use similar technology to compete with us. Moreover, the defendant in such an action may successfully countersue us for infringement of their patents or assert a counterclaim that our patents are invalid or unenforceable. If we do not prevail in the defense of patent infringement claims, we could be required to pay substantial damages, cease the manufacture, use and sale of infringing products in one or more geographic locations, expend significant resources to develop non-infringing technology, discontinue the use of specific processes or obtain licenses to the technology infringed. If we are enjoined from selling our products, or if we are required to develop new technologies or pay significant monetary damages or are required to make substantial royalty payments, our business and results of operations would be harmed.
+
+We and our suppliers rely upon certain rare earth materials that are necessary for the manufacturing of our products, and our business could be harmed if we or our suppliers experience shortages or delays of these rare earth materials. 
+Rare earth materials are critical to the manufacture of some of our products. We and/or our suppliers acquire these materials from a number of countries, including the People’s Republic of China. We cannot predict whether the government of China or any other nation will impose regulations, quotas or embargoes upon the materials incorporated into our products that would restrict the worldwide supply of these materials or increase their cost. If China or any other major supplier were to restrict the supply available to us or our suppliers or increase the cost of the materials used in our products, we could experience a shortage in supply and an increase in production costs, which would harm our operating results.
+
+We and certain of our officers are at times involved in litigation, including litigation regarding our IP rights or that of third parties, which may be costly, may divert the efforts of our key personnel and could result in adverse court rulings, which could materially harm our business. 
+We are often involved in litigation, including cases involving our IP rights and those of others. We are the plaintiff in some of these actions and the defendant in others. Some of the actions seek injunctions against the sale of our products and/or substantial monetary damages, which if granted or awarded, could materially harm our business, financial condition and operating results.
+
+Litigation is subject to inherent risks and uncertainties that may cause actual results to differ materially from our expectations. Factors that could cause litigation results to differ include, but are not limited to, the discovery of previously unknown facts, changes in the law or in the interpretation of laws, and uncertainties associated with the judicial decision-making process. If we receive an adverse judgment in any litigation, we could be required to pay substantial damages and/or cease the manufacture, use and sale of products. Litigation, including IP litigation, can be complex, can extend for a protracted period of time, can be very expensive, and the expense can be unpredictable. Litigation initiated by us could also result in counter-claims against us, which could increase the costs associated with the litigation and result in our payment of damages or other judgments against us. In addition, litigation may divert the efforts and attention of some of our key personnel.
+
+We may be obligated to indemnify our current or former directors or employees, or former directors or employees of companies that we have acquired, in connection with litigation or regulatory investigations. These liabilities could be substantial and may include, among other things, the costs of defending lawsuits against these individuals; the cost of defending shareholder derivative suits; the cost of governmental, law enforcement or regulatory investigations; civil or criminal fines and penalties; legal and other expenses; and expenses associated with the remedial measures, if any, which may be imposed.
+
+Moreover, from time-to-time, we agree to indemnify certain of our suppliers and customers for alleged IP infringement. The scope of such indemnity varies but generally includes indemnification for direct and consequential damages and expenses, including attorneys’ fees. We may be engaged in litigation as a result of these indemnification obligations. Third-party claims for patent infringement are excluded from coverage under our insurance policies. A future obligation to indemnify our customers or suppliers may harm our business, financial condition and operating results. For additional information concerning legal proceedings, see Part II, Item 1, “Legal Proceedings.”
+
+24
+
+Table of Contents
+
+We may be unable to license, or license at a reasonable cost, IP from third parties as needed, which could expose us to liability for damages, increase our costs or limit or prohibit us from selling products. 
+If we incorporate third-party technology into our products or if we are found to infringe the IP of others, we could be required to license IP from third-parties. We may also need to license some of our IP to others in order to enable us to obtain important cross-licenses to third-party patents. We cannot be certain that licenses will be offered when we need them, that the terms offered will be acceptable, or that these licenses will help our business. If we do obtain licenses from third parties, we may be required to pay license fees, royalty payments, or offset license revenue. In addition, if we are unable to obtain a license that is necessary to manufacture or sell our products, we could be required to redesign or stop shipping our products to one or more geographic locations, suspend the manufacture of products or stop our product suppliers from using processes that may infringe the rights of third parties. We may not be successful in redesigning our products, or the necessary licenses may not be available under reasonable terms, which would harm our business and financial results.
+
+Changes in the seasonality of our business may result in our inability to accurately forecast our product purchase requirements. 
+Sales of our products in the consumer electronics market are subject to seasonality. Sales have typically increased significantly in the fourth quarter of each fiscal year, sometimes followed by significant declines in the first quarter of the following fiscal year. However, the global economic environment may impact typical seasonal trends, making it more difficult for us to forecast our business. Changes in the product or channel mix of our business can also impact seasonal patterns, adding to complexity in forecasting demand. If our forecasts are inaccurate, we may lose market share or procure excess inventory or inappropriately increase or decrease our operating expenses, any of which could harm our business, financial condition and operating results. Changes in seasonality may also lead to greater volatility in our stock price and the need for significant working capital investments in receivables and inventory, including the need to build inventory levels in advance of our projected high volume selling seasons.
+
+The Flash Ventures’ master equipment lease obligations contain covenants, which if breached, would harm our business, operating results, cash flows and liquidity. 
+
+Flash Ventures’ master lease agreements contain customary covenants for Japanese lease facilities. In addition to containing customary events of default related to Flash Ventures that could result in an acceleration of Flash Ventures’ obligations, some of the master lease agreements contain an acceleration clause for certain events of default related to us as guarantor, including, among other things, our failure to maintain a minimum stockholders’ equity of at least 
+$1.51 billion
+. As of December 29, 2013, Flash Ventures was in compliance with all of its master lease covenants. 
+
+If our stockholders’ equity were to fall below 
+$1.51 billion
+, Flash Ventures would become non-compliant with certain covenants under its master equipment lease agreements and would be required to negotiate a resolution to the non-compliance to avoid acceleration of the obligations under such agreements. Such resolution could include, among other things, supplementary security to be supplied by us, as guarantor, or increased interest rates or waiver fees, should the lessors decide they need additional collateral or financial consideration. If an event of default occurs and if we fail to reach a resolution, we may be required to pay a portion or the entire outstanding lease obligations up to approximately 
+$492 million
+, based upon the exchange rate at 
+December 29, 2013
+, covered by our guarantee under Flash Ventures’ master lease agreements, which would significantly reduce our cash position and may force us to seek additional financing, which may not be available.
+
+We are vulnerable to numerous risks related to our international operations, including political instability, and we must comply with numerous laws and regulations, many of which are complex. 
+Currently, a large portion of our revenue is derived from our international operations, and all of our products and many of our components are produced overseas in China, Japan, Malaysia and Taiwan. Our revenue and future growth is also significantly dependent on international markets, and we may face difficulties entering or maintaining sales in some international markets. We are, therefore, affected by the political, economic, labor, environmental, public health and military conditions in these countries. For example, China does not currently have a comprehensive and highly developed legal system, particularly with respect to the protection of IP rights, which results in the prevalence of counterfeit goods in China, among other things, as well as piracy and degradation of our IP protection. Our efforts to prevent counterfeit products from entering the market may not be successful, and the sale of counterfeit products could harm our operating results and financial condition. In addition, customs regulations in China are complex and subject to frequent changes and, in the event of a customs compliance issue, our ability to import to, and export from, our factory in Shanghai, China could be adversely affected, which could harm our operating results and financial condition.
+
+25
+
+Table of Contents
+
+Our international business activities could also be limited or disrupted by any of the following factors:
+
+•
+
+the need to comply with foreign government regulation;
+
+•
+
+the need to comply with U.S. regulations on international business, including the Foreign Corrupt Practices Act and rules regarding conflict minerals;
+
+•
+
+changes in diplomatic and trade relationships or government intervention, which may impact our ability to sell to certain customers;
+
+•
+
+reduced sales to our customers or interruption to our manufacturing processes in the Pacific Rim that may arise from regional issues in Asia, including natural disasters or labor strikes;
+
+•
+
+imposition of regulatory requirements, tariffs, import and export restrictions and other barriers and restrictions;
+
+•
+
+a higher degree of commodity pricing than in the U.S.;
+
+•
+
+changes in, or the particular application of, government regulations;
+
+•
+
+import or export restrictions that could affect some of our products, including those with encryption technology;
+
+•
+
+duties and/or fees related to customs entries for our products, which are all manufactured offshore;
+
+•
+
+longer payment cycles and greater difficulty in accounts receivable collection;
+
+•
+
+adverse tax rules and regulations;
+
+•
+
+weak protection of our IP rights;
+
+•
+
+delays in product shipments due to local customs restrictions; and
+
+•
+
+delays in research and development that may arise from political unrest at our development centers in Israel or other countries.
+
+Our common stock and convertible notes prices have been, and may continue to be, volatile, which could result in investors losing all or part of their investments.
+
+The market prices of our common stock and convertible notes have fluctuated significantly in the past and may continue to fluctuate in the future. We believe that such fluctuations will continue as a result of many factors, such as financing plans, future announcements concerning us, our competitors or our principal customers regarding financial results or expectations, technological innovations, industry supply and demand dynamics, new product introductions, governmental regulations, the commencement or results of litigation or changes in earnings estimates by analysts. In addition, in recent years the stock market has experienced significant price and volume fluctuations and the market prices of the securities of high-technology and semiconductor companies have been especially volatile, often for reasons outside the control of the particular companies. These fluctuations as well as general economic, political and market conditions may harm the market price of our common stock as well as the prices of our outstanding convertible notes.
+
+Our success depends on our key personnel, including our senior management, and the loss of key personnel or the transition of key personnel could disrupt our business. 
+Our success greatly depends on the continued contributions of our senior management and other key research and development, sales, marketing and operations personnel. We do not have employment agreements with any of our executive officers and they are free to terminate their employment with us at any time. Our success will depend on our ability to recruit and retain additional highly-skilled personnel. We have relied on equity awards in the form of stock options and restricted stock units as one means for recruiting and retaining highly skilled talent and a reduction in our stock price may reduce the effectiveness of these equity awards in retaining employees. We also rely on cash incentive awards to motivate and retain employees. These cash incentive awards depend significantly on our financial and business performance, and variations in our financial and business performance from our expectations at the time we set the targets for such cash incentive awards could result in decreased or eliminated awards, reducing the effectiveness of these cash incentive awards in retaining employees. 
+
+Terrorist attacks, war, threats of war and government responses thereto may negatively impact our operations, revenue, costs and stock price. 
+Terrorist attacks, U.S. military responses to these attacks, war, threats of war and any corresponding decline in consumer confidence could have a negative impact on consumer demand. Any of these events may disrupt our operations or those of our customers and suppliers and may affect the availability of materials needed to manufacture our products or the means to transport those materials to manufacturing facilities and finished products to customers. Any of these events could also increase volatility in the U.S. and world financial markets, which could harm our stock price and may limit the capital resources available to us and our customers or suppliers, or adversely affect consumer confidence. We have substantial operations in Israel including a development center in Northern Israel, near the border with Lebanon, and a research center in Omer, Israel, which is near the Gaza Strip, areas that have experienced significant violence and political unrest. Turmoil and unrest in Israel, the Middle East or other regions could cause delays in the development or production of our products and could harm our business and operating results.
+
+26
+
+Table of Contents
+
+Natural disasters or epidemics in the countries in which we or our suppliers or subcontractors operate could harm our operations. 
+Our supply chain operations, including those of our suppliers and subcontractors, are concentrated in the U.S., China, Japan, Malaysia, Singapore and Taiwan. In the past, certain of these areas have been affected by natural disasters such as earthquakes, tsunamis, floods and typhoons, and some areas have been affected by epidemics. In addition, our headquarters, which house a significant concentration of our research and development and engineering staff, are located in the San Francisco Bay Area, an area that is prone to earthquakes. If a natural disaster or epidemic were to occur in one or more of these areas, we could incur a significant work or production stoppage. The impact of these potential events is magnified by the fact that we do not have insurance for most natural disasters or epidemics, including earthquakes and tsunamis. The impact of a natural disaster or epidemic could harm our business and operating results. 
+
+Disruptions in global transportation could impair our ability to deliver or receive product on a timely basis, or at all, causing harm to our financial results.
+ Our raw materials, work-in-process and finished products are primarily distributed via air transport. If there are significant disruptions in air transport, we may not be able to deliver our products or receive raw materials. Any natural disaster or other event that affects air transport in Asia could disrupt our ability to receive raw materials in, or ship finished product from, our Shanghai, China facility or our Asia-based contract manufacturers. As a result, our business and operating results may be harmed.
+
+We rely on information systems to run our business and any prolonged down time could harm our business operations and/or financial results. 
+We rely on an enterprise resource planning system, as well as multiple other systems, databases, and data centers to operate and manage our business. Any information system problems, programming errors or unanticipated system or data center interruptions could impact our continued ability to successfully operate our business and could harm our financial results or our ability to accurately report our financial results on a timely basis.
+
+Anti-takeover provisions in our charter documents, stockholder rights plan and Delaware law could discourage or delay a change in control and negatively impact our stockholders. 
+We have taken a number of actions that could have the effect of discouraging a takeover attempt. For example, we have a stockholders’ rights plan that would cause substantial dilution to a stockholder, and substantially increase the cost paid by a stockholder, who attempts to acquire us on terms not approved by our board of directors. This could discourage an acquisition of us. In addition, our certificate of incorporation grants our board of directors the authority to fix the rights, preferences and privileges of and issue up to 4,000,000 shares of preferred stock without stockholder action (2,000,000 shares of preferred stock have already been reserved under our stockholder rights plan). Issuing preferred stock could have the effect of making it more difficult and less attractive for a third party to acquire a majority of our outstanding voting stock. Preferred stock may also have other rights, including economic rights senior to our common stock that could harm the market value of our common stock. In addition, we are subject to the anti-takeover provisions of Section 203 of the Delaware General Corporation Law. This section provides that a corporation may not engage in any business combination with any interested stockholder, defined broadly as a beneficial owner of 15% or more of that corporation’s voting stock, during the three-year period following the time that a stockholder became an interested stockholder, without certain conditions being satisfied. This provision could delay or discourage a change of control of SanDisk.
+
+Unanticipated changes in our tax provisions or exposure to additional income tax liabilities could affect our profitability. 
+We are subject to income and other taxes in the U.S. and numerous foreign jurisdictions. Our tax liabilities are affected by the amounts we charge for inventory, services, licenses, funding and other items in intercompany transactions. We are subject to ongoing tax audits in various jurisdictions. Tax authorities may disagree with our intercompany charges or other matters and assess additional taxes. For example, we were under a federal income tax audit by the U.S. Internal Revenue Service, or IRS, for fiscal years 2005 through 2008 and issued the Revenue Agent’s report in February 2012. The most significant proposed adjustments are comprised of related party transactions between our U.S. parent entity and our foreign subsidiaries. We are contesting these adjustments through the IRS Appeals Office and cannot predict when a resolution will be reached. Furthermore, we are currently under a federal income tax audit by the IRS for fiscal years 2009 through 2011, and we do not expect a resolution of this audit to be reached during the next twelve months. While we regularly assess the likely outcomes of these audits in order to determine the appropriateness of our tax provision, tax audits are inherently uncertain and an unfavorable outcome could occur. An unanticipated unfavorable outcome in any specific period could harm our operating results for that period or future periods. The financial cost and management attention and time devoted to defending income tax positions may divert resources from our business operations, which could harm our business and profitability. IRS audits may also impact the timing and/or amount of our refund claims. In addition, our effective tax rate in the future could be adversely affected by changes in the mix of earnings in countries with differing statutory tax rates, changes in the valuation of deferred tax assets and liabilities, changes in tax laws and the discovery of new information in the course of our tax return preparation process. In particular, the carrying value of deferred tax assets, which are predominantly in the U.S., is dependent on our ability to generate future taxable income in the U.S.
+
+27
+
+Table of Contents
+
+We may be subject to risks associated with laws, regulations and customer initiatives relating to the environment or other social responsibility issues. 
+Production and marketing of products in certain states and countries may subject us to environmental and other regulations including, in some instances, the responsibility for environmentally safe disposal or recycling. Such laws and regulations have recently been passed in several jurisdictions in which we operate, including Japan and certain states within the U.S. In addition, climate change issues, energy usage and emissions controls may result in new environmental legislation and regulations, at the international, federal or state level, that may make it more difficult or expensive for us, our suppliers and our customers to conduct business. Any of these regulations could cause us to incur additional direct costs, as well as increased indirect costs related to our relationships with our customers and suppliers, and otherwise harm our operations and financial condition.
+
+Government regulators or our customers may require us to comply with product or manufacturing standards that are more restrictive than current laws and regulations related to environmental matters, conflict minerals or other social responsibility initiatives. The implementation of these standards could affect the sourcing, cost and availability of materials used in the manufacture of our products. Non-compliance with these standards could cause us to lose sales to these customers and compliance with these standards could increase our costs, which may harm our operating results.
+
+New conflict minerals regulations are causing us to incur additional expenses and could limit the supply and increase the cost of certain metals used in manufacturing our products.
+
+In August 2012, the SEC adopted new rules establishing additional disclosure and reporting requirements regarding the use of specified minerals, or conflict minerals, that are necessary to the functionality or production of products manufactured or contracted to be manufactured. These new rules will require us to determine, disclose and report whether or not such conflict minerals originate from the Democratic Republic of the Congo or any adjoining country. These new rules could affect our ability to source certain materials used in our products at competitive prices and could impact the availability of certain minerals used in the manufacture of our products, including gold, tantalum, tin and tungsten. As there may be only a limited number of suppliers of “conflict free” minerals, we cannot be sure that we will be able to obtain necessary conflict free minerals in sufficient quantities or at competitive prices. Our customers, including OEM and other customers in our commercial channel, may require that our products be free of conflict minerals, and our revenue and margin may be harmed if we are unable to provide assurances to our customers that our products are “conflict free” or to procure conflict free minerals at a reasonable price, or at all, or are unable to pass through any increased costs associated with meeting these demands. Additionally, we may face reputational challenges with our customers and other stakeholders if we are unable to sufficiently verify the origins of all minerals used in our products through the due diligence procedures that we implement. We may also face challenges with government regulators and our customers and suppliers if we are unable to sufficiently verify that the metals used in our products are conflict free. We expect that there may be material costs associated with complying with the disclosure requirements, such as costs related to determining the source of certain minerals used in our products, as well as costs related to possible changes to products, processes, or sources of supply as a consequence of such verification and disclosure requirements.
+
+In the event we are unable to satisfy regulatory requirements relating to internal controls, or if our internal control over financial reporting is not effective, our business could suffer. 
+In connection with our certification process under Section 404 of the Sarbanes-Oxley Act, we have identified in the past and will, from time-to-time in the future, identify deficiencies in our internal control over financial reporting. There can be no assurance that individually or in the aggregate these deficiencies would not be deemed to be a material weakness or significant deficiency. A material weakness or significant deficiency in internal control over financial reporting could have a materially adverse impact on our reported financial results and the market price of our stock could significantly decline. Additionally, adverse publicity related to the disclosure of a material weakness in internal controls could harm our reputation, business and stock price. Any internal control or procedure, no matter how well designed and operated, can only provide reasonable assurance of achieving desired control objectives and cannot prevent human error, intentional misconduct or fraud.
+
+We have significant financial obligations related to Flash Ventures, which could impact our ability to comply with our obligations under our 1.5% Convertible Senior Notes due 2017 and our 0.5% Convertible Senior Notes due 2020. 
+We have entered into agreements to guarantee or provide financial support with respect to lease and certain other obligations of Flash Ventures in which we have a 
+49.9%
+ ownership interest. As of 
+December 29, 2013
+, we had guarantee obligations for Flash Ventures’ master lease agreements denominated in Japanese yen of approximately 
+$492 million
+ based on the exchange rate at 
+December 29, 2013
+. In addition, we have significant commitments for the future fixed costs of Flash Ventures, and we will incur significant obligations with respect to Flash Forward as well as continued investment in Flash Partners and Flash Alliance. Due to these and our other commitments, we may not have sufficient funds to make payments under or repay the notes.
+
+28
+
+Table of Contents
+
+There can be no assurance that we will continue to declare cash dividends. 
+Our Board of Directors began declaring a quarterly dividend payment on our common stock in the third quarter of fiscal year 2013. Our continuation of declaring quarterly dividends is subject to capital availability and periodic determination by our Board of Directors that cash dividends are in the best interest of our shareholders. Future dividends may be affected by, among other factors, our views on potential future capital requirements, acquisition transactions, stock repurchases, changes in tax laws, and changes in our business model. A reduction in our dividend payments or discontinuance of dividend payments could have a negative effect on our stock price, which could have a material adverse impact on investor confidence and employee retention.
+
+29
+
+Table of Contents

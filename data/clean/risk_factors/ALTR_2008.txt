@@ -1,0 +1,445 @@
+” – “Because we depend on international sales for a majority of our total sales, we may be subject to political, economic and other conditions that could increase our operating expenses and disrupt our
+business” and “
+Our business is subject to tax risks associated with being a multinational corporation.” 
+
+The
+information regarding geographic breakdown of our property and equipment, included in Note 10 of the Notes to Consolidated Financial Statements, is hereby incorporated by reference. 
+
+Backlog 
+
+Our backlog consists mostly
+of distributor orders, as well as limited OEM orders, that are for delivery within the next three months. Our backlog of orders on December 28, 2007, was approximately $960.0 million, compared to $614.0 million on December 29, 2006.
+
+Historically, backlog has been a poor predictor of future customer demand. While our backlog can increase during periods of high demand and
+supply constraints, purchasers may generally cancel product orders up to 30 days prior to the scheduled delivery date without incurring significant cancellation penalties. Further, we generally defer recognition of revenue on shipments to
+distributors until the product is resold. Lastly, our backlog is valued at list price, which is substantially higher than the actual price in most cases. For all of these reasons, backlog as of any particular date should not be used as a predictor
+of future sales. 
+
+Manufacturing 
+
+WAFER S
+UPPLY 
+
+Die, cut from silicon wafers, are the essential components of all our devices
+and a significant portion of the total device cost. Our manufacturing strategy is known as a “fabless” business model since we do not directly manufacture our silicon wafers. Instead, our silicon wafers are produced by independent
+semiconductor foundries. This enables us to take advantage of these suppliers’ high-volume economies of scale and also gives us direct and timely access to advanced process technology. We purchase nearly all of our silicon wafers from Taiwan
+Semiconductor Manufacturing Company, or TSMC, an independent semiconductor foundry. We have no formalized long-term supply or allocation commitments from TSMC. The remaining portion of our silicon wafers are produced by Sharp Corporation in Japan.
+In the past, we have used other foundry vendors, and we may establish additional foundry relationships as they become economically beneficial or technically necessary. For a discussion of risk factors associated with our wafer supply arrangements,
+see “Item 1A: Risk Factors” – “We depend entirely on independent subcontractors to supply us with finished silicon wafers. The failure of these subcontractors to satisfy our demand could materially disrupt our
+business,” “
+Shortages of, and/or increased costs for, our silicon wafers could lower our gross margins, reduce our sales, or otherwise materially disrupt our business,” “
+The manufacture of our products is complex,
+and the foundries on which we depend may not achieve the necessary yields or product reliability that our business requires,” and “
+Conditions outside the control of our independent subcontractors and distributors may impact their
+business operations and thereby adversely interrupt our manufacturing and sales processes.” 
+
+TESTING
+
+AND A
+SSEMBLY 
+
+After wafer manufacturing is completed, each silicon wafer is tested using a variety of test
+and handling equipment. The vast majority of our silicon wafer testing is performed at TSMC or our San Jose pilot line facility, which is used primarily for new product development. This testing is performed on equipment owned by us and consigned to
+our partners. 
+
+11 
+
+Table of Contents
+
+The wafers are then shipped to various assembly suppliers in Asia, where good die are separated into
+individual chips that are then encapsulated in packages. We employ a number of independent suppliers for assembly purposes. This enables us to take advantage of these subcontractors’ high-volume economies of scale and supply flexibility, and
+gives us direct and timely access to advanced packaging technology. We purchase almost all of our assembly services from Amkor Electronics, Inc., in Korea and the Philippines, and Advanced Semiconductor Engineering, Inc., or ASE, in Malaysia and
+Taiwan. 
+
+Following assembly, each of the packaged units receives final testing, marking, and inspection prior to being packaged for storage
+as finished goods. We obtain almost our entire final test and back-end operation services from Amkor and ASE. Final testing by these assembly suppliers is accomplished through the use of our proprietary test software operating on hardware that is
+consigned to or owned by our suppliers. 
+
+The majority of our inventory, including finished goods, is warehoused at our subcontract test and
+assembly partners located in Asia with a smaller portion located at our corporate facility in San Jose, California. On our behalf, these suppliers also ship our products to OEMs and distributors. 
+
+For a discussion of risk factors associated with our testing and assembly arrangements, see “Item 1A: Risk Factors” – “We depend on
+independent subcontractors, located in Asia, to assemble, test, and ship our semiconductor products. The failure of these subcontractors to satisfy our demand could materially disrupt our business” and “
+Conditions outside the
+control of our independent subcontractors and distributors may impact their business operations and thereby adversely interrupt our manufacturing and sales processes.” 
+
+Executive Officers of the Registrant 
+
+Our executive officers and their ages as of February 25, 2008 are as follows: 
+
+Name
+
+Age
+
+Position
+
+ John P. Daane
+
+44
+
+Chairman, President and Chief Executive Officer
+
+ Misha R. Burich
+
+60
+
+Senior Vice President, Research and Development
+
+ William Y. Hata
+
+48
+
+Vice President, Worldwide Operations and Engineering
+
+ Lance M. Lissner
+
+58
+
+Senior Vice President, Business Development and Chief Information Officer
+
+ Kevin H. Lyman
+
+53
+
+Vice President, Human Resources
+
+ Timothy R. Morse
+
+38
+
+Senior Vice President and Chief Financial Officer
+
+ George A. Papa
+
+59
+
+Senior Vice President, Worldwide Sales
+
+ Jordan S. Plofsky
+
+47
+
+Senior Vice President, Marketing
+
+ Katherine E. Schuelke
+
+45
+
+Vice President, General Counsel and Secretary
+
+There are no family relationships among our executive officers or between any executive officer and
+any of our directors. 
+
+John P. Daane joined us as our President and Chief Executive Officer in November 2000 and was elected as one
+of our directors in December 2000 and our Chairman of the Board in May 2003. Prior to joining us, Mr. Daane spent 15 years at LSI Logic Corporation, a semiconductor manufacturer, most recently as Executive Vice President, Communications
+Products Group, with responsibility for ASIC technology development and the Computer, Consumer, and Communications divisions. 
+
+Misha R.
+Burich joined us as our Senior Vice President of Software Engineering in December 2000, and assumed the role of Senior Vice President Research and Development in March 2007. Prior to joining us, he served as a Vice President of R&D at
+various electronic design automation (EDA) companies, including Cadence Design Systems, Mentor Graphics, Silicon Compiler Systems, and Silicon Design Labs, which he co-founded in 1984. Dr. Burich began his career at Bell Laboratories Research
+in 1978. 
+
+William Y. Hata joined us as Vice President of Product Engineering in December 1999. In March of 2007, Mr.
+Hata was promoted to Vice President, Worldwide Operations and Engineering, Prior to joining us, he was a director of foundry operations and product engineering at National Semiconductor.
+
+12 
+
+Table of Contents
+
+Lance M. Lissner joined us in May 1998 as Vice President of Business Development and Investor
+Relations and was appointed Senior Vice President, Business Development in November 2000. Prior to that time, Mr. Lissner was a corporate officer of Measurex Corporation, a developer of computer-integrated measurement, control, and information
+systems, where he was employed since 1973 and held various positions in sales, marketing, engineering, and business development. 
+
+Kevin
+H. Lyman joined us in January 2008 as our Vice President of Human Resources. Prior to joining us, Mr. Lyman most recently served as Senior Vice President of Corporate Human Resources at Advanced Micro Devices. Prior to that, Mr. Lyman
+held a variety of human resources management roles at Lockheed, GenRad, and General DataComm Industries. 
+
+Timothy R. Morse joined us
+in January 2007 as Senior Vice President and Chief Financial Officer. Prior to joining us, Mr. Morse most recently served as Chief Financial Officer and General Manager of Business Development, GE Plastics. As a 15-year veteran of the General
+Electric Company, Mr. Morse has also held positions at GE Appliances and GE Capital, in North America, Europe, and Asia. 
+
+George A.
+Papa joined us in February 2002 as Senior Vice President, Worldwide Sales. From February 2000 to February 2002, Mr. Papa served as Vice President of Worldwide Sales of the Communications Business Group of Marvell Semiconductor, Inc., a
+semiconductor company. From March 1997 to February 2000, he served as Vice President of Worldwide Sales for Level One Communications, Inc., a subsidiary of Intel Corporation, a semiconductor company. From February 1991 to March 1997, Mr. Papa
+served as Vice President of North American Sales for Siemens Corporation, a diversified global technology com. 
+
+Jordan S. Plofsky
+joined us in February 2001 as Senior Vice President, Vertical Markets and Embedded Processor Products and became Senior Vice President, Applications Business Groups in March 2002 and Senior Vice President, Marketing in November 2004. Prior to
+joining us, Mr. Plofsky was employed by LSI Logic from October 1996 to February 2001, most recently as Executive Vice President, Enterprise Infrastructure Group from November 2000 to February 2001 and Vice President and General Manager,
+Networking Products Division from June 1998 to November 2000. 
+
+Katherine E. Schuelke joined us in March 1996 as Corporate Attorney.
+She became Senior Corporate Attorney in July 1997 and Assistant General Counsel and Assistant Secretary in July 1999. In October 2001, she was appointed Vice President, General Counsel and Secretary. Prior to March 1996, Ms. Schuelke was an
+attorney at the law firm of Morrison & Foerster LLP for seven years. 
+
+Employees 
+
+As of December 28, 2007, we had 2,651 regular employees. Of these employees, 1,339 were located in the United States. None of our employees is
+represented by a labor union or collective bargaining agreement. We have not experienced any work stoppages, and we believe that our employee relations are good. 
+
+Access To Company’s Reports 
+
+Our annual reports on Form 10-K, quarterly reports on Form 10-Q,
+current reports on Form 8-K, and amendments to reports filed, or furnished pursuant to Sections 13(a) and 15(d) of the Securities Exchange Act of 1934, are available free of charge on our web site at www.altera.com, as soon as reasonably practical
+after these reports are electronically filed with, or furnished to, the Securities and Exchange Commission (“SEC”). We will also provide a copy, free of charge, upon request made to Altera Corporation, Attn: Investor Relations, 101
+Innovation Drive, San Jose, California 95134. 
+
+Our SEC filings are available at the SEC’s web site at www.sec.gov. In addition, our SEC
+filings may be read and/or copied at the SEC’s public reference room at 100 F Street, N.E., Washington, D.C., 20549. Please call the SEC at 1-800-SEC-0330 for more information about the operation of the public reference room. 
+
+This annual report includes trademarks and service marks of Altera and other companies that are unregistered and registered in the United States and
+other countries. 
+
+13 
+
+Table of Contents
+
+. 
+
+The
+following risk factors, among others, could in the future affect our actual results of operations and could cause our actual results to differ materially from those expressed in forward-looking statements made by us. Before you decide to buy, hold,
+or sell our common stock, you should carefully consider the risks described below, in addition to the other information contained elsewhere in this report. The following risk factors are not the only risk factors facing our company. Additional risks
+and uncertainties not presently known to us or that we currently deem immaterial may also affect our business. Our business, financial condition, and results of operation could be seriously harmed if any of the events underlying any of these risks
+or uncertainties actually occurs. In that event, the market price for our common stock could decline, and you may lose all or part of your investment. 
+
+Our failure to compete successfully in the highly competitive semiconductor industry would adversely affect our financial results and business prospects. 
+
+The semiconductor industry, including the PLD market, is intensely competitive. Our ability to compete successfully in the semiconductor industry will
+depend on our ability to provide our customers with solutions offering greater value than solutions offered by competing programmable logic vendors, such as Xilinx and Lattice, and other semiconductor companies that indirectly compete with us.
+
+Because we develop PLDs for applications that are presently served by vendors of ASICs, ASSPs, microcontrollers, and digital signal
+processors, we indirectly compete against vendors of these products. Many of these vendors, including International Business Machines Corporation and Texas Instruments Inc., have substantially greater financial, technical, and marketing resources
+than we do and have well-established market positions and solutions that have proven technically feasible and economically competitive over several decades. We may not be able to displace these vendors in the targeted applications and densities.
+Further, other programmable logic vendors are targeting these applications and may be successful in securing market share from us. Moreover, some of our customers have historically used standard cell technologies to achieve greater integration in
+their systems; this may not only impede our efforts to penetrate the markets for ASICs, ASSPs, microcontrollers, and digital signal processors, but may also displace our products in the applications that we presently serve. 
+
+Our failure to define, develop, and manufacture technologically-advanced products would adversely affect the success and growth of our company. 
+
+As a semiconductor company, we operate in a dynamic market characterized by rapid technological change. The manufacture of our products is
+a highly complex and precise process, requiring production in a tightly controlled environment. Our current product development efforts focus on developing new PLDs, related development software and hardware, and advanced semiconductor wafer
+fabrication processes. Our development efforts may not result in the timely introduction of competitive new products, or enhancements to existing products. Additionally, we may not be successful in developing new products or using and converting
+established products to new and more advanced process technologies. For example, our current generation product families, the Stratix III and Cyclone III families are manufactured on a 65-nanometer process technology. Our next generation product
+families will be manufactured on smaller circuit geometries for which we have no production history. The use of advanced process technology entails inherent technological risks and start-up difficulties that can adversely affect research and
+development spending, yields, product costs, and timeliness of delivery of our products. 
+
+We depend entirely on independent
+subcontractors to supply us with finished silicon wafers. The failure of these subcontractors to satisfy our demand could materially disrupt our business. 
+
+Nearly all of our silicon wafers are produced by TSMC in its manufacturing facilities located primarily in Taiwan. The remaining portion of our silicon wafers are produced by Sharp Corporation in Japan. Silicon wafer
+production facilities have at any given time a fixed capacity, the allocation of which is determined solely by our vendors and over which we have no direct control. We have no formalized long-term supply or allocation commitments from our foundry
+suppliers. Our operations would be disrupted if TSMC terminates its relationship with us and we are unable to arrange a satisfactory alternative to fulfill customer orders on a timely basis and in a cost-effective manner. 
+
+To ensure the continued supply of wafers, we may establish other sources of wafer supply for our products as these arrangements become economically
+advantageous or technically necessary. However, there are only a few foundry 
+
+14 
+
+Table of Contents
+
+vendors that have the capabilities to manufacture our most advanced products. If we engage alternative sources of supply, we may encounter start-up
+difficulties and incur additional costs. Also, shipments could be delayed significantly while these sources are qualified for volume production. 
+
+Furthermore, as a result of our reliance on third-party foundries, we have little or no direct control over production costs, delivery schedules, and wafer quality. We also face increased exposure to potential misappropriation of our
+intellectual property. 
+
+Shortages of, and/or increased costs for, our silicon wafers and assembly material could lower our gross margins,
+reduce our sales, or otherwise materially disrupt our business. 
+
+If market demand for silicon wafers or assembly material suddenly
+exceeds market supply, our supply of silicon wafers or assembly material could quickly become limited. A shortage in manufacturing capacity could hinder our ability to meet demand for our products. Moreover, silicon wafers constitute more than half
+of our product cost. If we are unable to procure wafers at favorable prices, our gross margins will be adversely affected. 
+
+The
+manufacture of our products is complex, and the foundries on which we depend may not achieve the necessary yields or product reliability that our business requires. 
+
+The manufacture of our products is a highly complex and precise process, requiring production in a tightly controlled environment. In addition to sufficient foundry manufacturing capacity and wafer prices, we depend
+on good production yields (the number of good die per wafer) and timely delivery of silicon wafers to meet our customers’ demand for products and to maintain profit margins. Wafer production yields depend on a wide variety of factors including
+the level of contaminants in the manufacturing environment, impurities in the materials used, and the performance of personnel and equipment. As is common in the semiconductor industry, we have experienced, and may experience, from time to time,
+problems with achieving acceptable production yields and timely delivery from our foundry vendors. 
+
+Difficulties in production yields can
+often occur when we begin production of new products, when we transition to new processes, or when our principal wafer supplier, TSMC, moves production of a product from one manufacturing plant to another, or manufactures the same product at
+multiple factories. As a result of manufacturing defects, TSMC has also, from time to time, scrapped wafers, resulting in longer manufacturing lead times. Further, production throughput times vary considerably among the various factories used by our
+wafer suppliers, and we may experience delays from time to time in processing some of our products. These difficulties and delays can potentially result in significantly higher costs and lower product availability. 
+
+Conditions outside the control of our independent subcontractors and distributors may impact their business operations and thereby adversely interrupt
+our manufacturing and sales processes. 
+
+The economic, market, social, and political situations in countries where certain independent
+subcontractors and distributors are located are unpredictable, can be volatile, and can have a significant impact on our business because we may not be able to obtain or distribute product in a timely manner. Market and political conditions,
+including currency fluctuation, terrorism, political strife, war, labor disruption, and other factors, including natural or man-made disasters, adverse changes in tax laws, tariff, import or export quotas, power and water shortages, or interruption
+in air transportation, in areas where our independent subcontractors and distributors are located also could have a severe negative impact on our operating capabilities. For example, because we rely heavily on TSMC to produce a significant portion
+of our silicon wafers, earthquakes or other natural disasters in Taiwan and Asia generally could limit our supply of silicon wafers and thereby harm our business, financial condition, and results of operation. 
+
+Our business is subject to the risks of earthquakes and other catastrophic events. 
+
+Our corporate headquarters in San Jose, California is located near major earthquake faults. Some of our international facilities and those of our key
+suppliers, including TSMC, are also located near major earthquake faults. Any catastrophic event, such as an earthquake or other natural disaster, could significantly impair our ability and the ability of our independent subcontractors to meet
+product design deadlines, maintain our records, pay our suppliers, or manufacture or ship our products. 
+
+15 
+
+Table of Contents
+
+Any prolonged disruption to our global communications infrastructure could impair our ability to plan
+factory activity and respond to customer demand. 
+
+Demand for our products is highly volatile, especially at the detailed ordering code
+level. To achieve short delivery lead times and superior levels of customer service, while maintaining low levels of inventory, we constantly adjust our manufacturing subcontractors’ production schedules. We develop and adjust these schedules
+based on end customer demand as placed on our distributors and based on our inventory levels, manufacturing cycle times, component lead times, and projected production yields. We aggregate and disseminate all of this information electronically over
+a complex global communications network. Our ability to aggregate demand and to adjust our production schedules is highly dependent on this network; we have no manual back-up. If a portion of this network were to experience a prolonged disruption or
+failure in service, our ability to plan factory activity and respond to demand would be impaired. 
+
+The failure of our intellectual
+property rights to provide meaningful protection from our competitors could harm our competitive position. 
+
+We rely significantly on
+patents to protect our intellectual property rights. We have increased investment in intellectual property protection in the last several years and, as of December 28, 2007 we owned more than 1,600 United States patents and 210 foreign patents.
+We also have more than 870 United States patent applications currently pending. Our patents and patent applications may not provide meaningful protection from our competitors as the status of any patent involves complex legal and factual questions,
+and the breadth of claims allowed is uncertain. Our competitors may be able to circumvent our patents or develop new patentable technologies that displace our existing products. In addition to patent protection, we rely on trademark, trade secret,
+copyright, and mask work laws to protect our unpatented proprietary information or technologies. Despite our efforts to protect our proprietary rights from unauthorized use or disclosure, other parties, including our former employees or consultants,
+may attempt to disclose, obtain, or use our proprietary information or technologies without our authorization. If other companies obtain our proprietary information or technologies, or develop substantially equivalent information or technologies,
+they may develop products that compete against our products. 
+
+Moreover, the laws of certain countries in which our products are or may be
+developed, manufactured or sold may not protect our products and intellectual property rights to the same extent as the laws of the United States. Policing the unauthorized use of our products is difficult and may result in significant expense to us
+and could divert the efforts of our technical and management personnel. Even if we spend significant resources and efforts to protect our intellectual property, we may not be able to prevent misappropriation of our technology. Use by others of our
+proprietary rights could materially harm our business and expensive litigation may be necessary in the future to enforce our intellectual property rights. 
+
+Intellectual property infringement claims could adversely affect our ability to manufacture and market our products. 
+
+From time to time in the normal course of business, we receive inquiries from other parties with respect to possible patent infringements. As a result of these inquiries, it may be necessary or desirable for us to
+obtain licenses relating to one or more of our current or future products. We may not be able to obtain licenses on reasonable terms. Additionally, license agreements may have set durations and/or have limited license grants and therefore may not
+provide complete protection against infringement claims involving all of our current or future products. For example, the settlement agreement that we entered into with Xilinx in July 2001, which prohibited patent litigation between the two
+companies, expired in July 2006. 
+
+If we are sued for patent infringement, the costs and outcome of litigation will be unpredictable and may
+have a negative impact on our financial results. Intellectual property claims, regardless of their merit, can result in costly litigation and divert the efforts of our technical and management personnel. Legal proceedings also tend to be
+unpredictable and may be affected by events outside of our control. If we are unsuccessful in defending against intellectual property infringement claims, we may be required to pay significant monetary damages or be subject to an injunction against
+the manufacture and sale of one or more of our product families. Alternatively, we could be required to expend significant resources to develop non-infringing technology, the success of which may be uncertain. Intellectual property litigation may
+have an adverse effect on our financial position, results of operation, or cash flows. 
+
+16 
+
+Table of Contents
+
+Product quality problems could lead to reduced revenue, gross margins, and net income. 
+
+We produce highly complex products that incorporate leading-edge technology, including both hardware and software. Our pre-shipment testing programs
+may not detect all defects, either ones in individual products or ones that could affect numerous shipments. Because we generally warrant our products for varying lengths of time against defects in materials and workmanship and non-conformance to
+our specifications, we have on occasion been required to repair or replace certain components or refund the purchase price paid by our customers due to product defects. If there are material increases in customer claims or the costs to service
+warranty claims compared with our historical experience, our revenue, gross margins, and net income may be adversely affected. For example, an inability to cure a product defect in a timely manner could result in product reengineering expenses,
+increased inventory costs, or damage to our reputation, any of which could materially impact our revenue, gross margins, and net income. 
+
+We may be subject to product liability claims. 
+
+We sell to customers in the automotive, military, aerospace, avionics,
+medical equipment, and other industries where our devices are used in systems that could cause damage to property or persons if those systems were to fail. We may be subject to product liability claims if our devices are the cause of system
+failures. Based on our historical experience, we believe that the risk of exposure to product liability claims is currently low. However, we will face increased exposure to product liability claims if there are substantial increases in both the
+volume of our sales into these applications and the frequency of system failures caused by our devices. 
+
+We rely heavily on distributors
+to generate a significant portion of our sales and fulfill our customer orders. The failure of our distributors to perform as expected could materially reduce our future sales. 
+
+Worldwide sales through distributors accounted for 94% of our total sales during 2007. We rely on many distributors to assist us in creating customer
+demand, providing technical support and other value-added services to our customers, filling customer orders, and stocking our products. Our contracts with our distributors may be terminated by either party in a relatively short period of time.
+
+Our distributors are located all over the world and are of various sizes and financial conditions. Lower sales, lower earnings, debt
+downgrades, the inability to access capital markets, and higher interest rates could potentially impact our distributors’ operations. 
+
+We are highly dependent on Arrow Electronics, Inc., in many locations across the world, particularly in North America. 
+
+During 2007, Arrow Electronics, Inc. on a worldwide basis accounted for approximately 45% of total sales, while our next largest distributor accounted for approximately 13% of total sales. At December 28, 2007, Arrow accounted for 40%
+of net accounts receivable, and no other distributor accounted for more than 10% of net accounts receivable. 
+
+Our complex communications
+infrastructure limits our ability to add or replace distributors or manufacturing subcontractors. 
+
+Our distributors are contracted by
+Altera to perform two primary, yet distinct functions for us. The first is logistics functions such as order entry, credit, forecasting, inventory management, and shipment of product to our end customers. The process of integrating systems to allow
+for electronic data interchange is complex and can be time consuming. The second function involves putting the necessary capability in place to create demand for our products at the engineering level. This mandates the training of the extended sales
+force of a distributor as well as the hiring and training of specialized applications engineers skilled in promoting and servicing products at the engineering level. Other issues which contribute to the complexity of adding or replacing a
+distributor relate to the determination and stocking of acceptable inventory levels and the eventual customer acceptance necessary to place their business with that new distributor. 
+
+The length of our design-in and sales cycle could impact our ability to forecast future sales. 
+
+Our sales depend on our products being designed into our end customers’ products and those products achieving volume production. Our products are
+very complex in nature, and the time from design-in to volume production ranges from 6 months to 3 years or more. From initial product design-in to volume production, many factors could impact the timing and/or amount of sales actually realized.
+These factors include, but are not limited to, changes in the 
+
+17 
+
+Table of Contents
+
+competitive position of our technology, the competitiveness of our customers’ products in the markets they serve, our customers’ financial
+stability, customer program delays and cancellations, and our ability to ship products according to our customers’ schedule. 
+
+Our
+business is characterized by a general decline in selling prices of semiconductor products that may materially adversely affect our profitability. 
+
+We have experienced and continue to experience a decrease in the selling prices of our products. We have attempted to offset the decrease in selling prices through manufacturing cost reductions, improving our yields,
+and increasing unit sales. However, there is no guarantee that our ongoing efforts will be successful or that they will keep pace with the anticipated, continued decline in selling prices of our products, which could ultimately lead to a decline in
+revenues and have a negative effect on our gross margins. 
+
+Because we depend on international sales for a majority of our total sales, we
+may be subject to political, economic and other conditions that could increase our operating expenses and disrupt our business. 
+
+During
+each of the last three years, international sales were a majority of our total sales. During 2007, international sales constituted approximately 78% of our total sales. We expect that international sales will continue to account for a significant
+portion of our total sales. Risks related to our foreign operations include unfavorable economic, market, political, and social conditions in a specific country or region, fluctuation in foreign currency exchange rates, adverse changes in tax laws,
+increased freight costs, interruptions in air transportation, reduced protection for intellectual property rights in some countries, generally longer receivable collection periods, and natural or man-made disasters in a specific country or region
+where we sell our products. Our business is also subject to the burdens of complying with a variety of foreign laws and risks associated with the imposition of legislation and regulations relating specifically to the importation or exportation of
+semiconductor products. Quotas, duties, tariffs, taxes, or other charges, restrictions, or trade barriers may be imposed by the United States or other countries on the import or export of our products in the future. 
+
+Our business is subject to tax risks associated with being a multinational corporation. 
+
+As a multinational corporation, we conduct our business in many countries and are subject to taxation in many jurisdictions. The taxation of our business
+is subject to the application of multiple and sometimes conflicting tax laws and regulations as well as multinational tax conventions. The application of tax law is subject to legal and factual interpretation, judgment, and uncertainty, and tax laws
+themselves are subject to change. Consequently, taxing authorities may impose tax assessments or judgments against us that could result in a significant charge to earnings relating to prior periods and/or an increase in our effective income tax
+rate. 
+
+Our gross margins are subject to fluctuations due to many factors. 
+
+Our gross margins may fluctuate depending on many factors, including, but not limited to, our product mix, market acceptance of our new products,
+competitive pricing dynamics, geographic and/or market segment pricing strategies, changes in the mix of our business between prototyping- and production-based demand, and various manufacturing cost variables including product yields, wafer prices,
+package and assembly costs, provisions for excess and obsolete inventory, and absorption of manufacturing overhead. Additionally, since the majority of our business books and ships on sales generated through our distributors within the same quarter,
+forecasting our gross margins is difficult. 
+
+Our financial results are affected by general economic conditions and the highly cyclical
+nature of the semiconductor industry. 
+
+Semiconductor companies, such as Altera, experience significant fluctuations in sales and
+profitability. The semiconductor industry has been in the past significantly impacted by the economic downturn and business contractions in the market segments we operate. The down cycles can result in significant reductions in sales demand, excess
+customer inventories and price erosion. In addition, we may experience inventory write-downs, especially if our inventory becomes out-of-mix with, or excess to, customer demand. 
+
+In addition to reductions in sales, our industry profitability decreases during downturns as we may not be able to reduce expenses at the same rate as our
+sales decline. Similarly, our gross margins tend to deteriorate and fluctuate during down cycles. 
+
+18 
+
+Table of Contents
+
+As we carry only limited insurance coverage, any incurred liability resulting from uncovered claims
+could adversely affect our financial condition and operating results. 
+
+Our insurance policies may not be adequate to fully offset losses
+resulting from covered incidents. Additionally, we do not have coverage for certain losses. We have made certain judgments regarding our existing insurance coverage that we believe are consistent with common practice and economic and availability
+considerations. If our insurance coverage is inadequate to protect us against unforeseen catastrophic losses, any uncovered losses could adversely affect our financial condition and operating results. 
+
+We depend on independent subcontractors, located in Asia, to assemble, test, and ship our semiconductor products. The failure of these subcontractors
+to satisfy our demand could materially disrupt our business. 
+
+Because we rely on independent subcontractors to assemble, test, and ship
+our semiconductor products, we cannot directly control our product delivery schedules or quality levels. We are dependent upon sufficient subcontractor assembly and test capacities, both in raw materials and services, to enable us to meet the demand
+for our own products. Our future success also depends on the financial viability of our independent subcontractors. If market demand for subcontractor material and services exceeds available supply or if the subcontractors’ capital structures
+weaken, we may experience product shortages, quality assurance problems, and/or increased manufacturing costs. 
+
+We have been named as a
+party to several lawsuits related to our historical stock option practices and related accounting and reporting, and we may be named in additional litigation in the future, all of which could result in an unfavorable outcome and have a material
+adverse effect on our business, financial condition, results of operations, cash flows and the trading price for our securities. 
+
+Lawsuits are currently pending against certain of our current and former directors and officers relating to our historical stock option practices and related accounting and reporting. See Part I, Item 3 “Legal Proceedings”
+and Note 14 “Legal Proceedings” for a more detailed description of these proceedings. Under certain circumstances, we have contractual and other legal obligations to indemnify and to incur legal expenses on behalf of current and former
+directors and officers in connection with these lawsuits. These actions are in the preliminary stages, and their ultimate outcome could have a material adverse effect on our business and the trading price for our securities. Litigation may be
+time-consuming, expensive and disruptive to normal business operations, and the outcome of litigation is difficult to predict. The defense of these lawsuits may result in significant expenditures and the continued diversion of our management’s
+time and attention from the operation of our business, which could impede our business.

@@ -1,0 +1,634 @@
+Set
+forth below are certain risks and cautionary statements, which supplement other disclosures in this report. 
+
+Moreover,
+certain statements contained in this report and the documents incorporated by reference in this report, including in Management’s Discussion and Analysis of Financial Condition and Results of Operations, constitute “forward-looking
+statements” within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements provide current expectations of future events based on certain assumptions and include any statement that is not strictly a
+historical statement (for example, statements regarding current or future financial performance, management’s plans and objectives for future operations, product plans and performance, management’s expectations regarding market risk and
+market penetration, management’s assessment of market factors or strategies, objectives and plans of Red Hat and its partners). Words such as “anticipates,” “believes,” “expects,” “estimates,”
+“intends,” “plans,” “projects,” and similar expressions, may also identify such forward-looking statements. Investors are cautioned that these forward-looking statements are not guarantees of Red Hat’s future
+performance and are subject to a number of risks and uncertainties that could cause Red Hat’s actual results to differ materially from those found in the forward-looking statements and from historical trends. These risks and uncertainties
+include the risks and cautionary statements detailed below and elsewhere in this report as well as in Red Hat’s other filings with the Securities and Exchange Commission (“SEC”), copies of which may be accessed through the SEC’s
+web site at http://www.sec.gov. Readers are urged to carefully review these risks and cautionary statements. The forward-looking statements included in this report represent our views as of the date of this report. We specifically disclaim any
+obligation to update these forward-looking statements in the future. These forward-looking statements should not be relied upon as representing our views as of any date subsequent to the date of this report. 
+
+RISKS RELATED TO BUSINESS UNCERTAINTY 
+
+Ongoing uncertainty regarding the duration and extent of the recent economic downturn and in global economic and market conditions generally could
+adversely affect our business, financial condition and results of operations. 
+
+Economic weakness and uncertainty and
+constrained IT spending from time to time contribute to slowdowns in the technology industry, as well as in the specific segments and markets in which we operate, which may result in reduced demand and increased price competition for our products
+and services. Our operating results in one or more geographic regions may also be affected by uncertain or changing economic conditions within that region, such as the challenges that are currently affecting economic conditions in the United States
+and elsewhere. Continuing uncertainty about future economic conditions may, among other things, negatively impact our current and prospective customers and result in delays or reductions in technology purchases or lengthen our sales cycle. Adverse
+economic conditions also may negatively impact our ability to obtain payment for outstanding debts owed to us by our customers or other parties with whom we do business. In addition, these conditions may impact our investment portfolio, and we could
+determine that some of our investments have experienced an other-than-temporary decline in fair value, requiring an impairment charge that could adversely impact our financial condition and results of operations. Also, these conditions may make it
+more difficult to forecast operating results. If global economic and market conditions, or economic conditions in the United States or other key markets, remain uncertain or persist, spread or deteriorate further, companies may delay or reduce their
+IT spending, which could adversely affect our business, financial condition and results of operations. 
+
+19 
+
+Table of Contents
+
+If we fail to continue to establish and maintain strategic distribution and other collaborative
+relationships with industry-leading companies, we may not be able to attract and retain a larger customer base. 
+
+Our
+success depends in part on our ability to continue to establish and maintain strategic distribution and other collaborative relationships with industry-leading hardware manufacturers, distributors, software vendors and enterprise solutions providers
+such as SAP AG (“SAP”), Dell Inc. (“Dell”), Hewlett-Packard Co. (“HP”), International Business Machines Corporation (“IBM”), Fujitsu Limited (“Fujitsu”), NEC Corporation (“NEC”) and others.
+These relationships allow us to offer our products and services to a much larger customer base than we would otherwise be able through our direct sales and marketing efforts. We may not be able to maintain these relationships or replace them on
+attractive terms. In addition, our existing strategic relationships do not, and any future strategic relationships may not, afford us any exclusive marketing or distribution rights. As a result, many of the companies with which we have strategic
+alliances pursue alternative technologies and develop alternative products and services in addition to or in lieu of our products and services, either on their own or in collaboration with others, including our competitors. Moreover, we cannot
+guarantee that the companies with which we have strategic relationships will market our products effectively or continue to devote the resources necessary to provide us with effective sales, marketing and technical support. 
+
+We have entered into and may continue to enter into or seek to enter into business combinations and acquisitions, which may be difficult to complete
+and integrate, disrupt our business, divert management’s attention, adversely affect our financial condition or results of operations and dilute stockholder value. 
+
+As part of our business strategy, we have in the past entered into business combinations and acquisitions (for example, our acquisition of
+JBoss in June 2006 and our acquisition of Qumranet in September 2008), and we may continue to do so in the future. We have limited experience in making acquisitions, and acquisitions present significant challenges and risks, including: 
+
+·
+
+ The difficulty of integrating the operations, systems and personnel of the acquired companies; 
+
+·
+
+ The difficulty of gathering full information regarding the target business prior to the acquisition; 
+
+·
+
+ The maintenance of acceptable standards, controls, procedures and policies; 
+
+·
+
+ The potential disruption of our ongoing business and distraction of management; 
+
+·
+
+ The impairment of relationships with employees and customers as a result of any integration of new management and other personnel;
+
+·
+
+ The inability to maintain a relationship with customers of the acquired business; 
+
+·
+
+ The potential loss of key employees of the acquired business; 
+
+·
+
+ Challenges in maintaining good and effective relations with existing business partners or of those of the acquired business, including as a result of
+the changes in the competitive landscape effected by the acquisition; 
+
+·
+
+ The difficulty of incorporating acquired technology and rights into our products and services and of maintaining quality standards consistent with our
+brand; 
+
+·
+
+ The potential failure to achieve the expected benefits of the combination or acquisition; 
+
+·
+
+ Expenses related to the acquisition; 
+
+·
+
+ Potential unknown liabilities associated with the acquired businesses; 
+
+·
+
+ Unanticipated expenses related to acquired technology and its integration into existing technology; and 
+
+·
+
+ The dilutive impact on our current stockholders’ percentage of ownership as a result of issuing shares of our common stock in connection with an
+acquisition or business combination. 
+
+20 
+
+Table of Contents
+
+There can be no assurance that we will manage these challenges and risks successfully.
+Moreover, if we are not successful in completing acquisitions that we have pursued or may pursue, our business may be adversely affected, and we may incur substantial expenses and divert significant management time and resources. In addition, in
+pursuing such acquisitions, we could use substantial portions of our available cash as all or a portion of the purchase price. We could also issue additional securities as consideration for these acquisitions, which could cause our stockholders to
+suffer significant dilution, or we may incur substantial debt. Any acquisition may not generate additional revenue or profit for us, which may adversely affect our operating results. 
+
+If we fail to effectively manage our growth, our operations and financial results could be adversely affected. 
+
+We have expanded our operations rapidly in recent years. For example, our total revenue increased from $652.6 million for the fiscal year
+ended February 28, 2009 to $748.2 million for the fiscal year ended February 28, 2010. Moreover, the total number of our employees increased from over 2,800 as of February 28, 2009 to over 3,200 as of February 28, 2010 and is
+expected to generally increase in the foreseeable future. In addition, we continue to explore ways to extend our product and service offerings and geographic reach. Our growth has placed and will likely continue to place a strain on our management
+systems, information systems, resources and internal controls. Our ability to successfully offer products and services and implement our business plan requires adequate information systems and resources and oversight from our senior management. As
+we grow, we must also continue to hire, train, supervise and manage new employees. As we grow and expand globally, controls and oversight functions will become more complex and distributed and may in part be outsourced. We may not be able to
+adequately screen and hire or adequately train, supervise and manage sufficient personnel or develop management, or effectively manage and develop our controls and oversight functions and information systems to adequately manage our expansion
+effectively. If we are unable to adequately manage our growth and expansion, our business, operating results and financial condition could be materially adversely affected. 
+
+We rely, to a significant degree, on an indirect sales channel for distribution of our products and services, and disruption of any part of this
+channel could adversely affect the sales of our products. 
+
+We use a variety of different distribution methods to sell our
+products and services, including indirect channel partners, such as third-party OEMs, resellers and distributors. A number of these partners in turn distribute via their own networks of channel partners (e.g., distributors and resellers), with whom
+we have no direct relationship. We rely, to a significant degree, on our channel partners to, among other activities, select, screen and maintain relationships with our indirect distribution network and for the distribution of our products and
+services in a manner that is consistent with Red Hat’s quality standards. Our indirect distribution channel could be affected by disruptions in the relationships of and with our channel partners and their networks, including their customers or
+suppliers. As a result, we may be required to devote greater support and professional services resources to distribute our products and support our customers, which could drive up costs and may not be as effective. We cannot guarantee that our
+channel partners will market our products effectively. Disruptions in our distribution channel or poor marketing support by channel partners could lead to decreased sales or slower than expected growth or increased distribution and support costs.
+
+We rely on software licensed from other parties, the loss of which could increase our costs and delay software shipments. 
+
+We utilize various types of software licensed from unaffiliated third parties. Aspects of our business could be disrupted if any of the
+software we license from others or functional equivalents of this software were either no longer available to us or no longer offered to us on commercially reasonable terms. In either case, we would be required to either redesign our products to
+function with software available from other parties, develop these components ourselves or eliminate the functionality, which would result in increased costs, delays in our product shipments and the release of new product offerings and limit the
+features available in our current or future products. 
+
+21 
+
+Table of Contents
+
+We may not be able to continue to attract and retain capable management personnel. 
+
+Our ability to retain key management personnel or hire capable new management personnel as we grow may be challenged to the extent the
+technology sector performs well and/or if companies with more generous compensation packages or greater perceived growth opportunities compete for the same personnel. In addition, historically we have used share-based compensation as a key component
+of our compensation packages. Changes in the accounting for share-based compensation could adversely affect our earnings or force us to use more cash compensation to attract and retain capable personnel. If the price of our common stock falls, the
+value of our share-based awards to the recipient is reduced. Such events, or if we are unable to secure shareholder approval for increases in the number of shares eligible for share-based compensation grants, could adversely affect our ability to
+successfully attract and retain key management personnel. 
+
+We depend on our key personnel that we employ, the loss of which could adversely
+affect our business or stock price and diminish the Red Hat brand. 
+
+Our future success depends on the continued services
+and effectiveness of a number of key officers and employees, including our CEO, who assumed his role on January 1, 2008. The loss of the technical knowledge and industry expertise of any of these individuals could seriously impede our success.
+Moreover, the loss of these individuals, particularly to a competitor, some of which may be in a position to offer greater compensation, and any resulting loss of customers could reduce our market share and diminish the Red Hat brand and adversely
+affect our business or stock price. 
+
+A number of our key employees have become, or will soon become, vested in a significant
+amount of their equity compensation awards. Employees may be more likely to leave us after a significant portion of their equity compensation awards fully vest, especially if the shares underlying the equity awards have significantly appreciated in
+value. If we do not succeed in retaining and motivating our CEO and key employees and attracting new key personnel, our business, its financial performance and our stock price may decline. 
+
+Our corporate culture has contributed to our success, and if we cannot maintain this culture as we grow, we could lose the innovation, creativity and
+teamwork fostered by our culture, and our business may be harmed. 
+
+We believe that a critical contributor to our success
+has been our corporate culture, which we believe fosters innovation, creativity and teamwork. As our organization grows, and we are required to implement more complex organizational management structures, we may find it increasingly difficult to
+maintain beneficial aspects of our corporate culture. If we are unable to maintain our corporate culture, we may find it difficult to attract and retain motivated employees. 
+
+Our subscription-based contract model may encounter customer resistance or we may experience a decline in the demand for our products. 
+
+The subscription agreement used for many of our products, including Red Hat Enterprise Linux, requires customers to agree to a
+subscription for our services for each installed system on which they deploy our subscription based products. At the same time, the subscription agreement places no restriction on the customer’s right to redistribute the products. While we
+believe this practice complies with the requirements of the GNU General Public License, and while we have reviewed this practice with the Free Software Foundation, the organization that maintains and provides interpretations of the GNU General
+Public License, we may still encounter customer resistance to this distribution model or customers may fail to honor the terms of our subscription agreements. To the extent we are unsuccessful in promoting or defending this distribution model, our
+business and operating results could be materially and adversely affected. Additionally, as technologies and the markets for our enterprise offerings change, our subscription-based contract model may no longer meet the needs of our customers. If we
+are unable to adapt our contract model to changes in the marketplace, our business and operating results could be adversely impacted. 
+
+22 
+
+Table of Contents
+
+If our current and future customers do not renew their subscription agreements with us, our operating
+results may be adversely impacted. 
+
+Our customers may not renew their subscriptions for our service after the expiration of
+their subscription agreements and in fact, some customers elect not to do so. In addition, our customers may opt for a lower priced edition of our services or for fewer subscriptions. We have limited historical data with respect to rates of customer
+subscription renewals, so we cannot accurately predict customer renewal rates. Our customers’ renewal rates may decline or fluctuate as a result of a number of factors, including their level of satisfaction with our services and their ability
+to continue their operations and spending levels. Government contracts could be subject to future funding that may affect the extension or termination of programs and generally are subject to the right of the government to terminate for convenience
+or non-appropriation. If we experience a decline in the renewal rates for our customers or they opt for lower priced editions of our offerings or fewer subscriptions, our operating results may be adversely impacted. 
+
+If open source software programmers, most of whom we do not employ, do not continue to develop and enhance open source technologies, we may be unable
+to develop new products, adequately enhance our existing products or meet customer requirements for innovation, quality and price. 
+
+We rely to a significant degree on a number of largely informal communities of independent open source software programmers to develop and
+enhance our products. For example, Linus Torvalds, a prominent open source software developer, and a relatively small group of software engineers, many of whom are not employed by us, are primarily responsible for the development and evolution of
+the Linux kernel, which is the heart of the Red Hat Enterprise Linux operating system. If these groups of programmers fail to adequately further develop and enhance open source technologies, we would have to rely on other parties to develop and
+enhance our products or we would need to develop and enhance our products with our own resources. We cannot predict whether further developments and enhancements to these technologies would be available from reliable alternative sources. In either
+event, our development expenses could be increased and our product release and upgrade schedules could be delayed. Moreover, if third-party software programmers fail to adequately further develop and enhance open source technologies, the development
+and adoption of these technologies could be stifled and our products could become less competitive. Delays in developing, completing or shipping new or enhanced products could result in delayed or reduced revenue for those products and could also
+adversely affect customer acceptance of those offerings. 
+
+If third-party enterprise hardware and software providers do not continue to make
+offerings compatible with our offerings, our software will cease to be competitive. 
+
+Our products will not be competitive
+unless third-party enterprise hardware and software offerings are compatible with our offerings. We intend to encourage the development of additional applications that operate on both current and new versions of our offerings by, among other means,
+attracting third-party developers to the Linux platform, providing open source tools to create these applications and maintaining our existing developer relationships through marketing and technical support. We intend to encourage the compatibility
+of our software with various hardware platforms by maintaining and expanding our relationships, both business and technical, with relevant independent hardware vendors. If we are not successful in achieving these goals, however, our products will
+not be competitive and our sales growth will be adversely affected. 
+
+We may be unable to predict the future course of open source
+technology development, which could reduce the market appeal of our products and damage our reputation. 
+
+We do not exercise
+control over many aspects of the development of open source technology. Different groups of open source software programmers compete with one another to develop new technology. Typically, the technology developed by one group will become more widely
+used than that developed by others. If we acquire or adopt new technology and incorporate it into our products but competing technology becomes more 
+
+23 
+
+Table of Contents
+
+widely used or accepted, the market appeal of our products may be reduced and that could harm our reputation, diminish the Red Hat brand and result in decreased revenue. 
+
+Because of the characteristics of open source software, there are few technology barriers to entry in the open source market by new competitors and it
+may be relatively easy for new competitors with greater resources than we have to enter our markets and compete with us. 
+
+One of the characteristics of open source software is that anyone can modify the existing software or develop new software that competes
+with existing open source software. Such competition can develop without the degree of overhead and lead time required by traditional proprietary software companies. It is possible for new competitors with greater resources than ours to develop
+their own open source solutions, potentially reducing the demand for, and putting price pressure on, our solutions. For example, in October 2006 Oracle Corporation (“Oracle”) announced plans to sell support for its version of the Linux
+operating system. In addition, some competitors make their open source software available for free download and use on an ad hoc basis or may position their open source software as a loss leader. We cannot guarantee that we will be able to compete
+successfully against current and future competitors or that competitive pressure and/or the availability of open source software will not result in price reductions, reduced operating margins and loss of market share, any one of which could
+seriously harm our business. 
+
+Industry consolidation may lead to increased competition and may harm our operating results. 
+
+There has been a trend in industry consolidation in our markets for several years. We expect this trend to continue as companies attempt
+to strengthen or hold their market positions in an evolving industry and as companies are acquired or are unable to continue operations. For example, in early 2010, Oracle Corporation (“Oracle”) completed its acquisition of Sun
+Microsystems, Inc. (“Sun”). Oracle’s acquisition of Sun creates a large, integrated supplier of enterprise software that may also provide hardware optimized for these software products. We believe that industry consolidation may
+result in stronger competitors that are better able to compete as sole-source vendors for customers. This could have a material adverse effect on our business, financial condition and results of operations. 
+
+Our continued success depends on our ability to adapt to a rapidly changing industry as well as maintaining a strong brand. Investment in new business
+strategies and initiatives could disrupt our ongoing business and may present risks not originally contemplated. 
+
+We must
+continue to invest significant resources in research and development in order to enhance our existing products and services and introduce new high-quality products and services and technology infrastructure. If we are unable to ensure that our users
+and customers have a high quality experience with our products and services, then they may become dissatisfied and move to competitors’ products and services. In addition, if we are unable to predict user preferences or industry changes, or if
+we are unable to modify our products and services on a timely basis, we may lose customers. 
+
+We believe that the brand
+identity that we have developed has contributed significantly to the success of our business. We also believe that maintaining and enhancing the Red Hat brand is important to expanding our customer base and attracting talented employees. In order to
+maintain and enhance our brand, we may be required to make substantial investments that may or may not be successful. If we fail to promote and maintain our brand, or if we incur excessive costs in doing so, our business, operating results and
+financial condition may be materially and adversely affected. Maintaining our brand will depend in part on our ability to remain a leader in open source technology and our ability to continue to provide high quality products and services.
+
+Our future success will depend on our ability to adapt to rapidly changing technologies, to adapt our services to evolving
+industry standards and to improve the performance and reliability of our services. Our failure to adapt to such changes would harm our business. In addition, the widespread adoption of other technological changes could require substantial
+expenditures to modify or adapt our services or infrastructure. 
+
+24 
+
+Table of Contents
+
+Moreover, we believe that our continued success depends on our investing in new business
+strategies or initiatives that complement our strategic direction and product road map. Such endeavors may involve significant risks and uncertainties, including distraction of management’s attention away from other business operations, and
+insufficient revenue generation to offset liabilities and expenses undertaken with such strategies and initiatives. Because these endeavors may be inherently risky, no assurance can be given that such endeavors will not materially adversely affect
+our business, operating results or financial condition. 
+
+We must effectively develop, deliver and stimulate demand for new products and
+technologies in order to remain competitive. 
+
+We operate in highly competitive markets that are characterized by rapid
+technological change and frequent new product and service announcements. To retain and grow our market share, we must continually introduce new and innovative offerings and technologies, enhance and adapt existing offerings and technologies and
+effectively stimulate customer demand for our new offerings. Delays in developing, completing or shipping new or enhanced offerings and technologies could result in delayed or reduced revenue for those offerings and could also adversely affect
+customer acceptance of those offerings and technologies. The success of new and enhanced offering introductions depend on several factors, including our ability to develop and complete new products in a timely manner, successfully promote the
+offerings, manage the risks associated with the offerings, make sufficient resources available to support them and address any quality or other defects in the early stages of introduction. Our failure to deliver new and enhanced offerings and
+technologies in a timely and cost-effective manner and to effectively stimulate demand for them may harm our reputation as a leader in open source technology, diminish the Red Hat brand and adversely affect our business, operating results and
+financial condition. 
+
+Our Red Hat Enterprise Virtualization offerings are based on an emerging technology area, and the potential market
+for these offerings remains uncertain. 
+
+Our Red Hat Enterprise Virtualization products and related services are based on an
+emerging technology area, the success of which will depend on the perceived technological and operational benefits and cost savings associated with the adoption of this technology, virtualization solutions and the acceptance of cloud computing
+environments. The market for these products and services remains uncertain. To the extent that the adoption of virtualization solutions occurs more slowly or less pervasively than we expect, the revenue growth associated with these products and
+services may be slower than currently expected, which could adversely affect our business, operating results and financial condition. 
+
+If
+our growth rate slows, our stock price could be adversely impacted. 
+
+As the markets for our products mature and the scale
+of our business increases, the rate of growth in our product sales will likely be lower than those we have experienced in earlier periods. In addition, to the extent that the adoption of Red Hat Enterprise technologies occurs more slowly or is less
+pervasive than we expect, our revenue growth rates may slow materially or our revenue may decline substantially, which could adversely affect our stock price. 
+
+Security and privacy breaches may expose us to liability and harm our reputation and business. 
+
+Our security and testing measures may not prevent security breaches that could harm our business. Advances in computer capabilities, new
+discoveries in the field of cryptography, inadequate technology or facility security measures or other factors may result in a compromise or breach of our systems and the data we process. Any compromise of our systems or the data we process could
+harm our reputation or financial condition and, therefore, our business. In addition, a party who is able to circumvent our security measures or exploit inadequacies in our security measures, could, among other effects, misappropriate proprietary
+information, cause interruptions in our operations or expose customers to computer viruses or other disruptions or vulnerabilities. 
+
+25 
+
+Table of Contents
+
+Actual or perceived vulnerabilities may lead to claims against us by customers, partners or other third-parties, which could be material. While our customer agreements typically contain
+provisions that seek to limit our liability, there is no assurance these provisions will be enforceable and effective under applicable law. 
+
+We are vulnerable to system failures, which could harm our reputation and business. 
+
+We rely on our technology infrastructure, among other functions, to sell our products and services, support our partners, fulfill orders
+and bill, collect and make payments. Our systems are vulnerable to damage or interruption from natural disasters, power loss, telecommunication failures, terrorist attacks, computer intrusions and viruses, computer denial-of-service attacks and
+other events. A significant number of our systems are not redundant, and our disaster recovery planning is not sufficient for every eventuality. Our systems are also subject to break-ins, sabotage and intentional acts of vandalism by internal
+employees, contractors and third-parties. Despite any precautions we may take, such problems could result in, among other consequences, interruptions in our services, which could harm our reputation, business and financial condition. We do not carry
+business interruption insurance sufficient to protect us from all losses that may result from interruptions in our services as a result of system failures or to cover all contingencies. Any interruption in the availability of our websites and
+on-line interactions with customers and partners would create a large volume of user questions and complaints that would need to be addressed by our support personnel rather than by self-help. If our support personnel cannot meet this demand,
+customer and partner satisfaction levels may fall, which in turn could cause additional claims, reduced revenue or loss of customers. 
+
+If
+we fail to comply with our customer contracts or government contracting regulations, our business could suffer. 
+
+Our
+contracts with our customers may include unique and specialized performance requirements. In particular, our contracts with federal, state, provincial and local governmental customers are subject to various procurements regulations, contract
+provisions and other requirements relating to their formation, administration and performance. Any failure by us to comply with the specific provisions in our customer contracts or any violation of government contracting regulations could result in
+the imposition of various civil and criminal penalties, which may include termination of contracts, forfeiture of profits, suspension of payments and, in the case of our government contracts, fines and suspension from future government contracting.
+In addition, we may be subject to qui tam litigation, the process by which a private individual sues or prosecutes on behalf of the government relating to government contracts and shares in the proceeds of any successful litigation or
+settlement, which could include claims for up to treble damages. Further, any negative publicity related to our customer contracts or any proceedings surrounding them, regardless of its accuracy, may damage our business and affect our ability to
+compete for new contracts. If our customer contracts are terminated, if we are suspended from government work, or if our ability to compete for new contracts is adversely affected, we could suffer an adverse effect on our business, operating results
+or financial condition. 
+
+RISKS RELATED TO LEGAL UNCERTAINTY 
+
+If our products are found or alleged to infringe third-party intellectual property rights, we could be required to redesign our products, replace
+components of our products, enter into license agreements with third parties and provide infringement indemnification. 
+
+We
+regularly commit to our subscription customers that if portions of our enterprise products are found to infringe any third-party intellectual property rights we will, at our expense and option: (i) obtain the right for the customer to continue
+to use the product consistent with their subscription agreement with us; (ii) modify the product so that it is non-infringing; or (iii) replace the infringing component with a non-infringing component, and indemnify them against specified
+infringement claims. Although we cannot predict whether we will need to satisfy these commitments and often have limitations on these commitments, satisfying the commitments could 
+
+26 
+
+Table of Contents
+
+be costly and time consuming and could materially and adversely affect our operating results and financial condition. In addition, our insurance policies would likely not adequately cover our
+exposure to this type of claim. 
+
+We are vulnerable to claims that our products infringe third-party intellectual property rights because
+our products are comprised of software components, many of which are developed by numerous independent parties, and an adverse legal decision affecting our intellectual property could materially harm our business. 
+
+We are vulnerable to claims that our products infringe third-party intellectual property rights, including patent, copyright and trade
+secrets because our products are comprised of software components, many of which are developed by numerous independent parties. Moreover, because the scope of software patent protection is often not well defined or readily determinable, patent
+applications in the United States are not publicly disclosed at the time of filing, and the number of software patents that are issued each year is significant and growing, we may be unable to assess the relevance of patents to our products, or take
+appropriate responsive action, in a timely or economic manner. We expect that our products could increasingly be subject to intellectual property infringement claims as the size of our business and market share grow, the number of products and
+competitors in our industry segment grows and the functionality of products in different industry segments overlaps. Defending patent infringement, copyright infringement and/or trade secret claims, even claims without significant merit, can be
+expensive. 
+
+The SCO Group, Inc. (“SCO”) as well as others have publicly alleged that Linux may infringe certain
+third-party intellectual property rights. SCO filed suit against IBM, alleging, among other things, that certain Linux kernels wrongfully include SCO’s intellectual property. Uncertainty concerning allegations of this type, regardless of their
+merit, could adversely affect our reputation and business. If those asserting such claims were to prevail in this or other actions related to their claims regarding Linux or other products, our operating results and financial condition could be
+materially and adversely affected. 
+
+An adverse legal decision regarding the intellectual property in and to our technology and
+other offerings could harm our business and may do so materially. See “Legal Proceedings”. 
+
+We could be prevented from selling or
+developing our software if the GNU General Public License and similar licenses under which our products are developed and licensed are not enforceable or are modified so as to become incompatible with other open source licenses. 
+
+A number of our offerings, including Red Hat Enterprise Linux, have been developed and licensed under the GNU General Public License and
+similar open source licenses. These licenses state that any program licensed under them may be liberally copied, modified and distributed. It is possible that a court would hold these licenses to be unenforceable or that someone could assert a claim
+for proprietary rights in a program developed and distributed under them. Any ruling by a court that these licenses are not enforceable, or that open source components of our product offerings may not be liberally copied, modified or distributed,
+may have the effect of preventing us from distributing or developing all or a portion of our products. In addition, licensors of open source software employed in our offerings may, from time to time, modify the terms of their license agreements in
+such a manner that those license terms may no longer be compatible with other open source licenses in our offerings or our end user license agreement, and thus could, among other consequences, prevent us from continuing to distribute the software
+code subject to the modified license. 
+
+Our products may contain defects that may be costly to correct, delay market acceptance of our
+products and expose us to claims and litigation. 
+
+Despite our testing procedures, errors have been and will continue to be
+found in our products after commencement of commercial shipments. This risk is exacerbated by the fact that much of the code in our 
+
+27 
+
+Table of Contents
+
+products is developed by independent parties over whom we exercise no supervision or control. If errors are discovered, we may have to make significant expenditures of capital and devote
+significant technical resources to analyze, correct, eliminate or work around them and may not be able to successfully do so in a timely manner or at all. Errors and failures in our products could result in a loss of, or delay in, market acceptance
+of our products, loss of existing or potential customers and delayed or lost revenue and could damage our reputation and our ability to convince commercial users of the benefits of Linux-based operating systems and other open source software
+products. 
+
+In addition, failures in our products could cause system or other failures for our customers who may assert
+warranty and other claims for substantial damages against us. Although our license agreements with our customers often contain provisions which seek to limit our exposure to potential product liability claims, it is possible that these provisions
+may not be effective or enforceable under the laws of some jurisdictions. In addition, our insurance policies may not adequately limit our exposure to this type of claim. These claims, even if unsuccessful, could be costly and time consuming to
+defend and could materially harm our business. 
+
+Our efforts to protect our trademarks may not be adequate to prevent third-parties from
+misappropriating our intellectual property rights in our trademarks. 
+
+Our collection of trademarks is valuable and
+important to our business. The protective steps we have taken in the past have been, and may in the future continue to be, inadequate to protect and deter misappropriation of, our trademark rights. We may be unable to detect the unauthorized use of,
+or take appropriate steps to enforce, our trademark rights in a timely manner. We have registered some of our trademarks in countries in North America, South America, Europe, Asia, Africa and Australia and have other trademark applications pending
+in various countries around the world. Effective trademark protection may not be available in every country in which we offer or intend to offer our products and services. Failure to adequately protect our trademark rights could damage or even
+destroy the Red Hat brand and impair our ability to compete effectively. Furthermore, defending or enforcing our trademark rights could result in the expenditure of significant financial and managerial resources. 
+
+Efforts to assert intellectual property ownership rights in our products could impact our standing in the open source community, which could limit our
+product innovation capabilities and adversely affect our business. 
+
+When we undertake actions to protect and maintain
+ownership and control over our intellectual property, including patents, copyrights and trademark rights, our standing in the open source community could be adversely affected, which in turn could limit our ability to continue to rely on this
+community, upon which we are dependent, as a resource to help develop and improve our products and further our research and development efforts, and could adversely affect our business. 
+
+We are, and may become, involved in disputes and lawsuits that could have a material adverse affect on our performance or stock price. 
+
+Lawsuits or legal proceedings may be commenced against us. These disputes and proceedings may involve significant expense and divert
+management’s attention. If we do not prevail in these matters, we could be required to pay substantial damages or settlement costs, which could have a material adverse affect on our financial condition or results of operations. See “Legal
+Proceedings” for additional information on this and other certain matters that may affect our performance or stock price. 
+
+Our
+business is subject to a variety of U.S. and international laws regarding data protection. 
+
+Our business is subject to
+federal, state and international laws regarding privacy and protection of user data. We post, on our website, our privacy policies and practices concerning the use and disclosure of user data. Any
+
+28 
+
+Table of Contents
+
+failure by us to comply with our posted privacy policies or other federal, state or international privacy-related or data protection laws and regulations could result in proceedings against us by
+governmental entities or others which could have a material adverse effect on our business, results of operations and financial condition. 
+
+It is possible that these laws may be interpreted and applied in a manner that is inconsistent with our data practices. If so, in
+addition to the possibility of fines and penalties, a governmental order requiring that we change our data practices could result, which in turn could have a material adverse effect on our business. Compliance with these regulations may involve
+significant costs or require changes in business practices that result in reduced revenue. Noncompliance could result in penalties being imposed on us or orders that we cease conducting the noncompliant activity. 
+
+RISKS RELATED TO FINANCIAL UNCERTAINTY 
+
+Our quarterly operating results may not be a reliable indicator of our future operating results. 
+
+Due to the unpredictability of the technology spending environment, among other reasons, our revenue and operating results have fluctuated
+and may continue to fluctuate. We base our current and projected future expense levels, in part, on our estimates of future revenue. Our expenses are, to a large extent, fixed in the short term. Accordingly, we may not be able to adjust our spending
+quickly enough to protect our projected operating results for a quarter if our revenue in that quarter falls short of our expectations. If, among other considerations, our future operating results fall below expectations of securities analysts or
+investors or we are unable to increase or maintain profitability, the market price of our common stock may decline. 
+
+Our stock price has
+been volatile historically and may continue to be volatile. Further, the sale of our common stock by significant stockholders may cause the price of our common stock to decrease. 
+
+The trading price of our common stock has been and may continue to be subject to wide fluctuations. Our stock price may fluctuate in
+response to a number of events and factors, such as quarterly variations in operating results, announcements of technological innovations or new products by us or our competitors, announcements relating to strategic decisions, announcements related
+to key personnel, customer purchase delays, service disruptions, changes in financial estimates and recommendations by securities analysts, the operating and stock price performance of other companies that investors may deem comparable to us and
+news reports relating to trends in our markets or general economic conditions. 
+
+In addition, several of our stockholders own
+significant portions of our common stock. If these stockholders were to sell all or a portion of their holdings of our common stock, then the market price of our common stock could be negatively impacted. The effect of such sales, or of significant
+portions of our stock being offered or made available for sale, could result in strong downward pressure on our stock price. Investors should be aware that they could experience significant short-term volatility in our stock if such stockholders
+decide to sell all or a portion of their holdings of our common stock at once or within a short period of time. 
+
+We may lack the financial
+and operational resources needed to increase our market share and compete effectively. 
+
+In the market for operating
+systems, we face significant competition from larger companies with greater financial, operational and technical resources and name recognition than we have. Competitors, which offer hardware-independent multi-user operating systems for Intel
+platforms and/or Linux and UNIX-based operating systems, include Microsoft Corporation (“Microsoft”), Oracle, Novell, Inc. (“Novell”), IBM, HP and Sun. 
+
+In the market for middleware offerings, we face significant competition from larger companies with greater financial, operational and
+technical resources and name recognition than we have. These competitors include, but 
+
+29 
+
+Table of Contents
+
+are not limited to, IBM, Microsoft, Oracle and Sun, all of which offer broad portfolios of enterprise Java and non-Java middleware products. IBM and Oracle bundle hardware and software for their
+customers, making it more difficult to penetrate these customer bases. 
+
+In the market for virtualization offerings, we face
+significant competition from larger companies with greater financial, operational and technical resources and name recognition than we have. These competitors include, but are not limited to, VMware, Inc. (“VMware”), Microsoft, Citrix
+Systems, Inc. (“Citrix”), Novell and Oracle. 
+
+In the market for services offerings, we face significant competition
+from larger companies with greater financial, operational and technical resources and name recognition than we have, including those that currently provide service and training related to the Linux operating system as well as other operating
+systems, particularly UNIX-based operating systems, due to the fact that Linux-and UNIX-based operating systems share many common features. These larger companies, including IBM, Oracle, Novell and HP, may be able to leverage their existing service
+organizations and provide higher levels of consulting and training on a more cost-effective basis than we can. 
+
+We may lack
+the resources needed to compete successfully with our current competitors as well as potential new competitors. Moreover, we compete in certain areas with our strategic partners and potential strategic partners, and this may adversely impact our
+relationship with an individual partner or a number of partners. Competitive pressures could affect prices or demand for our products and services, resulting in reduced profit margins and loss of market opportunity. We may have to lower the prices
+of our products and services to stay competitive, which could affect our margins and financial condition. In addition, if our pricing and other factors are not sufficiently competitive, we may lose market share. Industry consolidation may also
+effect competition by creating larger and potentially stronger competitors in the markets in which we compete, which may have an adverse effect on our business. 
+
+During fiscal 2007, several of our largest competitors made announcements relevant to markets in which we operate, including an
+announcement by Oracle to offer Linux support services and an announcement by Novell regarding an agreement with Microsoft to collaborate on technology, a cross covenant not to sue the other party’s customers for patent infringement and an
+agreement by Microsoft to purchase and distribute coupons for SUSE Linux maintenance and support. Microsoft and Novell announced an extension of their partnership and the purchase and distribution of an additional $100 million in coupons for SUSE
+Linux by Microsoft in August 2008. 
+
+We may not be able to meet the financial and operational challenges that we will encounter as our
+international operations, which represented approximately 43.4% of our total revenue for the fiscal year ended February 28, 2010, continue to expand. 
+
+Our international operations accounted for approximately 43.4% of total revenue for the fiscal year ended February 28, 2010. As we
+expand our international operations, we may have difficulty managing and administering a globally-dispersed business and we may need to expend additional funds to, among other activities, reorganize our sales force and technical support services
+team, outsource or supplement general and administrative functions, staff key management positions, obtain additional information technology infrastructure and successfully localize software products for a significant number of international
+markets, which may negatively affect our operating results. 
+
+Additional challenges associated with the conduct of our business
+overseas that may negatively affect our operating results include: 
+
+·
+
+ Fluctuations in exchange rates; 
+
+·
+
+ Longer payment cycles and less financial stability of customers; 
+
+·
+
+ Compliance with a wide variety of foreign laws; 
+
+30 
+
+Table of Contents
+
+·
+
+ Difficulty selecting and monitoring channel partners outside of the United States; 
+
+·
+
+ Difficulty protecting our intellectual property rights overseas due to, among other reasons, the uncertainty of laws and enforcement in certain
+countries relating to the protection of intellectual property rights; 
+
+·
+
+ Difficulty maintaining quality standards consistent with the Red Hat brand; 
+
+·
+
+ Export control regulations could prevent us from shipping our products into and out of certain markets; 
+
+·
+
+ Changes in import/export duties, quotas or other trade barriers could affect the competitive pricing of our products and services and reduce our market
+share in some countries; and 
+
+·
+
+ Economic or political instability or terrorist acts in some international markets could result in the loss or forfeiture of some foreign assets and the
+loss of sums spent developing and marketing those assets and the revenue associated with them. 
+
+Moreover, in
+many foreign countries, particularly in certain developing economies, it is not uncommon to engage in business practices that are prohibited by regulations applicable to us, such as the Foreign Corrupt Practices Act and similar laws. Although we
+have policies and procedures designed to promote compliance with these laws, our employees, contractors and agents, as well as those companies to which we outsource certain of our business operations, may take actions in violation of our policies
+and procedures. Any such violation, even if prohibited by our policies and procedures or the law, could have a material adverse effect on our business. Any failure by us to effectively manage the challenges associated with the international
+expansion of our operations could adversely affect our business, operating results and financial condition. 
+
+We may be subject to greater
+tax liabilities. 
+
+We are subject to income and other taxes in the U.S. and in numerous foreign jurisdictions. Our domestic
+and foreign tax liabilities are subject to the allocation of revenue and expenses in different jurisdictions. Additionally, the amount of taxes paid is subject to our interpretation of applicable tax laws in the jurisdictions in which we operate. We
+are regularly subject to audits by tax authorities. While we endeavor to comply with all applicable tax laws, there can be no assurance that a governing tax authority will not have a different interpretation of the law than we do or that we will
+comply in all respects with applicable tax laws, which could result in additional taxes. There can be no assurance that the outcomes from these audits will not have an adverse effect on our results of operations in the period for which the review is
+made. 
+
+Because we recognize revenue from subscriptions for our service over the term of the subscription, downturns or upturns in sales may
+not be immediately reflected in our operating results. 
+
+We generally recognize subscription revenue from customers ratably
+over the term of their subscription agreements, which are generally 12 to 36 months. As a result, much of the revenue we report in each quarter is deferred revenue from subscription agreements entered into during previous quarters. Consequently, a
+decline in subscriptions in any one quarter will not necessarily be fully reflected in the revenue in that quarter and will negatively affect our revenue in future quarters. In addition, we may be unable to adjust our cost structure to reflect this
+reduced revenue. Accordingly, the effect of significant downturns in sales and market acceptance of our service may not be fully reflected in our results of operations until future periods. Our subscription model also makes it difficult for us to
+rapidly increase our revenue through additional sales in any period, as revenue from new customers must be recognized over the applicable subscription term. 
+
+If our goodwill or amortizable intangible assets become impaired, we may be required to record a significant charge to earnings. 
+
+Under generally accepted accounting principles, we review our amortizable intangible assets for impairment when events or changes in
+circumstances indicate the carrying value may not be recoverable. Goodwill is 
+
+31 
+
+Table of Contents
+
+required to be tested for impairment at least annually. Factors that may be considered a change in circumstances indicating that the carrying value of our goodwill or amortizable intangible
+assets may not be recoverable include a decline in stock price and market capitalization, future cash flows and slower growth rates in our industry. We may be required to record a significant charge to earnings in our financial statements during the
+period in which any impairment of our goodwill or amortizable intangible assets is determined resulting in an adverse impact on our results of operations. 
+
+We may be exposed to potential risks if we do not have an effective system of disclosure controls or internal controls or fail on an ongoing basis to
+properly address Section 404 of the Sarbanes-Oxley Act of 2002. 
+
+We must comply, on an on-going basis, with the
+requirements of Section 404 of the Sarbanes-Oxley Act of 2002 (“SOX”), including those provisions that establish the requirements for both management and auditors of public companies with respect to reporting on internal control over
+financial reporting. We cannot be certain that measures we have taken, and will take, will be sufficient or timely completed to meet the Section 404 requirements on an on-going basis, or that we will be able to implement and maintain adequate
+disclosure controls and controls over our financial processes and reporting in the future, particularly in light of our rapid growth, international expansion and changes in our products and services, which are expected to result in on-going changes
+to our control systems and areas of potential risk. 
+
+If we fail to maintain an effective system of disclosure controls or
+internal control over financial reporting, including satisfaction of the requirements of Section 404 of SOX, we may not be able to accurately or timely report on our financial results or adequately identify and reduce fraud. As a result, the
+financial position of our business could be harmed; current and potential future shareholders could lose confidence in us and/or our reported financial results, which may cause a negative effect on our trading price; and we could be exposed to
+litigation or regulatory proceedings, which may be costly or divert management attention. 
+
+Our investment portfolio is subject to credit
+and illiquidity risks and fluctuations in the market value of our investments and interest rates. These risks may result in an impairment in or the loss of all or a portion of the value of our investments, an inability to sell our investments and a
+decline in interest income. 
+
+We maintain an investment portfolio of various holdings, types and maturities. Our portfolio
+as of February 28, 2010 consisted primarily of money market funds, U.S. government securities, certificates of deposit, agency securities, corporate securities and equity securities. Although we follow an established investment policy and seek
+to minimize the risks associated with our investments by investing primarily in investment grade, highly liquid securities and by limiting the amounts invested with any one institution, type of security or issuer, we cannot give assurances that the
+assets in our investment portfolio will not lose value or become impaired, or that our interest income will not decline. 
+
+We
+may be required to record impairment charges for other-than-temporary declines in fair market value in our investments. Future fluctuations in economic and market conditions could adversely affect the market value of our investments, and we could
+record additional impairment charges and lose some or all of the principal value of investments in our portfolio. A total loss of an investment or a significant decline in the value of our investment portfolio could adversely affect our operating
+results and financial condition. For information regarding the sensitivity of and risks associated with the market value of portfolio investments and interest rates, see “Quantitative and Qualitative Disclosures About Market Risk”.
+
+Our investments in private companies are subject to risk of loss of investment capital. These investments are inherently
+risky because the markets for the technologies they have under development are typically in the early stages and may never materialize. We could lose the value of our entire investment in these companies. 
+
+32 
+
+Table of Contents
+
+We are subject to risks of currency fluctuations and related hedging operations. 
+
+A portion of our business is conducted in currencies other than the U.S. dollar. Changes in exchange rates among other currencies and the
+U.S. dollar will affect our net revenue, operating expenses and operating margins. We cannot predict the impact of future exchange rate fluctuations. We use financial instruments, primarily forward purchase contracts, to economically hedge U.S.
+dollar and other currency commitments arising from trade accounts receivable, trade accounts payable and fixed purchase obligations. If these hedging activities are not successful or we change or reduce these hedging activities in the future, we may
+experience significant unexpected expenses from fluctuations in exchange rates. For information regarding our hedging activity, see “Quantitative and Qualitative Disclosures About Market Risk”. 
+
+33 
+
+Table of Contents

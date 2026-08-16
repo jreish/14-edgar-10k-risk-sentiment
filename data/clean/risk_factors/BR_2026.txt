@@ -1,0 +1,298 @@
+You should carefully consider each of the following risks and all of the other information set forth in this Annual Report on Form 10-K or incorporated by reference herein. Based on the information currently known to us, we believe that the following information identifies the most significant factors affecting our company. However, additional risks and uncertainties not currently known to us or that we currently believe to be immaterial may also adversely affect our business.
+
+If any of the following risks and uncertainties develop into actual events, they could have a material adverse effect on our business, financial condition, or results of operations.
+
+Our clients are subject to complex laws and regulations, and new laws or regulations and/or changes to existing laws or regulations could impact our clients and, in turn, adversely impact our business or may reduce our profitability.
+
+We provide technology solutions to financial services firms that are generally subject to extensive regulation globally. As a provider of products and services to financial institutions and issuers of securities, our products and services are provided in a manner designed to assist our clients in complying with the laws and regulations to which they are subject. Changes in laws and regulations could require changes in the services we provide, the manner in which we provide our services, and the fees we charge for our services, or they could result in a reduction or elimination of the demand for our services. Such changes in laws or regulations could result in a material negative impact on our business and financial results. Some of our services and related fees, such as our proxy communications, shareholder report and prospectus distribution, and other regulatory or customer communications services, are particularly sensitive to changes in laws and regulations, including those governing the financial services industry and the securities markets such as applicable SEC or stock exchange rules, regulations or interpretations. For example, the SEC’s recently proposed Regulation E-Delivery would permit our clients to change the default delivery method for certain communications required under the federal securities laws from paper to electronic delivery. If the rule is adopted as proposed, the volume of physically delivered communications we process would decrease. While the volume of electronic delivery of communications we process is expected to increase, our recurring revenue growth and distribution revenues will decrease, which could result in a decrease in our earnings and the potential restructuring of our physical distribution operations. 
+
+The regulatory framework governing tokenized securities and other digital assets continues to evolve in the U.S. and internationally. Currently, there is no uniform approach to the regulatory treatment of these assets, and changes in their classification or regulation, or in broader regulatory positions regarding such assets, could affect the pace of market adoption, alter the obligations of our clients, intermediaries, and service providers, and require us to modify our business model, products, or services in ways that are difficult to predict. This uncertainty could adversely affect our business, results of operations, or financial condition.
+
+In addition, new regulations governing our clients could result in significant expenditures that could cause them to reduce their use of our services, seek to renegotiate existing agreements, cease or curtail their operations, or otherwise alter their business relationship with us, all of which could adversely impact our business. Further, an adverse regulatory action that changes a client’s business or adversely affects its financial condition could decrease their ability to purchase, or their demand for our products and services. The loss, or significant reduction, of business from any of our larger clients could have a material adverse effect on our revenues and results of operations.
+
+Consolidation in the financial services industry could adversely affect our revenues by eliminating some of our existing and potential clients and could make us increasingly dependent on a more limited number of clients. 
+
+There has been and may continue to be consolidation activity in the financial services industry. These mergers or consolidations of financial institutions could reduce the number of our clients and potential clients. For example, in the past few years alone there have been several major consolidations involving our clients. When our clients merge with or are acquired by other firms that are not our clients, or firms that use fewer of our services, they may discontinue or reduce the use of our services. In addition, it is possible that the larger financial institutions resulting from mergers or consolidations could decide to perform in-house some or all of the services that we currently provide or could provide to them. If we are unable to mitigate the impact of a loss or reduction of business resulting from a client consolidation, we could have a material adverse effect on our business and results of operations.
+
+A large percentage of our revenues are derived from a small number of clients in the financial services industry and the loss of any of such clients, a reduction of their demand for our services, or change in the method of delivery of our services could have a material impact on our financial results.
+
+In fiscal year 2026, our largest client accounted for approximately 7% of our consolidated revenues. While our clients generally work with multiple business segments, the loss of business from any of our larger clients due to merger or consolidation, financial difficulties or bankruptcy, or the termination or non-renewal of contracts could have a material adverse effect on our revenues and results of operations.
+
+Also, a delay in onboarding a client onto our technology would result in a delay in our recognition of revenue from that client.
+
+Further, in the event of the loss of a client’s business, a reduction of a 
+
+18
+
+client’s demand for our services, or a change in the method of delivery of our services, then in addition to losing the revenue from that client, we could be required to write-off all or a portion of the related client investments or accelerate the amortization of certain costs, including costs incurred to onboard a client or convert a client’s systems to function with our technology. Such costs for all clients represented approximately 9% of our total assets as of June 30, 2026, with one client representing a large portion of this amount. See Note 3, “Revenue Recognition” and Note 12, “Deferred Client Conversion and Start-up Costs” to our consolidated financial statements for more information. 
+
+Security breaches or cybersecurity incidents could adversely affect our financial results and ability to operate, could result in personal, confidential or proprietary information being misappropriated, and may cause us to be held liable or suffer harm to our reputation.
+
+We process and transfer sensitive data, including personal information, valuable intellectual property and other proprietary or confidential data provided to us by our clients, which include financial institutions, public companies, mutual funds, and healthcare companies. We also handle personal information of our employees in connection with their employment. Some of our services are provided through the internet, which increases our exposure to potential cybersecurity incidents. Information security threats continue to evolve, such as the increasing availability and adoption of AI technologies by malicious actors, resulting in increased risk and exposure and increased costs to protect against the threat of information security breaches or to respond to or alleviate problems caused by such breaches. These AI-enabled capabilities have accelerated the sophistication and frequency of cybersecurity threats and may make it more difficult to detect, prevent, and respond to attacks.
+
+Due to the nature of our products and services, we are subject to the risk of information security incidents, including those impacting our clients and third-party vendors. Some of our clients and third-party vendors have experienced cybersecurity incidents. Failure by our clients or third-party vendors to notify us in a timely manner of cybersecurity incidents impacting their operations could result in unauthorized access to our systems and data and materially affect our business, operations and financial results. In certain circumstances, our third-party vendors may also have access to sensitive data including personal information. It is also possible that a third-party vendor could intentionally or inadvertently disclose such sensitive data. Further, unauthorized individuals could improperly access our systems or those of our vendors, or improperly obtain or disclose the sensitive data including personal information that we or our vendors process or handle.
+
+We face ongoing cybersecurity threats to our information technology infrastructure including data loss, data exfiltration, denial of service, and ransomware, among others. We have experienced non-material cybersecurity incidents, attempts to breach our systems and other similar attacks, including incidents affecting our clients and third-party vendors, which if such attacks or attempts are successful in the future could cause harm to our business and our reputation and challenge our ability to provide reliable services, as well as negatively impact our results of operations and financial condition. Any impact on our results of operations and financial condition may be material depending on the scope of the incident. Examples of previous incidents include, but are not limited to, social engineering, phishing, and denial-of-service attacks. In addition, our insurance coverage may not be adequate to cover all the costs related to cybersecurity incidents or disruptions resulting from such events. 
+
+If we fail to maintain an adequate information security program or implement sufficient security standards, technology or controls to protect against information security incidents or privacy breaches or fail to identify and adapt to emerging security threats and risks, it could cause us to lose revenues, lose clients and/or damage to our reputation.
+
+In addition, any unauthorized access to our information technology systems could result in the use, theft, or disclosure of confidential, sensitive, or personal data, destruction or modification of records, interruptions to our operations and delivery of our services and products, installation of malware, and the potential need to pay ransom. As a result, we may incur significant costs to investigate and remediate such incidents, and to protect against future threats to our information security and information technology systems. In addition, such incidents could give rise to legal actions from our clients and/or their customers and regulatory investigations and/or significant penalties and fines.
+
+If we are unable to respond to the demands of our existing and new clients, or adapt to technological changes or advances, our business and future growth could be impacted.
+
+The global financial services industry is characterized by increasingly complex and integrated infrastructures and products, new and changing business models and rapid technological and regulatory changes. Our clients’ needs and demands for our products and services evolve with these changes. Our future success will depend, in part, on our ability to respond to our clients’ demands for new services, capabilities and technologies on a timely and cost-effective basis. We also need to adapt to technological advancements such as AI, machine learning, quantum computing, digital and distributed ledger and cloud computing and keep pace with changing regulatory standards to address our clients’ increasingly sophisticated requirements. Transitioning to these new technologies may require close coordination with our clients, be disruptive to our resources and the services we provide and may increase our reliance on third-party service providers such as our cloud services provider.
+
+19
+
+In addition, we run the risk of disintermediation due to emerging technologies, fintech start-ups and new market entrants. If we fail to adapt or keep pace with new technologies in a timely manner, it could harm our ability to compete, decrease the value of our products and services to our clients, and harm our business and impact our future growth.
+
+The emergence of tokenized securities in which ownership of financial instruments is recorded and transferred on distributed ledger or blockchain-based platforms rather than through traditional intermediary infrastructure presents the risk of disintermediation to our clients or certain of our businesses. If tokenized securities achieve broad market adoption, demand for traditional securities processing, investor communications, proxy distribution, and transfer agency services and related technologies of the type we provide could be altered, reduced or eliminated. We may need to make significant investments to adapt our products and services to a tokenized securities environment, and there can be no assurance that we will be able to do so successfully or in a timely manner or on a competitive basis. This could adversely affect our business, results of operations, or financial condition.
+
+Our business and results of operations may be adversely affected if we do not comply with legal and regulatory requirements that apply to our services or businesses, and new laws or regulations and/or changes to existing laws or regulations to which we are subject may adversely affect our ability to conduct our business or may reduce our profitability. 
+
+The legislative and regulatory environment of the financial services industry is continuously changing. The SEC, FINRA, DOL, various stock exchanges and other U.S. and foreign governmental or regulatory authorities continuously review legislative and regulatory initiatives and may adopt new or revised laws and regulations or provide revised interpretations or they may change their priorities, including those related to enforcement, with respect to existing laws and regulations. These legislative and regulatory initiatives impact the way in which we conduct our business, requiring changes to the way we provide our services or additional investment which may make our business less profitable. Further, as a provider of technology services to financial institutions, certain aspects of our U.S. operations are subject to regulatory examination by the FFIEC. A sufficiently unfavorable review from the FFIEC could have a material adverse effect on our business. With an increased focus on cybersecurity, operational resiliency, and vendor risk management, the FFIEC and other regulatory agencies provide guidelines for overseeing technology service providers, increasing the contractual requirements with our clients and the cost of providing our services.
+
+Our business process outsourcing, fund processing, registered fund distribution, and transfer agency solutions as well as the entities providing those services are subject to regulatory oversight. Our provision of these services must comply with applicable rules and regulations of the SEC, FINRA, DOL, various stock exchanges and other regulatory bodies charged with safeguarding the integrity of the securities markets and other financial markets and protecting the interests of investors participating in these markets. If we fail to comply with any applicable regulations in performing these services, our license to perform such services could be revoked, or we could be subject to suits for breach of contract or to governmental proceedings, censures and fines. In addition, we could lose clients and our reputation could be harmed, negatively impacting our ability to attract new clients.
+
+As a provider of data and business processing solutions, our systems contain a significant amount of sensitive data, including personal information, related to our clients, customers of our clients, our employees, among others. We are, therefore, subject to compliance obligations under federal, state and foreign privacy and information security laws, including in the U.S., the GLBA, HIPAA, CPRA, the PIPEDA in Canada, the GDPR in the European Union and its UK equivalent, and we are subject to compliance with various client industry standards such as PCI DSS as well as Medicare and Medicaid programs related to our clients. We are subject to penalties for failure to comply with such regulations and requirements, and such penalties could have a material adverse effect on our financial condition, results of operations, or cash flows. There has been increased public attention regarding the use of personal information, accompanied by legislation and regulations intended to strengthen data protection, information security and consumer and personal privacy. The law in these areas continues to develop, the number of jurisdictions adopting such laws continues to increase and these laws may be inconsistent from jurisdiction to jurisdiction. Furthermore, the changing nature of global privacy laws could impact our processing of personal information.
+
+Further, there is increased focus, including by governments, regulators, our investors, employees, clients and other stakeholders, on sustainability matters, which has resulted in new or additional legal and regulatory requirements and may require increased compliance and operational costs. These stakeholders may have differing expectations or requirements regarding sustainability, and applicable regulations in various jurisdictions may be inconsistent or conflict with one another, presenting additional challenges to compliance. If we fail to comply with applicable regulations and maintain practices that meet our stakeholders’ evolving, and potentially divergent, expectations, it could harm our reputation, adversely affect our ability to attract and retain employees or clients and expose us to increased scrutiny from investors and regulatory authorities.
+
+Our ability to comply with applicable laws and regulations depends largely upon the maintenance of an effective compliance system which can be time consuming and costly, as well as our ability to attract and retain qualified compliance personnel. Any failure by our employees to comply with our policies and any laws and regulations applicable to our business, even if inadvertent, could have a negative impact on our business.
+
+20
+
+Our revenues may decrease due to declines in the levels of participation and activity in the securities markets. 
+
+We generate significant revenues from the transaction processing fees we earn from our services. These revenue sources are substantially dependent on the levels of participation and activity in the securities markets. The number of unique securities positions held by investors through our clients and our clients’ customer trading volumes reflect the levels of participation and activity in the markets, which are impacted by market prices, and the liquidity of the securities markets, among other factors. Volatility in the securities markets and sudden sharp or gradual but sustained declines in market participation and activity can result in reduced investor communications activity, including reduced proxy and event-driven communications processing such as mutual fund proxy, mergers and acquisitions and other special corporate event communications processing, and reduced trading volumes. In addition, our event-driven fee revenues are based on the number of special corporate events and transactions we process. Event-driven activity is impacted by financial market conditions and changes in regulatory compliance requirements, resulting in fluctuations in the timing and levels of event-driven fee revenues. As such, the timing and level of event-driven activity and its potential impact on our revenues and earnings are difficult to forecast. The occurrence of any of these events would likely result in reduced revenues and decreased profitability from our business operations.
+
+We may be adversely impacted by a failure of third-party service providers to perform their functions. 
+
+We rely on relationships with third parties, including our service providers and other vendors for certain functions. If we are unable to effectively manage our third-party relationships and the agreements under which our third-party vendors operate, our financial results or reputation could suffer. We rely on these third parties, including for the provision of certain data center and cloud services, to provide services in a timely and accurate manner and to adequately address risks, including those related to cybersecurity and physical security. Failure by these third parties to adequately perform their services as expected could result in material interruptions in our operations and negatively impact our services resulting in a material adverse effect on our business and financial results.
+
+Certain of our businesses rely on a single or a limited number of service providers or vendors. Changes in the business condition (financial or otherwise) of these service providers or vendors could impact their provision of services to us or cause them to be unable to provide services to us at all, which could have a material adverse effect on our business and financial results. In such circumstances, we cannot be certain that we will be able to replace our key third-party vendors in a timely manner or on terms commercially reasonable to us given, among other reasons, the scope of responsibilities undertaken by some of our service providers, the depth of their experience and their familiarity with our operations generally.
+
+If we change a significant vendor, an existing service provider makes significant changes to the way it conducts its operations, or is acquired, or we seek to bring in-house certain services performed today by third parties, we may experience unexpected disruptions in the provision of our solutions and increased expenses, which could have a material adverse effect on our business, profitability, and financial results. Furthermore, certain third-party service providers or vendors may have access to or process sensitive data such as personal information, valuable intellectual property and other proprietary or confidential data, which may include data provided to us by our clients. It is possible that a third-party vendor could intentionally or inadvertently disclose sensitive data including personal information, which could have a material adverse effect on our business and financial results and damage our reputation.
+
+We rely on government-sponsored postal services and third-party carriers to deliver communications and changes in our relationships with these carriers or an increase in postal rates or shipping costs may adversely impact demand for our products and services and could have an adverse impact on our business and results of operations.
+
+We rely upon the United States Postal Service (“USPS”), Canada Post, other government-sponsored postal services globally, and third-party carriers, such as the United Parcel Service, for timely delivery of communications on behalf of our clients. As a result, we are subject to carrier disruptions due to factors that are beyond our control, including employee strikes, inclement weather, and increased fuel costs. Any failure to deliver communications to or on behalf of our clients in a timely and accurate manner may damage our reputation and brand and could cause us to lose clients. In addition, certain government-sponsored postal services, including the USPS and Canada Post, have experienced financial challenges, labor disputes, and operational constraints in recent years and may, as a result, implement significant changes to the breadth or frequency of its mail delivery or other aspects of service, which could disrupt the distribution of communications. If our relationship with any of these third-party carriers is terminated or impaired, or if any of these third parties are unable to distribute communications, we would be required to use alternative, and possibly more expensive, carriers to complete our distributions on behalf of our clients. We may be unable to engage alternative carriers on a timely basis or on acceptable terms, if at all, which could have an adverse effect on our business. In addition, future increases in postal rates or shipping costs, as well as changes in customer preferences, may result in decreased demand for our traditional printed and mailed communications resulting in an adverse effect on our business, financial condition and results of operations.
+
+21
+
+In the event of a disaster, our disaster recovery and business continuity plans may fail, which could result in the loss of client data and adversely interrupt operations. 
+
+Our operations are dependent on our ability to protect our infrastructure against damage from catastrophe, natural disaster, or severe weather, as well as events resulting from unauthorized security breach, power loss, telecommunications failure, terrorist attack, pandemic, or other events that could have a significant disruptive effect on our operations. We have disaster recovery and business continuity plans in place in the event of system failure due to any of these events and we test our plans regularly. In addition, our data center services provider also has disaster recovery plans and procedures in place. However, we cannot be certain that our plans, or those of our data center services provider, will be successful in the event of a disaster. If our disaster recovery or business continuity plans are unsuccessful in a disaster recovery scenario, we could potentially lose client data or experience material adverse interruptions to our operations or delivery of services to our clients, and we could be liable to parties who are financially harmed by those failures. In addition, such failures could cause us to lose revenues, lose clients or damage our reputation.
+
+Any slowdown or failure of our computer or communications systems could impact our ability to provide services to our clients and support our internal operations and could subject us to liability for losses suffered by our clients or their customers. 
+
+Our services depend on our ability to store, retrieve, process, and manage significant databases, and to receive and process transactions and investor communications through a variety of electronic systems. Our systems, those of our data center and cloud services providers, or any other systems with which our systems interact could slow down significantly or fail for a variety of reasons, including:
+
+•
+malware or undetected errors in internal software programs or computer systems;
+
+•
+direct or indirect hacking or denial of service cybersecurity attacks;
+
+•
+inability to rapidly monitor all system activity;
+
+•
+inability to effectively resolve any errors in internal software programs or computer systems once they are detected;
+
+•
+failure to maintain adequate operational systems and infrastructure or comply with internal policies and procedures;
+
+•
+heavy stress placed on systems during peak times or due to high volumes or volatility; or
+
+•
+power or telecommunications failure, fire, flood, pandemic or any other natural disaster or catastrophe.
+
+While we monitor system loads and performance and implement system upgrades to handle predicted increases in trading volume and volatility, we may not be able to predict future volume increases or volatility accurately or that our systems and those of our data center services and cloud services providers will be able to accommodate these volume increases or volatility without failure or degradation. In addition, we may not be able to prevent cybersecurity attacks on our systems. 
+
+Moreover, because we have outsourced our data center operations and use third-party cloud services providers for storage of certain data, the operation, performance and security functions of the data center and the cloud system involve factors beyond our control, and we cannot guarantee that our third-party providers will be able to provide their services at a satisfactory level. Any significant degradation or failure of our or our third-party providers’ computer systems, communications systems or any other systems in the performance of our services could cause our clients or their customers to suffer delays in their receipt of our services. These delays could cause substantial losses for our clients or their customers, and we could be liable to parties who are financially harmed by those failures. In addition, such failures could cause us to lose revenues, lose clients or damage our reputation. 
+
+The inability to properly perform our services or operational errors in the performance of our services could lead to liability for claims, client loss and result in reputational damage.
+
+Our clients operate in highly regulated industries and rely on our services to meet some of their regulatory requirements and the demands of their customers. The inability or failure to properly perform our services could result in our clients and/or certain of our subsidiaries that operate regulated businesses being subjected to losses including censures, fines, or other sanctions by applicable regulatory authorities, and we could be liable to parties who are financially harmed by those errors. In addition, the inability to properly perform our services or errors in the performance of our services could result in a decline in confidence in our products and services, legal action, and cause us to incur expenses including service penalties, lose revenues, lose clients or damage our reputation. 
+
+22
+
+Our use and incorporation of a broad range of artificial intelligence technologies in our products, services, and operations present risks, uncertainties, and challenges that could adversely affect our business, financial condition, and results of operations.
+
+Our ability to attract and retain clients depends on our capacity to develop and support innovative products and services, including through developing or deploying emerging technologies such as artificial intelligence. Some of our products, services and processes leverage AI, including both machine learning and Generative and Agentic AI, and we continue to make investments in initiatives focused on the further development and deployment of these technologies. However, there is no assurance that our use or development of AI will enhance our products or services or their marketability, improve operating results, or deliver anticipated benefits, and our product development initiatives involving AI may be unsuccessful. While implementation of these technologies offers the potential for innovation and competitive differentiation, it also poses significant risks and uncertainties, especially given its early stage of commercial adoption. The use of AI in our product initiatives and offerings or services, or in our internal business operations, may give rise to risks related to accuracy, bias, discrimination, intellectual property infringement, misappropriation or leakage of proprietary, confidential and personal information, defamation, data privacy, and cybersecurity. Any error, defect, or vulnerability in our AI-powered products or business processes could undermine the quality of our products and services, adversely impact our clients’ businesses, subject us or our clients to regulatory scrutiny, fines or litigation and cause reputational harm. We are exposed to similar risks in connection with the use of AI technology by our third-party vendors and clients.
+
+These technologies are subject to an evolving and fragmented legal and regulatory landscape. The absence of a unified regulatory framework, and the risk of divergent or conflicting regulations across jurisdictions applicable to our business, could increase the complexity and costs of compliance for us and our clients. New or changing legal requirements may limit or restrict our use of AI, impose burdensome obligations, or require us to modify or discontinue certain offerings. Any of these factors, alone or in combination, could adversely affect our business, reputation, or results of operations.
+
+Global economic and political conditions, including global health crises and geopolitical instability, broad trends in business and finance that are beyond our control have had and may have a material impact on our business operations and those of our clients and contribute to reduced levels of activity in the securities markets, which could adversely impact our business and results of operations. 
+
+As a multinational company, our operations and our ability to deliver our services to our clients could be adversely impacted by general global economic and political conditions. 
+Our business is highly dependent on the global financial services industry and exchanges and market centers around the world.
+
+Also, in recent years, we have expanded our operations, entered strategic alliances, and acquired businesses outside the U.S.
+
+Compliance with foreign and U.S. laws and regulations that are applicable to our international operations could cause us to incur higher than anticipated costs, and inadequate enforcement of laws or policies such as those protecting intellectual property, could affect our business and the Company’s overall results of operations.
+
+These factors may include:
+
+•
+economic, political and market conditions;
+
+•
+legislative and regulatory changes; including executive orders and similar directives
+
+•
+social and health conditions, including widespread outbreak of an illness or pandemic such as the Covid-19 pandemic;
+
+•
+acts of war or terrorism and international conflict, such as the ongoing conflicts in the Middle East, Russia and Ukraine;
+
+•
+natural or man-made disasters or other catastrophes;
+
+•
+extreme or unusual weather patterns caused by climate change;
+
+•
+the availability of short-term and long-term funding and capital;
+
+•
+the level and volatility of interest rates;
+
+•
+currency values and inflation; 
+
+•
+trade policies, disputes, barriers and other restrictions
+
+•
+financial well-being of our clients; and
+
+•
+taxation levels affecting securities transactions.
+
+23
+
+These factors are beyond our control and may negatively impact our ability to perform our services or the demand for our services or may increase our costs resulting in an adverse impact on our business and results of operations. 
+For example, our services are impacted by the number of unique securities positions held by investors through our clients, the level of investor communications activity we process on behalf of our clients, trading volumes, market prices, and liquidity of the securities markets, which are in turn affected by general national and international economic and political conditions, and broad trends in business and finance that could result in changes in participation and activity in the securities markets. Accordingly, any significant reduction in participation and activity in the securities markets would likely adversely impact our business and results of operations. 
+
+If the operational systems and infrastructure that we depend on fail to keep pace with our growth, we may experience operating inefficiencies, client dissatisfaction and lost revenue opportunities. 
+
+The growth of our business and expansion of our client base may place a strain on our management and operations. We believe that our current and anticipated future growth will require the implementation of new and enhanced communications and information systems, the training of personnel to operate these systems, and the expansion and upgrade of core technologies. While many of our systems are designed to accommodate additional growth without redesign or replacement, we may nevertheless need to make significant investments in additional hardware and software to accommodate growth, which may impact our profitability and business operations. In addition, we may not be able to predict the timing or rate of this growth accurately or expand and upgrade our systems and infrastructure on a timely basis.
+
+Our growth has required and will continue to require increased investments in management personnel and systems, financial systems and controls, and office facilities. We cannot assure you that we will be able to manage or continue to manage our future growth successfully. If we fail to manage our growth, we may experience operating inefficiencies, dissatisfaction among our client base, and lost revenue opportunities.
+
+Intense competition could negatively affect our ability to maintain or increase our business, financial condition, and results of operations. 
+
+The markets for our products and services continue to evolve and are highly competitive. We compete with a number of firms that provide similar products and services. In addition, our securities processing solutions compete with our clients’ in-house capabilities to perform comparable functions. Our competitors may be able to respond more quickly to new or changing opportunities, technologies, and client requirements and may be able to undertake more extensive promotional activities, offer more attractive terms to clients and adopt more aggressive pricing policies than we will be able to offer or adopt. In addition, we expect that the markets in which we compete will continue to attract new competitors and new technologies. There can be no assurances that we will be able to compete effectively with current or future competitors. If we fail to compete effectively, our business, financial condition, and results of operations could be materially harmed.
+
+We may be unable to attract and retain key personnel. 
+
+Our continued success depends on our ability to attract and retain key personnel such as our senior management and other qualified personnel including highly skilled technical employees to conduct our business. Skilled and experienced personnel in the areas where we compete are in high demand, and competition for their talents is intense. There can be no assurance that we will be successful in our efforts to recruit and retain the required key personnel. If we are unable to attract and retain qualified individuals or our recruiting and retention costs increase significantly, our operations and financial results could be materially adversely affected.
+
+The inability to identify, obtain, retain, enforce and protect important intellectual property rights could harm our business. 
+
+Third parties may infringe or misappropriate our intellectual property, which includes a combination of patents, trademarks, service marks, copyrights, domain names and trade secrets. Our inability to protect our intellectual property and marks could adversely affect our business. In an effort to protect our intellectual property, we enter into confidentiality and invention assignment agreements with our employees, consultants and other third parties, and control access to our services, software and proprietary information. Moreover, we license or acquire technology that we incorporate into our services and products. Additional actions may be required to protect our intellectual property, including legal action, which could be time consuming and expensive and may negatively impact our business, financial condition, and results of operations.
+
+24
+
+Despite our efforts to identify, obtain, retain, enforce and protect our intellectual property rights and proprietary information, we cannot be certain that they will be effective or sufficient to prevent the unauthorized access, use, copying, theft or the reverse engineering of our intellectual property and proprietary information for a variety of reasons, including: (a) our inability to detect misappropriation by third parties of our intellectual property; (b) disparate legal protections for intellectual property across different countries; (c) constantly evolving intellectual property legal standards as to the scope of protection, validity, non-infringement, enforceability and infringement defenses; (d) failure to maintain appropriate contractual restrictions and other measures to protect our know-how and trade secrets, or contract breaches by others; (e) failure to identify and obtain patents on patentable innovations; (f) potential invalidation, unenforceability, scope narrowing, dilution and opposition, through litigation and administrative processes both in the U.S. and abroad, of our intellectual property rights; and (g) other business or resource limitations on intellectual property enforcement against third parties.
+
+Our products and services, and the products and services provided to us by third parties, may infringe upon intellectual property rights of third parties, and any infringement claims, whether initiated by or against us, could require us to incur substantial costs, distract our management, or prevent us from conducting our business. 
+
+Costly, complex, time-consuming and unpredictable litigation may be necessary to enforce our intellectual property rights, or challenge the purported validity or scope of third-party intellectual property. Further, although we attempt to avoid infringing upon known proprietary rights of third parties, we are subject to the risk of claims alleging infringement of third-party proprietary rights. All intellectual property litigations, even baseless claims, result in significant expense and diversion of resources, our management and time. Any adverse outcome in an intellectual property litigation could prevent us from selling our products or services or require us to license the technology of others on unfavorable terms, which may materially and adversely affect our brand, business, operations and financial condition. Additionally, third parties that provide us with products or services that are integral to the conduct of our business may also be subject to similar infringement allegations from others, which could prevent such third parties from continuing to provide these products or services to us. As a result, we may need to undertake work-arounds or substantial reengineering of our products or services in order to continue offering them, and we may not succeed in doing so. Furthermore, a party asserting such an infringement claim could secure a judgment against us that requires us to pay substantial damages, grant such party injunctive relief, or grant other court ordered remedies that could prevent us from conducting our business.
+
+We use third-party open source software in our products and services. There is a risk that we incorporate into our products and services open source software with onerous licensing terms that purportedly require us to make the source code of our proprietary code, combined with such open source software, available under such license. Furthermore, U.S. courts have not interpreted the terms of various open source licenses, but could interpret them in a manner that imposes unanticipated conditions or restrictions on our products and services. Usage of open source software can lead to greater risks than use of third-party commercial software, given that licensors generally disclaim all warranties on their open source software, and hackers frequently exploit vulnerabilities in open source software. Any use of open source software inconsistent with its license or our policy could harm our business, operations and financial position.
+
+Acquisitions and integrating such acquisitions create certain risks and may affect operating results. 
+
+As part of our overall business strategy, we may make acquisitions and strategic investments in companies, technologies or products, or enter joint ventures. In fact, over the last three fiscal years we have completed seven acquisitions. These transactions and the integration of acquisitions involve a number of risks. The core risks are in the areas of:
+
+•
+valuation
+: finding suitable businesses to acquire at affordable valuations; competition for acquisitions from other potential acquirors, negotiating a fair price for the business based on inherently limited due diligence reviews; and structuring transactions on acceptable terms;
+
+•
+integration
+: managing the complex process of integrating the acquired company’s people, products, technology, and other assets, and converting their financial, information security, privacy and other systems and controls to meet our standards, so as to achieve intended strategic objectives and realize the projected value, synergies and other benefits in connection with the acquisition; The process of integrating these businesses may be difficult and expensive, disrupt our business and divert our resources. These risks may arise for a number of reasons including, for example:
+
+•
+incurring unforeseen obligations or liabilities in connection with such acquisitions;
+
+•
+devoting unanticipated financial and management resources to an acquired business;
+
+•
+borrowing money from lenders or selling equity or debt securities to the public to finance future acquisitions on terms that may be adverse to us;
+
+•
+additional debt incurred to finance an acquisition could impact our liquidity and may cause a credit downgrade;
+
+•
+loss of clients of the acquired business;
+
+25
+
+•
+entering markets where we have minimal prior experience;
+
+•
+experiencing decreases in earnings as a result of non-cash impairment charges;
+
+•
+geographically separated organizations, systems, and facilities;
+
+•
+integrating personnel with diverse business backgrounds and organizational cultures;
+
+•
+complying with regulatory requirements;
+
+•
+enforcing intellectual property rights; and
+
+•
+general economic and political conditions.
+
+•
+legacy issues
+: protecting against actions, claims, regulatory investigations, losses, and other liabilities related to the predecessor business.
+
+Any of these factors, alone or in combination, may result in unanticipated obligations, disputes, exposure to litigation and regulatory action and adversely affect our business, reputation, or results of operations.
+
+Our existing and future debt levels, and compliance with our debt service obligations, could have a negative impact on our financing options and liquidity position, which could adversely affect our business.
+
+As of June 30, 2026, we had $3,254.6 million in aggregate carrying amount of total debt. Additionally, our revolving credit facility has a remaining borrowing capacity of $1,225.3 million as of June 30, 2026. Our overall leverage and the terms of our financing arrangements could:
+
+•
+limit our ability to obtain additional financing in the future for working capital, capital expenditures or acquisitions, to fund growth or for general corporate purposes, even when necessary to maintain adequate liquidity;
+
+•
+make it more difficult for us to satisfy the terms of our debt obligations;
+
+•
+limit our ability to refinance our indebtedness on terms acceptable to us, or at all;
+
+•
+limit our flexibility to plan for and to adjust to changing business and market conditions and implement business strategies; 
+
+•
+require us to dedicate a substantial portion of our cash flow from operations to make interest and principal payments on our debt, thereby limiting the availability of our cash flow to fund future investments, capital expenditures, working capital, business activities and other general corporate requirements; and
+
+•
+increase our vulnerability to adverse economic or industry conditions.
+
+Our liquidity position may be negatively affected by changes in general economic conditions, regulatory requirements and access to the capital markets, which may be limited if we were to fail to renew any of the credit facilities on their renewal dates or if we were to fail to meet certain ratios. Our ability to meet expenses and debt service obligations will depend on our future performance, which could be affected by financial, business, economic and other factors. If we are not able to pay our debt service obligations or comply with the financial or other restrictive covenants contained in the indenture governing our senior notes, or our credit facility, we may be required to immediately repay or refinance all or part of our debt, sell assets, borrow additional funds or raise additional equity capital, which could also result in a credit rating downgrade. In addition, if the credit ratings of our outstanding indebtedness are downgraded, or if rating agencies indicate that a downgrade may occur, our business, financial position, and results of operations could be adversely affected, and perceptions of our financial strength could be damaged. A downgrade would also have the effect of increasing our borrowing costs and could decrease the availability of funds we are able to borrow, adversely affecting our business, financial position, and results of operations. Further, a downgrade could adversely affect our relationships with our clients.
+
+We may incur significant charges or losses in the future associated with our portfolio of intangible assets, including goodwill and digital assets.
+
+As a result of past acquisitions, we carry a significant amount of goodwill and other acquired intangible assets on our balance sheet. In addition, we also defer certain costs to onboard a client or convert a client’s systems to function with our technology. Goodwill, intangible assets, net, and deferred client conversion and start-up costs accounted for approximately 65% of the total assets on our balance sheet as of June 30, 2026. We test goodwill for impairment annually as of March 31st and we test goodwill, intangible assets, net, and deferred client conversion and start-up costs for impairment at other times if events have occurred or circumstances exist that indicate the carrying value of such assets may no longer be recoverable. It is possible we may incur impairment charges in the future, particularly in the event of a prolonged economic recession or loss of a key client or clients. A significant non-cash impairment could have a material adverse effect on our results of operations.
+
+26
+
+Additionally, we hold digital assets, a relatively new and evolving asset class and technological innovation. For example, we receive and hold digital assets in the form of Canton Coins in connection with our role as a Validator and Super Validator on the Global Synchronizer, the Canton Network’s decentralized interoperability infrastructure. As a holder of digital assets and through our activities as a Validator and Super Validator, we are subject to a high degree of uncertainty and risk. These risks include, but are not limited to, market volatility, potential for fraud or theft, cyberattacks, mismanagement or loss of electronic wallet keys, and rapidly changing or unsettled legal, regulatory, and market standards. The value of digital assets is highly speculative and can fluctuate dramatically, and determining their fair value can be particularly challenging. Events such as diminished adoption, negative regulatory developments, or technological changes may result in significant reductions to the value of digital assets we hold or even the total loss of such assets. In addition, our ability to convert digital assets to fiat currency may be limited or nonexistent as a result of general market conditions or contractual commitments. Furthermore, as legal and regulatory requirements for digital assets continue to evolve, we could face additional compliance costs, restrictions, or liabilities, and any significant loss in value or adverse developments relating to digital assets could impact our financial condition and results of operations.
+
+Certain of our services may be exposed to risk from our counterparties and third parties.
+
+Our mutual fund and exchange-traded fund processing services and our transfer agency services involve the settlement of transactions on behalf of our clients and third parties. With these activities, we may be exposed to risk in the event our clients, or broker-dealers, banks, clearing organizations, or depositories are unable to fulfill contractual obligations. Failure to settle a transaction may affect our ability to conduct these services or may reduce their profitability as a result of the reputational risk associated with failure to settle.

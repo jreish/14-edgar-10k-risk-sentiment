@@ -1,0 +1,533 @@
+Our NetWare revenue stream continues to deteriorate.
+
+We have been selling and upgrading NetWare for many years, sales
+of which have been declining. Our strategy is to offset these
+declines by sales of our next generation of NetWare
+enterprise-ready operating system and services, Open Enterprise
+Server, which gives customers the opportunity to choose between
+a NetWare operating system and a Linux operating system,
+providing NetWare customers a means to migrate to Linux and open
+source solutions. However, NetWare and OES combined license and
+maintenance revenue of our business declined by
+$21.4 million in fiscal 2005, excluding the impact of
+favorable foreign exchange rates. If our strategy is
+unsuccessful, our NetWare and OES revenue stream will
+deteriorate faster than the growth of revenue streams from our
+other products.
+
+ If our identity-driven computing solutions and Linux and
+ platform services solutions do not grow at the rate we
+ anticipate, our growth will be negatively impacted.
+
+Our product strategy focuses on two specific areas:
+identity-driven computing solutions, and Linux and platform
+services solutions with a specific emphasis on open source
+platforms. We have focused on these offerings because we believe
+that identity-driven solutions and open source platforms are two
+of the fastest growing segments in our industry, and we believe
+that they represent the best opportunity for us to profitably
+grow our revenue. Our ability to achieve success with this
+strategy is dependent on a number of factors including, but not
+limited to, the following:
+
+• 
+
+ the growth of these markets;
+
+• 
+
+ our development of key product solutions and upgrades;
+
+• 
+
+ the acceptance of our solutions by clients, particularly
+ enterprise companies, large industry partners and major accounts;
+
+• 
+
+ enticing customers to upgrade from older versions of our
+ products to newer versions; and
+
+• 
+
+ successfully selling technical support and other Novell
+ solutions along with our products.
+
+ We may not be able to successfully compete in a challenging
+ market for computer software and consulting services.
+
+The industries we compete in are highly competitive. We expect
+competition to continue to increase both from existing
+competitors and new market entrants. Competitors of our
+identity-driven computing solutions and Linux and platform
+services solutions include Microsoft, IBM, Sun, HP, Altiris,
+Oracle, LANDesk, and
+
+ 14
+
+Novell annual report 2005
+
+Table of Contents
+
+Computer Associates. Our primary competitor in the North America
+Linux market is Red Hat. Competitors of our global services and
+support group include IBM, Accenture, HP, CSC and Capgemini.
+Competitors of our Celerant consulting segment include A.T.
+Kearney, McKinsey & Co., IBM Global Services,
+Capgemini, and The Management Consulting Group. Many of our
+competitors have greater financial, technical and marketing
+resources than we have. We believe that competitive factors
+common to all of our segments include:
+
+• 
+
+ the pricing of our products and services and the pricing
+ strategies of our competitors;
+
+• 
+
+ the timing and market acceptance of new solutions developed by
+ us and our competitors;
+
+• 
+
+ brand and product awareness;
+
+• 
+
+ the performance, reliability and security of our products;
+
+• 
+
+ the ability to preserve our legacy customer base;
+
+• 
+
+ our ability to establish and maintain key strategic
+ relationships with distributors, resellers and other
+ partners; and
+
+• 
+
+ our ability to attract and retain highly qualified development,
+ consulting and managerial personnel.
+
+ If third parties claim that we infringed upon their
+ intellectual property, our ability to use some technologies and
+ products could be limited and we may incur significant costs to
+ resolve these claims.
+
+Litigation regarding intellectual property rights is common in
+the software industry. We have from time to time received
+letters or been the subject of claims suggesting that we are
+infringing upon the intellectual rights of others. In addition,
+we have faced and expect to continue to face from time to time
+disputes over rights and obligations concerning intellectual
+property. The cost and time of defending ourselves can be
+significant. If an infringement claim is successful, we and our
+customers may be required to obtain one or more licenses from
+third parties, and we may be obligated to pay or reimburse our
+customers for monetary damages. In such instances, we or our
+customers may not be able to obtain necessary licenses from
+third parties at a reasonable cost or at all, and may face
+delays in product shipment while developing or arranging for
+alternative technologies, which could adversely affect our
+operating results.
+
+ In the event claims for indemnification are brought for
+ intellectual property infringement, we could incur significant
+ expenses, thereby adversely affecting our results of
+ operations.
+
+We indemnify customers against certain claims that our products
+infringe upon the intellectual property rights of others.
+Additionally, under our Novell Linux Indemnification Program, we
+offer indemnification for copyright infringement claims made by
+third parties against registered Novell customers who obtain
+SUSE Linux Enterprise Server 8, SUSE Linux Enterprise
+Server 9, SUSE Linux Retail Solution, and Novell Linux
+Desktop, and who, after January 12, 2004, obtain upgrade
+protection and a qualifying technical support contract from us
+or a participating channel partner. Although indemnification
+programs for proprietary software are common in our industry,
+indemnification programs that cover open source software are
+not. For example, SCO has brought claims against two end users
+of Linux and has threatened to bring claims against other end
+users of Linux arising out of the facts alleged in SCO’s
+lawsuit against IBM and in SCO’s public statements. In the
+event that claims for indemnification are brought for
+intellectual property infringement, we could incur significant
+expense reimbursing customers for their legal costs and, in the
+event those claims are successful, for damages.
+
+ Novell annual report 2005
+
+15
+
+Table of Contents
+
+Legal actions being taken by SCO could adversely affect our
+revenue and business plan if these legal actions cause a
+reduction in demand for our SUSE Linux and
+Ximian®
+products.
+
+SCO filed a legal action in March 2003 against IBM alleging,
+among other things, that Linux is an unauthorized derivative of
+UNIX and that portions of UNIX intellectual property that SCO
+alleges it owns have been included in the Linux operating system
+without authorization. In addition, SCO has warned that legal
+liability for the use of Linux may extend to commercial users,
+has threatened users with litigation and sought licensing fees
+from them, and more recently has filed Linux related suits
+against other parties. As discussed below, SCO has sued Novell
+for slander of title relating to disputes about whether Novell
+or SCO owns the copyrights to UNIX, on which some of SCO’s
+Linux-related claims depend. It is possible that SCO’s
+actions may reduce general demand for Linux and Linux related
+products and services. In this event, demand for our Linux (or
+open source) products and services could decrease, thereby
+reducing revenue, and would otherwise adversely affect our
+business since we have made a strategic decision to become
+active in the Linux market.
+
+A lawsuit filed against us by SCO could result in a
+substantial judgment against us and adversely affect our revenue
+and business plan if they are successful.
+
+In January 2004, SCO filed suit against us in the Third Judicial
+District Court of Salt Lake County, State of Utah. We removed
+the claim to the U.S. District Court, District of Utah.
+SCO’s original complaint alleged that our public statements
+and filings regarding the ownership of the copyrights in UNIX
+and UnixWare have harmed SCO’s business reputation and
+affected its efforts to protect its ownership interest in UNIX
+and UnixWare. The District Court dismissed the original
+complaint, but allowed SCO an opportunity to file an amended
+complaint, which SCO did in July 2004. As with the original
+complaint, SCO is again seeking to require us to assign all
+copyrights that we have registered in UNIX and UnixWare to SCO,
+to prevent us from representing that we have any ownership
+interest in the UNIX and UnixWare copyrights and to require us
+to withdraw all representations we have made regarding our
+ownership of the UNIX and UnixWare copyrights and to pay actual,
+special and punitive damages in an amount to be proven at trial.
+Our revenue and business plan could be adversely affected if SCO
+is ultimately successful.
+
+We have experienced delays in the introduction of new
+products due to various factors, resulting in lost revenue.
+
+We have in the past experienced delays in the introduction of
+new products due to a number of factors, including the
+complexity of software products, the need for extensive testing
+of software to ensure compatibility of new releases with a wide
+variety of application software and hardware devices, the need
+to “debug” products prior to extensive distribution,
+and with regard to our open-source products, our increasing
+reliance on the work of third parties not employed by Novell.
+Additionally, our open source offerings depend to a large extent
+on the efforts of developers not employed by us for the creation
+and update of open source technologies. For example, Linus
+Torvalds, the original developer of the Linux kernel, and a
+small group of engineers, many of whom are not employed by us,
+are primarily responsible for the development and evolution of
+the Linux kernel that is a key component of our Open Enterprise
+Server offering. The timing and nature of new releases of the
+Linux kernel are controlled by these third parties. Delays in
+developing, completing, or shipping new or enhanced products
+could result in delayed or reduced revenue for those products
+and could adversely impact customer acceptance of those
+offerings.
+
+We benefit from the open source contributions of third-party
+programmers and corporations, and if they cease to make these
+contributions, our product strategy could be adversely
+affected.
+
+Our open source offerings depend to a large extent on the
+efforts of developers not employed by us for the creation and
+update of open source technologies. Also, we and many other
+corporations contribute software into the open source movement.
+If key members, or a significant percentage, of this group of
+developers or
+
+ 16
+
+Novell annual report 2005
+
+Table of Contents
+
+corporations decides to cease development of the Linux kernel or
+other open source applications, we would have to either rely on
+another party (or parties) to develop these technologies,
+develop them ourselves or adapt our product strategy
+accordingly. This could increase our development expenses, delay
+our product releases and upgrades or adversely impact customer
+acceptance of open source offerings.
+
+We may not be able to attract and retain qualified personnel
+because of the intense competition for qualified personnel in
+the computer and consulting industries.
+
+Our ability to maintain our competitive technological position
+depends, in large part, on our ability to attract and retain
+highly qualified development, consulting, and managerial
+personnel. Competition for personnel of the highest caliber is
+intense in the software and consulting industries. The loss of
+certain key individuals, or a significant group of key
+personnel, would adversely affect our performance. The failure
+to successfully hire suitable replacements in a timely manner
+could have a material adverse effect on our business.
+
+If our relationships with other IT services organizations
+become impaired we could lose business.
+
+We maintain relationships with IT services organizations that
+recommend, design and implement solutions that include our
+products for their customers’ businesses. Any of these
+organizations could decide at any time to not continue to do
+business with us or to not recommend our products. A change in
+the willingness of these IT service organizations to do business
+with us or recommend our products could result in lower revenue.
+
+The success of our acquisitions is dependent on our ability
+to integrate personnel, operations and technology, and if we are
+not successful, our revenue will not grow at the rate we
+anticipate.
+
+Achieving the benefits of acquisitions will depend in part on
+the successful integration of personnel, operations and
+technology. The integration of acquisitions will be subject to
+risks and will require significant expenditure of time and
+resources. The challenges involved in integrating acquisitions
+include the following:
+
+• 
+
+ obtaining synergies from the companies’ organizations;
+
+• 
+
+ obtaining synergies from the companies’ service and product
+ offerings effectively and quickly;
+
+• 
+
+ bringing together marketing efforts so that the market receives
+ useful information about the combined companies and their
+ products;
+
+• 
+
+ coordinating sales efforts so that customers can do business
+ easily with the combined companies;
+
+• 
+
+ integrating product offerings, technology, back office, human
+ resources, accounting and financial systems;
+
+• 
+
+ assimilating employees who come from diverse corporate cultural
+ backgrounds into a common business culture revolving around our
+ solutions offerings; and
+
+• 
+
+ retaining key officers and employees who possess the necessary
+ skills and experience to quickly and effectively transition and
+ integrate the businesses.
+
+Failure to effectively and timely complete the integration of
+acquisitions could materially harm the business and operating
+results of the combined companies. In addition, goodwill related
+to any acquisitions could become impaired. Furthermore, we may
+assume significant liabilities in connection with acquisitions
+we make or become responsible for liabilities of the acquired
+businesses.
+
+ Novell annual report 2005
+
+17
+
+Table of Contents
+
+Our financial and operating results may vary and may fall
+below analysts’ estimates, which may cause the price of our
+common stock to decline.
+
+We currently provide estimates of our revenue and earnings per
+share for only the upcoming quarter, and the first quarter of
+fiscal 2006 is the first time where we have provided such
+guidance in several years. Our operating results may fluctuate
+from quarter to quarter due to a variety of factors including,
+but not limited to:
+
+• 
+
+ timing of orders from customers and shipments to customers;
+
+• 
+
+ impact of foreign currency exchange rates on the price of our
+ products in international locations;
+
+• 
+
+ inability to respond to the decline in revenue through the
+ distribution channel;
+
+• 
+
+ inability to deliver solutions as expected by our customers and
+ systems integration partners.
+
+In addition, we often experience a higher volume of revenue at
+the end of each quarter and during the fourth quarter of our
+fiscal year. Because of this, fixed costs that are out of line
+with revenue levels may not be detected until late in any given
+quarter and results of operations could be adversely affected.
+
+Due to these factors or other unanticipated events,
+quarter-to-quarter
+comparisons of our operating results may not be reliable
+indicators of our future performance. In addition, from time to
+time our quarterly financial results may fall below the
+expectations of the securities and industry analysts who publish
+reports on our company, or of investors generally. This could
+cause the market price of our securities to decline, perhaps
+significantly.
+
+We face increased risks in conducting a global business.
+
+We are a global corporation with subsidiaries, offices and
+employees around the world and, as such, we face risks in doing
+business abroad that we do not face domestically. Certain
+aspects inherent in transacting business internationally could
+negatively impact our operating results, including:
+
+• 
+
+ costs and difficulties in staffing and managing international
+ operations;
+
+• 
+
+ unexpected changes in regulatory requirements;
+
+• 
+
+ tariffs and other trade barriers;
+
+• 
+
+ difficulties in enforcing contractual and intellectual property
+ rights;
+
+• 
+
+ longer payment cycles;
+
+• 
+
+ local political and economic conditions;
+
+• 
+
+ potentially adverse tax consequences, including restrictions on
+ repatriating earnings and the threat of “double
+ taxation”; and
+
+• 
+
+ fluctuations in currency exchange rates, which can affect demand
+ and increase our costs.
+
+We may not be able to protect our confidential information,
+and this could adversely affect our business.
+
+We generally enter into contractual relationships with our
+employees that protect our confidential information. The
+misappropriation of our trade secrets or other proprietary
+information could seriously harm our business. In addition, we
+may not be able to timely detect unauthorized use of our
+intellectual property and take appropriate steps to enforce our
+rights. In the event we are unable to enforce these contractual
+obligations and our intellectual property rights, our business
+could be adversely affected.
+
+ 18
+
+Novell annual report 2005
+
+Table of Contents
+
+Some of our short-term, long-term, and venture capital fund
+investments have become impaired and additional investments
+could become impaired.
+
+Our investment portfolio includes investments in public equity
+securities, small capitalization stocks in the high-technology
+industry sector, private companies, and funds managed by venture
+capitalists. Many of these investments might become
+other-than-temporarily impaired. During our fiscal years ended
+October 31, 2005, 2004 and 2003, we recorded impairment
+charges of $3.4 million, $5.4 million and
+$34.7 million, respectively, related to some of the
+investments in our portfolio that experienced an
+other-than-temporary decline in market value. If the funds in
+which we have invested suffer poor financial performance, or if
+the private companies in which we have invested are not
+successfully acquired or undertake initial public offerings, the
+value of our investments may decrease further.
+
+Our consulting services contracts contain pricing risks and,
+if our estimates prove inaccurate, we could lose money.
+
+Our IT and Celerant consulting businesses derive a portion of
+their revenue from fixed-price, fixed-time contracts. Because of
+the complex nature of the services provided, it is sometimes
+difficult to accurately estimate the cost, scope and duration of
+particular client engagements. If we do not accurately estimate
+the resources required for a project, do not accurately assess
+the scope of work associated with a project, do not manage the
+project properly, or do not satisfy our obligations in a manner
+consistent with the contract, then our costs to complete the
+project could increase substantially. We have occasionally had
+to commit unanticipated additional resources to complete
+projects, and may have to take similar action in the future. We
+may not be compensated for these additional costs or the
+commitment of these additional resources. Additionally, our
+Celerant consulting business derives revenue from projects
+priced on a contingency basis. If results are not met, or if a
+dispute arises, we may not be able to realize a proportion of
+the overall fee, which is dependent on project achievements.
+
+Our IT and Celerant consulting clients may cancel or reduce
+the scope of their engagements with us on short notice.
+
+If our clients cancel or reduce the scope of an engagement with
+our IT or Celerant consulting businesses, we may be unable to
+reassign our professionals to new engagements without delay.
+Personnel and related costs constitute a substantial portion of
+our operating expenses. Because these expenses are relatively
+fixed, and because we establish the levels of these expenses
+well in advance of any particular quarter, cancellations or
+reductions in the scope of client engagements could result in
+the under-utilization of our professional services employees,
+causing significant reductions in operating results for a
+particular quarter.
+
+Conversion of the Debentures into shares of our common stock
+will dilute the ownership interests of existing stockholders.
+
+The conversion of some or all of the Debentures into shares of
+common stock will dilute the ownership interest of existing
+common stockholders. Any large volume sales in the public market
+of the common stock issued upon such conversion could adversely
+affect prevailing market prices of our common stock. In
+addition, the existence of the Debentures may encourage short
+selling by market participants because the conversion of the
+Debentures could depress the price of our common stock.

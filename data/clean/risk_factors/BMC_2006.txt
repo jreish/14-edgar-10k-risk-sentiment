@@ -1,0 +1,790 @@
+related to global operations.
+
+Maintenance, Enhancement and Support Services
+
+     Revenues from providing maintenance, enhancement and support services (collectively,
+maintenance) comprised 53%, 56% and 59% of our total revenues in fiscal 2004, 2005 and 2006,
+respectively. Payment of maintenance, enhancement and support fees generally entitle a customer to
+telephone and Internet support and problem resolution services. This includes the following:
+proactive notification, electronic support requests, a resolution database, and enhanced versions
+of products released during the maintenance period, including new versions necessary to run with
+the most current releases of the operating systems, databases and other software supported by our
+products. Such maintenance fees are an important source of recurring revenue, and we invest
+significant resources to provide maintenance services and new product versions. Customers continue
+to enroll in our maintenance, enhancement and support program because they require forward
+compatibility and enhanced product features when they install new versions of the operating
+systems, databases and other software supported by our products. Our customers also value the
+immediate problem resolution provided because they use our products to manage their
+business-critical IT systems.
+
+Professional Services
+
+     Our professional services group consists of a worldwide team of experienced software
+consultants who provide implementation, integration and education services related to our products.
+By easing the implementation of our products, these services help our customers accelerate the time
+to value. By improving the overall customer experience, these services also drive future software
+license transactions with customers. Professional services contributed approximately 6% of our
+total revenues in fiscal 2004, 2005 and 2006.
+
+Product Pricing and Licensing
+
+     Our software solutions are licensed under multiple license types using a variety of business
+metrics. We have historically licensed our software primarily on a perpetual basis; however, we
+also provide customers the right to use our software for a defined period of time, which is
+referred to as a term contract. Under a term contract, the customer receives the license rights to
+use the software, combined with the related maintenance, enhancement and support services, for the
+term of the contract. Some of our more common perpetual licensing models are as follows:
+
+•
+
+Enterprise license — a license to use one or more products across a customer’s
+enterprise, usually subject to capacity limits. Capacity can be measured in many ways,
+including mainframe computing capacity, number of servers, number of users or number of
+gigabytes, among others. Additional license fee prices are specified in the enterprise
+license agreement and are typically paid on an annual basis in the event a customer exceeds
+agreed capacity.
+
+•
+
+Capacity license — a license to use one or more products up to a specific license
+capacity. To use the products on additional capacity in excess of the original license,
+additional license fees would have to be agreed to as part of another license transaction.
+
+     For a discussion of our revenue recognition policies and the impact of our licensing models on
+revenue, see Management’s Discussion and Analysis of Financial Condition and Results of Operations
+— Critical Accounting Policies and — Product License Revenues and Note 1(i) to the accompanying
+Consolidated Financial Statements.
+
+     We provide extended payment terms for our products and services available for qualifying
+transactions. By providing such financing, we allow our customers to better manage their IT
+expenditures and cash flows. Our
+
+5
+
+Table of Contents
+
+financing program is discussed in further detail below under Management’s Discussion and
+Analysis of Financial Condition and Results of Operations — Liquidity and Capital Resources.
+
+Research and Development
+
+     In fiscal 2004, 2005 and 2006, research and development expenses represented 18%, 15% and 14%
+of our total revenues, respectively. These costs relate primarily to the compensation of research
+and development personnel for the work they perform before products reach the point of
+technological feasibility. Although we develop many of our products internally, we may acquire
+technology through business combinations or through licensing from third parties when appropriate.
+Our expenditures on research and development activities in the last three fiscal years are
+discussed below under Management’s Discussion and Analysis of Financial Condition and Results of
+Operations — Research and Development.
+
+     We conduct research and development activities in Houston and Austin, Texas, Waltham,
+Massachusetts, Sunnyvale, California, Clearwater, Florida, Israel, India, France and Belgium, as
+well as in small offices in other locations around the world. Product manufacturing and
+distribution is based in Houston, Texas, with European manufacturing and distribution based in
+Dublin, Ireland.
+
+Seasonality
+
+     We tend to experience a higher volume of transactions and associated revenues in the quarter
+ending December 31, which is our third fiscal quarter, and the quarter ending March 31, which is
+our fourth fiscal quarter, as a result of our customers’ spending patterns and our annual sales
+quota incentives. As a result of this seasonality for license transactions, we tend to have greater
+operating cash flow in our first and fourth fiscal quarters.
+
+Competition
+
+     The enterprise management software business is highly competitive. Our largest competitors are
+IBM, CA, Inc. (CA) and Hewlett Packard (HP). In addition, there are numerous independent software
+companies that compete with one or more of our software solutions. Although we believe we are
+uniquely positioned to offer BSM solutions to customers, several of our major competitors have
+begun to market BSM-like solutions, and we anticipate continued competition in the BSM marketplace.
+Although no company competes with us across our entire software solution line, we consider at least
+100 firms to be directly competitive with one or more of our enterprise software solutions. Some of
+these companies have substantially larger operations than ours in the specific markets in which we
+compete. In addition, the software industry is experiencing continued consolidation.
+
+     We anticipate that because we provide enterprise management solutions across multiple
+platforms we are better positioned to provide customers with comprehensive management solutions for
+their complex multi-vendor IT environments than integrated hardware and software companies like IBM
+and HP.
+
+     As a large hardware vendor and outsourcer of IT services, IBM has the ability to bundle
+software with its other goods and services and offer packaged solutions to customers, which could
+result in increased pricing pressure. Over the past few years, IBM has invested resources in the
+mainframe management market. They have acquired mainframe independent software vendors such as
+Candle Corporation and Isogon Corporation to expand their mainframe management capabilities.
+Additionally, IBM has enhanced and increased the marketing of its utilities for IMS and DB2 as
+lower cost alternatives to the solutions provided by us and other independent software vendors.
+IBM also competes with us in the distributed management markets, where it has acquired multiple
+independent software vendors in the past year, including Collation and Micromuse.
+
+As a large hardware vendor and outsourcer of IT services, HP has the ability to bundle software
+with its other goods and services and offer packaged solutions to customers, which could result in
+increased pricing pressure. HP has acquired multiple companies (e.g., Peregrine, Trustgenix, and
+Novadigm) over the past two years that have filled in gaps in its portfolio, allowing HP to compete
+with many of our solutions in the Distributed Systems Management, Service Management and Identity
+Management product groups. If HP manages to rationalize its overlapping product portfolio and
+deliver an integrated set of products, HP may be able to deliver a more competitive solution in the
+BSM market.
+
+6
+
+Table of Contents
+
+     We anticipate that the key criteria considered by potential purchasers of our products are as
+follows: operational advantages and cost savings provided; expected return on investment; product
+quality and capability; product price and the terms on which the product is licensed; ease of
+integration of the product with the purchaser’s existing systems; ease of product installation and
+use; and quality of support and product documentation. Because potential purchasers of our products
+typically acquire such software to manage critical IT systems, they often consider the market
+experience and financial health of the vendor in making their purchasing decision.
+
+Customers
+
+     No single customer accounted for a material portion of our revenues during any of the past
+three fiscal years. Our software products are generally used in a broad range of industries,
+businesses and applications. Our customers include manufacturers, telecommunications companies,
+financial service providers, educational institutions, retailers, distributors, hospitals, service
+providers, government agencies and value-added resellers.
+
+Intellectual Property
+
+     We distribute our products in object code form and rely upon contract, trade secret, copyright
+and patent laws to protect our intellectual property. The license agreements under which customers
+use our products restrict the customer’s use to its own operations and prohibit disclosure to third
+parties. We distribute certain of our products on a shrink-wrap basis, and the enforceability of
+such restrictions in a shrink-wrap license is unproven in certain jurisdictions. Also,
+notwithstanding these restrictions, it is possible for other persons to obtain copies of our
+products in object code form. We expect that obtaining such copies would have limited value without
+access to the product’s source code, which we keep highly confidential. In addition, we employ
+protective measures such as CPU dependent passwords, expiring passwords and time-based trials.
+
+Employees
+
+     As of March 31, 2006, we had approximately 6,200 full-time employees. We expect that our
+continued success will depend in part on our ability to attract and retain highly skilled
+technical, sales, marketing and management personnel.
+
+
+
+     We operate in a dynamic and rapidly changing environment that involves numerous risks and
+uncertainties. The following section describes some, but not all, of the risks and uncertainties
+that we anticipate may adversely affect our business, financial
+condition or results of operations and are not necessarily listed in
+terms of their importance or level of risk.
+
+We may announce lower than expected revenues, license bookings or earnings, which could cause our
+stock price to decline.
+
+     Our revenues, license bookings and earnings are difficult to forecast and are likely to
+fluctuate from quarter to quarter due to many factors. A significant proportion of our license
+transactions is completed during the final weeks and days of each quarter, and therefore we
+generally do not know whether revenues, license bookings and/or earnings will have met expectations
+until shortly after the end of the quarter. Any significant shortfall in revenues, license bookings
+or earnings or lowered expectations could cause our stock price to decline substantially. Factors
+that could affect our financial results include, but are not limited to:
+
+•
+
+the unpredictability of the timing and magnitude of our sales through direct sales
+channels, value-added resellers and distributors, which tend to occur late in each quarter;
+
+•
+
+the possibility that our customers may choose to license our software under terms and
+conditions that require revenues to be deferred or recognized ratably over time rather than
+upfront and that we may not accurately forecast the resulting mix of license transactions
+between upfront and deferred revenues;
+
+•
+
+the possibility that our customers may defer or limit purchases as a result of reduced
+information technology
+
+7
+
+Table of Contents
+
+budgets or reduced data processing capacity demand;
+
+•
+
+our ability to adapt our solutions to customers’ needs in a market space defined by
+constant technological change;
+
+•
+
+the possibility that our customers may elect not to license our products for additional
+processing capacity until their actual processing capacity or expected future processing
+capacity exceeds the capacity they have already licensed from us;
+
+•
+
+the possibility that our customers may defer purchases of our products in anticipation
+of new products or product updates from us or our competitors;
+
+•
+
+the timing of new product introductions by us and the market’s acceptance of new products;
+
+•
+
+higher than expected operating expenses;
+
+•
+
+changes in our pricing and distribution terms and/or those of our competitors; and
+
+•
+
+the possibility that our business will be adversely affected as a result of the threat of
+significant external events that increase global economic uncertainty.
+
+     Investors should not rely on the results of prior periods as an indication of our future
+performance. Our operating expense levels are based, in significant part, on our expectations of
+future revenue. If we have a shortfall in revenue in any given quarter, we will not be able to
+reduce our operating expenses for that quarter proportionally in response. Therefore, any
+significant shortfall in revenue will likely have an immediate adverse effect on our operating
+results for that quarter.
+
+     We may have difficulty achieving our cash flow from operations goals.
+
+     Our quarterly cash flow is and has been volatile. If our cash generated from operations in
+some future period is materially less than the market expects, our stock price could decline. To
+meet the needs of our customers, we have been providing more licensing options, and this increased
+focus on flexibility may lead to more contracts where revenues will be recognized ratably versus
+upfront and where cash payments may be received over time versus upfront. Factors that could
+adversely affect our cash flow from operations in the future include: reduced net earnings;
+increased time required for the collection of accounts receivable; an increase in uncollectible
+accounts receivable; a significant shift from multi-year committed contracts to short-term
+contracts; a reduced ability to transfer finance receivables to third parties (including the
+increase in credit risk assumed by us); an increase in contracts where expenses such as sales
+commissions are paid upfront but payments from customers are collected over time; reduced renewal
+rates for maintenance; and a reduced yield from marketable securities and cash and cash
+equivalents.
+
+     Maintenance revenue could decline.
+
+     Maintenance revenues have increased in each of the last three fiscal years as a result of
+acquisitions and the continuing growth in the base of installed products and the processing
+capacity on which they run. Maintenance fees increase as the processing capacity on which the
+products are installed increases; consequently, we receive higher absolute maintenance fees with
+new license and maintenance agreements and as existing customers install our products on additional
+processing capacity. Due to increased discounting for higher levels of additional processing
+capacity, the maintenance fees on a per unit of capacity basis are typically reduced in enterprise
+license agreements. In addition, customers are generally entitled to reduced annual maintenance
+percentages for entering into long-term maintenance contracts. These discounts, combined with an
+increase in long-term maintenance contracts with reduced maintenance percentages and our license
+bookings performance, have led to lower year-over-year growth rates for our maintenance revenues
+excluding acquisitions. Declines in our license bookings, increases in long-term maintenance
+contracts and/or increased discounting would lead to declines in our maintenance revenues. Should
+customers migrate from their mainframe applications or find alternatives to our products, increased
+cancellations
+
+8
+
+Table of Contents
+
+could lead to declines in our maintenance revenues.
+
+Our restructuring efforts may strain our management, administrative, operational and financial
+infrastructure
+
+     We are focused on increasing our operating margins. To this end, we have undertaken
+restructurings over the past several years involving significant reductions in our workforce,
+relocation of job functions to overseas locations and changes to our organizational structure. We
+believe our recent restructurings are the result of extraordinary circumstances in the software
+industry and are the right-sizing of the software industry following the broader technology
+industry downturn beginning in 2000. In the future, we will continue to make organizational
+changes aimed at improving our operating margins and driving operating efficiencies. Some of these
+changes may result in additional workforce reductions or rebalancing actions in the future. These
+efforts place a strain on our management, administrative, technical, operational and financial
+infrastructure. Our ability to manage our complex, global operations while reducing operating
+costs requires us to continue to improve our product development, our operational, financial and
+management controls and our reporting systems and procedures. There can be no guarantees that we
+will be successful in achieving our profitability targets in any future quarterly or annual period.
+In addition, with any reduction in workforce there is a risk that we will not be able to retain
+and effectively manage our remaining employees which could increase our costs, hinder our
+development efforts, impact the quality of our products, delay the delivery of new products or
+product updates and adversely affect our customer service.
+
+The software industry includes large, powerful multi-line and small, agile single-line
+competitors.
+
+     Some of our largest competitors, including International Business Machines Corp (IBM), CA,
+Inc. (CA) and Hewlett-Packard Company (HP) have significant scale advantages. With scale comes a
+large installed base of customers in particular market niches, as well as the ability to develop
+and market software competitive with ours. Some of these competitors can also bundle hardware,
+software, and services together, which is a disadvantage for us since we do not provide hardware
+and have fewer services offerings. Competitive products are also offered by numerous independent
+software companies that specialize in specific aspects of the highly fragmented software industry.
+Some, like Microsoft Corporation (Microsoft), Oracle Corporation (Oracle), and SAP
+Aktiengesellschaft (SAP), are the leading developers and vendors in their specialized markets. In
+addition, new companies enter the market on a frequent and regular basis, offering products that
+compete with those offered by us. As the software industry consolidates generally, it is possible
+that storage and security vendors such as EMC Corporation (EMC) and Symantec Corporation (Symantec)
+will enter the systems management market. Additionally, many customers historically have developed
+their own products that compete with those offered by us. Competition from any of these sources can
+result in price reductions or displacement of our products, which could have a material adverse
+effect on our business, financial condition, operating results, and cash flows.
+
+Industry consolidation could affect prices or demand for our products.
+
+     The IT industry and the market for our systems management products are very competitive due to
+a variety of factors. As the enterprise systems software market matures, it is consolidating.
+This trend could create opportunities for larger software companies, such as IBM, Microsoft and
+Oracle, to increase their market share through the acquisition of companies that dominate certain
+lucrative market niches or that have loyal installed customer bases. We expect this trend towards
+consolidation to continue as companies attempt to maintain or extend their market and competitive
+positions in the rapidly changing software industry and as companies are acquired or are unable to
+continue operations. This industry consolidation may result in stronger competitors that are better
+able to compete as sole-source vendors for customers. This could lead to more variability in our
+operating results due to lengthening of the customer evaluation process and/or loss of business to
+these stronger competitors, which may materially and adversely affect our business, financial
+condition or results of operations.
+
+Our products must remain compatible with ever-changing operating and database environments.
+
+     IBM, HP, Microsoft and Oracle are by far the largest suppliers of systems and database
+software and, in many cases, are the manufacturers of the computer hardware systems used by most of
+our customers. Historically, operating and database system developers have modified or introduced
+new operating systems, database systems, systems software and computer hardware. Such new products
+could incorporate features which perform functions
+
+9
+
+Table of Contents
+
+currently performed by our products or could require substantial modification of our products
+to maintain compatibility with these companies’ hardware or software. We have generally been able
+to adapt our products and our business to changes introduced by hardware manufacturers and
+operating and database system software developers. However, there can be no assurance that we will
+be able to do so in the future. Failure to adapt our products in a timely manner to such changes or
+customer decisions to forego the use of our products in favor of those with comparable
+functionality contained either in the hardware or operating system could have a material adverse
+effect on our business, financial condition and operating results.
+
+Future product development is dependent upon access to third-party source code.
+
+     In the past, licensees using proprietary operating systems were furnished with “source code,”
+which makes the operating system generally understandable to programmers, and “object code,” which
+directly controls the hardware and other technical documentation. Since the availability of source
+code facilitated the development of systems and applications software, which must interface with
+the operating systems, independent software vendors such as BMC were able to develop and market
+compatible software. IBM and other hardware vendors have a policy of restricting the use or
+availability of the source code for some of their operating systems. To date, this policy has not
+had a material effect on us. Some companies, however, may adopt more restrictive policies in the
+future or impose unfavorable terms and conditions for such access. These restrictions may, in the
+future, result in higher research and development costs for us in connection with the enhancement
+and modification of our existing products and the development of new products. Although we do not
+expect that such restrictions will have this adverse effect, there can be no assurances that such
+restrictions or other restrictions will not have a material adverse effect on our business,
+financial condition and operating results.
+
+Future product development is dependent upon early access to third-party operating and database
+systems.
+
+     Operating and database system software developers have in the past provided us with early
+access to pre-generally available (GA) versions of their software in order to have input into the
+functionality and to ensure that we can adapt our software to exploit new functionality in these
+systems. Some companies, however, may adopt more restrictive policies in the future or impose
+unfavorable terms and conditions for such access. These restrictions may result in higher research
+and development costs for us in connection with the enhancement and modification of our existing
+products and the development of new products. Although we do not expect that such restrictions will
+have this adverse effect, there can be no assurances that such restrictions or other restrictions
+will not have a material adverse effect on our business, financial condition and operating results.
+
+Future product development is dependent upon access to and reliability of third-party software
+products.
+
+     Certain of our software products contain components developed and maintained by third-party
+software vendors. We expect that we may have to incorporate software from third-party vendors in
+our future products. We may not be able to replace the functionality provided by the third-party
+software currently offered with our products if that software becomes obsolete, defective or
+incompatible with future versions of our products or is not adequately maintained or updated, or if
+our relationship with the third-party vendor terminates. Although we expect there are adequate
+alternate sources for the technology licensed to us, any significant interruption in the
+availability of these third-party software products on commercially acceptable terms or defects in
+these products could delay development of future products or enhancement of future products and
+harm our revenues.
+
+Growing market acceptance of “open source” software could cause a decline in our revenues and
+operating margins.
+
+     Growing market acceptance of open source software has presented both benefits and challenges
+to the commercial software industry in recent years. “Open source” software is made widely
+available by its authors and is licensed “as is” for a nominal fee or, in some cases, at no charge.
+We have incorporated some open source software into our products, allowing us to enhance certain
+solutions without incurring substantial additional research and development costs. Thus far, we
+have encountered no unanticipated material problems arising from our use of open source software.
+However, as the use of open source software becomes more widespread, certain open source technology
+could become competitive with our proprietary technology, which could cause sales of our products
+to decline or force us to reduce the fees we charge for our products, which could have a material
+adverse impact on our
+
+10
+
+Table of Contents
+
+revenues and operating margins.
+
+Discovery of errors in our software could adversely affect our earnings.
+
+     The software products we offer are inherently complex. Despite testing and quality control, we
+cannot be certain that errors will not be found in current versions, new versions or enhancements
+of our products after commencement of commercial shipments. If new or existing customers have
+difficulty deploying our products or require significant amounts of customer support, our operating
+margins could be harmed. Moreover, we could face possible claims and higher development costs if
+our software contains undetected errors or if we fail to meet our customers’ expectations. With our
+BSM strategy, these risks increase because we are combining already complex products to create
+solutions that are even more complicated than the aggregation of their product components.
+Significant technical challenges also arise with our products because our customers purchase and
+deploy our products across a variety of computer platforms and integrate them with a number of
+third-party software applications and databases. These combinations increase our risk further
+because in the event of a system-wide failure, it may be difficult to determine which product is at
+fault; thus, we may be harmed by the failure of another supplier’s products. As a result of the
+foregoing, we could experience:
+
+•
+
+loss of or delay in revenues and loss of market share;
+
+•
+
+loss of customers;
+
+•
+
+damage to our reputation;
+
+•
+
+failure to achieve market acceptance;
+
+•
+
+diversion of development resources;
+
+•
+
+increased service and warranty costs;
+
+•
+
+legal actions by customers against us which could, whether or not successful, increase
+costs and distract our management; and
+
+•
+
+increased insurance costs.
+
+Failure to maintain our existing distribution channels and develop additional channels in the
+future could adversely affect our revenues.
+
+     The percentage of our revenues from sales of our products and services through distribution
+channels such as systems integrators and value-added resellers is increasing. Conducting business
+through indirect distribution channels presents a number of risks, including:
+
+•
+
+our systems integrators and value-added resellers can cease marketing our products and
+services with limited or no notice and with little or no penalty;
+
+•
+
+we may not be able to replace existing or recruit additional systems integrators or
+value-added resellers if we lose any of our existing ones;
+
+•
+
+our existing systems integrators and value-added resellers may not be able to effectively
+sell new products and services that we may introduce;
+
+•
+
+we do not have direct control over the business practices adopted by our systems integrators
+and value-added resellers;
+
+•
+
+our systems integrators and value-added resellers may also offer competitive products and
+services and as such, may not give priority to the marketing of our products and services as
+compared to our competitors’ products; and
+
+11
+
+Table of Contents
+
+•
+
+we may face conflicts between the activities of our indirect channels and our direct sales
+and marketing activities.
+
+Our customers may not accept our product strategies.
+
+     Historically, we have focused on selling software products to address specific customer
+problems associated with their applications. Our BSM strategy requires us to integrate multiple
+software products so that they work together to provide comprehensive systems management solutions.
+There can be no assurance that customers will perceive a need for such solutions. In addition,
+there may be technical difficulties in integrating individual products into a combined solution
+that may delay the introduction of such solutions to the market or adversely affect the demand for
+such solutions. We may also adopt different sales strategies for marketing our products, and there
+can be no assurance that our strategies for selling solutions will be successful.
+
+Changes to compensation of our sales organization may have unintended effects.
+
+     We review and modify our compensation plans for the sales organization periodically. As in
+most years, we have made significant changes for fiscal 2007. These plans are intended to align
+with our business objectives of providing customer flexibility and satisfaction. The compensation
+plans may encourage unanticipated or unintended behavior which could adversely affect our business,
+financial condition, operating results and/or cash flows. Changes to our sales compensation plan
+could also make it difficult for us to attract and retain top sales talent.
+
+Risks related to business combinations.
+
+     As part of our overall strategy, we have acquired or invested in, and likely will continue to
+acquire or invest in, complementary companies, products, and technologies. Risks commonly
+encountered in such transactions include: the difficulty of assimilating the operations and
+personnel of the combined companies; the risk that we may not be able to integrate the acquired
+technologies or products with our current products and technologies; the potential disruption of
+our ongoing business; the inability to retain key technical, sales and managerial personnel; the
+inability of management to maximize our financial and strategic position through the successful
+integration of acquired businesses; the risk that revenues from acquired companies, products and
+technologies do not meet our expectations; and decreases in reported earnings as a result of
+charges for in-process research and development and amortization of acquired intangible assets.
+
+     For us to maximize the return on our investments in acquired companies, the products of these
+entities must be integrated with our existing products. These integrations can be difficult and
+unpredictable, especially given the complexity of software and that acquired technology is
+typically developed independently and designed with no regard to integration. The difficulties are
+compounded when the products involved are well-established because compatibility with the existing
+base of installed products must be preserved. Successful integration also requires coordination of
+different development and engineering teams. This too can be difficult and unpredictable because of
+possible cultural conflicts and different opinions on technical decisions and product roadmaps.
+There can be no assurance that we will be successful in our product integration efforts or that we
+will realize the expected benefits.
+
+     With each of our acquisitions, we have initiated efforts to integrate the disparate cultures,
+employees, systems and products of these companies. Retention of key employees is critical to
+ensure the continued development, support, sales and marketing efforts pertaining to the acquired
+products. We have implemented retention programs to keep many of the key technical, sales and
+marketing employees of acquired companies; nonetheless, we have lost some key employees and may
+lose others in the future.
+
+Unanticipated changes in our effective tax rates or exposure to additional income tax
+liabilities could affect our profitability.
+
+     We carry out our business operations through entities in the United States and multiple
+foreign jurisdictions. As such, we are required to file corporate income tax returns that are
+subject to United States, state and foreign tax laws. The United States, state and foreign tax
+liabilities are determined, in part, by the amount of operating profit generated in these different
+taxing jurisdictions. Our effective tax rate and earnings could be adversely affected by
+
+12
+
+Table of Contents
+
+changes in the mix of operating profits generated in countries with higher statutory tax
+rates. We are also required to evaluate the realizability of our deferred tax assets. This
+evaluation requires that our management assess the positive and negative evidence regarding sources
+of future taxable income. If management’s assessment regarding the realizability of our deferred
+tax assets changes or we are presented with additional negative evidence regarding future sources
+of taxable income, we will be required to increase our valuation allowance, which will negatively
+impact our effective tax rate and earnings. We are also subject to routine corporate income tax
+audits in multiple jurisdictions. Our provision for income taxes includes amounts intended to
+satisfy income tax assessments that may result from the examination of our corporate tax returns
+that have been filed in these jurisdictions. The amounts ultimately paid upon resolution of these
+examinations could be materially different from the amounts included in the provision for income
+taxes and result in additional tax expense.
+
+     Enforcement of our intellectual property rights.
+
+     We rely on a combination of copyright, patent, trademark, trade secrets, confidentiality
+procedures and contractual procedures to protect our intellectual property rights. Despite our
+efforts to protect our intellectual property rights, it may be possible for unauthorized third
+parties to copy certain portions of our products or to reverse engineer or obtain and use
+technology or other information that we regard as proprietary. There can also be no assurance that
+our intellectual property rights would survive a legal challenge to their validity or provide
+significant protection for us. In addition, the laws of certain countries do not protect our
+proprietary rights to the same extent as do the laws of the United States. Accordingly, there can
+be no assurance that we will be able to protect our proprietary technology against unauthorized
+third party copying or use, which could adversely affect our competitive position and revenues.
+
+     Possibility of infringement claims.
+
+     From time to time, we receive notices from third parties claiming infringement by our products
+of patent and other intellectual property rights. We expect that software products will
+increasingly be subject to such claims as the number of products and competitors in our industry
+segments grows and the functionality of products overlaps. In addition, we may receive more patent
+infringement claims as companies increasingly seek to patent their software and business methods
+and enforce such patents, especially given the increase in software and business method patents
+issued during the past several years. Regardless of its merit, responding to any such claim could
+be time-consuming, result in costly litigation and require us to enter into royalty and licensing
+agreements, which may not be offered or available on terms acceptable to us. If a successful claim
+is made against us and we fail to develop or license a substitute technology, our business,
+financial condition or operating results could be materially adversely affected.
+
+     Risks related to global operations.
+
+     We are a global company with research and development sites and sales offices around the
+world. As a result, we face risks from operating as a global concern, including, among others:
+
+•
+
+difficulties in staffing and managing international operations;
+
+•
+
+possible non-compliance with our professional conduct policy and code of ethics due to
+inconsistent interpretations and/or application of corporate standards;
+
+•
+
+longer payment cycles;
+
+•
+
+increased financial accounting and reporting burdens and complexities;
+
+•
+
+adverse tax consequences;
+
+•
+
+changes in currency exchange rates;
+
+•
+
+potential impact from volatile or sluggish local economies;
+
+13
+
+Table of Contents
+
+•
+
+loss of proprietary information due to piracy, misappropriation or weaker laws
+regarding intellectual property protection;
+
+•
+
+the need to localize our products;
+
+•
+
+political unrest or terrorism, particularly in areas in which we have facilities;
+
+•
+
+compliance with a wide variety of complex laws and treaties; and
+
+•
+
+licenses, tariffs and other trade barriers.
+
+     We maintain a significant presence in India, conducting software development and support and
+IT and certain financial operations. To date, the dispute between India and Pakistan involving the
+Kashmir region has not adversely affected our operations in India. Should we be unable to conduct
+operations in India in the future, we expect that our business could be temporarily adversely
+affected. As the software and technology labor market in India has developed at a rapid pace, with
+many multi-national companies competing for talent, there is a risk that wage and attrition rates
+will rise faster than we have anticipated, which could lead to operational issues.
+
+     We conduct substantial development and marketing operations in multiple locations in Israel
+and, accordingly, we are directly affected by economic, political and military conditions in
+Israel. Any major hostilities involving Israel or the interruption or curtailment of trade between
+Israel and its present trading partners could materially adversely affect our business, operating
+results and financial condition. We maintain comprehensive contingency and business continuity
+plans for our local operations, and to date, the current dispute in the India — Pakistan region and
+hostilities within Israel have not caused disruption of our operations.
+
+     Generally, our foreign sales are denominated in our foreign subsidiaries’ local currencies. If
+these currency exchange rates change unexpectedly, we could have significant gains or losses. The
+foreign currencies to which we currently have the most significant exposure are the euro and the
+Israeli shekel. Additionally, fluctuations of the exchange rate of foreign currencies against the
+United States dollar can affect our revenue within those markets, all of which may adversely impact
+our business, financial condition, operating results, and cash flows. Currently, we use derivative
+financial instruments to hedge our exposure to fluctuations in currency exchange rates. Such
+hedging requires us to estimate when transactions will occur and cash will be collected, and we may
+not be successful in making these estimates. If these estimates are inaccurate, particularly during
+periods of currency volatility, it could have a materially adverse affect on our business,
+financial condition or operating results.
+
+We have identified a material weakness in our disclosure controls and procedures and our
+internal control over financial reporting, which, if not remedied effectively, could have an
+adverse effect on our business.
+
+     Management, through documentation, testing and assessment of our internal control over
+financial reporting pursuant to the rules promulgated by the Securities and Exchange Commission
+under Section 404 of the Sarbanes-Oxley Act of 2002 and Item 308 of Regulation S-K, has concluded
+that our disclosure controls and procedures and our internal control over financial reporting had a
+material weakness as of March 31, 2006. In response to this material weakness in our internal
+control over financial reporting, we are implementing, and may be required to further implement,
+additional controls and procedures. Furthermore, we intend to continue improving our internal
+control over financial reporting, and the implementation and testing of these continued
+improvements could result in increased cost and could divert management attention away from
+operating our business.
+
+     In future periods, if the process required by Section 404 of the Sarbanes-Oxley Act reveals
+further material weaknesses or significant deficiencies, the correction of any such material
+weakness or significant deficiency could require additional remedial measures including additional
+personnel which could be costly and time-consuming. If a material weakness exists as of a future
+period year-end (including a material weakness identified prior to year-end for which there is an
+insufficient period of time to evaluate and confirm the effectiveness of the corrections or related
+new procedures), our management will be unable to report favorably as of such future period
+year-end to the effectiveness of our control over financial reporting. If we are unable to assert
+that our internal control over financial reporting is effective in any future period, or if we
+continue to experience material weaknesses in our internal
+
+14
+
+Table of Contents
+
+control over financial reporting, we could lose investor confidence in the accuracy and
+completeness of our financial reports, which would have an adverse effect on our stock price and
+potentially subject us to litigation.
+
+If the carrying value of our long-lived assets were not recoverable, recognition of an
+impairment loss would be required, which would adversely affect our financial results.
+
+     We evaluate our long-lived assets, including property and equipment, goodwill, acquired
+product rights and other intangible assets, whenever events or circumstances occur which indicate
+that these assets might be impaired or periodically as required by generally accepted accounting
+principles. In addition, the realizability of acquired technology and capitalized software
+development costs is evaluated quarterly, and goodwill and intangible assets with indefinite lives
+are evaluated annually for impairment in the fourth quarter of each fiscal year, regardless of
+events and circumstances. The reader should be aware that in the continuing process of evaluating
+the recoverability of the carrying amount of our long-lived assets, there is the possibility that
+we could identify a substantial impairment, which could adversely affect our financial results.
+
+Expensing of share-based compensation will reduce our reported earnings and could adversely
+affect our ability to attract and retain key personnel.
+
+     We have historically used stock options and other long-term equity incentives as a fundamental
+component of our employee compensation packages. In accounting for our stock option grants using
+the intrinsic value method under the provisions of APB Opinion No. 25, we have generally recognized
+no compensation cost because the exercise price of options granted has generally been equal to the
+market value of our common stock on the date of grant. The FASB has revised United States generally
+accepted accounting principles such that we will be required to record charges to earnings for
+employee stock option grants beginning April 1, 2006, which will negatively impact our earnings.
+The full impact cannot be predicted at this time because it will depend on levels of share-based
+payments granted in the future. In addition, the New York Stock Exchange rule requiring stockholder
+approval for all stock option plans could make it more difficult for us to adopt plans to grant
+options to employees in the future. Like other companies, we have reviewed our equity compensation
+strategy in light of the current regulatory and competitive environment and have decided to reduce
+the number of employees who receive share-based compensation. As a result, we may incur increased
+cash compensation costs or find it difficult to attract, retain and motivate employees, and such
+difficulty could materially adversely affect our business.
+
+Interpretations of existing accounting pronouncements could adversely affect our financial
+results.
+
+     On April 1, 1998 and 1999, we adopted AICPA SOP 97-2, “Software Revenue Recognition,” and SOP
+98-9 “Modification of SOP 97-2, Software Revenue Recognition, With Respect to Certain Transactions”
+(collectively, SOPs), respectively. The adoption of these standards did not have a material impact
+on our financial position or operating results. Based on our reading and interpretation of these
+SOPs, we expect that our current sales contract terms and business arrangements have been properly
+reported. Future interpretations of existing accounting standards or changes in our business
+practices could result in future changes in our revenue accounting policies that could have a
+material adverse effect on our financial condition and operating results.

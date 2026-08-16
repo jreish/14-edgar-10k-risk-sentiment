@@ -375,3 +375,93 @@ environment, not by an error in the script. Restarting the remaining
 steps with `nohup`/`disown` (so the process doesn't depend on the
 original shell session staying alive) let it finish cleanly the second
 time.
+
+## 2026-08-16 — Finding the identification bug, and three fixes
+
+The question that started this was simple: how many companies do we have
+per year, and how many of them do we actually have risk factors for? The
+answer had an odd shape — coverage climbed from 48% in 2006 to 91% in
+2025 — and that climb turned out to be mostly an artifact of our own
+code, not anything about how companies file.
+
+Almost the entire gap was one step: figuring out *which company* a ticker
+belonged to in a given year. Once a company is correctly identified,
+finding its annual report is essentially solved — only 97 rows out of
+7,578 were lost at that stage. Everything else was identification.
+
+**The bug.** To decide whether today's holder of a ticker is the same
+company that held it back then, we checked whether that company was
+filing paperwork at the start of its S&P 500 membership. For most
+companies that start date is January 1996 — a decade before our study
+even begins. So any company that reorganized at some point in between
+failed the test for *every single year*, including recent years where
+there was no ambiguity at all. Oracle failed all 21 years. So did
+Comcast, ConocoPhillips, Duke Energy, Con Edison, Exelon, Moody's,
+Newmont, Northrop Grumman, FedEx. FedEx missed the cutoff by ten months
+and lost two decades of data.
+
+We measured it against the government's own records before touching any
+code: 503 of 883 rejections were flat-out wrong. The fix asks the
+question about the year we actually care about instead of about 1996.
+It recovered 500 rows — within three of the estimate, which is a good
+sign a fix does what you think and nothing else.
+
+**The second fix is about the difference between guessing and checking.**
+For companies that no longer exist, we'd been searching annual reports
+for the ticker symbol and taking the best match, which an earlier audit
+found was right only about 70% of the time. The trap is a company like
+Trump Entertainment Resorts, whose report abbreviates itself "TER"
+constantly — it outranks Teradyne, whose actual ticker that was. No
+amount of better ranking fixes that.
+
+But you can just *ask each candidate* which symbol it claims. Trump
+Entertainment says its symbol is TRMP, so it's not merely outranked, it's
+ruled out. Checking the top three candidates instead of only the first,
+and letting that evidence decide, recovered about 1,100 more rows — and
+positively ruled out 1,142 candidates that the old approach would have
+accepted as correct. That second number is the real result: those were
+wrong answers waiting to happen.
+
+Where the evidence genuinely doesn't exist, we say so. Before 2019 the
+government didn't require companies to print their ticker on the cover
+page, and plenty didn't — Teradyne's own 2010 report never contains the
+string "TER" at all. Those years stay marked as gaps rather than guesses.
+
+**The third fix is a hand-maintained list**, for identities no automated
+method can reach — usually where a ticker now points at a *newer*
+corporate entity than the one that filed the reports. Exxon is the
+cleanest example: the ticker XOM currently maps to a 2026 holding company
+that has never filed an annual report in its life.
+
+Since this is the one place a person writes an identity in directly, we
+split proposing from accepting: anyone can propose, but nothing gets
+written until the government's own filings confirm it. Of 22 proposed,
+21 confirmed and one — Xerox — was contradicted by the evidence and left
+out. A guard that rejects the proposals of the person who wrote it is
+the only kind worth having.
+
+That check also caught a subtler mistake of ours. Baker Hughes really
+does claim the ticker BHGE, so the identity was right — but the company
+didn't exist until 2017, and we'd written the date range as starting in
+2006. Confirming *who* a company is doesn't confirm *how long* it was
+around. Eleven years would have been quietly assigned to a company that
+didn't exist yet, with a perfectly real-looking verification note
+attached. Now the range gets bounded by actual filings, and the main
+script double-checks every year independently.
+
+**Where we ended up:** 9,296 risk-factor sections, up from 7,445 — an
+extra 1,851. Coverage of the study universe went from 71% to 88%, and
+2006, the worst year, improved the most: 48% to 69%.
+
+**What's left:** 1,024 rows across 223 tickers, down from 2,946. Most of
+the remainder is genuine ticker reuse — "DD" was E.I. du Pont before 2017
+and an unrelated DuPont spinoff after 2019 — which is exactly the kind of
+thing that has to be settled with evidence rather than convenience. The
+worklist ranks them by how much each one would recover: the top 50 would
+close nearly half of what's left.
+
+One practical note: a two-hour run died partway through because the
+network dropped for a minute. Beyond making it wait that out, the more
+important fix was that a failed search used to be recorded identically to
+a search that ran and found nothing — rows that looked investigated when
+they never were. Those are now labelled honestly and retried.

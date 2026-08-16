@@ -1,0 +1,460 @@
+The following risk factors and other information included in this Annual Report on Form 10-K should be carefully considered. The risks and
+uncertainties described below are not the only ones the Company faces. Additional risks and uncertainties not presently known to the Company or that the Company's management currently deems immaterial
+also may impair its business operations. If any of the risks described below were to occur, our business, financial condition, operating results and cash flows could be materially adversely affected. 
+
+ The
+semiconductor industry is characterized by rapid technological change, intense competition and cyclical market patterns which contribute to create factors that may affect our future
+operating results including: 
+
+Market Demand 
+
+•
+
+increased
+dependence on turns orders (orders received and shipped within the same fiscal quarter); 
+
+•
+
+limited
+visibility of demand for products, especially new products; 
+
+•
+
+reduced
+capital spending by our customers; 
+
+•
+
+weaker
+demand for our products or those of our customers due to a prolonged period of economic uncertainty; 
+
+•
+
+excess
+inventory at Xilinx and within the supply chain including overbuilding of OEM products; 
+
+•
+
+additional
+excess and obsolete inventories and corresponding write-downs due to a significant deterioration in demand; 
+
+•
+
+inability
+to manufacture sufficient quantities of a given product in a timely manner; 
+
+•
+
+inability
+to obtain manufacturing or test and assembly capacity in sufficient volume; 
+
+•
+
+inability
+to predict the success of our customers' products in their markets; 
+
+•
+
+an
+unexpected increase in demand resulting in longer lead times that causes delays in customer production schedules; 
+
+•
+
+dependence
+on the health of the end markets and customers we serve; 
+
+Competitive Environment 
+
+•
+
+price
+and product competition, which can change rapidly due to technological innovation; 
+
+•
+
+major
+customers converting to ASIC or ASSP designs from Xilinx PLDs; 
+
+•
+
+faster
+than normal erosion of average selling prices; 
+
+•
+
+timely
+introduction of new products and ability to manufacture in sufficient quantities at introduction; 
+
+Technology 
+
+•
+
+lower
+gross margins due to product mix shifts and reduced manufacturing efficiency; 
+
+•
+
+failure
+to retain or attract specialized technical/management personnel; 
+
+•
+
+timely
+introduction of advanced manufacturing technologies; 
+
+•
+
+ability
+to safeguard the Company's products from competitors by means of patents and other intellectual property protections; 
+
+•
+
+impact
+of new technologies which result in rapid escalation of demand for some products in the face of equally steep declines in demand for others; 
+
+•
+
+ability
+to successfully manage multiple foundry relationships; 
+
+12
+
+Other 
+
+•
+
+changes
+in accounting pronouncements; 
+
+•
+
+dependence
+on distributors to generate sales and process customer orders; 
+
+•
+
+disruption
+in sales generation, order processing and logistics if a distributor materially defaults on a contract; 
+
+•
+
+impact
+of changes to current export/import laws and regulations; 
+
+•
+
+volatility
+of the securities market, particularly as it relates to the technology sector and our investment in UMC; 
+
+•
+
+unexpected
+product quality issues; 
+
+•
+
+global
+events impacting the world economy or specific regions of the world; 
+
+•
+
+increase
+in the cost of natural resources; 
+
+•
+
+parts
+shortages at our suppliers; 
+
+•
+
+failure
+of information systems impacting financial reporting; 
+
+•
+
+catastrophes
+that impact the ability of our supply chain to operate or deliver product; and 
+
+•
+
+higher
+costs associated with multiple foundry relationships. 
+
+ We
+attempt to identify changes in market conditions as soon as possible; however, the dynamics of the market make prediction of and timely reaction to such events difficult. Due to these
+and other factors, our past results, including those described in this report, are much less reliable predictors of the future than with companies in many older, more stable and mature industries.
+Based on the factors noted herein, we may experience substantial fluctuations in future operating results. 
+
+ Our
+results of operations are impacted by global economic and political conditions, dependence on new products, dependence on independent manufacturers and subcontractors, competition,
+intellectual property, potential new accounting pronouncements, Sarbanes-Oxley Section 404 compliance and litigation, each of which is discussed in greater detail below. 
+
+Potential Effect of Global Economic and Political Conditions 
+
+ Sales and operations outside of the United States subject us to the risks associated with conducting business in foreign economic and regulatory environments. Our
+financial condition and results of operations could be adversely affected by unfavorable economic conditions in countries in which we do significant business and by changes in foreign currency
+exchange rates affecting those countries. For example, we have sales and operations in the Asia Pacific region, Japan and Europe. Past economic weakness in these markets adversely affected revenues,
+and such conditions may occur in the future.
+Sales to all direct OEMs and distributors are denominated in U.S. dollars. While the recent movement of the Euro and Yen against the U.S. dollar had no material impact to our business,
+increased volatility could impact our European and Japanese customers. Currency instability may increase credit risks for some of our customers and may impair our customers' ability to repay existing
+obligations. Increased currency volatility could also positively or negatively impact our foreign currency denominated costs, assets and liabilities. Any or all of these factors could adversely affect
+our financial condition and results of operations in the future. 
+
+ Our
+financial condition and results of operations are increasingly dependent on the global economy. Any instability in worldwide economic environments occasioned for example, by
+political instability or terrorist activity could impact economic activity and could lead to a contraction of capital spending by our customers. Additional risks to us include U.S. military actions,
+changes in U.S. government spending on military and defense activities impacting defense-associated sales, economic sanctions imposed by the U.S. government, government regulation of exports,
+imposition of tariffs and other potential trade barriers, reduced protection for intellectual property rights in some countries and generally longer receivable collection periods. Moreover, our
+financial condition and results of operations could be affected in the event of political conflicts or economic crises in countries where our main wafer providers, end customers and contract
+manufacturers who provide assembly and test services worldwide, are located. 
+
+13
+
+Dependence on New Products 
+
+ Our success depends in large part on our ability to develop and introduce new products that address customer requirements and compete effectively on the basis of
+price, density, functionality, power consumption and performance. The success of new product introductions is dependent upon several factors, including: 
+
+•
+
+timely
+completion of new product designs; 
+
+•
+
+ability
+to generate new design opportunities (design wins); 
+
+•
+
+availability
+of specialized field application engineering resources supporting demand creation and customer adoption of new products; 
+
+•
+
+ability
+to utilize advanced manufacturing process technologies to circuit geometries on 65 nanometers and smaller; 
+
+•
+
+achieving
+acceptable yields; 
+
+•
+
+ability
+to obtain adequate production capacity from our wafer foundries and assembly subcontractors; 
+
+•
+
+ability
+to obtain advanced packaging; 
+
+•
+
+availability
+of supporting software design tools; 
+
+•
+
+utilization
+of predefined IP cores of logic; 
+
+•
+
+industry
+acceptance; and 
+
+•
+
+successful
+deployment of electronic systems by our customers. 
+
+ Our
+product development efforts may not be successful, our new products may not achieve industry acceptance and we may not achieve the necessary volume of production that would lead to
+further per unit cost reductions. Revenues relating to our mature products are expected to decline in the future, which is normal for our product life cycles. As a result, we will be increasingly
+dependent on revenues derived from design wins for our newer products as well as anticipated cost reductions in the manufacture of our current products. We rely primarily on obtaining yield
+improvements and corresponding cost reductions in the manufacture of existing products and on introducing new products that incorporate advanced features and other price/performance factors that
+enable us to increase revenues while maintaining consistent margins. To the extent that such cost reductions and new product introductions do not occur in a timely manner, or to the extent that our
+products do not achieve market acceptance at prices with higher margins, our financial condition and results of operations could be materially adversely affected. 
+
+Dependence on Independent Manufacturers and Subcontractors 
+
+ During fiscal 2006, nearly all of our wafers were manufactured in Taiwan by UMC and in Japan by Toshiba and Seiko. Terms with respect to the volume and timing of
+wafer production and the pricing of wafers produced by the semiconductor foundries are determined by periodic negotiations between Xilinx and these wafer foundries, which usually result in
+short-term agreements. We are dependent on these foundries, especially UMC, which supplies the substantial majority of our wafers. We rely on UMC to produce wafers with competitive
+performance and cost attributes, which include transitioning to advanced manufacturing process technologies and increased wafer sizes, producing
+wafers at acceptable yields, and delivering them in a timely manner. We cannot guarantee that the foundries that supply our wafers will not experience manufacturing problems, including delays in the
+realization of advanced manufacturing process technologies. In addition, greater demand for wafers produced by the foundries without an offsetting increase in foundry capacity, raises the likelihood
+of potential wafer price increases. 
+
+ UMC's
+foundries in Taiwan and Toshiba's and Seiko's foundries in Japan as well as many of our operations in California are centered in areas that have been seismically active in the
+recent past. Should there be a major earthquake in our suppliers' or our operating locations in the future, our operations, including our manufacturing activities, may be disrupted. This type of
+disruption could result in our inability to ship products in a timely manner, thereby materially adversely affecting our financial condition and results of operations. Additionally, disruption of
+operations at these foundries for any reason, including other natural disasters such as fires or floods, as well as disruptions in access to adequate supplies of electricity, natural gas or water
+could cause delays in shipments of our products, and could have a material adverse effect on our results of operations. 
+
+14
+
+ We
+are also dependent on subcontractors to provide semiconductor assembly, test and shipment services. Any prolonged inability to obtain wafers with competitive performance and cost
+attributes, adequate yields or timely delivery, unavailability of or disruption in assembly, test or shipment services, or any other circumstance that would require us to seek alternative sources of
+supply, could delay shipments and have a material adverse effect on our ability to meet customer demand reducing net sales and negatively impacting our financial condition and results of operations. 
+
+Competition 
+
+ Our PLDs compete in the logic IC industry, an industry that is intensely competitive and characterized by rapid technological change, increasing levels of
+integration, product obsolescence and continuous price erosion. We expect increased competition from our primary PLD competitors, Altera Corporation (Altera) and Lattice Semiconductor Corporation,
+from the ASIC market, which has been ongoing since the inception of FPGAs, and from new companies that may enter the traditional programmable logic market segment. We believe that important
+competitive factors in the logic industry include: 
+
+•
+
+product
+pricing; 
+
+•
+
+time-to-market;
+
+•
+
+product
+performance, reliability, quality, power consumption and density; 
+
+•
+
+field
+upgradability; 
+
+•
+
+adaptability
+of products to specific applications; 
+
+•
+
+ease
+of use and functionality of software design tools; 
+
+•
+
+functionality
+of predefined IP cores of logic; 
+
+•
+
+inventory
+management; 
+
+•
+
+access
+to leading-edge process technology; and 
+
+•
+
+ability
+to provide timely customer service and support. 
+
+ Our
+strategy for expansion in the logic market includes continued introduction of new product architectures that address high-volume, low-cost and low-power
+applications as well as high-performance, high-density applications. In addition, we anticipate continued price reductions proportionate with our ability to lower the cost for
+established products. However, we may not be successful in achieving these strategies. 
+
+ Other
+competitors include manufacturers of: 
+
+•
+
+high-density
+programmable logic products characterized by FPGA-type architectures; 
+
+•
+
+high-volume
+and low-cost FPGAs as programmable replacements for ASICs and ASSPs; 
+
+•
+
+ASICs
+and ASSPs with incremental amounts of embedded programmable logic; 
+
+•
+
+high-speed,
+low-density CPLDs; 
+
+•
+
+high-performance
+DSP devices; 
+
+•
+
+products
+with embedded processors; 
+
+•
+
+products
+with embedded multi-gigabit transceivers; and 
+
+•
+
+other
+new or emerging programmable logic products. 
+
+ Several
+companies have introduced products that compete with ours or have announced their intention to enter the PLD segment. To the extent that our efforts to compete are not
+successful, our financial condition and results of operations could be materially adversely affected. 
+
+ The
+benefits of programmable logic have attracted a number of competitors to the market segment. We recognize that different applications require different programmable technologies, and
+we are developing architectures, processes and products to meet these varying customer needs. Recognizing the increasing importance of standard software solutions, we have developed common software
+design tools that support the full range of our IC products. We believe that automation and ease of design are significant competitive factors in the PLD market segment. 
+
+ We
+could also face competition from our licensees. We have granted limited rights to other companies with respect to certain of our older technology which may enable them to manufacture
+and market products which may be competitive with some of our older products. 
+
+15
+
+ In
+conjunction with Xilinx's settlement of the patent litigation with Altera in July 2001, both companies entered into a royalty-free patent cross license agreement
+for many of each company's patents through July 2006. 
+
+Intellectual Property 
+
+ We rely upon patent, copyright, trade secret, mask work and trademark laws to protect our intellectual property. We cannot provide assurance that such
+intellectual property rights can be successfully asserted in the future or will not be invalidated, circumvented or challenged. From time to time, third parties, including our competitors, have
+asserted patent, copyright and other intellectual property rights to technologies that are important to us. Third parties may assert infringement claims against us in the future; assertions by third
+parties may result in costly litigation and we may not prevail in such litigation or be able to license any valid and infringed patents from third parties on commercially reasonable terms. Litigation,
+regardless of its outcome, could result in substantial costs and diversion of our resources. Any infringement claim or other litigation against us or by us could materially adversely affect our
+financial condition and results of operations. 
+
+Potential Effect of New Accounting Pronouncements 
+
+ There may be potential new accounting pronouncements or regulatory rulings, which may have an impact on our future financial condition and results of operations.
+In December 2004, the Financial Accounting Standards Board (FASB) issued Statement of Financial Accounting Standards (SFAS) No. 123(R), "Share-Based Payment." (SFAS 123(R)).
+SFAS 123(R) eliminates our ability to account for share-based compensation transactions using Accounting Principles Board (APB) Opinion No. 25, "Accounting for Stock Issued to
+Employees," (APB 25) and will instead require companies to recognize compensation expense, using a fair-value based method, for costs related to share-based payments including stock
+options and employee stock purchase plans. The Company will implement the standard for the fiscal year beginning April 2, 2006. The adoption of SFAS 123(R) will have a material impact on
+our results of operations. 
+
+ See
+Note 2 to our consolidated financial statements, included in Item 8. "Financial Statements and Supplementary Data," for additional information about recent accounting
+pronouncements. 
+
+Sarbanes-Oxley Section 404 Compliance 
+
+ We are subject to the ongoing internal control provisions of Section 404 of the Sarbanes-Oxley Act of 2002 (the Act). Our controls necessary for continued
+compliance with the Act may not operate effectively at all times and may result in a material weakness disclosure. The identification of material weaknesses in internal control, if any, could indicate
+a lack of proper controls to generate accurate financial statements. Further, our internal control effectiveness may be impacted if we are unable to retain sufficient skilled finance and accounting
+personnel, especially in light of the increased demand for such personnel among publicly traded companies. 
+
+Litigation 
+
+ We are currently involved in several legal matters. See Item 3. "Legal Proceedings."

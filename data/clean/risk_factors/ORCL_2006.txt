@@ -1,0 +1,392 @@
+We operate in a rapidly changing economic and technological environment that presents numerous risks, many of which are driven by factors that we cannot control or predict. The following discussion, as well as our
+“Critical Accounting Policies and Estimates” discussion in Item 7, highlights some of these risks. For purposes of the following risk factors, the terms “Oracle,” “we,” “us” and “our” refer to
+Oracle and its consolidated subsidiaries. 
+
+Economic, political and market
+conditions can adversely affect our revenue growth and profitability.
+  Our business is influenced by a range of factors that are beyond our control and that we have no comparative advantage in forecasting. These include:
+
+•
+
+general economic and business conditions; 
+
+•
+
+the overall demand for enterprise computer software and services; 
+
+•
+
+governmental budgetary constraints or shifts in government spending priorities; and 
+
+•
+
+general political developments, such as the war on terrorism. 
+
+A general weakening of the global economy, or a curtailment in government spending, could delay and decrease customer purchases. In addition, the war on terrorism, the
+war in Iraq and the potential for other hostilities in various parts of the world, as well as natural disasters, continue to contribute to a climate of economic and political uncertainty that could adversely affect our revenue growth and results of
+operations. These factors generally have the strongest effect on our sales of software licenses, and to a lesser extent, also affect our renewal rates for software license updates and product support. 
+
+We may fail to achieve our financial forecasts due to inaccurate sales forecasts or
+other factors.
+  Our revenues, and particularly our new software license revenues, are difficult to forecast, and as a result our quarterly operating results can fluctuate substantially. We use a “pipeline” system, a
+common industry practice, to forecast sales and trends in our business. Our sales personnel monitor the status of all proposals and estimate when a customer will make a purchase decision and the dollar amount of the sale. These estimates are
+aggregated periodically to generate a sales pipeline. Our pipeline estimates can prove to be unreliable both in a particular quarter and over a longer period of time, in part because the “conversion rate” of the pipeline into contracts can
+be very difficult to estimate. A contraction in the conversion rate, or in the pipeline itself, could cause us to plan or budget incorrectly and adversely affect our business or results of operations. In particular, a slowdown in information
+technology spending or economic conditions generally can reduce the conversion rate in particular periods as purchasing decisions are delayed, reduced in amount or cancelled. The conversion rate can also be affected by the tendency of some of our
+customers to wait until the end of a fiscal period in the hope of obtaining more favorable terms. In addition, for companies we acquire, we will have limited experience for several quarters following the acquisition regarding how their pipelines
+will convert into sales or revenues and their conversion rate post-acquisition may be quite different from their historical conversion rate. Because a substantial portion of our new software license revenue contracts is completed in the latter part
+of a quarter, and our cost structure is largely fixed in the short term, revenue shortfalls tend to have a disproportionately negative impact on our profitability. A delay in even a small number of large new software license transactions could cause
+our quarterly new software licenses revenues to fall significantly short of our predictions. 
+
+Our success depends upon our ability to develop new products and services, integrate acquired products and services and enhance our existing products and services.
+  Rapid technological advances
+and evolving standards in computer hardware, software development and communications infrastructure, changing and increasingly sophisticated customer needs and frequent new product introductions and enhancements characterize the enterprise software
+market in which we compete. If we are unable to develop new products and services, or to enhance and improve our products and support services in a timely manner or to position and/or price our products and services to meet market demand, customers
+may not buy new software licenses or renew software license updates and product support. In addition, standards for network protocols, as well as other industry adopted and de facto standards for the internet, are rapidly evolving. We cannot provide
+any assurance that the 
+
+12 
+
+Table of Contents
+
+standards on which we choose to develop new products will allow us to compete effectively for business opportunities in emerging areas. 
+
+We are developing a next generation applications platform that is planned to combine the best
+features, flows and usability traits of the Oracle, PeopleSoft, JD Edwards and Siebel applications. We have also acquired several other application product lines, which we will need to continue to provide long-term support for as well as ensure that
+the key capabilities of these product lines moves into the next generation platform. If we do not develop and release these products within the anticipated time frames, if there is a delay in market acceptance of the product line, or if we do not
+timely optimize complementary product lines, our applications business may be adversely affected. 
+
+Acquisitions present many risks, and we may not realize the financial and strategic goals that were contemplated at the time of any transaction.
+  An active acquisition program is an important
+element of our corporate strategy. We expect to continue to acquire companies, products, services and technologies. In the last two years, we have paid an aggregate of $19.5 billion for acquisitions. Risks we may encounter in acquisitions include:
+
+•
+
+the acquisition may not further our business strategy, or we may pay more than it is worth; 
+
+•
+
+we may not realize the anticipated increase in our revenues if a larger than predicted number of customers decline to renew software license updates and product support, if we are
+unable to sell the acquired products to our customer base or if acquired contract models do not allow us to recognize revenues on a timely basis; 
+
+•
+
+we may have difficulty incorporating the acquired technologies or products with our existing product lines and maintaining uniform standards, controls, procedures and policies;
+
+•
+
+we may have to delay or not proceed with a substantial acquisition if we cannot obtain the necessary funding to complete the acquisition in a timely manner;
+
+•
+
+we may significantly increase our interest expense, leverage and debt service requirements if we incur additional debt to pay for an acquisition; 
+
+•
+
+we may have higher than anticipated costs in continuing support and development of acquired products; 
+
+•
+
+we may have multiple and overlapping product lines that are offered, priced and supported differently, which could cause customer confusion and delays; 
+
+•
+
+our relationship with current and new employees, customers and distributors could be impaired; 
+
+•
+
+we may assume pre-existing contractual relationships which we would not have entered into and exiting or modifying such relationships may be costly to us and disruptive to
+customers; 
+
+•
+
+our due diligence process may fail to identify technical problems, such as issues with the company’s product quality or product architecture or unlicensed use of technology,
+including, for example, improperly incorporated open source code; 
+
+•
+
+we may have legal and tax exposures or lose anticipated tax benefits as a result of unforeseen difficulties in our legal entity merger integration activities;
+
+•
+
+we may face contingencies related to product liability, intellectual property, financial disclosures and accounting practices or internal controls; 
+
+•
+
+the acquisition may result in litigation from terminated employees or third parties; 
+
+•
+
+our ongoing business may be disrupted and our management’s attention may be diverted by transition or integration issues; 
+
+•
+
+we may be unable to obtain timely approvals from governmental authorities under competition and antitrust laws and from worker councils under applicable employment laws; and
+
+•
+
+to the extent that we issue a significant amount of equity securities in connection with future acquisitions, existing stockholders may be diluted and earnings per share may
+decrease. 
+
+13 
+
+Table of Contents
+
+These factors could have a material adverse effect on our business, results of operations, financial condition or cash
+flows, particularly in the case of a larger acquisition or several concurrent acquisitions. 
+
+PeopleSoft’s Customer Assurance Program may expose us to substantial liabilities if triggered.
+  In June 2003, in response to our tender offer, PeopleSoft implemented what it referred to as
+the “customer assurance program” or “CAP”. The CAP incorporated a provision in PeopleSoft’s standard licensing arrangement that purports to contractually burden Oracle, as a result of its acquisition of PeopleSoft, with a
+contingent obligation to make payments to PeopleSoft customers should Oracle fail to take certain business actions for a fixed period of time subsequent to the acquisition. The payment obligation, which typically expires four years from the date of
+the contract, is fixed at an amount generally between two and five times the license and first year support fees paid to PeopleSoft in the applicable license transaction. This purported obligation was not reflected as a liability on
+PeopleSoft’s balance sheet as PeopleSoft concluded that it could be triggered only following the consummation of an acquisition. PeopleSoft used six different standard versions of the CAP over the 18-month period commencing June 2003.
+PeopleSoft ceased using the CAP on December 29, 2004, the date on which we acquired a controlling interest in PeopleSoft. We have concluded that, as of the date of the PeopleSoft acquisition, the penalty provisions under the CAP represented a
+contingent liability of Oracle. The aggregate potential CAP obligation as of May 31, 2006 was $3.5 billion. Unless the CAP provisions are removed from these licensing arrangements, we do not expect the aggregate potential CAP obligation to
+decline substantially until fiscal year 2008 when a significant number of these provisions begin to expire. The last CAP obligation will expire on December 31, 2008. We have not recorded a liability related to the CAP, as we do not believe it
+is probable that our post-acquisition activities related to the PeopleSoft product line will trigger an obligation to make any payment pursuant to the CAP. 
+
+In addition, while no assurance can be given as to the ultimate outcome of litigation, we believe we would also have substantial defenses with respect to the legality and
+enforceability of the CAP contract provisions in response to any claims seeking payment from Oracle under the CAP terms. While we have taken extensive steps to assure customers that we intend to continue developing and supporting the PeopleSoft and
+JD Edwards product lines and as of May 31, 2006 we have not received any claims for CAP payments, PeopleSoft customers may assert claims for CAP payments. 
+
+We may not be able to protect our intellectual property.
+  We rely on a combination of copyright, patent, trade secrets, confidentiality
+procedures and contractual commitments to protect our proprietary information. Despite our efforts, these measures can only provide limited protection. Unauthorized third parties may try to copy or reverse engineer portions of our products or
+otherwise obtain and use our intellectual property. Any patents owned by us may be invalidated, circumvented or challenged. Any of our pending or future patent applications, whether or not being currently challenged, may not be issued with the scope
+of the claims we seek, if at all. In addition, the laws of some countries do not provide the same level of protection of our proprietary rights as do the laws of the United States. If we cannot protect our proprietary technology against unauthorized
+copying or use, we may not remain competitive. 
+
+Third parties may claim
+we infringe their intellectual property rights.
+  We periodically receive notices from others claiming we are infringing their intellectual property rights, principally patent rights. We expect the number of such claims will
+increase as the number of products and competitors in our industry segments grows, the functionality of products overlap, and the volume of issued software patents continues to increase. Responding to any infringement claim, regardless of its
+validity, could: 
+
+•
+
+be time-consuming, costly and/or result in litigation; 
+
+•
+
+divert management’s time and attention from developing our business; 
+
+•
+
+require us to pay monetary damages or enter into royalty and licensing agreements that we would not normally find acceptable; 
+
+•
+
+require us to stop selling or to redesign certain of our products; or 
+
+•
+
+require us to satisfy indemnification obligations to our customers. 
+
+14 
+
+Table of Contents
+
+If a successful claim is made against us and we fail to develop or license a substitute technology, our business, results
+of operations, financial condition or cash flows could be adversely affected. A patent infringement case is discussed under Note 21 in our Notes to Consolidated Financial Statements. 
+
+We may need to change our pricing models to compete successfully.
+  The intensely competitive markets in which we
+compete can put pressure on us to reduce our prices. If our competitors offer deep discounts on certain products, we may need to lower prices or offer other favorable terms in order to compete successfully. Any such changes would likely reduce
+margins and could adversely affect operating results. Our software license updates and product support fees are generally priced as a percentage of our new license fees. Our competitors may offer a lower percentage pricing on product updates and
+support, which could put pressure on us to further discount our new license prices. Any broadly-based changes to our prices and pricing policies could cause new software license and services revenues to decline or be delayed as our sales force
+implements and our customers adjust to the new pricing policies. Some of our competitors may bundle software products for promotional purposes or as a long-term pricing strategy or provide guarantees of prices and product implementations. These
+practices could, over time, significantly constrain the prices that we can charge for our products. In addition, if we do not adapt our pricing models to reflect changes in customer use of our products, our new software license revenues could
+decrease. Additionally, increased distribution of applications through application service providers may reduce the average price for our products or adversely affect other sales of our products, reducing new software license revenues unless we can
+offset price reductions with volume increases or lower spending. The increase in open source software distribution may also cause us to change our pricing models. 
+
+We may be unable to compete effectively in a range of markets within the highly competitive software industry.
+  Many
+vendors develop and market databases, internet application server products, application development tools, business applications, collaboration products and business intelligence products that compete with our offerings. In addition, several
+companies offer business outsourcing as a competitive alternative to buying software. Some of these competitors have greater financial or technical resources than we do. Also, our competitors who offer business applications and application server
+products may influence a customer’s purchasing decision for the underlying database in an effort to persuade potential customers not to acquire our products. We could lose market share if our competitors introduce new competitive products, add
+new functionality, acquire competitive products, reduce prices or form strategic alliances with other companies. We may also face increasing competition from open source software initiatives, in which competitors may provide software and
+intellectual property free. Existing or new competitors could gain market share in any of our markets at our expense. 
+
+Our periodic sales force restructurings can be disruptive.
+  We continue to rely heavily on our direct sales force. We have in the past
+restructured or made other adjustments to our sales force in response to management changes, product changes, performance issues, acquisitions and other internal and external considerations. In the past, sales force restructurings have generally
+resulted in a temporary lack of focus and reduced productivity; these effects could recur in connection with future acquisitions and other restructurings and our revenues could be negatively affected. 
+
+Disruptions of our indirect sales channel could affect our future operating
+results.
+  Our indirect channel network is comprised primarily of resellers, system integrators/implementers, consultants, education providers, internet service providers, network integrators and independent software vendors. Our
+relationships with these channel participants are important elements of our marketing and sales efforts. Our financial results could be adversely affected if our contracts with channel participants were terminated, if our relationships with channel
+participants were to deteriorate, if any of our competitors enter into strategic relationships with or acquire a significant channel participant or if the financial condition of our channel participants were to weaken. There can be no assurance that
+we will be successful in maintaining, expanding or developing our relationships with channel participants. If we are not successful, we may lose sales opportunities, customers and market share. 
+
+15 
+
+Table of Contents
+
+Charges to earnings resulting from past acquisitions may adversely affect our operating
+results.
+  Under purchase accounting, we allocate the total purchase price to an acquired company’s net tangible assets, amortizable intangible assets and in-process research and development based on their fair values as of the
+date of the acquisition and record the excess of the purchase price over those fair values as goodwill. Management’s estimates of fair value are based upon assumptions believed to be reasonable but which are inherently uncertain. Going forward,
+the following factors could result in material charges that would adversely affect our results: 
+
+•
+
+impairment of goodwill or intangible assets; 
+
+•
+
+accrual of newly identified pre-merger contingent liabilities that are identified subsequent to the finalization of the purchase price allocation; and 
+
+•
+
+charges to income to eliminate certain Oracle pre-merger activities that duplicate those of the acquired company or to reduce our cost structure. 
+
+Charges to earnings associated with acquisitions include amortization of intangible assets,
+in-process research and development as well as other acquisition related charges, restructuring and stock-based compensation associated with assumed stock awards. Charges to earnings in any given period could differ substantially from other periods
+based on the timing and size of our future acquisitions and the extent of integration activities. See Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations—Supplemental Disclosure Related
+to Acquisition Accounting” for additional information about charges to earnings associated with our recent acquisitions. 
+
+We expect to continue to incur additional costs associated with combining the operations of our previously acquired companies, which may be substantial. Additional costs
+may include costs of employee redeployment, relocation and retention, including salary increases or bonuses, accelerated amortization of deferred equity compensation and severance payments, reorganization or closure of facilities, taxes and
+termination of contracts that provide redundant or conflicting services. Some of these costs may have to be accounted for as expenses that would decrease our net income and earnings per share for the periods in which those adjustments are made.
+
+Our international sales and operations subject us to additional risks
+that can adversely affect our operating results.
+  We derive a substantial portion of our revenues, and have significant operations, outside of the United States. Our international operations include software development, sales,
+customer support and shared administrative service centers. We are subject to a variety of risks, including those related to general economic conditions in each country or region, regulatory changes, political unrest, terrorism and the potential for
+other hostilities, particularly in areas in which we have significant operations. We face challenges in managing an organization operating in various countries, which can entail longer payment cycles and difficulties in collecting accounts
+receivable, overlapping tax regimes, fluctuations in currency exchange rates, difficulties in transferring funds from certain countries and reduced protection for intellectual property rights in some countries. We must comply with a variety of
+international laws and regulations, including trade restrictions, local labor ordinances, changes in tariff rates and import and export licensing requirements. Our success depends, in part, on our ability to anticipate these risks and manage these
+difficulties. 
+
+We are a majority shareholder of i-flex solutions limited, a
+publicly traded Indian software company focused on the banking industry. As the majority shareholder of an international entity, we are faced with several additional risks, including being subject to local securities regulations and being unable to
+exert full control or obtain financial and other information on a timely basis. 
+
+We may experience foreign currency gains and losses.
+  We conduct a portion of our business in currencies other than the United States dollar. Our revenues and operating results are adversely affected when the dollar
+strengthens relative to other currencies and are positively affected when the dollar weakens. Changes in the value of major foreign currencies, particularly the Euro, Japanese Yen and British Pound relative to the United States dollar can
+significantly affect revenues and our operating results. 
+
+16 
+
+Table of Contents
+
+Our foreign currency transaction gains and losses, primarily related to sublicense fees and other agreements among us and
+our subsidiaries and distributors, are charged against earnings in the period incurred. We enter into foreign exchange forward contracts to hedge certain transaction and translation exposures in major currencies, but we will continue to experience
+foreign currency gains and losses in certain instances where it is not possible or cost effective to hedge foreign currencies. 
+
+Oracle On Demand may not be successful.
+  We offer Oracle On Demand outsourcing services for our applications and database
+technology, delivered either at Oracle or at a customer designated location. Oracle On Demand also includes several product lines we have acquired. Our Oracle On Demand business model continues to evolve and we may not be able to
+compete effectively, generate significant revenues or develop Oracle On Demand into a profitable business. This business is subject to a variety of risks including: 
+
+•
+
+demand for these services may not meet our expectations; 
+
+•
+
+we may not be able to operate this business at an acceptable profit level; 
+
+•
+
+we manage critical customer applications, data and other confidential information through Oracle On Demand and thus would face increased exposure to significant damage claims in the
+event of system failures or inadequate disaster recovery or misappropriation of customer confidential information; 
+
+•
+
+we may face regulatory exposure in certain areas such as data privacy, data security and export compliance, as well as workforce reduction claims as a result of customers
+transferring their information technology functions to us; 
+
+•
+
+the laws and regulations applicable to hosted service providers are unsettled, particularly in the areas of privacy and security and use of offshore resources; changes in these laws
+could affect our ability to provide services from or to some locations and could increase both the cost and risk associated with providing the services; and 
+
+•
+
+our Oracle On Demand offerings may require large fixed costs such as for data centers, computers, network infrastructure and security. 
+
+We may be unable to hire enough qualified employees or we may lose key
+employees.
+  We rely on the continued service of our senior management and other key employees and the hiring of new qualified employees. In the software industry, there is substantial and continuous competition for highly skilled
+business, product development, technical and other personnel. In addition, acquisitions could cause us to lose key personnel of the acquired companies or at Oracle. We may experience increased compensation costs that are not offset by either
+improved productivity or higher prices. We may not be successful in recruiting new personnel and in retaining and motivating existing personnel. With rare exceptions, we do not have long-term employment or non-competition agreements with our
+employees. Members of our senior management team have left Oracle over the years for a variety of reasons, and we cannot assure you that there will not be additional departures, which may be disruptive to our operations. 
+
+Part of our total compensation program includes stock options. If our stock price performs
+poorly it may adversely affect our ability to retain or attract key employees. In addition, since we will expense all stock-based compensation beginning in fiscal 2007, we may change both our cash and stock-based compensation practices. Some of the
+changes we are considering include the reduction in the number of employees granted options, a reduction in the number of options granted and a change to alternative forms of stock-based compensation. Any changes in our compensation practices or
+changes made by competitors could affect our ability to retain and motivate existing personnel and recruit new personnel. 
+
+We might experience significant errors or security flaws in our products and services.
+  Despite testing prior to their release, software products
+frequently contain errors or security flaws, especially when first introduced or when new versions are released. Errors in our software products could affect the ability of our products to work with other hardware or software products, could delay
+the development or release of new products or new 
+
+17 
+
+Table of Contents
+
+versions of products and could adversely affect market acceptance of our products. If we experience errors or delays in releasing new products or new
+versions of products, we could lose revenues. In addition, we run our own business operations, Oracle On Demand, and other outsourcing, support and consulting services, on our products and networks and any security flaws, if exploited, could affect
+our ability to conduct business operations. End users, who rely on our products and services for applications that are critical to their businesses, may have a greater sensitivity to product errors and security vulnerabilities than customers for
+software products generally. Software product errors and security flaws in our products or services could expose us to product liability, performance and/or warranty claims as well as harm our reputation, which could impact our future sales of
+products and services. The detection and correction of any security flaws can be time consuming and costly. 
+
+We may not receive significant revenues from our current research and development efforts for several years, if at all.
+  Developing and localizing software is expensive and the investment in
+product development often involves a long payback cycle. We have and expect to continue making significant investments in software research and development and related product opportunities. Accelerated product introductions and short product life
+cycles require high levels of expenditures for research and development that could adversely affect our operating results if not offset by revenue increases. We believe that we must continue to dedicate a significant amount of resources to our
+research and development efforts to maintain our competitive position. However, we do not expect to receive significant revenues from these investments for several years if at all. 
+
+Our sales to government clients subject us to risks including early termination, audits, investigations, sanctions and
+penalties.
+  We derive revenues from contracts with the United States government, state and local governments and their respective agencies, who may terminate most of these contracts at any time, without cause. 
+
+There is increased pressure for governments and their agencies, both domestically and
+internationally, to reduce spending. Our federal government contracts are subject to the approval of appropriations being made by the United States Congress to fund the expenditures under these contracts. Similarly, our contracts at the state and
+local levels are subject to government funding authorizations. 
+
+Additionally,
+government contracts are generally subject to audits and investigations which could result in various civil and criminal penalties and administrative sanctions, including termination of contracts, refund of a portion of fees received, forfeiture of
+profits, suspension of payments, fines and suspensions or debarment from future government business. For example, there is a pending U.S. government investigation of PeopleSoft’s pricing practices prior to our acquisition under multiple award
+schedule contracts. While we do not believe that this investigation will result in material damages, we could be subject to similar investigations or actions in the future. 
+
+Business disruptions could affect our operating results.
+  A significant portion of our research and development
+activities and certain other critical business operations is concentrated in a few geographic areas. We are a highly automated business and a disruption or failure of our systems could cause delays in completing sales and providing services,
+including some of our On Demand offerings. A major earthquake, fire or other catastrophic event that results in the destruction or disruption of any of our critical business or information technology systems could severely affect our ability to
+conduct normal business operations and as a result our future operating results could be materially and adversely affected. 
+
+We may have exposure to additional tax liabilities.
+  As a multinational corporation, we are subject to income taxes as well as non-income based
+taxes, in both the United States and various foreign jurisdictions. Significant judgment is required in determining our worldwide provision for income taxes and other tax liabilities. 
+
+In the ordinary course of a global business, there are many intercompany transactions and calculations where the ultimate tax determination
+is uncertain. We are regularly under audit by tax authorities. Our intercompany transfer pricing is currently being reviewed by the IRS and by foreign tax jurisdictions and will likely be subject 
+
+18 
+
+Table of Contents
+
+to additional audits in the future. We previously negotiated three unilateral Advance Pricing Agreements with the IRS that cover many of our intercompany
+transfer pricing issues and preclude the IRS from making a transfer pricing adjustment within the scope of these agreements. However, these agreements, which are effective for fiscal years through May 31, 2006, do not cover all elements of our
+transfer pricing and do not bind tax authorities outside the United States. We have finalized one bilateral Advance Pricing Agreement and currently are negotiating an additional bilateral agreement to cover the period from June 1, 2001 through
+May 31, 2008. There can be no guarantee that such negotiations will result in an agreement. 
+
+Although we believe that our tax estimates are reasonable, we cannot assure you that the final determination of tax audits or tax disputes will not be different from what is reflected in our historical income tax
+provisions and accruals. 
+
+We are also subject to non-income taxes, such as
+payroll, sales, use, value-added, net worth, property and goods and services taxes, in both the United States and various foreign jurisdictions. We are regularly under audit by tax authorities with respect to these non-income taxes and may have
+exposure to additional non-income tax liabilities. Our acquisition activities have increased our non-income tax exposures. 
+
+Our stock price could become more volatile and your investment could lose value.
+  All of the factors discussed in this section could affect our
+stock price. The timing of announcements in the public market regarding new products, product enhancements or technological advances by our competitors or us, and any announcements by us of acquisitions, major transactions, or management changes
+could also affect our stock price. Our stock price is subject to speculation in the press and the analyst community, changes in recommendations or earnings estimates by financial analysts, changes in investors’ or analysts’ valuation
+measures for our stock, our credit ratings and market trends unrelated to our performance. A significant drop in our stock price could also expose us to the risk of securities class actions lawsuits, which could result in substantial costs and
+divert management’s attention and resources, which could adversely affect our business.

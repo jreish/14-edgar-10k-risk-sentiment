@@ -1,0 +1,833 @@
+. We encourage you to read that section carefully.
+
+3
+
+Table of Contents
+
+PART I
+
+ITEM 1. Business
+
+Overview
+
+NortonLifeLock is a trusted brand and leading provider of Cyber Safety solutions for consumers worldwide. Our business is built around the prevention, detection and restoration of potential damages caused by cyber criminals. The need for NortonLifeLock’s products is more critical than ever in today’s increasingly digital world, as people transition to remote work environments, conduct virtual meetings, and engage in online gaming, streaming, shopping, telemedicine and numerous other online transactions and activities on a daily basis. With each new digital interaction comes increased risk for consumers as cyber criminals look to take advantage of this accelerating trend. NortonLifeLock stands between today’s cyber criminals and consumers, helping secure the devices, identities, online privacy, and home and family needs of nearly 50 million consumers globally. We are a trusted ally for our customers in a complex digital world and are committed to advancing our mission of protecting each element of their digital lives.
+
+We offer subscription-based Cyber Safety solutions to consumers under the NortonLifeLock brand, with our integrated cyber safety platform Norton 360. Norton 360’s integrated experience, and substantial scale and reach, provide extensive cyber safety coverage to our members. In addition to Norton 360, we also offer standalone products for device security, privacy, identity, and home and family protection in certain channels and geographies.
+
+We sell our products primarily direct-to-consumer through our in-house e-commerce platform, and indirectly through partner relationships with retailers, telecom service providers, hardware original equipment manufacturers (OEMs), and employee benefit providers. Most of our subscriptions are sold on either annual or monthly terms. As of April 3, 2020, we served over 20 million direct customers and approximately 30 million more through partners or other indirect channels. Our annual retention rate was 85% for fiscal 2020. Please see “Performance Metrics” under “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in Item 7. 
+
+Our transformation into a pure-play consumer company follows the sale of our enterprise assets and name change from Symantec Corporation to NortonLifeLock Inc. Founded in 1982, we formerly did business under the Symantec Corporation name as the Consumer Cyber Safety division. The sale of our Enterprise Security assets to Broadcom Inc. (Broadcom) and the sale of our ID Analytics business to LexisNexis Risk Solutions, part of RELX Inc., were completed in fiscal year 2020.
+
+Industry Overview 
+
+Cyber crime, and the ways in which cyber criminals target consumers, continue to evolve along with behaviors and technology. Cyber crime encompasses any crime committed digitally over the internet and includes crimes where (i) malicious software or unauthorized access is detected on a device, network or online account (including email, social media, online banking, online retail, etc.); (ii) an individual is digitally victimized through a data breach, cyber theft, cyber extortion, or fraud (stolen personally identifiable information, identity theft); or (iii) online stalking, bullying, or harassment is inflicted.
+
+As cyber crime becomes an intensifying threat to our world, consumers are increasingly concerned. Our annual NortonLifeLock Cyber Safety Insights Report evaluates current cyber crime trends to provide a snapshot of the impact of cyber crime. According to the 2019 report, which is based on research conducted online by The Harris Poll on behalf of us, almost 500 million consumers have been the victim of a cyber crime, with nearly 350 million in the last year alone. While many report having taken at least one step to protect their online activities and personal information, most people are taking only basic steps (clearing cookies, limiting information shared on social media) and few are going to greater lengths such as using anonymous payment methods, deleting social media accounts, or using a virtual private network (VPN). 
+
+For more insights or information related to our NortonLifeLock Cyber Safety Insights Report, please visit 
+https://us.norton.com/nortonlifelock-cyber-safety-report
+. The information contained, or referred to, on our website, including our Cyber Safety Insights Report, is not part of this annual report unless expressly noted.
+
+Cyber Safety Solutions and Services
+
+We help consumers by providing Cyber Safety subscription solutions with an integrated user experience under the NortonLifeLock brand, called Norton 360. Our Norton 360 subscriptions include multiple levels of membership tiers that incorporate solutions from each of our Cyber Safety categories: Device Security, Identity Protection, Online Privacy, and Home and Family Safety. We also provide these solutions as standalone products in certain channels and geographies. Our Consumer Cyber Safety solutions include the following offerings:
+
+•
+
+Device Security (Norton Security): 
+Our Norton Security solution provides real-time protection for PCs, Macs and mobile devices against malware, viruses, adware, ransomware and other online threats. It monitors and blocks unauthorized traffic from the internet to the device to help protect private and sensitive information when customers are online. For mobile devices, Norton Security alerts customers of risky apps, safeguards against fraudulent and malicious websites, identifies Wi-Fi networks that are under attack, enables stolen device recovery, and blocks unwanted spam and potential fraud calls. Norton Security includes 24x7 support by trained support agents. We provide on-call support and offer a money-back guarantee if we cannot remove viruses from infected devices through our Virus Protection Promise.
+
+•
+
+Identity Protection (LifeLock Identity Theft Protection):
+ Our LifeLock identity theft protection solution includes monitoring, alerts and restoration services to protect the safety of our customers. We monitor events that may present a risk of identity theft, such as new account openings and applications. If we detect that a customer’s personally identifiable 
+
+4
+
+Table of Contents
+
+information is being used, we deliver notifications and alerts to our customers about potentially suspicious activity. In the event of identity theft, we assign an Identity Restoration Specialist to work directly with customers to help restore their identities. Customers are further protected by our Million Dollar Protection Package, which provides reimbursement for stolen funds and coverage for personal expenses.
+
+•
+
+Online Privacy (Norton Secure VPN and SurfEasy VPN):
+ As people are exchanging more sensitive information through digital channels - be it personal healthcare information to enable tele-health or financial information for personal accounting, having a VPN has become even more crucial. Our Norton Secure VPN and SurfEasy VPN enhance security and online privacy by providing an encrypted data tunnel. This allows customers to securely transmit and access private information such as passwords, bank details and credit card numbers when using public Wi-Fi on PCs, Macs and mobile iOS and Android devices. Our VPN service allows customers to browse the Web anonymously to protect their online privacy and prevent tracking by online advertisers and other companies. Customers can also change their virtual location when they are traveling internationally to allow them to connect to their favorite apps, websites and online streaming services as if they are in their home-country. 
+
+•
+
+Home and Family (Norton Family): 
+As entire households now spend hours online, whether for school, work, or personal use, protecting the home and family in a simple way is even more of a need. Norton Family brings the protection and security of our products to every member of the family across multiple devices and platforms. Norton Family also provides Parental Controls tools for parents to monitor kids’ online activities, including videos watched, websites visited, terms searched, and apps downloaded. Parents can manage how much time kids spend online and block access to inappropriate websites. Norton Family also provides GPS location monitoring for mobile devices and content filtering for PCs.
+
+Our Strategy 
+
+ Our goal is to be the trusted cyber security partner for consumers across the globe and enable them to manage their digital lives safely. The threat landscape is larger, more complicated and more connected than ever before, exposing consumers to an increased risk to their security, online privacy, home networks and identities. As the risks to consumers continue to expand from device-based attacks to more sophisticated threats such as fraud, ransomware, identity theft and privacy risks, our solutions have evolved to provide a multi-layered approach in protecting against threats, detecting attacks and helping customers manage across their digital footprint, including their technology, applications, networks and identities.
+
+The cornerstone of our strategy is to provide consumers with a platform that brings together superior software and service capabilities to enable all facets of Cyber Safety, including device security, identity protection, online privacy, and home and family safety. By combining and leveraging our portfolio of Norton and LifeLock offerings, we are able to deliver an industry-leading set of Cyber Safety solutions. The key elements of our strategy to achieve this goal include the following: 
+
+Extend our leadership position through continued enhancement of our solutions and services. 
+The Cyber Safety industry is large and expanding, which provides a significant growth opportunity. We intend to grow our business by investing in research and development and making acquisitions to expand the solutions and services we offer into new cohorts, territories and sectors. We believe there are many additional areas where we can both offer new solutions, as well as use our core capabilities to deliver offerings to new customers and markets. 
+
+Grow our customer base. 
+We intend to leverage our expertise in digital marketing, as well as existing and new strategic partnerships, to grow our customer base. We believe that continued investments in these areas, as well as our product offerings and infrastructure, will allow us to further enhance our leading brand and superior products, increase awareness of our consumer services and enhance our ability to efficiently acquire new customers. 
+
+Continue our focus on customer retention.
+ We plan to invest in increasing customer retention by optimizing and expanding the value we provide through actionable alerts, education on timely topics, and new capabilities. We aim to provide our customers with peace of mind and convenience, demonstrating the value of our solutions. We plan to offer an integrated mobile application experience to improve customer experience from purchase, through onboarding and use. We have a global customer services organization, and we leverage frequent communication and feedback from our customers to continually improve our solutions and services. 
+
+Increase sales to existing customers.
+ We believe the strong customer satisfaction we maintain with our customers provides us with the opportunity to engage them in new services offerings. We introduced Norton 360 in April 2019, with various tiers of membership, and we are actively engaging with customers of standalone products to move them into a Norton 360 membership. We also believe a substantial opportunity exists to increase the penetration of our premium-level consumer solutions. Over time, we plan to add additional offerings and services for our customers to drive further growth.
+
+Sales and Marketing
+
+We execute a global, multi-channel direct acquisition and brand marketing program. We sell our products primarily direct-to-consumer through our in-house e-commerce platform, and indirectly through partner relationships with retailers, telecom service providers, hardware OEMs, and employee benefit providers. This program is designed to grow our customer base by increasing brand awareness and understanding of our superior products, as well as maximizing our reach to prospective customers. 
+
+Direct-to-consumer.
+ We use advertising and direct response marketing to elevate our brand, attract new customers, and generate significant demand for our services. This program drives most bookings.
+
+5
+
+Table of Contents
+
+We use a variety of marketing programs to target customers, including digital marketing and online display advertising; paid search and search-engine optimization; radio, television, and print advertisements; direct mail campaigns; press coverage for our company and our services; third-party endorsements; and education programs. 
+
+Indirect partner distribution channels
+. We use strategic and affiliate partner distribution channels to refer prospective customers to us and expand our reach to our partners’ and affiliates’ customer bases. We have developed and implemented a global partner sales organization that targets new, as well as existing, partners to enhance our partner distribution channels. These channels include: retailers, telecom service providers, hardware OEMs, and employee benefit providers. Physical retail and OEM partners represent a small portion of our distribution, which minimizes the impacts of supply chain disruptions.
+
+Competition
+
+We operate in a highly competitive and rapidly evolving business environment. We believe that the competitive factors in our market include access to a breadth of identity and consumer transaction data, broad and effective service offerings, brand recognition, technology, effective and cost-efficient customer acquisition, having a large customer base and strong retention rate, customer satisfaction, price, convenience of purchase, ease of use, frequency of upgrades and updates, and quality and reliable customer service. Our competitors vary by offering, geography, and channel. 
+
+Our principal competitors are set forth below: 
+
+•
+
+Device Security. 
+Our principal competitors in this market are Avast, Kaspersky, McAfee, Microsoft, Sophos, and Trend Micro. 
+
+•
+
+Identity Protection. 
+Our principal competitors in this market are credit bureaus Equifax, Experian, and TransUnion, as well as certain credit monitoring and identity theft protection solutions from others such as Allstate, Credit Karma, and McAfee.
+
+•
+
+Online Privacy.
+ Our principal competitors in this market are Avast, Kape, ExpressVPN, McAfee, NordVPN, and Pango.
+
+•
+
+Home and Family.
+ Our principal competitors in this market are Avast, Life360, and McAfee.
+
+•
+
+Other Competitors. 
+In addition to competition from large consumer security companies such as Avast and McAfee, we also face competition from smaller companies that may develop competing products. 
+
+We believe we compete favorably with our competitors on the strength of our technology, people, product offerings and integration across all the Cyber Safety pillars. However, some of our competitors have substantially greater financial, technical, marketing, distribution, and other resources than we possess that afford them competitive advantages. As a result, they may be able to devote greater resources to develop, promote and sell their offerings; deliver competitive offerings at lower prices or for free; and introduce new solutions and respond to market developments and customer requirements more quickly than we can. For more information on the risks associated with our competitors, please see “Risk Factors” in Item 1A.
+
+Research and Development 
+
+As cyber threats evolve, we are focused on delivering a portfolio that protects each element of our customers’ digital lives. To do this, we embrace innovation and have developed a global research and development strategy across our Cyber Safety platform. Our engineering and product management teams are focused on delivering new versions of existing offerings, as well as developing entirely new offerings to drive the company’s global leadership in Cyber Safety. We have a technology research organization focused on applied research projects, with the goal of rapidly creating new products to address consumer trends and grow the business, including defending consumer digital privacy. Also, NortonLifeLock’s threat response and security technology organization is a global organization made up of leading threat and security researchers supported by advanced systems to innovate security technology and threat intelligence as the consumer ally for Cyber Safety, protecting our customers against known and emerging threats.
+
+NortonLifeLock has a long history of innovation and we plan to invest in research and development to drive our long-term success.
+
+Intellectual Property
+
+We are a leader amongst Cyber Safety solutions for consumers in pursuing patents and currently have a portfolio of over 1,000 U.S. and international patents issued with many pending. We protect our intellectual property rights and investments in a variety of ways to safeguard our technologies and our long-term success. We work actively in the U.S. and internationally to ensure the enforcement of copyright, trademark, trade secret and other protections that apply to our software products and services. The term of the patents we hold is, on average, twelve years. From time to time, we enter into cross-license agreements with other technology companies covering broad groups of patents; we have an additional portfolio of over 2,500 U.S. and international patents cross-licensed to us as part of our arrangement with Broadcom as a result of the asset sale of our former enterprise security business. 
+
+Circumstances outside our control could pose a threat to our intellectual property rights. Effective intellectual property protection may not be available, and the efforts we have taken to protect our proprietary rights may not be sufficient or effective. Any significant impairment of our intellectual property rights could harm our business or our ability to compete. In addition, protecting our intellectual property rights is costly and time consuming. Any unauthorized disclosure or use of our intellectual property could make it more expensive to do business and harm our operating results. 
+
+Companies in the technology industry may own a large number of patents, copyrights, and trademarks and may frequently request license agreements, threaten litigation, or file suit against us based on allegations of infringement or other violations of 
+
+6
+
+Table of Contents
+
+intellectual property rights. From time to time, we face, and we expect to face in the future, allegations that we have infringed the trademarks, copyrights, patents, and other intellectual property rights of third parties, including our competitors. As we face increasing competition and as our business grows, we may face more claims of infringement. For more information on the risks associated with our intellectual property, please see “Risk Factors” in Item 1A.
+
+Third-Party Service Providers
+
+We are heavily reliant on our technology and infrastructure to provide our products and services to our customers. For example, we host many of our products using third-party data center facilities, and we do not control the operation of these facilities. In addition, our endpoint security solution has historically relied upon certain threat analytics software engines and other software (Engine-Related Services) that have been developed and provided by engineering teams that have transferred to Broadcom as part of the Broadcom sale. The technology, including source code, at issue is shared, and pursuant to the terms of the Broadcom sale, we retain rights to use, modify, enhance and create derivative works from such technology. Broadcom has committed to provide these Engine-Related Services under a transition services agreement, substantially to the same extent and in substantially the same manner, as has been historically provided. For information on the risks associated with our dependence on such third-party service providers, please see “Risk Factors” in Item 1A.
+
+Governmental Regulation 
+
+We collect, use, store or disclose an increasingly high volume, variety, and velocity of personal information, including from employees and customers, in connection with the operation of our business, particularly, in relation to our identity and information protection offerings, which rely on large data repositories of personal information and consumer transactions. The personal information we process is subject to an increasing number of federal, state, local, and foreign laws regarding privacy and data security. For information on the risks associated with complying with privacy and data security laws, please see “Risk Factors” in Item 1A.
+
+Seasonality
+
+As is typical for many consumer technology companies, our business is subject to seasonality. Our third and fourth quarters are seasonally higher due to the holidays in our third quarter, and follow-on holiday purchases and the U.S. tax filing season in our fourth quarter.
+
+Corporate Responsibility
+
+Our annual Corporate Responsibility Report can be found via the NortonLifeLock website at https://www.nortonlifelock.com/about/corporate-responsibility. The information contained, or referred to, on our website, including our Corporate Responsibility Report, is not part of this annual report unless expressly noted.
+
+Employees
+
+As of April 3, 2020, we employed more than 3,600 people worldwide. None of our employees are represented by a labor union or covered by a collective bargaining agreement. We consider our relationship with employees to be good, and are focused on effective attraction, development, and retention of, and compensation and benefits to, human resource talent, including workforce and management development, diversity and inclusion initiatives, succession planning, and corporate culture and leadership quality, morale and development, which are vital to the success of our innovation-driven growth strategy. The Compensation and Leadership Development Committee of our Board of Directors oversees workforce and senior management development and our Board of Directors monitors the culture of the company and leadership quality, morale and development.
+
+Available information
+
+Our Internet home page is located at 
+https://www.nortonlifelock.com
+. We make available free of charge our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to those reports as soon as reasonably practicable after we electronically file such material with the Securities and Exchange Commission (SEC) on our investor relations website located at 
+https://investor.nortonlifelock.com/About/Investors/default.aspx/
+. The information contained, or referred to, on our website is not part of this annual report unless expressly noted. The SEC maintains a website that contains reports, proxy and information statements, and other information regarding our filings at 
+http://www.sec.gov
+.
+
+
+
+RISKS RELATED TO OUR BUSINESS STRATEGY AND INDUSTRY
+
+The COVID-19 pandemic has affected how we are operating our business, and the duration and extent to which this will impact our future results of operations and overall financial performance remains uncertain. 
+
+ The COVID-19 pandemic is having widespread, rapidly evolving, and unpredictable impacts on global society, economies, financial markets, and business practices. Federal and state governments have implemented measures to contain the virus, including social distancing, travel restrictions, border closures, limitations on public gatherings, work from home, and closure of non-essential businesses. To protect the health and well-being of our employees, partners and third-party service providers, we have implemented a near company-wide work-from-home requirement for most employees until further notice, made substantial modifications to employee travel policies, and cancelled or shifted our conferences and other marketing events to virtual-only for the foreseeable future. While we continue to monitor the situation and may adjust our current policies as more information and public health guidance become available, such precautionary measures could negatively affect our customer success efforts, sales and marketing efforts, or create operational or other challenges, such as a reduction in employee productivity because of the work from home requirement, any of which could harm our business and results of operations. Further, if the COVID-19 
+
+7
+
+Table of Contents
+
+pandemic has a substantial impact on our employees, partners or third-party service providers’ health, attendance or productivity, our results of operations and overall financial performance may be adversely impacted. Additionally, if employees, partners or third-party services providers return to work during the COVID-19 pandemic, the risk of inadvertent transmission of 
+COVID
+-19 through human contact could still occur and result in litigation
+.
+
+Beginning in March 2020, the U.S. and global economies have reacted negatively in response to worldwide concerns due to the economic impacts of the COVID-19 pandemic. Although we have not yet experienced a material increase in customers cancellations or a material reduction in our retention rate in 2020, we may experience such an increase or reduction in the future, especially in the event of a prolonged economic down turn as a result of the COVID-19 pandemic. A prolonged economic downturn could result adversely affect demand for our offerings, retention rates and harm our business and results of operations, particularly in light of the fact that our 
+solutions are discretionary purchases and thus may be more susceptible to macroeconomic pressures
+, as well impact the value of our common stock, ability to refinance our debt, and our access to capital. 
+
+The duration and extent of the impact from the COVID-19 pandemic depends on future developments that cannot be accurately forecasted at this time, such as the severity and transmission rate of the disease, the extent and effectiveness of containment actions and the impact of these and other factors on our employees, customers, partners and third-party service providers. If we are not able to respond to and manage the impact of such events effectively and if the macroeconomic conditions of the general economy or the industries in which we operate do not improve, or deteriorate further, our business, operating results, financial condition and cash flows could be adversely affected.
+
+If we are unable to develop new and enhanced solutions, or if we are unable to continually improve the performance, features, and reliability of our existing solutions, our competitive position may weaken, and our business and operating results could be adversely affected.
+
+Our future success depends on our ability to effectively respond to evolving threats to consumers, as well as competitive technological developments and industry changes, by developing or introducing new and enhanced solutions on a timely basis.
+
+We have in the past incurred, and will continue to incur, significant research and development expenses as we strive to remain competitive, and as we focus on organic growth through internal innovation. Following the Broadcom sale (as defined below), our resources for research and development have decreased, which could put us at a competitive disadvantage. Nevertheless, we believe that we must continue to dedicate a significant amount of resources to our research and development efforts to maintain our competitive position, which include, for example, decreasing our reliance on third parties for our Engine-Related Services. 
+If we are unable to anticipate or react to competitive challenges or if existing or new competitors gain market share in any of our markets, our competitive position could weaken, and we could experience a decline in our revenues that could adversely affect our business and operating results. 
+If we do not achieve the benefits anticipated from these investments, or if the achievement of these benefits is delayed, our operating results may be adversely affected. Additionally, we must continually address the challenges of dynamic and accelerating market trends and competitive developments. Customers may require features and capabilities that our current solutions do not have. Our failure to develop new solutions and improve our existing solutions to satisfy customer preferences and effectively compete with other market offerings
+
+in a timely and cost-effective manner may harm our ability to retain our customers and to create or increase demand for our solutions, which may adversely impact our operating results. 
+
+The development and introduction of new solutions involve a significant commitment of time and resources and are subject to a number of risks and challenges including but not limited to:
+
+•
+
+Lengthy development cycles;
+
+•
+
+Evolving industry and regulatory standards and technological developments by our competitors and customers;
+
+•
+
+Rapidly changing customer preferences;
+
+•
+
+Evolving platforms, operating systems, and hardware products, such as mobile devices, and related product and service interoperability challenges;
+
+•
+
+Entering into new or unproven markets; and
+
+•
+
+Executing new product and service strategies.
+
+If we are not successful in managing these risks and challenges, or if our new or improved solutions are not technologically competitive or do not achieve market acceptance, our business and operating results could be adversely affected.
+
+We operate in a highly competitive environment, and our competitors may gain market share in the markets for our solutions that could adversely affect our business and cause our revenues to decline.
+
+We operate in intensely competitive markets that experience frequent technological developments, changes in industry and regulatory standards, changes in customer requirements, and frequent new product introductions and improvements. If we are unable to anticipate or react to these competitive challenges, or if existing or new competitors gain market share in any of our markets, our competitive position could weaken, and we could experience a decline in our revenues that could adversely affect our business and operating results. To compete successfully, we must maintain an innovative research and development effort to develop new solutions and enhance our existing solutions, effectively adapt to changes in the technology or product rights held by our competitors, appropriately respond to competitive strategies, and effectively adapt to technological changes and changes in the ways that our information is accessed, used, and stored by our customers. If we are unsuccessful in responding to our 
+
+8
+
+Table of Contents
+
+competitors or to changing technological and customer demands, our competitive position and our financial results could be adversely affected.
+
+Our competitors include software vendors that offer solutions that directly compete with our offerings. In addition to competing with these vendors directly for sales to end-users of our solutions, we compete with them for the opportunity to have our solutions bundled with the offerings of our strategic partners, such as computer hardware original equipment manufacturers (OEMs) and internet service providers (ISPs) and Operating Systems. Our competitors could gain market share from us if any of these strategic partners replace our solutions with those of our competitors or if these partners more actively promote our competitors’ solutions than our own. In addition, software vendors who have bundled our solutions with theirs may choose to bundle their solutions with their own or other vendors’ solutions or may limit our access to standard interfaces and inhibit our ability to develop solutions for their platform. In the future, further product development by these vendors could cause our solutions to become redundant, which could significantly impact our sales and financial results.
+
+We face growing competition from other technology companies, as well as from companies in the identity threat protection space such as credit bureaus. Many of these competitors are increasingly developing and incorporating into their products data protection software that competes at some levels with our offerings. Our competitive position could be adversely affected to the extent that our customers perceive the functionality incorporated into these products as replacing the need for our solutions.
+
+Security protection is also offered by some of our competitors at prices lower than our prices or in some cases, is offered free of charge. Our competitive position could be adversely affected to the extent that our customers perceive these lower cost or free security products as replacing the need for full featured solutions like ours. The expansion of these competitive trends could have a significant negative impact on our revenues and operating results by causing, among other things, price reductions of our solutions, reduced profitability, and loss of market share.
+
+Many of our competitors have greater financial, technical, marketing, or other resources than we do and consequently, may have the ability to influence customers to purchase their products instead of ours. Further consolidation within our industry or other changes in the competitive environment could result in larger competitors that compete with us. We also face competition from many smaller companies that specialize in particular segments of the market in which we compete.
+
+We may need to change our pricing models to compete successfully.
+
+The intense competition we face, in addition to general and economic business conditions, can put pressure on us to change our prices. If our competitors offer deep discounts on certain solutions or provide offerings, we may need to lower prices in order to compete successfully Similarly, if there is pressure by competitors to raise prices, our ability to acquire new customers and retain existing customers may be diminished. Any such changes may reduce revenue and margins and could adversely affect our financial results.
+
+Additionally, our business may be affected by changes in the macroeconomic environment. Our solutions are discretionary purchases, and customers may reduce or eliminate their discretionary spending on our solutions during a difficult macroeconomic environment. Although we have not yet experienced a material increase in customers cancellations or a material reduction in our retention rate in 2020, we may experience such an increase or reduction in the future, especially in the event of a prolonged economic down turn or a worsening of current conditions as a result of the COVID-19 pandemic. In addition, during an economic downturn, consumers may experience a decline in their credit or disposable income, which may result in less demand for our solutions. As a result, we may have to lower our prices or make other changes to our pricing model to address these dynamics, any of which could adversely affect our business and financial results.
+
+If we fail to manage our sales and distribution channels effectively, or if our partners choose not to market and sell our solutions to their customers, our operating results could be adversely affected.
+
+A portion of our revenues is derived from sales through indirect channels, including, but not limited to, distributors that sell our products to end-users and other resellers, and 
+OEM partners that incorporate our products into, or bundle our products with, their products.
+ These channels involve a number of risks, including:
+
+•
+
+Our resellers, distributors and OEMs are generally not subject to minimum sales requirements or any obligation to market our solutions to their customers;
+
+•
+
+Our reseller and distributor agreements are generally nonexclusive and may be terminated at any time without cause and our OEM partners may terminate or renegotiate their arrangements with us and new terms may be less favorable due to competitive conditions in our markets and other factors;
+
+•
+
+Our resellers, distributors and OEMs may encounter issues or have violations of applicable law or regulatory requirements or otherwise cause damage to our reputation through their actions;
+
+•
+
+Our resellers and distributors frequently market and distribute competing solutions and may, from time to time, place greater emphasis on the sale of these solutions due to pricing, promotions, and other terms offered by our competitors;
+
+•
+
+Any consolidation of electronics retailers can increase their negotiating power with respect to software providers such as us and any decline in the number of physical retailers could decrease the channels of distribution for us;
+
+•
+
+The continued consolidation of online sales through a small number of larger channels has been increasing, which could reduce the channels available for online distribution of our solutions; and
+
+•
+
+Sales through our partners are subject to changes in general economic conditions, strategic direction, competitive risks, and other issues that could result in a reduction of sales.
+
+9
+
+Table of Contents
+
+If we fail to manage our sales and distribution channels successfully, these channels may conflict with one another or otherwise fail to perform as we anticipate, which could reduce our sales and increase our expenses as well as weaken our competitive position. If our partners suffer financial difficulties in the future because of general economic conditions or for other reasons, these partners may delay paying their obligations to us, and we may have reduced revenues or collections that could adversely affect our operating results. In addition, reliance on multiple channels subjects us to events that could cause unpredictability in demand, which could increase the risk that we may be unable to plan effectively for the future and adversely affect our operating results.
+
+Our revenue and operating results depend significantly on our ability to retain our existing customers, and add new customers, and any decline in our retention rates or failure to add new customers will harm our future revenue and operating results.
+
+Our revenue and operating results depend significantly on our ability to retain our existing customers and add new customers. We sell our solutions to our customers on a monthly or annual subscription basis. Customers may cancel their membership with us at any time without penalty. We therefore may be unable to retain our existing customers on the same or on more profitable terms, if at all. In addition, we may not be able to predict or anticipate accurately future trends in customer retention or effectively respond to such trends. Our customer retention rates may decline or fluctuate due to a variety of factors, including the following:
+
+•
+
+our customers’ levels of satisfaction or dissatisfaction with our solutions;
+
+•
+
+the quality, breadth, and prices of our solutions;
+
+•
+
+our general reputation and events impacting that reputation;
+
+•
+
+the services and related pricing offered by our competitors;
+
+•
+
+disruption by new services or changes in law or regulations that impact the need for efficacy of our products and services;
+
+•
+
+our customer service and responsiveness to any customer complaints;
+
+•
+
+customer dissatisfaction if they do not receive the full benefit of our services due to their failure to provide all relevant data;
+
+•
+
+customer dissatisfaction with the methods or extent of our remediation services;
+
+•
+
+our guarantee may not meet our customers’ expectations; and
+
+•
+
+changes in our target customers’ spending levels as a result of general economic conditions or other factors.
+
+If we do not retain our existing customers and add new customers, our revenue may grow more slowly than expected or decline, and our operating results and gross margins will be harmed. In addition, our business and operating results may be harmed if we are unable to increase our retention rates.
+
+We also must continually add new customers both to replace customers who cancel or elect not to renew their agreements with us and to grow our business beyond our current customer base. If we are unable to attract new customers in numbers greater than the percentage of customers who cancel or elect not to renew their agreements with us, our customer base will decrease, and our business, operating results, and financial condition could be adversely affected. 
+
+Our acquisitions and divestitures create special risks and challenges that could adversely affect our financial results.
+
+As part of our business strategy, we may acquire or divest businesses or assets. For example, we recently completed the sale of certain of our enterprise security assets to Broadcom Inc. (the “Broadcom sale”. These activities can involve a number of risks and challenges, including:
+
+•
+
+Complexity, time, and costs associated with managing these transactions, including the integration of acquired and the winding down of divested business operations, workforce, products, IT systems, and technologies;    
+
+•
+
+Diversion of management time and attention;    
+
+•
+
+Loss or termination of employees, including costs associated with the termination or replacement of those employees;    
+
+•
+
+Assumption of liabilities of the acquired and divested business or assets, including pending or future litigation, investigations or claims related to the acquired business or assets;    
+
+•
+
+The addition of acquisition-related debt;    
+
+•
+
+Increased or unexpected costs and working capital requirements;    
+
+•
+
+Dilution of stock ownership of existing stockholders;    
+
+•
+
+Unanticipated delays or failure to meet contractual obligations; and
+
+•
+
+Substantial accounting charges for acquisition-related costs, amortization of intangible assets, and higher levels of stock-based compensation expense.
+
+We have invested and continue to invest and devote significant resources in the integration of businesses we acquire. The success of each acquisition depends in part on our ability to realize the anticipated business opportunities, including certain cost savings and operational efficiencies, or synergies and growth prospects from integrating these businesses in an efficient and 
+
+10
+
+Table of Contents
+
+effective manner. If integration of our acquired businesses is not successful, we may not realize the potential benefits of an acquisition or suffer other adverse effects. To integrate acquired businesses, we must integrate and manage the personnel and business systems of the acquired operations. Further, we may need to enter new markets in which we have no or limited experience and where competitors in such markets have stronger market positions. Moreover, to be successful, large complex acquisitions depend on large-scale product, technology, and sales force integrations that are difficult to complete on a timely basis or at all and may be more susceptible to the special risks and challenges described above.
+
+In addition, we have, and may in the future, divest businesses, product lines, or assets, with the Broadcom sale being a recent example. Such initiatives may require significant separation activities that could result in the diversion of management’s time and attention, loss of employees, substantial separation costs, and accounting charges for asset impairments. Please see “Risks Related to the Broadcom sale,” below, for additional information regarding our divestiture risks.
+
+Any of the foregoing, and other factors, could harm our ability to achieve anticipated levels of profitability or other financial benefits from our acquired or divested businesses, product lines or assets or to realize other anticipated benefits of divestitures or acquisitions.
+
+RISKS RELATED TO THE BROADCOM SALE
+
+We may not achieve the intended benefits of the Broadcom sale.
+
+We may not realize some or all of the anticipated benefits from the Broadcom sale. The resource constraints that resulted from the completion of the transaction, included the loss of employees, and could have a continuing impact on the execution of our business strategy and our overall operating results. Further, our remaining employees may become concerned about the future of our remaining operations and lose focus or seek other employment.
+
+We are dependent upon Broadcom for certain engineering and threat response services, which are critical to our products and business
+. 
+We could lose our access to these or other data sources, including threat intelligence, which could cause us competitive harm and have a material adverse effect on our business, operating results, and financial condition.
+
+Our endpoint security solution has historically relied upon certain threat analytics software engines and other software (the Engine-Related Services) that have been developed and provided by engineering teams that have transferred to Broadcom as part of the Broadcom sale. The technology, including source code, at issue is shared, and pursuant to the terms of the Broadcom sale, we retain rights to use, modify, enhance and create derivative works from such technology. Broadcom has committed to provide these Engine-Related Services under a transition services agreement, substantially to the same extent and in substantially the same manner, as has been historically provided. As a result, we are dependent on Broadcom for services and technology that are critical to our business, and if Broadcom fails to deliver these Engine-Related Services it would result in significant business disruption, and our business and operating results and financial condition could be materially and adversely affected. Furthermore, we cannot provide assurance that we will be able to obtain data from alternative or additional sources if our current sources become unavailable, and if we are able to obtain alternative sources, we could be unable to integrate or deploy them in time, which could cause us competitive harm and have a material adverse effect on our business. Additionally, in connection with the Broadcom sale, we lost many industry-specific engineers and other capabilities, including certain threat intelligence data which were historically provided by our former Enterprise Security business, the lack of which could have a negative impact on our business and products.
+
+Any cost reduction initiatives that we undertake may not deliver the results we expect, and these actions may adversely affect our business.
+
+In November 2019, our Board of Directors approved a restructuring plan (the November 2019 Plan) in connection with the strategic decision to divest our Enterprise Security business. Actions under this plan include the reduction of our workforce by approximately 3,100 employees, as well as asset write-offs, contract terminations, facilities closures, and the sale of underutilized facilities. We estimate that we will incur total costs of 
+$550 million
+ in connection with the November 2019 Plan, excluding stock-based compensation expense, of which approximately 
+$200 million
+ are expected to consist of cash expenditures for severance and termination benefits and 
+$110 million
+ of cash expenditures for contract terminations. Non-cash costs are estimated to be up to 
+$240 million
+ related to asset write-offs and other restructuring costs. These actions are expected to be completed by September 2020. This initiative could result in disruptions to our operations. Any cost-cutting measures could also negatively impact our business by delaying the introduction of new products or technologies, interrupting service of additional products, or impacting employee retention. In addition, we cannot assure you that the cost reduction and streamlining initiatives will be as successful in reducing our overall expenses as we expect or that additional costs will not offset any such reductions or streamlining of our operations. If our operating costs are higher than we expect, if the expected proceeds from the sale of under-utilized assets do not meet expectations, or if we do not maintain adequate control of our costs and expenses, our results of operations will suffer.
+
+If we are unsuccessful at executing the transition of the Enterprise Security Business assets from the Broadcom sale, our business and results of operations may be adversely affected and our ability to invest in and grow our business could be limited.
+
+For the last several years, we have experienced transitions in our business with the integration of two major acquisitions, the completion of several smaller acquisitions, and the Broadcom sale, which comprised an operating segment. These transitions have involved significant turnover in executive management and other key personnel and changes in our strategic direction, as well as resulted in the relocation of our headquarters to Tempe, Arizona. Transitions of this type can be disruptive, result in the 
+
+11
+
+Table of Contents
+
+loss of focus and employee morale and make the execution of business strategies more difficult. We may experience delays in the anticipated timing of activities related to such transitions and higher than expected or unanticipated execution costs. If we do not succeed in these efforts, or if these efforts are more costly or time-consuming than expected, our business and results of operations may be adversely affected, which could limit our ability to invest in and grow our business.
+
+Changes in industry structure and market conditions could lead to charges related to discontinuance of certain of our products or businesses and asset impairments.
+
+In response to changes in industry structure and market conditions and in connection with the Broadcom sale, we may be required to strategically reallocate our resources and consider restructuring, disposing of, or otherwise exiting certain businesses. Any decision to limit investment in or dispose of or otherwise exit businesses may result in the recording of special charges, such as inventory and technology-related write-offs, workforce reduction costs, charges relating to consolidation of excess facilities, or claims from third parties who were resellers or users of discontinued products. Our estimates with respect to the useful life or ultimate recoverability of our carrying basis of assets, including purchased intangible assets, could change as a result of such assessments and decisions. Although in certain instances our vendor agreements allow us the option to cancel, reschedule, and adjust our requirements based on our business needs, our loss contingencies may include liabilities for contracts that we cannot cancel, reschedule or adjust with suppliers.
+
+Further, our estimates relating to the liabilities for excess facilities are affected by changes in real estate market conditions. Additionally, we are required to evaluate goodwill impairment on an annual basis and between annual evaluations in certain circumstances, and future goodwill impairment evaluations may result in a charge to earnings.
+
+RISKS RELATED TO OUR OPERATIONS
+
+If we are unable to attract and retain qualified employees, lose key personnel, fail to integrate replacement personnel successfully, or fail to manage our employee base effectively, we may be unable to develop new and enhanced solutions, effectively manage or expand our business, or increase our revenues.
+
+Our future success depends upon our ability to recruit and retain key management, technical (including cyber security experts), sales, marketing, e-commerce, finance, and other personnel. Our officers and other key personnel are “at will” employees and we generally do not have employment or non-compete agreements with our employees, and we cannot assure you that we will be able to retain them. Competition for people with the specific skills that we require is significant, and we may face new and unexpected difficulties in attracting, retaining, and motivating employees in connection with the relocation of our headquarters to Tempe, Arizona. In connection with the Broadcom sale, we experienced employee attrition and related difficulties and these difficulties and loss of certain expertise and capabilities may continue or increase.
+
+In order to attract and retain personnel in a competitive marketplace, we must provide competitive pay packages, including cash and equity-based compensation. Additionally, changes in immigration laws could impair our ability to attract and retain highly qualified employees. If we fail to attract new personnel or fail to retain and motivate our current personnel, our business, results of operations and future growth prospects could suffer. The volatility in our stock price may from time to time adversely affect our ability to recruit or retain employees. In addition, we may be unable to obtain required stockholder approvals of future increases in the number of shares required for issuance under our equity compensation plans. As a result, we may issue fewer equity-based incentives and may be impaired in our efforts to attract and retain necessary personnel. If we are unable to hire and retain qualified employees, or conversely, if we fail to manage employee performance or reduce staffing levels when required by market conditions, our business and operating results could be adversely affected.
+
+Effective succession planning is also important to our long-term success. Failure to ensure effective transfer of knowledge and smooth transitions involving key employees could hinder our strategic planning and execution. From time to time, key personnel leave our company and the frequency and number of such departures has widely varied and have resulted in significant changes to our executive leadership team. Although we strive to reduce the negative impact of changes in our leadership, the loss of any key employee could result in significant disruptions to our operations, including adversely affecting the timeliness of product releases, the successful implementation and completion of company initiatives, our internal control over financial reporting, and our results of operations. In addition, hiring, training, and successfully integrating replacement sales and other personnel could be time consuming and expensive, may cause additional disruptions to our operations, and may be unsuccessful, which could negatively impact future financial results.
+
+Our inability to successfully recover from a disaster or other business continuity event could impair our ability to deliver our products and services and harm our business.
+
+We are heavily reliant on our technology and infrastructure to provide our products and services to our customers. For example, we host many of our products using third-party data center facilities, and we do not control the operation of these facilities. These facilities are vulnerable to damage, interruption, or performance problems from earthquakes, hurricanes, floods, fires, power loss, telecommunications failures, pandemics, such as the recent COVID-19 pandemic and similar events. They are also subject to break-ins, computer viruses, sabotage, intentional acts of vandalism, and other misconduct. The occurrence of a natural disaster, an act of terrorism, a pandemic, such as the ongoing COVID-19 pandemic, and similar events could result in a decision to close the facilities without adequate notice or other unanticipated problems, which in turn, could result in lengthy interruptions in the delivery of our products and services, which could negatively impact our sales and operating results.
+
+Furthermore, our business administration, human resources, compliance efforts, and finance services depend on the proper functioning of our computer, telecommunication, and other related systems and operations. A disruption or failure of these systems or operations because of a disaster or other business continuity event, such as the ongoing COVID-19 pandemic, could 
+
+12
+
+Table of Contents
+
+cause data to be lost or otherwise delay our ability to complete sales and provide the highest level of service to our customers. In addition, we could have difficulty producing accurate financial statements on a timely basis, and deficiencies may arise in our internal control over financial reporting, which may impact our ability to certify our financial results, all of which could adversely affect the trading value of our stock. Although we endeavor to ensure there is redundancy in these systems and that they are regularly backed-up, there are no assurances that data recovery in the event of a disaster would be effective or occur in an efficient manner, including the operation of our global civilian cyber intelligence threat network.
+
+If these systems or their functionality do not operate as we expect them to, we may be required to expend significant resources to make corrections or find alternative sources for performing these functions.
+
+In light of the ongoing COVID-19 pandemic, we have implemented a near company-wide work-from-home requirement for most employees until further notice. While we have not experienced any material disruptions to date, there can be no assurance that our technological systems or infrastructure is or will be equipped to facilitate effective remote working arrangements and effectively operate in full compliance with all laws and regulations for our employees in the short or long term.
+
+Our international operations involve risks that could increase our expenses, adversely affect our operating results, and require increased time and attention of our management.
+
+We derive a portion of our revenues from customers located outside of the U.S., and we have significant operations outside of the U.S., including engineering, sales and customer support. Our international operations are subject to risks in addition to those faced by our domestic operations, including:
+
+•
+
+Potential loss of proprietary information due to misappropriation or laws that may be less protective of our intellectual property rights than U.S. laws or that may not be adequately enforced;
+
+•
+
+Requirements of foreign laws and other governmental controls, including tariffs, trade barriers and labor restrictions, and related laws that reduce the flexibility of our business operations;
+
+•
+
+Potential changes in trade relations arising from policy initiatives or other political factors;
+
+•
+
+Regulations or restrictions on the use, import, or export of encryption technologies that could delay or prevent the acceptance and use of encryption products and public networks for secure communications;
+
+•
+
+Local business and cultural factors that differ from our normal standards and practices, including business practices that we are prohibited from engaging in by the Foreign Corrupt Practices Act and other anti-corruption laws and regulations;
+
+•
+
+Central bank and other restrictions on our ability to repatriate cash from our international subsidiaries or to exchange cash in international subsidiaries into cash available for use in the U.S.;
+
+•
+
+Fluctuations in currency exchange rates, economic instability, and inflationary conditions could make our solutions more expensive or could increase our costs of doing business in certain countries;
+
+•
+
+Limitations on future growth or inability to maintain current levels of revenues from international sales if we do not invest sufficiently in our international operations;
+
+•
+
+Difficulties in staffing, managing, and operating our international operations;
+
+•
+
+Difficulties in coordinating the activities of our geographically dispersed and culturally diverse operations;
+
+•
+
+Costs and delays associated with developing software and providing support in multiple languages; and
+
+•
+
+Political unrest, war, or terrorism, or regional natural disasters, particularly in areas in which we have facilities.
+
+A significant portion of our transactions outside of the U.S. is denominated in foreign currencies. Accordingly, our revenues and expenses will continue to be subject to fluctuations in foreign currency rates. We have in the past and expect in the future to be affected by fluctuations in foreign currency rates, especially if international sales grow as a percentage of our total sales or our operations outside the U.S. continue to increase and foreign currency rates continue to experience increased volatility due to the COVID-19 pandemics.
+
+RISKS RELATED TO OUR SOLUTIONS
+
+Our solutions, systems, and website and the data on these sources may be subject to intentional disruption that could materially harm to our reputation and future sales.
+
+Despite our precautions and significant ongoing investments to protect against security risks, data protection breaches, cyber-attacks, and other intentional disruptions of our solutions, we expect to be an ongoing target of attacks specifically designed to impede the performance and availability of our offerings and harm our reputation as a company. Similarly, experienced computer programmers or other sophisticated individuals or entities, including malicious hackers, state-sponsored organizations, and insider threats including actions by employees and third-party service providers, may attempt to penetrate our network security or the security of our systems and websites and misappropriate proprietary information or cause interruptions of our services, including the operation of the global civilian cyber intelligence threat network. This risk may be increased during the current COVID-19 pandemic as more individuals are work from home and utilize home networks for the transmission of sensitive information. Such attempts are increasing in number and in technical sophistication, and if successful could expose us and the affected parties, to risk of loss or misuse of proprietary or confidential information or disruptions of our business operations. 
+
+While we engage in a number of measures aimed to protect against security breaches and to minimize problems if a data breach were to occur, our information technology systems and infrastructure may be vulnerable to damage, compromise, 
+
+13
+
+Table of Contents
+
+disruption, and shutdown due to attacks or breaches by hackers or due to other circumstances, such as error or malfeasance by employees or third party service providers or technology malfunction. The occurrence of any of these events, as well as a failure to promptly remedy these events should they occur, could compromise our systems, and the information stored in our systems could be accessed, publicly disclosed, lost, stolen, or damaged. Any such circumstance could adversely affect our ability to attract and maintain customers as well as strategic partners, cause us to suffer negative publicity, and subject us to legal claims and liabilities or regulatory penalties. In addition, unauthorized parties might alter information in our databases, which would adversely affect both the reliability of that information and our ability to market and perform our services. Techniques used to obtain unauthorized access or to sabotage systems change frequently, are constantly evolving and generally are difficult to recognize and react to effectively. We may be unable to anticipate these techniques or to implement adequate preventive or reactive measures. Several recent, highly publicized data security breaches at other companies have heightened consumer awareness of this issue and may embolden individuals or groups to target our systems or those of our strategic partners or enterprise customers.
+
+Our solutions are complex and operate in a wide variety of environments, systems and configurations, which could result in failures of our solutions to function as designed and negatively impact our 
+brand recognition and reputation
+.
+
+Because we offer very complex solutions, errors, defects, disruptions, or other performance problems with our solutions may and have occurred. For example, we may experience disruptions, outages, and other performance problems due to a variety of factors, including infrastructure changes, human or software errors, capacity constraints due to an overwhelming number of users accessing our websites simultaneously, fraud, or security attacks. In some instances, we may not be able to identify the cause or causes of these performance problems within an acceptable period of time. Interruptions in our solutions, including the operati
+on of the global civilian cyber intelligence threat network, could impact our revenues or cause customers to cease doing business with us. Our operations are d
+ependent upon our ability to protect our technology infrastructure against damage from business continuity events that could have a significant disruptive effect on our operations. We could potentially lose customer data or experience material adverse interruptions to our operations or delivery of solutions to our clients in a disaster recovery scenario. 
+
+Further, our business would be harmed if any of the events of this nature caused our customers and potential customers to believe our solutions are unreliable. 
+Our brand recognition and reputation are critical aspects of our business to retaining existing customers and attracting new customers. 
+Furthermore, negative publicity, whether or not justified, relating to events or activities attributed to us, our employees, our strategic partners, our affiliates, or others associated with any of these parties, may tarnish our reputation and reduce the value of our brands. Damage to our reputation and loss of brand equity may reduce demand for our solutions and have an adverse effect on our business, operating results, and financial condition. Moreover, any attempts to rebuild our reputation and restore the value of our brands may be costly and time consuming, and such efforts may not ultimately be successful.
+
+We collect, use, disclose, store, or otherwise process personal information, which subjects us to privacy and data security laws and contractual commitments, and our actual or perceived failure to comply with such laws and commitments could harm our business.
+
+We collect, use, process, store, transmit or disclose (collectively, process) an increasingly large amount of confidential information, including personally identifiable information, credit card information and other critical data from employees and customers, in connection with the operation of our business, particularly in relation to our identity and information protection offerings. 
+
+The personal information we process is subject to an increasing number of federal, state, local, and foreign laws regarding privacy and data security, as well as contractual commitments. Any failure or perceived failure by us to comply with such obligations may result in governmental enforcement actions, fines, litigation, or public statements against us by consumer advocacy groups or others and could cause our customers to lose trust in us, which could have an adverse effect on our reputation and business.
+
+Additionally, changes to applicable privacy or data security laws could impact how we process personal information and therefore limit the effectiveness of our solutions or our ability to develop new solutions.
+ For example, the European Union General Data Protection Regulation imposes more stringent data protection requirements and provides for greater penalties for noncompliance of up to the greater of €20 million or four percent of worldwide annual revenues.
+
+Data protection legislation is also becoming increasingly common in the U.S. at both the federal and state level. For example, the California Consumer Privacy Act of 2018 (the CCPA), came into effect on January 1, 2020. The CCPA requires companies that process information on California residents to make new disclosures to consumers about their data collection, use, and sharing practices, allows consumers to opt out of certain data sharing with third parties, and provides a new cause of action for data breaches. Additionally, the Federal Trade Commission (the FTC) and many state attorneys general are interpreting federal and state consumer protection laws to impose standards for the online collection, use, dissemination, and security of data. The burdens imposed by the CCPA and other similar laws that may be enacted at the federal and state level may require us to modify our data processing practices and policies and to incur substantial expenditures in order to comply.
+
+Global privacy and data protection legislation, enforcement, and policy activity are rapidly expanding and evolving, and may be inconsistent from jurisdiction to jurisdiction.
+ We may be or become subject to data localization laws mandating that data collected in a foreign country be processed and stored only within that country. If any country in which we have customers were to adopt a data localization law, we could be required to expand our data storage facilities there or build new ones in order to comply. The expenditure this would require, as well as costs of compliance generally, could harm our financial condition.
+
+14
+
+Table of Contents
+
+Additionally, third parties with whom we work, such as vendors or developers, may violate applicable laws or our policies and such violations can place personal information of our customers at risk. In addition, o
+ur customers may also accidentally disclose their passwords or store them on a device that is lost or stolen, creating the perception that our systems are not secure against third-party access. 
+This could have an adverse effect on our reputation and business. In addition, such third parties could be the target of cyberattack and other data breaches which could impact our systems or our customers’ records.
+
+LEGAL AND COMPLIANCE RISKS
+
+Matters relating to or arising from our completed Audit Committee Investigation, including regulatory investigations and proceedings, litigation matters, and potential additional expenses, may adversely affect our business and results of operations.
+
+As previously disclosed in our public filings, the Audit Committee completed its internal investigation in September 2018. In connection with the Audit Committee Investigation, we voluntarily self-reported to the SEC. The SEC commenced a formal investigation, and we continue to cooperate with that investigation. The outcome of such an investigation is difficult to predict. If the SEC commences legal action, we could be required to pay significant penalties and become subject to injunctions, a cease and desist order, and other equitable remedies. We can provide no assurances as to the outcome of any governmental investigation.
+
+We have incurred, and will continue to incur, significant expenses related to legal and other professional services in connection with the ongoing SEC investigation, which may continue to adversely affect our business and financial condition. In addition, securities class actions and other lawsuits have been filed against us, our directors, and officers. The outcome of the securities class actions and other litigation and regulatory proceedings or government enforcement actions is difficult to predict, and the cost to defend, settle, or otherwise resolve these matters may be significant. Plaintiffs or regulatory agencies or authorities in these matters may seek recovery of very large or indeterminate amounts or seek to impose sanctions, including significant monetary penalties. The monetary and other impact of these litigations, proceedings, or actions may remain unknown for substantial periods of time. Further, an unfavorable resolution of litigations, proceedings or actions could have a material adverse effect on our business, financial condition, and results of operations and cash flows. Any future investigations or additional lawsuits may also adversely affect our business, financial condition, results of operations, and cash flows.
+
+Our solutions are highly regulated, which could impede our ability to market and provide our solutions or adversely affect our business, financial position, and results of operations.
+
+Our solutions are subject to a high degree of regulation, including a wide variety of federal, state, and local laws and regulations, such as the Fair Credit Reporting Act, the Gramm-Leach-Bliley Act, the Federal Trade Commission Act (FTC Act), and comparable state laws that are patterned after the FTC Act. LifeLock has previously entered into consent decrees and similar arrangements with the FTC and the attorney generals of 35 states as well as a settlement with the FTC relating to allegations that certain of LifeLock’s advertising, marketing and security practices constituted deceptive acts or practices in violation of the FTC Act, which impose additional restrictions on our business, including prohibitions against making any misrepresentation of “the means, methods, procedures, effects, effectiveness, coverage, or scope of” our solutions. Any of the laws and regulations that apply to our business are subject to revision or new or changed interpretations, and we cannot predict the impact of such changes on our business.
+
+Additionally, the nature of our 
+identity and information protection products 
+subjects us to the broad regulatory, supervisory, and enforcement powers of the Consumer Financial Protection Bureau which may exercise authority with respect to our services, or the marketing and servicing of those services, by overseeing our financial institution or credit reporting agency customers and suppliers, or by otherwise exercising its supervisory, regulatory, or enforcement authority over consumer financial products and services.
+
+If we do not protect our proprietary information and prevent third parties from making unauthorized use of our products and technology, our financial results could be harmed.
+
+Much of our software and underlying technology is proprietary. We seek to protect our proprietary rights through a combination of confidentiality agreements and procedures and through copyright, patent, trademark, and trade secret laws. However, these measures afford only limited protection and may be challenged, invalidated, or circumvented by third parties. Third parties may copy all or portions of our products or otherwise obtain, use, distribute, and sell our proprietary information without authorization.
+
+Third parties may also develop similar or superior technology independently by designing around our patents. Our consumer agreements do not require a signature and therefore may be unenforceable under the laws of some jurisdictions. Furthermore, the laws of some foreign countries do not offer the same level of protection of our proprietary rights as the laws of the U.S., and we may be subject to unauthorized use of our products in those countries. The unauthorized copying or use of our products or proprietary information could result in reduced sales of our products. Any legal action to protect proprietary information that we may bring or be engaged in with a strategic partner or vendor could adversely affect our ability to access software, operating system, and hardware platforms of such partner or vendor, or cause such partner or vendor to choose not to offer our products to their customers. In addition, any legal action to protect proprietary information that we may bring or be engaged in, could be costly, may distract management from day-to-day operations, and may lead to additional claims against us, which could adversely affect our operating results.
+
+15
+
+Table of Contents
+
+From time to time we are a party to lawsuits and investigations, which typically require significant management time and attention and result in significant legal expenses, and which could negatively impact our business, financial condition, results of operations, and cash flows.
+
+We have initiated and been named as a party to lawsuits, including patent litigation, class actions, and governmental claims, and we may be named in additional litigation. The expense of initiating and defending, and in some cases settling, such litigation may be costly and divert management’s attention from the day-to-day operations of our business, which could adversely affect our business, results of operations, and cash flows. In addition, an unfavorable outcome in such litigation could result in significant fines, settlements, monetary damages, or injunctive relief that could negatively impact our ability to conduct our business, results of operations, and cash flows.
+
+Third parties claiming that we infringe their proprietary rights could cause us to incur significant legal expenses and prevent us from selling our products.
+
+From time to time, third parties may claim that we have infringed their intellectual property rights, including claims regarding patents, copyrights, and trademarks. Because of constant technological change in the segments in which we compete, the extensive patent coverage of existing technologies, and the rapid rate of issuance of new patents, it is possible that the number of these claims may grow. In addition, former employers of our former, current, or future employees may assert claims that such employees have improperly disclosed to us confidential or proprietary information of these former employers. Any such claim, with or without merit, could result in costly litigation and distract management from day-to-day operations. If we are not successful in defending such claims, we could be required to stop selling, delay shipments of, or redesign our solutions, pay monetary amounts as damages, enter into royalty or licensing arrangements, or satisfy indemnification obligations that we have with some of our customers. We cannot assure you that any royalty or licensing arrangements that we may seek in such circumstances will be available to us on commercially reasonable terms or at all. We have made and expect to continue making significant expenditures to investigate, defend, and settle claims related to the use of technology and intellectual property rights as part of our strategy to manage this risk.
+
+In addition, we license and use software from third parties in our business. These third-party software licenses may not continue to be available to us on acceptable terms or at all and may expose us to additional liability. This liability, or our inability to use any of this third-party software, could result in delivery delays or other disruptions in our business that could materially and adversely affect our operating results.
+
+Some of our products contain “open source” software, and any failure to comply with the terms of one or more of these open source licenses could negatively affect our business.
+
+Certain of our products are distributed with software licensed by its authors or other third parties under so-called “open source” licenses, which may include, by way of example, the GNU General Public License, GNU Lesser General Public License, the Mozilla Public License, the BSD License, and the Apache License.
+
+Some of these licenses contain requirements that we make available source code for modifications or derivative works we create based upon the open source software and that we license such modifications or derivative works under the terms of a particular open source license or other license granting third parties certain rights of further use. By the terms of certain open source licenses, we could be required to release the source code of our proprietary software if we combine our proprietary software with open source software in a certain manner. In addition to risks related to license requirements, usage of open source software can lead to greater risks than use of third-party commercial software, as open source licensors generally do not provide warranties or controls on origin of the software. We have established processes to help alleviate these risks, including a review process for screening requests from our development organizations for the use of open source, but we cannot be sure that all open source is submitted for approval prior to use in our products. In addition, many of the risks associated with usage of open source cannot be eliminated and could, if not properly addressed, negatively affect our business.
+
+RISKS RELATED TO OUR FINANCIAL RESULTS
+
+Fluctuations in our quarterly financial results have affected the trading price of our outstanding securities in the past and could affect the trading price of our outstanding securities in the future.
+
+Our quarterly financial results have fluctuated in the past and are likely to vary in the future due to a number of factors, many of which are outside of our control. If our quarterly financial results or our predictions of future financial results fail to meet our expectations or the expectations of securities analysts and investors, the trading price of our outstanding securities could be negatively affected. Volatility in our quarterly financial results may make it more difficult for us to raise capital in the future or
+ pursue acquisitions. Our operating results for prior periods may not be effective predictors of our future performance.
+
+Factors associated with our industry, the operation of our business, and the markets for our solutions may cause our quarterly financial results to fluctuate, including but not limited to:
+
+•
+
+Fluctuations in demand for our solutions;
+
+•
+
+Disruptions in our business operations or target markets caused by, among other things, terrorism or other intentional acts, outbreaks of disease, such as the COVID-19 pandemic, or earthquakes, floods, or other natural disasters;
+
+•
+
+Entry of new competition into our markets;
+
+•
+
+Our ability to achieve targeted operating income and margins and revenues;
+
+•
+
+Competitive pricing pressure for one or more of our solutions;
+
+16
+
+Table of Contents
+
+•
+
+Our ability to timely complete the release of new or enhanced versions of our solutions;
+
+•
+
+The amount and timing of commencement and termination of major marketing campaigns;
+
+•
+
+The number, severity, and timing of threat outbreaks (e.g. worms, viruses, malware, ransomware, and other malicious threats) and cyber security incidents (e.g., large scale data breaches);
+
+•
+
+Loss of customers or strategic partners;
+
+•
+
+Changes in the mix or type of solutions and subscriptions sold and changes in consumer retention rates;
+
+•
+
+The rate of adoption of new technologies and new releases of operating systems, and new business processes;
+
+•
+
+Consumer confidence and spending changes, which could be impacted by market changes and general economic conditions, among other reasons;
+
+•
+
+The impact of litigation, regulatory inquiries, or investigations;
+
+•
+
+The impact of acquisitions and divestitures and our ability to achieve expected synergies or attendant cost savings;
+
+•
+
+Fluctuations in foreign currency exchange rates;
+
+•
+
+Movements in interest rates;
+
+•
+
+Changes in tax laws, rules, and regulations; and
+
+•
+
+Changes in consumer protection laws and regulations.
+
+Any of the foregoing factors could cause the trading price of our outstanding securities to fluctuate significantly.
+
+Changes to our effective tax rate could increase our income tax expense and reduce (increase) our net income (loss), cash flows and working capital.
+
+Our effective tax rate could be adversely affected by several factors, many of which are outside of our control, including:
+
+•
+
+Changes to the U.S. federal income tax laws, including impacts of the Tax Cuts and Jobs Act (H.R.1) (the 2017 Tax Act) arising from future interpretations of the 2017 Tax Act;
+
+•
+
+Changes to other tax laws, regulations, and interpretations in multiple jurisdictions in which we operate, including actions resulting from the Organisation for Economic Co-operation and Development's base erosion and profit shifting project, proposed actions by international bodies such as digital services taxation, as well as the requirements of certain tax rulings;
+
+•
+
+Changes in the relative proportions of revenues and income before taxes in the various jurisdictions in which we operate that have differing statutory tax rates;
+
+•
+
+The tax effects of significant infrequently occurring events that may cause fluctuations between reporting periods;
+
+•
+
+Tax assessments, or any related tax interest or penalties, that could significantly affect our income tax expense for the period in which the settlements take place; 
+
+•
+
+Taxes arising in connection with the Broadcom sale;
+
+•
+
+Taxes arising in connection to changes in our workforce, corporate entity structure or operations as they relate to tax incentives and tax rates.
+
+We report our results of operations based on our determination of the aggregate amount of taxes owed in the tax jurisdictions in which we operate. From time to time, we receive notices that a tax authority in a particular jurisdiction believes that we owe a greater amount of tax than we have reported to such authority. We are regularly engaged in discussions and sometimes disputes with these tax authorities. If the ultimate determination of our taxes owed in any of these jurisdictions is for an amount in excess of the tax provision we have recorded or reserved for, our operating results, cash flows, and financial condition could be adversely affected.
+
+RISKS RELATED TO OUR LIQUIDITY AND INDEBTEDNESS
+
+We cannot predict our future capital needs, and we may be unable to obtain financing, which could have a material adverse effect on our business, results of operations, and financial condition.
+
+Adverse economic conditions or a change in our business performance may make it more difficult to obtain financing for our operations, investing activities (including potential acquisitions or divestitures), or financing activities. Any required financing may not be available on terms acceptable to us, or at all. If we raise additional funds by obtaining loans from third parties, the terms of those financing arrangements may include negative covenants or other restrictions on our business that could impair our financial or operational flexibility and would also require us to fund additional interest expense. If additional financing is not available when required or is not available on acceptable terms, we may be unable to successfully develop or enhance our solutions through acquisitions in order to take advantage of business opportunities or respond to competitive pressures, which could have a material adverse effect on our solutions offerings, revenues, results of operations, and financial condition.
+
+17
+
+Table of Contents
+
+Failure to maintain our credit ratings could adversely affect our liquidity, capital position, ability to hedge certain financial risks, borrowing costs, and access to capital markets.
+
+Our credit risk is evaluated by the major independent rating agencies, and such agencies have in the past and could in the future downgrade our ratings. We cannot assure you that we will be able to maintain our current credit ratings, and any additional actual or anticipated changes or downgrades in our credit ratings, including any announcement that our ratings are under further review for a downgrade, may have a negative impact on our liquidity, capital position, ability to hedge certain financial risks, and access to capital markets. In addition, changes by any rating agency to our outlook or credit rating could increase the interest we pay on outstanding or future debt.
+
+There are risks associated with our outstanding and future indebtedness that could adversely affect our financial condition.
+
+As of  April 3, 2020, we had an aggregate of 
+$4.3 billion
+ of outstanding indebtedness that will mature in calendar years 2020 through 2025, including approximately 
+$1.5 billion
+ in aggregate principal amount of existing convertible notes, 
+$2.3 billion
+ of senior notes and 
+$0.5 billion
+ of outstanding term loans under our senior secured credit facility, and we may incur additional indebtedness in the future and/or enter into new financing arrangements. In addition, as of April 3, 2020, we had $1.0 billion available for borrowing under our revolving credit facility. Our ability to meet expenses, to remain in compliance with the covenants under our debt instruments, and to pay interest and repay principal for our substantial level of indebtedness depends on, among other things, our operating performance, competitive developments, and financial market conditions, all of which are significantly affected by financial, business, economic, and other factors. We are not able to control many of these factors. Accordingly, our cash flow may not be sufficient to allow us to pay principal and interest on our debt, including the notes, and meet our other obligations.
+
+Our level of indebtedness could have other important consequences, including the following:
+
+•
+
+We must use a substantial portion of our cash flow from operations to pay interest and principal on the term loans and revolving credit facility, our existing senior notes, and other indebtedness, which reduces funds available to us for other purposes such as working capital, capital expenditures, other general corporate purposes, and potential acquisitions;
+
+•
+
+We may be unable to refinance our indebtedness or to obtain additional financing for working capital, capital expenditures, acquisitions, or general corporate purposes;
+
+•
+
+We are exposed to fluctuations in interest rates because borrowings under our senior credit facilities bear interest at variable rates;
+
+•
+
+Our leverage may be greater than that of some of our competitors, which may put us at a competitive disadvantage and reduce our flexibility in responding to current and changing industry and financial market conditions;
+
+•
+
+We may be more vulnerable to an economic downturn and adverse developments in our business;
+
+•
+
+We may be unable to comply with financial and other covenants in our debt agreements, which could result in an event of default that, if not cured or waived, may result in acceleration of certain of our debt and would have an adverse effect on our business and prospects and could force us into bankruptcy or liquidation; 
+
+•
+
+Changes by any rating agency to our outlook or credit rating could negatively affect the value of our debt and/or our common stock, adversely affect our access to debt markets, and increase the interest we pay on outstanding or future debt; and
+
+•
+
+Conversion of our convertible notes could result in significant dilution of our common stock, which could result in significant dilution to our existing stockholders and cause the market price of our common stock to decline.
+
+There can be no assurance that we will be able to manage any of these risks successfully.
+
+In addition, we conduct a significant portion of our operations through our subsidiaries, which are generally not guarantors of our debt. Accordingly, repayment of our indebtedness will be dependent in part on the generation of cash flow by our subsidiaries and their ability to make such cash available to us by dividend, debt repayment, or otherwise. In general, our subsidiaries will not have any obligation to pay amounts due on our debt or to make funds available for that purpose. Our subsidiaries may not be able to, or may not be permitted to, make distributions to enable us to make payments in respect of our indebtedness. Each subsidiary is a distinct legal entity, and under certain circumstances legal and contractual restrictions may limit our ability to obtain cash from our subsidiaries. In the event that we do not receive distributions from our subsidiaries, we may be unable to make the
+ required principal and interest payments on our indebtedness.
+
+Changes in the method
+ of
+ determining LIBOR, or the replacement of LIBOR with an alternative reference rate, may adversely affect interest rates on our current or future indebtedness and may otherwise adversely affect our financial condition and results of operations.
+
+Certain of our indebtedness is made at variable interest rates that use the London Interbank Offered Rate, or LIBOR (or metrics derived from or related to LIBOR), as a benchmark for establishing the interest rate. In 2017, the United Kingdom’s Financial Conduct Authority announced that it intends to stop persuading or compelling banks to submit LIBOR rates after 2021. If LIBOR ceases to exist, we may need to renegotiate our debt arrangements that extend beyond 2021 that utilize LIBOR as a factor in determining the interest rate, which may negatively impact the terms of such indebtedness. In addition, the overall financial markets may be disrupted as a result of the phase out or replacement of LIBOR. Disruption in the financial markets could have an adverse effect on our financial position, results of operations, and liquidity.
+
+18
+
+Table of Contents
+
+Our existing credit agreements impose operating and financial restrictions on us.
+
+The existing credit agreements contain covenants that limit our ability and the ability of our restricted subsidiaries to:
+
+•
+
+Incur additional debt;
+
+•
+
+Create liens on certain assets to secure debt;
+
+•
+
+Enter into certain sale and leaseback transactions;
+
+•
+
+Pay dividends on or make other distributions in respect of our capital stock or make other restricted payments; and
+
+•
+
+Consolidate, merge, sell or otherwise dispose of all or substantially all of our assets.
+
+All of these covenants may adversely affect our ability to finance our operations, meet or otherwise address our capital needs, pursue business opportunities, react to market conditions, or otherwise restrict activities or business plans. A breach of any of these covenants could result in a default in respect of the related indebtedness. If a default occurs, the relevant lenders could elect to declare the indebtedness, together with accrued interest and other fees, to be immediately due and payable and, to the extent such indebtedness is secured in the future, proceed against any collateral securing that indebtedness.

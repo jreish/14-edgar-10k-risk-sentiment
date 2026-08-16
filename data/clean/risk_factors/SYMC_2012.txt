@@ -1,0 +1,778 @@
+A description of the risk factors associated with our business is set forth below. The list is not exhaustive and you should carefully consider these risks and uncertainties before investing in our common
+stock. 
+
+Fluctuations in demand for our products and services are driven by many factors, and a decrease in demand for
+our products could adversely affect our financial results. 
+
+We are subject to fluctuations in demand
+for our products and services due to a variety of factors, including general economic conditions, competition, product obsolescence, technological change, shifts in buying patterns, financial difficulties and budget constraints of our current and
+potential customers, levels of broadband usage, awareness of security threats to IT systems, and other factors. While such factors may, in some periods, increase product sales, fluctuations in demand can also negatively impact our product sales. If
+demand for our products and solutions declines, whether due to general economic conditions or a shift in buying patterns, our revenues and margins would likely be adversely affected. 
+
+If we are unable to develop new and enhanced products and services that achieve widespread market acceptance, or if we are unable
+to continually improve the performance, features, and reliability of our existing products and services or adapt our business model to keep pace with industry trends, our business and operating results could be adversely affected.
+
+Our future success depends on our ability to respond to the rapidly changing needs of our customers by
+developing or introducing new products, product upgrades, and services on a timely basis. We have in the past incurred, and will continue to incur, significant research and development expenses as we strive to remain competitive. New product
+development and introduction involves a significant commitment of time and resources and is subject to a number of risks and challenges including: 
+
+•
+
+ Managing the length of the development cycle for new products and product enhancements, which has frequently been longer than we originally expected
+
+•
+
+ Adapting to emerging and evolving industry standards and to technological developments by our competitors and customers
+
+•
+
+ Extending the operation of our products and services to new and evolving platforms, operating systems and hardware products, such as mobile devices
+
+•
+
+ Entering into new or unproven markets with which we have limited experience, including the delivery of solutions in an appliance form factor
+
+•
+
+ Managing new product and service strategies, including integrating our various security and storage technologies, management solutions, customer
+service, and support into unified enterprise security and storage solutions 
+
+•
+
+ Addressing trade compliance issues affecting our ability to ship our products 
+
+•
+
+ Developing or expanding efficient sales channels 
+
+13 
+
+Table of Contents
+
+•
+
+ Obtaining sufficient licenses to technology and technical access from operating system software vendors on reasonable terms to enable the
+development and deployment of interoperable products, including source code licenses for certain products with deep technical integration into operating systems 
+
+If we are not successful in managing these risks and challenges, or if our new products, product upgrades, and services
+are not technologically competitive or do not achieve market acceptance, our business and operating results could be adversely affected. 
+
+We operate in a highly competitive environment, and our competitors may gain market share in the markets for our products that could adversely affect our business and cause our revenues to decline.
+
+We operate in intensely competitive markets that experience rapid technological developments, changes
+in industry standards, changes in customer requirements, and frequent new product introductions and improvements. If we are unable to anticipate or react to these competitive challenges or if existing or new competitors gain market share in any of
+our markets, our competitive position could weaken and we could experience a decline in our sales that could adversely affect our business and operating results. To compete successfully, we must maintain an innovative research and development effort
+to develop new products and services and enhance existing products and services, effectively adapt to changes in the technology or product rights held by our competitors, appropriately respond to competitive strategies, and effectively adapt to
+technological changes and changes in the ways that our information is accessed, used, and stored within our enterprise and consumer markets. If we are unsuccessful in responding to our competitors or to changing technological and customer demands,
+our competitive position and our financial results could be adversely affected. 
+
+Our traditional competitors
+include independent software vendors that offer software products that directly compete with our product offerings. We expect that competition will intensify as a result of future software industry consolidation. In addition to competing with
+these vendors directly for sales to end-users of our products, we compete with them for the opportunity to have our products bundled with the product offerings of our strategic partners such as computer hardware OEMs and ISPs. Our competitors could
+gain market share from us if any of these strategic partners replace our products with the products of our competitors or if these partners more actively promote our competitors’ products than our products. In addition, software vendors who
+have bundled our products with theirs may choose to bundle their software with their own or other vendors’ software or may limit our access to standard product interfaces and inhibit our ability to develop products for their platform. In the
+future, further product development by these vendors could cause our software applications and services to become redundant, which could significantly impact our sales and financial results. 
+
+We face growing competition from network equipment, computer hardware manufacturers, large operating system providers and
+other technology companies. These firms are increasingly developing and incorporating into their products data protection and storage and server management software that competes at some levels with our product offerings. Our competitive position
+could be adversely affected to the extent that our customers perceive the functionality incorporated into these products as replacing the need for our products. 
+
+Security protection is also offered by some of our competitors at prices lower than our prices or, in some cases is
+offered free of charge. Some companies offer the lower-priced or free security products within their computer hardware or software products that we believe are inferior to our products and SaaS offerings. Our competitive position could be adversely
+affected to the extent that our customers perceive these security products as replacing the need for more effective, full featured products and services such as those that we provide. The expansion of these competitive trends could have a
+significant negative impact on our sales and financial results by causing, among other things, price reductions of our products, reduced profitability and loss of market share. 
+
+Many of our competitors have greater financial, technical, sales, marketing, or other resources than we do and
+consequently may have the ability to influence customers to purchase their products instead of ours. Further consolidation within our industry or other changes in the competitive environment, such as Intel Corporation’s
+
+14 
+
+Table of Contents
+
+acquisition of McAfee, could result in larger competitors that compete with us on several levels. We also face competition from many smaller companies that specialize in particular segments of
+the markets in which we compete. 
+
+Our business models present execution and competitive risks. 
+
+In recent years, our SaaS offerings have become increasingly critical in our business. Our competitors are rapidly
+developing and deploying SaaS offerings for consumers and business customers. Pricing and delivery models are evolving. Devices and form factors influence how users access services in the cloud. We are devoting significant resources to develop and
+deploy our own SaaS strategies. We cannot assure you that our investments in and development of SaaS offerings will achieve the expected returns for us or that we will be able to compete successfully in the marketplace. In addition to software
+development costs, we are incurring costs to build and maintain infrastructure to support SaaS offerings. These costs may reduce the operating margins we have previously achieved. Whether we are successful in this business model depends on our
+execution in a number of areas, including: 
+
+•
+
+ Continuing to innovate and bring to market compelling cloud-based experiences that generate increasing traffic and market share; and
+
+•
+
+ Ensuring that our SaaS offerings meet the reliability expectations of our customers and maintain the security of their data.
+
+Our increasing focus on the delivery of products in an appliance form factor creates new business and
+financial risks. 
+
+During fiscal 2012, we began shipping more products to customers in an appliance form
+factor, and we expect this trend to continue. The delivery of solutions in the form of appliances creates new business and financial risks, including the following: 
+
+•
+
+ increased cost of components and contract manufacturing, as we do not own our manufacturing facilities; 
+
+•
+
+ supply chain issues, including financial problems of contract manufacturers or component suppliers; 
+
+•
+
+ a shortage of adequate component supply or manufacturing capacity that increases our costs and/or causes a delay in order fulfillment;
+
+•
+
+ excess inventory levels, which could lead to write-downs or obsolescence charges; 
+
+•
+
+ additional reserves for product returns; 
+
+•
+
+ challenges in managing our channel business; 
+
+•
+
+ tax and trade compliance complications; and 
+
+•
+
+ local field support of customers’ appliances. 
+
+We cannot assure you that we will continue to have success in our appliance business. 
+
+Defects or disruptions in our SaaS offerings could reduce demand for our services and subject us to substantial liability.
+
+Our SaaS offerings may contain errors or defects that users identify after they begin using them that
+could result in unanticipated service interruptions, which could harm our reputation and our business. Since our customers use our SaaS offerings for mission-critical protection from threats to electronic information, endpoint devices, and computer
+networks, any errors, defects, disruptions in service or other performance problems with our SaaS offerings could significantly harm our reputation and may damage our customers’ businesses. If that occurs, customers could elect not to renew, or
+delay or withhold payment to us, we could lose future sales or customers may make warranty or other claims against us, which could result in an increase in our provision for doubtful accounts, an increase in collection cycles for accounts receivable
+or the expense and risk of litigation. 
+
+15 
+
+Table of Contents
+
+Risks related to the provision of our SaaS offerings could impair our ability to
+deliver our services and could expose us to liability, damage our brand and reputation or otherwise negatively impact our business. 
+
+We currently serve our SaaS-based customers from hosting facilities located across the globe. Damage to, or failure of, any significant element of these hosting facilities could result in
+interruptions in our service, which could harm our customers and expose us to liability. Interruptions or failures in our service delivery could cause customers to terminate their subscriptions with us, could adversely affect our renewal rates, and
+could harm our ability to attract new customers. Our business would also be harmed if our customers believe that our SaaS offerings are unreliable. As we continue to offer more of our software products in a SaaS-based delivery model, all
+of these risks could be exacerbated. 
+
+Our SaaS offerings also involve the storage and transmission of large
+amounts of our customers’ proprietary information, including sensitive and personally identifiable information. Breaches of our security measures or the accidental loss, inadvertent disclosure or unapproved dissemination of proprietary
+information or sensitive or confidential data about us or our customers, including the potential loss or disclosure of such information or data as a result of fraud or other forms of deception, could expose us, our customers or the individuals
+affected to a risk of loss or misuse of this information, result in litigation and potential liability for us, damage our brand and reputation or otherwise negatively impact our business. Despite our precautions and significant ongoing investments
+to protect against such breaches, our security measures could be breached at any time and could result in unauthorized third parties obtaining access to our, or our customers’ data. Any actual or perceived security vulnerabilities in our SaaS
+offerings could reduce sales, and constrain consumer and business customer adoption of our SaaS offering. In addition, the cost and operational consequences of implementing further security measures could be significant. 
+
+If we fail to manage our sales and distribution channels effectively or if our partners choose not to market and sell our products
+to their customers, our operating results could be adversely affected. 
+
+We sell our products to
+customers around the world through multi-tiered sales and distribution networks. Sales through these different channels involve distinct risks, including the following: 
+
+Direct Sales.    A significant portion of our revenues from enterprise products is derived
+from sales by our direct sales force to end-users. Special risks associated with direct sales include: 
+
+•
+
+ Longer sales cycles associated with direct sales efforts 
+
+•
+
+ Difficulty in hiring, retaining, and motivating our direct sales force 
+
+•
+
+ Substantial amounts of training for sales representatives to become productive in selling our products and services, including regular updates to
+cover new and revised products, and associated delays and difficulties in recognizing the expected benefits of investments in new products and updates. 
+
+Indirect Sales Channels.    A significant portion of our revenues is derived from sales
+through indirect channels, including distributors that sell our products to end-users and other resellers. This channel involves a number of risks, including: 
+
+•
+
+ Our lack of control over the timing of delivery of our products to end-users 
+
+•
+
+ Our resellers and distributors are generally not subject to minimum sales requirements or any obligation to market our products to their customers
+
+•
+
+ Our reseller and distributor agreements are generally nonexclusive and may be terminated at any time without cause 
+
+•
+
+ Our resellers and distributors frequently market and distribute competing products and may, from time to time, place greater emphasis on the sale of
+these products due to pricing, promotions, and other terms offered by our competitors 
+
+16 
+
+Table of Contents
+
+•
+
+ Recent consolidation of electronics retailers has increased their negotiating power with respect to hardware and software providers
+
+OEM Sales Channels.    A significant portion of our revenues is
+derived from sales through our OEM partners that incorporate our products into, or bundle our products with, their products. Our reliance on this sales channel involves many risks, including: 
+
+•
+
+ Our lack of control over the volume of systems shipped and the timing of such shipments 
+
+•
+
+ Our OEM partners are generally not subject to minimum sales requirements or any obligation to market our products to their customers
+
+•
+
+ Our OEM partners may terminate or renegotiate their arrangements with us and new terms may be less favorable due to competitive conditions in our
+markets and other factors 
+
+•
+
+ Sales through our OEM partners are subject to changes in general economic conditions, strategic direction, competitive risks, and other issues that
+could result in a reduction of OEM sales 
+
+•
+
+ The development work that we must generally undertake under our agreements with our OEM partners may require us to invest significant resources and
+incur significant costs with little or no assurance of ever receiving associated revenues 
+
+•
+
+ The time and expense required for the sales and marketing organizations of our OEM partners to become familiar with our products may make it more
+difficult to introduce those products to the market 
+
+•
+
+ Our OEM partners may develop, market, and distribute their own products and market and distribute products of our competitors, which could reduce
+our sales 
+
+If we fail to manage our sales and distribution channels successfully, these
+channels may conflict with one another or otherwise fail to perform as we anticipate, which could reduce our sales and increase our expenses as well as weaken our competitive position. Some of our distribution partners have experienced financial
+difficulties in the past, and if our partners suffer financial difficulties in the future because of general economic conditions or for other reasons, these partners may delay paying their obligations to us and we may have reduced sales or increased
+bad debt expense that could adversely affect our operating results. In addition, reliance on multiple channels subjects us to events that could cause unpredictability in demand, which could increase the risk that we may be unable to plan effectively
+for the future, and could result in adverse operating results in future periods. 
+
+We are currently planning and
+designing information systems enhancements, and problems with the design or implementation of these enhancements could interfere with our business and operations. 
+
+We are currently in the process of significantly enhancing our information systems, including planning and designing a new
+enterprise resource planning system. The implementation of significant enhancements to information systems is frequently disruptive to the underlying business of an enterprise, which may especially be the case for us due to the size and complexity
+of our businesses. Any disruptions relating to our systems enhancements, particularly any disruptions impacting our operations during the design or implementation periods, could adversely affect our ability to process customer orders, ship products,
+provide services and support to our customers, bill and track our customers, fulfill contractual obligations, and otherwise run our business. Even if we do not encounter these adverse effects, the planning, designing and implementation may be much
+more costly than we anticipated. If we are unable to successfully plan, design or implement the information systems enhancements as planned, our financial position, results of operations, and cash flows could be negatively impacted. 
+
+17 
+
+Table of Contents
+
+We have grown, and may continue to grow, through acquisitions, which gives rise to
+risks and challenges that could adversely affect our future financial results. 
+
+We have in the past
+acquired, and we expect to acquire in the future, other businesses, business units, and technologies. Acquisitions can involve a number of special risks and challenges, including: 
+
+•
+
+ Complexity, time, and costs associated with the integration of acquired business operations, workforce, products, and technologies
+
+•
+
+ Diversion of management time and attention 
+
+•
+
+ Loss or termination of employees, including costs associated with the termination or replacement of those employees 
+
+•
+
+ Assumption of liabilities of the acquired business, including litigation related to the acquired business 
+
+•
+
+ The addition of acquisition-related debt as well as increased expenses and working capital requirements 
+
+•
+
+ Dilution of stock ownership of existing stockholders 
+
+•
+
+ Substantial accounting charges for restructuring and related expenses, write-off of in-process research and development, impairment of goodwill,
+amortization of intangible assets, and stock-based compensation expense 
+
+If integration of
+our acquired businesses is not successful, we may not realize the potential benefits of an acquisition or suffer other adverse effects. To integrate acquired businesses, we must implement our technology systems in the acquired operations and
+integrate and manage the personnel of the acquired operations. We also must effectively integrate the different cultures of acquired business organizations into our own in a way that aligns various interests, and may need to enter new markets in
+which we have no or limited experience and where competitors in such markets have stronger market positions. 
+
+Any of the foregoing, and other factors, could harm our ability to achieve anticipated levels of profitability from our
+acquired businesses or to realize other anticipated benefits of acquisitions. 
+
+Our financial condition and results of
+operations could be adversely affected if we do not effectively manage our liabilities. 
+
+As a result of
+the sale of our 1.00% convertible senior notes (“1.00% notes”) in June 2006, and 2.75% senior notes (“2.75% notes”) and 4.20% senior notes (“4.20% notes”), collectively referred to as the Senior Notes in September
+2010, we have notes outstanding in an aggregate principal amount of $2.1 billion that mature at specific dates in calendar years 2013, 2015 and 2020, with approximately half of this indebtedness due in June 2013. In addition, we have entered into a
+credit facility with a borrowing capacity of $1 billion. From time to time in the future, we may also incur indebtedness in addition to the amount available under our credit facility. The maintenance of our debt levels could adversely affect
+our flexibility to take advantage of certain corporate opportunities and could adversely affect our financial condition and results of operations. We may be required to use all or a substantial portion of our cash balance to repay these notes on
+maturity unless we can obtain new financing. 
+
+Adverse global economic events may harm our business, operating results
+and financial condition. 
+
+Adverse macroeconomic conditions could negatively affect our business,
+operating results or financial condition under a number of different scenarios. During challenging economic times and periods of high unemployment, current or potential customers may delay or forgo decisions to license new products or additional
+instances of existing products, upgrade their existing hardware or operating environments (which upgrades are often a catalyst for new purchases of our software), or purchase services. Customers may also have difficulties in obtaining the requisite
+third-party financing to complete the purchase of our products and services. An adverse macroeconomic environment could also subject us to increased credit risk should customers be unable to pay us,
+
+18 
+
+Table of Contents
+
+or delay paying us, for previously purchased products and services. Accordingly, reserves for doubtful accounts and write-offs of accounts receivable may increase. In addition, weakness in the
+market for end users of our products could harm the cash flow of our distributors and resellers who could then delay paying their obligations to us or experience other financial difficulties. This would further increase our credit risk exposure and,
+potentially, cause delays in our recognition of revenue on sales to these customers. 
+
+In addition, the onset
+or continuation of adverse economic conditions may make it more difficult either to utilize our existing debt capacity or otherwise obtain financing for our operations, investing activities (including potential acquisitions) or financing activities.
+Specific economic trends, such as declines in the demand for PCs, servers, and other computing devices, or softness in corporate information technology spending, could have an even more direct, and harmful, impact on our business. 
+
+Our international operations involve risks that could increase our expenses, adversely affect our operating results, and require
+increased time and attention of our management. 
+
+We derive a substantial portion of our revenues from
+customers located outside of the U.S. and we have significant operations outside of the U.S., including engineering, sales, customer support, and production. We plan to expand our international operations, but such expansion is contingent upon
+the financial performance of our existing international operations as well as our identification of growth opportunities. Our international operations are subject to risks in addition to those faced by our domestic operations, including: 
+
+•
+
+ Potential loss of proprietary information due to misappropriation or laws that may be less protective of our intellectual property rights than
+U.S. laws or that may not be adequately enforced 
+
+•
+
+ Requirements of foreign laws and other governmental controls, including trade and labor restrictions and related laws that reduce the flexibility of
+our business operations 
+
+•
+
+ Regulations or restrictions on the use, import, or export of encryption technologies that could delay or prevent the acceptance and use of
+encryption products and public networks for secure communications 
+
+•
+
+ Local business and cultural factors that differ from our normal standards and practices, including business practices that we are prohibited from
+engaging in by the Foreign Corrupt Practices Act and other anti-corruption laws and regulations 
+
+•
+
+ Central bank and other restrictions on our ability to repatriate cash from our international subsidiaries or to exchange cash in international
+subsidiaries into cash available for use in the U.S. 
+
+•
+
+ Fluctuations in currency exchange rates, economic instability and inflationary conditions could reduce our customers’ ability to obtain
+financing for software products or that could make our products more expensive or could increase our costs of doing business in certain countries 
+
+•
+
+ Limitations on future growth or inability to maintain current levels of revenues from international sales if we do not invest sufficiently in our
+international operations 
+
+•
+
+ Longer payment cycles for sales in foreign countries and difficulties in collecting accounts receivable 
+
+•
+
+ Difficulties in staffing, managing, and operating our international operations, including difficulties related to administering our stock plans in
+some foreign countries 
+
+•
+
+ Difficulties in coordinating the activities of our geographically dispersed and culturally diverse operations 
+
+•
+
+ Seasonal reductions in business activity in the summer months in Europe and in other periods in other countries 
+
+•
+
+ Costs and delays associated with developing software and providing support in multiple languages 
+
+•
+
+ Political unrest, war, or terrorism, or regional natural disasters, particularly in areas in which we have facilities 
+
+19 
+
+Table of Contents
+
+A significant portion of our transactions outside of the U.S. are
+denominated in foreign currencies. Accordingly, our revenues and expenses will continue to be subject to fluctuations in foreign currency rates. We expect to be affected by fluctuations in foreign currency rates in the future, especially if
+international sales continue to grow as a percentage of our total sales or our operations outside the United States continue to increase. 
+
+The level of corporate tax from sales to our non-U.S. customers is generally less than the level of tax from sales to our U.S. customers. This benefit is contingent upon existing tax regulations
+in the U.S. and in the countries in which our international operations are located. Future changes in domestic or international tax regulations could adversely affect our ability to continue to realize these tax benefits. 
+
+Our products are complex and operate in a wide variety of computer configurations, which could result in errors or product
+failures. 
+
+Because we offer very complex products, undetected errors, failures, or bugs may occur,
+especially when products are first introduced or when new versions are released. Our products are often installed and used in large-scale computing environments with different operating systems, system management software, and equipment and
+networking configurations, which may cause errors or failures in our products or may expose undetected errors, failures, or bugs in our products. Our customers’ computing environments are often characterized by a wide variety of standard and
+non-standard configurations that make pre-release testing for programming or compatibility errors very difficult and time-consuming. In addition, despite testing by us and others, errors, failures, or bugs may not be found in new products or
+releases until after commencement of commercial shipments. In the past, we have discovered software errors, failures, and bugs in certain of our product offerings after their introduction and, in some cases, have experienced delayed or lost revenues
+as a result of these errors. 
+
+Errors, failures, or bugs in products released by us could result in negative
+publicity, damage to our brand, product returns, loss of or delay in market acceptance of our products, loss of competitive position, or claims by customers or others. Many of our end-user customers use our products in applications that are critical
+to their businesses and may have a greater sensitivity to defects in our products than to defects in other, less critical, software products. In addition, if an actual or perceived breach of information integrity or availability occurs in one of our
+end-user customer’s systems, regardless of whether the breach is attributable to our products, the market perception of the effectiveness of our products could be harmed. Alleviating any of these problems could require significant expenditures
+of our capital and other resources and could cause interruptions, delays, or cessation of our product licensing, which could cause us to lose existing or potential customers and could adversely affect our operating results. 
+
+If we do not protect our proprietary information and prevent third parties from making unauthorized use of our products and
+technology, our financial results could be harmed. 
+
+Most of our software and underlying technology is
+proprietary. We seek to protect our proprietary rights through a combination of confidentiality agreements and procedures and through copyright, patent, trademark, and trade secret laws. However, all of these measures afford only limited protection
+and may be challenged, invalidated, or circumvented by third parties. Third parties may copy all or portions of our products or otherwise obtain, use, distribute, and sell our proprietary information without authorization. 
+
+Third parties may also develop similar or superior technology independently by designing around our patents. Our
+shrink-wrap license agreements are not signed by licensees and therefore may be unenforceable under the laws of some jurisdictions. Furthermore, the laws of some foreign countries do not offer the same level of protection of our proprietary rights
+as the laws of the U.S., and we may be subject to unauthorized use of our products in those countries. The unauthorized copying or use of our products or proprietary information could result in reduced sales of our products. Any legal action to
+protect proprietary information that we may bring or 
+
+20 
+
+Table of Contents
+
+be engaged in with a strategic partner or vendor could adversely affect our ability to access software, operating system, and hardware platforms of such partner or vendor, or cause such partner
+or vendor to choose not to offer our products to their customers. In addition, any legal action to protect proprietary information that we may bring or be engaged in, alone or through our alliances with the Business Software Alliance
+(“BSA”), or the Software & Information Industry Association (“SIIA”), could be costly, may distract management from day-to-day operations, and may lead to additional claims against us, which could adversely affect our
+operating results. 
+
+In January 2012, we became aware of disclosure of the source code for 2006-era versions of
+certain of our Norton and pcAnywhere products, which we believe was the result of a theft of source code that occurred in 2006. Any unauthorized disclosure of a significant portion of this source code could result in the loss of future trade secret
+protection for that source code. This could make it easier for third parties to compete with our products by copying functionality, which could adversely affect our revenue, operating margins, results of operations and cash flows, as well as our
+reputation. Unauthorized disclosure of the source code also could increase the security risks described under “Our software products, SaaS Offerings and website may be subject to intentional disruption that could adversely impact our reputation
+and future sales” below. 
+
+From time to time we are a party to class action and other lawsuits, which often require
+significant management time and attention and result in significant legal expenses, and which could, if not determined favorably, negatively impact our business, financial condition, results of operations, and cash flows. 
+
+We have been named as a party to class action lawsuits, and we may be named in additional litigation. The expense of
+defending such litigation may be costly and divert management’s attention from the day-to-day operations of our business, which could adversely affect our business, results of operations, and cash flows. In addition, an unfavorable outcome in
+such litigation could result in significant monetary damages or injunctive relief that could negatively impact our ability to conduct our business, results of operations, and cash flows. 
+
+Third parties claiming that we infringe their proprietary rights could cause us to incur significant legal expenses and prevent us
+from selling our products. 
+
+From time to time, we receive claims that we have infringed the
+intellectual property rights of others, including claims regarding patents, copyrights, and trademarks. Because of constant technological change in the segments in which we compete, the extensive patent coverage of existing technologies, and the
+rapid rate of issuance of new patents, it is possible that the number of these claims may grow. In addition, former employers of our former, current, or future employees may assert claims that such employees have improperly disclosed to us
+the confidential or proprietary information of these former employers. Any such claim, with or without merit, could result in costly litigation and distract management from day-to-day operations. If we are not successful in defending such claims, we
+could be required to stop selling, delay shipments of, or redesign our products, pay monetary amounts as damages, enter into royalty or licensing arrangements, or satisfy indemnification obligations that we have with some of our customers. We cannot
+assure you that any royalty or licensing arrangements that we may seek in such circumstances will be available to us on commercially reasonable terms or at all. We have made and expect to continue making significant expenditures to investigate,
+defend and settle claims related to the use of technology and intellectual property rights as part of our strategy to manage this risk. 
+
+In addition, we license and use software from third parties in our business. These third party software licenses may not continue to be available to us on acceptable terms or at all, and may expose us to
+additional liability. This liability, or our inability to use any of this third party software, could result in shipment delays or other disruptions in our business that could materially and adversely affect our operating results. 
+
+Our software products, SaaS Offerings and website may be subject to intentional disruption that could adversely impact our
+reputation and future sales. 
+
+Despite our precautions and significant ongoing investments to protect
+against security risks, data protection breaches, cyber-attacks and other intentional disruptions of our products and offerings, we expect to be an ongoing target of attacks specifically designed to impede the performance of our products and
+offerings and harm 
+
+21 
+
+Table of Contents
+
+our reputation as a company. Similarly, experienced computer programmers may attempt to penetrate our network security or the security of our website and misappropriate proprietary information or
+cause interruptions of our services. Because the techniques used by such computer programmers to access or sabotage networks change frequently and may not be recognized until launched against a target, we may be unable to anticipate these
+techniques. The theft or unauthorized use or publication of our trade secrets and other confidential business information as a result of such an event could adversely affect our competitive position, reputation, brand and future sales of our
+products, and our customers may assert claims against us related to resulting losses of confidential or proprietary information. Our business could be subject to significant disruption, and we could suffer monetary and other losses and reputational
+harm, in the event of such incidents and claims. 
+
+Fluctuations in our quarterly financial results have affected the
+price of our common stock in the past and could affect our stock price in the future. 
+
+Our quarterly
+financial results have fluctuated in the past and are likely to vary significantly in the future due to a number of factors, many of which are outside of our control and which could adversely affect our operations and operating results. If our
+quarterly financial results or our predictions of future financial results fail to meet our expectations or the expectations of securities analysts and investors, our stock price could be negatively affected. Any volatility in our quarterly
+financial results may make it more difficult for us to raise capital in the future or pursue acquisitions that involve issuances of our stock. Our operating results for prior periods may not be effective predictors of our future performance.
+
+Factors associated with our industry, the operation of our business, and the markets for our products may
+cause our quarterly financial results to fluctuate, including: 
+
+•
+
+ Reduced demand for any of our products 
+
+•
+
+ Entry of new competition into our markets 
+
+•
+
+ Competitive pricing pressure for one or more of our classes of products 
+
+•
+
+ Our ability to timely complete the release of new or enhanced versions of our products 
+
+•
+
+ Fluctuations in foreign currency exchange rates 
+
+•
+
+ The number, severity, and timing of threat outbreaks (e.g. worms and viruses) 
+
+•
+
+ Our resellers making a substantial portion of their purchases near the end of each quarter 
+
+•
+
+ Enterprise customers’ tendency to negotiate site licenses near the end of each quarter 
+
+•
+
+ Cancellation, deferral, or limitation of orders by customers 
+
+•
+
+ Changes in the mix or type of products sold, particularly as our business continues to evolve into new models such as SaaS and appliances
+
+•
+
+ Movements in interest rates 
+
+•
+
+ The rate of adoption of new product technologies and new releases of operating systems 
+
+•
+
+ Weakness or uncertainty in general economic or industry conditions in any of the multiple markets in which we operate that could reduce customer
+demand and ability to pay for our products and services 
+
+•
+
+ Political and military instability, which could slow spending within our target markets, delay sales cycles, and otherwise adversely affect our
+ability to generate revenues and operate effectively 
+
+•
+
+ Budgetary constraints of customers, which are influenced by corporate earnings and government budget cycles and spending objectives
+
+•
+
+ Disruptions in our business operations or target markets caused by, among other things, earthquakes, floods, or other natural disasters affecting
+our headquarters located in Silicon Valley, California, an area known for seismic activity, or our other locations worldwide 
+
+22 
+
+Table of Contents
+
+•
+
+ Acts of war or terrorism 
+
+•
+
+ Intentional disruptions by third parties 
+
+•
+
+ Health or similar issues, such as a pandemic 
+
+Any of the foregoing factors could cause the trading price of our common stock to fluctuate significantly. 
+
+Some of our products contain “open source” software, and any failure to comply with the terms of one or more of these
+open source licenses could negatively affect our business. 
+
+Certain of our products are distributed
+with software licensed by its authors or other third parties under so-called “open source” licenses, which may include, by way of example, the GNU General Public License (“GPL”), GNU Lesser General Public License
+(“LGPL”), the Mozilla Public License, the BSD License, and the Apache License. Some of these licenses contain requirements that we make available source code for modifications or derivative works we create based upon the open source
+software, and that we license such modifications or derivative works under the terms of a particular open source license or other license granting third parties certain rights of further use. By the terms of certain open source licenses, we could be
+required to release the source code of our proprietary software if we combine our proprietary software with open source software in a certain manner. In addition to risks related to license requirements, usage of open source software can lead to
+greater risks than use of third party commercial software, as open source licensors generally do not provide warranties or controls on origin of the software. We have established processes to help alleviate these risks, including a review process
+for screening requests from our development organizations for the use of open source, but we cannot be sure that all open source is submitted for approval prior to use in our products. In addition, many of the risks associated with usage of open
+source cannot be eliminated, and could, if not properly addressed, negatively affect our business. 
+
+If we are unable to
+adequately address increased customer demands on our technical support services, our relationships with our customers and our financial results may be adversely affected. 
+
+We offer technical support services with many of our products. We may be unable to respond quickly enough to accommodate
+short-term increases in customer demand for support services. We also may be unable to modify the format of our support services to compete with changes in support services provided by competitors or successfully integrate support for our customers.
+Further customer demand for these services, without corresponding revenues, could increase costs and adversely affect our operating results. 
+
+We have outsourced a substantial portion of our worldwide consumer support functions to third party service providers. If these companies experience financial difficulties, do not maintain sufficiently
+skilled workers and resources to satisfy our contracts, or otherwise fail to perform at a sufficient level under these contracts, the level of support services to our customers may be significantly disrupted, which could materially harm our
+relationships with these customers. 
+
+Accounting charges may cause fluctuations in our quarterly financial results.
+
+Our financial results have been in the past, and may continue to be in the future, materially affected
+by non-cash and other accounting charges, including: 
+
+•
+
+ Amortization of intangible assets 
+
+•
+
+ Impairment of goodwill and other long-lived assets 
+
+•
+
+ Stock-based compensation expense 
+
+•
+
+ Restructuring charges 
+
+•
+
+ Loss on sale of a business and similar write-downs of assets held for sale 
+
+23 
+
+Table of Contents
+
+For example, during fiscal 2009, we recorded a non-cash goodwill impairment
+charge of $7.4 billion, resulting in a significant net loss for the year. Goodwill is evaluated annually for impairment in the fourth quarter of each fiscal year or more frequently if events and circumstances warrant as we determined they did
+in the third quarter of fiscal 2009, and our evaluation depends to a large degree on estimates and assumptions made by our management. Our assessment of any impairment of goodwill is based on a comparison of the fair value of each of our reporting
+units to the carrying value of that reporting unit. Our determination of fair value relies on management’s assumptions of our future revenues, operating costs, and other relevant factors. If management’s estimates of future operating
+results change, or if there are changes to other key assumptions such as the discount rate applied to future operating results, the estimate of the fair value of our reporting units could change significantly, which could result in a goodwill
+impairment charge. In addition, we evaluate our other long-lived assets, including intangible assets whenever events or circumstances occur which indicate that the value of these assets might be impaired. If we determine that impairment has
+occurred, we could incur an impairment charge against the value of these assets. 
+
+The foregoing types of
+accounting charges may also be incurred in connection with or as a result of other business acquisitions. The price of our common stock could decline to the extent that our financial results are materially affected by the foregoing accounting
+charges. 
+
+If we are unable to attract and retain qualified employees, lose key personnel, fail to integrate replacement
+personnel successfully, or fail to manage our employee base effectively, we may be unable to develop new and enhanced products and services, effectively manage or expand our business, or increase our revenues. 
+
+Our future success depends upon our ability to recruit and retain key management, technical, sales, marketing, finance,
+and other personnel. Our officers and other key personnel are employees-at-will, and we cannot assure you that we will be able to retain them. Competition for people with the specific skills that we require is significant. In order to attract and
+retain personnel in a competitive marketplace, we believe that we must provide a competitive compensation package, including cash and equity-based compensation. The volatility in our stock price may from time to time adversely affect our ability to
+recruit or retain employees. In addition, we may be unable to obtain required stockholder approvals of future increases in the number of shares available for issuance under our equity compensation plans, and accounting rules require us to treat the
+issuance of equity-based compensation as compensation expense. As a result, we may decide to issue fewer equity-based incentives and may be impaired in our efforts to attract and retain necessary personnel. If we are unable to hire and retain
+qualified employees, or conversely, if we fail to manage employee performance or reduce staffing levels when required by market conditions, our business and operating results could be adversely affected. 
+
+From time to time, key personnel leave our company. While we strive to reduce the negative impact of such changes, the
+loss of any key employee could result in significant disruptions to our operations, including adversely affecting the timeliness of product releases, the successful implementation and completion of company initiatives, the effectiveness of our
+disclosure controls and procedures and our internal control over financial reporting, and the results of our operations. In addition, hiring, training, and successfully integrating replacement sales and other personnel could be time consuming, may
+cause additional disruptions to our operations, and may be unsuccessful, which could negatively impact future revenues. 
+
+Our effective tax rate may increase, which could increase our income tax expense and reduce (increase) our net income (loss).
+
+Our effective tax rate could be adversely affected by several factors, many of which are outside of
+our control, including: 
+
+•
+
+ Changes in the relative proportions of revenues and income before taxes in the various jurisdictions in which we operate that have differing
+statutory tax rates 
+
+•
+
+ Changing tax laws, regulations, and interpretations in multiple jurisdictions in which we operate as well as the requirements of certain tax rulings
+
+24 
+
+Table of Contents
+
+•
+
+ The tax effects of purchase accounting for acquisitions and restructuring charges that may cause fluctuations between reporting periods
+
+•
+
+ Tax assessments, or any related tax interest or penalties, could significantly affect our income tax expense for the period in which the settlements
+take place 
+
+The price of our common stock could decline if our financial results are
+materially affected by an adverse change in our effective tax rate. 
+
+We report our results of operations based
+on our determination of the aggregate amount of taxes owed in the tax jurisdictions in which we operate. From time to time, we receive notices that a tax authority in a particular jurisdiction has determined that we owe a greater amount of tax than
+we have reported to such authority. We are regularly engaged in discussions and sometimes disputes with these tax authorities. We are engaged in disputes of this nature at this time. If the ultimate determination of our taxes owed in any of these
+jurisdictions is for an amount in excess of the tax provision we have recorded or reserved for, our operating results, cash flows, and financial condition could be adversely affected. 
+
+Our stock price may be volatile in the future, and you could lose the value of your investment. 
+
+The market price of our common stock has experienced significant fluctuations in the past and may continue to fluctuate in
+the future, and as a result you could lose the value of your investment. The market price of our common stock may be affected by a number of factors, including: 
+
+•
+
+ Announcements of quarterly operating results and revenue and earnings forecasts by us that fail to meet or be consistent with our earlier
+projections or the expectations of our investors or securities analysts 
+
+•
+
+ Announcements by either our competitors or customers that fail to meet or be consistent with their earlier projections or the expectations of our
+investors or securities analysts 
+
+•
+
+ Rumors, announcements, or press articles regarding our or our competitors’ operations, management, organization, financial condition, or
+financial statements 
+
+•
+
+ Changes in revenue and earnings estimates by us, our investors, or securities analysts 
+
+•
+
+ Accounting charges, including charges relating to the impairment of goodwill 
+
+•
+
+ Announcements of planned acquisitions or dispositions by us or by our competitors 
+
+•
+
+ Announcements of new or planned products by us, our competitors, or our customers 
+
+•
+
+ Gain or loss of a significant customer, partner, reseller or distributor 
+
+•
+
+ Inquiries by the SEC, NASDAQ, law enforcement, or other regulatory bodies 
+
+•
+
+ Acts of terrorism, the threat of war, and other crises or emergency situations 
+
+•
+
+ Economic slowdowns or the perception of an oncoming economic slowdown in any of the major markets in which we operate 
+
+The stock market in general, and the market prices of stocks of technology companies in particular, have experienced
+extreme price volatility that has adversely affected, and may continue to adversely affect, the market price of our common stock for reasons unrelated to our business or operating results.

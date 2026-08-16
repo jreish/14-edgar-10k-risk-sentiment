@@ -1,0 +1,870 @@
+Forward Looking Statements
+
+We, or our representatives, from time to time may make or may have made certain forward-looking statements, either orally or in writing, including without limitation statements made or to be made in this Form 10-K, our quarterly reports on Form 10-Q, information contained in other filings with the SEC, press releases and other public documents or statements. In addition, our representatives, from time to time, participate in speeches and calls with market analysts, conferences with investors or potential investors in our securities and other meetings and conferences. Some of the information presented at these speeches, calls, meetings and conferences may include forward-looking statements. We use words like “plan,” “estimate,” “expect,” “anticipate,” “believe,” “intend,” “goal,” “seek,” “project,” “strategy,” “future,” “likely,” “may,” “should,” “will” and similar references to future periods to identify forward-looking statements.
+
+We wish to ensure that all forward-looking statements are accompanied by meaningful cautionary statements, so as to ensure to the fullest extent possible the protections of the safe harbor established in the U.S. Private Securities Litigation Reform Act of 1995. Accordingly, all forward-looking statements are qualified in their entirety by reference to, and are accompanied by, the following discussion of certain important factors that could cause actual results to differ materially from those projected in these forward-looking statements. We caution the reader that this list of important factors may not be exhaustive. We operate in a rapidly changing business, and new risk factors emerge from time to time.
+
+Forward-looking statements are neither historical facts nor assurances of future performance. Instead, they are based only on our current beliefs, expectations, and assumptions regarding the future of our business, future plans and strategies, projections, anticipated events and trends, the economy and other future conditions. Because forward-looking statements relate to the future, they are subject to inherent uncertainties, risks and changes in circumstances that are difficult to predict and many of which 
+
+ 37
+
+Table of Contents
+
+are outside of our control.
+
+We cannot predict every risk factor, nor can we assess the effect, if any, of all such risk factors on our business or the extent to which any factor, or combination of factors, may cause actual results to differ materially from those projected in any forward-looking statements. Accordingly, forward-looking statements should not be relied upon as a prediction of actual results. Further, we undertake no obligation to update forward-looking statements that may be made from time to time, whether as a result of new information, future developments or otherwise, after the date they are made to conform the statements to actual results or changes in our expectations.
+
+For more information about our results of operations and financial condition, you should see the discussion included under Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations,” appearing later in this Form 10-K.
+
+Risks Related to our Business Operations
+
+We need to increase Core Network Services revenue from the services that we offer to realize our targets for financial and operating performance.
+
+We must increase Core Network Services revenue at acceptable margins to realize our targets for financial and operating performance, including free cash flow. If:
+
+•
+
+we do not avoid excessive customer churn or improve our current relationships with existing key customers;
+
+•
+
+we are not able to expand the available capacity on our network to meet our customers’ demands in a timely manner; or
+
+•
+
+our customers determine to obtain these services from either their own network or from one of our competitors,
+
+we may not be able to increase or maintain our Core Network Services revenue at acceptable margins as well as our free cash flow, which would adversely affect our ability to become and/or remain profitable.
+
+Although we expect that the acquisition of tw telecom will result in benefits to us, we may not realize those benefits because of integration difficulties and other challenges.
+
+The success of our acquisition of tw telecom depends in large part on the success of management in integrating the operations, strategies, technologies, network infrastructure and personnel of the two companies. We may fail to realize some or all of the anticipated benefits of the tw telecom acquisition if the integration process takes longer or is more costly than expected. Our failure to meet the challenges involved in successfully integrating the operations of tw telecom or to otherwise realize any of the anticipated benefits of the tw telecom acquisition could impair our operations. In addition, we anticipate that the overall integration of tw telecom will be a time-consuming and expensive process that, without proper planning and effective and timely implementation, could significantly disrupt our business.
+
+ Potential difficulties the combined business may encounter in the integration process include the following:
+
+•
+
+the integration of management teams, strategies, technologies, operations, accounting and data processing systems, management controls, products and services; 
+
+•
+
+the disruption of ongoing businesses and distraction of the management team from ongoing business concerns; 
+
+•
+
+the retention of the existing customers and/or vendors of both companies; 
+
+ 38
+
+Table of Contents
+
+•
+
+the consolidation and rationalization of network infrastructure to reduce third party costs and improve profitability; 
+
+•
+
+the reduction of costs associated with each company’s operations; 
+
+•
+
+the creation of uniform standards, controls, procedures, policies and information systems; 
+
+•
+
+the consolidation and rationalization of information technology platforms and administrative infrastructures; 
+
+•
+
+the integration of corporate cultures and maintenance of employee morale; 
+
+•
+
+the retention of key employees; and 
+
+•
+
+potential unknown liabilities associated with the tw telecom acquisition. 
+
+The anticipated benefits and synergies include the combination of offices in various locations and the elimination of numerous technology systems, duplicative personnel and duplicative market and other data sources. However, these anticipated benefits and synergies assume a successful integration and are based on projections, which are inherently uncertain, and other assumptions. Even if integration is successful, anticipated benefits and synergies may not be achieved.
+
+Our business requires the continued development of effective business support systems and uniform standards, controls and policies to implement customer orders and to provide and bill for services.
+
+Our business depends on our ability to continue to develop and manage effective business support systems. In certain cases, the development of these business support systems is required to realize anticipated benefits from both past and future acquisitions. The development and management of business support systems is a complicated undertaking requiring significant resources and expertise, the development of uniform standards, controls, procedures and policies and the efficient consolidation and elimination of business support systems that are no longer useful in the business. This undertaking also requires support from third-party vendors. Following the development of the business support systems, the data migration regarding network and circuit inventory must be completed for the full benefit of the systems to be realized. Business support systems are needed for:
+
+•
+
+quoting, accepting and inputting customer orders for services;
+
+•
+
+provisioning, installing and delivering services;
+
+•
+
+providing customers with direct access to our information systems so that they can manage the services that they purchase from us, generally through web-based customer portals; and
+
+•
+
+billing for services.
+
+Because our business provides for continued rapid growth in the number of customers that we serve, the volume of services offered as well as the integration of any acquired companies’ business support systems, there is a need to continually develop our business support systems on a schedule sufficient to meet proposed milestone dates. The failure to continue to develop effective unified business support systems or complete the data migration regarding network and circuit inventory into these systems could materially adversely affect our ability to implement our business plans and realize anticipated benefits from our acquisitions.
+
+ 39
+
+Table of Contents
+
+We may lose customers if we experience system failures that significantly disrupt the availability and quality of the services that we provide. System failures may also cause interruptions to service delivery and the completion of other corporate functions.
+
+Our operations depend on our ability to limit and mitigate interruptions or degradation in service for customers. Interruptions in service or performance problems for whatever reason, including integration related activities, could undermine confidence in our services and cause us to lose customers or make it more difficult to attract new ones. In addition, because many of our services are critical to the businesses of many of our customers, any significant interruption or degradation in service could result in lost profits or other losses to customers. Although we generally limit our liability for service failures in our service agreements to limited service credits (generally in the form of free service for a short period of time) and generally exclude any liability for “consequential” damages such as lost profits, a court might not enforce these limitations on liability in the manner contemplated, which could expose us to financial loss. In addition, we often provide our customers with committed service levels. If we are unable to meet these service level commitments, we may be obligated to provide service credits or other compensation to our customers. Because we offer emergency notification services referred to as “911” services, any significant interruption or degradation in those services could create legal and financial exposure.
+
+The failure of any equipment or facility on our network, including our network operations control centers and network data storage locations, could result in the interruption of customer service and other corporate functions until necessary repairs are effected or replacement equipment is installed. In addition, our business continuity plans may not be adequate to address a particular failure that we experience. Delays, errors, network equipment or network facility failures, including with respect to our network operations control centers and network data storage locations, could also result from natural disasters (including natural disasters that may increase in frequency as a result of the effects of climate change), disease, accidents, terrorist acts, power losses, security breaches, vandalism or other illegal acts, computer viruses, or other causes. Our business could be significantly hurt from these delays, errors, failures or faults including as a result of:
+
+•
+
+service interruptions;
+
+•
+
+exposure to customer liability;
+
+•
+
+the inability to install new service;
+
+•
+
+the unavailability of employees necessary to provide services;
+
+•
+
+the delay in the completion of other corporate functions such as issuing bills and the preparation of financial statements; or
+
+•
+
+the need for expensive modifications to our systems and infrastructure.
+
+If our security measures are breached, or if our services are subject to attacks that degrade or deny the ability of users to access our systems, products and services, we may experience significant legal and financial exposure, our products and services may be perceived as not being secure, users and customers may curtail or stop using our products and services, and our business may be disrupted.
+
+Network and information systems and other technologies are critical to our business activities. Network and information systems-related events such as computer hackings, cyber-attacks, computer viruses, worms or other destructive or disruptive software, process breakdowns, denial of service attacks or other malicious activities, or any combination of the these items, could result in a degradation or disruption of our services, damage to our properties, equipment and data, or unauthorized disclosure of confidential information. We experience cyber-attacks against our network and information systems of 
+
+ 40
+
+Table of Contents
+
+varying degrees on a regular basis, and as a result, unauthorized parties could obtain access to our data or our customers’ data. Our security measures may also be breached due to employee error, malfeasance, or otherwise.  Additionally, outside parties may attempt to fraudulently induce our employees or customers to disclose sensitive information to gain access to our data or our customers’ data, including information subject to data protection laws and regulations such as the national laws implementing the European Union Directive on Data Protection and various U.S. federal and state laws governing the protection of health or other personally identifiable information. The risk of these systems-related events and security breaches occurring has intensified, in part because we maintain certain information necessary to conduct our businesses in digital form stored on servers connected to the Internet.
+
+While we develop and maintain systems and processes designed to prevent systems-related events and security breaches from occurring, the development and maintenance of these systems and processes is costly and requires ongoing monitoring and updating as technologies change and efforts to overcome security measures become more sophisticated. Despite our efforts, there can be no assurance that unauthorized access and security breaches will not occur in the future. In addition, because the techniques used to obtain unauthorized access, disable or degrade service, or sabotage systems change frequently and often are not recognized until launched against a target, we may be unable to anticipate these techniques or to implement adequate preventative measures.
+
+Any security breach or unauthorized access could result in significant legal and financial exposure, including in respect of customer credits, lost revenue due to business interruption, increased expenditures on security measures, monetary damages, regulatory enforcement actions, fines and/or criminal prosecution. In addition, damage to our reputation and the market perception of the effectiveness of our security measures could cause us to lose customers. Moreover, the amount and scope of insurance we maintain against losses resulting from unauthorized access or security breaches may not be sufficient to cover our losses or otherwise adequately compensate us for any disruptions to our businesses that may result.
+
+Failure to develop and introduce new services could affect our ability to compete in the industry.
+
+We continuously develop, test and introduce new services that are delivered over our communications network. These new services are intended to allow us to address new segments of the communications marketplace, address the changing communications needs of our existing customers and compete for additional customers.
+
+In certain instances, the introduction of new services requires the successful development of new technology. To the extent that upgrades of existing technology are required for the introduction of new services, the success of these upgrades may be dependent on reaching mutually acceptable terms with vendors and on vendors meeting their obligations in a timely manner.
+
+In addition, new service offerings may not be widely accepted by our customers. If our new service offerings are not widely accepted by our customers, we may terminate those service offerings and we may be required to impair any assets or technology used to develop or offer those services.
+
+If we are not able to successfully complete the development and introduction of new services in a timely manner, our business could be materially adversely affected.
+
+Our future results will suffer if we do not effectively manage expansions to our operations.
+
+We may continue to expand our operations through new product and service offerings and through additional strategic investments, acquisitions or joint ventures, some of which may involve complex technical and operational challenges. Our future success depends, in part, upon our ability to 
+
+ 41
+
+Table of Contents
+
+manage our expansion opportunities, which pose numerous risks and uncertainties, including the need to integrate new operations into our existing business in an efficient and timely manner, to combine accounting and data processing systems and management controls and to integrate relationships with customers, vendors and business partners. In addition, future acquisitions or joint ventures may involve the issuance of additional shares of our common stock, which may dilute our stockholders’ ownership.
+
+Any future acquisitions of businesses or facilities could entail a number of risks, including:
+
+•
+
+problems with the effective integration of operations;
+
+•
+
+inability to maintain key pre-acquisition business relationships;
+
+•
+
+increased operating costs;
+
+•
+
+exposure to unanticipated liabilities; and
+
+•
+
+difficulties in realizing projected efficiencies, synergies and cost savings.
+
+We continually evaluate potential investments and strategic opportunities to expand, enhance connectivity and add traffic to our network. In the future, we may seek additional investments, strategic alliances or similar arrangements, which may expose us to risks such as:
+
+•
+
+the difficulty of identifying appropriate investments, strategic allies or opportunities on terms acceptable to us;
+
+•
+
+the possibility that senior management may be required to spend considerable time negotiating agreements and monitoring these arrangements;
+
+•
+
+potential regulatory issues applicable to the telecommunications industry;
+
+•
+
+the loss or reduction in value of the capital investment;
+
+•
+
+our inability to capitalize on the opportunities presented by these arrangements; and
+
+•
+
+the possibility of insolvency of a strategic ally.
+
+We cannot assure you that our future expansion or acquisition opportunities will be successful, or that we will realize expected operating efficiencies, cost savings, revenue enhancements, synergies or other benefits.
+
+Our future growth depends upon the continued development and expansion of the Internet as a communications medium and marketplace for the distribution and consumption of data and video by businesses, consumers and governments.
+
+Achieving the anticipated benefits of our business operations will depend in part upon the continued development and expansion of the Internet as a communications medium and marketplace for the distribution and consumption of data and video by businesses, consumers and governments. The use of the Internet for these purposes may not grow and expand at the rate that we anticipate or may be restricted by such things as:
+
+•
+
+actions by ISPs or the owners of access networks that restrict us from delivering our customers’ traffic to the users of those networks;
+
+•
+
+future regulation;
+
+ 42
+
+Table of Contents
+
+•
+
+a lack of anticipated technology innovation and adoption; or
+
+•
+
+a lack of continued broadband penetration both in the United States and elsewhere.
+
+Intellectual property and proprietary rights of others could prevent us from using necessary technology to provide our services or subject us to expensive intellectual property litigation.
+
+If technology that is necessary for us to provide our services was determined by a court to infringe a patent held by another entity that is unwilling to grant us a license on terms acceptable to us, we could be precluded by a court order from using that technology and we would likely be required to pay a significant monetary damages award to the patent holder. The successful enforcement of these patents, or our inability to negotiate a license for these patents on acceptable terms, could force us to cease using the relevant technology and offering services incorporating the technology. In the event that a claim of infringement was brought against us based on the use of our technology or against our customers based on their use of our services for which we are obligated to indemnify, we could be subject to litigation to determine whether such use or sale is, in fact, infringing. This litigation could be expensive and distracting, regardless of the outcome of the suit.
+
+While our own patent portfolio may deter other operating companies from bringing such actions, patent infringement claims are increasingly being asserted by patent holding companies, which do not use technology and whose sole business is to enforce patents against operators, such as us, for monetary gain. Because such patent holding companies do not provide services or use technology, the assertion of our own patents by way of counter
+‑
+claim would be largely ineffective. We have already been the subject of time-consuming and expensive patent litigation brought by certain patent holding companies and we can reasonably expect that we will face further claims in the future.
+
+Our consolidated revenue is concentrated in a limited number of customers.
+
+A significant portion of our consolidated revenue is concentrated among a limited number of customers. For the year ended December 31, 2014, our top ten customers represented approximately 17% of our total revenue. If we lost one or more of our major customers, or, if one or more of them significantly decreased or terminated orders for our services, our business would be materially and adversely affected.
+
+Continued uncertainty in the global financial markets and the global economy may negatively affect our financial results.
+
+Continued uncertainty in the global financial markets and economy may negatively affect our financial results. A prolonged period of economic decline could have a material adverse effect on our results of operations and financial condition and exacerbate some of the other risk factors we describe herein. Our operating results and financial condition could be negatively affected if, as a result of economic conditions:
+
+•
+
+customers cancel, defer or forgo purchases of our services;
+
+•
+
+customers are unable to make timely payments to us;
+
+•
+
+the demand for, and prices of, our services are reduced as a result of actions by our competitors or otherwise;
+
+•
+
+key suppliers upon which we rely are unwilling or unable to provide us with the materials we need for our network on a timely basis or on terms that we find acceptable; or
+
+ 43
+
+Table of Contents
+
+•
+
+our financial counterparties, insurance providers or other contractual counterparties are unable to, or do not meet, their contractual commitments to us.
+
+We have generated substantial net losses in the past and may continue to do so.
+
+While we did have net income of $314 million for the year ended December 31, 2014, we incurred net losses of approximately $109 million and $422 million, respectively for the years ended December 31, 2013 and 2012. Although we anticipate that our operating results will continue to improve over time, there can be no assurance that the recent level of operating results will continue and that currently anticipated future operating improvements will be realized on schedule or that we will be able to sustain profitability in the future. Continued net losses could limit our ability to fund expansions of our network, investments in our products and services, interest and principal payments on our debt, or other business needs.
+
+Our actual financial position and operations after the completion of the tw telecom acquisition may differ materially from the unaudited pro forma financial information that has been previously disclosed.
+
+Our unaudited pro forma combined financial statements and unaudited pro forma per share data filed with the SEC are presented for illustrative purposes only and are not necessarily indicative of what our actual financial position or results of operations would have been had the tw telecom acquisition been completed on the dates indicated. Our actual results and financial position after the tw telecom acquisition may differ materially and adversely from the unaudited pro forma financial data.
+
+Future expansion or adaptation of our network will require substantial resources, which may not be available at the time.
+
+We will need to continue to expand and adapt our network to remain competitive, which may require significant additional funding. Additional expansion and adaptations of our communications network’s electronic and software components will be necessary to respond to:
+
+•
+
+growing number of customers;
+
+•
+
+the development and launching of new services;
+
+•
+
+increased demands by customers to transmit larger amounts of data;
+
+•
+
+changes in customers’ service requirements;
+
+•
+
+technological advances by competitors; and
+
+•
+
+governmental regulations.
+
+Future expansion or adaptation of our network will require substantial additional financial, operational and managerial resources, which may not be available at the time. We may be unable to expand or adapt our network to respond to these developments on a timely basis and at a commercially reasonable cost.
+
+The market prices for many of our services have decreased in the past and may decrease in the future, resulting in lower revenue and margins than we anticipate.
+
+Over the past few years, the market prices for many of our services have decreased. These decreases resulted from downward market pressure and other factors including:
+
+ 44
+
+Table of Contents
+
+•
+
+technological changes and network expansions which have resulted in increased transmission capacity available for sale by us and by our competitors;
+
+•
+
+some of our customer agreements contain volume based pricing; and
+
+•
+
+some of our competitors have been willing to accept smaller operating margins in the short term in an attempt to increase long-term revenue.
+
+To retain customers and revenue, we often must reduce prices in response to market conditions and trends. As our prices for some of our services decrease, our operating results may suffer unless we are able to either reduce our operating expenses or increase traffic volume from which we can derive additional revenue.
+
+The need to obtain additional capacity for our network from other providers increases our costs. In addition, the need to interconnect our network to networks that are controlled by others could increase our costs.
+
+We use network resources owned by other companies for portions of our network. We obtain the right to use such network portions, including both telecommunications capacity and rights to use dark fiber, through operating leases and IRU agreements. In several of those agreements, the counter party is responsible for network maintenance and repair. If a counter party to a lease or IRU suffers financial distress or bankruptcy, we may not be able to enforce our rights to use these network assets or, even if we could continue to use these network assets, we could incur material expenses related to maintenance and repair. We could also incur material expenses if we were required to locate alternative network assets. We may not be successful in obtaining reasonable alternative network assets if needed. Failure to obtain usage of alternative network assets, if necessary, could have a material adverse effect on our ability to carry on business operations. In addition, some of our agreements with other providers require the payment of amounts for services whether or not those services are used.
+
+In the normal course of business, we need to enter into interconnection agreements, including IP interconnection for voice and data services, with many domestic and foreign local telephone companies as well as the owners of networks that our customers desire to access to deliver their services. We are not always able to secure these interconnection agreements on favorable terms.
+
+Costs of obtaining service from other communications carriers comprise a significant proportion of the operating expenses of long distance carriers. Similarly, a large proportion of the costs of providing international service consists of payments to other carriers. Changes in regulation, particularly the regulation of local and international telecommunication carriers and local access network owners, could indirectly, but significantly, affect our competitive position. These changes could increase or decrease the costs of providing our services.
+
+Our operations are subject to regulation in each of the countries in which we operate and require us to obtain and maintain a number of governmental licenses and permits. If we fail to comply with those regulatory requirements or to obtain and maintain those licenses and permits, including payment of related fees, if any, we may not be able to conduct our business in that jurisdiction. Moreover, those regulatory requirements could change in a manner that significantly increases our costs or otherwise adversely affects our operations.
+
+In the ordinary course of constructing our networks and providing our services, we are required to obtain and maintain a variety of telecommunications and other licenses and authorizations in the countries in which we operate, as well as rights-of-way from utilities, railroads, incumbent carriers and other persons. We also must comply with a variety of regulatory obligations. Due to the political and economic risks associated with the countries in which we operate, there can be no assurance that we will be able to maintain our licenses or that they will be renewed upon their expiration. Our failure to obtain or 
+
+ 45
+
+Table of Contents
+
+maintain necessary licenses, authorizations and rights-of-way, or to comply with the obligations imposed upon license holders including the payment of fees, in one or more countries, may result in sanctions or additional costs, including the revocation of authority to provide services in one or more countries.
+
+In addition, our subsidiaries are defendants in several lawsuits that, among other things, challenge the subsidiaries’ use of rights-of-way. The plaintiffs have sought to have these lawsuits certified as class actions. It is possible that additional suits challenging use of our rights-of-way will be filed and that those plaintiffs also may seek class certification. The outcome of such litigation may increase our costs and adversely affect our operating results.
+
+Our operations around the world are subject to regulation at the regional level (for example, the European Union), the national level (for example, the FCC) and, in many cases, at the state, provincial, and local levels. We also operate in some areas of the world without licenses, but only as permitted through relationships with locally licensed partners. The regulation of telecommunications networks and services around the world varies widely. In some countries, the range of services that we are legally permitted to provide may be limited, or may change. In other countries, existing telecommunications legislation is in the process of development, is unclear or inconsistent, or is applied in an unequal or discriminatory fashion, or inadequate judicial, regulatory or other forums are available to address these inadequacies or disputes. Changes to existing regulations or rules, or the failure to regulate going forward in areas which have historically been regulated on matters such as network neutrality, licensing fees, environmental, health and safety, privacy, intercarrier compensation, interconnection and other areas, in general or particular to our industry, may increase costs, restrict operations or decrease revenue. Our inability or failure to comply with the telecommunications and other laws and regulations of one or more of the countries in which we operate could result in the temporary or permanent suspension of operations in one or more countries. We also may be prohibited from entering certain countries at all or from providing all of our services in one or more countries. In addition, many of the countries in which we operate are conducting regulatory or other proceedings that will affect the implementation of their telecommunications legislation. We cannot be certain of the outcome of these proceedings. These proceedings may affect the manner in which we are permitted to provide our services in these countries as well as the level of fees and taxes payable to the government.
+
+Termination of relationships with key suppliers could cause delay and additional costs.
+
+Our business is dependent on third-party suppliers for fiber, computers, software, optronics, transmission electronics and related components as well as providers of network colocation facilities and right of way rights that are integrated into our network, some of which are critical to the operation of our business. If any of these critical relationships is terminated, a supplier either exits or curtails its business as a result of economic conditions, a supplier fails to provide critical rights of use, services or equipment, or the supplier is forced to stop providing services due to legal constraints, such as patent infringement, and we are unable to reach suitable alternative arrangements quickly, we may experience significant additional costs or we may not be able to provide certain services to customers.
+
+ILECs may not provide us local access services at prices that allow us to effectively compete.
+
+We acquire a significant portion of our local access services, the connection between our owned network and the customer premises, from incumbent local exchange carriers or ILECs. The ILECs compete directly with our business and may have a tendency to favor themselves and their affiliates to our detriment. For instance, at the end of 2013, AT&T attempted to eliminate its longer term plans (and correspondingly larger discounts) used routinely by us to purchase certain local access services from AT&T. The price increases we would have seen as the result of the loss of these larger discounts, price increases we would have had little choice but to pass on to our customers, would have made competing with AT&T in its operating region more difficult. We and others objected to AT&T’s filings at the FCC, and following FCC intervention, AT&T withdrew these unilateral price increases. We are unable to predict 
+
+ 46
+
+Table of Contents
+
+what AT&T may try next, and what other incumbent telephone companies may pursue in this regard. Network access represents a very large portion of our total costs and if we face less favorable pricing and provisioning timeframes, we may be at a competitive disadvantage to the ILECs.
+
+In some instances it is expensive and difficult to switch new customers to our network, and lack of cooperation of incumbent carriers can slow the new customer connection process.
+
+It is expensive, difficult and time-consuming for new customers to switch to our network if we require cooperation from the incumbent carrier in instances where there is no direct connection between the customer and our network. Many of our principal competitors, the domestic and international incumbent carriers, are already established providers of local telephone services to all or virtually all telephone subscribers within their respective service areas. Their physical connections from their premises to those of their customers are expensive and difficult to duplicate. To complete the new customer provisioning process for a customer’s location that is not located on our network, we rely on the incumbent carrier to process certain information. The incumbent carriers have a financial interest in retaining their customers, which could reduce their willingness to cooperate with our new customer provisioning requests, thereby adversely affecting our ability to compete and increase revenue. Further consolidation of incumbent carriers with other telecommunications service providers may make these problems more acute.
+
+We may be liable for the information that content owners or distributors distribute over our network.
+
+The law relating to the liability of private network operators for information carried on or disseminated through their networks is still unsettled. While we disclaim any liability for third-party content in our services agreements, we may become subject to legal claims relating to the content disseminated on our network, even though such content is owned or distributed by our customers or a customer of our customers. For example, lawsuits may be brought against us claiming that material distributed using our network was inaccurate, offensive, or violated the law or the rights of others. Claims could also involve matters such as defamation, invasion of privacy and copyright infringement. In addition, the law remains unclear over whether content may be distributed from one jurisdiction, where the content is legal, into another jurisdiction, where it is not. Companies operating private networks have been sued in the past, sometimes successfully, based on the nature of material distributed, even if the content is not owned by the network operator and the network operator has no knowledge of the content or its legality. It is not practical for us to monitor all of the content that is distributed using our network. We may need to take costly measures to reduce our exposure to these risks or to defend ourselves against such claims.
+
+We may not be able to efficiently and effectively integrate future acquired operations and thus may not fully realize the anticipated benefits from those future acquisitions.
+
+Achieving the anticipated benefits of any acquisitions depends in part upon whether we can integrate our businesses in an efficient and effective manner. We may acquire businesses in accordance with our business strategy. The integration of any acquired businesses involves a number of risks, including, but not limited to:
+
+•
+
+demands on management related to any significant increase in size after the acquisition;
+
+•
+
+the disruption of ongoing business and the diversion of management’s attention from the management of daily operations to management of integration activities;
+
+•
+
+failure to fully achieve expected synergies and costs savings;
+
+ 47
+
+Table of Contents
+
+•
+
+unanticipated impediments in the integration of departments, systems, including accounting systems, technologies, books and records, procedures and policies, as well as in maintaining uniform standards and controls, including internal control over financial reporting;
+
+•
+
+loss of customers or the failure of customers to order incremental services that we expect them to order;
+
+•
+
+failure to provision services that are ordered by customers during the integration period;
+
+•
+
+higher integration costs than anticipated; and
+
+•
+
+difficulties in the assimilation and retention of highly qualified, experienced employees, many of whom may be geographically dispersed.
+
+Successful integration of acquired businesses or operations depends on our ability to manage these operations, realize opportunities for revenue growth presented by strengthened service offerings and expanded geographic market coverage, obtain better terms from our vendors due to increased buying power, and eliminate redundant and excess costs to fully realize the expected synergies. Because of difficulties in combining geographically distant operations and systems which may not be fully compatible, we may not be able to achieve these objectives.
+
+We cannot be certain that we will realize our anticipated benefits from our acquisitions, or that we will be able to efficiently and effectively integrate acquired operations as planned.
+
+Changes in regulations affecting commercial power providers may increase our costs.
+
+In the normal course of business, we need to enter into agreements with many providers of commercial power for our office, network, Gateway facilities, and colocation and data center facilities. Costs of obtaining commercial power comprise a significant component of our operating expenses. Changes in regulations that affect commercial power providers, particularly regulations related to the control of greenhouse gas emissions or other climate change related matters, could affect the costs of commercial power, which may increase the costs of providing our services.
+
+Potential regulation of Internet service providers in the United States could adversely affect our operations.
+
+In the United States, the FCC has, to date, treated Internet service providers as enhanced service providers. In addition, Congress has, to date, not sought to heavily regulate the provision of IP-based services. Both Congress and the FCC are considering proposals that involve greater regulation of IP-based service providers. Depending on the content and scope of any regulations, the imposition of such regulations could have a material adverse effect on our business and the profitability of our services.
+
+The communications industry is highly competitive with participants that have greater resources and a greater number of existing customers.
+
+The communications industry is highly competitive. Many of our existing and potential competitors have financial, personnel, marketing and other resources significantly greater than ours. Many of these competitors have the added competitive advantage of a larger existing customer base. In addition, significant new or increased competition could arise as a result of:
+
+•
+
+the consolidation in the industry;
+
+•
+
+allowing foreign carriers to more extensively compete in the U.S. market;
+
+ 48
+
+Table of Contents
+
+•
+
+further technological advances; and
+
+•
+
+further deregulation and other regulatory initiatives.
+
+In addition, future significant competitors could include new entrants to the communications industry such as content companies that have existing significant customer bases and substantial cash resources that are greater than ours. If we are unable to compete successfully, our business could be significantly affected.
+
+Rapid technological changes can lead to further competition.
+
+The communications industry is subject to rapid and significant changes in technology. In addition, the introduction of new services or technologies, as well as the further development of existing services and technologies, may reduce the cost or increase the supply of certain services similar to those that we provide. As a result, our most significant competitors in the future may be new entrants to the communications industry. These new entrants may not be burdened by an installed base of outdated equipment or obsolete technology. Our future success depends, in part, on our ability to anticipate and adapt in a timely manner to technological changes.
+
+Our international operations and investments expose us to risks that could materially adversely affect the business.
+
+We have operations and investments outside of the United States, as well as rights to undersea cable capacity extending to other countries, that expose us to risks inherent in international operations. These include:
+
+•
+
+general economic, social and political conditions;
+
+•
+
+the difficulty of enforcing agreements and collecting receivables through certain foreign legal systems;
+
+•
+
+tax rates in some foreign countries may exceed those in the United States;
+
+•
+
+foreign currency exchange rates may fluctuate, which could adversely affect our results of operations and the value of our international assets and investments;
+
+•
+
+foreign earnings may be subject to withholding requirements or the imposition of tariffs, exchange controls or other restrictions;
+
+•
+
+difficulties and costs of compliance with foreign laws and regulations that impose restrictions on our investments and operations, with penalties for noncompliance, including loss of licenses and monetary fines;
+
+•
+
+difficulties in obtaining licenses or interconnection arrangements on acceptable terms, if at all; and
+
+•
+
+changes in laws and regulations relating to foreign trade and investment.
+
+We are exposed to significant currency exchange rate risks and currency transfer restrictions and our results may suffer due to currency translations and remeasurements.
+
+Certain of our current and prospective customers derive their revenue in currencies other than U.S. dollars but are invoiced by us in U.S. dollars. The obligations of customers with substantial revenue in foreign currencies may be subject to unpredictable and indeterminate increases in the event that such 
+
+ 49
+
+Table of Contents
+
+currencies depreciate in value relative to the U.S. dollar. Furthermore, these customers may become subject to exchange control regulations restricting the conversion of their revenue currencies into U.S. dollars. In either event, the affected customers may not be able to pay us in U.S. dollars. Similarly, declines in the value of foreign currencies (such as the devaluation of the Brazilian real, Venezuelan bolivar and the Argentine peso discussed below) relative to the U.S. dollar could adversely affect our ability to market our services to customers whose revenue is denominated in those currencies. In addition, where we issue invoices for our services in currencies other than U.S. dollars, our net loss may suffer due to currency translations in the event that such currencies depreciate relative to the U.S. dollar and we cannot or do not elect to enter into currency hedging arrangements in respect of those payment obligations.
+
+We conduct a significant portion of our business using the British pound, the euro and the Brazilian real. Appreciation of the U.S. dollar adversely affects our consolidated revenue. Since we tend to incur costs in the same currency in which those operations realize revenue, the effect on operating income and operating cash flow is largely mitigated. However, if the U.S. dollar appreciates significantly, future revenue, operating income and operating cash flows could be materially affected. In addition, the appreciation of the U.S. dollar relative to foreign currencies reduces the U.S. dollar value of cash balances held in those currencies.
+
+Certain Latin American economies (such as Venezuela and Argentina) have experienced shortages in foreign currency reserves and have adopted restrictions on the use of certain mechanisms to expatriate local earnings and convert local currencies into U.S. dollars. Any of these shortages or restrictions may limit or impede our ability to transfer or to convert those currencies into U.S. dollars and to expatriate those funds. In addition, currency devaluations in one country may have adverse effects in another country.
+
+In Venezuela, the official bolivares-U.S. dollar exchange rate established by the Venezuelan Central Bank (“BCV”) and the Venezuelan Ministry of Finance has historically attributed to the bolivar a value significantly greater than the value that prevailed on the former unregulated parallel market. 
+
+Venezuela has had an exchange control regime since 2002. Currently, such control consists of a fixed rate of exchange of Bs.6.2842 = US$1.00 for purchase operations and Bs.6.30 = US$1.00 for sale operations and for payments of public external debt, with foreign currency being allocated by the government for priority imports of goods, services and payment of certain indebtedness (the “official exchange rate”).
+
+Since the establishment of exchange controls in 2002, Venezuela, through the Foreign Currency Administration Commission (“CADIVI”) and continuing with the establishment of the National Center for Foreign Trade (“CENCOEX”), has administered an approval process for the allocation of foreign exchange at the controlled exchange rates, for payments to foreign companies in various economic sectors.
+
+Because of the detailed review process undertaken by these agencies and the complexity of the task involved in such process, delays have accumulated in the provision of foreign exchange to settle amounts outstanding to such companies. This situation has generated delays in the importation of goods and the accumulation of debts owed by importers to foreign suppliers. 
+
+Effective January 12, 2010, the Venezuelan government devalued the Venezuelan bolivar by increasing the official rate from 2.15 Venezuelan bolivares to the U.S. dollar to 4.30 for goods and services deemed “non-essential” and 2.60 for goods and services deemed “essential”. Effective January
+
+1, 2011, the Venezuelan government further increased the official rate for goods deemed “essential” to 4.30 Venezuelan bolivares to the U.S. dollar. Effective February 13, 2013, the Venezuelan government further devalued the Venezuelan bolivar by increasing the official rate to 6.30 Venezuelan bolivares to the U.S. dollar, except for a limited set of goods and services deemed “essential”
+.
+
+In an attempt to control inflation, on May 18, 2010, the Venezuelan government announced that the BCV would be given control over the previously unregulated portions of the exchange market. In June 2010, a new regulated currency trading system controlled by the BCV, the Transaction System for Foreign 
+
+ 50
+
+Table of Contents
+
+Currency Denominated Securities (“SITME”), commenced operations and established an initial weighted average implicit exchange rate of approximately 5.30 bolivares to the U.S. dollar. Subject to the limitations and restrictions imposed by the BCV, entities domiciled in Venezuela were permitted to access the SITME by buying U.S. dollar denominated securities through banks authorized by the BCV. SITME was intended to supplement the CADIVI application and approval process with an additional process that allowed for quicker and smaller exchanges, albeit at a less favorable exchange rate. However, in connection with the February 13, 2013 devaluation of the bolivar, the Venezuelan government also announced the elimination of the SITME. In lieu of the SITME mechanism, the Venezuelan Government introduced the SICAD (Complementary System for Administration of Foreign Currency), a new currency trading system controlled by the BCV. Whereas SITME used a fixed exchange rate, SICAD is intended to be an auction of public foreign currency denominated securities, which results in a variable exchange rate.
+
+We use the SICAD (currently Bs.12=US$1) to record the assets, liabilities and transactions of our Venezuelan subsidiary since the telecom sector is officially subject to such exchange rate. The most recent auction procedure, called the Complementary System for the Administration of Foreign Currency II (“SICAD II”), have involved the purchase and sale of foreign exchange at rates higher than the official exchange rate. As of December 31, 2014, SICAD II’s exchange rate averaged Bs.49.9 = U,S,$1.00. 
+
+On February 10, 2015 the Venezuelan government launched a new foreign exchange platform called Marginal Currency System (“SIMADI”), which will be implemented as the third system in the Venezuelan three-tier exchange control mechanism and will allow for legal trading of foreign currency based on supply and demand. According to public announcements, the SICAD I auction system will continue to hold periodic auctions for specific sectors of the economy, while the new SIMADI market will replace the SICAD II rate. While it is still unclear what the new SIMADI exchange rate will be, the new mechanism will likely devalue the bolivar heavily and will affect the rate at which companies measure their assets and liabilities in Venezuela. The acquisition of foreign currency by Venezuelan companies to honor foreign debt, pay dividends or otherwise expatriate capital is subject to the limitations and restrictions of the CENCOEX registration, application and approval process, and is also subject to the availability of foreign currency within the guidelines set forth by the National Executive Power for the allocation of foreign currency. Approvals that were previously under the CADIVI process and are now under the CENCOEX process have been less forthcoming at times, resulting in a significant buildup of excess cash in our Venezuelan subsidiary and a significant increase in our exchange rate and exchange control risks.
+
+At December 31, 2014, we had approximately $13 million of obligations registered and subject to approval by CENCOEX for the conversion of bolivares into foreign currencies. We cannot predict the timing and extent of any CADIVI approvals to honor foreign debt, distribute dividends or otherwise expatriate capital using the official Venezuelan exchange rate. Some approvals have been issued within a few months while others have taken more than one year. In 2014, we received $2 million of approvals from CENCOEX to convert bolivares to U.S. dollars at both the essential and non-essential official rates.
+
+As of December 31, 2014, our Venezuelan subsidiary had $198 million of net assets including $68 million of cash and cash equivalents, of which $5 million was held in U.S. dollars and $63 million was held in Venezuelan bolivares. In light of the Venezuelan exchange control regime, none of these net assets (other than the $5 million of cash denominated in U.S. dollars and held outside of Venezuela) may be transferred to Level 3 or any other subsidiary of Level 3 in the form of loans, advances or cash dividends without the consent of a third-party (that is, CENCOEX).
+
+In addition, on January 24, 2014, the Venezuelan government approved a new Law on Fair Prices, which provides that the maximum profit margin for all of the activities related to the production, manufacturing, import, storage, transportation, distribution and marketing of all goods and services in the territory of the Bolivarian Republic of Venezuela shall not exceed 30% per year. It is unclear how this new law may affect our operations in Venezuela and our current pricing structure in that country.
+
+ 51
+
+Table of Contents
+
+The effects on revenue and operating income of any future bolivares devaluations are not expected to be material in light of certain pricing adjustment mechanisms in many of our contracts with Venezuelan customers and since most of our costs in Venezuela are incurred in bolivares.
+
+In Argentina, our financial statements use the official exchange rate as of each relevant date or period-end quoted by 
+Banco de la Nación Argentina
+, or “Banco Nación.” As of December 31, 2014, the official exchange rate was Argentine pesos 8.45 per $1.00 while the free market rate was approximately Argentine pesos 13.55 per $1.00. On January 23, 2014, after a series of public announcements of the Argentine National Government, the devaluation of the official exchange rate accelerated and reached Argentine pesos 8.01 per $1.00, which represented the biggest depreciation since 2002. Following such depreciation, during 2014 the Argentine peso continued to devaluate progressively to Argentine pesos 8.45 per $1.00 in December 31, 2014. It is unclear whether further measures by the Argentine National Government may accelerate the depreciation of the Argentine peso during 2015.
+
+Economic and political conditions in Latin America pose numerous risks to our operations.
+
+Our business operations in the Latin American region constitute a significant portion of our business. As events in the Latin American region have demonstrated, negative economic or political developments in one country in the region can lead to or exacerbate economic or political instability elsewhere in the region. Furthermore, events in recent years other developing markets have placed pressures on the stability of the currencies of a number of countries in Latin America in which we operate, including Argentina, Brazil, Colombia and Venezuela. While certain areas in the Latin American region have experienced economic growth, this recovery remains fragile. Pressures on local currencies are likely to have an adverse effect on our customers in this region. Volatility in regional currencies and capital markets could also have an adverse effect on our ability and that of our customers to gain access to international capital markets for necessary financing, refinancing and repatriation of earnings. Foreign currency exchange controls are currently in effect in Venezuela and Argentina, and have adversely affected our ability to repatriate cash balances from those countries.
+
+In addition, any changes to the political and economic conditions in certain Latin American countries could materially and adversely affect our business. For example, in January 2007, the Venezuelan National Assembly issued an Enabling Law allowing the President of Venezuela to carry out the nationalization of certain businesses in the electricity and energy sectors, as well as Venezuela’s largest telecommunications company, Compañía Anónima Nacional Teléfonos de Venezuela (“CANTV”). CANTV was nationalized in the same year. A statement from the Venezuelan minister of telecommunications and director of the Comisión Nacional de Telecomunicaciones, the country’s telecommunications regulatory authority, has indicated that the nationalization of CANTV does not imply the nationalization of the telecommunications sector as a whole. However, there can be no assurance that such nationalization plans will not also extend to other businesses in the telecommunications sector, including our business. The government also announced plans to modify the telecommunications law, and we cannot predict the effect of these amendments to our business. In addition, a referendum held on February 15, 2009, approved an amendment to the nation’s constitution removing presidential term limits.
+
+Inflation and certain government measures to curb inflation in some Latin American countries may have adverse effects on their economies and our business and operations in those locations.
+
+Some Latin American countries, including Venezuela, Brazil and Argentina, have historically experienced high rates of inflation. Inflation and some measures implemented to curb inflation have had significant negative effects on the economies of these countries. Governmental actions taken in an effort to curb inflation, coupled with speculation about possible future actions, have contributed to economic uncertainty at times in most Latin American countries. These countries may experience high levels of inflation in the future that could lead to further government intervention in the economy, including the 
+
+ 52
+
+Table of Contents
+
+introduction of government policies that could adversely affect our results of operations in those locations. In addition, if any of these countries experience high rates of inflation, we may not be able to adjust the price of our services sufficiently to offset the effects of inflation on our cost structures in those locations. A high inflation environment would also have negative effects on the level of economic activity and employment and adversely affect our business.
+
+Our agreements with certain agencies of the U.S. Government impose significant requirements on us. A violation of those agreements could have severe consequences.
+
+We are a party to an agreement with the U.S. Departments of Homeland Security, Justice and Defense addressing the U.S. government’s national security and law enforcement concerns. This agreement imposes significant requirements on us related to information storage and management; traffic management; physical, logical, and network security arrangements; personnel screening and training; and other matters. We are also party to an agreement with the U.S. Department of Defense addressing the U.S. government’s national security concerns. This agreement imposes significant requirements on us related to the composition and qualifications of the Level 3 Communications, Inc. board of directors; the limitation of the influence or control over us of non-U.S. persons; physical, logical, and network security arrangements; and other matters.
+
+While we expect to continue to comply fully with our obligations under both of the above-mentioned agreements, it is impossible to eliminate completely the risk of a violation of either. The consequences of a violation of these agreements could be severe, potentially including the revocation of our FCC licenses in the U.S., which would result in the cessation of our U.S. operations, and/or the loss of permissions required to do business with the U.S. Government.
+
+We are subject to the U.S. Foreign Corrupt Practices Act (the “FCPA”) and other anticorruption laws, and our failure to comply therewith could result in penalties which could harm our reputation and have a material adverse effect on our business.
+
+We are subject to the FCPA, which generally prohibits companies and their intermediaries from making improper payments to foreign officials for the purpose of obtaining or keeping business and/or other benefits. Although we have policies and procedures designed to ensure that we, our employees and agents comply with the FCPA and other anticorruption laws, there can be no assurance that such policies or procedures will work effectively all of the time or protect us against liability for actions taken by our agents, employees and intermediaries with respect to our business or any businesses that we acquire. We currently operate and in the future may operate in a number of jurisdictions that pose a high risk of potential anticorruption violations. If we are not in compliance with the FCPA and other laws governing the conduct of business with government entities (including local laws), we may be subject to criminal and civil penalties and other remedial measures. Any investigation of any potential violations of the FCPA or other anticorruption laws by U.S. or foreign authorities could have an adverse effect on our business.
+
+The U.K. Bribery Act 2010 (the “Bribery Act”) reformed the United Kingdom (“U.K.”) law in relation to bribery and corruption. As well as containing provisions concerning bribery of public officials, the Bribery Act includes a criminal offense of failing to prevent bribery by relevant commercial organizations. This offense applies when any person associated with the organization offers or accepts bribery anywhere in the world intending to obtain or retain a business advantage for the organization or in the conduct of business. The Bribery Act has wide ranging implications in particular for business in the U.K., including our subsidiaries. However, it should be noted that it also has a wide-ranging extra-territorial effect. The Bribery Act is broader in scope than the FCPA in that it directly addresses commercial bribery in addition to bribery of government officials and it does not recognize certain exceptions, notably facilitation payments that are permitted by the FCPA. Under the Bribery Act, it is a defense to the accusation of failure to prevent bribery for a commercial organization to show that it had in place “adequate procedures” designed to prevent such acts. 
+
+ 53
+
+Table of Contents
+
+As with the FCPA, if we are not in compliance with the Bribery Act as well as similar laws in the U.K. or elsewhere, such as The Federal Law n. 12.846/13, which is known as the “Brazilian Anti-corruption Law” that became effective on February 2, 2014, that are applicable to our business, we may be subject to criminal and civil penalties and other remedial measures.
+
+Risks Related to Our Liquidity and Financial Resources
+
+Disruptions in the financial markets could affect our ability to obtain debt or equity financing or to refinance our existing indebtedness on reasonable terms (or at all), and have other adverse effects on us.
+
+Disruptions in the commercial credit markets could result in a tightening of credit markets. The effects of recent credit market disruptions were widespread, and it is impossible to predict whether the improvement in the global credit markets will continue. As a result of credit market turmoil, we may not be able to obtain debt or equity financing or to refinance our existing indebtedness on favorable terms (or at all), which could affect our strategic operations and our financial performance and force modifications to our operations.
+
+If we are unable to comply with the restrictions and covenants in our debt agreements, there would be a default under the terms of these agreements, and this could result in an acceleration of payment of funds that have been borrowed.
+
+If we were unable to comply with the restrictions and covenants in any of our debt agreements, there would be a default under the terms of those agreements. As a result, borrowings under other debt instruments that contain cross-acceleration or cross-default provisions may also be accelerated and become due and payable. If any of these events occur, there can be no assurance that we would be able to make necessary payments to the lenders or that we would be able to find alternative financing. Even if we were able to obtain alternative financing, there can be no assurance that it would be on terms that are acceptable.
+
+If we experience a change in control or certain other events, we may be unable to satisfy our obligations to repurchase our outstanding notes as required under our outstanding debt agreements.
+
+Upon the occurrence of certain events defined in the various debt agreements relating to our outstanding debt, we are required to make an offer to purchase all of our outstanding notes at a purchase price generally equal to 101% of the principal amount of the notes, plus accrued and unpaid interest thereon (if any). In addition, to the extent that we are required to make an offer to purchase one of the outstanding issues of our notes, the debt agreements relating to our other issues of notes may require us to repurchase that other debt upon a change in control or termination of trading. We may not have or be able to borrow sufficient funds to pay the purchase price for all the notes tendered by holders seeking to accept the offer to purchase.
+
+We have substantial debt, which may hinder our growth and put us at a competitive disadvantage.
+
+Our substantial debt may have important consequences, including the following:
+
+•
+
+the ability to obtain additional financing for acquisitions, working capital, investments and capital or other expenditures could be impaired or financing may not be available on acceptable terms;
+
+ 54
+
+Table of Contents
+
+•
+
+a substantial portion of our cash flows will be used to make principal and interest payments on outstanding debt, reducing the funds otherwise available for operations and future business opportunities;
+
+•
+
+a substantial decrease in cash flows from operating activities or an increase in expenses could make it difficult to meet debt service requirements and force modifications to operations;
+
+•
+
+having more debt than certain of our competitors may place us at a competitive disadvantage; and
+
+•
+
+substantial debt may make us more vulnerable to a downturn in business or the economy generally.
+
+We had a ratio of earnings to fixed charges of 1.3 for the year ended December 31, 2014. We had substantial deficiencies of earnings to cover fixed charges of approximately $71 million, $374 million and $786 million for the years ended December 31, 2013, 2012 and 2011, respectively.
+
+We may not be able to repay our existing debt; failure to do so or refinance the debt could prevent us from implementing our strategy and realizing anticipated profits.
+
+If we were unable to refinance our debt or to raise additional capital on acceptable terms, our ability to operate our business would be impaired. As of December 31, 2014, we had an aggregate of approximately $11.366 billion of current and long-term debt on a consolidated basis (excluding debt discounts and fair value adjustments), and approximately $6.363 billion of stockholders’ equity. Of the long-term debt, approximately $349 million is due to mature in 2015 (including $333 million of 7% Convertible Senior Notes due 2015 that mature on March 15, 2015), $9 million is due to mature in 2016, $8 million is due in 2017 and $308 million is due in 2018, in each case excluding debt discounts and fair value adjustments.
+
+Our ability to make interest and principal payments on our debt and borrow additional funds on favorable terms depends on the future performance of the business. If we do not have enough cash flow in the future to make interest or principal payments on its debt, we may be required to refinance all or a part of our debt or to raise additional capital. We cannot be sure that we will be able to refinance our debt or raise additional capital on acceptable terms.
+
+Restrictions and covenants in our debt agreements limit our ability to conduct our business and could prevent us from obtaining needed funds in the future.
+
+Our debt and financing arrangements contain a number of significant limitations that restrict our ability to, among other things:
+
+•
+
+borrow additional money or issue guarantees;
+
+•
+
+pay dividends or other distributions to stockholders;
+
+•
+
+make investments;
+
+•
+
+create liens on assets;
+
+•
+
+sell assets;
+
+•
+
+enter into sale-leaseback transactions;
+
+ 55
+
+Table of Contents
+
+•
+
+enter into transactions with affiliates; and
+
+•
+
+engage in mergers or consolidations.
+
+Risks Related to Our Common Stock
+
+The unpredictability of our quarterly results may adversely affect the trading price of our common stock.
+
+Our revenue and operating results will vary significantly from quarter to quarter due to a number of factors, many of which are outside of our control and any of which may cause the price of our common stock to fluctuate. The primary factors, among other things, that may affect our quarterly results include the following:
+
+•
+
+the timing of costs associated with the operation of our business and integration activities with respect to any completed acquisitions;
+
+•
+
+demand for our services;
+
+•
+
+loss of customers or the ability to attract new customers;
+
+•
+
+changes in pricing policies or the pricing policies of our competitors;
+
+•
+
+costs related to acquisitions of technology or businesses;
+
+•
+
+changes in regulatory rulings; and
+
+•
+
+general economic conditions as well as those specific to the communications and related industries.
+
+A delay in generating revenue or the timing of recognizing revenue and expenses could cause significant variations in our operating results from quarter to quarter. It is possible that in some future quarters our results may be below analysts’ and investors’ expectations. In these circumstances, the price of our common stock will likely decrease.
+
+If certain transactions occur with respect to our capital stock, we may be unable to fully utilize our net operating loss carry forwards, or NOLs, to reduce our U.S. federal income taxes.
+
+As of December 31, 2014, we had NOLs of approximately $10.3 billion for U.S. federal income tax purposes (after taking into account the effects of Section 382 of the Internal Revenue Code of 1986, as amended (the “Code”)). If certain transactions occur with respect to our capital stock that result in a cumulative ownership change of more than 50 percentage points by 5% stockholders over a three-year period as determined under rules prescribed by the Code and applicable regulations, annual limitations would be imposed with respect to our ability to utilize our NOLs and certain current deductions against any taxable income we achieve in future periods.
+
+We have entered into transactions over the applicable three-year period that, when combined with other changes in ownership that are outside of our control, have resulted in cumulative changes in the ownership of our capital stock. Additional transactions that we enter into, as well as transactions by existing 5% stockholders and transactions by holders that become new 5% stockholders that we do not participate in, could cause us to incur a 50 percentage point ownership change by 5% stockholders and, if we trigger the above noted Code imposed limitations, such transactions would prevent us from fully utilizing NOLs and certain current deductions to reduce our U.S. federal income taxes. In addition, these 
+
+ 56
+
+Table of Contents
+
+limitations could cause us not to pursue otherwise favorable acquisitions and other transactions involving our capital stock, or could reduce the net benefits to be realized from any such transactions.
+
+In April 2011, we entered into the rights agreement in an effort to deter acquisitions of our common stock that might reduce our ability to use our NOLs. Under the rights agreement, from and after the record date of April 21, 2011, each share of our common stock carries with it one preferred share purchase right that could discourage a third-party from proposing a change of control or other strategic transaction concerning Level 3 or otherwise have the effect of delaying or preventing a change of control of Level 3 that other stockholders may view as beneficial. 
+
+In July 2014, the rights agreement was amended to provide that the rights issued under the rights agreement will expire at or prior to the earliest of:
+
+•
+
+October 31, 2017; 
+
+•
+
+the time at which the rights are redeemed;
+
+•
+
+the time at which the rights are exchanged;
+
+•
+
+the time at which our board of directors determines that the NOLs are utilized in all material respects or that an ownership change under Section 382 of the Internal Revenue Code of 1986, as amended, would not adversely effect in any material respect the time period in which we could use the NOLs, or materially impair the amount of the NOLs that we could use in any particular time period, for applicable tax purposes;
+
+•
+
+October 31, 2015, if approval of the rights agreement as amended by the affirmative vote of the holders of a majority of the voting power of our outstanding common stock has not been obtained prior to that date; or 
+
+•
+
+a determination by our board of directors, prior to the date that the rights are distributed, that the rights agreement and the rights are no longer in our and our stockholders’ best interests.
+
+Under our certificate of incorporation, we are able to issue more shares of our common stock than are currently outstanding. Such future issuances of our common stock may have a dilutive effect on the earnings per share and voting power of our stockholders.
+
+Our certificate of incorporation, as currently in effect, authorizes us to issue to up to 433,333,333 shares of our common stock, which is a greater number of shares of common stock than are outstanding. If our Board of Directors elects to issue additional shares of common stock in the future, whether in public offerings, in connection with mergers and acquisitions or otherwise, these additional issuances may dilute the earnings per share and voting power of our stockholders. Depending on the number of shares being issued and the particular circumstances involved, the Board of Directors may be able to complete a particular issuance without further stockholder action.
+
+Anti-takeover provisions in our charter and by-laws could limit the share price and delay a change of management.
+
+Our restated certificate of incorporation and by-laws contain provisions that could make it more difficult or even prevent a third-party from acquiring us without the approval of our incumbent Board of Directors. These provisions, among other things:
+
+•
+
+prohibit stockholder action by written consent in place of a meeting;
+
+•
+
+limit the right of stockholders to call special meetings of stockholders;
+
+ 57
+
+Table of Contents
+
+•
+
+limit the right of stockholders to present proposals or nominate directors for election at annual meetings of stockholders; and
+
+•
+
+authorize our board of directors to issue preferred stock in one or more series without any action on the part of stockholders.
+
+In addition, the terms of most of our long-term debt require that upon a “change in control,” as defined in the agreements that contain the terms and conditions of the long-term debt, we make an offer to purchase the outstanding long term debt at either 100% or 101% of the aggregate principal amount of that long term debt.
+
+These provisions could limit the price that investors might be willing to pay in the future for shares of our common stock and significantly impede the ability of the holders of our common stock to change management. Provisions and agreements that inhibit or discourage takeover attempts could reduce the market value of our common stock.
+
+If a large number of shares of our common stock is sold in the public market, the sales could reduce the trading price of our common stock and impede our ability to raise future capital.
+
+We cannot predict what effect, if any, future issuances by us of our common stock will have on the market price of our common stock. In addition, shares of our common stock that we issue in connection with an acquisition may not be subject to resale restrictions. The market price of our common stock could drop significantly if certain large holders of our common stock, or recipients of our common stock in connection with an acquisition, sell all or a significant portion of their shares of common stock or are perceived by the market as intending to sell these shares other than in an orderly manner. In addition, these sales could impair our ability to raise capital through the sale of additional common stock in the capital markets.
+
+The market price of our common stock has been volatile and, in the future, the market price of our common stock may fluctuate substantially due to a variety of factors.
+
+The market price of our common stock has been subject to volatility and, in the future, the market price of our common stock may fluctuate substantially due to a variety of factors, including:
+
+•
+
+the depth and liquidity of the trading market for our common stock;
+
+•
+
+variations in actual or anticipated operating results;
+
+•
+
+changes in estimated results by securities analysts;
+
+•
+
+market conditions in the communications and information services industries;
+
+•
+
+announcement and performance by competitors;
+
+•
+
+regulatory actions; and
+
+•
+
+general economic conditions.
+
+In addition, market fluctuations could have a material adverse effect on the market price or liquidity of our common stock.
+
+ 58
+
+Table of Contents
+
+Other Risks
+
+We have environmental liabilities from our historical operations.
+
+There could be environmental liabilities arising from historical operations of our predecessors, for which we may be liable. Our operations and properties are subject to a wide variety of laws and regulations relating to environmental protection, human health and safety. These laws and regulations include those concerning the use and management of hazardous and non-hazardous substances and wastes. We have made and will continue to make significant expenditures relating to our environmental compliance obligations. Despite our best efforts, we may not at all times be in compliance with all of these requirements.
+
+In connection with certain historical operations, we have responded to or been notified of potential environmental liability at approximately 171 properties as of January 8, 2015. We are engaged in addressing or have liquidated environmental liabilities at 87 of those properties. Of these: (a) we have formal commitments or other potential future costs at 25 sites; (b) there are eight sites with unknown future costs; and (c) there are 54 sites with no likely future costs. The remaining properties have been dormant for several years. We could potentially be held liable, jointly or severally, and without regard to fault, for the costs of investigation and remediation of these sites. The discovery of additional environmental liabilities related to historical operations or changes in existing environmental requirements could have a material adverse effect on our business.
+
+We are exposed to legal proceedings and contingent liabilities that could result in material losses that we have not reserved against.
+
+We are party to various legal proceedings and are subject to certain important contingent liabilities described more fully in Note 16, “Commitments, Contingencies and Other Items,” to our consolidated financial statements included in this Form 10-K. If one or more of these legal proceedings or contingent liabilities were to be resolved in a manner adverse to us, we could suffer material losses. Certain of these contingent liabilities could have a material adverse effect on our business in addition to the effect of any potential monetary judgment or sanction against us. Furthermore, any legal proceedings, regardless of the outcome, could result in substantial costs and diversion of resources. Assets and entities that we have acquired may be subject to unknown or contingent liabilities for which we may have no recourse, or only limited recourse to the entity from which the business was acquired (or its stakeholders).
+
+Terrorist attacks and other acts of violence or war may adversely affect the financial markets and our business.
+
+There can be no assurance that there will not be future terrorist attacks. These attacks or armed conflicts may directly affect our physical facilities or those of our customers. These events could cause consumer confidence and spending to decrease or result in increased volatility in the U.S. and world financial markets and economy. Any of these occurrences could materially adversely affect our business.
+
+The pension plans previously maintained by Global Crossing and with respect to our operations before 1997 may require additional funding and negatively affects cash flows.
+
+Certain North American and European hourly and salaried employees of Global Crossing are covered by defined benefit pension plans. On December 31, 1996, the North American plan was frozen and all employees hired thereafter are not eligible to participate in the plan. The U.K. plans were closed to new employees on December 31, 1999. The pension expense and required contributions to these pension plans are directly affected by the value of plan assets, the projected rate of return on plan assets, the actual rate of return on plan assets and the actuarial assumptions used to measure the defined benefit pension plan obligations. As of December 31, 2014, the projected benefit obligation under these 
+
+ 59
+
+Table of Contents
+
+pension plans and the pension plans with respect to non-Global Crossing operations prior to 1997 was approximately $176 million ($81 million for U.S. plans and $95 million for U.K. plans) and the value of plan assets was approximately $151 million (approximately $75 million for U.S. plans and $76 million for U.K. plans), resulting in these pension plans being underfunded by $25 million. If plan assets perform below expectations, future pension expense and funding obligations will increase, which would have a negative effect on our cash flows from operations.

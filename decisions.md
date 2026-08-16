@@ -672,3 +672,144 @@ continuity for the older, unrelated company's years. The bug only ever
 inflated the *count* of tickers routed to the fallback path; it never
 guaranteed all of them were false rejections, so the smaller realized
 gain is the fix working as intended, not a sign it underdelivered.
+
+---
+
+## 2026-08-16 — CIK resolution: three fixes, 7445 -> 9296 Item 1A sections
+
+Coverage of the study universe went from 70.7% to 88.3% (`sp500_universe_raw`
+= 10,524 ticker-years throughout). Resolution went 7578 -> 9500 rows.
+
+### 1. The continuity check was anchored to the wrong date (+500 rows)
+
+`validate_continuity` asked whether a candidate CIK was filing at
+`stint_start` — the start of the S&P *membership* stint, which for most
+tickers is 1996-01-02, a decade before the study window opens. The verdict
+was then cached once per `(ticker, stint_start)` and reused for all 21 study
+years. Any company whose current CIK is newer than its 1996 index entry
+therefore failed **every** year, including years where that CIK is
+unambiguously the filer.
+
+Measured against SEC's own data before writing any code: 503 of 883
+"failed continuity" rows were false negatives. ORCL (CIK 1341439, 21 10-Ks
+on file) failed all 21 years because Oracle's current holding company was
+registered in 2005 and the check demanded 1996. CMCSA, COP, DUK, ED, EXC,
+FE, MCO, NEM, NOC, RF, CNP: all 21-for-21. FDX missed the 365-day grace
+window by ten months and lost two decades.
+
+Replaced by `validate_year`: did this CIK file a 10-K within 400 days of
+*this year's* snapshot? This is strictly better at catching the ticker-reuse
+case the old check existed for — a company that IPO'd under a recycled
+ticker in 2024 has no 10-K near a 2010 snapshot, so 2010 still won't resolve
+to it. Realized gain +500, within 3 of the pre-registered estimate.
+
+**Rejected:** loosening `CONTINUITY_BUFFER_DAYS` instead. It would have
+fixed FDX's ten-month miss and nothing else; the anchor date was the bug,
+not the tolerance.
+
+### 2. Ranking vs. verification for full text search (+1096 rows)
+
+Checkpoint 2 measured the full-text fallback at ~70% accuracy and refused to
+auto-accept it, keeping candidates in `resolution_detail` for review. That
+was the right call, but the framing was wrong: *ranking* ("which filing best
+matches this ticker string?") is unreliable, while *verification* ("does this
+filing declare this ticker?") is nearly deterministic.
+
+The archetype is TER. Trump Entertainment Resorts outranks Teradyne because
+its 10-K abbreviates the registrant itself as "TER" throughout — no ranking
+can separate them. But Trump Entertainment declares its symbol as TRMP
+(later TRMPQ) and never claims TER, so it is positively *contradicted*.
+
+`lib/cover_page.py` returns three outcomes, deliberately not two:
+verified / contradicted / **no_evidence**. The third exists because SEC only
+required a trading-symbol column on the cover page from 2019: Teradyne's own
+2010 10-K does not contain the string "TER" even once. Those years can never
+be verified directly and are left as honest gaps.
+
+`01b` then verifies the top 3 hits per query rather than only the top-ranked
+one — verification does not care about rank, so a wider candidate set costs
+nothing (an unverifiable candidate is simply rejected) and buys recall.
+Results over 2446 unresolved rows: 963 verified, **1142 contradicted**,
+161 ambiguous (2+ candidates both claiming the ticker — refused, not broken
+by rank), 40 no_evidence, 140 no candidate.
+
+That 1142 is the load-bearing number. Under the original top-hit-accept
+design a large share of those would have been attributed to the wrong
+company. The ~30% error rate found by hand-auditing 27 rows is now caught
+mechanically at full scale.
+
+A second pass propagates a verified identity across its stint when exactly
+one CIK verifies and that CIK filed a 10-K in the target year (+133 rows).
+Refused when two CIKs verify in the same stint — that is a real mid-stint
+handover, precisely the case that must not be guessed at.
+
+### 3. Overrides: proposed by hand, accepted only on evidence (+326 rows)
+
+`data/manual_cik_overrides.csv` is the escape hatch for identities no
+automated path reaches — mainly successor-entity chains, where a ticker's
+current holder is a newer corporate entity than the one that filed the
+10-Ks. XOM is the clearest: `company_tickers.json` maps it to ExxonMobil
+Holdings Corp (CIK 2115436), a 2026 reorg entity with zero 10-Ks ever, so
+every automated route fails for all 21 years.
+
+Because this is the one place a human asserts an identity directly, proposing
+and accepting are split. `01d` takes `ticker=CIK` hypotheses from any source
+and confirms each against that CIK's own filings before it may be written.
+Of 22 proposed, 21 confirmed; **XRX was CONTRADICTED** (its filings in range
+declare only CNDT) and was not added. The guard rejecting its author's own
+hypothesis is the reason it exists.
+
+**Confirming an identity is not confirming a duration.** Baker Hughes Co
+genuinely declares BHGE on its cover page, so the identity verified — but it
+first filed a 10-K in 2018 while the proposed range began in 2006. Twelve
+years would have been attributed to a company that did not yet exist,
+carrying a legitimate-looking verification note. Two fixes: `01d` bounds
+ranges by actual filing years (BHGE became 2018-2018), and `01` independently
+re-validates every override year against a real 10-K, recording
+`manual_override_year_rejected` rather than trusting the range. A wrong range
+is now a visible gap instead of silent misattribution.
+
+### 4. Dual-class ticker spelling (part of the +326)
+
+The membership source writes `BF.B` / `BRK.B`; SEC writes `BF-B` / `BRK-B`,
+and neither SEC file contains the dotted form. Both failed lookup outright
+and fell through to a full text search that cannot confirm a ticker whose own
+filings spell it differently — 38 rows lost across two continuously-filing
+members with unambiguous CIKs. Aliased in `fetch_company_tickers` rather than
+hand-overridden, since it is a class of ticker, not a one-off.
+
+Also retired a stale claim in that function: `company_tickers_exchange.json`
+no longer contains a single ticker absent from the main file, so the
+documented AEP fallback adds nothing. AEP is missing from both despite CIK
+4904 filing 10-Ks to this day, and is now an override.
+
+### Infrastructure
+
+- **API response cache** (`data/raw/api_cache`, gitignored) for
+  `data.sec.gov/submissions` and `efts.sec.gov` only. A full resolution run
+  is ~2 hours uncached, which makes the seed-an-override / re-run loop
+  impractical. **Deliberately not cached:** the membership source files and
+  `company_tickers.json` — checkpoint 1 established that source-of-truth
+  inputs are always re-fetched, since a silently reused stale snapshot is the
+  failure that sank the previous build. `EDGAR_NO_CACHE=1` bypasses.
+- **Connection-failure resilience.** A momentary DNS failure resolving
+  efts.sec.gov burned all six retries in 61 seconds and killed a run 2000 rows
+  in. Connection errors now retry on their own 10-minute budget, separate from
+  the HTTP retry budget.
+- **Unsearched != searched-and-empty.** `full_text_search` previously swallowed
+  every failure into an empty list, so a network outage was recorded
+  identically to a real negative — rows that look investigated but never were.
+  Now raises `SearchUnavailable`, and 01 records `fulltext_search_failed`.
+
+### What remains
+
+1024 rows across 223 tickers, down from 2946. `missing_records` reasons:
+`year_specific_no_match` 521, `cik_never_resolved` 503, `no_filing_found` 103,
+`no_item_1a_extracted` 86, `cik_candidate_never_filed` 15.
+
+`01c_unresolved_worklist.py` ranks the tail by rows recoverable per override:
+top 50 tickers close 46% of what's left, top 100 close 74%. The head is CMA
+(17 rows), XRX (13), VAR (12), AABA/BCR/BHGE/DD/HCP (11 each) — mostly
+genuine ticker reuse across unrelated companies (DD spans E.I. du Pont and
+the post-2019 DuPont de Nemours spinoff), which is exactly the class that
+must be resolved by evidence rather than convenience.

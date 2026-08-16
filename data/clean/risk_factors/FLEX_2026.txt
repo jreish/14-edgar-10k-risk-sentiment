@@ -1,0 +1,598 @@
+Our business, financial condition, results of operations and prospects are subject to various risks and uncertainties, including those described below. You should carefully consider the following risks and all of the other information contained in this report, including our consolidated financial statements and related notes, before investing in any of our securities. The risks and uncertainties described below reflect management’s beliefs as to material risks and are not the only risks we face. Additional risks and uncertainties that we are unaware of, or that we currently believe are not material, may also become important factors that materially adversely affect our business. If any of the following risks, or other risks and uncertainties that are not yet identified or that we currently think are immaterial, actually occur, our business, financial condition, results of operations and prospects could be materially and adversely affected. In that event, the market price of our ordinary shares could decline. References to past events are provided by way of example only. We may amend, supplement or add to the risk factors described below from time to time in future reports filed with the SEC.
+
+Summary of Risk Factors
+
+The following is a summary of the principal risks and uncertainties that management believes could materially adversely affect our business, financial condition, results of operations and prospects. You should read this summary together with the more detailed description of each risk factor contained below.
+
+10
+
+Table of Contents
+
+•
+Global economic conditions and geopolitical uncertainty have in the past adversely affected, and could in the future adversely affect, our business, results of operations, financial condition, and access to capital markets.
+
+•
+The planned spin-off of our Cloud and Power Infrastructure businesses may not be completed on the terms or timeline currently contemplated, if at all, and involves significant costs and risks.
+
+•
+Tariffs, trade restrictions, export controls, and changes in trade policy, including heightened trade volatility and uncertainty regarding trade agreements, have in the past adversely affected, and could in the future adversely affect, our business, results of operations, and financial condition.
+
+•
+Customer order cancellations, production changes, and demand variability could adversely affect our business.
+
+•
+A significant percentage of our sales come from a small number of customers and a decline in sales to any of our largest customers has in the past adversely affected, and could in the future adversely affect, our business, results of operations, cash flows, and financial condition.
+
+•
+Investments in our Cloud and Power Infrastructure businesses may adversely affect our margins, and demand for these offerings is subject to factors outside our control.
+
+•
+We may incur significant losses if customer-specific capital equipment becomes impaired or obsolete.
+
+•
+Supply chain disruptions and demand forecasting failures have in the past adversely affected, and could in the future adversely affect, our ability to meet customer demand, and lead to higher costs, or result in excess or obsolete inventory.
+
+•
+We depend on industries that produce products that are subject to rapid technological change and short product lifecycles.
+
+•
+Our industry is highly competitive, and customers may in-source production or modify sourcing strategies; our Cloud and Power Infrastructure businesses are subject to rapid technological change which requires that we make continuing investments to remain competitive.
+
+•
+Our margins and profitability have in the past been, and could in the future be, adversely affected due to substantial investments, start-up and production ramp costs in our design and engineering services.
+
+•
+If we do not effectively manage changes in our operations, our business may be harmed; we have taken substantial restructuring charges in the past and we may need to take material restructuring charges in the future.
+
+•
+We conduct operations in a number of countries and are subject to risks inherent in global operations.
+
+•
+A breach of our IT or physical security systems, or a cybersecurity incident affecting our operations, products, or third parties upon which we rely, could materially disrupt our business, damage our reputation, and expose us to significant costs and liability.
+
+•
+Risks and uncertainties related to the development and use of artificial intelligence ("AI") could harm our business, damage our reputation, or give rise to legal or regulatory action.
+
+•
+We may encounter difficulties with acquisitions and divestitures, which could harm our business.
+
+•
+We must attract, develop and retain key employees, and failure to do so could harm our business.
+
+•
+Our operating results may fluctuate significantly due to seasonal demand.
+
+•
+Union disputes or other labor disruptions could adversely affect our operations and financial results.
+
+•
+Our strategic relationships with major customers create risks.
+
+•
+Evolving regulations relating to data center development, energy consumption, and utility infrastructure could adversely affect demand for our products and services.
+
+•
+Changes in our effective tax rate, the adoption of new tax legislation, or exposure to additional tax liabilities has in the past adversely affected, and could in the future adversely affect, our results of operations and financial condition.
+
+•
+Our debt level may create limitations.
+
+11
+
+Table of Contents
+
+•
+Changes in our credit rating or capital market conditions may limit our access to financing or increase our borrowing costs.
+
+•
+Fluctuations in foreign currency exchange rates could increase our operating costs and adversely affect our results of operations.
+
+•
+Our exposure to financially troubled customers or suppliers has in the past adversely affected, and could in the future adversely affect, our results of operations.
+
+•
+Failure to effectively manage working capital could adversely affect our cash flow, liquidity, and results of operations.
+
+•
+The market price of our ordinary shares is volatile.
+
+•
+Our business could be impacted as a result of actions by activist shareholders or other reputational harm.
+
+•
+Our goodwill and identifiable assets could become impaired.
+
+•
+Risks related to the Nextracker separation could adversely affect our business.
+
+•
+We are subject to risks associated with investments.
+
+•
+Changes in accounting standards or management estimates could materially affect our financial results.
+
+•
+Litigation, investigations, or enforcement actions could result in significant liabilities, operational restrictions, and reputational harm.
+
+•
+We are subject to complex and evolving trade policies, export controls and sanctions.
+
+•
+Failure to comply with data privacy and cybersecurity laws and regulations could expose us to government enforcement, significant penalties, civil litigation, and reputational harm.
+
+•
+Inadequate protection of our intellectual property and exposure to third-party intellectual property claims could adversely affect our business and results of operations.
+
+•
+Our compliance program may not prevent violations of anti-corruption and related laws, which could result in severe penalties, business restrictions, and reputational harm.
+
+•
+Defects or failures in our products, manufacturing processes, or design and engineering services could expose us to product liability, warranty claims, contractual penalties, and reputational harm.
+
+•
+We may not meet regulatory quality standards applicable to our manufacturing and quality processes for medical devices, which could have an adverse effect on our business, financial condition, and results of operations.
+
+•
+Unforeseen or catastrophic events could have a material adverse effect on our operations and financial results.
+
+•
+Failure to comply with domestic or international employment and related laws and regulations could adversely affect our business and financial performance.
+
+•
+Evolving sustainability expectations and related disclosure regimes may increase costs, create legal exposure, and adversely impact our operations, talent attraction, and access to capital.
+
+Business and Operational Risks
+
+Customer order cancellations, production changes, and demand variability could adversely affect our business.
+
+Cancellations, reductions, or delays by a significant customer or by a group of customers have in the past harmed, and could in the future harm, our results of operations by reducing the volumes of products we manufacture and deliver for those customers, by causing a delay in the repayment of our expenditures for inventory in preparation for customer orders and/or our possession of excess or obsolete inventory that we may not be able to sell to customers or third parties which may result in an impairment loss for inventory, and by lowering our asset utilization and overhead absorption resulting in lower gross margins and earnings. 
+
+As a provider of design and manufacturing services and components for electronics, including power and infrastructure solutions used in data center and other applications, we must provide increasingly rapid product turnaround times for our customers. We generally do not obtain firm, long-term purchase commitments from our customers, and we often experience reduced lead times in customer orders which may be less than the lead time we require to procure necessary components and 
+
+12
+
+Table of Contents
+
+materials, including higher‑value or longer‑lead‑time components used in certain of our components and data center power offerings.
+
+Many factors outside of our control impact our customers and their ordering behavior, including recession in end markets, changing technology and industry standards, commercial acceptance for products, product obsolescence, and loss of business. The short-term nature of our customers' commitments and the rapid changes in demand for their products reduce our ability to accurately estimate the future requirements of our customers. This makes it difficult to schedule production and maximize utilization of our manufacturing capacity. In that regard, we must make significant decisions, including determining the levels of business that we will seek and accept, setting production schedules and locations, making component procurement commitments, and allocating personnel and other resources based on our estimates of our customers' requirements. We cannot give assurance that present or future customers will not significantly change, reduce, cancel or delay their orders. In addition, certain of our customer contracts contain provisions that permit the customer to terminate the agreement for convenience upon prior written notice, which notice periods may be relatively short. If a customer exercises such termination rights, we may not be entitled to receive payment for work in process, stranded inventory, or other costs incurred in anticipation of future orders. We may not have adequate contractual protections, such as termination fees or wind-down payments, to offset the financial impact of an early termination by a significant customer.
+
+On occasion, customers require rapid increases in production or require that manufacturing of their products be transitioned from one facility to another to reduce costs or achieve other objectives. These demands may stress our resources, cause supply chain management issues, and reduce our margins. We may not have sufficient capacity at any given time to meet our customers' demands, and transfers from one facility to another can result in inefficiencies and costs due to excess capacity in one facility and corresponding capacity constraints at another. Many of our costs and operating expenses are relatively fixed, and thus customer order fluctuations, deferrals, and transfers of demand from one facility to another, as described above, have had a material adverse effect on our results of operations in the past and we may experience such effects in the future.
+
+A significant percentage of our sales come from a small number of customers and a decline in sales to any of our largest customers has in the past adversely affected, and could in the future adversely affect, our business.
+
+Sales to our ten largest customers represent a significant percentage of our net sales. Our ten largest customers accounted for 45%, 44% and 37% of net sales in fiscal years 2026, 2025 and 2024, respectively. No customer accounted for more than 10% of net sales in fiscal year 2026, 2025 or 2024. Our principal customers have varied from year to year. Customers have in the past experienced, and could in the future experience, dramatic declines in their market shares, competitive position, or demand for their products and services, due to economic or other forces, that may cause them to reduce their purchases from us or, in some cases, result in the termination of their relationship with us. Significant reductions in sales to any of our largest customers, or the loss of major customers, have in the past harmed, and could in the future materially harm, our business, results of operations, cash flows, and financial condition. If we are not able to replace expired, canceled or reduced contracts with new business in a timely manner, including due to qualification, ramp‑up or customer approval requirements, our revenues and profitability would be harmed. Additionally, mergers, acquisitions, consolidations or other significant transactions involving any of our largest customers resulting in the loss of or reduction in purchases by any of our largest customers, it could have a material adverse effect on our business, results of operations, cash flows, financial condition and prospects.
+
+Customer concentration is particularly pronounced in our Cloud and Power Infrastructure businesses, where a limited number of hyperscale cloud providers, colocation companies, and large enterprise data center operators represent a substantial portion of demand. Hyperscale customers typically have substantial purchasing power and negotiating leverage, which they may use to obtain favorable pricing, extended payment terms, volume flexibility, or other concessions that could reduce our margins or adversely affect our cash flows. As these customers grow larger through consolidation or organic growth, their bargaining power may increase further. In addition, certain hyperscale customers have developed, or may develop, internal design, engineering, or manufacturing capabilities that compete with our offerings. These customers may choose to reduce their reliance on third-party providers like us over time, which could result in reduced order volumes, loss of programs, or increased pricing pressure. Any decision by one or more significant hyperscale customers to vertically integrate, in-source production, or shift purchases to competitors could have a material adverse effect on our business, results of operations, and financial condition.
+
+Investments in our Cloud and Power Infrastructure businesses may adversely affect our margins, and demand for these offerings is subject to factors outside our control.
+
+The success of our Cloud and Power Infrastructure businesses is dependent on our ability to design and introduce products and solutions that have performance characteristics which are suitable for a broad market and that offer significant price and/or performance advantages over competitive products. To create these offerings, we must continue to make substantial investments in the development of our capabilities, in resources such as research and development, the development, acquisition or licensing of appropriate intellectual property, test and tooling equipment, facility expansions, and personnel requirements, as 
+
+13
+
+Table of Contents
+
+well as start-up, customer qualification and production ramp-up costs. We may not be able to achieve or maintain market acceptance for any of our offerings in any of our current or target markets. Our success will also depend upon the level of market acceptance of our customers' end products, which incorporate our products, and over which we have no control. In particular, demand for our cloud and power infrastructure solutions serving data center applications is significantly influenced by continued investment in AI, machine learning, and high-performance computing infrastructure by our customers, particularly hyperscale cloud providers. Capital expenditure cycles among hyperscale cloud providers and other data center operators can be volatile and are influenced by factors outside our control. While overall market trends toward increased demand for compute capacity and power infrastructure driven by AI and cloud applications have supported recent growth, there can be no assurance that such trends will continue at current rates, or at all. Any reduction in the rate of AI adoption, shifts in customer investment priorities, or technological developments that reduce demand for high-density computing infrastructure would adversely affect demand for our products and services.
+
+Demand for our cloud and power infrastructure solutions also depends on our customers and third-party data center operators securing sufficient and reliable electrical power and water at acceptable costs and within required timelines. The development and expansion of data center capacity is power-intensive and requires significant water resources for cooling, and both power and water availability have become critical factors in determining deployment speed and location for our customers. Limitations on power generation, transmission, and distribution capacity, utility interconnection lead times, planned and unplanned outages, curtailments, and volatility in energy markets can delay the energization of customer facilities, restrict available capacity, increase operating costs, and materially affect project economics and our customers’ ability to deploy our products. Similarly, water scarcity, drought conditions, competing demands for water resources, and regulatory restrictions on water use may constrain data center cooling capacity, limit site selection, increase operating costs, or delay project timelines. In several markets, regulators and local authorities have imposed or are considering restrictions on data center power and water consumption, requirements for operators to fund grid upgrades, and other conditions that may delay or increase the cost of power and water procurement. Public utility capacity constraints, broader grid reliability events, and inflationary or geopolitical pressures on energy prices may further increase volatility and uncertainty for our customers.
+
+If customers or third-party operators are unable to secure timely and cost-effective power or water, or if permitting and approval processes for power or water infrastructure are delayed or restricted, we could experience project delays, missed milestones, service-level exposure under our contracts, reduced margins, and lost or deferred revenue. In addition, misalignment between contracted program volumes and actual customer deployment, whether from program delays, changes in deployment plans, or infrastructure readiness issues, can result in underutilized capacity, excess inventory, increased working capital needs, and significant period-to-period variability in our results. These power and water availability and infrastructure readiness risks are largely outside our control, and any sustained constraints on our customers’ ability to develop or expand data center capacity could materially and adversely affect our business, financial condition, and results of operations. Furthermore, as rack power densities increase and liquid or hybrid cooling becomes more prevalent, many existing data center facilities require retrofits to power distribution, structural supports, and fluid handling infrastructure. Where customers or third-party operators manage these retrofits, we have limited control over their timing, execution, and quality.
+
+In addition, capital market conditions may indirectly affect our Cloud and Power Infrastructure businesses by constraining our customers’ ability to fund infrastructure investments. The development and expansion of data center capacity, including site acquisition, power procurement, and infrastructure buildouts, are capital intensive and often depend on our customers’ access to debt and equity markets. Higher interest rates, tighter credit conditions, reduced investor appetite for digital infrastructure investment, or broader concerns regarding economic conditions and financial market volatility may lead our data center customers to delay, scale back, or reprioritize projects, renegotiate commercial terms, or reduce order volumes. Any sustained reduction in customer capital spending on data center infrastructure could reduce our order flow, slow program ramps, and adversely affect our business, results of operations, and growth prospects.
+
+The addition of new customers in our Cloud and Power Infrastructure businesses has also introduced different demand cycles. For example, cloud-based service providers are cyclically different from our traditional customers, creating changes to our historical revenue patterns and increasing the complexity of the management of our working capital requirements.
+
+We may incur significant losses if customer-specific capital equipment becomes impaired or obsolete.
+
+We make investments in capital equipment that is designed for or dedicated to specific customers, products, or programs. These investments are often based on forecasts of customer demand and anticipated long-term relationships. In certain cases, such equipment has limited alternative use and may not be readily redeployable to other customers or applications without significant modification or additional cost. If a customer reduces, delays, or terminates its orders, exits a product line, experiences financial distress, or otherwise ceases to do business with us, we may be unable to recover the carrying value of the related equipment. In such circumstances, we may be required to recognize impairment charges or write-offs for these assets, which could have a material adverse effect on our financial condition and results of operations.
+
+14
+
+Table of Contents
+
+In addition, the timing and magnitude of customer demand may differ from our expectations, leading to underutilization of such equipment and reduced returns on our investments. While we may seek contractual protections, including customer commitments or reimbursement provisions, such protections may be insufficient or may not be enforceable in all cases. Any significant impairment, write-off or accelerated depreciation of customer-specific capital equipment could adversely affect our results of operations and financial condition.
+
+Supply chain disruptions and demand forecasting failures have in the past adversely affected, and could in the future adversely affect, our ability to meet customer demand, and lead to higher costs, or result in excess or obsolete inventory.
+
+From time to time, we have experienced shortages of some of the components, including electronic components, that we use. These shortages can result from strong demand for those components or from problems experienced by suppliers, such as shortages of raw materials. In the past, there have been industry wide conditions, pandemics, natural disasters and global events that have caused material and component shortages. Most recently, we experienced disruptions in the supply of semiconductor components, including as a result of regulatory actions, export controls, and other government-imposed restrictions affecting certain suppliers, which adversely impacted our business, including curtailed production or delays in production, and delays in making scheduled shipments to customers. Inflationary pressures have increased in recent years and may continue to increase pricing of components. 
+
+Our supply chain has in the past been, and could in the future be, impacted by events outside our control, including macro-economic events, tariffs and trade restrictions, political crises, social unrest, terrorism, and geopolitical conflicts (including the conflicts in Ukraine and the Middle East, including the conflict in Israel, recent U.S. military operations in Iran, disruptions in the Strait of Hormuz, attacks on shipping vessels in the Red Sea, and other regional tensions), public health emergencies, or natural or environmental occurrences in locations where we or our customers and suppliers have manufacturing, research, engineering and other operations.
+
+Certain components that we use are sourced from a limited number of suppliers, and in some cases from a single supplier, which increases the risk that regulatory actions, geopolitical developments, trade restrictions or other events affecting those suppliers could disrupt our supply chain. In addition, certain of our customers direct or require us to purchase components, materials, or subsystems from specified suppliers. In some cases, these customer-directed suppliers may be sole sources for the required components or may be geographically concentrated. We may have limited ability to qualify alternative suppliers or pass through cost increases for customer-specified components. If a customer-directed supplier experiences supply disruptions, quality issues, financial distress, or other problems, we could be unable to meet our customer's requirements and could be exposed to warranty claims, contract penalties, or liability, even if the underlying issue was attributable to the customer-directed supplier. Our customers may not agree to share responsibility for these supply chain risks, and we may bear a disproportionate share of the exposure.
+
+Our failure or inability to accurately forecast demand and volatility in the availability and prices of materials, equipment, components, and services, including rising prices due to inflation or scarcity of availability, have in the past adversely impacted, and could in the future adversely impact, our business and results of operations. Our inability to make scheduled shipments has in the past caused, and could in the future cause us to experience a reduction in sales, increase in inventory levels and costs, and could adversely affect relationships with existing and prospective customers. Component shortages have in the past and could in the future also increase our cost of goods sold because we may be required to pay higher prices for components in short supply and redesign or reconfigure products to accommodate substitute components. As a result, component shortages have in the past adversely affected, and could in the future adversely affect, our results of operations. Our customers also could experience component shortages which could adversely affect customer demand for our products and services. Our end markets have in the past been, and could in the future be, adversely impacted by logistical constraints and increased freight and logistics costs around the world.
+
+In addition, if a component shortage is threatened or anticipated, we may purchase such components early to avoid a delay or interruption in our operations. Purchasing components early has in the past caused, and could in the future, cause us to incur additional inventory carrying costs and cause us to experience inventory obsolescence, both of which may not be recoverable from our customers and adversely affect our gross profit margins and results of operations. Such purchases may also require customer approvals, redesign efforts or the use of alternative components that could further increase costs, delay production or affect product performance.
+
+Given the complexity of our supply chain and our geographically dispersed operations, we depend on a variety of common carriers to transport our materials from our suppliers to us, and to transport our products from us to our customers. Problems suffered by any of these common carriers, whether due to geopolitical issues, such as conflicts in Ukraine and the Middle East, disruptions in the Strait of Hormuz and the Red Sea, including as a result of attacks on shipping vessels, natural disasters, labor problems, increased energy prices, criminal activity or other issues, have in the past resulted, and could in the future result, in shipping delays, increased costs, or other supply chain disruptions, and therefore have in the past had, and could 
+
+15
+
+Table of Contents
+
+in the future have, a material adverse effect on our operations. The effects of climate change, including extreme weather events and long-term changes in temperature levels and water availability, may exacerbate these transportation and logistics risks.
+
+Our margins and profitability have in the past been, and could in the future be, adversely affected due to substantial investments, start-up and production ramp costs in our design and engineering services.
+
+Providing design and engineering services exposes us to different and, in some cases, greater risks than those we face with our manufacturing services. Although we enter into contracts with our design and engineering services customers, we often design and develop products for these customers prior to receiving a purchase order or other firm commitment from them. We are required to make substantial investments in the resources necessary to design and develop these products, and no revenue may be generated from these efforts if our customers do not approve the designs in a timely manner or at all. In addition, we may make investments in designing products and not be able to design viable manufacturable products, in which case we may not be able to recover our investments. Even if we are successful in designing manufacturable products and our customers accept our designs, if our customers do not then purchase anticipated levels of products, we may not realize any profits. Our design and engineering activities often require that we purchase inventory for initial production runs before we have a purchase commitment from a customer. Even after we have a contract with a customer with respect to a product, these contracts sometimes allow the customer to delay or cancel deliveries and may not obligate the customer to any particular volume of purchases. These contracts can generally be terminated on short notice. In addition, some of the products we design and develop, including in the automotive and healthcare industries, must satisfy safety and regulatory standards and some must receive government certifications. If we fail to obtain these approvals or certifications on a timely basis, we would be unable to sell these products, which would harm our sales, profitability and reputation.
+
+Our design and engineering services offerings require significant investments in research and development, technology licensing, test and tooling equipment, patent applications, facility building and expansion, and recruitment. We may not be able to achieve a high enough level of sales for this business to be profitable. The costs of investing in the resources necessary to expand our design and engineering capabilities, and in particular to support our design and engineering services offerings, have historically adversely affected our profitability, and may continue to do so as we continue to make investments to grow these capabilities.
+
+In addition, we often agree to certain product price limitations and cost reduction targets in connection with these services. Inflationary and other increases in the costs of the raw materials and labor required to produce the products have occurred and may recur from time to time. Also, the production ramps for these programs are typically significant and negatively impact our margin in early stages as the manufacturing volumes are lower and result in inefficiencies and unabsorbed manufacturing overhead costs. We may not be able to reduce costs, incorporate changes in costs into the selling prices of our products, or increase operating efficiencies as we ramp production of our products, which would adversely affect our margins and our results of operations.
+
+If we do not effectively manage changes in our operations, our business may be harmed; we have taken substantial restructuring charges in the past and we may need to take material restructuring charges in the future.
+
+The expansion of our business, as well as business contractions and other changes in our customers' requirements, have in the past required, and could in the future require, that we adjust our business and cost structures by incurring restructuring charges. Restructuring activities involve reductions in our workforce at some locations and closure of certain facilities. All of these changes have in the past placed, and could in the future place, considerable strain on our financial and management control systems and resources, including decision support, accounting management, information systems and facilities. If we do not properly manage or maintain adequate financial and management controls, including internal controls over financial reporting, reporting systems and procedures to manage our employees, our business could be harmed.
+
+In recent years, including fiscal years 2026, 2025, and 2024, we initiated targeted restructuring activities focused on improving operational efficiencies by reducing excess workforce capacity, optimizing our portfolio, and optimizing our cost structure in lower growth areas. Restructuring charges are recorded based upon employee termination dates, site closure and consolidation plans generally in conjunction with an overall corporate initiative to drive cost reduction and realign the Company's global footprint.
+
+We may be required to take additional charges in the future to align our operations and cost structures with global economic conditions, market demands, cost competitiveness, and our geographic footprint as it relates to our customers' production requirements. We may consolidate or divest certain manufacturing facilities or transfer certain of our operations to other geographies. If we are required to take additional restructuring charges in the future, our results of operations, financial condition, and cash flows could be adversely impacted. Additionally, there are other potential risks associated with our restructurings that could adversely affect us, such as delays encountered with the finalization and implementation of the restructuring activities, work stoppages, and the failure to achieve targeted cost savings.
+
+16
+
+Table of Contents
+
+A breach of our IT or physical security systems, or a cybersecurity incident affecting our operations, products, or third parties upon which we rely, could materially disrupt our business, damage our reputation, and expose us to significant costs and liability.
+
+We rely on our information systems, some of which are managed by third parties, to process, transmit, and store electronic information (including sensitive data such as confidential business information and personally identifiable information relating to employees, customers, vendors, and other business partners), and to manage or support critical business processes and activities, including manufacturing, design and engineering services, financial reporting, inventory management, procurement, invoicing, and electronic communications. Our ability to effectively manage our business depends on the security, reliability, and adequacy of these information systems. We may be adversely affected if these information systems break down, fail, or are no longer supported. In addition, we continue to invest in and implement modifications and upgrades to our information systems, which may be complex and require significant management oversight, and subject us to inherent costs and associated risks, including disruption of operations and loss of information.
+
+We regularly face attempts by sophisticated and malicious actors to gain unauthorized access to our information systems, including attempts using techniques that change frequently, may be difficult to detect, or may remain dormant until a triggering event. Threat actors may seek to access our networks, data centers, or cloud resources, including those managed by third parties, or those of our customers, vendors, or end users; steal proprietary information related to our business, products, employees, and customers; or disrupt our systems, operations, services, or products (including software and firmware embedded in our products), or those of our third-party service providers. The increasingly connected nature of our products and systems expands our potential attack surface. We believe such attempts are increasing in number and in technical sophistication. AI techniques may also be utilized by threat actors to increase the number and technical sophistication of such attempted breaches. Due to increasing geopolitical tensions and conflicts, including involving China, the conflicts in Ukraine and the Middle East, including the conflict in Israel and recent U.S. military operations in Iran, we and the third parties upon which we rely may be vulnerable to a heightened risk of cyberattacks, including retaliatory acts of cyberwarfare by state-sponsored actors that could materially disrupt our systems and operations, supply chain, and ability to provide our products and services.
+
+Our ability to monitor third parties' information security practices is limited, supply chain attacks have increased in frequency and severity, and we cannot guarantee that third parties, including cloud or hosted solution providers, have not been compromised or that their systems are free from exploitable defects. We are subject to, and at times have experienced, breaches or attempted breaches of our security systems, which have in the past resulted, and could in the future result, in unauthorized access to our facilities, systems, assets, inventory, or information. There can be no assurance that our security measures will be sufficient to prevent a material breach or compromise. If unauthorized parties gain physical access to our facilities, operations, assets, or inventory, or electronic access to our information systems, or if such facilities, assets, inventory, or information are used in an unauthorized manner, misdirected, or lost or stolen during transmission or transport, any such incident could result in, among other things, unfavorable publicity, loss of competitive advantage, governmental inquiry and oversight, significant costs related to rebuilding internal systems, higher insurance premiums, allegations by our customers that we have not performed our contractual obligations, litigation by affected parties, and regulatory fines, penalties, and damages, any of which could have a material adverse effect on our profitability and cash flows. For a discussion of the regulatory and legal compliance risks associated with data privacy and cybersecurity laws, including the potential for government enforcement actions, regulatory penalties, and civil litigation arising from the handling of personal data, see "
+Legal and Regulatory Risks—Failure to comply with data privacy and cybersecurity laws and regulations could expose us to government enforcement, significant penalties, civil litigation, and reputational harm
+."
+
+Risks and uncertainties related to the development and use of AI could harm our business, damage our reputation, or give rise to legal or regulatory action.
+
+We are incorporating AI solutions into aspects of our business, including our manufacturing operations, design and engineering services, and internal processes, and we also rely on AI tools used by our employees, vendors, or other third parties. AI technologies are complex and rapidly evolving, and our business may be adversely affected if we are unable to successfully integrate AI into our operations, products, and services in a timely and cost-effective manner. AI is subject to increasing regulatory, legal, and ethical scrutiny, and its use may give rise to risks related to accuracy, bias, intellectual property infringement or misappropriation, data privacy, cybersecurity, and compliance with evolving laws and regulations.
+
+Our personnel or third parties could, unbeknownst to us, misuse AI technology in ways that could result in the inadvertent disclosure of our confidential information or that of our customers. The use of AI can result in unintended consequences, including outputs that appear accurate but are factually incorrect, misleading, or otherwise flawed. If the AI tools we use or rely upon are deficient or unreliable, we could experience operational disruptions, increased costs, compliance challenges, reputational harm, or legal exposure. In addition, the adoption of AI and automation technologies may affect our workforce strategy, which could require us to retrain or redeploy employees, modify certain job functions, and navigate evolving regulatory and workforce expectations.
+
+17
+
+Table of Contents
+
+We may encounter difficulties with acquisitions and divestitures, which could harm our business.
+
+We have completed numerous acquisitions of businesses, including our recent acquisition of Electrical Power Products, Inc., and we may acquire additional businesses in the future. We may incur significant transaction costs in connection with acquisitions, and may not realize expected cost savings, synergies or other benefits in the amounts or timeframes anticipated, or at all. Acquisitions may require additional equity financing, which could be dilutive to our existing shareholders, or additional debt financing, which could increase our leverage and potentially affect our credit ratings. Any downgrades in our credit ratings associated with an acquisition could adversely affect our ability to borrow by resulting in more restrictive borrowing terms.
+
+To integrate acquired businesses, we must implement our management information systems, operating systems and internal controls, and assimilate and manage the personnel of the acquired operations. The difficulties of this integration may be further complicated by geographic distances. The integration of acquired businesses may not be successful and could result in disruption to other parts of our business. In addition, the integration of acquired businesses may require that we incur significant restructuring charges.
+
+In addition, acquisitions involve numerous risks and challenges, including:
+
+•
+diversion of management’s attention from the normal operation of our business;
+
+•
+potential loss of key employees and customers of the acquired companies;
+
+•
+difficulties managing and integrating operations in geographically dispersed locations;
+
+•
+the potential for deficiencies in internal controls at acquired companies;
+
+•
+increases in our expenses and working capital requirements, which reduce our return on invested capital;
+
+•
+lack of experience operating in the geographic market or industry sector of the acquired business;
+
+•
+cybersecurity, data privacy and IT systems integration issues;
+
+•
+initial dependence on unfamiliar supply chain or relatively small supply chain partners; and
+
+•
+exposure to unanticipated liabilities of acquired companies.
+
+In addition, divestitures involve significant risks, including without limitation, difficulty finding financially sufficient buyers or selling on acceptable terms in a timely manner, and the agreed-upon terms could be renegotiated due to changes in business or market conditions. Divestitures could adversely affect our profitability and, under certain circumstances, require us to record impairment charges or a loss as a result of the transaction. In addition, completing divestitures requires expenses and management attention and could leave us with certain continuing liabilities.
+
+These and other factors have harmed, and in the future could harm, our ability to achieve anticipated levels of profitability at acquired operations or realize other anticipated benefits of an acquisition or divestiture, and could adversely affect our business and operating results. 
+
+We must attract, develop and retain key employees, and failure to do so could harm our business.
+
+Our success depends on our ability to attract, develop, motivate and retain a workforce with the skills necessary for our business, including qualified executives, management, engineering, manufacturing, information technology, cybersecurity, supply chain, and business development personnel. The market for such talent is highly competitive, and we may incur higher labor, recruiting and training costs in order to attract and retain employees with the requisite skills. If our compensation, benefits and overall employee value proposition are not viewed as competitive, our ability to attract, motivate and retain key employees could be weakened. Generally, our employees are not bound by employment or non-competition agreements, and where such agreements exist, they may be difficult to enforce. We cannot assure you that we will retain our executive officers and key employees.
+
+Leadership transitions and management changes may create uncertainty, disrupt operations, and increase the risk of senior management or other employee turnover. The loss of any of our executive officers or other key employees could harm our business. Failure to have an effective succession plan in place for our key executive officers could significantly delay or prevent us from achieving our business objectives. For a discussion of planned leadership changes in connection with our planned spin-off, see "
+Planned Spin-off Risks—The planned spin-off of our Cloud and Power Infrastructure businesses may not be completed on the terms or timeline currently contemplated, if at all, and there is no guarantee that the spin-off, if completed, will achieve the intended financial, strategic, and operational benefits" below. 
+
+18
+
+Table of Contents
+
+In addition, expanding our design and engineering services offerings requires us to attract and retain experienced design engineers; our failure to do so could limit the growth of these offerings. From time to time, we face challenges that may impact employee retention, such as workforce reductions, facility consolidations and closures, and retirements. To the extent we lose experienced personnel, our failure to develop other employees, hire new qualified employees and successfully manage the transfer of critical knowledge could adversely affect our business.
+
+Our operating results may fluctuate significantly due to seasonal demand.
+
+We experience some seasonal trends from our diverse end-market exposure. For example, two of our end markets, the lifestyle market and the consumer devices market, exhibit particular strength generally in the two quarters leading up to the end of the calendar year in connection with the holiday season. We have historically experienced stronger revenues in our second and third fiscal quarters as compared to our other fiscal quarters, with our fourth fiscal quarter being the weakest. Economic conditions or other factors, including the impact of seasonal trends, could lead to diminished orders which could harm our business.
+
+Union disputes or other labor disruptions could adversely affect our operations and financial results.
+
+Certain of our employees are represented by labor unions or works councils, and we have experienced heightened union organizing activity in certain regions. The unionization of significant employee populations could result in increased labor costs or other terms that are less favorable to us, and increased risk of strikes and work stoppages. We may also be subject to general country strikes or work stoppages unrelated to our business. In addition, the workforces of some of our suppliers and customers are represented by labor unions. Work stoppages or strikes at the plants of our key suppliers could disrupt our manufacturing processes; similar actions at the plants of our customers could result in delayed or canceled orders for our products. Although we have not experienced any recent material work stoppages, a work stoppage or other limitations on production at our facilities, or strikes or work stoppages experienced by our customers or suppliers, could have an adverse effect on our business, results of operations and financial condition.
+
+Unforeseen or catastrophic events could have a material adverse effect on our operations and financial results.
+
+Our operations or systems have been, and could in the future be, disrupted by natural disasters, terrorist activity, public health issues, cybersecurity incidents, interruptions of service from utilities, or transportation or telecommunications providers, political crises and geopolitical conflicts (including armed conflicts such as the Russia-Ukraine conflict, which resulted in a missile strike on our Mukachevo, Ukraine facility in August 2025, as described under "
+International Risks-Global economic conditions and geopolitical uncertainty have in the past adversely affected, and could in the future adversely affect, our business, results of operations, financial condition, and access to capital markets.
+" below), physical attacks on our senior leadership and/or our office locations, or other unforeseen or catastrophic events. Climate change may exacerbate the frequency and intensity of natural disasters and adverse weather conditions. Such events have made, and in the future could make, it difficult or impossible to manufacture or deliver products to our customers, receive production materials from our suppliers, or perform critical functions, which could adversely affect our revenue and require significant recovery time and expenditures to resume operations. While we maintain business recovery plans that are intended to allow us to recover from natural disasters or other events that can be disruptive to our business, some of our systems are not fully redundant and we cannot be sure that our plans will fully protect us from all such disruptions.
+
+Planned Spin-off Risks
+
+The planned spin-off of our Cloud and Power Infrastructure businesses may not be completed on the terms or timeline currently contemplated, if at all, and there is no guarantee that the spin-off, if completed, will achieve the intended financial, strategic, and operational benefits.
+
+On May 5, 2026, we announced our intention to spin off our Cloud and Power Infrastructure businesses through the creation of a separate publicly traded company. The planned spin-off is intended to be tax-free for Flex's U.S. shareholders for U.S. federal income tax purposes. Completion of the planned spin-off is subject to the final approval of our Board of Directors and will be dependent on a number of factors that may be beyond our control, including, among other things, market conditions, the effectiveness of a registration statement on Form 10 with the SEC, receipt of a tax opinion from tax counsel, the requisite approval by the Company's shareholders at an extraordinary general meeting, approval from the High Court of the Republic of Singapore for a capital reduction and distribution, and other regulatory approvals. The planned spin-off is complex in nature, and unanticipated changes or developments could delay or prevent the completion of the spin-off or cause the spin-off to occur on terms or conditions that are different or less favorable than expected.
+
+In connection with the planned spin-off, we face significant challenges, including, without limitation: the diversion of the attention of our Board of Directors and senior management from the pursuit of our business strategy and long-term planning and of our management and employees from day-to-day operations; our ability to maintain operational, commercial, data and 
+
+19
+
+Table of Contents
+
+information technology, intellectual property, human resources, finance, legal, sales, and marketing continuity where necessary between Flex and the separated company; the risk that if the IRS determines that certain steps of the planned spin-off do not qualify for tax-free treatment for U.S. federal income tax purposes, Flex and its shareholders could incur significant tax liabilities; costs and expenses related to the planned spin-off (which are expected to be significant), including costs related to commercial and operational dis-synergies, restructuring and other transaction expenses, expenses related to establishing stand-alone operational, commercial, personnel, and digital and technology infrastructure at the separated company, and accounting, tax, legal, and other professional services expenses, any of which may be higher than initially expected;
+
+the possibility of disputes or litigation arising from or related to the spin-off, including claims by shareholders, employees, or third parties, and the potential for unanticipated costs or liabilities to arise that were not contemplated in the original transaction planning; retaining existing business and operational relationships, including with customers, suppliers, employees, and other counterparties; competitive responses to the announcement or completion of the spin-off; addressing employee issues so as to promote retention and motivation and maintain efficient and effective labor and employee relations;
+
+risks associated with changes in management and leadership at Flex and the separated company, including the ability to attract, retain, and motivate key executives and to maintain effective governance structures following the spin-off, as well as actual or potential conflicts of interest that may arise if certain executive officers or directors of the Company hold positions at, or ownership interests in, the separated company, particularly where the two companies may pursue the same corporate opportunities or face decisions with different implications for each company; the physical separation and reorganization of manufacturing operations, which may involve the relocation of manufacturing equipment and production lines, the division or reconfiguration of shared manufacturing facilities, the establishment of new manufacturing capabilities, and the reconfiguration of supply chain and logistics networks, any of which may result in significant costs, production downtime, or delays in fulfilling customer orders; obtaining any required regulatory licenses, operating authority, or contractual consents; determining the appropriate allocations of assets and liabilities between Flex and the separated company, as well as the terms governing the relationship between Flex and the separated company following the spin-off; and potential negative reactions from investors and other external stakeholders.
+
+In connection with the planned spin-off, we announced that Revathi Advaithi, our CEO, will become the chief executive officer of the separated company and serve as Chairman of the Board of Flex for a transitional period following the completion of the spin-off, and that Michael Hartung, our President and Chief Commercial Officer, will be named as the Company’s CEO. Other senior executives may leave Flex to join the separated company in connection with the spin-off.
+
+There can be no assurance that the spin-off, if completed, will achieve the intended financial, strategic, and operational benefits (which are based on a number of assumptions, some or all of which may prove to be incorrect) or provide greater value to our shareholders than that reflected in the current price of our ordinary shares, or that the dis-synergies of the transaction (including costs of related restructuring transactions) will not exceed the anticipated amounts. The market price of our ordinary shares could be subject to significant fluctuation or otherwise be adversely affected by the uncertainties described above. Changes in the shareholder base of Flex and/or the separated company following the planned spin-off could also cause the price of either company's stock to fluctuate.
+
+If the planned spin-off occurs, Flex and the separated company will each be smaller, less diversified companies with more concentrated areas of focus. As a result, Flex and the separated company may become more vulnerable to changing macroeconomic and market conditions
+
+and to the impact of geopolitical conflicts, international trade disputes, or global economic instability on their operations, supply chains, or financial condition; the results of operations, cash flows, effective tax rate, and other financial and operating metrics of each company may be subject to increased volatility; and the ability of each company to fund capital expenditures and investments, pay dividends, and service debt may be diminished. To the extent challenges related to the planned spin-off adversely affect our business, they may also have the effect of heightening other risks disclosed in this Annual Report, any of which could materially and adversely affect our business, results of operations, and the price of our ordinary shares.
+
+Industry Risks
+
+We depend on industries that produce products that are subject to rapid technological change and short product lifecycles, and our business has in the past been, and could in the future be, adversely affected if our customers' products are not successful or if our customers lose market share.
+
+We derive our revenue from customers in a number of end markets and factors affecting any of these industries in general, or our customers in particular, could adversely impact us. These factors include rapid changes in technology, including as a result of AI, evolving industry standards, and requirements for continuous improvement in products and services that result in short product lifecycles; the failure of our customers to successfully market their products or for our customers' products to gain widespread commercial acceptance; and dramatic market share shifts that may cause our customers to lose market share or exit businesses.
+
+20
+
+Table of Contents
+
+Our industry is highly competitive, and customers may in-source production or modify sourcing strategies; our Cloud and Power Infrastructure businesses are subject to rapid technological change which requires that we make continuing investments to remain competitive
+.
+
+We compete with a number of different companies, depending on the type of service we provide or the location of our operations. For example, we compete with major global EMS providers, other smaller EMS companies that have a regional or product-specific focus and Original Design Manufacturers ("ODMs") with respect to some of the services that we provide. We also compete with our current and prospective customers, who evaluate our capabilities in light of their own capabilities, cost structures and strategic priorities. In the past, some of our customers moved a portion of their manufacturing away from us in order to more fully utilize their excess internal manufacturing capacity, and customers could in the future decide to in-source, dual‑source, regionalize, or otherwise reallocate manufacturing volumes among suppliers. Any of these developments could cause a decline in our sales, loss of market acceptance of our products or services, decreases of our profits, or loss of our market share. Our industry is extremely competitive, many of our competitors have achieved substantial market share, and some may have lower cost structures or greater design, manufacturing, financial or other resources than we do, including the ability to deploy capital at greater scale to support capacity expansion, advanced manufacturing technologies, or significant upfront investments required by certain power and components programs. Our competitors may also respond more quickly to new or emerging technologies, including AI, or to evolving customer requirements, which could put us at a competitive disadvantage. We face competition from Asian-based competitors, including Taiwanese ODM suppliers, as well as other large, diversified manufacturing and design service providers, who compete in a variety of our end markets and, in some cases, have a substantial share of global information technology hardware and related infrastructure production. If we are unable to provide manufacturing services and capabilities that are comparable to, or differentiated from, those offered by other companies in our markets at competitive cost levels, our net sales could decline.
+
+Our Cloud and Power Infrastructure businesses are particularly subject to rapid technology evolution. The data center infrastructure industry is characterized by frequent platform transitions, increasing rack power densities, adoption of liquid and hybrid cooling technologies, evolving power delivery architectures and voltage standards, and changing interconnect, security, and manageability requirements. To remain competitive, we must continually invest in engineering capabilities, validation and testing infrastructure, supply chain enablement, specialized integration capabilities, and capital equipment to support evolving customer specifications and density requirements. If we fail to anticipate or timely align with evolving specifications, standards, or power density requirements, or if our competitors adopt innovations more quickly or develop superior products, our win rates, pricing, and margins may suffer, and we may lose customers or experience decreased or delayed market acceptance of our products and solutions.
+
+The emergence of new technologies, industry standards, or customer requirements may render our existing power delivery systems, cooling solutions, integration capabilities, inventory, or manufacturing processes less competitive or obsolete. Our acquisition and implementation of new technologies and equipment, and the expansion of our product and solutions offerings, may require significant expense or capital investment, which could reduce our operating margins. If we are unable to keep pace with technological change or evolving market needs, or to develop and introduce competitive products and solutions on a timely basis, we may incur inventory write-downs, rework charges, and other costs, and our business, financial condition, and results of operations could be materially and adversely affected.
+
+Our strategic relationships with major customers create risks.
+
+In the past, we have completed strategic transactions with customers under which we acquired inventory, equipment and other assets from those customers and leased or acquired their manufacturing facilities, while simultaneously entering into multi-year manufacturing and supply agreements for the production of their products. We may pursue similar customer divestiture transactions in the future. These arrangements with divesting customers involve a number of risks, including the following:
+
+•
+we may need to pay a purchase price to the divesting customer that exceeds the value we ultimately realize from the customer’s future business;
+
+•
+the integration of the acquired assets and facilities into our business may be time-consuming and costly, including as a result of restructuring activities;
+
+•
+we, rather than the divesting customer, generally bear the risk of excess capacity at the facility;
+
+•
+we may not achieve anticipated cost reductions or operational efficiencies;
+
+•
+we may be unable to meet customer expectations with respect to volume, product quality, timeliness and cost reductions;
+
+21
+
+Table of Contents
+
+•
+our supply agreements generally do not require customers to purchase minimum volumes, and actual purchase volumes may be lower than anticipated; and
+
+•
+if demand for a customer’s products declines, the customer may reduce its purchase volumes, and we may not be able to sufficiently reduce the expenses of operating the facility or use the facility to provide services to other customers.
+
+As a result of these and other risks, we have in the past been, and could in the future be, unable to achieve anticipated levels of profitability under these arrangements. In addition, these strategic arrangements have not, and in the future may not, result in any material revenues or contribute positively to our earnings per share.
+
+Financial Risks
+
+Changes in our effective tax rate, the adoption of new tax legislation, or exposure to additional tax liabilities has in the past adversely affected, and could in the future adversely affect, our results of operations and financial condition.
+
+We conduct business operations in numerous countries and are subject to income and other taxes in multiple jurisdictions. Our future effective tax rates could be affected by changes in the mix of earnings in countries with differing statutory rates; changes in tax laws and regulations (or their interpretation); changes in the valuation of deferred tax assets and liabilities; and changes to tax holidays or incentives. The international tax environment continues to evolve as governments implement coordinated efforts and unilateral measures designed to address perceived international tax avoidance, including the OECD Pillar Two framework establishing a global minimum tax rate of 15%. Many countries, including certain countries in which we currently operate, have enacted or are enacting laws based on these initiatives, which could increase tax complexity and uncertainty and adversely impact our effective tax rate and cash tax liability. These and other changes to tax laws could have broader implications, including impacts to the economy, currency markets, inflation or competitive dynamics, which are difficult to predict, and could negatively impact us.
+
+Our taxes could also increase if certain tax holidays or incentives are not renewed upon expiration or are retracted if we are unable to satisfy the conditions on which such incentives are based, or if tax rates applicable to us in such jurisdictions are otherwise increased. Our continued ability to qualify for specific tax holiday extensions will depend on, among other things, our anticipated investment and expansion in these countries and the manner in which the local governments interpret the requirements for modifications, extensions or new incentives. Further, the global minimum tax is expected to reduce the benefits achieved from tax incentives. 
+
+We and our subsidiaries are regularly subject to tax audits and examinations by various taxing jurisdictions around the world. For example, one of our Brazilian subsidiaries received assessments for certain sales and import taxes which we are opposing. In determining the adequacy of our provision for income taxes, we regularly assess the likelihood of adverse outcomes resulting from tax examinations. While it is often difficult to predict the final outcome or timing of a tax examination, we believe our reserves for uncertain tax benefits reflect outcomes that are more likely than not to occur. However, we cannot assure you that the final determination of any tax examinations will not be materially different than that which is reflected in our income tax provisions and accruals. Should additional taxes be assessed or tax laws change adversely, there could be a material adverse effect on our tax provision, financial condition, results of operations, and cash flows.
+
+Our debt level may create limitations.
+
+As of March 31, 2026, our total debt was $3.8 billion. This level of indebtedness could limit our flexibility as a result of debt service requirements and restrictive covenants, and may limit our ability to access additional capital or execute our business strategy. See also note 22 "Subsequent Events" to the consolidated financial statements in Item 8, "Financial Statements and Supplementary Data" for discussion of an additional $1.45 billion of borrowings undertaken since March 31, 2026.
+
+Changes in our credit rating or capital market conditions may limit our access to financing or increase our borrowing costs.
+
+Our business relies on the availability of financing. The capital markets have in the past experienced and may continue to experience extreme volatility or disruptions that may lead to uncertainty and liquidity issues for both borrowers and investors. Any decline in our credit rating may make it more expensive for us to raise additional capital in the future on terms that are acceptable to us, if at all, negatively impact the price of our ordinary shares, increase our interest payments under some of our existing debt agreements, and have other negative implications on our business. A variety of factors beyond our control could impact the availability or cost of capital, such as domestic or international economic conditions, geopolitical uncertainty, tariffs or trade restrictions, increases in key benchmark interest rates and credit spreads, changes in banking or capital market laws or regulations, and volatility in capital and financial markets. We are also exposed to interest rate risk on our variable rate debt, invested cash balances, and factoring activities.
+
+22
+
+Table of Contents
+
+Fluctuations in foreign currency exchange rates could increase our operating costs and adversely affect our results of operations.
+
+We have operations in various countries around the world, including Asia, Eastern Europe, Mexico and Brazil. A portion of our purchases and sale transactions and operational costs are denominated in currencies other than the U.S. dollar. As a result, we are exposed to foreign currency exchange rate fluctuations that can affect our assets, liabilities, results of operations, and cash flows through both translation and transaction risk. Currency exchange rates fluctuate on a daily basis due to a number of factors, including changes in political and economic policies and conditions. The primary impact of currency exchange fluctuations is on the cash, receivables, payables and expenses of our operating entities. As part of our currency hedging strategy, we use financial instruments such as forward exchange contracts, swap contracts, and options to hedge our foreign currency exposure in order to reduce the short-term impacts of foreign currency rate fluctuations on our operating results. However, our hedging strategy may not fully mitigate the impacts of changes to foreign exchange rates, and if our hedging activities are not successful, if counterparties default on their obligations, or if we change or reduce these hedging activities in the future, we may experience significant unexpected expenses or fluctuations in our operating results. We are exposed to fluctuations in the Mexican peso and Chinese renminbi, and a significant increase in the value of these currencies could adversely affect our operating results by increasing our manufacturing costs and the costs of our local supply base.
+
+Our exposure to financially troubled customers or suppliers has in the past adversely affected, and could in the future adversely affect, our results of operations.
+
+We provide manufacturing services to companies and industries that have in the past, and could in the future, experience financial difficulty. When our customers experience financial difficulty, we may have difficulty recovering amounts owed to us, or demand for our products from these customers may decline. When one or more of our customers becomes insolvent or otherwise is unable to pay for the services provided by us on a timely basis, or at all, our operating results and financial condition are adversely affected. Such adverse effects have in the past included, and could in the future include, one or more of the following: an increase in our provision for doubtful accounts, a charge for inventory write-offs, a reduction in revenue, and an increase in our working capital requirements due to higher inventory levels and increases in days our accounts receivables are outstanding. Additionally, if our suppliers experience financial difficulty, we could have difficulty sourcing supplies necessary to fulfill production requirements and meet scheduled shipments.
+
+Failure to effectively manage working capital could adversely affect our cash flow, liquidity, and results of operations.
+
+Our operations are working capital intensive, and inventories, accounts receivable, and accounts payable are significant components of our net asset base. Key factors impacting our working capital include our ability to adequately manage materials purchasing and payment policies, fluctuations in collections of receivables, timing of capital expenditures and debt service obligations, and our ability to optimize terms and conditions with suppliers. Our Cloud and Power Infrastructure businesses may require elevated working capital commitments, including customer-specific materials, specialized test equipment, and inventory for customer programs with longer lead times, which can increase our exposure to demand variability and project delays. Our ability to fund growth depends on internally generated cash and access to debt and other financing on acceptable terms. Market disruptions, interest rate volatility, bank sector instability, or adverse credit conditions could increase borrowing costs, limit available capital, or delay funding, constraining project delivery and capacity expansion. High fixed and semi-fixed costs in our manufacturing operations can magnify the impact of utilization variability on earnings and cash flows. If we fail to manage our working capital effectively, our business, financial condition, results of operations, and liquidity could be materially adversely affected.
+
+The market price of our ordinary shares is volatile.
+
+The stock market in recent years has experienced significant price and volume fluctuations that have affected the market prices of companies, including technology companies. These fluctuations have often been unrelated to or disproportionately impacted by the operating performance of these companies. The market for our ordinary shares has been and could in the future be subject to similar volatility. Factors such as fluctuations in our operating results, announcements of technological innovations or events affecting other companies in the electronics industry, currency fluctuations, general market fluctuations, and macro-economic conditions may cause the market price of our ordinary shares to decline. Stock price fluctuations could impact the value of our equity compensation, which could affect our ability to recruit and retain employees.
+
+Our business could be impacted as a result of actions by activist shareholders, negative publicity, or other reputational harm.
+
+We may be subject, from time to time, to legal and business challenges due to actions instituted by activist shareholders or others. Responding to such actions could be costly and time-consuming, may not align with our business strategies and could divert the attention of our Board of Directors and senior management from the pursuit of our business strategies. Perceived uncertainties as to our future direction as a result of shareholder activism may lead to the perception of a change in the direction 
+
+23
+
+Table of Contents
+
+of the business or other instability and may make it more difficult to attract and retain qualified personnel and business partners and may affect our relationships with vendors, customers and other third parties. In addition, negative publicity concerning our company, industry, brand, personnel, or operations, regardless of accuracy, could harm our reputation and adversely affect our business, financial condition, and results of operations. Media coverage can spread rapidly through digital platforms and social media, making it difficult to remediate. Negative commentary may reduce customer trust and demand for our products and services, which could negatively impact our performance.
+
+Our goodwill and identifiable intangible assets could become impaired, which could adversely affect our financial condition and results of operations.
+
+We have recorded goodwill and identifiable intangible assets, consisting primarily of customer relationships, developed technology, and trade names, as a result of acquisitions. We evaluate on a regular basis whether events or circumstances indicate that the carrying amount of goodwill or intangible assets may no longer be recoverable. We have in the past incurred, and could in the future incur, impairment charges on goodwill or identifiable intangible assets. A decline in general economic conditions, global equity valuations, or the financial performance of our businesses could require us to record impairment charges. Any such material non-cash charge could impact our consolidated balance sheet and statement of operations, although it would not impact our cash flows, liquidity, capital resources, or debt covenants.
+
+Risks related to the Nextracker separation could adversely affect our business, financial condition, and results of operations.
+
+On January 2, 2024, we completed a series of transactions pursuant to which we distributed our remaining interests in Nextracker to our shareholders. Although we received a private letter ruling and tax opinion supporting tax-free treatment of the distributions and related mergers, neither is binding on the IRS or the courts, and if the distributions or related mergers were determined to be taxable, we would generally recognize gain equal to the excess of the fair market value of the distributed shares over our tax basis in those shares, which could have a material adverse effect on our business, financial condition and results of operations.
+
+In addition, in connection with the separation of Nextracker, we entered into various agreements governing our ongoing relationship, including with respect to indemnification obligations and tax matters. We have an ongoing dispute with Nextracker regarding certain tax distribution obligations under these agreements. Third parties could seek to hold us responsible for liabilities that Nextracker agreed to retain, and we cannot assure that Nextracker's indemnification obligations will be sufficient or that Nextracker will satisfy its obligations. Any of these matters could have a material adverse effect on our business, financial condition and results of operations.
+
+We are subject to risks associated with investments.
+
+We make investments in private funds and companies to further our strategic objectives and develop business relationships. Many of these instruments are non-marketable at the time of our initial investment. If any of the funds or companies in which we invest fail to perform, we could lose all or part of our investment. We have in the past written down the fair value of investments and recognized losses, and may need to do so in the future.
+
+Changes in accounting standards or management estimates could materially affect our financial results.
+
+We prepare our financial statements in conformity with U.S. GAAP, which involves subjective assumptions, estimates, and judgments. Changes in accounting standards or their interpretation, or changes in our underlying estimates, particularly those related to revenue recognition, asset impairment, and business combination valuations could have a material adverse effect on our reported results of operations and financial condition.
+
+International Risks 
+
+Global economic conditions and geopolitical uncertainty have in the past adversely affected, and could in the future adversely affect, our business, results of operations, financial condition, and access to capital markets.
+
+Our operations and the execution of our business plans and strategies are subject to the effects of global economic trends, geopolitical risks and demand or supply shocks arising from events that may include political crises, regional conflicts and wars, terrorist attacks, natural disasters, or actual or threatened public health emergencies. We are also affected by local and regional economic environments and policies in the U.S. and other markets we serve, including interest rates, monetary policy, inflation or stagflation, slower economic growth or recession, commodity prices, currency volatility, currency controls or other limitations on the repatriation of cash, sovereign debt levels, and actual or anticipated defaults on sovereign debt. For example, the conflicts in Ukraine and the Middle East, including the conflict in Israel and recent U.S. military operations in Iran, and related international sanctions and countermeasures have led, and may continue to lead, to disruption and instability in global markets, supply chains, and industries, that could negatively impact our business, financial condition, and results of operations. In addition, changes in economic conditions or outlooks in key markets, such as lower rates of investment or economic growth 
+
+24
+
+Table of Contents
+
+in China, Europe, or other regions, may reduce demand for, or profitability of, our products and services outside the U.S., and the impact on our business could be significant given the extent of our global operations. We also do business in emerging market jurisdictions where economic, political, and legal risks are heightened. These factors have in the past adversely affected, and could in the future adversely affect, our business.
+
+Inflationary pressures, such as what the market continues to experience, could affect our profitability and cash flows, due to higher wages, higher operating costs, higher financing costs, and/or higher supplier prices. Inflation may also adversely affect foreign exchange rates. We may be unable to pass along such higher costs to our customers. In addition, inflation may adversely affect customers' financing costs, cash flows, and profitability, which could adversely impact their operations and our ability to collect receivables. High or rising interest rates could have a dampening effect on overall economic activity and/or the financial condition of our customers, either or both of which could negatively affect customer demand for our manufacturing services and our customers' ability to repay obligations to us.
+
+These conditions may result in reduced consumer and business confidence and spending in many countries, tightening in credit markets, reduced liquidity in financial markets, heightened volatility in credit, fixed income, and equity markets, and currency exchange rate fluctuations. Prolonged disruption in capital or credit markets could adversely affect our access to liquidity needed for working capital, capital expenditures, acquisitions, research and development, and other corporate purposes. Adverse impacts on our customers and suppliers resulting from these conditions could, in turn, adversely affect us.
+
+We have manufacturing and other facilities across the globe, including in regions affected by geopolitical conflicts and instability, such as Ukraine and Israel. Our facilities could be damaged, destroyed, or otherwise unable to operate due to war, acts of hostility, terrorist acts, or related disruptions, which could jeopardize our ability to develop, manufacture, and deliver products and adversely affect our business operations and results of operations. For example, on August 21, 2025, a missile strike on our Mukachevo, Ukraine facility caused substantial physical damage and disrupted normal operations; in response, we activated contingency manufacturing plans and transitioned production to alternative facilities. In addition, our operations have been, and could continue to be, disrupted by employee absences related to mandatory military service. Regional conflicts, hostilities, or armed conflicts, or interruptions or curtailment of trade or transport between the countries where our facilities are located and their respective trading partners, have in the past, and could in the future, adversely affect our operations and results of operations.
+
+Tariffs, trade restrictions, export controls, and changes in trade policy, including heightened trade volatility and uncertainty regarding trade agreements, have in the past adversely affected, and could in the future adversely affect, our business, results of operations, and financial condition.
+
+Political developments and trends and sentiment toward multinational companies have resulted in, and may continue to result in, tariffs, export controls, trade restrictions, and other barriers, as well as changes to tax and other laws and policies. These measures have been, and are expected to continue to be, disruptive to our business and may impact our global operating model, supply chain, production costs, customer relationships, customer demand and competitive position. Such measures can be imposed suddenly and unpredictably.
+
+Throughout 2025 and into 2026, the U.S. administration imposed varying levels of tariffs on goods imported from China and other countries where we or our customers source materials and manufacture products. Further escalation of trade tensions, including through the imposition of new or increased tariffs (including retaliatory tariffs), expanded trade restrictions, or intensified decoupling between the U.S. (as well as other major economies) and China or other key trading partners could materially increase our product input costs, negatively affect global economic conditions, contract customer demand, or otherwise adversely affect our business. Related declines in confidence or investment activity in global markets could further adversely affect our business performance. 
+
+As a global manufacturing and supply chain services partner with operations, suppliers, and customers across multiple jurisdictions, we have been, and expect to continue to be, impacted by tariffs and trade actions through the timing and mechanics of cost recovery and operational complexity. We generally seek to pass tariff costs through to our customers, which can affect reported net sales, operating income margins, and the timing of operating cash flows as tariffs are paid and subsequently recovered. To the extent we are unable to recover tariff costs from certain customers, or experience delays in doing so, our results of operations and cash flows could be adversely affected. The actual impact of tariffs and related trade measures on our business depends on numerous factors, including their scope, effective date, duration, magnitude, products and countries covered, customer contract terms, and the imposition of retaliatory or reciprocal measures by other countries.
+
+In addition, changes to, or uncertainty surrounding, international trade agreements may adversely affect our business. Existing trade agreements, including the United States‑Mexico‑Canada Agreement (“USMCA”), provide preferential tariff treatment and other benefits for qualifying imports and exports, subject to compliance with applicable rules of origin, classification, and other requirements. The USMCA is subject to a joint review process in 2026, and there can be no assurance 
+
+25
+
+Table of Contents
+
+that the agreement will not be amended, suspended, or terminated, or that its benefits will not be reduced. Any material modification to, or withdrawal from, the USMCA, or the imposition of additional tariffs or trade restrictions affecting North America, could result in increased costs, supply chain disruptions, delays in shipments, additional compliance burdens, or the need to modify sourcing or manufacturing strategies, which could materially adversely affect our business, financial condition, and results of operations.
+
+Recent legal and policy developments have also increased uncertainty regarding the enforceability, duration, and potential re‑imposition of certain tariffs. For example, on February 20, 2026, the U.S. Supreme Court struck down certain tariffs imposed under the International Emergency Economic Powers Act ("IEEPA"). Following that decision, the U.S. administration announced a new 10% global tariff under Section 122 of the Trade Act of 1974, subject to certain exceptions; however, on May 7, 2026, the U.S. Court of International Trade ruled that the Section 122 tariffs were not authorized by law, a decision the administration has appealed. These and similar developments have created uncertainty regarding the future rate, scope, and enforceability of tariffs; the availability and timing of refunds for tariffs that may be invalidated; the potential adoption of alternative legislative or executive actions; and the continued effectiveness of trade arrangements or mitigation actions adopted in response to prior tariffs. Ongoing uncertainty regarding U.S. and global trade policies, sanctions, and tariffs, including actions involving China, North America, and other key manufacturing and sourcing jurisdictions, could adversely affect our business, financial condition, and results of operations.
+
+We conduct operations in a number of countries and are subject to risks inherent in global operations.
+
+Our global manufacturing and supply chain operations involve significant operational complexity, including managing activities across multiple regions, time zones, regulatory regimes, and logistical networks. Products may be manufactured or assembled across multiple facilities and countries, which increases exposure to disruptions, coordination challenges, and delays in procurement, production, and delivery. 
+
+Because we operate in the Americas, Asia, and Europe, we are subject to economic, political, regulatory, and social risks in the countries in which we operate, including currency fluctuations and exchange controls; labor unrest, labor shortages, and rising labor costs; longer payment cycles; inflationary pressures; changes in tax, customs, and regulatory regimes; trade restrictions and sanctions; supply chain disruptions; geopolitical instability and conflict; natural disasters; epidemics and pandemics; expropriation of private enterprises; and limitations on infrastructure, including power, water, transportation, and availability of raw materials and components.
+
+Changes in U.S. and foreign government policies, including those relating to trade, sanctions, information security, data privacy, national security, and foreign investment, may affect the attractiveness of our services to customers and our ability to conduct business with certain customers or suppliers. We have significant operations in China, which have been, and could continue to be, affected by evolving laws, regulations, and geopolitical developments involving China. We could be subject to reputational harm if any of our customers, former customers or vendors were subject to U.S. sanctions or did business with sanctioned entities or countries or otherwise violated applicable sanctions or export control laws. Furthermore, regional conflicts, including the conflicts in Ukraine and the Middle East, including the conflict in Israel and recent U.S. military operations in Iran, and tension between China and Taiwan, could result in sanctions, regional market instability, increased energy and transportation costs, supply chain disruptions, and other adverse regional and global financial and economic conditions, any of which can impact the demand for, or our ability to sell, our products and services in the impacted regions. 
+
+Escalation of hostilities involving Iran, Israel, and the United States or regional proxy groups could adversely affect regional stability, threaten critical infrastructure such as data centers, impair access to ports and transportation routes including the Strait of Hormuz, and increase fuel, energy, freight, insurance, and security costs. In addition, expanded sanctions, export controls, or other governmental measures affecting the region could impair our ability to conduct business, collect receivables, or repatriate funds.
+
+In particular, geopolitical changes in China-Taiwan relations could disrupt the operations of several companies in Taiwan that are critical to the global supply of semiconductors and other electronic components on which many of our customers depend, and any escalation of tensions could materially affect our supply chain and operations.
+
+Some countries in which we operate, such as Brazil, Hungary, India, Malaysia, Mexico, and Poland, have experienced periods of economic volatility, high inflation, currency devaluations, or limited availability of foreign exchange, and governmental authorities in some jurisdictions exercise significant influence over economic activity. These conditions could adversely affect our operations, financial condition, or ability to repatriate cash. Our international operations also expose us to risks related to foreign currency exchange, inflation, and restrictions on currency conversion or fund transfers. In certain countries, central banks or other authorities may impose conditions on foreign exchange transactions or restrict the movement of capital, which could limit our ability to access or deploy cash across our global operations.
+
+26
+
+Table of Contents
+
+Legal and Regulatory Risks
+
+Litigation, investigations, or enforcement actions could result in significant liabilities, operational restrictions, and reputational harm.
+
+We are, from time to time, subject to claims, lawsuits, investigations, and regulatory or administrative proceedings across the jurisdictions where we operate. These matters may involve commercial disputes, regulatory compliance, intellectual property, antitrust, product liability, employment and labor, privacy and data protection, securities laws, governance, and tax. Adverse outcomes, whether by judgment, settlement, consent decree, or otherwise, could require monetary payments, penalties, injunctive relief, operational changes, monitorships, remedial measures, or enhanced compliance controls. Even if we prevail, we may incur substantial costs, increased insurance premiums, and management distraction that disrupts our operations and harms our reputation with customers, suppliers, employees, and regulators. Outcomes are inherently unpredictable, and our accruals and insurance coverage may be insufficient or unavailable. Any of these matters could materially adversely affect our business, financial condition, results of operations, and cash flows.
+
+We are subject to complex and evolving trade policies, export controls, and sanctions, and failure to comply or adapt to changes in these regimes could restrict our business or result in significant penalties.
+
+Due to the global nature of our business, we are subject to a complex system of import- and export-related laws and regulations in the U.S. and other countries, including economic sanctions administered by the U.S. Department of the Treasury's Office of Foreign Assets Control and similar regimes in other jurisdictions. Our products, services, and technology are regulated by these trade control and customs regimes and in some cases require licenses or other authorizations. Our ability to obtain and maintain such licenses and authorizations on a timely basis, or at all, is subject to risks and uncertainties, including changing laws, regulations, foreign policies, and geopolitical factors. Non-compliance by us, our customers, or our suppliers can result in denial of export privileges, fines, criminal penalties, administrative sanctions, seizure of inventory, import detention, and loss of business. Delays or denials of licenses can prevent or defer sales, and previously recognized revenue and profit may need to be reversed. Moreover, we could be subject to reputational harm if any of our customers, former customers, or vendors were subject to U.S. sanctions or conducted business with sanctioned countries. Any restrictions on the export or import of our products could have a material adverse effect on our competitive position, results of operations, financial condition, or liquidity.
+
+Failure to comply with data privacy and cybersecurity laws and regulations could expose us to government enforcement, significant penalties, civil litigation, and reputational harm.
+
+We regularly move data across borders to operate our global business, and are consequently subject to a broad and continuously evolving set of privacy and data protection laws and regulations both domestically and internationally, including the European Union General Data Protection Regulation ("GDPR"), the UK GDPR, China's Personal Information Protection Law ("PIPL"), India's Digital Personal Data Protection Act, and comprehensive privacy statutes in numerous U.S. states, including the California Consumer Privacy Act ("CCPA"), as amended by the California Privacy Rights Act ("CPRA"). These laws impose numerous, and oftentimes differing, obligations on data controllers and processors, and new requirements continue to be proposed and enacted across U.S. federal, state, and international jurisdictions. Compliance can be costly, and the complexity and inconsistency of these frameworks across jurisdictions poses significant compliance challenges that have resulted, and will continue to result, in increased costs and required modifications to our data processing practices and policies.
+
+Any actual or perceived failure to comply with applicable data privacy or cybersecurity laws, related contractual obligations, or other data protection standards, whether by us, a third-party service provider, or another party, could result in government inquiries, regulatory investigations, significant fines and penalties, orders to cease or modify our data practices, damages for contract breach, and civil litigation, as well as harm to our reputation and market position. We may also be required to invest significant additional resources to comply with evolving cybersecurity and AI-related regulations and to modify and enhance our information systems and controls. Our liability insurance may not be sufficient in type or amount to cover us against all claims related to privacy violations or regulatory non-compliance.
+
+Inadequate protection of our intellectual property and exposure to third-party intellectual property claims could adversely affect our business and results of operations.
+
+We develop and own, and in some cases license, intellectual property used in our design, engineering, and manufacturing services and in our products. Although we use a range of measures to protect our intellectual property, including contractual and security controls and seeking patent and trademark protection where appropriate, these measures may not prevent infringement, misappropriation, or other unauthorized disclosure or use of our intellectual property. Protecting our proprietary technology is difficult and expensive, and we may need to litigate with third parties to enforce or defend patents issued to us and other intellectual property rights, or to determine the enforceability and validity of our proprietary rights or those of others. 
+
+27
+
+Table of Contents
+
+If we cannot adequately protect or enforce our intellectual property rights, we could lose the competitive advantages of our proprietary technology, which would harm our business.
+
+Our activities may expose us, our suppliers, and our customers to claims that our services, products, processes, designs, or components infringe, misappropriate, or otherwise violate third-party intellectual property rights, or that we have breached license or other contractual provisions. We also enter into patent, software, and other licenses governing our use of certain technologies, and certain of our activities may fall outside the scope of such licenses, which may subject us to royalty claims by licensors. Because we provide design and engineering services in addition to manufacturing, customers often seek to allocate intellectual property risk to us to a greater extent than in traditional contract manufacturing engagements, including requiring broad intellectual property indemnities. Assertions against our customers may trigger indemnification obligations, requiring that we participate in their defense, or result in disputes over responsibility between us and our customers. Moreover, we could become subject to large indemnity payments or damages claims from contractual breach, which could harm our results of operations, cash flows, financial condition, or prospects.
+
+If infringement, misappropriation, or other similar claims are brought against us or our customers, whether or not they have merit, we could be required to expend significant resources on defense, and we or our customers could be required to develop non-infringing alternatives, obtain licenses, or cease, delay, or modify the affected services, products, or features. Suitable alternatives may be unavailable or costly, licenses may not be available on commercially reasonable terms or at all, and any litigation or dispute resolution could be lengthy, disruptive, and expensive and may not be resolved in our or our customers' favor.
+
+We also face heightened risks to our intellectual property in certain foreign jurisdictions, including risks of theft, reverse engineering, or misuse; limitations in the availability, scope, or enforceability of intellectual property rights; and challenges in obtaining effective remedies. In some countries in which we operate, intellectual property laws and enforcement mechanisms are weaker than in the United States, and legal or administrative requirements may require us to compromise protections or yield certain rights to technology, data, or other intellectual property to conduct business in such countries or access certain markets. Any inability to obtain, maintain, or enforce our intellectual property rights in jurisdictions where we operate could result in the loss of competitive advantage, reduced revenue, and other adverse consequences that could adversely affect our business, financial condition, and results of operations.
+
+Evolving regulations relating to data center development, energy consumption, and utility infrastructure could adversely affect demand for our products and services.
+
+Government authorities in the United States and other jurisdictions have enacted, proposed, or are considering laws and regulations relating to data center development and permitting, energy and water consumption, grid reliability, and environmental and community impacts. These regulatory developments may result in new requirements, delays, or restrictions on the development, expansion, or operation of data centers or related infrastructure by our customers and third-party facility operators. In particular, certain jurisdictions have imposed or are considering moratoria or pauses on new data center development, enhanced permitting and environmental review processes, requirements for data center operators to fund or share in the cost of grid or other utility upgrades, and operational restrictions relating to energy efficiency, water consumption, noise mitigation, or other community-impact measures. Such regulatory actions could increase our customers’ costs, delay or reduce their planned infrastructure investments, limit the scale or geographic location of data center deployments, or otherwise constrain their ability to deploy or expand AI, machine learning, and high-performance computing infrastructure. Given our Cloud and Power Infrastructure businesses’ exposure to data center development activity, any sustained reduction or delay in data center investment resulting from regulatory developments could materially and adversely affect demand for our products and services, our results of operations, and our financial condition.
+
+Our compliance program may not prevent violations of anti-corruption and related laws, which could result in severe penalties, business restrictions, and reputational harm.
+
+We conduct business in numerous jurisdictions subject to stringent anti-corruption and anti-bribery requirements, including the U.S. Foreign Corrupt Practices Act, the UK Bribery Act, and similar laws elsewhere. We maintain policies, procedures, training, and internal controls designed to promote compliance and prohibit offering, promising, authorizing, or providing anything of value to government officials or other counterparties to obtain or retain business. However, we cannot assure that our employees, agents, consultants, or other third parties acting on our behalf will comply with these requirements at all times, particularly in jurisdictions where corruption is perceived to be more prevalent. Actual or alleged violations could result in investigations, significant civil and criminal fines and penalties, disgorgement, monitorships, and reputational damage. Any of these events could adversely affect our business, financial condition, results of operations, and could require substantial management time and resources to address.
+
+28
+
+Table of Contents
+
+Defects or failures in our products, manufacturing processes, or design and engineering services could expose us to product liability, warranty claims, contractual penalties, and reputational harm.
+
+Our products and the manufacturing processes and design and engineering services we use to produce them are often highly complex, and some, particularly in the automotive and healthcare industries, must satisfy strict safety, quality, and regulatory standards. Defects or deficiencies, whether in design, engineering, manufacturing, or component sourcing, have occurred in the past and could in the future result in delayed shipments, reduced or canceled orders, product or component failures, and reputational damage.
+
+Such failures may also subject us to regulatory enforcement, fines, penalties, or operational shutdowns. We are exposed, from time to time, to product liability and warranty claims, including for personal injury, property damage, and product recall, repair, or replacement, as well as service-based remediation obligations and other contractual penalties, any of which can be costly and disruptive. Even where customers, suppliers, or third parties bear primary responsibility for underlying defects, indemnification may be unavailable or inadequate, and insurance coverage may be insufficient or uneconomic. As we expand higher-value design and engineering offerings, our warranty exposure may increase, and pricing may not fully cover associated costs. A successful claim in excess of our insurance coverage, or for which coverage is denied or unavailable, could have a material adverse effect on our business, results of operations, and financial condition.
+
+We may not meet regulatory quality standards applicable to our manufacturing and quality processes for medical devices, which could have an adverse effect on our business, financial condition, and results of operations.
+
+As a service provider engaged in designing and manufacturing medical devices, we are subject to compliance requirements beyond those applicable to our other businesses. In the United States, we are subject to regulatory inspection for compliance with the FDA's Quality System Regulation ("QSR"), which requires manufacturers of medical devices to implement and adhere to design and process manufacturing controls, quality control, labeling, handling, and documentation procedures. If an FDA inspection reveals noncompliance that we do not address to the FDA's satisfaction, the FDA may issue inspection observations or warning letters, impose fines, bring an action against us or our officers, require a product recall, issue an import alert or import detention, or halt operations at a manufacturing facility. The FDA has in the past issued inspection observations and warning letters to us following inspections of our manufacturing facilities, and there can be no assurance that similar regulatory actions will not occur in the future. Any such action could harm our reputation, disrupt our operations, and cause our business to suffer.
+
+Our medical devices business is also subject to applicable state laws and the regulatory requirements of other countries. In the European Union (“EU”), we must maintain standardized certifications and undergo periodic inspections. Failure to comply with applicable regulatory requirements could restrict or stop the flow of products into or out of various jurisdictions from us or our customers. In China, the National Medical Products Administration controls and regulates healthcare products manufacturing, and we must comply with applicable regulatory laws or our ability to manufacture products in China could be impaired. In Japan, the Pharmaceutical Affairs Laws and related regulations require that subcontractors manufacturing products for the Japanese market register with authorities and submit to regulatory audits. Similar laws apply in other countries where we operate, including elsewhere in Asia and in Latin America. Our failure to comply with applicable requirements could interrupt our operations and our ability to manufacture products for sale into these markets, harming our reputation and business.
+
+Failure to comply with domestic or international employment and related laws and regulations could adversely affect our business and financial performance.
+
+We are subject to U.S. and foreign employment, labor, benefits, immigration, and related laws governing wage-and-hour requirements, worker classification, workplace safety, anti-discrimination, pay equity, collective bargaining, work authorization, and related matters, among others. These requirements vary significantly by jurisdiction and are subject to frequent change, and compliance can be costly and time-consuming. Government agencies and private plaintiffs, including through class or collective actions, regularly pursue audits, investigations, and enforcement. Adverse outcomes may include monetary penalties, back pay, damages, tax assessments, injunctive or equitable relief, operational restrictions, restrictions on staffing models, and immigration-related sanctions, any of which can be costly and disruptive to address. We have in the past been, and expect in the future to be, subject to certain of these actions, audits and investigations. Any of the foregoing could materially and adversely affect our business, financial condition, results of operations, and reputation.
+
+Evolving sustainability expectations and related disclosure regimes may increase costs, create legal exposure, and adversely impact our operations, talent attraction, and access to capital.
+
+Governments, investors, customers, employees, and other stakeholders continue to focus on sustainability matters, including climate change and greenhouse gas ("GHG") emissions, environmental stewardship, human capital management, human rights, responsible sourcing, and related matters. These expectations have generated multiple and evolving reporting regimes, including the EU's Corporate Sustainability Reporting Directive ("CSRD") and California's climate statutes. Meeting 
+
+29
+
+Table of Contents
+
+these expectations involves significant operational, financial, legal, regulatory, and reputational risks. Applicable requirements vary significantly by jurisdiction, customer, and product category, and may be subject to inconsistent or rapidly evolving interpretations. Compliance may require additional resources and controls, including formal risk assessments, due diligence processes, data collection, monitoring, audits, remediation, and increased supplier engagement, which may not always be recoverable through product pricing and could adversely affect our margins, competitiveness, and results of operations.
+
+Sustainability‑related information often relies on estimates, assumptions, and evolving methodologies, including data from third parties. Despite our efforts to enhance systems, processes, and controls, such information may be incomplete, inaccurate, or subject to differing interpretations, which could result in regulatory scrutiny, enforcement actions, litigation, reputational harm, or loss of stakeholder confidence. At the same time, "anti-ESG/DEI" legislation and policies in certain jurisdictions - including proposals and enactments by several U.S. states, Congress, and the Executive Branch - may impose additional and potentially conflicting compliance obligations, private litigation risks, and reputational harm, and could result in us becoming subject to investigations or enforcement actions.
+
+We have established and publicly announced sustainability strategies, goals, commitments, and targets, which we may change or refine over time. Our failure or perceived failure to pursue or fulfill our stated goals, maintain adequate supporting processes, adhere to our public statements, or comply with applicable reporting requirements could adversely affect our reputation, customer relationships, talent recruitment and retention, and investment attractiveness, and could result in government enforcement actions or private litigation. We may revise, reprioritize, or discontinue certain sustainability initiatives in response to evolving regulations, market conditions, or business priorities, and balancing sustainability objectives with financial performance and operational efficiency may involve tradeoffs. Certain customers and business partners incorporate sustainability-related requirements into procurement decisions and contractual obligations, and our inability to meet such requirements in a timely or cost-effective manner could result in reduced demand, lost business opportunities, or more restrictive contract terms.
+
+Climate change regulation could disrupt our operations and supply chain and increase our costs.
+
+In many of the countries in which we operate, governmental bodies have enacted or are considering legislation and regulations in response to climate change, including climate-specific due diligence and carbon pricing frameworks such as the EU Corporate Sustainability Due Diligence Directive ("CSDDD") and the EU Taxonomy, that may directly or indirectly affect our operations and supply chain. Compliance may require increased energy, production, transportation, and raw material costs, higher capital expenditures, and higher insurance costs. Inconsistent requirements across jurisdictions may further increase compliance burden. We have committed to reducing our GHG emissions as part of our long-term sustainability strategy and may take additional voluntary steps to mitigate our climate impact. The potential impact of future climate change legislation, regulation, or international accords is uncertain, and any of these developments could have a material adverse effect on our business, results of operations, and financial condition.
+
+Our failure to comply with environmental, health and safety, product stewardship and producer responsibility laws or regulations could adversely affect our business.
+
+We are subject to extensive and changing federal, state, local, and international environmental, health and safety laws and regulations concerning the health and safety of our employees and the generation, use, storage, transportation, discharge, and disposal of hazardous substances used in our manufacturing processes. We are also subject to laws governing the recyclability of products, the materials that may be included in products, and our obligations for product end-of-life disposal, including to dispose of products after end users have finished with them. Applicable regimes include the EU Waste Electrical and Electronic Equipment Directive, China's regulation on electronic information products, and the EU carbon border adjustment mechanism. Violations or alleged violations could lead customers to refuse purchases and could trigger fines, penalties, production suspension, product recalls, or costly changes to operations, procurement, and inventory management. We are responsible for environmental remediation at certain current and former facilities and at certain third-party sites. Some environmental laws impose liability without regard to fault, requiring current or former property owners or operators to investigate, remove, or remediate hazardous substances regardless of when such substances were released. More stringent standards or new findings of contamination could increase our liabilities and costs, and additional environmental matters may arise at sites where no issue is currently known or at sites we may acquire. We have in the past been, and expect in the future to be, subject to certain of these liabilities and cleanup costs. Any of the foregoing could materially adversely affect our business, results of operations, cash flows and financial condition.

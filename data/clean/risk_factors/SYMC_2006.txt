@@ -1,0 +1,2201 @@
+, beginning on page 16. We
+encourage you to read that section carefully.
+
+3
+
+Table of Contents
+
+PART I
+
+ Item 1.     
+
+ Business
+
+Overview
+
+Symantec is the world leader in providing a wide range of
+solutions to help individuals and enterprises assure the
+security, availability, and integrity of their information
+technology, or IT, infrastructure as well as the information
+itself. We primarily operate in two growing, diversified markets
+within the software sector: the secure content management market
+and the storage software market. The secure content management
+market includes products that protect consumers and enterprises
+from threats to personal computers, or PCs, computer networks,
+and electronic information. The storage software market includes
+products that archive, protect, and recover business-critical
+data. We believe that these markets are converging as customers
+increasingly require both secure content management and storage
+solutions in order to safeguard their IT infrastructure,
+information, and interactions.
+
+Our mission is to provide solutions that help protect the
+connected experience of our enterprise and consumer customers.
+Our goal is to be the leading supplier of security and
+availability software to the enterprise and consumer markets,
+and to provide customers in both markets with greater confidence
+that their information is secure and readily available. We
+strive to help our customers manage compliance, complexity, and
+cost by protecting their IT infrastructure as they seek to
+maximize value from their IT investments.
+
+In the ever-changing threat landscape and increasingly complex
+IT environment for consumers and enterprises alike, we believe
+product differentiation will be the key to sustaining market
+leadership. Thus, we continually work to enhance the features
+and functionality of our existing products, extend our product
+leadership, and create innovative solutions for our customers.
+We focus on generating profitable and sustainable growth through
+internal research and development, licensing from third parties,
+and acquisitions of companies with leading technologies.
+
+On July 2, 2005, we completed our acquisition of Veritas
+Software Corporation, a leading provider of software and
+services to enable storage and backup, in a stock transaction
+valued at $13.2 billion. This acquisition has provided us
+with the opportunity to redefine protection beyond security to
+include comprehensive protection of information and applications
+and more effective management and control of computing and
+storage environments from the desktop to the data center for
+individuals and organizations of all sizes. As a result of this
+acquisition, we believe we are better positioned to help
+customers build a resilient IT infrastructure, cost effectively
+manage a complex IT environment, and reduce overall IT risk.
+During fiscal 2006, excluding Veritas, we completed acquisitions
+of five privately-held companies and one public company for an
+aggregate of $627 million in cash.
+
+With revenue of $4.1 billion in fiscal 2006, Symantec ranks
+among the top four independent software companies in the world.
+We have operations in 40 countries. Founded in 1982, we are
+incorporated in Delaware. Our principal executive offices are
+located at 20330 Stevens Creek Blvd, Cupertino, California
+95014. Our telephone number at that location is
+(408) 517-8000. Our home page on the Internet is
+www.symantec.com
+. Other than the information
+expressly set forth in this annual report, the information
+contained, or referred to, on our website is not part of this
+annual report.
+
+Industry
+
+The secure content management market consists of antivirus,
+messaging security, web filtering, and anti-spyware products and
+services. Security threats continue to evolve from traditional
+viruses, worms, Trojan horses, and other vulnerabilities, to
+more recent threats such as phishing (attacks that use spoofed
+websites and emails designed to record keystrokes or to fool
+recipients into divulging personal financial data), email fraud,
+and identity theft. This evolution is a key driver of our
+research and development and acquisition strategies, as we
+continually differentiate our solutions from the competition and
+address our customers’ changing needs.
+
+4
+
+Table of Contents
+
+As a result of the Veritas acquisition, we have gained market
+share in the storage software market and are now the leading
+supplier of hardware-independent storage software. The worldwide
+storage software market consists of storage management, server
+and application management, backup and archiving, and
+infrastructure software products and services. Demand in this
+market is driven by the ever-increasing quantity of data being
+collected, the need for data to be protected, recoverable, and
+accessible at all times, and the need for a growing number of
+critical applications to be continuously available and highly
+performing.
+
+Other factors driving demand in this market include the increase
+in the number of Internet users and companies conducting
+business online, the continuous automation of business
+processes, increased pressures on companies to lower storage and
+server management costs while simultaneously increasing the
+utilization and performance of their existing IT infrastructure,
+and the increasing importance of document retention and
+regulatory compliance solutions.
+
+For information regarding our revenue by segment, revenue by
+geographical area, and long-lived assets by geographical area,
+see Note 15 of the Notes to Consolidated Financial
+Statements. For information regarding the amount and percentage
+of our revenue contributed in each of our product categories and
+our financial information, including information about
+geographic areas in which we operate, see Item 7,
+Management’s Discussion and Analysis of Financial
+Condition and Results of Operations. For information
+regarding risks associated with our international operations,
+see Item 1A, 
+Risk Factors.
+
+Operating Segments and Products
+
+As of March 31, 2006, we viewed our business in six
+operating segments: Consumer Products, Enterprise Security, Data
+Protection, Storage and Server Management, Services, and Other.
+The Other segment is comprised of sunset products and products
+nearing the end of their life cycle and also includes all
+indirect costs; general and administrative expenses;
+amortization of acquired product rights, other intangible
+assets, and other assets; and charges, such as acquired
+in-process research and development, patent settlement,
+amortization of deferred compensation, and restructuring, that
+are not charged to the other operating segments. We report the
+expenses of the former Veritas sales force that cannot be
+allocated to a specific operating segment in the Other segment.
+
+Beginning in the June 2006 quarter, we will consolidate our
+Enterprise Security, Data Protection, and Storage and Server
+Management segments into two segments — the Security
+and Data Management segment and the Data Center Management
+segment.
+
+ Consumer Products
+
+Our Consumer Products segment focuses on delivering our Internet
+security and problem-solving products to individual users, home
+offices, and small businesses. Our Norton brand of consumer
+security software solutions provides protection for Windows and
+Macintosh platforms as well as personal digital assistants, or
+PDAs, and smartphones. Nearly 90% of our sales within the
+Consumer Products segment consist of products providing
+protection from virus attacks.
+
+Many of Symantec’s consumer products include an ongoing
+commitment to provide product technology and feature updates
+throughout the typical
+12-month term of the
+subscription, to help ensure
+
+up-to-the-minute
+protection against the latest threats. Most of the products that
+we are currently marketing or developing feature
+LiveUpdate
+tm
+
+functionality, which automatically updates these products with
+the latest technology, virus definitions, firewall rules,
+Uniform Resource Locator, or URL, databases, and uninstall
+scripts.
+
+The revenue base for our consumer products segment expanded
+significantly during fiscal 2003 through 2005. We believe
+comparable growth rates will be difficult to achieve in future
+periods. During fiscal 2006, the growth rate of our consumer
+business slowed considerably, impacted by a changing threat
+environment, a change in our revenue recognition model driven by
+increases in future subscription pricing for our 2006 consumer
+products that include content updates, and a strengthening
+dollar.
+
+5
+
+Table of Contents
+
+Our primary consumer products are:
+
+ Norton Internet
+ Security
+tm
+
+ This product helps defend home and home office users against
+ viruses, worms, and other security risks, including spyware,
+ spam, phishing, and fraud. It combines antivirus, antispam,
+ firewall, privacy protection, and parental control technologies.
+ It automatically filters spam and phishing email and blocks
+ intruders and identity thieves.
+
+ Norton
+ AntiVirus
+tm
+
+ This product automatically removes viruses, Trojan horses, and
+ worms. It also checks incoming and outgoing email attachments
+ for viruses. In addition, it scans incoming instant message
+ attachments for threats and it detects and blocks high-risk
+ spyware and adware programs before they are installed on the
+ receiving system.
+
+ Norton
+ SystemWorks
+tm
+
+ This family of PC health solutions provides consumers with
+ essential tools to maintain and optimize their computers, solves
+ common problems, and helps boost system performance. These
+ solutions enable
+ back-up of everything
+ on the PC and will recover a user’s system and
+ data — even if the operating system will not start.
+ These solutions also include capabilities such as antivirus,
+ system optimization diagnostics and utilities, backup and
+ recovery, and one-button check up.
+
+For most of our consumer products, we translate the
+documentation, software, and packaging into the local language
+and prepare marketing programs tailored for each local market.
+
+ Enterprise Security
+
+Our Enterprise Security segment provides security solutions for
+all tiers of a network: at the server tier behind the gateway
+and at the client tier, including desktop PCs, laptops, and
+handhelds. Our comprehensive software and appliance solutions
+include virus protection and content filtering, antispam,
+endpoint security, firewall and virtual private networking, or
+VPN, intrusion protection, policy compliance, security
+management, managed security services, and early warning
+services.
+
+Our technology offerings include integrated solutions at the
+gateway and client levels, including Symantec Client Security
+and Symantec Gateway Security, which combine several of our
+security and early warning solutions. At the gateway level, our
+products run on Windows NT, Solaris, and Linux platforms.
+At the server level, our products operate on Windows NT,
+UNIX, Linux, and other key server platforms. At the client
+level, our products run on the Windows platform.
+
+Our primary enterprise security solutions address the following
+areas:
+
+ Antivirus
+
+Nearly 75% of our sales within the Enterprise Security segment
+consist of solutions providing protection from virus attacks,
+including Symantec AntiVirus, Symantec Client Security, and
+Symantec Mail Security. Users of our virus protection and
+filtering products are able to protect their computer networks
+from both known and unknown risks associated with the use of
+Internet resources. Our enterprise antivirus products scan or
+monitor data that enters, leaves, or travels inside the
+organization, and can detect and eliminate malicious code that
+may be introduced into a company’s network.
+
+ Antispam
+
+Our antispam solutions protect more than 300 million email
+user accounts worldwide from unwanted email known as spam. They
+provide a multi-layered approach to combating spam, with
+solutions that sit outside the gateway, at the gateway, and at
+the desktop. The Symantec Mail Security software, appliance, and
+
+6
+
+Table of Contents
+
+hosted solutions include technology that leverages more than 20
+spam protection techniques, delivering antispam effectiveness
+rates of up to 95% and one of the industry’s highest
+accuracy rates against false positives, or legitimate email
+mistakenly categorized as spam.
+
+ Compliance
+
+We provide a number of solutions to help customers simplify and
+sustain compliance with various government regulations, industry
+standards, and internal policies. Our compliance solutions
+provide IT administrators a consolidated view of IT compliance
+across multiple mandates, proactive and reliable IT controls to
+retain and secure information, and actionable intelligence to
+provide ongoing compliance. Our solutions include Symantec
+Enterprise Security Manager, Symantec
+BindViewtm
+
+Policy Manager, and Symantec
+Sygate
+tm
+
+Network Access Control. These solutions help automate the
+management of deviations from security configurations and
+standards. In addition, they help customers lower the cost of
+compliance through automated assessment of policies against
+industry regulations and best practices and they help enforce IT
+security policies throughout the enterprise network.
+
+ Managed Security Services
+
+Symantec Managed Security Services are designed to allow
+enterprise IT organizations to cost-effectively outsource their
+security management, monitoring, and response needs. Our
+comprehensive service offerings leverage the knowledge of
+Internet security experts to protect the value of an
+organization’s networked assets and infrastructure. We
+provide remote monitoring and management of vendor neutral
+firewall and VPN solutions; real-time monitoring and analysis of
+intrusion detection alerts; coordinated event monitoring,
+analysis, and management of Symantec security appliances; and
+integrated global intelligence services from our early warning
+solutions.
+
+ Data Protection
+
+Our Data Protection segment provides software solutions designed
+to protect, backup, archive, and restore data across a broad
+range of computing environments, from large corporate data
+centers to remote groups and PC clients, such as desktop and
+laptop computers. Approximately 90% of our sales in the Data
+Protection segment consist of backup and recovery products. At
+the gateway and server levels, our products monitor systems for
+patterns of misuse and abuse and can warn organizations before
+systems are misused or information is stolen.
+
+Email archiving is the fastest growing area in this segment. Our
+strength in the email archiving market is driven by robust
+customer demand for regulatory compliance solutions and
+technology that helps to better manage the email and broader
+messaging environment.
+
+Our primary data protection products are:
+
+ Backup
+ Exec
+tm
+
+ This product is designed for disk-based back-up, delivering
+ reliable, fast, and efficient continuous data protection for
+ Windows servers. The latest version of Backup Exec, Backup Exec
+ 10d, eliminates the need for backup windows and introduces the
+ industry’s first web-based file retrieval.
+
+ Veritas
+ NetBackup
+tm
+
+ This product provides customers with a heterogeneous backup and
+ recovery solution that supports all major server and storage
+ platforms in the enterprise, mid-size organizations, workgroups,
+ and remote offices. NetBackup software helps organizations take
+ advantage of both tape and disk storage through advances in disk
+ backups, off-site tape management, and automated server
+ recovery. Symantec recently announced NetBackup PureDisk, a
+ disk-based backup solution that protects remote office data
+ without the
+
+7
+
+Table of Contents
+
+ need for tape drives, tape media, or skilled IT staff at the
+ remote site.
+
+ Enterprise
+ Vault
+tm
+
+ This product provides a flexible, software-based message
+ archiving framework to enable the discovery of content held
+ within Microsoft Exchange, Microsoft SharePoint Portal Server,
+ and Microsoft Windows file systems. In addition, this product
+ reduces storage costs and simplifies management of email.
+ Enterprise Vault software manages email and instant messaging
+ content through automated, policy-controlled archiving to online
+ stores for active retention and retrieval of information, and
+ includes powerful search and discovery capabilities,
+ complemented by specialized client applications for NASD
+ (National Association of Securities Dealers) compliance and
+ legal discovery.
+
+ Storage and Server Management
+
+Our Storage and Server Management segment provides solutions to
+simplify and automate the administration of heterogeneous
+storage and server environments and provide continuous
+availability of mission-critical applications. These solutions
+support all major server and storage hardware platforms, helping
+organizations reduce the complexity of their enterprise data
+centers, improve service levels, and reduce operation costs.
+
+Our storage management solutions allow customers to more easily
+manage the growing data volumes associated with enterprise
+applications, optimize the availability of data for such
+applications, discover and control storage hardware assets, and
+improve the utilization of storage hardware.
+
+Our server management solutions simplify and automate the
+administration and management of an organization’s server
+and application infrastructure. These solutions include
+configuration management to discover what software is running on
+data center servers and how those servers are inter-related,
+provisioning to deploy software onto servers in an automated
+fashion, and clustering software to help ensure that
+mission-critical applications are always available.
+
+Our client management solutions address enterprise needs for
+patch management, configuration management, and asset management
+at the client tier. They help protect networked systems from
+known vulnerabilities by testing and deploying software patches.
+They also simplify repetitive IT tasks such as configuring,
+partitioning, provisioning, managing, deploying, and migrating
+PCs across the enterprise. In addition, they help IT managers
+discover, inventory, and track hardware and software assets
+while ensuring license compliance and secure disposal.
+
+Our primary storage and server management products are:
+
+ Veritas Storage
+ Foundation
+tm
+
+ This family of products combines the
+ Veritastm
+
+ Volume Manager and Veritas File System to provide a complete
+ solution for online storage management. With Veritas Storage
+ Foundation software, physical disks can be grouped into logical
+ volumes to improve disk utilization and eliminate
+ storage-related downtime.
+
+ Veritas Cluster Server
+
+ An enterprise high availability solution that provides for
+ automated failover of servers running critical applications to
+ maximize application availability, even in the event of an
+ outage. Through central management tools, automation, automated
+ disaster recovery testing tools, and intelligent workload
+ management, Cluster Server allows IT managers to optimize the
+ management and availability of mission-critical applications.
+
+8
+
+Table of Contents
+
+ LiveStatetm
+
+ Recovery
+
+ This family of solutions protects, restores, and recovers
+ computer systems with non-intrusive, real-time backups, and
+ rapid disaster recovery on workstations and servers.
+
+ Ghost
+tm
+
+ Symantec Ghost Solution Suite is an enterprise imaging and
+ deployment solution. Its operating system deployment, software
+ distribution, and PC migration and retirement features allow
+ enterprise IT staff to manage the entire PC lifecycle while
+ reducing support costs. With the Ghost Solution Suite,
+ administrators can deploy or restore an operating system image
+ or application onto a PC and migrate user settings, data and
+ profiles, without having to physically touch the PC.
+
+ Services
+
+Our Services segment provides a full range of consulting and
+educational services to assist our customers in assessing,
+architecting, implementing, supporting, and maintaining their
+security, storage, and infrastructure software solutions. These
+services help our customers plan for the management and control
+of enterprise computing in their specific computing environments.
+
+The primary classes of service that we offer are:
+
+ Symantec Advisory Services
+
+ Advisory Services consultants combine technical expertise with a
+ business focus to create comprehensive information security and
+ availability solutions for industry-leading companies. These
+ services include Business Continuity Management, Secure
+ Application Services, Secure Infrastructure Services, Security
+ Compliance Services, and Utility Computing Services.
+
+ Symantec Solutions Enablement
+
+ Solutions Enablement consultants provide organizations with the
+ expertise to optimize and accelerate the benefits of IT
+ infrastructure investments while maximizing value. These
+ services are tailored to specific Symantec solutions.
+
+Sales and Channel Strategy
+
+ Consumer Products
+
+We sell our consumer products to individuals and small
+offices/home offices globally through a multi-tiered network of
+distribution partners. Our strategy is to place our products in
+a variety of channels where consumers might consider purchasing
+security and problem-solving solutions.
+
+Our products are available to customers through channels that
+include distributors, retailers, direct marketers,
+Internet-based resellers, original equipment manufacturers, or
+OEMs, educational institutions, and Internet Service Providers,
+or ISPs. We separately sell annual content update subscriptions
+directly to end users primarily through the Internet. We also
+sell some of our products and product upgrades in conjunction
+with channel partners through direct mail/email and over the
+Internet.
+
+Sales in the Consumer Products business are trending more
+towards our electronic channels which are comprised of online
+stores, including our Symantec store, and OEM and ISP
+relationships. During fiscal 2006, nearly 65% of revenue in the
+Consumer Products segment came from our electronic channels. We
+also made infrastructure improvements in order to capture more
+direct renewal business from customers originally reached
+through these channels. In fiscal 2006, we partnered with more
+than 150 ISPs and 50 OEMs around the world.
+
+During fiscal 2006, we began offering multi-year consumer
+subscriptions in order to deliver new technology capability and
+functionality to our customers throughout the year, rather than
+only once a year. We
+
+9
+
+Table of Contents
+
+believe these changes allow us to be more competitive and better
+protect our customers in the ever-changing computing environment.
+
+ Enterprise Solutions
+
+We sell and market our products and related services to
+enterprise customers both directly and through a variety of
+indirect sales channels, which include value-added resellers, or
+VARs, distributors, system integrators, or SIs, and OEMs. Our
+enterprise customers include many leading global corporations,
+small and medium-sized businesses, and many government agencies
+around the world. Many of our products involve a consultative,
+solution-oriented sales model. Thus, our sales efforts are
+targeted to senior executives and IT department personnel who
+are responsible for managing a company’s IT initiatives.
+
+Our primary method of demand generation for enterprise customers
+is through our direct sales force. We ended fiscal 2006 with
+approximately 4,000 individuals in our sales force,
+approximately half of whom joined us as a result of the Veritas
+acquisition. Account managers are responsible for customer
+relationships and opportunity management and are supported by
+product and services specialists. During the June 2006 quarter,
+we expect to further integrate the Symantec and Veritas sales
+forces as we move towards a single account manager per major
+account.
+
+We complement our direct sales efforts with indirect sales
+channels such as resellers, VARs, distributors, and SIs,
+primarily to address the small to medium-sized enterprise
+market. We sell our products through authorized distributors in
+more than 40 countries throughout the world. Our top
+distributors are Ingram Micro, Inc. and Tech Data Product
+Management, Inc.
+
+Another important element of our Enterprise Solutions strategy
+involves our relationships with OEM partners that incorporate
+our products into their products, bundle our products with their
+products, or serve as authorized resellers of our products.
+
+During fiscal 2006, our enterprise antivirus products
+experienced increased competition as negotiations for new and
+renewal business were consistently aggressive, especially in the
+small and medium business market.
+
+ Marketing and Advertising
+
+The majority of our marketing dollars is spent on advertising
+and promotion, which includes demand generation and brand
+recognition of our consumer products and enterprise solutions.
+Our advertising and promotion efforts include, but are not
+limited to, electronic and print advertising, trade shows,
+collateral production, and all forms of direct marketing. To a
+lesser extent, we engage in cooperative marketing campaigns with
+distributors, resellers, and industry partners.
+
+We continually conduct market research to understand evolving
+customer needs and buying behaviors. We also communicate with
+customers through the Symantec website, regularly scheduled
+web-based seminars and online newsletters, as well as through
+direct mailings, both physical and electronic, to existing
+end-users and prospects.
+
+Other marketing activities include the production of brochures,
+sales tools, multi-media product demonstrations, packaging, and
+other collateral as well as participation in focused trade and
+computer shows, sponsorship of industry analyst conferences, and
+execution of Symantec road shows, seminars, and user group
+conferences.
+
+We typically offer two types of rebate programs within most
+countries: volume incentive rebates to channel partners and
+promotional rebates to distributors and end-users. Distributors
+and resellers earn volume incentive rebates primarily based upon
+product sales to end-users. We also offer rebates to individual
+users that purchase various products through various resale
+channels.
+
+We regularly offer upgrade rebates to consumers purchasing a new
+version of a product. Both volume incentive rebates and end-user
+rebates are accrued as an offset to revenue.
+
+10
+
+Table of Contents
+
+Support
+
+We maintain centralized support facilities throughout the world
+that provide rapid,
+around-the-clock
+responses to complex customer inquiries. We have support
+facilities with experts in technical areas associated with the
+products we produce and the operating environments in which
+these products are deployed by many of our customers. Our
+technical support experts provide customers with information on
+product implementation and usage, as well as countermeasures and
+identification tools for new threats. Support is available in
+multiple languages including Dutch, English, French, German,
+Italian, Japanese, Korean, Mandarin, Portuguese, and Spanish.
+
+Our Security Response Team consists of dedicated intrusion
+experts, security engineers, virus hunters, and members of the
+global technical support teams that work in tandem to provide
+extensive coverage for enterprises and consumers. Symantec
+Security Response provides customers with comprehensive and
+global Internet security expertise, 24 hours a day, seven
+days a week, to guard against today’s multi-faceted
+Internet threats. The Symantec Security Response Team issues a
+semi-annual Internet Security Threat report that provides an
+analysis and discussion of trends in Internet attacks,
+vulnerabilities, malicious code activity, and other security
+risks. We believe that this report is one of the most
+comprehensive sources of Internet threat data in the world,
+leveraging unparalleled sources to identify emerging trends in
+attacks and malicious code activity.
+
+Our enterprise security support program offers annual support
+contracts to enterprise customers worldwide, including content,
+upgrades, and technical support. Our standard technical support
+includes the following:
+
+• 
+
+ Unlimited hotline service delivered by telephone, fax, email,
+ and over the Internet
+
+• 
+
+ Immediate patches for severe problems
+
+• 
+
+ Periodic software updates
+
+• 
+
+ Access to our technical knowledge base and frequently asked
+ question, or FAQ, facility
+
+• 
+
+ An invitation to our annual user group meeting
+
+Our consumer product support program provides free self-help
+online services and free email support to all consumer customers
+worldwide. A team of product experts, editors, and language
+translators are dedicated to maintaining the robustness of the
+online knowledge base. Generally, telephone product support is
+provided for a fee by an outside vendor. Customers that
+subscribe to LiveUpdate receive automatic downloads of the
+latest virus definitions, application bug fixes, and patches for
+most of our consumer products.
+
+Customers
+
+Our solutions are used worldwide by individual and enterprise
+customers in a wide variety of industries, small and
+medium-sized enterprises, as well as various governmental
+entities. In fiscal 2006, 2005, and 2004, two distributors,
+Ingram Micro and Tech Data Product Management, including their
+subsidiaries, each accounted for more than 10% of our total net
+revenues. In fiscal 2006 and 2005, one reseller, Digital River,
+Inc., represented more than 10% of our total net revenues.
+
+Research and Development
+
+We believe that technical leadership is essential to our
+success. Therefore, we expect to continue to commit substantial
+resources to research and development. Whether we maintain our
+technical leadership position will largely depend on our ability
+to enhance existing products, respond to changing customer
+requirements, and develop and introduce new products in a timely
+manner.
+
+The Symantec Security Response Team is responsible for a
+significant component of our research and development efforts.
+Our Security Response experts, located at research centers
+throughout the world, are focused on collecting and analyzing
+the latest malware threats, ranging from network security
+threats and vulnerabilities to viruses and worms. When a new
+threat or vulnerability is discovered, our Security Response
+experts provide a rapid emergency response that consists of
+communication with customers and delivery of
+
+11
+
+Table of Contents
+
+security updates for our security products. To simplify and
+speed up the delivery of security updates for our product
+offerings at the server, gateway, and desktop levels, we use our
+LiveUpdate technology.
+
+Outside of our Security Response research centers, other major
+research and development initiatives for storage and
+availability products include:
+
+• 
+
+ Continued focus on operating system platform expansion
+
+• 
+
+ Development of new infrastructure products, including server
+ provisioning, clustering, application performance management,
+ and service level management
+
+• 
+
+ Initiatives to improve replication, storage resource management,
+ and next generation virtualization technology
+
+• 
+
+ Development of new data protection technologies for disk-based
+ data protection
+
+• 
+
+ Continued efforts to ensure regulatory compliance and enhanced
+ disaster recovery
+
+Symantec Research Labs, or SRL, is a division within our company
+designed to foster new technologies and products to help us
+maintain leadership in existing markets. A key component of the
+SRL is our Advanced Concepts group, which is focused on
+identifying new markets and quickly transforming ideas into
+products for those markets.
+
+Independent contractors are used for various aspects of the
+product development process. In addition, elements of some of
+our products are licensed from third parties.
+
+We had research and development expenses, exclusive of
+in-process research and development associated with
+acquisitions, of $665 million in fiscal 2006,
+$332 million in fiscal 2005, and $252 million in
+fiscal 2004. We believe that technical leadership is essential
+to our success and we expect to continue to commit substantial
+resources to research and development.
+
+Acquisitions
+
+Our strategic technology acquisitions are designed to enhance
+the features and functionality of our existing products, as well
+as extend our product leadership. We use strategic acquisitions
+to provide certain technology, people, and products for our
+overall product and services strategy. We consider both time to
+market and potential market share gains when evaluating
+acquisitions of technologies, product lines, or companies. We
+have completed a number of acquisitions of technologies,
+companies, and products in the past, and we have also disposed
+of technologies and products. We may acquire and/or dispose of
+other technologies, companies, and products in the future.
+
+During fiscal 2006, we completed the acquisition of Veritas, as
+well as acquisitions of the following six other companies:
+
+ XtreamLok
+
+ XtreamLok Pty Limited, acquired in May 2005, gives Symantec
+ strong anti-piracy and activation technology backed by an
+ experienced and dedicated team that has successfully worked with
+ Symantec for several years.
+
+ WholeSecurity
+
+ WholeSecurity, Inc., a leading provider of behavior-based
+ security acquired in October 2005, provides a first line of
+ defense against emerging threats without the need for
+ traditional security signatures. WholeSecurity provides
+ protection from phishing attacks, one of the fastest growing
+ threats to online transactions, such as banking,
+ e-commerce, and
+ auctions. WholeSecurity’s behavior-based security
+ technology is being integrated as a core component of
+ Symantec’s consumer and enterprise desktop security
+ solutions.
+
+ Sygate
+
+ Sygate Technologies, Inc., the market leader in network access
+ control solutions for large enterprises, was acquired in October
+
+12
+
+Table of Contents
+
+ 2005. The Sygate acquisition allows Symantec to provide a
+ comprehensive endpoint protection solution for both managed and
+ unmanaged devices. Combining Sygate’s expertise in endpoint
+ compliance and protection with Symantec’s leadership in
+ client security helps ensure that only devices compliant with
+ security policies have access to the network.
+
+ BindView
+
+ BindView Development Corporation, a global provider of
+ agent-less IT security compliance software, was acquired in
+ January 2006. This acquisition brought together two market
+ leaders in policy compliance and vulnerability market solutions.
+ BindView and Symantec have complementary strengths in product
+ portfolio,
+ route-to-market, and
+ customer segments. The acquisition of BindView allows Symantec
+ to provide customers a choice of agent-based or agent-less IT
+ compliance technology, offering a broad and comprehensive
+
+end-to-end solution for
+ policy compliance and vulnerability management from a single
+ vendor.
+
+ IMlogic
+
+ IMlogic, Inc., a market leader in instant messaging security and
+ management with demonstrated technology leadership and expertise
+ in real-time based communications, was acquired in February
+ 2006. The rapid adoption of instant messaging networks by
+ consumers and corporate users, combined with evolving real-time
+ communications functionality such as VoIP, makes instant
+ messaging a viable vehicle for malicious threats that can
+ leverage global messaging directories to find new targets.
+ Traditional security and availability measures do not protect
+ companies against threats that attack via instant messaging. We
+ plan to offer a comprehensive set of solutions for message
+ archiving as a whole — across both email and instant
+ messaging, with the opportunity to include other forms of
+ digital communications.
+
+ Relicore
+
+ Relicore, Inc., a leader in data center change and configuration
+ management, was acquired in February 2006. Relicore’s
+ Clarity is the industry’s only configuration management
+ solution capable of automatically discovering, mapping, and
+ tracking changes to application and server components in
+ real-time. The combination of Relicore’s unique, real-time
+ configuration management capability with Symantec’s
+ existing server management and storage management capabilities
+ allows IT managers to fully understand and actively manage their
+ application and server environment.
+
+For further discussion of our acquisitions, see Note 3 of
+the Notes to Consolidated Financial Statements.
+
+Competition
+
+Our markets are highly competitive and are subject to rapid
+changes in technology. Our competitiveness depends on our
+ability to deliver products that meet our customers’ needs
+by enhancing our existing solutions and services and offering
+reliable, scalable, and standardized new solutions on a timely
+basis. We believe that the principal competitive factors
+necessary to be successful in our industry also include quality,
+integration of advanced technology, time to market, price,
+reputation, financial stability, breadth of product offerings,
+customer support, brand recognition, and effective sales and
+marketing efforts.
+
+In addition to the competition we face from direct competitors,
+we face indirect or potential competition from operating system
+providers and network equipment and computer hardware
+manufacturers, who may provide various solutions and functions
+in their current and future products. We also compete for access
+to
+
+13
+
+Table of Contents
+
+retail distribution channels and for the attention of customers
+at the retail level and in corporate accounts. In addition, we
+compete with other software companies, operating system
+providers, and network equipment and computer hardware
+manufacturers to acquire products or companies and to publish
+software developed by third parties.
+
+The competitive environments in which each segment operates are
+described below:
+
+ Consumer Products
+
+Some of the channels in which our consumer products are offered
+are highly competitive. Our competitors are sometimes intensely
+focused on customer acquisition, which has led such competitors
+to offer their technology for free, engage in aggressive
+marketing, or enter into competitive partnerships. During fiscal
+2006, pricing for subscriptions increased, while pricing in
+retail and online stores remained consistent or decreased.
+
+Our primary competitors in the Consumer Products segment are
+Microsoft Corporation, McAfee, Inc., and Trend Micro,
+Incorporated. During fiscal 2006, Microsoft launched the beta
+version of a security suite that will compete with our consumer
+products. This security suite includes anti-spyware and
+antivirus features, and a backup utility. In addition, Microsoft
+has recently added security features to new versions of its
+operating system products that provide some of the same
+functions offered in our products.
+
+ Enterprise Security
+
+In the Enterprise Security markets, we compete against many
+companies that offer competing products to our technology
+solutions and competing services to our response and support
+services. Our primary competitors in Enterprise Security are
+McAfee, Trend Micro, CA, Inc., Internet Security Systems, Inc.,
+and Cisco Systems, Inc. In the managed security services
+segment, our primary competitors are VeriSign, Inc. and
+International Business Machines Corporation, or IBM. Recent
+acquisitions by Microsoft are indicators of its move into the
+Enterprise Security market and could lead to the inclusion of
+antivirus and antispyware functionality in future versions of
+its operating system products or to its release of stand-alone
+enterprise products.
+
+With core antivirus being a required solution for enterprises of
+all sizes, we believe that product differentiation is essential
+for us to maintain our leadership position. We are focused on
+integrating next generation technology capabilities into our
+solution set in order to differentiate ourselves from the
+competition.
+
+ Data Protection
+
+The market for Data Protection products is characterized by
+ongoing technological innovation. Many of our strategic partners
+offer software products that compete with our products or have
+announced their intention to focus on developing or acquiring
+their own backup, archive, and data restoration software
+products. Our primary competitors in the Data Protection segment
+are IBM, CA, and EMC Corporation.
+
+ Storage and Server Management
+
+The markets for Storage and Server Management are intensely
+competitive. In the areas of storage management solutions,
+application and server management, remote management, imaging
+provisioning, and asset management, our primary competitors are
+EMC, Sun Microsystems, Inc., Hewlett-Packard Company, IBM,
+Oracle Corporation, and Microsoft.
+
+ Services
+
+We believe that the principal competitive factors for our
+Services segment include technical capability, customer
+responsiveness, and our ability to hire and retain talented and
+experienced services personnel. Our primary competitors in the
+Services segment are IBM, Electronic Data Systems Corporation,
+and EMC.
+
+14
+
+Table of Contents
+
+Intellectual Property
+
+ Protective Measures
+
+We regard some of the features of our internal operations,
+software, and documentation as proprietary and rely on
+copyright, patent, trademark and trade secret laws,
+confidentiality procedures, contractual arrangements, and other
+measures to protect our proprietary information. Our
+intellectual property is an important and valuable asset that
+enables us to gain recognition for our products, services, and
+technology and enhance our competitive position.
+
+As part of our confidentiality procedures, we generally enter
+into non-disclosure agreements with our employees, distributors,
+and corporate partners and we enter into license agreements with
+respect to our software, documentation, and other proprietary
+information. These license agreements are generally
+non-transferable and have a perpetual term. We also educate our
+employees on trade secret protection and employ measures to
+protect our facilities, equipment, and networks.
+
+ Trademarks, Patents, Copyrights, and Licenses
+
+Symantec and the Symantec logo are trademarks or registered
+trademarks in the U.S. and other countries. In addition to
+Symantec and the Symantec logo, we have used, registered, and/or
+applied to register other specific trademarks and service marks
+to help distinguish our products, technologies, and services
+from those of our competitors in the U.S. and foreign countries
+and jurisdictions. We enforce our trademark, service mark, and
+trade name rights in the U.S. and abroad. The duration of our
+trademark registrations varies from country to country, and in
+the U.S., we generally are able to maintain our trademark rights
+and renew any trademark registrations for as long as the
+trademarks are in use.
+
+We have a number of U.S. and foreign issued patents and pending
+patent applications, including patents and rights to patent
+applications acquired through strategic transactions, which
+relate to various aspects of our products and technology. The
+duration of our patents is determined by the laws of the country
+of issuance and for the U.S. is typically 17 years
+from the date of issuance of the patent or 20 years from
+the date of filing of the patent application resulting in the
+patent, which we believe is adequate relative to the expected
+lives of our products.
+
+Our products are protected under U.S. and international
+copyright laws and laws related to the protection of
+intellectual property and proprietary information. We take
+measures to label such products with the appropriate proprietary
+rights notices and we actively enforce such rights in the U.S.
+and abroad. However, these measures may not provide sufficient
+protection, and our intellectual property rights may be
+challenged. In addition, we license some intellectual property
+from third parties for use in our products, and generally must
+rely on the third party to protect the licensed intellectual
+property rights. While we believe that our ability to maintain
+and protect our intellectual property rights is important to our
+success, we also believe that our business as a whole is not
+materially dependent on any particular patent, trademark,
+license, or other intellectual property right.
+
+Seasonality
+
+As is typical for many large software companies, a part of our
+business is seasonal. Software license orders are generally
+higher in our third and fourth fiscal quarters and lower in our
+first and second fiscal quarters. A significant decline in
+license orders is typical in the first quarter of our fiscal
+year when compared to license orders in the fourth quarter of
+the prior fiscal year. In addition, we generally receive a
+higher volume of software license orders in the last month of a
+quarter, with orders concentrated in the later part of that
+month. We believe that this seasonality primarily reflects
+customer spending patterns and budget cycles, as well as the
+impact of compensation incentive plans for our sales personnel.
+Software license revenue generally reflects similar seasonal
+patterns but to a lesser extent than license orders because
+license revenue is not recognized until an order is shipped and
+other revenue recognition criteria are met.
+
+15
+
+Table of Contents
+
+Employees
+
+As of March 31, 2006, we employed approximately 16,000
+people worldwide, approximately 58% of whom reside in the
+U.S. Approximately 8,000 employees work in sales,
+marketing, and related activities; 5,000 in product development;
+1,000 in services; and 2,000 in management, manufacturing, and
+administration.
+
+Other Information
+
+Our Internet address is www.symantec.com.
+ We make
+available free of charge on our website our annual reports on
+Form 
+10-K,
+quarterly reports on
+Form 
+10-Q, and
+current reports on
+Form 
+8-K, and
+amendments to those reports filed or furnished pursuant to
+Section 13(a) or 15(d) of the Exchange Act as soon as
+reasonably practicable after we electronically file such
+material with, or furnish it to, the Securities and Exchange
+Commission, or SEC. Other than the information expressly set
+forth in this annual report, the information contained, or
+referred to, on our website is not part of this annual report.
+
+The public may also read and copy any materials we file with the
+SEC at the SEC’s Public Reference Room at 100 F Street, NE,
+Room 1580, Washington, DC 20549. The public may obtain
+information on the operation of the Public Reference Room by
+calling the SEC at
+1-800-SEC-0330. The SEC
+also maintains a website at 
+www.sec.gov 
+that
+contains reports, proxy and information statements, and other
+information regarding issuers, such as us, that file
+electronically with the SEC.
+
+
+
+     If we are unable to develop
+new and enhanced products and services that achieve widespread
+market acceptance, or if we are unable to continually improve
+the performance, features, and reliability of our existing
+products and services, our business and operating results could
+be adversely affected.
+
+Our future success depends on our ability to respond to the
+rapidly changing needs of our customers by developing or
+introducing new products, product upgrades, and services on a
+timely basis. We have in the past incurred, and will continue to
+incur, significant research and development expenses as we
+strive to remain competitive. New product development and
+introduction involves a significant commitment of time and
+resources and is subject to a number of risks and challenges
+including:
+
+• 
+
+ Managing the length of the development cycle for new products
+ and product enhancements, which has frequently been longer than
+ we originally expected
+
+• 
+
+ Adapting to emerging and evolving industry standards and to
+ technological developments by our competitors and customers
+
+• 
+
+ Extending the operation of our products and services to new
+ platforms and operating systems
+
+• 
+
+ Entering into new or unproven markets with which we have limited
+ experience
+
+• 
+
+ Managing new product and service strategies, including
+ integrating our various security and storage technologies,
+ management solutions, customer service, and support into unified
+ enterprise security and storage solutions
+
+• 
+
+ Incorporating acquired products and technologies
+
+• 
+
+ Developing or expanding efficient sales channels
+
+• 
+
+ Obtaining sufficient licenses to technology and technical access
+ from operating system software vendors on reasonable terms to
+ enable the development and deployment of interoperable products,
+ including source code licenses for certain products with deep
+ technical integration into operating systems
+
+If we are not successful in managing these risks and challenges,
+or if our new products, product upgrades, and services are not
+technologically competitive or do not achieve market acceptance,
+we could have expended substantial resources and capital without
+realizing sufficient revenues in return, and our business and
+operating results could be adversely affected.
+
+16
+
+Table of Contents
+
+     Fluctuations in demand for
+our products and services are driven by many factors and a
+decrease in demand for our products could adversely affect our
+financial results.
+
+We are subject to fluctuations in demand for our products and
+services due to a variety of factors, including competition,
+product obsolescence, technological change, budget constraints
+of our actual and potential customers, level of broadband usage,
+awareness of security threats to IT systems, and other factors.
+While such factors may, in some periods, increase product sales,
+fluctuations in demand can also negatively impact our product
+sales. For example, until recently we had experienced a higher
+than expected rate of growth in sales of our consumer security
+products that we believe was spurred, in part, by several
+well-publicized threats to computer security. As consumer
+attention to security threats fluctuates, the growth rates in
+sales of consumer security products have been impacted. If
+demand for our products declines, our revenues and gross margin
+could be adversely affected.
+
+     We operate in a highly
+competitive environment, and our competitors may gain market
+share in the markets for our products that could adversely
+affect our business and cause our revenues to decline.
+
+We operate in intensely competitive markets that experience
+rapid technological developments, changes in industry standards,
+changes in customer requirements, and frequent new product
+introductions and improvements. If we are unable to anticipate
+or react to these competitive challenges or if existing or new
+competitors gain market share in any of our markets, our
+competitive position could weaken and we could experience a drop
+in revenues that could adversely affect our business and
+operating results. To compete successfully, we must maintain a
+successful research and development effort to develop new
+products and services and enhance existing products and
+services, effectively adapt to changes in the technology or
+product rights held by our competitors, appropriately respond to
+competitive strategy, and effectively adapt to technological
+changes and changes in the ways that our information is
+accessed, used, and stored within our enterprise and consumer
+markets. If we are unsuccessful in responding to our competitors
+or to changing technological and customer demands, we could
+experience a negative effect on our competitive position and our
+financial results.
+
+Our traditional competitors include independent software vendors
+which offer software products that directly compete with our
+product offerings. In addition to competing with these vendors
+directly for sales to end users of our products, we compete with
+them for the opportunity to have our products bundled with the
+product offerings of our strategic partners such as computer
+hardware OEMs and ISPs. Our competitors could gain market share
+from us if any of these strategic partners replace our products
+with the products of our competitors or if they more actively
+promote our competitors’ products than our products. In
+addition, software vendors who have bundled our products with
+theirs may choose to bundle their software with their own or
+other vendors’ software or may limit our access to standard
+product interfaces and inhibit our ability to develop products
+for their platform.
+
+We face growing competition from network equipment and computer
+hardware manufacturers and large operating system providers.
+These firms are increasingly developing and incorporating into
+their products data protection and storage and server management
+software that competes at some levels with our product
+offerings. Our competitive position could be adversely affected
+to the extent that our customers perceive the functionality
+incorporated into these products as replacing the need for our
+products. Microsoft has added remote access features to its
+operating systems and has made announcements of actual and
+anticipated product features and new product offerings that
+compete with a number of our product offerings. In addition, we
+believe that Microsoft has recently made changes to its
+operating systems that make it more difficult for independent
+security vendors to provide effective solutions for their
+customers. We could be adversely affected if customers,
+particularly consumers, perceive that features incorporated into
+the Microsoft operating system reduce the need for our products
+or if they prefer to purchase other Microsoft products that are
+bundled with its operating systems and compete with our products.
+
+Many of our competitors have greater financial, technical,
+sales, marketing, or other resources than we do and consequently
+may have an ability to influence customers to purchase their
+products instead of ours. We
+
+17
+
+Table of Contents
+
+also face competition from many smaller companies that
+specialize in particular segments of the markets in which we
+compete.
+
+     If we fail to manage our
+sales and distribution channels effectively or if our partners
+choose not to market and sell our products to their customers,
+our operating results could be adversely affected.
+
+We sell our consumer products to individuals and small
+offices/home offices around the world through multi-tiered sales
+and distribution networks. Sales through these different
+channels involve distinct risks, including the following:
+
+ Direct Sales. A significant portion of our revenues from
+ enterprise products is derived from sales by our direct sales
+ force to end-users. Special risks associated with this sales
+ channel include:
+
+• 
+
+ Longer sales cycles associated with direct sales efforts
+
+• 
+
+ Difficulty in hiring, retaining, and motivating our direct sales
+ forces
+
+• 
+
+ Substantial amounts of training for sales representatives to
+ become productive, including regular updates to cover new and
+ revised products
+
+ Indirect Sales Channels. A significant portion of our
+ revenues is derived from sales through indirect channels,
+ including distributors that sell our products to end-users and
+ other resellers. This channel involves a number of risks,
+ including:
+
+• 
+
+ Our lack of control over the timing of delivery of our products
+ to end-users
+
+• 
+
+ Our resellers and distributors are not subject to minimum sales
+ requirements or any obligation to market our products to their
+ customers
+
+• 
+
+ Our reseller and distributor agreements are generally
+ nonexclusive and may be terminated at any time without cause
+
+• 
+
+ Our resellers and distributors frequently market and distribute
+ competing products and may, from time to time, place greater
+ emphasis on the sale of these products due to pricing,
+ promotions, and other terms offered by our competitors
+
+ OEM Sales Channels. A significant portion of our revenues
+ is derived from sales through our OEM partners that incorporate
+ our products into, or bundle our products with, their products.
+ Our reliance on this sales channel involves many risks,
+ including:
+
+• 
+
+ Our lack of control over the shipping dates or volume of systems
+ shipped
+
+• 
+
+ Our OEM partners are generally not subject to minimum sales
+ requirements or any obligation to market our products to their
+ customers
+
+• 
+
+ Our OEM partners may terminate or renegotiate their arrangements
+ with us and new terms may be less favorable due, among other
+ things, to an increasingly competitive relationship with certain
+ partners
+
+• 
+
+ Sales through our OEM partners are subject to changes in
+ strategic direction, competitive risks, and other issues that
+ could result in reduction of OEM sales
+
+• 
+
+ The development work that we must generally undertake under our
+ agreements with our OEM partners may require us to invest
+ significant resources and incur significant costs with little or
+ no associated revenues
+
+• 
+
+ The time and expense required for the sales and marketing
+ organizations of our OEM partners to become familiar with our
+ products may make it more difficult to introduce those products
+ to the market
+
+• 
+
+ Our OEM partners may develop, market, and distribute their own
+ products and market and distribute products of our competitors,
+ which could reduce our sales
+
+18
+
+Table of Contents
+
+If we fail to manage our sales and distribution channels
+successfully, these channels may conflict with one another or
+otherwise fail to perform as we anticipate, which could reduce
+our sales and increase our expenses as well as weaken our
+competitive position. Some of our distribution partners have
+experienced financial difficulties in the past, and if our
+partners suffer financial difficulties in the future, we may
+have reduced sales or increased bad debt expense that could
+adversely affect our operating results. In addition, reliance on
+multiple channels subjects us to events that could cause
+unpredictability in demand, which could increase the risk that
+we may be unable to plan effectively for the future, and could
+result in adverse operating results in future periods.
+
+     We have grown, and may
+continue to grow, through acquisitions that give rise to risks
+and challenges that could adversely affect our future financial
+results.
+
+We have in the past acquired, and we expect to acquire in the
+future, other businesses, business units, and technologies.
+Acquisitions involve a number of special risks and challenges,
+including:
+
+• 
+
+ Complexity, time, and costs associated with the integration of
+ acquired business operations, workforce, products, and
+ technologies into our existing business, sales force, employee
+ base, product lines, and technology
+
+• 
+
+ Diversion of management time and attention from our existing
+ business and other business opportunities
+
+• 
+
+ Loss or termination of employees, including costs associated
+ with the termination or replacement of those employees
+
+• 
+
+ Assumption of debt or other liabilities of the acquired
+ business, including litigation related to alleged liabilities of
+ the acquired business
+
+• 
+
+ The incurrence of additional acquisition-related debt as well as
+ increased expenses and working capital requirements
+
+• 
+
+ Dilution of stock ownership of existing stockholders, or
+ earnings per share
+
+• 
+
+ Increased costs and efforts in connection with compliance with
+ Section 404 of the Sarbanes-Oxley Act
+
+• 
+
+ Substantial accounting charges for restructuring and related
+ expenses, write-off of in-process research and development,
+ impairment of goodwill, amortization of intangible assets, and
+ stock-based compensation expense
+
+Integrating acquired businesses has been and will continue to be
+a complex, time consuming, and expensive process, and can impact
+the effectiveness of our internal control over financial
+reporting. For example, as disclosed in Item 9A in this
+annual report, our management has identified a material weakness
+in our internal control over financial reporting that was
+largely related to Symantec having insufficient personnel
+resources with adequate expertise to properly manage the
+increased volume and complexity of income tax matters arising
+from the acquisition of Veritas.
+
+If our ongoing integration of the Veritas business is not
+successful, we may not realize the potential benefits of the
+acquisition or could undergo other adverse effects that we
+currently do not foresee. To integrate acquired businesses, we
+must implement our technology systems in the acquired operations
+and integrate and manage the personnel of the acquired
+operations. We also must effectively integrate the different
+cultures of acquired business organizations into our own in a
+way that aligns various interests, and may need to enter new
+markets in which we have no or limited experience and where
+competitors in such markets have stronger market positions.
+
+Any of the foregoing, and other factors, could harm our ability
+to achieve anticipated levels of profitability from acquired
+businesses or to realize other anticipated benefits of
+acquisitions. In addition, because acquisitions of high
+technology companies are inherently risky, no assurance can be
+given that our previous or future acquisitions will be
+successful and will not adversely affect our business, operating
+results, or financial condition.
+
+19
+
+Table of Contents
+
+     Our international operations
+involve risks that could increase our expenses, adversely affect
+our operating results, and require increased time and attention
+of our management.
+
+We derive a substantial portion of our revenues from customers
+located outside of the U.S. and we have significant operations
+outside of the U.S., including engineering, sales, customer
+support, and production. We plan to expand our international
+operations, but such expansion is contingent upon the financial
+performance of our existing international operations as well as
+our identification of growth opportunities. Our international
+operations are subject to risks in addition to those faced by
+our domestic operations, including:
+
+• 
+
+ Potential loss of proprietary information due to
+ misappropriation or laws that may be less protective of our
+ intellectual property rights
+
+• 
+
+ Requirements of foreign laws and other governmental controls,
+ including trade and labor restrictions and related laws that
+ reduce the flexibility of our business operations
+
+• 
+
+ Regulations or restrictions on the use, import, or export of
+ encryption technologies that could delay or prevent the
+ acceptance and use of encryption products and public networks
+ for secure communications
+
+• 
+
+ Central bank and other restrictions on our ability to repatriate
+ cash from our international subsidiaries or to exchange cash in
+ international subsidiaries into cash available for use in the
+ U.S.
+
+• 
+
+ Fluctuations in currency exchange rates and economic instability
+ such as higher interest rates in the U.S. and inflation that
+ could reduce our customers’ ability to obtain financing for
+ software products or that could make our products more expensive
+ in certain countries
+
+• 
+
+ Limitations on future growth or inability to maintain current
+ levels of revenues from international sales if we do not invest
+ sufficiently in our international operations
+
+• 
+
+ Longer payment cycles for sales in foreign countries and
+ difficulties in collecting accounts receivable
+
+• 
+
+ Difficulties in staffing, managing, and operating our
+ international operations, including difficulties related to
+ administering our stock plans in some foreign countries
+
+• 
+
+ Difficulties in coordinating the activities of our
+ geographically dispersed and culturally diverse operations
+
+• 
+
+ Seasonal reductions in business activity in the summer months in
+ Europe and in other periods in other countries
+
+• 
+
+ Reduced sales due to the failure to obtain any required export
+ approval of our technologies, particularly our encryption
+ technologies
+
+• 
+
+ Costs and delays associated with developing software in multiple
+ languages
+
+• 
+
+ Political unrest, war, or terrorism, particularly in areas in
+ which we have facilities
+
+A significant portion of our transactions outside of the
+U.S. are denominated in foreign currencies. Accordingly,
+our future operating results will continue to be subject to
+fluctuations in foreign currency rates. We may be negatively
+affected by fluctuations in foreign currency rates in the
+future, especially if international sales continue to grow as a
+percentage of our total sales.
+
+We receive significant tax benefits from sales to our
+non-U.S. customers.
+These benefits are contingent upon existing tax regulations in
+the U.S. and in the countries in which our international
+operations are located. Future changes in domestic or
+international tax regulations could adversely affect our ability
+to continue to realize these tax benefits.
+
+     Our products are complex and
+operate in a wide variety of computer configurations, which
+could result in errors or product failures.
+
+Because we offer very complex products, undetected errors,
+failures, or bugs may occur, especially when products are first
+introduced or when new versions are released. Our products are
+often installed and used in
+
+20
+
+Table of Contents
+
+large-scale computing environments with different operating
+systems, system management software, and equipment and
+networking configurations, which may cause errors or failures in
+our products or may expose undetected errors, failures, or bugs
+in our products. Our customers’ computing environments are
+often characterized by a wide variety of standard and
+non-standard configurations that make pre-release testing for
+programming or compatibility errors very difficult and
+time-consuming. In addition, despite testing by us and others,
+errors, failures, or bugs may not be found in new products or
+releases until after commencement of commercial shipments. In
+the past, we have discovered software errors, failures, and bugs
+in certain of our product offerings after their introduction and
+have experienced delayed or lost revenues during the period
+required to correct these errors.
+
+Errors, failures, or bugs in products released by us could
+result in negative publicity, product returns, loss of or delay
+in market acceptance of our products, loss of competitive
+position, or claims by customers or others. Many of our end-user
+customers use our products in applications that are critical to
+their businesses and may have a greater sensitivity to defects
+in our products than to defects in other, less critical,
+software products. In addition, if an actual or perceived breach
+of information integrity or availability occurs in one of our
+end-user customer’s systems, regardless of whether the
+breach is attributable to our products, the market perception of
+the effectiveness of our products could be harmed. Alleviating
+any of these problems could require significant expenditures of
+our capital and other resources and could cause interruptions,
+delays, or cessation of our product licensing, which could cause
+us to lose existing or potential customers and could adversely
+affect our operating results.
+
+     If we are unable to attract
+and retain qualified employees, lose key personnel, fail to
+integrate replacement personnel successfully, or fail to manage
+our employee base effectively, we may be unable to develop new
+and enhanced products and services, effectively manage or expand
+our business, or increase our revenues.
+
+Our future success depends upon our ability to recruit and
+retain our key management, technical, sales, marketing, finance,
+and other critical personnel. Our officers and other key
+personnel are employees-at-will, and we cannot assure you that
+we will be able to retain them. Competition for people with the
+specific skills that we require is significant. In order to
+attract and retain personnel in a competitive marketplace, we
+believe that we must provide a competitive compensation package,
+including cash and equity-based compensation. The volatility in
+our stock price may from time to time adversely affect our
+ability to recruit or retain employees. In addition, we may be
+unable to obtain required stockholder approvals of future
+increases in the number of shares available for issuance under
+our equity compensation plans, and recent changes in accounting
+rules require us to treat the issuance of employee stock options
+and other forms of equity-based compensation as compensation
+expense. As a result, we may decide to issue fewer equity-based
+incentives and may be impaired in our efforts to attract and
+retain necessary personnel. If we are unable to hire and retain
+qualified employees, or conversely, if we fail to manage
+employee performance or reduce staffing levels when required by
+market conditions, our business and operating results could be
+adversely affected.
+
+Key personnel have left our company in the past and there likely
+will be additional departures of key personnel from time to time
+in the future. The loss of any key employee could result in
+significant disruptions to our operations, including adversely
+affecting the timeliness of product releases, the successful
+implementation and completion of company initiatives, the
+effectiveness of our disclosure controls and procedures and our
+internal control over financial reporting, and the results of
+our operations. In addition, hiring, training, and successfully
+integrating replacement sales and other personnel could be time
+consuming, may cause additional disruptions to our operations,
+and may be unsuccessful, which could negatively impact future
+revenues.
+
+     We are a party to several
+class action and derivative action lawsuits, which could require
+significant management time and attention and result in
+significant legal expenses, and which could, if not determined
+favorably, negatively impact our business, financial condition,
+results of operations, and cash flows.
+
+We have been named as a party to several class action and
+derivative action lawsuits, and we may be named in additional
+litigation. The expense of defending such litigation may be
+costly and divert manage-
+
+21
+
+Table of Contents
+
+ment’s attention from the
+day-to-day operations
+of our business, which could adversely affect our business,
+results of operations, and cash flows. In addition, an
+unfavorable outcome in such litigation could negatively impact
+our business, results of operations, and cash flows.
+
+     Third parties claiming that
+we infringe their proprietary rights could cause us to incur
+significant legal expenses and prevent us from selling our
+products.
+
+From time to time, we receive claims that we have infringed the
+intellectual property rights of others, including claims
+regarding patents, copyrights, and trademarks. In addition,
+former employers of our former, current, or future employees may
+assert claims that such employees have improperly disclosed to
+us the confidential or proprietary information of these former
+employers. Any such claim, with or without merit, could result
+in costly litigation and distract management from
+day-to-day operations.
+If we are not successful in defending such claims, we could be
+required to stop selling, delay shipments of or redesign our
+products, pay monetary amounts as damages, enter into royalty or
+licensing arrangements, or satisfy indemnification obligations
+that we have with some of our customers.
+
+In addition, we license and use software from third parties in
+our business. These third party software licenses may not
+continue to be available to us on acceptable terms or at all,
+and may expose us to additional liability. This liability, or
+our inability to use any of this third party software, could
+result in shipment delays or other disruptions in our business
+that could materially and adversely affect our operating results.
+
+     If we do not protect our
+proprietary information and prevent third parties from making
+unauthorized use of our products and technology, our financial
+results could be harmed.
+
+Our software and underlying technology are proprietary. We seek
+to protect our proprietary rights through a combination of
+confidentiality agreements and procedures and through copyright,
+patent, trademark, and trade secret laws. However, all of these
+measures afford only limited protection and may be challenged,
+invalidated, or circumvented by third parties. Third parties may
+copy all or portions of our products or otherwise obtain, use,
+distribute, and sell our proprietary information without
+authorization. Third parties may also develop similar or
+superior technology independently, by designing around our
+patents. Our shrink-wrap license agreements are not signed by
+licensees and therefore may be unenforceable under the laws of
+some jurisdictions. Furthermore, the laws of some foreign
+countries do not offer the same level of protection of our
+proprietary rights as the laws of the U.S., and we may be
+subject to unauthorized use of our products in those countries.
+The unauthorized copying or use of our products or proprietary
+information could result in reduced sales of our products. Any
+legal action to protect proprietary information that we may
+bring or be engaged in with a strategic partner or vendor could
+adversely affect our ability to access software, operating
+system, and hardware platforms of such partner or vendor, or
+cause such partner or vendor to choose not to offer our products
+to their customers. In addition, any legal action to protect
+proprietary information that we may bring or be engaged in,
+alone or through our alliances with the Business Software
+Alliance (BSA), or the Software & Information Industry
+Association (SIIA), could be costly, may distract management
+from day-to-day
+operations, and may lead to additional claims against us, which
+could adversely affect our operating results.
+
+     Some of our products contain
+“open source” software, and any failure to comply with
+the terms of one or more of these open source licenses could
+negatively affect our business.
+
+Certain of our products are distributed with software licensed
+by its authors or other third parties under so-called “open
+source” licenses, which may include, by way of example the
+GNU General Public License (GPL), GNU Lesser General Public
+License (LGPL), the Mozilla Public License, the BSD License, and
+the Apache License. Some of these licenses contain requirements
+that we make available source code for modifications or
+derivative works we create based upon the open source software,
+and that we license such modifications or derivative works under
+the terms of a particular open source license or other license
+granting third parties certain rights of further use. If we
+combine our proprietary software with open source software in a
+certain manner, we could, under certain of the open source
+licenses, be required to release the source code of our
+proprietary software. In addition to risks related to license
+requirements, usage of open source software can
+
+22
+
+Table of Contents
+
+lead to greater risks than use of third party commercial
+software, as open source licensors generally do not provide
+warranties or controls on origin of the software. We have
+established processes to help alleviate these risks, including a
+review process for screening requests from our development
+organizations for the use of open source, but we cannot be sure
+that all open source is submitted for approval prior to use in
+our products. In addition, many of the risks associated with
+usage of open source cannot be eliminated, and could, if not
+properly addressed, negatively affect our business.
+
+     Our software products and
+website may be subject to intentional disruption that could
+adversely impact our reputation and future sales.
+
+Although we believe we have sufficient controls in place to
+prevent intentional disruptions, we expect to be an ongoing
+target of attacks specifically designed to impede the
+performance of our products. Similarly, experienced computer
+programmers may attempt to penetrate our network security or the
+security of our website and misappropriate proprietary
+information or cause interruptions of our services. Because the
+techniques used by such computer programmers to access or
+sabotage networks change frequently and may not be recognized
+until launched against a target, we may be unable to anticipate
+these techniques. Our activities could be adversely affected and
+our reputation and future sales harmed if these intentionally
+disruptive efforts are successful.
+
+     Increased customer demands
+on our technical support services may adversely affect our
+relationships with our customers and our financial
+results.
+
+We offer technical support services with many of our products.
+We may be unable to respond quickly enough to accommodate
+short-term increases in customer demand for support services. We
+also may be unable to modify the format of our support services
+to compete with changes in support services provided by
+competitors or successfully integrate support for our customers.
+Further customer demand for these services, without
+corresponding revenues, could increase costs and adversely
+affect our operating results.
+
+We have outsourced a substantial portion of our worldwide
+consumer support functions to third party service providers. If
+these companies experience financial difficulties, do not
+maintain sufficiently skilled workers and resources to satisfy
+our contracts, or otherwise fail to perform at a sufficient
+level under these contracts, the level of support services to
+our customers may be significantly disrupted, which could
+materially harm our relationships with these customers.
+
+     Accounting charges may cause
+fluctuations in our quarterly financial results.
+
+Our financial results have been in the past, and may continue to
+be in the future, materially affected by non-cash and other
+accounting charges, including:
+
+• 
+
+ Amortization of intangible assets, including acquired product
+ rights
+
+• 
+
+ Impairment of goodwill
+
+• 
+
+ Stock-based compensation expense, including charges related to
+ our adoption in the first quarter of fiscal 2007 of Statement of
+ Financial Accounting Standards No. 123R, Share-Based
+ Payment, which will materially increase the stock-based
+ compensation expense included in our results of operations
+
+• 
+
+ Restructuring charges and reversals of those charges
+
+• 
+
+ Impairment of long-lived assets
+
+For example, in connection with our acquisition of Veritas, we
+have recorded approximately $2.8 billion of intangible
+assets, including acquired product rights, and $8.6 billion
+of goodwill. We have recorded and will continue to record future
+amortization charges with respect to a portion of these
+intangible assets and stock-based compensation expense related
+to the stock options to purchase Veritas common stock assumed by
+us. In addition, we will evaluate our long-lived assets,
+including property and equipment, goodwill, acquired product
+rights, and other intangible assets, whenever events or
+circumstances occur which indicate that these assets might be
+impaired. Goodwill is evaluated annually for impairment in the
+fourth quarter of each fiscal year or
+
+23
+
+Table of Contents
+
+more frequently if events and circumstances warrant. The
+foregoing types of accounting charges may also be incurred in
+connection with or as a result of other business acquisitions.
+The price of our common stock could decline to the extent that
+our financial results are materially affected by the foregoing
+accounting charges.
+
+     Our effective tax rate may
+increase or fluctuate, which could increase our income tax
+expense and reduce our net income.
+
+Our effective tax rate could be adversely affected by several
+factors, many of which are outside of our control, including:
+
+• 
+
+ Changes in the relative proportions of revenues and income
+ before taxes in the various jurisdictions in which we operate
+ that have differing statutory tax rates
+
+• 
+
+ Changing tax laws, regulations, and interpretations in multiple
+ jurisdictions in which we operate as well as the requirements of
+ certain tax rulings
+
+• 
+
+ Changes in accounting and tax treatment of stock-based
+ compensation
+
+• 
+
+ The tax effects of purchase accounting for acquisitions and
+ restructuring charges that may cause fluctuations between
+ reporting periods
+
+• 
+
+ Tax assessments, or any related tax interest or penalties, could
+ significantly affect our income tax expense for the period in
+ which the settlements take place
+
+The price of our common stock could decline to the extent that
+our financial results are materially affected by an adverse
+change in our effective tax rate.
+
+We report our results of operations based on our determinations
+of the amount of taxes owed in the various tax jurisdictions in
+which we operate. From time to time, we receive notices that a
+tax authority to which we are subject has determined that we owe
+a greater amount of tax than we have reported to such authority,
+and we are regularly engaged in discussions, and sometimes
+disputes, with these tax authorities. We are engaged in disputes
+of this nature at this time. If the ultimate determination of
+our taxes owed in any of these jurisdictions is for an amount in
+excess of the tax provision we have recorded or reserved for,
+our operating results, cash flows, and financial condition could
+be adversely affected.
+
+     Fluctuations in our
+quarterly financial results have affected the price of our
+common stock in the past and could affect our stock price in the
+future.
+
+Our quarterly financial results have fluctuated in the past and
+are likely to vary significantly in the future due to a number
+of factors, many of which are outside of our control and which
+could adversely affect our operations and operating results. In
+addition, our acquisition of Veritas makes it more difficult for
+us to predict, and securities analysts to develop expectations
+regarding, our future financial results due to the risks
+associated with the complexity of our combined business and the
+integration of our management teams and operations. If our
+quarterly financial results or our predictions of future
+financial results fail to meet the expectations of securities
+analysts and investors, our stock price could be negatively
+affected. Any volatility in our quarterly financial results may
+make it more difficult for us to raise capital in the future or
+pursue acquisitions that involve issuances of our stock. Our
+operating results for prior periods may not be effective
+predictors of our future performance.
+
+Factors associated with our industry, the operation of our
+business, and the markets for our products may cause our
+quarterly financial results to fluctuate, including:
+
+• 
+
+ Reduced demand for any of our products
+
+• 
+
+ Entry of new competition into our markets
+
+• 
+
+ Competitive pricing pressure for one or more of our classes of
+ products
+
+• 
+
+ Our ability to timely complete the release of new or enhanced
+ versions of our products
+
+24
+
+Table of Contents
+
+• 
+
+ The number, severity, and timing of threat outbreaks (e.g. worms
+ and viruses)
+
+• 
+
+ Our resellers making a substantial portion of their purchases
+ near the end of each quarter
+
+• 
+
+ Enterprise customers’ tendency to negotiate site licenses
+ near the end of each quarter
+
+• 
+
+ Cancellation, deferral, or limitation of orders by customers
+
+• 
+
+ Fluctuations in foreign currency exchange rates
+
+• 
+
+ Movement in interest rates
+
+• 
+
+ The rate of adoption of new product technologies and new
+ releases of operating systems
+
+• 
+
+ Weakness or uncertainty in general economic or industry
+ conditions in any of the multiple markets in which we operate
+ that could reduce customer demand and ability to pay for our
+ products and services
+
+• 
+
+ Political and military instability, which could slow spending
+ within our target markets, delay sales cycles, and otherwise
+ adversely affect our ability to generate revenues and operate
+ effectively
+
+• 
+
+ Budgetary constraints of customers, which are influenced by
+ corporate earnings and government budget cycles and spending
+ objectives
+
+• 
+
+ Disruptions in our highly automated business operations caused
+ by, among other things,
+
+• 
+
+ Earthquakes, floods, or other natural disasters affecting our
+ headquarters located in Silicon Valley, California, an area
+ known for seismic activity, or our other locations worldwide
+
+• 
+
+ Acts of war or terrorism
+
+• 
+
+ Intentional disruptions by third parties
+
+Any of the foregoing factors could cause the trading price of
+our common stock to fluctuate significantly.
+
+     Our stock price may be
+volatile in the future, and you could lose the value of your
+investment.
+
+The market price of our common stock has experienced significant
+fluctuations in the past and may continue to fluctuate in the
+future, and as a result you could lose the value of your
+investment. The market price of our common stock may be affected
+by a number of factors, including:
+
+• 
+
+ Announcements of quarterly operating results and revenue and
+ earnings forecasts by us that fail to meet or be consistent with
+ our earlier projections or the expectations of our investors or
+ securities analysts
+
+• 
+
+ Announcements by either our competitors or customers that fail
+ to meet or be consistent with their earlier projections or the
+ expectations of our investors or securities analysts
+
+• 
+
+ Rumors, announcements, or press articles regarding our
+ operations, management, organization, financial condition, or
+ financial statements
+
+• 
+
+ Changes in revenue and earnings estimates by us, our investors,
+ or securities analysts
+
+• 
+
+ Accounting charges, including charges relating to the impairment
+ of goodwill
+
+• 
+
+ Announcements of planned acquisitions by us or by our competitors
+
+• 
+
+ Announcements of new or planned products by us, our competitors,
+ or our customers
+
+• 
+
+ Gain or loss of a significant customer
+
+• 
+
+ Inquiries by the SEC, Nasdaq, law enforcement, or other
+ regulatory bodies
+
+• 
+
+ Acts of terrorism, the threat of war, and other crises or
+ emergency situations
+
+• 
+
+ Economic slowdowns or the perception of an oncoming economic
+ slowdown in any of the major markets in which we operate
+
+25
+
+Table of Contents
+
+The stock market in general, and the market prices of stocks of
+technology companies in particular, have experienced extreme
+price volatility that has adversely affected, and may continue
+to adversely affect, the market price of our common stock for
+reasons unrelated to our business or operating results.

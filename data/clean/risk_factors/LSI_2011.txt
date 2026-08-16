@@ -1,0 +1,672 @@
+Set forth below are risks and uncertainties that, if they were
+ to occur, could materially adversely affect our business or
+ could cause our actual results to differ materially from the
+ results contemplated by the forward-looking statements in this
+ report and other public statements we make.
+
+ We
+ depend on a small number of customers. The loss of, or a
+ significant reduction in revenue from, any of these customers
+ would harm our results of operations.
+
+ A limited number of customers account for a substantial portion
+ of our revenues. In 2010, IBM and Seagate, our two largest
+ customers, represented approximately 19.4% and 13.8%,
+ respectively, of our total revenues, and our 10 largest
+ customers accounted for approximately 64.6% of our revenue. If
+ any of our key customers reduced significantly or canceled its
+ orders, our business and operating results could be
+ significantly harmed. Because many of our semiconductor products
+ are designed for specific customers and have long product design
+ and development cycles, it would be difficult for us to replace
+ revenues from key customers that reduce or cancel their existing
+ orders for these products.
+
+ In addition, if we fail to win new product designs from our
+ major customers, our business and results of operations may be
+ harmed. Further, if our major customers make significant changes
+ in scheduled deliveries, decide to pursue the internal
+ development of the products we sell to them or are acquired, our
+ business and results of operations may be harmed. For example,
+ in 2010, IBM announced its internally developed
+ Storwize®
+
+ V7000 storage systems product family. While IBM has positioned
+ the V7000 above the mid-range storage systems products that we
+ currently sell to IBM, the V7000 offers a number of similar
+ features and may be preferred by potential customers over our
+ offering. Further, if IBM chooses to emphasize sales of its
+ V7000 system over systems based on our products, our sales from
+ these products and resulting revenues could be negatively
+ impacted. Additionally, business combinations involving our
+ customers or competitors of our customers could have a positive
+ or negative impact on our business.
+
+ If we
+ fail to keep pace with technological advances, or if we pursue
+ technologies that do not become commercially accepted, customers
+ may not buy our products and our results of operations may be
+ harmed.
+
+ Many of the industry segments in which we operate are
+ characterized by rapid technological change, changes in customer
+ requirements, frequent new product introductions and
+ enhancements, short product cycles and evolving industry
+ standards. We believe that our future success will depend, in
+ part, on our ability to improve on existing technologies and to
+ develop and implement new ones, as well as on our ability to
+ adopt and implement emerging industry standards in a timely
+ manner and to adapt products and processes to technological
+ changes. If we fail to develop new and enhanced products and
+ technologies, if we focus on technologies that do not become
+ widely adopted, or if new technologies that we do not support
+ and that compete with technologies we do support become widely
+ accepted, demand for our current and planned products may be
+ reduced. For example, if tablet computing, which involves the
+ use of flash memory rather than hard disks to store data,
+ becomes significantly more popular, it could have an impact on
+ demand for hard drives.
+
+ In addition, the emergence of markets for integrated circuits
+ may be affected by factors beyond our control. For example, we
+ design some products to conform to current specific industry
+ standards. Our customers may not adopt or continue to follow the
+ standards that we have chosen, which would make our products
+ less desirable to customers, and could negatively affect sales.
+ Also, competing standards may emerge that are preferred by our
+ customers, which could reduce sales and require us to make
+ significant expenditures to develop new products. To the extent
+ that we are not able to adapt effectively and expeditiously to
+ new standards, our business may be harmed.
+
+ We
+ operate in intensely competitive markets, and our failure to
+ compete effectively would harm our results of
+ operations.
+
+ We derive significant revenue from the sale of integrated
+ circuits as well as storage systems. These industries are
+ intensely competitive, and competition may increase as existing
+ competitors enhance their product offerings and as new
+ participants enter the market. Our competitors include large
+ domestic and foreign companies that have substantially
+
+ 11
+
+Table of Contents
+
+ greater financial, technical and management resources than us.
+ Several major diversified electronics companies offer products
+ that compete with our products. Other competitors are
+ specialized, rapidly growing companies that sell products into
+ the same markets that we target. Some of our customers may also
+ design and manufacture products internally that compete with our
+ products. We cannot provide any assurances that the price and
+ performance of our products will be superior relative to the
+ products of our competitors or will be sufficient to obtain
+ business.
+
+ Increased competition may harm our revenues and margins. For
+ example, competitors with greater financial resources may be
+ able to offer lower prices than ours, or they may offer
+ additional products, services or other incentives that we may
+ not be able to match. Competitors may be better able than us to
+ respond quickly to new technologies and may undertake more
+ extensive marketing campaigns than we do. They may also make
+ strategic acquisitions or establish cooperative relationships
+ among themselves or with third parties to increase their market
+ share. In addition, competitors may sell commercial quantities
+ of new products before we do, establishing a market position
+ that we may not be able to overcome once we introduce similar
+ products in commercial quantities. If we are unable to develop
+ and market competitive products on a timely basis, we will
+ likely fail to maintain or expand our market share and our
+ revenues will likely decline.
+
+ Customer
+ orders and ordering patterns can change quickly, making it
+ difficult for us to predict our revenues and making it possible
+ that our actual revenues may vary materially from our
+ expectations, which could harm our results of operations and
+ stock price.
+
+ We sell a significant amount of products pursuant to purchase
+ orders that customers may cancel or defer on short notice
+ without incurring a significant penalty. In addition, the period
+ of time between order and product shipment can be very short. If
+ customers reduce the rate at which they place new orders,
+ whether because of changing market conditions for their products
+ or other reasons, or if they cancel or defer previously placed
+ orders, the impact on our revenue can occur quickly and could
+ cause us to experience revenues that are lower than we may have
+ indicated in any public forecast of our future revenue. For
+ example, as economic conditions deteriorated in the fourth
+ quarter of 2008, our sales declined below the expectations we
+ had publicly announced earlier that quarter because our
+ customers’ orders declined to a level below that which we
+ had anticipated. Reductions in new order rates as well as
+ cancellations or deferrals of existing orders could also cause
+ us to hold excess inventory, which could adversely affect our
+ results of operations.
+
+ We
+ depend on outside suppliers to manufacture, assemble, package
+ and test our products; accordingly, any failure to secure and
+ maintain sufficient manufacturing capacity at attractive prices
+ or to maintain the quality of our products could harm our
+ business and results of operations.
+
+ We depend on third-party foundries to manufacture integrated
+ circuits for us and on outside suppliers to assemble and test
+ our semiconductor products and to assemble our storage systems
+ products. As such, we face the following risks:
+
+ • 
+
+ a supplier may be unwilling to devote adequate capacity to the
+ production of our products or may be unable to produce our
+ products;
+
+ • 
+
+ a supplier may fail to develop, or may discontinue,
+ manufacturing methods or technologies necessary for our products;
+
+ • 
+
+ manufacturing costs may be higher than planned;
+
+ • 
+
+ product reliability may decline;
+
+ • 
+
+ a manufacturer may not be able to maintain continuing
+ relationships with its suppliers; and
+
+ • 
+
+ we may have reduced control over delivery schedules, quality,
+ manufacturing yields and costs of products.
+
+ The ability of an independent foundry to provide us with
+ integrated circuits is limited by its available capacity and
+ existing obligations. We generally do not enter into contracts
+ to reserve foundry capacity. Availability of foundry capacity
+ has in the past been reduced from time to time due to strong
+ demand and may not be available when needed at reasonable
+ prices. We currently believe that semiconductor foundry capacity
+ is constrained with respect to certain technology platforms. If
+ foundry capacity is limited, it is possible that one of our
+ foundries may
+
+ 12
+
+Table of Contents
+
+ allocate capacity to the production of other companies’
+ products, including those of our competitors. This reallocation
+ could impair our ability to obtain sufficient wafers. If we
+ experience greater demand than expected for our products that we
+ are not able to meet, we would miss opportunities for additional
+ revenue and could experience a negative impact on our
+ relationships with affected customers. We may also use a second
+ foundry for a particular product when capacity at the main
+ foundry is limited, but the cost of integrated circuits at the
+ second foundry may be higher, which would reduce our margins. In
+ addition, only a limited number of foundries provide services
+ using the advanced technologies we require to provide leading
+ edge products. Because of the limited competition, it is
+ possible that our foundry partners for products requiring these
+ technologies will price their services at levels which have an
+ adverse impact on our gross margins or make it unprofitable for
+ us to offer these products. This limited competition may also
+ make it more difficult for us to use a second foundry for a
+ product when we believe that doing so would be advantageous.
+
+ By relying on outside suppliers to manufacture, assemble and
+ test our products, we may have a reduced ability to control
+ directly product delivery schedules and quality assurance. This
+ lack of control may result in product shortages or quality
+ assurance problems that could delay shipments of products or
+ increase manufacturing, assembly, testing or other costs. In
+ addition, if these outside suppliers are unable to obtain
+ sufficient raw materials in a timely manner, we may experience
+ product shortages or delays in product shipments, which could
+ harm our customer relationships and results of operations.
+
+ If any of our manufacturing suppliers experiences capacity
+ constraints, encounters financial difficulties, or experiences
+ any other major disruption of its operations, we may need to
+ qualify an alternate supplier, which may take several months and
+ could result in delays in product shipments. These delays could
+ cause our customers to seek alternate suppliers, which could
+ adversely impact our business.
+
+ As a result of all of these factors and risks, and although we
+ carefully monitor and plan for capacity and other issues, we
+ cannot provide any assurances that we can obtain sufficient
+ quantities of products from our suppliers on a timely basis or
+ at reasonable prices.
+
+ Failure
+ to qualify our semiconductor products or our suppliers’
+ manufacturing lines with key customers could harm our business
+ and results of operations.
+
+ Some customers will not purchase any products, other than
+ limited numbers of evaluation units, until they qualify the
+ products or the manufacturing line for the product. We may not
+ always be able to satisfy the qualification requirements of
+ these customers. Delays in qualification may cause a customer to
+ discontinue use of non-qualified products and result in a
+ significant loss of revenue.
+
+ Any
+ defects in our products could harm our reputation, customer
+ relationships and results of operations.
+
+ Our products may contain undetected defects, errors or failures,
+ which may not become apparent until the products are deployed in
+ commercial applications and other equipment. Consequently,
+ customers may discover errors after the products have been
+ deployed. The occurrence of any defects, errors or failures
+ could result in:
+
+ • 
+
+ cancellation of orders;
+
+ • 
+
+ product returns, repairs or replacements;
+
+ • 
+
+ monetary or other accommodations to our customers;
+
+ • 
+
+ diversion of our resources;
+
+ • 
+
+ legal actions by customers or customers’ end users;
+
+ • 
+
+ increased insurance costs; and
+
+ • 
+
+ other losses to us or to customers or end users.
+
+ Any of these occurrences could also result in the loss of or
+ delay in market acceptance of products and loss of sales, which
+ could negatively affect our business and results of operations.
+ As our products become even more complex in the future, this
+ risk may intensify over time and may result in increased
+ expenses.
+
+ 13
+
+Table of Contents
+
+ Our
+ pension plans are underfunded, and may require significant
+ future contributions, which could have an adverse impact on our
+ business.
+
+ We have defined benefit pension plans under which we are
+ obligated to make future payments to participants. We have set
+ aside funds to meet our anticipated obligations under these
+ plans. At December 31, 2010, our projected benefit
+ obligations under our pension plans exceeded the value of the
+ assets of those plans by approximately $462.3 million.
+ U.S. law provides that we must make contributions to the
+ pension plans in 2011 of at least $64 million. We expect to
+ be required to make additional contributions to the plans in
+ future years. We may also choose to make additional, voluntary
+ contributions to the plans. Depending on our cash position at
+ the time, contributions to our pension plans could impact our
+ operating flexibility, for example by impacting our ability to
+ invest in new products.
+
+ We may
+ be subject to intellectual property infringement claims and
+ litigation, which could cause us to incur significant expenses
+ or prevent us from selling our products.
+
+ As is typical in the semiconductor industry, we are frequently
+ involved in disputes regarding patent and other intellectual
+ property rights. We have in the past received, and we may in the
+ future receive, communications from third parties asserting that
+ our products, processes or technologies infringe on the patent
+ or other intellectual property rights of third parties, and we
+ may also receive claims of potential infringement if we attempt
+ to license intellectual property to others. Intellectual
+ property litigation, regardless of the outcome, may be costly
+ and time consuming, and may divert the attention of management
+ and key personnel from other business issues. Claims of
+ intellectual property infringement also might require us to
+ enter into costly royalty or license agreements. We may not be
+ able to obtain royalty or license agreements on acceptable
+ terms. If any of our products or intellectual property infringes
+ on valid rights held by others, our results of operations or
+ financial position may suffer and we may have to make material
+ changes in production processes or products.
+
+ If we
+ are unable to protect or assert our intellectual property
+ rights, our business and results of operations may be
+ harmed.
+
+ Our future success will depend, in part, upon our ability to
+ protect and assert our intellectual property rights. We rely
+ primarily on patent and other intellectual property laws, as
+ well as nondisclosure agreements and other methods, to protect
+ our proprietary technologies and processes. It is possible that
+ competitors or other unauthorized third parties may obtain,
+ copy, use or disclose proprietary technologies and processes,
+ despite our efforts to protect them.
+
+ While we hold a significant number of patents, we can give you
+ no assurance that any additional patents will be issued. Even if
+ new patents are issued, the claims allowed may not be
+ sufficiently broad to protect our technology. In addition, any
+ of our existing patents, and any future patents issued to us,
+ may be challenged, invalidated or circumvented, or changes in
+ law may result in us having less protection than we may have
+ experienced historically. As such, any rights granted under
+ these patents may not provide us with meaningful protection. We
+ may not have foreign patents or pending applications
+ corresponding to our U.S. patents and applications. Even if
+ foreign patents are granted, effective enforcement in foreign
+ countries may not be available.
+
+ If our patents do not adequately protect our technology,
+ competitors may be able to offer products similar to our
+ products more easily. Our competitors may also be able to
+ develop similar technology independently or design around our
+ patents. Some or all of our patents have in the past been
+ licensed and likely will in the future be licensed to certain of
+ our competitors through cross-license agreements.
+
+ We are
+ exposed to legal, business, political and economic risks
+ associated with our international operations.
+
+ We derive, and we expect to continue to derive, a substantial
+ portion of our revenue from sales of products shipped to
+ locations outside of the United States. These products are
+ typically incorporated into our customers’ products, which
+ we believe are ultimately sold to end-users around the world. In
+ addition, we perform a significant amount of our development
+ work outside the United States and most of our products are
+ manufactured outside of the United States. We are subject to a
+ number of risks that could adversely affect our business and
+ results of operations
+
+ 14
+
+Table of Contents
+
+ as a result of our operations outside of the United States, our
+ customers’ and suppliers’ operations outside of the
+ United States and end-demand outside of the United States,
+ including:
+
+ • 
+
+ political, social and economic instability;
+
+ • 
+
+ fluctuations in foreign currency exchange rates;
+
+ • 
+
+ exposure to different legal standards, particularly with respect
+ to intellectual property;
+
+ • 
+
+ natural disasters, civil unrest, terrorism and public health
+ emergencies;
+
+ • 
+
+ nationalization of businesses and blocking of cash flows;
+
+ • 
+
+ trade and travel restrictions;
+
+ • 
+
+ imposition of governmental controls and restrictions;
+
+ • 
+
+ burdens of complying with a variety of foreign laws;
+
+ • 
+
+ import and export license requirements and restrictions;
+
+ • 
+
+ unexpected changes in regulatory requirements;
+
+ • 
+
+ foreign technical standards;
+
+ • 
+
+ difficulties in staffing and managing international operations;
+
+ • 
+
+ international trade disputes;
+
+ • 
+
+ difficulties in collecting receivables from foreign entities or
+ delayed revenue recognition; and
+
+ • 
+
+ potentially adverse tax consequences, including adverse impacts
+ from changes in United States tax laws.
+
+ We use
+ indirect channels of product distribution over which we have
+ limited control.
+
+ We sell our storage systems products primarily to other
+ companies that may or may not add features or functionality to
+ them before reselling them to end customers. We also sell some
+ of our semiconductor products through distributors and our RAID
+ server adapters and network attached storage gateways through
+ resellers and distributors. A deterioration in our relationships
+ with our resellers or distributors, or a decline in their
+ business, could harm our sales. In addition, we may increase our
+ reliance on indirect channels of distribution in the future. We
+ may not successfully maintain or expand these indirect channels
+ of distribution, and our failure to do so could result in the
+ loss of sales opportunities. Furthermore, our reliance on
+ indirect channels of distribution may reduce visibility with
+ respect to future business opportunities, thereby making it more
+ difficult to forecast orders.
+
+ We may
+ engage in acquisitions and strategic alliances, which may not be
+ successful and could harm our business and operating
+ results.
+
+ We expect to continue to explore strategic acquisitions that
+ build upon or expand our library of intellectual property, human
+ capital and engineering talent, and that could increase our
+ ability to address the needs of our customers. For example, in
+ 2009 we acquired ONStor, Inc. to add network attached storage
+ capabilities to our product offerings and the 3ware assets,
+ which included a RAID server adapter distribution channel
+ business. Acquisitions of high-technology companies have
+ inherent risks. No assurance can be given that our previous
+ acquisitions or future acquisitions will be successful and will
+ not harm our business or operating results. In addition, we may
+ make investments in companies, products and technologies through
+ strategic alliances and otherwise. If these investments are not
+ successful, our results of operations may suffer.
+
+ The
+ semiconductor industry is highly cyclical, which may cause our
+ operating results to fluctuate.
+
+ We operate in the highly cyclical semiconductor industry. This
+ industry is characterized by wide fluctuations in product supply
+ and demand. In the past, the semiconductor industry has
+ experienced significant downturns, often in connection with, or
+ in anticipation of, excess manufacturing capacity worldwide,
+ maturing product cycles and declines in general economic
+ conditions. Even if demand for our products remains constant, a
+ lower level of
+
+ 15
+
+Table of Contents
+
+ available foundry capacity could increase our costs, which would
+ likely have an adverse impact on our results of operations.
+
+ Our
+ failure to attract, retain and motivate key employees could harm
+ our business.
+
+ In some of our fields of operation, there are only a limited
+ number of people in the job market who possess the requisite
+ skills. In the past, we have experienced difficulty in
+ identifying and hiring sufficient numbers of qualified engineers
+ in parts of our business, as well as in retaining engineers and
+ other qualified employees. The loss of the services of any key
+ personnel or our inability to hire new personnel with the
+ requisite skills could restrict our ability to develop new
+ products or enhance existing products in a timely manner, to
+ sell products to our customers or to manage our business
+ effectively. In light of economic conditions in early 2009, we
+ implemented several cost-saving measures that directly affected
+ employee compensation. These measures, or others that we may
+ take in the future, may negatively impact our ability to recruit
+ and retain qualified personnel.
+
+ Our
+ operations and our suppliers’ operations are subject to
+ natural disasters and other events outside of our control that
+ may disrupt our business and harm our operating
+ results.
+
+ Our operations and those of our suppliers are subject to natural
+ disasters and other events outside of our control that may
+ disrupt our business and harm our operating results. For
+ example, a widespread outbreak of an illness such as H1N1 flu,
+ avian flu, or bird flu, or severe acute respiratory syndrome, or
+ SARS, could harm our operations and those of our suppliers as
+ well as decrease demand from customers. We also have substantial
+ operations in parts of California that have experienced major
+ earthquakes and in parts of Asia that have experienced both
+ typhoons and earthquakes. If our operations or those of our
+ suppliers are curtailed because of health issues or natural
+ disasters, our business may be disrupted and we may need to seek
+ alternate sources of supply for manufacturing or other services.
+ Alternate sources may not be available, may be more expensive or
+ may result in delays in shipments to customers, which would
+ affect our results of operations. In addition, a curtailment of
+ design operations could result in delays in the development of
+ new products. If our customers’ or suppliers’ and
+ manufacturers’ businesses are affected by health issues,
+ natural disasters or other events outside of our control, our
+ business and results of operations may be harmed.
+
+ We are
+ subject to various environmental laws and regulations that could
+ impose substantial costs on us and may harm our
+ business.
+
+ Our business is subject to or may be impacted by various
+ environmental laws and regulations. For example, we are subject
+ to the European Union Directive on the Restriction of the use of
+ certain Hazardous Substances in Electrical &
+ Electronic Equipment (RoHS) and the Registration, Evaluation,
+ Authorization and Restriction of Chemicals (REACH) Regulation in
+ the European Union. Such regulations could require us to
+ redesign our products in order to comply with their requirements
+ and require the development
+ and/or
+ maintenance of compliance administration systems. Redesigned
+ products could be more costly to manufacture or require more
+ costly or less efficient raw materials. If we cannot develop
+ compliant products on a timely basis or properly administer our
+ compliance programs, our revenues could decline due to lower
+ sales. In addition, under certain environmental laws, we could
+ be held responsible, without regard to fault, for costs relating
+ to any contamination at our current or past facilities and at
+ third party waste disposal sites. We could also be held liable
+ for consequences arising out of human exposure to such
+ substances or other environmental damage.
+
+ Our
+ blank check preferred stock and Delaware law contain provisions
+ that may inhibit potential acquisition bids, which may harm our
+ stock price, discourage merger offers or prevent changes in our
+ management.
+
+ Our board has the authority to issue preferred stock and to
+ determine its rights, preferences, privileges and restrictions,
+ including voting rights, without any further vote or action by
+ our stockholders. If we issue any of these shares of preferred
+ stock in the future, the rights of holders of our common stock
+ may be negatively affected. Although we have no current plans to
+ issue shares of preferred stock, if we issue preferred stock, a
+ change of control of our company could be delayed, deferred or
+ prevented. Furthermore, Section 203 of the Delaware General
+ Corporation Law restricts certain business combinations with any
+ “interested stockholder” as defined by that
+
+ 16
+
+Table of Contents
+
+ statute. These provisions are designed to encourage potential
+ acquirers to negotiate with our board of directors and give our
+ board an opportunity to consider various alternatives to
+ increase stockholder value. These provisions are also intended
+ to discourage certain tactics that may be used in proxy
+ contests. However, the potential issuance of preferred stock or
+ the restrictions in Section 203 of the Delaware General
+ Corporation Law could discourage potential acquisition proposals
+ and could delay or prevent a change in control, which may
+ adversely affect the market price of our stock. These provisions
+ may also have the effect of preventing changes in our management
+ or board of directors.
+
+ Class
+ action litigation due to stock price volatility or other factors
+ could cause us to incur substantial costs and divert our
+ management’s attention and resources.
+
+ In the past, securities class action litigation often has been
+ brought against a company following periods of volatility in the
+ market price of its securities. Companies in the technology
+ industry are particularly vulnerable to this kind of litigation
+ due to the high volatility of their stock prices. Our stock has
+ experienced substantial price volatility in the past. This may
+ be a result of quarterly variations in our results of
+ operations, the published expectations of security analysts and
+ announcements by us and our competitors as well as general
+ economic conditions and our stock price may continue to
+ experience substantial volatility. Accordingly, we may in the
+ future be the target of securities litigation. Any securities
+ litigation could result in substantial costs and could divert
+ the attention and resources of our management.
