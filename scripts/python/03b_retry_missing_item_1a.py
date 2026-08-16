@@ -20,6 +20,7 @@ every document in the accession) and tries each document in turn until
 one yields a valid extraction.
 """
 import pathlib
+import re
 import sys
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
@@ -32,21 +33,54 @@ OUT_DIR = ROOT / "data" / "clean" / "risk_factors"
 
 
 def other_documents(cik: int, accession_number: str, primary_document: str) -> list[str]:
+    """Candidate sibling documents, most-likely first.
+
+    Ordering matters for both cost and correctness. BNY Mellon's 2016
+    accession contains 172 documents; walking them in EDGAR's listing order
+    means ~170 wasted fetches before reaching the Annual Report, and it takes
+    whichever document parses FIRST rather than the one most likely to be
+    right -- an early spurious match wins over the real exhibit.
+
+    Two signals, in order:
+      1. Exhibit 13 is SEC's conventional number for the Annual Report to
+         Shareholders, which is what Item 1A gets incorporated by reference
+         INTO. Naming is inconsistent across filing agents (ex13, exv13,
+         ex-13, ex_13, and suffixed forms like kex131), so match loosely.
+      2. Otherwise largest first. The Annual Report is invariably the biggest
+         document in the accession; certifications and consents are tiny.
+
+    The concatenated full-submission text file is excluded outright: it
+    contains every document in the accession glued together, so a section
+    extracted from it can silently span document boundaries.
+    """
     accn_nodash = accession_number.replace("-", "")
     idx_url = f"https://www.sec.gov/Archives/edgar/data/{cik}/{accn_nodash}/index.json"
     try:
         data = get_json(idx_url)
     except Exception:
         return []
-    names = [item["name"] for item in data.get("directory", {}).get("item", [])]
-    # Prefer .htm/.txt documents, excluding the primary (already tried) and
-    # obvious non-content files (graphics, XBRL instance/schema docs).
+
     skip_ext = (".jpg", ".gif", ".png", ".xsd", ".xml", ".jpeg")
-    return [
-        n for n in names
-        if n != primary_document and not n.lower().endswith(skip_ext)
-        and (n.lower().endswith(".htm") or n.lower().endswith(".html") or n.lower().endswith(".txt"))
-    ]
+    full_submission = f"{accession_number}.txt"
+
+    candidates = []
+    for item in data.get("directory", {}).get("item", []):
+        name = item.get("name", "")
+        lowered = name.lower()
+        if name in (primary_document, full_submission):
+            continue
+        if lowered.endswith(skip_ext) or "index" in lowered:
+            continue
+        if not lowered.endswith((".htm", ".html", ".txt")):
+            continue
+        try:
+            size = int(item.get("size") or 0)
+        except (TypeError, ValueError):
+            size = 0
+        is_ex13 = bool(re.search(r"ex[\-_v]?13", lowered))
+        candidates.append((0 if is_ex13 else 1, -size, name))
+
+    return [name for _, _, name in sorted(candidates)]
 
 
 def main():
@@ -92,6 +126,17 @@ def main():
             """, [file_path, len(recovered_text), recovered_doc, year, ticker])
             n_recovered += 1
             print(f"  recovered {ticker} {year} from {recovered_doc} ({len(recovered_text)} chars)")
+        else:
+            # Record WHY it is still missing rather than leaving the row
+            # indistinguishable from one never attempted. "0 siblings" means
+            # the accession genuinely has nothing else to try; a non-zero
+            # count means the text is not recoverable by any current
+            # strategy, which is a parser question, not a fetching one.
+            con.execute("""
+                UPDATE risk_factors_index SET fetch_error = ?
+                WHERE year = ? AND ticker = ?
+            """, [f"no Item 1A in primary document or any of {len(candidates)} sibling documents",
+                  year, ticker])
 
     con.close()
     print(f"\nRecovered {n_recovered}/{len(misses)} via secondary-document fallback.")

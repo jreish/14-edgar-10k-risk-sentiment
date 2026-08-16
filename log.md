@@ -465,3 +465,68 @@ network dropped for a minute. Beyond making it wait that out, the more
 important fix was that a failed search used to be recorded identically to
 a search that ran and found nothing — rows that looked investigated when
 they never were. Those are now labelled honestly and retried.
+
+## 2026-08-16 (later) — We were counting some things we shouldn't have been
+
+The goal for this round was small: 86 company-years where we'd found the
+annual report and downloaded it fine, but couldn't pull the risk-factors
+section out of it. We recovered 28. We also found 99 entries that were
+worse than missing, and the honest total came out *lower* than it started:
+9,296 risk-factor sections before, 9,219 after.
+
+That drop is the point, so it's worth being clear about.
+
+**First, the part that didn't go as predicted.** I'd looked at one company
+(Bank of New York Mellon), worked out exactly why its filings failed, and
+estimated the same fix would handle up to 76 of the 86. It handled 14. BNY
+Mellon's structure turned out to be BNY Mellon's, not a common pattern. The
+rest fail in genuinely different ways — FedEx's section is in the main
+document but the heading that follows it is one we don't recognise; Aetna's
+is in a separate exhibit with only a single heading to anchor on; Citigroup's
+ends at a heading unique to Citigroup.
+
+I tried one more general idea — using each document's own table of contents
+to learn what section comes after the risk factors — and it didn't work
+either. At that point I stopped, rather than write a special case per
+company. Each special case is a new thing that can break, for a handful of
+rows, and the way it breaks is by grabbing the *wrong text* silently. A
+visible gap is better than that.
+
+**Second, the part that mattered more.** While checking the recovered text
+by eye, I looked at the shortest entries in the whole dataset. A typical
+risk-factors section runs about 51,000 characters. Ninety-nine of ours were
+under 1,500, and 84 were under 600.
+
+They weren't risk factors at all. They were one-sentence pointers saying
+where the risk factors actually live — "that information is incorporated
+into this report by reference." Wells Fargo's entire twenty-year run was
+stored this way, at about 240 characters a year.
+
+This is worse than a missing row. A missing row shows up in the coverage
+numbers and you know to be careful. This kind of entry looks like data,
+counts as data, and quietly feeds a couple of sentences of legal boilerplate
+into a study about how companies write about risk. And it had been inflating
+every coverage figure I'd reported all day.
+
+The fix that worked wasn't the obvious one. I first tried matching the
+wording, which caught Wells Fargo and U.S. Bancorp but missed Halliburton,
+McKesson, Genzyme, Eastman Chemical and AMD — every company phrases it
+differently. What generalises is length: nothing that short is a real risk
+disclosure in this corpus. So anything under 1,500 characters is now treated
+as "we haven't got this one."
+
+The good part is what happens next. Those rows get handed to the retry step,
+which goes looking for the document the pointer was pointing at — and often
+finds it. Universal Health Services went from six 640-character stubs to six
+real sections averaging 90,000 characters. McKesson went from 4 stubs to 17
+real sections. Wells Fargo recovered 6 real years and now honestly reports
+the other 15 as missing, instead of 20 fake ones.
+
+**Where that leaves things:** 9,219 sections, 87.6% of the study universe
+(the 88.3% I reported earlier was overstated by the stubs). The shortest
+section in the dataset is now 1,500 characters instead of 200.
+
+To make sure none of this quietly broke what already worked, there's now a
+test that re-downloads 300 filings we'd already parsed and checks the text
+comes out byte-for-byte identical. It passed — 297 identical, and the only
+two differences were stubs being correctly rejected.

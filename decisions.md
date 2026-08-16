@@ -813,3 +813,126 @@ top 50 tickers close 46% of what's left, top 100 close 74%. The head is CMA
 genuine ticker reuse across unrelated companies (DD spans E.I. du Pont and
 the post-2019 DuPont de Nemours spinoff), which is exactly the class that
 must be resolved by evidence rather than convenience.
+
+---
+
+## 2026-08-16 (later) — Extraction: a false-positive class, and a smaller win than forecast
+
+Went after the 86 `no_item_1a_extracted` rows. Recovered 28, found and fixed
+99 rows that were wrong in a worse way, and ended with **fewer** Item 1A
+sections than before: 9296 -> 9219. That is the number getting more honest,
+not the dataset getting worse.
+
+### The forecast was wrong, and by how much
+
+The plan estimated "up to 76 of 86 addressable" on the strength of one
+diagnosed pattern. Realized recovery was **14** from that pattern, 28 in
+total. The error was generalising from a single case: BNY Mellon's structure
+turned out to be BNY Mellon's, not a genre shared by the rest.
+
+The 72 that remain are several distinct shapes, not one:
+  - FDX: real section sits in the primary document, but the heading that
+    follows it ("Forward-Looking Statements") is in no end-marker set.
+  - AET: real text is in an Exhibit 13 carrying exactly ONE start marker and
+    no end marker -- below any run threshold.
+  - C: ends at a company-specific heading ("SUSTAINABILITY AND OTHER ESG
+    MATTERS").
+
+**Rejected:** deriving the end marker from each document's own table of
+contents (the ToC names what follows Risk Factors). Prototyped; it read the
+successor name correctly for FDX and C and still failed, because the name
+does not recur as a standalone heading in the body. Also rejected: taking
+"the next heading of any kind" after a start, which truncates immediately on
+the bolded sub-headings that fill a risk-factors section.
+
+Stopped there rather than write per-filer parsers. Each one adds regression
+surface for a handful of rows, and the failure mode is silently capturing the
+wrong text -- which this project treats as worse than a gap.
+
+### What worked: the running-header strategy
+
+Annual Report exhibits have no Item numbering, so no end marker exists. What
+they do have is a running page header -- BNY Mellon 2016 reprints "Risk
+Factors (continued)" 27 times at ~4,900-char intervals across offsets
+375,604..504,224. The repetition that makes the document unparseable by
+marker-matching is itself the signal: a dense run of repeated headings IS the
+section, ending where the run stops.
+
+Invoked ONLY when the primary strategy returns None. That ordering is what
+makes the ~9,300 existing extractions byte-identical by construction rather
+than by testing; the test exists anyway.
+
+Two refinements the spot-check forced, and it is worth noting neither was
+visible in the row counts -- only in reading the output:
+  - Parentheses allowed in the heading pattern, since the true terminator is
+    often "Supplemental Information (unaudited)". DIGITS deliberately still
+    excluded: these documents print "BNY Mellon 109" at every page break
+    INSIDE the section, so treating a digit-bearing line as a heading would
+    truncate at the first page boundary.
+  - Trailing page-footer trim, for the last such footer before the true end.
+
+### The real finding: 99 stored successes were not risk factors
+
+Checking recovered output led to the short end of the distribution. Against a
+corpus median of **51,471 characters**, 99 stored sections were under 1,500 --
+84 of them under 600. They are incorporation-by-reference pointers:
+
+> "Information in response to this Item 1A can be found in the Company's 2014
+> Annual Report on pages 155 to 165 under the heading 'Risk Factors.' That
+> information is incorporated into this report by reference."
+
+Wells Fargo's entire 20-year series was stored this way at 229-249 chars.
+These sit between a valid start marker and a valid end marker, so the parser
+extracted them and recorded a success.
+
+This is a **false positive, which is worse than a gap**: a gap is visible in
+the coverage numbers, whereas this silently contributes 200 characters of
+boilerplate to a language study as though it were a company's risk
+disclosure. It had been inflating every coverage figure reported this session.
+
+**Rejected:** phrase matching. Tried it first; it caught USB and JNJ and
+missed HAL ("is described in Management's Discussion and Analysis"), MCK ("is
+included in the Financial Review section"), GENZ ("We incorporate our
+disclosure related to risk factors into this section"), EMN ("For
+identification and discussion of the most significant risks applicable"), and
+AMD. The phrasing space is not enumerable.
+
+Length generalises. `MIN_PLAUSIBLE_SECTION_CHARS = 1500`, and the tradeoff is
+stated in the code: a genuinely complete but very short Item 1A would be
+rejected. Nothing in this corpus looks like that -- the shortest section that
+reads as complete is ~2,000 chars -- and being wrong costs a visible gap,
+while the status quo costs silent contamination.
+
+Rejection also routes the row to `03b`, which searches the accession for the
+document the stub POINTS AT. That is where the payoff is: it does not just
+delete bad rows, it often recovers the real ones.
+
+### Effect
+
+| ticker | before | after |
+|---|---|---|
+| UHS | 6 stubs @ 617-674 chars | 6 real @ 47,596-193,661 |
+| MCK | 4 stubs @ 253-254 | 17 real @ 50,724-79,247 |
+| USB | 9 stubs @ 201-211 | 9 real (max 46,154) |
+| WFC | 20 stubs @ 229-249 | 6 real @ 39,445-605,728, 15 honest gaps |
+| GENZ | 5 stubs @ 272-396 | 0, all 5 now honest gaps |
+
+Minimum stored section is now exactly 1,500 chars, against 200 before.
+
+Totals: Item 1A 9296 -> **9219** (99 rejected, 28 recovered, net -77).
+Universe coverage 88.3% -> **87.6%**; share of located 10-Ks 99.1% -> 98.3%.
+Both previous figures were overstated by the stubs.
+
+`no_item_1a_extracted` rises 86 -> 163, which is the honest accounting of
+what extraction cannot currently reach.
+
+### Verification
+
+- `tests/test_parser_regression.py` (new): re-extracts a seeded 300-filing
+  sample and asserts byte-identical output. 297 identical, 0 changed, 2
+  floor-rejected as intended. This is the gate a parser change must pass
+  before the pipeline re-runs over it -- a change that shifts section
+  boundaries would corrupt the sentiment series in a way no coverage count
+  would reveal.
+- `tests/test_risk_factor_parser.py` (new): 11/11, pinning the BNY Mellon
+  running-header case and five stub phrasings that defeated phrase matching.
