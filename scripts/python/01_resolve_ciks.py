@@ -322,13 +322,44 @@ def main():
 
         # Highest priority: a hand-verified override, which exists precisely
         # because every automated path below is known to be wrong here.
+        #
+        # Still year-validated, though, and that is not redundant. An override
+        # supplies a CIK plus a year RANGE, and the range is the easy thing to
+        # get wrong: a hypothesis confirmed by one filing gets written with the
+        # full span of that ticker's missing years, which is only correct if
+        # the company existed for all of them. Confirmed near-miss: Baker
+        # Hughes Co (CIK 1701605) genuinely declares "BHGE" on its cover page,
+        # so the identity is right -- but it first filed a 10-K in 2018, and
+        # the proposed range started in 2006. Twelve years would have been
+        # attributed to a company that did not yet exist, with a real
+        # verification note attached vouching for it. Requiring a 10-K near the
+        # specific year turns a wrong range into a visible gap rather than
+        # silent misattribution.
         override = find_override(overrides, ticker, year)
         if override is not None:
-            results.append((
-                year, ticker, snapshot_date, stint_start, stint_end, override["cik"],
-                "manual_override", "resolved",
-                f"manual override -> CIK {override['cik']} ({override['source_url']}): {override['note']}",
-            ))
+            override_cik = override["cik"]
+            if override_cik not in submissions_cache:
+                submissions_cache[override_cik] = fetch_submissions(override_cik)
+            subs = submissions_cache[override_cik]
+            has_10k = subs is not None and has_10k_in_window(
+                tenk_filing_dates(override_cik, subs),
+                snapshot_date - YEAR_MATCH_WINDOW,
+                snapshot_date + YEAR_MATCH_WINDOW,
+            )
+            if has_10k:
+                results.append((
+                    year, ticker, snapshot_date, stint_start, stint_end, override_cik,
+                    "manual_override", "resolved",
+                    f"manual override -> CIK {override_cik} ({override['source_url']}): {override['note']}",
+                ))
+            else:
+                results.append((
+                    year, ticker, snapshot_date, stint_start, stint_end, None,
+                    "manual_override_year_rejected", "unresolved",
+                    f"override claims CIK {override_cik} for {year}, but that CIK filed no 10-K "
+                    f"within {YEAR_MATCH_WINDOW.days}d of {snapshot_date} -- the override's year "
+                    f"range is too wide. Narrow it in manual_cik_overrides.csv.",
+                ))
             continue
 
         # Keyed by (ticker, snapshot_date), NOT (ticker, stint_start). Caching

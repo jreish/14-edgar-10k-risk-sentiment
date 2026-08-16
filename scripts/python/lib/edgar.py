@@ -176,6 +176,21 @@ def fetch_company_tickers() -> dict:
         if ticker not in mapping:
             mapping[ticker] = row[cik_idx]
 
+    # Share-class separator: the index membership source writes BF.B / BRK.B,
+    # SEC writes BF-B / BRK-B. Neither file contains the dotted form at all,
+    # so every dual-class ticker failed lookup outright and fell through to
+    # full text search, which cannot confirm a ticker whose own filings spell
+    # it differently -- 38 rows across BF.B and BRK.B resolved to nothing
+    # despite both companies being continuously-filing S&P 500 members with
+    # unambiguous CIKs. Registering the dotted spelling as an alias, never
+    # overriding a real entry, fixes the class systematically instead of
+    # needing one manual override per dual-class company.
+    for ticker, cik in list(mapping.items()):
+        if "-" in ticker:
+            dotted = ticker.replace("-", ".")
+            if dotted not in mapping:
+                mapping[dotted] = cik
+
     return mapping
 
 
