@@ -1,0 +1,316 @@
+Risks Related to our Business 
+
+We may incur substantial costs related to product-related liabilities.
+ Many of our software solutions, health care devices or services (including life sciences/research services) are intended for use in collecting, storing and displaying clinical and health care-related information used in the diagnosis and treatment of patients and in related health care settings such as admissions, billing, etc. We attempt to limit by contract our liability; however, the limitations of liability set forth in the contracts may not be enforceable or may not otherwise protect us from liability for damages. We may also be subject to claims that are not covered by contract. Although we maintain liability insurance coverage, there can be no assurance that such coverage will cover any particular claim that has been brought or that may be brought in the future, that such coverage will prove to be adequate or that such coverage will continue to remain available on acceptable terms, if at all. A successful material claim or series of claims brought against us, if uninsured or under-insured, could materially harm our business, results of operations and financial condition. Product-related claims, even if not successful, could damage our reputation, cause us to lose existing clients, limit our ability to obtain new clients, divert management’s attention from operations, result in significant revenue loss, create potential liabilities for our clients and us and increase insurance and other operational costs. 
+
+We may be subject to claims for system errors and warranties.
+ Our software solutions and health care devices are very complex and may contain design, coding or other errors, especially when first introduced. It is not uncommon for HCIT providers to discover errors in software solutions and/or health care devices after their introduction to the market. Similarly, the installation of our software solutions and health care devices is very complex and errors in the implementation and configuration of our systems can occur. Our software solutions and health care devices are intended for use in collecting, storing, and displaying clinical and health care-related information used in the diagnosis and treatment of patients and in related health care settings such as admissions, billing, etc. Therefore, users of our software solutions and health care devices have a greater sensitivity to errors than the market for software products and devices generally. Our client agreements typically provide warranties concerning material errors and other matters. Should a client’s Cerner software solution or health care device fail to meet these warranties or lead to faulty clinical decisions or injury to patients, it could 1) constitute a material breach under the client agreement, allowing the client to terminate the agreement and possibly obtain a refund or damages or both, or require us to incur additional expense in order to make the software solution or health care device meet these criteria or 2) subject us to claims or litigation by our clients or clinicians or directly by the patient. Additionally, such failures could damage our reputation and could negatively affect future sales. Our client agreements generally limit our liability arising from such claims but such limits may not be enforceable in certain jurisdictions or circumstances. Although we maintain liability insurance coverage, there can be no assurance that such coverage will cover any particular claim that has been brought or that may be brought in the future, that such coverage will prove to be adequate or that such coverage will continue to remain available on acceptable terms, if at all. A successful material claim or series of claims brought against us, if uninsured or under-insured, could materially harm our business, results of operations and financial condition. 
+
+We may experience interruptions at our data centers or client support facilities.
+ Our business relies on the secure electronic transmission, data center storage and hosting of sensitive information, including protected health information, financial information and other sensitive information relating to our clients, company and workforce. We perform data center and/or hosting services for certain clients, including the storage of critical patient and administrative data and support services through various client support facilities. If any of these systems are interrupted, damaged or breached by an unforeseen event or actions of a Cerner associate or contractor or a third party, including a cyber-attack, or fail for any extended period of time, it could have a material adverse impact on our results of operations. Complete failure of all local public power and backup generators, impairment of all telecommunications lines, a concerted denial of service cyber-attack, a significant data breach, damage, injury or impairment (environmental, accidental, intentional or pandemic) to the buildings, the equipment inside the buildings housing our data centers, the personnel operating such facilities or the client data contained therein, or errors by the personnel trained to operate such facilities could cause a disruption in operations and negatively impact clients who depend on us for data center and system support services. We offer our clients disaster recovery services for additional fees to protect clients from isolated data center failures, leveraging our multiple data center facilities, however only a small percentage of our hosted clients choose to contract for these services. Additionally, Cerner’s core systems are disaster tolerant as we have implemented redundancy across physically diverse data centers. Any interruption in operations at our data centers and/or client support facilities could damage our reputation, cause us to lose existing clients, hurt our ability to obtain new clients, result in significant revenue loss, create potential liabilities for our clients and us and increase insurance and other operating costs. 
+
+Our proprietary technology may be subject to claims for infringement or misappropriation of intellectual property rights of others, or may be infringed or misappropriated by others.
+ We rely upon a combination of license agreements, 
+
+8
+
+Table of Contents
+
+confidentiality policies and procedures, confidentiality provisions in employment agreements, confidentiality agreements with third parties and technical security measures to maintain the confidentiality, exclusivity and trade secrecy of our proprietary information. We also rely on trademark and copyright laws to protect our intellectual property rights in the United States and abroad. We continue to develop our patent portfolio of United States and global patents, but these patents do not provide comprehensive protection for the wide range of solutions, devices and services we offer. Despite our protective measures and intellectual property rights, we may not be able to adequately protect against theft, copying, reverse-engineering, misappropriation, infringement or unauthorized use or disclosure of our intellectual property, which could have an adverse effect on our competitive position. 
+
+In addition, we are routinely involved in intellectual property infringement or misappropriation claims and we expect this activity to continue or even increase as the number of competitors, patents and patent enforcement organizations in the HCIT market increases, the functionality of our software solutions and services expands, the use of open-source software increases and we enter new geographies and new markets such as health care device innovation, health care transactions, revenue cycle, population health management and life sciences. These claims, even if not meritorious, are expensive to defend and are often incapable of prompt resolution. If we become liable to third parties for infringing or misappropriating their intellectual property rights, we could be required to pay a substantial damage award, develop alternative technology, obtain a license or cease using, selling, offering for sale, licensing, importing, implementing or supporting the solutions, devices and services that violate the intellectual property rights. 
+
+We may become subject to legal proceedings that could have a material adverse impact on our financial position and results of operations.
+ From time to time and in the ordinary course of our business, we and certain of our subsidiaries may become involved in various legal proceedings. All such legal proceedings are inherently unpredictable and, regardless of the merits of the claims, litigation may be expensive, time-consuming and disruptive to our operations and distracting to management. If resolved against us, such legal proceedings could result in excessive verdicts, injunctive relief or other equitable relief that may affect how we operate our business. Similarly, if we settle such legal proceedings, it may affect how we operate our business. Future court decisions, alternative dispute resolution awards, business expansion or legislative activity may increase our exposure to litigation and regulatory investigations. In some cases, substantial non-economic remedies or punitive damages may be sought. Although we maintain liability insurance coverage, there can be no assurance that such coverage will cover any particular verdict, judgment or settlement that may be entered against us, that such coverage will prove to be adequate or that such coverage will continue to remain available on acceptable terms, if at all. If we incur liability that exceeds our insurance coverage or that is not within the scope of the coverage in legal proceedings brought against us, it could have an adverse effect on our business, financial condition and results of operations. 
+
+We are subject to risks associated with our non-U.S. operations.
+ We market, sell and service our solutions, devices and services globally. We have established offices around the world, including in the Americas, Europe, the Middle East and the Asia Pacific region. We plan to continue to expand our non-U.S. operations and enter new global markets. This expansion will require significant management attention and financial resources to develop successful direct and indirect non-U.S. sales and support channels. Our business is generally transacted in the local functional currency. In some countries, our success will depend in part on our ability to form relationships with local partners. There is a risk that we may sometimes choose the wrong partner. For these and other reasons, we may not be able to maintain or increase non-U.S. market demand for our solutions, devices and services. 
+
+Non-U.S. operations are subject to inherent risks, and our future results could be adversely affected by a variety of uncontrollable and changing factors. These include, but are not limited to: 
+
+•
+
+Greater difficulty in collecting accounts receivable and longer collection periods 
+
+•
+
+Difficulties and costs of staffing and managing non-U.S. operations 
+
+•
+
+The impact of global economic conditions 
+
+•
+
+Effects of sovereign debt conditions, including budgetary constraints 
+
+•
+
+Unfavorable or volatile foreign currency exchange rates 
+
+•
+
+Legal compliance costs or business risks associated with our global operations where: i) local laws and customs differ from those in the United States, or ii) risk is heightened with respect to laws prohibiting improper payments and bribery, including without limitation the U.S. Foreign Corrupt Practices Act, the U.K. Anti-Bribery Act and similar laws and regulations in foreign jurisdictions 
+
+•
+
+Certification, licensing or regulatory requirements 
+
+•
+
+Unexpected changes in regulatory requirements 
+
+9
+
+Table of Contents
+
+•
+
+Changes to or reduced protection of intellectual property rights in some countries 
+
+•
+
+Potentially adverse tax consequences and difficulties associated with repatriating cash generated or held abroad in a tax-efficient manner 
+
+•
+
+Different or additional functionality requirements or preferences 
+
+•
+
+Trade protection measures 
+
+•
+
+Export control regulations 
+
+•
+
+Health service provider or government spending patterns 
+
+•
+
+Natural disasters, war or terrorist acts 
+
+•
+
+Labor disruptions that may occur in a country 
+
+•
+
+Poor selection of a partner in a country 
+
+•
+
+Political conditions which may impact sales or threaten the safety of associates or our continued presence in these countries 
+
+Our failure to effectively hedge exposure to fluctuations in foreign currency exchange rates could unfavorably affect our performance. 
+We currently utilize a non-derivative instrument to hedge our exposure to fluctuations in certain foreign currency exchange rates. This instrument may involve elements of market risk in excess of the amounts recognized in the Consolidated Financial Statements. For additional information about market risk on financial instruments, see Item 7A “Quantitative and Qualitative Disclosures about Market Risk”. Further, our financial results from non-U.S. operations may be negatively affected if we fail to execute or if we improperly hedge our exposure to currency fluctuations.
+
+We are subject to tax legislation in numerous countries; tax legislation initiatives or challenges to our tax positions could adversely affect our results of operations and financial condition.
+ We are a global corporation with a presence in more than 25 countries. As such, we are subject to tax laws, regulations and policies of the United States federal, state and local governments and of other country jurisdictions. From time to time, various legislative initiatives may be proposed that could adversely affect our tax positions and/or our tax liabilities. There can be no assurance that our effective tax rate or tax payments will not be adversely affected by these initiatives. In addition, United States federal, state and local, as well as other countries’ tax laws and regulations are extremely complex and subject to varying interpretations. There can be no assurance that our tax positions will not be challenged by relevant tax authorities or that we would be successful in any such challenge, which could result in double taxation, penalties and interest payments. 
+
+Our success depends upon the recruitment and retention of key personnel.
+ To remain competitive in our industries, we must attract, motivate and retain highly skilled managerial, sales, marketing, consulting and technical personnel, including executives, consultants, programmers and systems architects skilled in the HCIT, health care devices, health care transactions, population health management, revenue cycle and life sciences industries and the technical environments in which our solutions, devices and services are needed. Competition for such personnel in our industries is intense in both the United States and abroad. Our failure to attract additional qualified personnel to meet our needs could have a material adverse effect on our prospects for long-term growth. In addition, we invest significant time and expense in training our associates, which increases their value to clients and competitors who may seek to recruit them and increases the cost of replacing them. Our success is dependent to a significant degree on the continued contributions of key management, sales, marketing, consulting and technical personnel. The unexpected loss of key personnel could have a material adverse impact on our business and results of operations, and could potentially inhibit development and delivery of our solutions, devices and services and market share advances. 
+
+We depend on third party suppliers and our revenue and operating earnings could suffer if we fail to manage suppliers properly.
+ We license or purchase intellectual property and technology (such as software, hardware and content) from third parties, including some competitors, and incorporate such third party software, hardware or content into or sell or license it in conjunction with our solutions, devices and services. We depend on some of the third party software, hardware or content in the operation and delivery of our solutions, devices and services. For instance, we currently depend on Microsoft and IBM technologies for portions of the operational capabilities of our 
+Millennium
+ solutions. Our remote hosting and cloud services businesses also rely on a limited number of suppliers for certain functions of these businesses, such as Oracle database technologies, CITRIX technologies and Cisco networking technologies. Additionally, we rely on EMC, Hewlett Packard, NetApp and IBM for our hardware technology platforms. 
+
+Most of the third party software license contracts we have expire within one to five years, can be renewed only by mutual consent and may be terminated if we breach the terms of the license and fail to cure the breach within a specified period of 
+
+10
+
+Table of Contents
+
+time. Most of these third party software licenses are non-exclusive; therefore, our competitors may obtain the right to use any of the technology covered by these licenses and use the technology to compete directly with us. 
+
+If any of the third party suppliers were to change product offerings, cease actively supporting the technologies, fail to update and enhance the technologies to keep pace with changing industry standards, encounter technical difficulties in the continuing development of these technologies, significantly increase prices, terminate our licenses or supply contracts, suffer significant capacity or supply chain constraints or suffer significant disruptions, we would need to seek alternative suppliers and incur additional internal or external development costs to ensure continued performance of our solutions, devices and services. Such alternatives may not be available on attractive terms, or may not be as widely accepted or as effective as the intellectual property or technology provided by our existing suppliers. If the cost of licensing, purchasing or maintaining the third party intellectual property or technology significantly increases, our operating earnings could significantly decrease. In addition, interruption in functionality of our solutions, devices or services as a result of changes in third party suppliers could adversely affect our commitments to clients, future sales of solutions, devices and services, and negatively affect our revenue and operating earnings. 
+
+We may be unable to successfully integrate the Siemens Health Services business with our business or to realize the anticipated benefits of the acquisition of Siemens Health Services. 
+On February 2, 2015, we completed the acquisition of the assets of Siemens AG's health information technology business unit, Siemens Health Services
+.
+ The success of the acquisition of Siemens Health Services will depend, in part, on the ability to realize the anticipated synergies, growth opportunities and cost savings from integrating Siemens Health Services’ business with our business. The integration of two independent businesses is a complex, costly and time-consuming process and involves numerous risks, including difficulties in the assimilation of operations, services, solutions and personnel, the diversion of management’s attention from other business concerns, the entry into markets in which we have little or no direct prior experience, the potential loss of Siemens Health Services’ key personnel, and the potential inability to maintain the goodwill of existing clients. The difficulties of combining the operations of the companies include, among other factors:
+
+•
+
+managing a larger company;
+
+•
+
+the possibility of faulty assumptions underlying expectations regarding the integration process, including the assumption of known and unknown liabilities;
+
+•
+
+integrating two business cultures;
+
+•
+
+creating uniform standards, controls, procedures, policies and information systems and minimizing the costs associated with such matters;
+
+•
+
+integrating information systems, purchasing, accounting, finance, legal, sales, billing, payroll and regulatory compliance functions;
+
+•
+
+preserving client, supplier, research and development, distribution, marketing, promotion and other important relationships;
+
+•
+
+commercializing solutions under development and increasing revenues from existing marketed solutions;
+
+•
+
+combining the sales force territories and competencies associated with the sale of solutions and services presently sold or provided by us or Siemens Health Services;
+
+•
+
+integrating personnel from different businesses while maintaining focus on providing consistent, high-quality solutions and client support and attracting prospective clients;
+
+•
+
+integrating complex technologies and solutions from different businesses in a manner that is seamless to clients; and
+
+•
+
+performance shortfalls as a result of the diversion of management’s attention to the Siemens Health Services acquisition.
+
+If management is unable to successfully integrate the business of Siemens Health Services into our business in a manner that permits us to achieve the cost savings and operating synergies anticipated to result from the Siemens Health Services acquisition, such anticipated benefits of the Siemens Health Services acquisition may not be realized fully or at all or may take longer to realize than expected. Any significant diversion of management’s attention away from the ongoing businesses, and any difficulties encountered in the transition and integration process, could adversely affect our financial results. Moreover, the failure to achieve the anticipated benefits of the Siemens Health Services acquisition could result in increased costs or decreases in the amount of expected revenues. Any of the above difficulties could adversely affect our ability to maintain relationships with clients, partners, suppliers and associates or our ability to achieve the anticipated benefits of the Siemens Health Services acquisition, or could reduce our earnings or otherwise adversely affect our business and financial results.
+
+We intend to continue strategic business acquisitions and other combinations, which are subject to inherent risks.
+ In order to expand our solutions, device offerings and services and grow our market and client base, we may continue to 
+
+11
+
+Table of Contents
+
+seek and complete strategic business acquisitions and other combinations that we believe are complementary to our business. Acquisitions have inherent risks which may have a material adverse effect on our business, financial condition, operating results or prospects, including, but not limited to: 1) failure to successfully integrate the business and financial operations, services, intellectual property, solutions or personnel of an acquired business and to maintain uniform standard controls, policies and procedures; 2) diversion of management’s attention from other business concerns; 3) entry into markets in which we have little or no direct prior experience; 4) failure to achieve projected synergies and performance targets; 5) loss of clients or key personnel; 6) incurrence of debt or assumption of known and unknown liabilities; 7) write-off of software development costs, goodwill, client lists and amortization of expenses related to intangible assets; 8) dilutive issuances of equity securities; and, 9) accounting deficiencies that could arise in connection with, or as a result of, the acquisition of an acquired company, including issues related to internal control over financial reporting and the time and cost associated with remedying such deficiencies. If we fail to successfully integrate acquired businesses or fail to implement our business strategies with respect to these acquisitions, we may not be able to achieve projected results or support the amount of consideration paid for such acquired businesses. 
+
+We could suffer losses due to asset impairment charges.
+ We assess our goodwill for impairment during the second quarter every year and on an interim date should events or changes in circumstances indicate the carrying value of goodwill may not be recoverable in accordance with provisions of Accounting Standards Codification Topic 350, 
+Intangibles – Goodwill and Other
+. Declines in business performance or other factors could cause the fair value of a reporting unit to be revised downward and could result in a non-cash impairment charge. This could negatively affect our reported net earnings. 
+
+Volatility and disruption resulting from global economic conditions could negatively affect our business, results of operations and financial condition. 
+Although certain indices and economic data have shown signs of stabilization in the United States and certain global markets, there can be no assurance that these improvements will be broad-based or sustainable, nor is it clear how, if at all, they will affect the markets relevant to us. As a result, our operating results may be impacted by the health of the global economy. Volatility and disruption in global capital and credit markets may lead to slowdowns or declines in client spending which could adversely affect our business and financial performance. Our business and financial performance, including new business bookings and collection of our accounts receivable, may be adversely affected by current and future economic conditions (including a reduction in the availability of credit, higher energy costs, rising interest rates, financial market volatility and lower than expected economic growth) that cause a slowdown or decline in client spending. Reduced purchases by our clients or changes in payment terms could adversely affect our revenue growth and cause a decrease in our cash flow from operations. Bankruptcies or similar events affecting clients may cause us to incur bad debt expense at levels higher than historically experienced. Further, volatility and disruption in global financial markets may also limit our ability to access the capital markets at a time when we would like, or need, to raise capital, which could have an impact on our ability to react to changing economic and business conditions. Accordingly, if global financial and economic volatility continues or worsens, our business, results of operations and financial condition could be materially and adversely affected. 
+
+If we are unable to manage our growth in the new markets in which we offer solutions, health care devices or services, our business and financial results could suffer
+. Our future financial results will depend in part on our ability to profitably manage our business in the new markets that we enter. Over the past several years, we have engaged in the identification of, and competition for, growth and expansion opportunities in the areas of analytics, revenue cycle and population health. In order to achieve those initiatives, we will need to, among other things, recruit, train, retain and effectively manage associates, manage changing business conditions and implement and improve our technical, administrative, financial control and reporting systems for offerings in those areas. Difficulties in managing future growth in new markets could have a significant negative impact on our business, financial condition and results of operations.
+
+We will incur significant additional expenses in connection with the integration of the Siemens Health Services business into Cerner. 
+As we work to integrate the business, we expect to incur significant additional expenses relating to the integration of personnel, geographically diverse operations, information technology systems, accounting systems, clients, and strategic partners of each business and the implementation of consistent standards, policies, and procedures, and we may be subject to material write downs in assets and charges to earnings, which are expected to include severance pay and other costs. The integration process will be long-term and will continue to create significant expenses.
+
+We have restrictive covenants in our debt agreements, which may restrict our flexibility to operate our business. If we do not comply with these restrictive covenants, our failure could result in material and adverse effects on our operating results and our financial condition. 
+Our debt agreements contain customary restrictive covenants, including limitations on consolidated indebtedness, liens, investments, subsidiary investments, asset dispositions, and restricted payments, and require us to maintain certain leverage and interest coverage ratios. Failure to comply with these covenants 
+
+12
+
+Table of Contents
+
+could result in an event of default that, if not cured or waived, could result in reduced liquidity for the Company and could have a material adverse effect on our operating results and financial condition.
+
+Risks Related to the Health Care Information Technology, Health Care Device, Health Care Transaction and Population Health Management Industry 
+
+The health care industry is subject to changing political, economic and regulatory influences.
+ For example, the Health Insurance Portability and Accountability Act of 1996 (as modified by The Health Information Technology for Economic and Clinical Health Act (HITECH) provisions of the American Recovery and Reinvestment Act of 2009) (collectively, HIPAA) continues to have a direct impact on the health care industry by requiring national provider identifiers and standardized transactions/code sets, operating rules and necessary security and privacy measures in order to ensure the appropriate level of privacy of protected health information. These regulatory factors affect the purchasing practices and operation of health care organizations. 
+
+Many health care providers are consolidating to create integrated health care delivery systems with greater market power. These providers may try to use their market power to negotiate price reductions for our solutions, health care devices and services. As the health care industry consolidates, our client base could be eroded, competition for clients could become more intense and the importance of landing new client relationships becomes greater. 
+
+The Patient Protection and Affordable Care Act, which was amended by the Health Care and Education Reconciliation Act of 2010, became law in 2010. This comprehensive health care reform legislation included provisions to control health care costs, improve health care quality, and expand access to affordable health insurance. Together with ongoing statutory and budgetary policy developments at a federal level, this health care reform legislation could include changes in Medicare and Medicaid payment policies and other health care delivery administrative reforms that could potentially negatively impact our business and the business of our clients. Because not all the administrative rules implementing health care reform under the legislation have been finalized, and because of ongoing federal fiscal budgetary pressures yet to be resolved for federal health programs, the full impact of the health care reform legislation and of further statutory actions to reform healthcare payment on our business is unknown, but there can be no assurances that health care reform legislation will not adversely impact either our operational results or the manner in which we operate our business. Health care industry participants may respond by reducing their investments or postponing investment decisions, including investments in our devices, solutions and services. 
+
+The health care industry is highly regulated, and thus, we are subject to a number of laws, regulations and industry initiatives, non-compliance with certain of which could materially adversely affect our operations or otherwise adversely affect our business, financial condition and operating results.
+ As a participant in the health care industry, our operations and relationships, and those of our clients, are regulated by a number of local, state, federal and foreign governmental entities. The impact of these regulations on us is direct, to the extent that we are ourselves subject to these laws and regulations, and is also indirect because, in a number of situations, even though we may not be directly regulated by specific health care laws and regulations, our solutions, devices and services must be capable of being used by our clients in a way that complies with those laws and regulations. There is a significant and wide-ranging number of regulations both within the United States and abroad, such as regulations in the areas of health care fraud, e-prescribing, claims processing and transmission, health care devices, the security and privacy of patient data and interoperability standards, that may be directly or indirectly applicable to our operations and relationships or the business practices of our clients. Specific risks include, but are not limited to, the following: 
+
+Health Care Fraud. 
+Federal and state governments continue to enhance regulation of and increase their scrutiny over practices involving health care fraud, waste and abuse affecting health care providers whose services are reimbursed by Medicare, Medicaid and other government health care programs. Our health care provider clients, as well as our provision of products and services to government entities subject our business to laws and regulations on fraud and abuse which, among other things, prohibit the direct or indirect payment or receipt of any remuneration for patient referrals, or arranging for or recommending referrals or other business paid for in whole or in part by these federal or state health care programs. Federal enforcement personnel have substantial funding, powers and remedies to pursue suspected or perceived fraud and abuse. The effect of this government regulation on our clients is difficult to predict. Many of the regulations applicable to our clients and that may be applicable to us, including those relating to marketing incentives offered in connection with health care device sales, are vague or indefinite and have not been interpreted by the courts. They may be interpreted or applied by a prosecutorial, regulatory or judicial authority in a manner that could broaden their applicability to us or require our clients to make changes in their operations or the way in which they deal with us. If such laws and regulations are determined to be applicable to us and if we fail to comply with any applicable laws and regulations, we could be subject to civil and criminal 
+
+13
+
+Table of Contents
+
+penalties, sanctions or other liability, including exclusion from government health programs, which could have a material adverse effect on our business, results of operations and financial condition. Even an unsuccessful challenge by a regulatory or prosecutorial authority of our activities could result in adverse publicity, could require a costly response from us and could adversely affect our business, financial condition and results of operations. 
+
+Preparation, Transmission and Submission of Medical Claims for Reimbursement. 
+Our solutions are capable of electronically transmitting claims for services and items rendered by a physician to many patients' payers for approval and reimbursement. We also provide services to our clients that include the coding, preparation and submission of claims for medical service to payers for reimbursement. Such claims are governed by federal and state laws. Federal law provides civil liability to any person that knowingly submits a claim to a payer, including Medicare, Medicaid and private health plans, seeking payment for any services or items that have not been provided to the patient. Federal law may also impose criminal penalties for intentionally submitting such false claims. We have policies and procedures in place that we believe result in the accurate and complete preparation, transmission, submission and collection of claims, provided that the information given to us by our clients is also accurate and complete. The HIPAA security, privacy and transaction standards, as discussed below, also have a potentially significant effect on our claims preparation, transmission and submission services, since those services must be structured and provided in a way that supports our clients' HIPAA compliance obligations. In connection with these laws, we may be subjected to federal or state government investigations and possible penalties may be imposed upon us; false claims actions may have to be defended; private payers may file claims against us; and we may be excluded from Medicare, Medicaid or other government-funded health care programs. Any investigation or proceeding related to these laws, even if unwarranted or without merit, may have a material adverse effect on our business, results of operations and financial condition.
+
+Implementation of ICD-10 Coding for Medical Coding.
+ The Centers for Medicare & Medicaid Services (CMS) has mandated that all providers, payers, clearinghouses and billing services implement the use of new patient codes for medical coding, referred to as ICD-10 codes on or before October 1, 2015. This mandate substantially increases the number of medical billing codes by which providers will seek reimbursement, increasing the complexity of submitting claims for reimbursement. Claims submitted after October 1, 2015 must use ICD-10 codes or they will not be paid. Our efforts to provide services and solutions that enable our clients to comply with the ICD-10 mandate could be time consuming and expensive. In addition, due to the effort and expense of complying with the ICD-10 mandate, our clients may postpone or cancel decisions to purchase our solutions and services. Either of the foregoing could have a material adverse effect on our business, financial condition and results of operations.
+
+Regulation of Health Care Devices
+. The United States Food and Drug Administration (the FDA) has determined that certain of our solutions are health care devices that are actively regulated under the Federal Food, Drug and Cosmetic Act (Act) and amendments to the Act. Other countries have similar regulations in place related to health care devices, that now or may in the future apply to certain of our solutions. If other of our solutions are deemed to be actively regulated health care devices by the FDA or similar regulatory agencies in countries where we do business, we could be subject to extensive requirements governing pre- and post-marketing activities including pre-market notification clearance. Complying with these health care device regulations on a global perspective is time consuming and expensive and could be subject to unanticipated and significant delays. Further, it is possible that these regulatory agencies may become more active in regulating software and health care devices that are used in health care. If we are unable to obtain the required regulatory approvals for any such solutions or health care devices, our short and long term business plans for these solutions or health care devices could be delayed or canceled. 
+
+There have been eight FDA inspections at various Cerner sites since 2003. Inspections conducted at our World Headquarters and Innovations Campus in 2010 resulted in the issuance of an FDA Form 483 observation to which we responded promptly. The FDA has taken no further action with respect to the Form 483 observation that was issued in 2010. The remaining FDA inspections, including inspections at our world headquarters in 2006, 2007 and 2014, resulted in no issuance of a Form 483. We remain subject to periodic FDA inspections and we could be required to undertake additional actions to comply with the Act and any other applicable regulatory requirements. Our failure to comply with the Act and any other applicable regulatory requirements could have a material adverse effect on our ability to continue to manufacture, distribute and deliver our solutions, services and devices. The FDA has many enforcement tools including recalls, product corrections, seizures, injunctions, refusal to grant pre-market clearance of products, civil fines and criminal prosecutions. Any of the foregoing could have a material adverse effect on our business, results of operations and financial condition. 
+
+Security and Privacy of Patient Information
+. Federal, state, local and foreign laws regulate the confidentiality of patient records and the circumstances under which those records may be used and released. These regulations govern both the disclosure and use of confidential patient medical record information and require the users of such information to implement specified 
+
+14
+
+Table of Contents
+
+security and privacy measures. United States regulations currently in place governing electronic health data transmissions continue to evolve and are often unclear and difficult to apply. Laws in non-U.S. jurisdictions may have similar or even stricter requirements related to the treatment of patient information. 
+
+In the United States, HIPAA regulations require national standards for some types of electronic health information transactions and the data elements used in those transactions to ensure the integrity, security and confidentiality of health information and standards to protect the privacy of individually identifiable health information. Covered entities under HIPAA, which include health care organizations such as our clients, our employer clinic business model and our claims processing, transmission and submission services, are required to comply with the privacy standards, the transaction regulations and the security regulations. Moreover, the HITECH provisions of ARRA, and associated regulatory requirements, extend many of the HIPAA obligations, formerly imposed only upon covered entities, to business associates as well. As a business associate of our clients who are covered entities, we were in most instances already contractually required to ensure compliance with the HIPAA regulations as they pertain to handling of covered client data. However, the extension of these HIPAA obligations to business associates by law has created additional liability risks related to the privacy and security of individually identifiable health information. 
+
+Evolving HIPAA and HITECH-related laws or regulations in the U.S. and data privacy and security laws or regulations in non-U.S. jurisdictions could restrict the ability of our clients to obtain, use or disseminate patient information. This could adversely affect demand for our solutions if they are not re-designed in a timely manner in order to meet the requirements of any new interpretations or regulations that seek to protect the privacy and security of patient data or enable our clients to execute new or modified health care transactions. We may need to expend additional capital, software development and other resources to modify our solutions and devices to address these evolving data security and privacy issues. Furthermore, our failure to maintain confidentiality of sensitive personal information in accordance with the applicable regulatory requirements could damage our reputation and expose us to claims, fines and penalties. 
+
+In Europe, we are subject to the European Union (“EU”) data protection regulations, including the EU Directive on Data Protection, which requires member states to impose minimum restrictions on the collection and use of personal data that, in some respects, are more stringent, and impose more significant burdens on subject businesses, than current privacy standards in the United States. The EU regulations establish several obligations that organizations must follow with respect to use of personal data, including a prohibition on the transfer of personal information from the EU to other countries whose laws do not protect personal data to an adequate level of privacy or security. In addition to this EU-wide legislation, certain member states have adopted more stringent data protection standards. Cerner has addressed these requirements by certification to the US - EU and US - Switzerland Safe Harbor Frameworks. The costs of compliance with, and other burdens imposed by, such laws, regulations and policies, or modifications thereto, that are applicable to us may limit the use and adoption of our solutions and could have a material adverse impact on our results of operations.
+
+Applicable statutes and regulations have granted broad enforcement powers to regulatory agencies to investigate and enforce our compliance with these privacy and security laws and regulations. Governmental enforcement personnel have substantial funding, powers and remedies to pursue suspected or perceived violations. If we fail to comply with any applicable laws or regulations, we could be subject to civil penalties, sanctions or other liability. Enforcement investigations, even if meritless, could have a negative impact on our reputation, cause us to lose existing clients or limit our ability to attract new clients.
+
+Interoperability Standards
+. Our clients are concerned with and often require that our software solutions and health care devices be interoperable with other third party HCIT suppliers. Market forces or governmental/regulatory authorities could create software interoperability standards that would apply to our solutions, health care devices or solutions, and if our software solutions, health care devices or services are not consistent with those standards, we could be forced to incur substantial additional development costs to conform. The Office of the National Coordinator for Health Information Technology (ONC) has developed a comprehensive set of criteria for the functionality, interoperability and security of various software modules in the HCIT industry. ONC, however, continues to modify and refine those standards. Achieving certification is becoming a competitive requirement, resulting in increased software development and administrative expense to conform to these requirements. 
+
+ARRA Meaningful Use Program
+. Various federal, state and non-U.S. government agencies are also developing standards that could become mandatory for systems purchased by these agencies. For example, ARRA requires “meaningful use of certified electronic health record technology” by health care providers in order to receive stimulus funds from the U.S. federal government. Regulations have been issued that identify standards and implementation specifications and establish the certification standards for qualifying electronic health record technology. Nevertheless, these standards and specifications are subject to interpretation by the entities designated to certify such technology. While a combination of our solutions have 
+
+15
+
+Table of Contents
+
+been certified as meeting the initial standards for certified health record technology, the regulatory standards to achieve certification will continue to evolve over time. We may incur increased development costs and delays in delivering solutions if we need to upgrade our software, devices or health care devices to be in compliance with these varying and evolving standards. In addition, delays in interpreting these standards may result in postponement or cancellation of our clients’ decisions to purchase our solutions or health care devices. If our software solutions, devices or health care devices are not compliant with these evolving standards, our market position and sales could be impaired and we may have to invest significantly in changes to our software solutions, devices or health care devices. 
+
+We operate in intensely competitive and dynamic industries, and our ability to successfully compete and continue to grow our business depends on our ability to respond quickly to market changes and changing technologies and to bring competitive new solutions, devices, features and services to market in a timely fashion.
+ The market for health care information systems, health care solutions and services to the health care industry is intensely competitive, dynamically evolving and subject to rapid technological and innovative changes. Development of new proprietary technology or services is complex, entails significant time and expense and may not be successful. We cannot guarantee that we will be able to introduce new solutions, devices or services on schedule, or at all, nor can we guarantee that such solutions, devices or services will achieve market acceptance. Moreover, we cannot guarantee that errors will not be found in our new solution releases, devices or services before or after commercial release, which could result in solution, device or service delivery redevelopment costs, harm to our reputation, lost sales, license terminations or renegotiations, product liability claims, diversion of resources to remedy errors and loss of, or delay in, market acceptance. 
+
+Certain of our competitors have greater financial, technical, product development, marketing or other resources than us and some of our competitors offer software solutions, devices or services that we do not offer. Our principal existing competitors are set forth above under Part I, Item 1 "Competition". 
+
+In addition, we expect that major software information systems companies, large information technology consulting service providers and system integrators, start-up companies and others specializing in the health care industry may offer competitive software solutions, devices or services. As we continue to develop new health care devices and services to address areas such as analytics, transaction services, HCIT and device integration, revenue cycle and population health management, we expect to face new competitors, and these competitors may have more experience in these markets and/or more established relationships with prospective clients. We face strong competition and often face downward price pressure, which could adversely affect our results of operations or liquidity. Additionally, the pace of change in the health care information systems market is rapid and there are frequent new software solution introductions, software solution enhancements, device introductions, device enhancements and evolving industry standards and requirements. There are a limited number of hospitals and other health care providers in the United States market and in recent years, the health care industry has been subject to increasing consolidation. If we are unable to recognize the impact of industry consolidation, falling costs and technological advancements in a timely manner, or we are too inflexible to rapidly adjust our business models, our growth ambitions and financial results could be negatively affected materially. 
+
+Risks Related to Our Common Stock
+
+Our quarterly operating results may vary, which could adversely affect our stock price.
+ Our quarterly operating results have varied in the past and may continue to vary in future periods, including variations from guidance, expectations or historical results or trends. Quarterly operating results may vary for a number of reasons including demand for our solutions, devices and services, the financial condition of our current and potential clients, our long sales cycle, potentially long installation and implementation cycles for larger, more complex systems, accounting policy changes and other factors described in this section and elsewhere in this report. As a result of health care industry trends and the market for our solutions, a large percentage of our revenues are generated by the sale and installation of larger, more complex and higher-priced systems. The sales process for these systems is lengthy and involves a significant technical evaluation and commitment of capital and other resources by the client. Sales may be subject to delays due to changes in clients’ internal budgets, procedures for approving large capital expenditures, competing needs for other capital expenditures, additions or amendments to federal, state or local regulations, availability of personnel resources or by actions taken by competitors. Delays in the expected sale, installation or implementation of these large systems may have a significant negative impact on our anticipated quarterly revenues and consequently our earnings, since a significant percentage of our expenses are relatively fixed. 
+
+Revenue recognized in any quarter may depend upon our or our clients’ abilities to meet project milestones. Delays in meeting these milestone conditions or modification of the project plan could result in a shift of revenue recognition from one quarter to another and could have a material adverse effect on results of operations for a particular quarter.
+
+16
+
+Table of Contents
+
+Our revenues from system sales historically have been lower in the first quarter of the year and greater in the fourth quarter of the year, primarily as a result of clients’ year-end efforts to make final capital expenditures for the then-current year.
+
+Our sales forecasts may vary from actual sales in a particular quarter.
+ We use a “pipeline” system, a common industry practice, to forecast sales and trends in our business. Our sales associates monitor the status of all sales opportunities, such as the date when they estimate that a client will make a purchase decision and the potential dollar amount of the sale. These estimates are aggregated periodically to generate a sales pipeline. We compare this pipeline at various points in time to evaluate trends in our business. This analysis provides guidance in business planning and forecasting, but these pipeline estimates are by their nature speculative. Our pipeline estimates are not necessarily reliable predictors of revenues in a particular quarter or over a longer period of time, partially because of changes in the pipeline and in conversion rates of the pipeline into contracts that can be very difficult to estimate. A negative variation in the expected conversion rate or timing of the pipeline into contracts, or in the pipeline itself, could cause our plan or forecast to be inaccurate and thereby adversely affect business results. For example, a slowdown in information technology spending, adverse economic conditions, new federal, state or local regulations related to our industry or a variety of other factors can cause purchasing decisions to be delayed, reduced in amount or cancelled, which would reduce the overall pipeline conversion rate in a particular period of time. Because a substantial portion of our contracts are completed in the latter part of a quarter, we may not be able to adjust our cost structure quickly enough in response to a revenue shortfall resulting from a decrease in our pipeline conversion rate in any given fiscal quarter. 
+
+The trading price of our common stock may be volatile.
+ The market for our common stock may experience significant price and volume fluctuations in response to a number of factors including actual or anticipated variations in operating results, articles or rumors about our performance or solutions, devices or services, announcements of technological innovations or new services or products by our competitors or us, changes in expectations of future financial performance or estimates of securities analysts, governmental regulatory action, health care reform measures, client relationship developments, economic conditions and changes occurring in the securities markets in general and other factors, many of which are beyond our control. For instance, our quarterly operating results have varied in the past and may continue to vary in future periods, due to a number of reasons including, but not limited to, demand for our solutions, devices and services, the financial condition of our current and potential clients, our long sales cycle, potentially long installation and implementation cycles for larger, more complex and higher-priced systems, accounting policy changes and other factors described herein. As a matter of policy, we do not generally comment on our stock price or rumors. 
+
+Furthermore, the stock market in general, and the markets for software, health care devices, other health care solutions and services and information technology companies in particular, have experienced extreme volatility that often has been unrelated to the operating performance of particular companies. These broad market and industry fluctuations may adversely affect the trading price of our common stock, regardless of actual operating performance. 
+
+Our Directors have authority to issue preferred stock and our corporate governance documents contain anti-takeover provisions.
+ Our Board of Directors has the authority to issue up to 1,000,000 shares of preferred stock and to determine the preferences, rights and privileges of those shares without any further vote or action by the shareholders. The rights of the holders of common stock may be harmed by rights granted to the holders of any preferred stock that may be issued in the future. 
+
+In addition, some provisions of our Certificate of Incorporation and Bylaws could make it more difficult for a potential acquirer to acquire a majority of our outstanding voting stock. These include provisions that provide for a classified board of directors, prohibit shareholders from taking action by written consent and restrict the ability of shareholders to call special meetings. We are also subject to provisions of Delaware law that prohibit us from engaging in any business combination with any interested shareholder for a period of three years from the date the person became an interested shareholder, unless certain conditions are met, which could have the effect of delaying or preventing a change of control.
+
+Factors that May Affect Future Results of Operations, Financial Condition or Business 
+
+Statements made in this report, the Annual Report to Shareholders of which this report is made a part, other reports and proxy statements filed with the Securities and Exchange Commission (SEC), communications to shareholders, press releases and oral statements made by representatives of the Company that are not historical in nature, or that state the Company’s or management’s intentions, hopes, beliefs, expectations, plans, goals or predictions of future events or performance, may constitute “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended (the Exchange Act). Forward-looking statements can often be identified by the use of forward-looking terminology, such as “could,” “should,” “will,” “intended,” “continue,” “believe,” 
+
+17
+
+Table of Contents
+
+“may,” “expect,” “hope,” “anticipate,” “goal,” “forecast,” “plan,” “guidance” or “estimate” or the negative of these words, variations thereof or similar expressions. Forward-looking statements are not guarantees of future performance or results. They involve risks, uncertainties and assumptions. It is important to note that any such performance and actual results, financial condition or business, could differ materially from those expressed in such forward-looking statements. Factors that could cause or contribute to such differences include, but are not limited to, those discussed in this Item 1A. Risk Factors and elsewhere herein or in other reports filed with the SEC. Other unforeseen factors not identified herein could also have such an effect. We undertake no obligation to update or revise forward-looking statements to reflect changed assumptions, the occurrence of unanticipated events or changes in future operating results, financial condition or business over time.

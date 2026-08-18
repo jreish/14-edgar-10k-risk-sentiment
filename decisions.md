@@ -1007,3 +1007,98 @@ This is the honest boundary of what can be done without an external
 ticker-history crosswalk. CRSP (PERMNO-ticker history joined to Compustat's
 CIK) would settle all 19 in minutes and remains the recommendation if WRDS
 access appears.
+
+---
+
+## 2026-08-18 — Phrase-first search: 96.0% coverage, and why the manual crosswalk was the wrong instrument
+
+Item 1A **9525 -> 10102**; universe coverage 90.5% -> **96.0%**. 2006, the
+weakest year all along, went 73.8% -> **84.9%** (and 47.9% at the start of
+this work). Override rules 85 -> **200**, covering 1,362 ticker-years.
+
+The question that prompted this was whether to hand-build the historical
+ticker->CIK crosswalk that CRSP would otherwise provide. The answer turned
+out to be no, because the automated path was not exhausted -- the query was
+simply wrong.
+
+### Ticker-first search was asking an unanswerable question
+
+Every verification path so far searched for the TICKER inside a candidate's
+filings. For distinctive strings that works. For US Steel's "X", Legg Mason's
+"LM", Goodrich's "GR", Phelps Dodge's "PD" it is hopeless: the letters appear
+in ordinary prose on every page, so the one document that actually declares
+the symbol is buried under hundreds that merely contain the characters.
+
+Inverting the query fixes it. Search the DECLARATION PHRASE ("under the
+symbol", "trading symbol", "ticker symbol") restricted to the candidate's own
+CIK, then read whichever symbol the returned document declares. Same evidence
+standard throughout -- a document filed by that company, declaring that
+symbol, parsed by the unchanged `lib/cover_page.declared_symbols`. Only the
+question changes, from "does this string appear in your filings?" to "which
+symbol do your filings declare?"
+
+Measured on the 13 tickers that ticker-first search had left unverifiable:
+**12 confirmed immediately**. Across the full re-run of stragglers, 19 of 24
+-- and four of those (STJ, DNR, PCL, SUNEQ) had previously come back
+CONTRADICTED, meaning ticker-first was not merely failing to find evidence,
+it was surfacing actively misleading evidence from documents that mention
+other companies' symbols.
+
+On the `year_specific_no_match` bucket (predecessor entities in M&A chains)
+it was better still: **49 of 50**, then 48 of 62. Xerox, C.R. Bard, Varian,
+DuPont, Cigna, Time Warner, Starwood, Celgene, EMC, Medtronic, Qwest, Whole
+Foods, National Semiconductor, Linear Technology -- all resolved against
+their own filings.
+
+### The manual crosswalk, assessed properly
+
+It was feasible: ~160 tickers, 3-5 hours, and a hand entry can cite a source
+URL like any other. It was still the wrong instrument. Slower, not
+reproducible, and it leans on the weakest link in this entire workflow --
+**across seven batches roughly one in five of my own proposals was wrong**,
+and every one was caught by machine verification rather than by my
+confidence. Specimen errors: TIN's proposed CIK declares NUE; TRB declares
+AXE/CAT; MEL declares SYBT; CBE declares MA; HSP resolved to Bimini Capital
+(BMM); MWW to Lamar Advertising (LAMR); OMX to MKS (MKSI). Three tickers were
+handed the same CIK (Avery Dennison) through plain carelessness and all three
+were rejected.
+
+That rejection rate is the entire argument. Proposing from recollection is
+acceptable ONLY because nothing reaches the dataset on the strength of it.
+
+### formerNames is what makes the file reviewable
+
+Nearly every confirmation in the M&A bucket reads wrong at a glance --
+DD -> "EIDP, Inc."; PX -> "LINDE INC"; UTX -> "RTX Corp"; TWX -> "WARNER
+MEDIA, LLC"; HRS -> "L3HARRIS TECHNOLOGIES"; COG -> "Coterra Energy"; GGP ->
+"Brookfield Property REIT". All correct: SEC reports a CIK's CURRENT name,
+and these are exactly the successor chains the overrides exist to encode.
+Without former names travelling in the evidence note, a human review of
+`manual_cik_overrides.csv` would be worse than no review at all.
+
+### Multi-range tickers
+
+BHGE now carries two non-overlapping ranges (2006-2016 Baker Hughes Holdings
+CIK 808362; 2018 Baker Hughes Co CIK 1701605) -- a genuine succession within
+one ticker. Checked explicitly that no ticker has overlapping ranges, since
+`find_override` returns the first match and an overlap would make the
+resolution silently order-dependent.
+
+### Where it now stands
+
+| reason | rows | tickers |
+|---|---|---|
+| no_item_1a_extracted | 188 | 49 |
+| no_filing_found | 105 | 103 |
+| cik_never_resolved | 65 | 30 |
+| year_specific_no_match | 51 | 29 |
+| cik_candidate_never_filed | 13 | 11 |
+
+Identification is now essentially solved: 84 rows unresolved, down from 2,946.
+The largest remaining bucket is **extraction** (188), which is the one this
+project deliberately stopped optimising -- each remaining filer needs bespoke
+handling and the failure mode is silently capturing the wrong text. Of
+`no_filing_found`, 51 are 2026 filings not yet due.
+
+CRSP would still settle the last handful faster, but it is no longer worth
+buying for this dataset.

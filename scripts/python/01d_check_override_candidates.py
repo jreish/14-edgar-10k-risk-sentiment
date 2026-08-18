@@ -116,6 +116,56 @@ def declared_via_any_filing(cik: int, ticker: str, symbol_cache: dict, max_hits:
     return None, seen
 
 
+# Phrases a company uses to state its OWN symbol. Searching these inside a
+# candidate's filings is far more precise than searching the ticker itself:
+# short tickers (X, LM, GR, PD, AT) match text everywhere, so a ticker-first
+# query buries the one document that actually declares the symbol under
+# hundreds that merely contain the letters. Asking "which of your filings
+# declares a symbol?" and then reading the answer inverts that -- it converted
+# 12 of 13 tickers that ticker-first search had left unverifiable, including
+# Legg Mason, Avon, US Steel, BellSouth and Anheuser-Busch.
+_DECLARATION_PHRASES = ("under the symbol", "trading symbol", "ticker symbol")
+
+
+def declared_via_phrase_search(cik: int, ticker: str, symbol_cache: dict, max_hits: int = 6):
+    """Third evidence path: ask the CIK's filings which symbol they declare.
+
+    Same evidence standard as the other two -- a document filed by this
+    company, declaring this symbol, read by lib.cover_page.declared_symbols.
+    Only the query differs.
+    """
+    seen = set()
+    for phrase in _DECLARATION_PHRASES:
+        url = (
+            "https://efts.sec.gov/LATEST/search-index"
+            f"?q=%22{phrase.replace(' ', '+')}%22&ciks={str(cik).zfill(10)}"
+        )
+        try:
+            data = get_json(url)
+        except Exception:
+            continue
+        for hit in (data.get("hits", {}).get("hits", []) or [])[:max_hits]:
+            accn_raw, _, doc = hit.get("_id", "").partition(":")
+            accn = accn_raw.replace("-", "")
+            if len(accn) != 18 or not doc:
+                continue
+            formatted = f"{accn[:10]}-{accn[10:12]}-{accn[12:]}"
+            if formatted in symbol_cache:
+                symbols = set(symbol_cache[formatted])
+            else:
+                resp = get(filing_doc_url(cik, formatted, doc))
+                if resp.status_code != 200:
+                    continue
+                symbols = declared_symbols(resp.content)
+                symbol_cache[formatted] = sorted(symbols)
+            seen |= symbols
+            if symbol_matches(ticker, symbols):
+                return formatted, symbols
+        if seen:
+            break
+    return None, seen
+
+
 def main():
     hypotheses = []
     for arg in sys.argv[1:]:
@@ -205,6 +255,12 @@ def main():
             # filed before concluding anything -- a pre-2019 10-K routinely
             # omits the symbol that the same company's proxy states plainly.
             accn, wider = declared_via_any_filing(cik, ticker, symbol_cache)
+            if accn is None:
+                # Ticker-first search found nothing usable. Ask the inverse
+                # question -- which symbol does this company declare? -- which
+                # does not depend on the ticker being a distinctive string.
+                accn, phrase_seen = declared_via_phrase_search(cik, ticker, symbol_cache)
+                wider |= phrase_seen
             if accn is not None:
                 verdict = "CONFIRMED"
                 filed_years = sorted({int(f["filing_date"][:4]) for f in in_range})

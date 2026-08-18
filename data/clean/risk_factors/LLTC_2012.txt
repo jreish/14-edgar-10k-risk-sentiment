@@ -1,592 +1,192 @@
-In addition to the other information in this Annual Report on Form 10-K, you should carefully consider the risk factors discussed in this Annual Report on Form 10-K in evaluating FormFactor and our business. If any of the identified risks actually occur, our business, financial condition and results of operations could be materially adversely affected. The trading price of our common stock could decline and you may lose all or part of your investment in our common stock. The risks and uncertainties described in this Annual Report on Form 10-K are not the only ones we face. Additional risks that we currently do not know about or that we currently believe to be immaterial may also impair our business operations.
+A description of the risk factors associated with the Company is set forth below. In addition to the risk factors discussed below, see “Factors Affecting Future Operating Results” included in “Management's Discussion and Analysis” for further discussion of other risks and uncertainties that may affect the Company.
 
-Our delay in qualifying our next generation products at certain of our customers could result in the continued loss of market share at those customers, which could negatively impact our business and financial results.
+Erratic consumer and/or corporate spending due to uncertainties in the macroeconomic environment could adversely affect our revenues and profitability.
 
-In fiscal 2010 we transitioned customers from our Harmony platform products to our SmartMatrix and TouchMatrix product lines and notified our customers of our "end of life", or EOL, plans for our Harmony products. Although we believe our new SmartMatrix and TouchMatrix products enable our customers to lower their cost of ownership and we are in, or have completed, the qualification phase of this transition at our customers for DRAM and flash memory applications, we are late to market with these new products and both have lost and expect to continue to lose market share as we make this product transition. This share loss is the result of the time required for SmartMatrix and TouchMatrix product qualifications and of our customers' manufacturing lead times as they move from qualification volumes to full commercial production volumes, which could result in continued lost opportunities for us and negatively impact our business, financial and operating results. Because of this market timing, our products are not being used by certain of our customers in their current high volume production runs for certain devices, which could result in our losing follow-on orders for those devices, and could also result in customers electing to continue purchasing wafer probe cards from suppliers other than us to test their future semiconductor devices, which could result in our loss of market share and have a negative impact on our business and financial results.
+We depend on demand from the industrial, communication, computer, consumer and automotive end-markets we serve. Our revenues and profitability are based on certain levels of consumer and corporate spending. Reductions or other fluctuations in consumer and/or corporate spending as a result of uncertain conditions in the macroeconomic environment, such as government economic or fiscal instability, restricted global credit conditions, reduced demand, imbalanced inventory levels, mortgage failures, fluctuations in interest rates, higher energy prices, or other conditions, could adversely affect our revenues and profitability. The impact of general economic sluggishness relating to US and European debt and unemployment issues appear to have left customers cautious, causing them to delay or reduce orders for our products until the current economic picture becomes clearer. 
 
-In fiscal 2011 we engaged with certain customers on a next-generation, or evolution, of our SmartMatrix product which enables greater parallelism, and also with an SoC customer on a next-generation vertical probe technology. If we experience delays in qualifying these next-generation products, we may lose sales and our financial results will be negatively impacted. 
-
-Periodic global economic and semiconductor industry downturns could continue to negatively affect our business, results of operations, and financial condition.
-
-The recent and historical global economic and semiconductor industry downturns negatively affected and could continue to negatively affect our business, results of operations and financial condition. We may experience continued declines in demand for our probe cards resulting from our customers continuing to conserve cash by cutting production, postponing the implementation of tooling cycles and delaying the ramp of new technology nodes in response to slow demand for consumer and other products incorporating devices tested with our wafer probe cards. We may experience continued pricing pressure on certain of our products, which may reduce our gross margins. A protracted downturn could cause additional customers to file for bankruptcy protection as occurred in 
-2009
- with our customers Spansion and Qimonda, resulting in our loss of revenue. In the past environment, customers were seeking extended payment terms or delaying payment for our products past their original due dates, which could impact their payment histories resulting in our deferral of revenue and which could increase our potential bad debt exposure. In fiscal 
-2009
-, we recorded a 
-$5.0 million
- pre-tax expense to increase our allowance for doubtful accounts as a result of the heightened non-payment risk of accounts receivable primarily related to three customers.
-
-We may also experience the insolvency of key suppliers, leading to delays in the development and shipment of our products, increased expense and loss of revenue. In addition, we may experience increased impairment charges due to declines in the fair values of marketable debt securities, or charges based upon underutilization of our factory.
-
-11
-
-Table of Contents
-
-We derive a substantial portion of our revenues from a small number of customers, and we could continue to experience significant declines in our revenues if any major customer does not place, cancels, reduces or delays a purchase of our products, or does not pay us, or delays or extends payment for our products past their original due dates.
-
-A relatively small number of customers have accounted for a significant portion of our revenues in any particular period. 
-Four
- customers represented 
-56%
- of total revenues in fiscal 
-2011
-, 
-three
- customers represented 
-46%
- of total revenues in fiscal 
-2010
- and 
-one
- customer represented 
-49%
- of total revenues in fiscal 
-2009
-. In fiscal 
-2011
-, 
-2010
- and 
-2009
-, our ten largest customers accounted for 
-82%
-, 
-83%
- and 
-88%
- of our revenues, respectively. We anticipate that sales of our products to a relatively small number of customers will continue to account for a significant portion of our revenues. Consolidation in the semiconductor industry may increase this concentration. As a result of the global economic and semiconductor industry downturns, we have in the more recent past experienced significant declines in our revenues. In the future, the cancellation, reduction or deferral of even a small number of purchases of our products could significantly reduce our revenues in any particular period. Cancellations, reductions or deferrals could result from a delay in the recovery of the semiconductor industry, or a weaker than anticipated recovery, or another downturn in the semiconductor industry, from manufacturing delays, quality or reliability issues with our products, or from interruptions to our customers' operations due to fire, natural disasters or other events. Furthermore, because our probe cards are custom products designed for our customers' unique wafer designs, any cancellations, reductions or delays can result in significant, non-recoverable costs. In some situations, our customers might be able to cancel or reduce orders without a significant penalty.
-
-Our customers could also fail to pay all or part of an invoice for our products. If a customer fails to pay us or delays payment for our products, we may be unable to recognize revenue, our financial condition and liquidity could be adversely impacted and we may incur additional charges for bad-debt reserve to the extent certain of our customers continue to face financial difficulties during this downturn. It is also possible that if we make the decision to initiate legal proceedings against customers to seek payment of outstanding receivables that it will negatively impact a customer relationship and result in lost revenues in the future. Customers with financial difficulties may be forced to materially reduce or discontinue operations, file for bankruptcy or other relief, or may be acquired by one of our other customers, any of which would further reduce our customer base.
-
-The markets in which we participate are competitive, and if we do not compete effectively, our operating results could be harmed.
-
-We are experiencing increased competition in the wafer probe card market and we expect competition to intensify in the future. Increased competition has resulted in, and in the future is likely to result in, price reductions, reduced gross margins or loss of market share. Competitors might introduce new competitive products for the same markets that our products currently serve. These products may have better performance, lower prices and/or broader acceptance than our products. Competitive products may not have better performance, lower prices and/or broader acceptance than our products, but may be able to meet shorter delivery times required by customers and result in the loss of revenue for us. In addition, for products such as wafer probe cards, semiconductor manufacturers typically qualify more than one source, to avoid dependence on a single source of supply. As a result, our customers would likely purchase products from our competitors. Current and potential competitors include Advantest Corporation, Aehr Test Systems, AMST Co., Ltd., Cascade Microtech, Inc., Feinmetall GmbH, Korea Instrument Co., Ltd., Japan Electronic Materials Corporation, SV Probe, Inc., Micronics Japan Co., Ltd., Microfriend Inc., Micro-Probe, Inc., TSC MEMSYS Corporation, Technoprobe Asia Pte. Ltd., Tokyo Cathode Laboratory Co., Ltd., Tokyo Electron Ltd., TSE Co., Ltd., and Wentworth Laboratories, Inc., among others.
-
-Many of our current and potential competitors have greater name recognition, larger customer bases, more established customer relationships or greater financial, technical, manufacturing, marketing and other resources than we do. As a result, they might be able to respond more quickly to new or emerging technologies and changes in customer requirements, devote greater resources to the development, promotion, sale and support of their products, and reduce prices to increase market share. Some of our competitors also supply other types of test equipment, or offer both advanced wafer probe cards and needle probe cards. Those competitors that offer both advanced wafer probe cards and needle probe cards might have strong, existing relationships with our existing customers or with potential customers. Because we do not offer a needle probe card or other conventional technology wafer probe cards for less advanced applications, it may be difficult for us to introduce our advanced wafer probe cards to these customers and potential customers for certain wafer test applications. It is also possible that one or more of our competitors may be able to increase their relative revenue with mutual customers, resulting in a loss of revenue share for us. It is further possible that existing or new competitors, including test equipment manufacturers, may offer new technologies that reduce the value of our wafer probe cards.
-
-If we fail to protect our proprietary rights, our competitors might gain access to our technology, which could adversely affect our ability to compete successfully in our markets and harm our operating results.
-
-If we choose not to protect our proprietary rights or fail in our efforts to protect our proprietary rights, our competitors 
-
-12
-
-Table of Contents
-
-might gain access to our technology. Unauthorized parties might attempt to copy aspects of our products or to obtain and use information that we regard as proprietary. Others might independently develop similar or competing technologies or methods or design around our patents. In addition, the laws of many foreign countries in which we or our customers do business do not protect our intellectual property rights to the same extent as the laws of the United States. To date, we have not been successful in our efforts to enforce our proprietary rights and obtain injunctive relief for violation of those rights in South Korea and in the United States. As a result, our proprietary rights could be compromised, our competitors might offer products similar to ours and we might not be able to compete successfully. We also cannot assure that:
-
-•
-
-our means of protecting our proprietary rights will be adequate;
-
-•
-
-patents will be issued from our pending or future applications;
-
-•
-
-our existing or future patents will be sufficient in scope or strength to provide any meaningful protection or commercial advantage to us;
-
-•
-
-our patents or other intellectual property will not be invalidated, circumvented or successfully challenged in the United States or foreign countries; or
-
-•
-
-others will not misappropriate our proprietary technologies or independently develop similar technologies, duplicate our products or design around any of our patents or other intellectual property, or attempt to manufacture and sell infringing products in countries that do not strongly enforce intellectual property rights.
-
-We have spent in the past, and may be required to spend in the future, significant resources to monitor and protect our intellectual property rights. We presently believe that it is likely that two or more of our competitors are using methodologies or have implemented structures into certain of their products that are covered by one or more of our intellectual property rights. We have in the past brought claims to protect our rights. We have filed a lawsuit in the United States District Court for the Northern District of California against Micro-Probe Incorporated alleging Micro-Probe is willfully infringing several of our U.S. patents that cover aspects of our proprietary technology and wafer probe cards. We are seeking injunctive relief and damages against Micro-Probe for unfair competition and have also asserted claims against a former employee for misappropriation of trade secrets and breach of confidence relative to FormFactor's confidential and propriety information and against the former employee and Micro-Probe for conspiring to breach that confidence. We may not obtain a favorable ruling in this U.S. federal district court action.
-
-In certain cases, our competitors have initiated re-examination proceedings in the USPTO and invalidity proceedings in foreign patent offices against certain of our patents. The USPTO granted requests to re-examine certain claims of each of our U.S. patents that are in the litigation pending in the United States District Court for the Northern District of California against Micro-Probe. Any litigation, whether or not resolved in our favor, and whether initiated by us or by a third party, could result in significant and possibly material expense to us and divert the efforts of our management and technical personnel. In addition, while patents are territorial and a ruling on a certain given patent does not necessarily impact the validity or enforceability of a corresponding or related patent in a different country, an adverse ruling in one country might negatively impact our ability to enforce the corresponding or related patent in other countries. Finally, certain of our customer contracts contain provisions that require us to defend and/or indemnify our customers for third party intellectual property infringement claims, which would increase the cost to us of an adverse ruling in such a claim. An adverse determination could also negatively impact our ability to license certain of our technologies and methods to others, and result in our competitors being allowed to sell products with, or add to their products, features and benefits contained in our products, thereby reducing our competitive advantages over these competing products.
-
-If we do not innovate and keep pace with technological developments in the semiconductor industry, our products might not be competitive and our revenues and operating results could suffer.
-
-We must continue to innovate and to invest in research and development to improve our competitive position and to meet the testing requirements of our customers. Our future growth depends, in significant part, upon our ability to work effectively with and anticipate the testing needs of our customers and to develop and support new products and product enhancements to meet these needs on a timely and cost-effective basis. Our customers' testing needs are becoming more challenging as the semiconductor industry continues to experience rapid technological change driven by the demand for complex circuits that are shrinking in size and at the same time are increasing in speed and functionality and becoming less expensive to produce. Examples of trends driving demand for technological research and development include semiconductor manufacturers' transitions to 2x nanometer DRAM and Flash technology nodes, to higher gigabit density devices, and to Double Data Rate III, or DDR3, architecture devices. Our customers expect that they will be able to integrate our wafer probe cards into any manufacturing process as soon as it is deployed. Therefore, to meet these expectations and remain competitive, we must continually design, develop and introduce on a timely basis new products and product enhancements with improved 
+Sudden adverse shifts in the business cycle could adversely affect our revenues and profitability. 
 
 13
 
-Table of Contents
+The semiconductor market has historically been cyclical and subject to significant economic downturns at various times. The cyclical nature of the semiconductor industry may cause us to experience substantial period-to-period fluctuations in our results of operations. The growth rate of the global economy is one of the factors affecting demand for semiconductor components. Many factors could adversely affect regional or global economic growth including turmoil or depressed conditions in financial or credit markets, depressed business or consumer confidence, inventory excesses, increased unemployment, inflation for goods, services or materials, rising interest rates in the United States and the rest of the world, a significant act of terrorism which disrupts global trade or consumer confidence, geopolitical tensions including war and civil unrest, reduced levels of economic activity, or disruptions of international transportation. 
 
-features.
+Typically, our ability to meet our revenue and profitability goals and projections is dependent to a large extent on the orders we receive from our customers within the period and by our ability to match inventory and current production mix with the product mix required to fulfill orders on hand and orders received within a period for delivery in that period. Because of this complexity in our business, no assurance can be given that we will achieve a match of inventory on hand, production units, and shippable orders sufficient to realize quarterly or annual revenue and net income goals. 
 
-We may also work collaboratively with one or more third parties in the development of new technologies or in improvements to our existing technologies. It is possible that these collaborations may be delayed, or even ultimately prove unsuccessful, by matters outside of our control, such as the financial condition of the third party. It is possible that our internal development efforts and engagements with third parties regarding the development of manufacturing equipment having similar functionality may have a lengthy development and ramp up time and negatively impact our ability to complete new products and realize revenue from those products.
+Volatility in customer demand in the semiconductor industry could affect future levels of sales and profitability and limit our ability to predict such levels
+. 
 
-Successful product design, development and introduction on a timely basis require that we:
+Historically, we have maintained low lead times, which have enabled customers to place orders close to their true needs for product. In defining our financial goals and projections, we consider inventory on hand, backlog, production cycles and expected order patterns from customers. If our estimates in these areas become inaccurate, we may not be able to meet our revenue goals and projections. In addition, some customers require us to manufacture product and have it available for shipment, even though the customer is unwilling to make a binding commitment to purchase all, or even some, of the products. As a result, in any quarterly fiscal period we are subject to the risk of cancellation of orders leading to a fall-off of sales and backlog. Further, those orders may be for products that meet the customer's unique requirements so that those cancelled orders would, in addition, result in an inventory of unsalable products, and thus potential inventory write-offs. We routinely estimate inventory reserves required for such products, but actual results may differ from these reserve estimates. 
 
-•
+We generate revenue from thousands of customers worldwide and our revenues are diversified by end-market and geographical region. Our results in any period, or sequence of periods, may be positively affected by the fact that a customer has designed one of our products into one of their high selling products. This positive effect may not last, however, as our customers frequently redesign their high selling products, especially to lower their products' costs. In such redesigns, they may decide to no longer use our product or may seek pricing terms from us that we choose not to accede to, thus resulting in the customer ceasing or significantly decreasing its purchases from us. The loss of, or a significant reduction in purchases by a portion of our customer base, for this or other reasons, such as changes in purchasing practices, could adversely affect our results of operations. In addition, the timing of customers' inventory adjustments may adversely affect our results of operations.
 
-design innovative and performance-enhancing product architectures, technologies and features that differentiate our products from those of our competitors;
+We may be unsuccessful in developing and selling new products required to maintain or expand our business. 
 
-•
+The markets for our products depend on continued demand for our products in the communications, industrial, computer, high-end consumer and automotive end-markets. The semiconductor industry is characterized by rapid technological change, variations in manufacturing efficiencies of new products, and significant expenditures for capital equipment and product development. New product offerings by competitors and customer demands for increasing linear integrated circuit performance or lower prices may render our products less competitive over time, thus necessitating our continual development of new products. New product introductions are thus a critical factor for maintaining or increasing future sales growth and sustained or increased profitability, but they can present significant business challenges because product development commitments and expenditures must be made well in advance of the related revenues. The success of a new product depends on a variety of factors including accurate forecasts of long-term market demand and future technological developments, accurate anticipation of competitors' actions and offerings, timely and efficient completion of process design and development, timely and efficient implementation of manufacturing and assembly processes, product performance, quality and reliability of the product, and effective marketing, sales and service.
 
-in some cases engage with third parties who have particular expertise in order to complete one or more aspects of the design and manufacturing process;
+Although we believe that the high performance segment of the linear integrated circuit market is generally less affected by price erosion or by significant expenditures for capital equipment and product development than other semiconductor market sectors, future operating results may reflect substantial period-to-period fluctuations due to these or other factors. 
 
-•
-
-transition our products to new manufacturing technologies;
-
-•
-
-identify emerging technological trends in our target markets;
-
-•
-
-maintain effective marketing strategies;
-
-•
-
-respond effectively to technological changes or product announcements by others; and
-
-•
-
-adjust to changing market conditions quickly and cost-effectively.
-
-Not only do we need the technical expertise to implement the changes necessary to keep our technologies current, but we must also rely heavily on the judgment of our management to anticipate future market trends. If we are unable to timely predict industry changes or industry trends, or if we are unable to modify our products or design, manufacture and deliver new products on a timely basis, or if a third party with which we engage does not timely deliver a component or service for one of our product modifications or new products, we might lose customers or market share. In addition, we might not be able to recover our research and development expenditures, which could harm our operating results.
-
-Changes in test strategies, equipment and processes could cause us to lose revenues.
-
-The demand for wafer probe cards depends in large part upon the number of semiconductor designs, the pace of technology and architecture transitions in chip designs and overall semiconductor unit volume. The time it takes to test a wafer depends upon the number of devices being tested, the complexity of these devices, the test software program and the test equipment itself. As test programs become increasingly effective and test throughput increases, the number of wafer probe cards required to test a given volume of devices declines. Therefore, advances in the test process could cause us to lose sales. Further, most semiconductor manufacturers are implementing chip designs featuring built-in self-test, or BIST, capabilities or similar "design for testability", or DFT, functions or methodologies that increase test throughput and reduce the cost of test. These efforts include strategies to reduce the technical requirements on test equipment, or to improve data about device performance early in the manufacturing process, or to test the device later in the life of the product for quality assurance purposes. In some cases, BIST or DFT can create opportunities for our technologies. In other cases BIST or DFT can reduce requirements for wafer level test and reduce our opportunities. Although we seek to work with our customers to show ways that our technologies can be applied together with BIST and DFT approaches to create opportunities to further reduce the cost of test, the overall impact of BIST and DFT technologies, as they exist today and as they may be developed in the future, could slow the migration to wafer level testing and adversely affect our revenues. Similar results could occur if new chip designs are implemented which we are unable to test efficiently, or if semiconductor manufacturers reduce generally the amount or degree of wafer test they perform. We incur significant research and development expenses in conjunction with the introduction of new product architectures and platforms. Often, we time our product introductions to the introduction of new test equipment platforms or to enable a manufacturer's test roadmap when it elects to retain existing test platforms but requires certain test throughput. Because our customers require both test equipment and wafer probe cards, any delay or disruption in the introduction of new test equipment platforms would negatively affect our growth.
-
-We have recorded significant restructuring, inventory write-offs and asset impairment charges in the past and may do so again in the future, which could have a material negative impact on our business.
-
-We recorded material restructuring charges related to our global workforce reductions and impairment charges related to our long-lived assets in fiscal 
-2009
-, fiscal 
-2010
-, and fiscal 
-2011
-. As we continue to align our operations with our business requirements, we may implement additional cost reduction actions, which would require us to take additional, potentially 
+In addition, with respect to our recent acquisition of Dust Networks, we may not achieve benefits we expected to achieve, 
 
 14
 
-Table of Contents
+and we may incur write-downs, impairment charges or unforeseen liabilities that could negatively affect our operating results or financial position or could otherwise harm our business. 
 
-material, restructuring charges related to employee terminations or asset disposal or exit costs. We may also be required to write off additional inventory if our product build plans or usage of inventory experience further declines, and such additional write-offs could constitute material charges. In addition, a further decline in our stock price or significant adverse change in market conditions could require us to take additional material impairment charges related to our long-lived assets. Our long-lived assets, including intangible assets, are amortized over their respective estimated useful lives using the straight-line method and are reviewed for impairment annually, or whenever events or changes in circumstances indicate that their carrying amount may not be recoverable. The valuation of our long-lived assets requires assumptions and estimates of many critical factors, including revenue and market growth, operating cash flows, market multiples, and discount rates. Other adverse changes in market conditions, particularly if such changes have the effect of changing one of the critical assumptions or estimates we use in our assessment of the recoverability of our long-lived assets and any measure of such impairment charge, if any, could result in a change to the estimation of fair value that could result in future impairment charges. We may also incur charges for factory underutilization depending upon the demand for our products and factory capacity. Any such additional material charges, whether related to restructuring or asset impairment, may have a material negative impact on our operating results and related financial statements.
+Our manufacturing operations may be interrupted or suffer yield problems. 
 
-Our recent restructuring plans may not have properly aligned our cost structure with our business needs and overall semiconductor industry requirements and even though completed may adversely affect our business, financial condition, or operating results.
+We rely on our internal manufacturing facilities located in California and Washington to fabricate most of our wafers. We depend on outside silicon foundries for a small portion (less than 5%) of our wafer fabrication. We could be adversely affected in the event of a major earthquake, which could cause temporary loss of capacity, loss of raw materials, and damage to manufacturing equipment. Additionally, we rely on our internal and external assembly and testing facilities located in Singapore and Malaysia. We are subject to economic and political risks inherent to international operations, including changes in local governmental policies, currency fluctuations, transportation delays and the imposition of export controls or import tariffs. We could be adversely affected if any such changes are applicable to our foreign operations. 
 
-In each of fiscal 2009 through 2011 we conducted reductions in our work force as part of company-wide cost reduction plans. These plans were intended to help focus our resources more strategically towards business needs and industry requirements as part of our global reorganization activities. We expect to realize quarterly savings, excluding stock-based compensation expenses, of approximately 
-$5.5 million
- in the quarters commencing in fiscal 
-2012
- as a result of these restructuring actions. If we experience expenses in excess of what we anticipate in connection with these restructuring activities, such as unanticipated costs associated with our decision to focus our manufacturing operations in Livermore and Japan and to not bring up assembly and test operations in Singapore or in Korea, our business, financial condition, or operating results could be adversely and materially affected. Our business, financial condition and operating results could also be materially adversely affected if we experience unanticipated inefficiencies as a result of our restructuring activities, such as impaired customer relationships caused by reduced headcount or delay in ramping the manufacture of our SmartMatrix and TouchMatrix products, by the delay in qualifying such Matrix-platform based products, or by our decision to implement an "end of life" plan for our Harmony products. We also cannot assure you that we will not undertake additional workforce reductions, that any of our restructuring efforts will be successful, or that we will be able to realize the cost savings and other anticipated benefits from our previous or future restructuring plans. Any of these issues could render our restructuring plan ineffective, which could have a material adverse effect on our business, financial condition, or operating results.
+Our manufacturing yields are a function of product design and process technology, both of which are developed by us. The manufacture and design of integrated circuits is highly complex. We may experience manufacturing problems in achieving acceptable yields or experience product delivery delays in the future as a result of, among other things, capacity constraints, equipment malfunctioning, construction delays, upgrading or expanding existing facilities or changing our process technologies, any of which could result in a loss of future revenues or increases in fixed costs. To the extent we do not achieve acceptable manufacturing yields or there are delays in wafer fabrication, our results of operations could be adversely affected. In addition, operating expenses related to increases in production capacity may adversely affect our operating results if revenues do not increase proportionately. 
 
-If we do not continue to take steps to optimize the structure of our operations to position our company for long-term, profitable growth, we might not succeed.
+Our dependence on third party foundries and other manufacturing subcontractors may cause delays beyond our control in delivering our products to our customers. 
 
-The timing, length and severity of the cyclical downturns in the semiconductor industry are difficult to predict. This cyclicality affects our ability to accurately predict our future operating results and plan our business, and could also impair the value of our tangible and intangible assets. We implemented global cost reduction plans in each fiscal year from 
-2009
- through 
-2011
-, and are continuing to pursue measures to improve our operating efficiency. Such measures have included workforce reductions, the implementation of a shared service center, the consolidation of manufacturing capacity and the centralization of support functions to regional and global shared service centers. If we do not continue to implement measures for optimizing our financial model for prevailing market conditions, our competitiveness could be seriously harmed, our ability to invest in our business for future growth may be negatively impacted and our company might not succeed. If we do not successfully structure our operations by, for example, strengthening our local design, application and service capabilities to improve customer responsiveness, changing our manufacturing structure for shorter cycle time and improved product delivery capabilities, and realigning our research and development efforts, and continue to motivate and retain our key employees, we may experience continued deterioration in our business and our company might not succeed. In addition, as the business environment improves, if we are unable to proactively and effectively manage our operations and/or realign our controls, systems and infrastructure to changing business conditions, we may not be in a position to boost our personnel, manufacturing capacity, service capabilities and productivity, and support growth in response to increasing customer demand for our products, which would, in turn, have a negative impact on our operating results. Adverse general economic conditions may also impair the recovery of our business.
+A portion of our wafers (approximately 5% to 15%) are processed offshore by independent assembly subcontractors primarily located in Thailand. These subcontractors separate wafers into individual circuits and assemble them into various finished package types. During periods of increasing demand and volatile lead times, sub-contractors can become over committed and therefore unable to meet all of their customer demand requirements thereby causing inconsistencies in availability of supply. In addition, reliability problems experienced by our assemblers could cause problems in delivery and quality, resulting in potential product liability to us. We could also be adversely affected by political disorders, labor disruptions, and natural disasters in these locations. 
 
-Our pricing for our products could result in certain customers deciding to not purchase our products, which could negatively impact our business and financial results.
+We are dependent on outside silicon foundries for a small portion (less than 5%) of our wafer fabrication. As a result, we cannot directly control delivery schedules for these products, which could lead to product shortages, quality assurance problems and increases in the cost of our products. We may experience delays in delivering our products to our customers. If these foundries are unable or unwilling to produce adequate supplies of processed wafers conforming to our quality standards, our business and relationships with our customers for the limited quantities of products produced by these foundries could be adversely affected. Finding alternate sources of supply or initiating internal wafer processing for these products may not be economically feasible. In addition, the manufacture of our products is a highly complex and precise process, requiring production in a highly controlled environment. Changes in manufacturing processes or the inadvertent use of defective or contaminated materials by a third party foundry could adversely affect the foundry's ability to achieve acceptable manufacturing yields and product reliability. 
 
-We believe that our pricing guidelines are consistent with normal industry cost learning curves, but certain customers may in the future react negatively to our pricing and elect to not purchase our products, to purchase fewer of our products as compared to those of our competitors, or to phase out the purchase of our products, in which case our business, financial 
+We rely on third party vendors for materials, supplies, critical manufacturing equipment and freight services that may not have adequate capacity or may be impacted by outside influences such as natural disasters that could impact our product delivery requirements. 
+
+The semiconductor industry has experienced a very large expansion of fabrication capacity and production worldwide over time. As a result of increasing demand from semiconductor and other manufacturers, availability of certain basic materials and supplies, such as chemicals, gases, polysilicon, silicon wafers, ultra-pure metals, lead frames and molding compounds, and of subcontract services, like epitaxial growth, ion implantation and assembly of integrated circuits into packages, have from time to time, over the past several years, been in short supply and could come into short supply again if overall industry demand continues to increase in the future. In addition, from time to time natural disasters can lead to a shortage of some of the above materials due to disruption of the manufacturer's production. We do not have long-term agreements providing for all of these equipment, materials, supplies, and services, and shortages could occur as a result of capacity limitations or production constraints on suppliers that could have a materially adverse effect on our ability to achieve our planned production. 
+
+A number of our products use components that are purchased from third parties. Supplies of these components may not be 
 
 15
 
-Table of Contents
+sufficient to meet all customer requested delivery dates for products containing the components, which could adversely affect future sales and earnings. Additionally, significant fluctuations in the purchase price for these components could affect gross margins for the products involved. Suppliers could also discontinue the manufacture of such purchased products or could have quality problems that could affect our ability to meet customer commitments. 
 
-condition and operating results could be materially and adversely impacted.
+Our manufacturing processes rely on critical manufacturing equipment purchased from third party suppliers. During periods of increasing demand we could experience difficulties or delays in obtaining additional critical manufacturing equipment. In addition, suppliers of semiconductor manufacturing equipment are sometimes unable to deliver test and/or fabrication equipment to a schedule or equipment performance specification that meets our requirements. Delays in delivery of equipment needed for growth could adversely affect our ability to achieve our manufacturing and revenue plans in the future. 
 
-Changes in our tax rates, inability to realize our deferred tax assets or exposure to additional tax liabilities could adversely affect our operating results.
+We rely on third parties including freight forwarders, airlines, and ground transportation companies to deliver our products to customers. Interruptions in the ability of these third parties to deliver our products to customers due to geological events such volcanic eruptions, earthquakes, hurricanes or other such natural disasters may cause a temporary delay in meeting our shipping estimates and schedules.
 
-We are subject to income taxes in both the United States and various foreign jurisdictions, and our domestic and international tax liabilities are subject to the allocation of expenses in different jurisdictions. The amount of income taxes we pay are subject to audits in various jurisdictions and a material assessment by a governing tax authority could adversely affect our operating results. Our effective tax rate could be adversely affected by changes in the mix of earnings in countries with different statutory tax rates or changes in tax laws. Realization of our deferred tax assets, which are predominantly in the United States, is dependent on our ability to generate sufficient future taxable income. If we determine that we may not be able to realize some portion of our deferred tax assets in the future, we would record a valuation allowance against the deferred tax assets that could result in additional income tax expense. This valuation allowance will not limit our ability to utilize our federal and state deferred tax assets to offset future U.S. profits.
+We are exposed to business, economic, political and other risks through our significant worldwide operations. 
 
-Environmental and other disasters, such as flooding, earthquakes, volcanic eruptions or leakage from nuclear reactors, or a combination thereof, may negatively impact our business.
+During fiscal year 2012, 
+71%
+ of our revenues were derived from customers in international markets. Also, the Company has test and assembly facilities in Singapore and Malaysia. Accordingly, we are subject to the economic and political risks inherent in international sales and operations and their impact on the United States economy in general, including the risks associated with ongoing uncertainties and political and economic instability in many countries around the world as well as the economic disruption from financial and economic declines or turmoil, dysfunction in the credit markets, acts of terrorism, natural disasters or the response to any of the foregoing by the United States and other major countries. In the past years, natural disasters in Japan and Thailand have affected the global marketplace.
 
-Our business is vulnerable to the direct and indirect impact of environmental and other disasters, such as the March 2011 earthquake off the coast of Japan and the resulting tsunami and disaster at certain nuclear power plants in Japan.  For instance, while our design operations in Tokyo, Japan, our manufacturing and repair facility in Yokohama, Japan and our repair operations in Hiroshima, Japan were all not damaged by the March 2011 disasters in Japan, it is possible that our operations could be impacted in the future by the consequences of those events or similar future events.  The facilities of certain of our suppliers, including suppliers of our ceramics, our printed circuit boards and certain of our mechanical parts, are located in Japan. While our suppliers did not report any significant damage to their facilities and they resumed operations consistent with the power usage guidelines in their respective areas, the supply chains for certain of our suppliers were negatively impacted. Additionally, the flooding in Thailand negatively impacted the operations of several disk drive manufacturers, which created a shortage of disk drives available for incorporation into personal computers. This disk drive shortage resulted in a slowing of the manufacture of personal computers and for the DRAM incorporated into personal computers. It is possible that future acts of terrorism, environmental events or natural disasters, such as earthquakes and aftershocks, and infrastructure events arising out of such occurrences and disasters, for example, the nuclear power plant issues resulting from the earthquake and tsunami in Japan in March 2011, could negatively impact our suppliers’ ability to supply components to us on a timely basis.  Any such delays in supplying or delivering components to us could, and any catastrophic loss suffered by our key suppliers would likely, disrupt our operations, delay production and shipments and adversely affect our revenues and business.  Similarly, any catastrophic loss at our California facilities, such as an earthquake, would materially and adversely affect our business.
+We may be unable to adequately protect our proprietary rights, which may impact our ability to compete effectively. 
 
-Cyclicality in the semiconductor industry is currently adversely impacting our sales and may do so in the future, and as a result we have experienced and may continue to experience reduced revenues and operating results.
+Our success depends in part on our proprietary technology. While we attempt to protect our proprietary technology through patents, copyrights and trade secret protection, we believe that our success also depends on increasing our technological expertise, continuing our development of new products and providing comprehensive support and service to our customers. However, we may be unable to protect our technology in all instances, or our competitors may develop similar or more competitive technology independently. We currently hold a number of United States and foreign patents and pending patent applications. However, other parties may challenge or attempt to invalidate or circumvent any patents the United States or foreign governments issue to us or these governments may fail to issue patents for pending applications. In addition, the rights granted or anticipated under any of these patents or pending patent applications may be narrower than we expect or, in fact provide no competitive advantages. Furthermore, effective patent, trademark, copyright, maskwork and trade secret protection may be unavailable, limited or not applied for in certain foreign countries. We may incur significant legal costs to protect our intellectual property. 
 
-The semiconductor industry has historically been cyclical and is characterized by wide fluctuations in product supply and demand. From time to time, this industry has experienced significant downturns, often in connection with, or in anticipation of, maturing product and technology cycles, excess inventories and declines in general economic conditions. The global economic and semiconductor downturns have caused and may continue to cause our operating results to decline dramatically from one period to the next. For example, our fiscal year 
-2011
- revenues declined 
-10%
- from our fiscal 
-2010
- year revenues, in large part due to the softening of the DRAM and the NOR Flash product markets. Our business depends heavily upon the development and manufacture of new semiconductors, the rate at which semiconductor manufacturers make transitions to smaller nanometer technology nodes and implement tooling cycles, the volume of production by semiconductor manufacturers and the overall financial strength of our customers, which, in turn, depend upon the current and anticipated market demand for semiconductors and products, such as personal computers and cell phones, that use semiconductors. Semiconductor manufacturers generally sharply curtail their spending, including their equipment spending, and defer their adoption of emerging technologies during industry downturns and historically have lowered their spending disproportionately more than the decline in their revenues. This is particularly true when there is a point during an industry cycle in which the semiconductor manufacturers' costs related to semiconductor devices approach or exceed the sales price of the devices. As a result, we would experience reduced revenues due to the decreased demand for our wafer probe cards by our semiconductor manufacturer customers, which is what we are experiencing in this current downturn. Accordingly, if we are unable to adjust our levels of manufacturing and human resources or manage our costs and deliveries from suppliers in response to lower spending by semiconductor manufacturers, our gross margin may continue to decline and cause us to experience further operating losses.
+We also seek to protect our proprietary technology, including technology that may not be patented or patentable, in part by confidentiality agreements and, if applicable, inventors' rights agreements with our collaborators, advisors, employees and consultants. We cannot assure you that these agreements will always be undertaken or will not be breached or that we will have adequate remedies for any breach. 
+
+We have received, and may receive in the future, notices of claims of infringement and misappropriation of other parties' proprietary rights. In the event of an adverse decision in a patent, trademark, copyright, maskwork or trade secret action, we could be required to withdraw the product or products found to be infringing from the market or redesign products offered for sale or under development. Whether or not these infringement claims are successfully asserted, we would likely incur significant costs and diversion of our resources with respect to the defense of these claims. In the event of an adverse outcome in any litigation, we may be required to pay substantial damages, including enhanced damages for willful infringement, and incur significant attorneys' fees, as well as indemnify customers for damages they might suffer if the products they purchase from us infringe intellectual property rights of others. We could also be required to stop our manufacture, use, sale or importation of infringing products, expend significant resources to develop or acquire non-infringing technology, discontinue the use of some processes, or obtain licenses to intellectual property rights covering products and technology that we may, or have been found to, infringe or misappropriate such intellectual property rights. 
+
+Our products may contain defects that could affect our results of operations. 
+
+Our products may contain undetected errors or defects. Such problems may cause delays in product introductions and 
 
 16
 
-Table of Contents
+shipments, result in increased costs and diversion of development resources, cause us to incur increased charges due to obsolete or unusable inventory, require design modifications, or decrease market acceptance or customer satisfaction with these products, which could result in product returns. In addition, we may not find defects or failures in our products until after commencement of commercial shipments, which may result in loss or delay in market acceptance and could significantly harm our operating results. Our current or potential customers also might seek to recover from us any losses resulting from defects or failures in our products; further, such claims might be significantly higher than the revenues and profits we receive from our products involved as we are usually a component supplier with limited value content relative to the value of a complete system or sub-system. In most cases the Company has contractual wording that limits its liability to the replacement of the defective parts shipped. Liability claims could require us to spend significant time and money in litigation or to pay significant damages for which we may have insufficient insurance coverage. Any of these claims, whether or not successful, could seriously damage our reputation and business. 
 
-If we are unable to efficiently manufacture and ramp production of our new probe card products, our business may be materially adversely affected.
+If we fail to attract and retain qualified personnel, our business may be harmed. 
 
-We must continuously improve our manufacturing processes in an effort to increase yields and product performance, lower our costs and reduce the time required for us to design, manufacture and deliver our products in volume. If we cannot, our new products may not be commercially successful, our revenues may be adversely affected, our customer relationships and our reputation may be harmed and our business may be materially adversely affected. To improve our manufacturing processes, we have incurred, and may incur in the future, substantial costs in an effort to optimize capacity and yields, implement new manufacturing technologies, methods and processes, purchase new equipment, upgrade existing equipment and train technical personnel. We have experienced, and may experience in the future, manufacturing delays and other inefficiencies in connection with implementation of these improvements and customer qualifications of new processes, and expansion of manufacturing capacity and ramp of production volume to meet customer demand, which have caused and could cause in the future, our operating results to decline. We have also experienced, and may experience in the future, difficulties in manufacturing our complex products in volume on time and at acceptable yields and cost and installation issues in the field due to complexity of customer design requirements, including integration of wafer probe cards with varying customer test cell environments and testing of semiconductor devices over a wide temperature range. For example, we experienced challenges transitioning our Harmony architecture-based products from a lower-volume, engineering-assisted process to a high-volume manufacturing process. These problems resulted in missed opportunities with customers. While we ramped commercial volume manufacturing of our Matrix architecture products at a significantly greater rate than our Harmony architecture products, design and manufacturing delays related to our Matrix architecture products resulted in qualification at certain customers taking longer than we anticipated. Delayed qualification caused and could continue to cause lost sales opportunities. This increases our vulnerability to our competitors and the likelihood that our customers will seek solutions from other suppliers or to develop solutions themselves. If demand for our products decreases, we could have excess manufacturing capacity. The fixed costs associated with excess manufacturing capacity could cause our operating results to decline. If we are unable to achieve further manufacturing efficiencies and cost reductions, particularly if we are experiencing pricing pressures in the marketplace, our operating results could suffer.
+Our performance is substantially dependent on the performance of our executive officers and key employees. The loss of the services of key officers, technical personnel or other key employees could harm the business. Our success depends on our ability to identify, hire, train, develop and retain highly qualified technical and managerial personnel. Failure to attract and retain the necessary technical and managerial personnel could harm us. 
 
-Consolidation in the industry and within the semiconductor test equipment market could adversely affect the market for our products and negatively impact our ability to compete, which could cause a decline in our revenues.
+We may not be able to compete successfully in markets within the semiconductor industry in the future. 
 
-Consolidation in the semiconductor industry, particularly among manufacturers of DRAM devices, would reduce our customer base and could adversely affect the market for our products, which could cause a decline in our revenues. The global economic downturn caused significant disruption within the semiconductor industry. The semiconductor industry now has a smaller customer landscape than in past years. The loss of additional customers could further concentrate, and could adversely affect, the market for our products. Consolidation may lead to lost or delayed sales, reduced demand for our wafer probe cards, loss of market share and increased pricing pressures. Additionally, certain customers may not want to rely entirely or substantially on a single wafer probe card supplier and, as a result, such customers could reduce their purchases of our wafer probe cards.
+We compete in the high performance segment of the linear market. Our competitors include among others, Analog Devices, Inc., Intersil, Maxim Integrated Products, Inc. and Texas Instruments, Inc. Competition among manufacturers of linear integrated circuits is intense, and certain of our competitors may have significantly greater financial, technical, manufacturing and marketing resources than us. The principal elements of competition include product performance, functional value, quality and reliability, technical service and support, price, diversity of product line and delivery capabilities. We believe we compete favorably with respect to these factors, although we may be at a disadvantage in comparison to larger companies with broader product lines and greater technical service and support capabilities. 
 
-There has also been a recent move toward consolidation within the semiconductor test equipment market. For example, in 2009, Touchdown Technologies, Inc., a probe card manufacturer, was acquired by Verigy Ltd., a tester company, and in 2010, after Verigy announced an intent to combine with LTX Credence, a tester company, Advantest Corporation, made a successful unsolicited bid to acquire Verigy. This consolidation trend could change our interactions and relationships with semiconductor tester and prober companies and negatively impact our revenue and operating results.
+Environmental liabilities could force us to expend significant capital and incur substantial costs. 
 
-We depend upon the sale of our wafer probe cards for substantially all of our revenues, and the majority of our wafer probe cards are utilized by semiconductor manufacturers for testing DRAM devices; if we continue to experience a downturn in demand for our DRAM products, our revenues could decline further.
+Federal, state and local regulations impose various environmental controls on the storage, use, discharge and disposal of certain chemicals and gases used in semiconductor processing. Our facilities have been designed to comply with these regulations, and we believe that our activities conform to present environmental regulations. Increasing public attention has, however, been focused on the environmental impact of electronics manufacturing operations. While we to date have not experienced any materially adverse business effects from environmental regulations, there can be no assurance that changes in such regulations will not require us to acquire costly remediation equipment or to incur substantial expenses to comply with such regulations. Any failure by us to control the storage, use or disposal of, or adequately restrict the discharge of hazardous substances could subject us to significant liabilities. 
 
-We have historically derived substantially all of our revenues from the sale of our wafer probe cards to manufacturers of DRAM, flash memory devices, and microprocessor, chipset and other SoC devices. For fiscal 
-2011
-, 
-2010
- and 
-2009
- sales to manufacturers of DRAM devices accounted for 
-68%
-, 
-70%
- and 
-80%
-, respectively, of our revenues, sales to manufacturers of Flash memory devices accounted for 
-15%
-, 
-16%
- and 
-5%
-, respectively, of our revenues and sales to manufacturers of SoC devices accounted for 
-17%
-, 
-14%
- and 
-14%
-, respectively, of our revenues. We anticipate that sales of our wafer probe cards will represent a substantial majority of our revenues for the foreseeable future. Our success depends in large part upon the continued acceptance of our products within these markets and our ability to continue to develop and introduce new products that meet our customers' requirements on a timely basis for these markets. In particular, to continue to grow our business, we need to further penetrate the full wafer contactor Flash memory and SoC markets and to gain additional market share with manufacturers of flash memory and SoC devices. To the extent that we are unable to realize cost reductions and manufacturing efficiencies in the production of our wafer probe cards, or if we are not able to timely deliver our products, our revenues and business operations could be adversely impacted and our ability to grow could suffer. As our next generation wafer probe cards 
+Our financial results may be adversely affected by increased tax rates and exposure to additional tax liabilities. 
+
+As a global company, our effective tax rate is highly dependent upon the geographic composition of worldwide earnings and tax regulations governing each region. We are subject to income taxes in both the United States and various foreign jurisdictions, and significant judgment is required to determine worldwide tax liabilities. Our effective tax rate as well as the actual tax ultimately payable could be adversely affected by changes in the split of earnings between countries with differing statutory tax rates, in the valuation of deferred tax assets, in tax laws or by material audit assessments, which could affect our profitability. In addition, the amount of income taxes we pay is subject to ongoing audits in various jurisdictions, and a material assessment by a governing tax authority could affect our profitability. Finally, jurisdictions could change their tax regulations to include profits that were previously exempt.
+
+We are leveraged, and our debt obligations may affect our business, operating results and financial condition.
+
+On 
+July 1, 2012
+, we have debt outstanding of $845.1 million aggregate principal amount of our 3.00% Convertible Senior Notes due May 1, 2027 (the “2027A Notes” or the “Notes”). Debt service obligations arising from the Notes could adversely affect us in a number of ways, including by: 
+
+•
+
+limiting our ability to obtain in the future, if needed, financing for working capital, capital expenditures, debt service requirements or other corporate purposes;
+
+•
+
+limiting our flexibility in implementing our business strategy and in planning for, or reacting to, changes in our 
 
 17
 
-Table of Contents
-
-are used in greater volume in commercial production, it is possible that we will identify certain areas of technical performance that require improvement, and if we are unable to continually, efficiently and in a timely manner improve our products, we could suffer reduced demand for our products and our operating results could be harmed. If chip manufacturers fail to make architecture, node or technology transitions as we anticipate, or if anticipated or announced transitions are delayed, it could adversely impact our revenues and operating results. In addition, we might not be able to sustain or increase our revenues from sales of our wafer probe cards, particularly if conditions in the semiconductor market continue to deteriorate or do not improve or if the market enters another downturn. Any decrease in revenues from sales of our wafer probe cards could harm our business more than it would if we offered a more diversified line of products.
-
-If our relationships with our customers and companies that manufacture semiconductor test equipment deteriorate, our product development activities could be harmed.
-
-The success of our product development efforts depends upon our ability to anticipate market trends and to collaborate closely with our customers and with companies that manufacture semiconductor test equipment. Our relationships with these customers and companies provide us with access to valuable information regarding manufacturing and process technology trends in the semiconductor industry, which enables us to better plan our product development activities. These relationships also provide us with opportunities to understand the performance and functionality requirements of our customers, which improve our ability to customize our products to fulfill their needs. Our relationships with test equipment companies are important to us because test equipment companies can design our wafer probe cards into their equipment and provide us with the insight into their product plans that allows us to offer wafer probe cards for use with their products when they are introduced to the market. Our relationships with our customers and test equipment companies could deteriorate if they:
+business;
 
 •
 
-become concerned about our ability to protect their intellectual property;
+placing us at a competitive disadvantage relative to any of our competitors who have lower levels of debt; 
 
 •
 
-become concerned with our ability to deliver quality products on a timely basis;
+decreasing our debt ratings and increasing our cost of borrowed funds; 
 
 •
 
-develop their own solutions to address the need for testing improvement;
+making us more vulnerable to a downturn in our business or the economy generally; 
 
 •
 
-implement chip designs that include enhanced built-in self-test capabilities;
+subjecting us to the risk of being forced to refinance at higher interest rates these amounts when due; and
 
 •
 
-regard us as a competitor;
+requiring us to use a substantial portion of our cash to pay principal and interest on our debt instead of contributing those funds to other purposes such as working capital, capital expenditures or other corporate purposes. 
+
+Our stock price may be volatile. 
+
+The trading price of our common stock may be subject to wide fluctuations. Our stock price may fluctuate in response to a number of events and factors, such as general United States and world economic and financial conditions, our own quarterly variations in operating results, announcements of technological innovations or new products by us or our competitors, changes in financial estimates and recommendations by securities analysts, the operating and stock price performance of other companies that investors may deem comparable to us, the hedging of our common stock and other derivative transactions by third parties, and new reports relating to trends in our markets or those of our customers. Additionally, lack of positive performance in our stock price may adversely affect our ability to retain key employees. 
+
+The stock market in general, and prices for companies in our industry in particular, has experienced extreme volatility that often has been unrelated to the operating performance of a particular company. These broad market and industry fluctuations may adversely affect the price of our common stock, regardless of our operating performance. As our Notes are convertible into shares of our common stock, volatility or depressed prices of our common stock could have a similar effect on the trading price of our Notes. In addition, to the extent we deliver common stock on conversion of the Notes, the ownership interests of our existing stockholders may be diluted. Sales in the public market of common stock issuable upon such conversion could adversely affect prevailing market prices of our common stock, as could the anticipated conversion of the Notes. 
+
+We may not have the ability to repurchase the Notes or to pay cash upon their conversion if and as required by the indentures governing the Notes. 
+
+Holders of the Notes have the right to require us to repurchase the Notes for cash on specified dates or upon the occurrence of a fundamental change. 
+
+The $845.1 million principal amount of our 2027A Notes can be redeemed by us at any time on or after May 1, 2014. We presently intend to repurchase the 2027A Notes on May 1, 2014, however, we may not have sufficient funds to repurchase the 2027A Notes in cash or have the ability to arrange necessary financing on acceptable terms. In addition, upon conversion of the 2027A Notes we will be required to make cash payments to the holders of the 2027A Notes equal to the lesser of the principal amount of the 2027A Notes being converted and the conversion value of those 2027A Notes. Such payments could be significant, and we may not have sufficient funds to make them at such time. Moreover, even if we do have sufficient funds to repurchase the 2027A Notes and make any additional required payments, doing so could reduce our working capital below levels that we believe are necessary or appropriate for the ongoing operation of our business. In such case, we might be forced to raise additional financing at the time of the repurchase or thereafter until cash generated from operations can restore working capital to the desired level.
+
+Our failure to repurchase the Notes or convert the Notes into cash or a combination of cash and shares upon exercise of a holder's conversion right in accordance with the provisions of the indentures would constitute a default under the applicable indenture. In addition, a default under the indenture could lead to a default under existing and future agreements governing our indebtedness. If, due to a default, the repayment of the related indebtedness were to be accelerated after any applicable notice or grace periods, we may not have sufficient funds to repay such indebtedness and the Notes. 
+
+A fundamental change may also constitute an event of default under, or result in the acceleration of the maturity of, our then-existing indebtedness. In addition, our ability to repurchase the Notes in cash or make any other required payments may be limited by law or the terms of other agreements relating to our indebtedness outstanding at the time. 
+
+The terms of the 2027A Notes and related provisions in the indentures subject noteholders to risks. Noteholders should be aware of the following risks, in addition to those described for holders of our common stock: 
 
 •
 
-introduce their own wafer probe card product;
-
-•
-
-establish relationships with others in our industry;
-
-•
-
-acquire or invest in a competitive wafer probe card manufacturer or enter into a business venture with a competitive wafer probe card manufacturer; or
-
-•
-
-attempt to restrict our ability to enter into relationships with their competitors.
-
-Many of our customers and the test equipment companies we work with are large companies. The consequences of deterioration in our relationship with any of these companies could be exacerbated due to the significant influence these companies can exert in our markets. If our current relationships with our customers and test equipment companies deteriorate, or if we are unable to develop similar collaborative relationships with important customers and test equipment companies in the future, our long-term ability to produce commercially successful products could be impaired.
-
-Because we generally do not have a sufficient backlog of unfilled orders to meet our quarterly revenue targets, revenues in any quarter are substantially dependent upon customer orders received and fulfilled in that quarter.
-
-Our revenues are difficult to forecast because we generally do not have sufficient backlog of unfilled orders to meet our quarterly revenue targets at the beginning of a quarter. Rather, a substantial percentage of our revenues in any quarter depend upon customer orders for our wafer probe cards that we receive and fulfill in that quarter. Because our expense levels are based in part on our expectations as to future revenues and to a large extent are fixed in the short term, we might be unable to adjust spending in time to compensate for any unexpected shortfall in revenues. Accordingly, any significant shortfall of revenues in relation to our expectations could hurt our operating results.
-
-We manufacture substantially all our products at our facility in Livermore, California, and any disruption in the operations of this facility could adversely impact our business and operating results.
-
-Our manufacturing processes require sophisticated and expensive equipment and a specially designed facility, including a semiconductor clean room. We manufacture the majority of our wafer probe cards at our facility located in Livermore, California, and we have certain manufacturing capabilities in our Yokohama, Japan facility. Any disruption in our 
+We are not restricted from taking actions or incurring additional debt (including secured debt) which may affect our ability to make payments under the Notes, 
 
 18
 
-Table of Contents
+•
 
-manufacturing, whether due to contamination in our manufacturing process, technical or labor difficulties, destruction or damage from fire or earthquake, infrastructure failures such as power or water shortage or any other reason, could interrupt our operations, impair critical systems, disrupt communications with our customers and suppliers, and cause us to write off inventory, thereby potentially resulting in the loss of revenues. In addition, if the previous energy crises in California that resulted in disruptions in power supply and increases in utility costs were to recur, we might experience power interruptions and shortages, which could disrupt our manufacturing operations. This could subject us to loss of revenues as well as significantly higher costs of energy. Further, current and potential customers might not purchase our products if they perceive our lack of a fully operational alternate manufacturing facility to be a risk to their continuing source of supply.
-
-If we are unable to continue to reduce the time it takes for us to design and produce a wafer probe card, our growth could be impeded.
-
-Our customers continuously seek to reduce the time it takes them to introduce new products to market. The cyclicality of the semiconductor industry, coupled with changing demands for semiconductor devices, requires our customers to be flexible and highly adaptable to changes in the volume and mix of products they must produce. Each of those changes requires a new design and each new design requires a new wafer probe card. For some existing semiconductor devices, the manufacturers' volume and mix of product requirements are such that we are unable to design, manufacture and ship products to meet such manufacturers' relatively short cycle time requirements. We, for example, have lost sales in the past where we were unable to meet a customer's required delivery schedule for wafer probe cards for a particular design. If we are unable to reduce the time it takes for us to design, manufacture and ship our products in response to the needs of our customers, our competitive position could be harmed and we could lose sales. If we are unable to grow design capacity in the event demand increases, our ability to respond to customer requirements could be challenged and our revenues could be negatively impacted.
-
-We obtain some of the components and materials we use in our products from a sole source or a limited group of suppliers, and the partial or complete loss of one of these suppliers could cause production delays and a substantial loss of revenues.
-
-We obtain some of the components and materials used in our products, such as printed circuit board assemblies, plating materials and ceramic substrates, from a sole source or a limited group of suppliers. Alternative sources are not currently available for sole source components and materials. Because we rely on purchase orders rather than long-term contracts with the majority of our suppliers, we cannot predict with certainty our ability to obtain components and materials in the longer term. A sole or limited source supplier could increase prices, which could lead to a decline in our gross margin. Our dependence upon sole or limited source suppliers exposes us to several other risks, including inability to obtain an adequate supply of materials, late deliveries and poor component quality. In addition, the ability of any of these suppliers to timely provide us with sufficient quality materials would be adversely affected if they are forced to reduce or discontinue operations due to financial difficulties, which is a heightened risk during the current economic downturn. Disruption or termination of the supply of components or materials could delay shipments of our products, damage our customer relationships and reduce our revenues. For example, if we were unable to obtain an adequate supply of a component or material, we might have to use a substitute component or material, which could require us to make changes in our manufacturing process and could also require us to re-qualify impacted product at certain customers. From time to time, we have experienced difficulties in receiving shipments from one or more of our suppliers, especially during periods of high demand for our products. If we cannot obtain an adequate supply of the components and materials we require, or do not receive them in a timely manner, we might be required to identify new suppliers. We might not be able to identify new suppliers on a timely basis or at all. We, as well as our customers, would also need to qualify any new suppliers. The lead-time required to identify and qualify new suppliers could affect our ability to timely ship our products and cause our operating results to suffer. Further, a sole or limited source supplier could require us to enter into non-cancelable purchase commitments, minimum volume purchases or pay in advance to ensure our source of supply. In an industry downturn or in an environment in which growth is not at a level we projected or anticipated, commitments of this type could result in charges for excess inventory of parts. Further, if a customer's needs for a particular probe card design and purchase orders for those probe cards are spread out over several months as opposed to being placed at one time in a single purchase order, it may cause us to purchase excessive materials in light of minimum purchase requirements or to be unable to realize volume discounts for materials because of the lack of visibility into the customer's overall purchase plan. These purchase issues would require us to incur a greater cost of goods sold than we might otherwise realize. Additionally, if we are unable to predict our component and materials needs accurately, or if our supply is disrupted, we might miss market opportunities by not being able to meet the demand for our products.
-
-Wafer probe cards that do not meet specifications or that contain defects could damage our reputation, decrease market acceptance of our technology, cause us to lose customers and revenues, and result in liability to us.
-
-The complexity and ongoing development of our wafer probe card manufacturing process, combined with increases in wafer probe card production volumes, have in the past and could in the future lead to design or manufacturing problems. For example, we have experienced the presence of contaminants in our plating baths, which have caused a decrease in our manufacturing yields or have resulted in unanticipated stress-related failures when our wafer probe cards are being used in the 
-
-19
-
-Table of Contents
-
-manufacturing test environment. This contamination problem caused a yield decline that, in turn, resulted in our inability to timely ship products to our customers. Manufacturing design errors such as the mis-wiring of a wafer probe card or the incorrect placement of probe contact elements have caused us to repeat manufacturing design steps. In addition to these examples, problems might result from a number of factors, including design defects, materials failure, failure of components manufactured by our suppliers to meet our specifications, contamination in the manufacturing environment, impurities in the materials used, unknown sensitivities to process conditions, such as temperature and humidity, and equipment failures. As a result, our products have in the past contained and might in the future contain undetected errors or defects. Any errors or defects could:
+The Notes are not secured by any of our assets or those of our subsidiaries and are effectively subordinated to any secured debt we may incur. In any liquidation, dissolution, bankruptcy or other similar proceeding, holders of our secured debt may assert rights against any assets securing such debt in order to receive full payment of their debt before those assets may be used to pay the holders of the Notes. In such an event, we may not have sufficient assets remaining to pay amounts due on any or all of the Notes. In addition, none of our subsidiaries have guaranteed our obligations under, or have any obligation to pay any amounts due on, the Notes. As a result, the Notes are effectively subordinated to all liabilities of our subsidiaries, including trade payables,
 
 •
 
-cause lower than anticipated yields and lengthen delivery schedules;
+The fundamental change provisions in the Notes and the indentures may not require us to offer to repurchase the Notes in the event of certain transactions. For example, any leveraged recapitalization, refinancing, restructuring, or acquisition initiated by us will generally not constitute a fundamental change requiring us to repurchase the Notes;
 
 •
 
-cause delays in product shipments;
+The liquidity of the trading market in the Notes, and the market price quoted for these Notes, may be adversely affected by, among other things, changes in, or other factors affecting, the market prices of our common stock, changes in the overall market for debt securities, and prevailing interest rates,
 
 •
 
-cause delays in new product introductions;
+The conversion rates of the Notes may not adjust for certain events, such as a third-party tender or exchange offer or an issuance of our common stock for cash. In addition, adjustments in conversion rates may not adequately compensate noteholders for any lost value in the Notes as a result of a particular transaction,
 
 •
 
-cause us to incur warranty expenses;
+The sale of the Notes and the shares of common stock issuable upon conversion of the Notes depends upon the continued maintenance of a registration statement filed with the SEC covering the resale of the Notes, or an exemption from the registration requirements of the Securities Act and any applicable state securities laws; and,
 
 •
 
-result in increased costs and diversion of development resources;
+Noteholders are not entitled to any rights as holders of our common stock although, given that the Notes are convertible into shares of our common stock, they may be affected by any change relating to the common stock.
 
-•
+Our certificate of incorporation and by-laws include anti-takeover provisions that may enable our management to resist an unwelcome takeover attempt by a third party. 
 
-cause us to incur increased charges due to unusable inventory;
+Our organizational documents and Delaware law contain provisions that might discourage, delay or prevent a change in control of our company or a change in our management. Our Board of Directors may also choose to adopt further anti-takeover measures without stockholder approval. The existence and adoption of these provisions could adversely affect the voting power of holders of common stock and limit the price that investors might be willing to pay in the future for shares of our common stock.
 
-•
+ITEM 1B.
 
-require design modifications; or
+UNRESOLVED STAFF COMMMENTS
 
-•
-
-decrease market acceptance or customer satisfaction with these products.
-
-The occurrence of any one or more of these events could adversely affect our operating results.
-
-In addition, if any of our products fails to meet specifications when installed in the customer's test environment, or has reliability, quality or compatibility problems, our reputation could be damaged significantly and customers might be reluctant to buy our products, which could result in a decline in revenues, an increase in product returns or warranty costs and the loss of existing customers or the failure to attract new customers. Our customers use our products with test equipment and software in their manufacturing facilities. Our products must be compatible with the customers' equipment and software to form an integrated system. While we have designed our test capabilities and standards to replicate the actual test environment of our customers and continually work to improve our capabilities, it is possible that our wafer probe card will perform differently in the customers' actual test environments. If our wafer probe card does not function properly within a customer's specific test environment, we could be required to provide field application engineers to locate the problem, which can take time and resources. If the problem relates to our wafer probe cards, we might have to invest significant capital, manufacturing capacity and other resources to correct it. Our current or potential customers also might seek to recover from us any losses resulting from defects or failures in our products. Liability claims could require us to spend significant time and money in litigation or to pay significant damages.
-
-If our ability to forecast demand for our products deteriorates or the predictability of our manufacturing yields does not improve, we could incur higher inventory losses than we currently experience.
-
-Each semiconductor chip design requires a custom wafer probe card. Because our products are design-specific, demand for our products is difficult to forecast. Due to our customers' short delivery time requirements, we often design, procure materials and, at times, produce our products in anticipation of demand for our products rather than in response to an order. Our manufacturing yields, particularly for new products, have historically been unpredictable and consequently, we generally produce more components for probe cards, or actual probe cards, than forecasted demand. If we do not obtain orders as we anticipate, or if we continue to produce excess inventory to compensate for unpredictable manufacturing yields, we could have excess or obsolete inventory for a specific customer design that we would not be able to sell to any other customer, which would likely result in inventory write-offs or material charges for scrap.
-
-If we fail to maintain an effective system of internal and disclosure controls, we may not be able to accurately report our financial results or prevent fraud, which may adversely affect our business and reputation. In addition, current and potential stockholders could lose confidence in our financial reporting, which may adversely impact the trading price of our securities.
-
-Effective internal and disclosure controls are necessary for us to provide reliable financial reports, to prevent fraud and to operate successfully as a public company. If we cannot provide reliable financial reports or prevent fraud, our business and reputation may be harmed. We regularly review and assess our internal control over financial reporting and our disclosure controls and procedures. As part of that process, we may discover material weaknesses or significant deficiencies in our internal control as defined under standards adopted by the Public Company Accounting Oversight Board, or PCAOB, that 
-
-20
-
-Table of Contents
-
-require remediation. A material weakness is a deficiency, or combination of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement of the company's annual or interim financial statements will not be prevented or detected on a timely basis. A significant deficiency is a deficiency or combination of deficiencies, in internal control over financial reporting that is less severe than a material weakness, yet important enough to merit attention by those responsible for the oversight of the company's financial reporting. For example, in November 2007, we completed a review of our historical practices with respect to inventory valuation. That review indicated that during fiscal 2006 and the first half of fiscal 2007 we did not consistently follow our accounting policies for determining inventory valuation. Specifically, we did not maintain effective controls to ensure that the estimation process to value inventory complied with our accounting policies. As a result, we restated our annual and interim financial statements for fiscal 2006 and interim financial statements for the first and second quarters of fiscal 2007 and made audit adjustments to our annual financial statements for fiscal 2007. As a result of weaknesses that may be identified in our internal controls, we may also identify certain deficiencies in some of our disclosure controls and procedures that we believe require remediation. If we discover weaknesses, we will make efforts to improve our internal and disclosure controls. However, there is no assurance that we will be successful. If we fail to maintain effective controls or timely affect any necessary improvement of our internal and disclosure controls, we may not have accurate information to make management decisions, our operating results could be harmed or we may fail to meet our reporting obligations, which could affect our ability to remain listed with the NASDAQ Global Market. Ineffective internal and disclosure controls could also cause stockholders to lose confidence in our reported financial information and our ability to manage our business, which would likely have a negative effect on the trading price of our securities.
-
-We might be subject to claims of infringement of other parties' proprietary rights which could harm our business.
-
-In the future, as we have in the past, we might receive claims that we are infringing intellectual property rights of others or inquiries about our interest in a license, or assertions that we need a license, to the intellectual property. The semiconductor industry is characterized by uncertain and conflicting intellectual property claims and vigorous protection and pursuit of these rights. The resolution of any claims of this nature, with or without merit, could be time consuming, result in costly litigation or cause product shipment delays. In the event of an adverse ruling or settlement, we might be required to pay substantial damages, cease the use or sale of infringing products, spend significant resources to develop non-infringing technology, discontinue the use of certain technology and/or enter into license agreements. License agreements, if required, might not be available on terms acceptable to us or at all. The loss of access to any of our intellectual property or the ability to use any of our technology could harm our business. Finally, certain of our customer contracts contain provisions that require us to defend and/or indemnify our customers for third party intellectual property infringement claims, which would increase the cost to us of an adverse ruling or settlement.
-
-We may not be able to recruit or retain qualified personnel, which could harm our business.
-
-We believe our ability to successfully manage and grow our business and to develop new products depends, in large part, on our ability to recruit and retain qualified employees, particularly highly skilled technical, sales, management, and key staff personnel. Competition for qualified resources is intense and other companies may have greater resources available to provide substantial inducements to lure key personnel away from us or to offer more competitive compensation packages to individuals we are trying to hire. Additionally, we have implemented global cost reduction plans in which we have reduced our workforce, which could make it challenging to retain key people and recruit new talent, as needed. While we are implementing programs that will include goals for attracting employees, and we may grant additional equity compensation to certain employees outside of our annual equity grant program for retention purposes, or implement retention bonus programs for certain employees, there can be no assurance that we will be able to successfully recruit and retain the qualified personnel we require.
-
-We may make acquisitions and investments, which could put a strain on our resources, cause ownership dilution to our stockholders and adversely affect our financial results.
-
-We may make acquisitions of complementary businesses, products or technologies in the future. In October 2009, we completed the acquisition of intellectual property and certain precision motion control automation assets from Electroglas, a company under Chapter 11 bankruptcy protection in Delaware. Prior to the acquisition, Electroglas was engaged in the supply of semiconductor manufacturing equipment and software to the semiconductor industry. The assets acquired consisted of manufacturing and testing equipment, spare parts and components related to the purchased equipment and other technology assets related to precision motion control automation and all of the intellectual property rights of Electroglas, with the exception of certain trademark rights.
-
-We may also make certain investments in complementary or supplementary businesses, products or technologies in the future. Integrating newly acquired businesses, products or technologies into our company could put a strain on our resources, could be expensive and time consuming, may cause delays in product delivery and might not be successful. Future acquisitions and investments could divert our management's attention from other business concerns and expose our business to unforeseen liabilities or risks associated with entering new markets. In addition, we might lose key employees while integrating new 
-
-21
-
-Table of Contents
-
-organizations. We might not be successful in integrating any acquired businesses, products or technologies, and might not achieve anticipated revenues and cost benefits. Investments that we make may not result in a return consistent with our projections upon which such investments are made, or may require additional investment that we did not originally anticipate. In addition, future acquisitions could result in customer dissatisfaction, performance problems with an acquired company, potentially dilutive issuances of equity securities or the incurrence of debt, contingent liabilities, possible impairment charges related to goodwill or other intangible assets or other unanticipated events or circumstances, any of which could harm our business.
-
-As part of our sales process, we could incur substantial sales and engineering expenses that do not result in revenues, which would harm our operating results.
-
-Our customers generally expend significant efforts evaluating and qualifying our products prior to placing an order. The time that our customers require to evaluate and qualify our wafer probe cards is typically between three and 12 months and sometimes longer. While our customers are evaluating our products, we might incur substantial sales, marketing, and research and development expenses. For example, we typically expend significant resources educating our prospective customers regarding the uses and benefits of our wafer probe cards and developing wafer probe cards customized to the potential customer's needs, for which we might not be reimbursed. Although we commit substantial resources to our sales efforts, we might never receive any revenues from a customer. For example, many semiconductor chip designs never reach production, including designs for which we may have expended design effort and expense. In addition, prospective customers might decide not to use our wafer probe cards. The length of time that it takes for the evaluation process and for us to make a sale depends upon many factors including:
-
-•
-
-the efforts of our sales force and our distributor and independent sales representatives;
-
-•
-
-the complexity of the customer's fabrication processes;
-
-•
-
-the internal technical capabilities of the customer; and
-
-•
-
-the customer's budgetary constraints and, in particular, the customer's ability to devote resources to the evaluation process.
-
-In addition, product purchases are frequently subject to delays, particularly with respect to large customers for which our products may represent a small percentage of their overall purchases. As a result, our sales cycles are unpredictable. If we incur substantial sales and engineering expenses without generating revenues, our operating results could be harmed.
-
-Our failure to comply with environmental laws and regulations could subject us to significant fines and liabilities, and new laws and regulations or changes in regulatory interpretation or enforcement could make compliance more difficult and costly.
-
-We are subject to various U.S. Federal, state and local, and foreign governmental laws and regulations relating to the protection of the environment, including those governing the discharge of pollutants into the air and water, the management and disposal of hazardous substances and wastes, the cleanup of contaminated sites and the maintenance of a safe workplace. We could incur substantial costs, including cleanup costs, civil or criminal fines or sanctions and third-party claims for property damage or personal injury, as a result of violations of or liabilities under environmental laws and regulations or non-compliance with the environmental permits required at our facilities.
-
-These laws, regulations and permits also could require the installation of costly pollution control equipment or operational changes to limit pollution emissions or decrease the likelihood of accidental releases of hazardous substances. In addition, changing laws and regulations, new laws and regulations, stricter enforcement of existing laws and regulations, the discovery of previously unknown contamination at our or others' sites or the imposition of new cleanup requirements could require us to curtail our operations, restrict our future expansion, subject us to liability and cause us to incur future costs that could harm our operations, thereby adversely impacting our operating results and cash flow.
-
-Because we conduct most of our business internationally, we are subject to operational, economic, financial and political risks abroad.
-
-Sales of our products to customers outside North America have accounted for a significant part of our revenues. Our international sales as a percentage of our revenues were 
-85%
-, 
-80%
- and 
-82%
- for fiscal 
-2011
-, 
-2010
- and 
-2009
-, respectively. Additionally, certain of our South Korean customers purchase through their North American subsidiaries. In the future, we expect international sales, particularly in Japan, South Korea and Taiwan, to continue to account for a significant percentage of our revenues. Accordingly, we will be subject to risks and challenges that we would not otherwise face if we conducted our business solely in North America. 
-
-22
-
-Table of Contents
-
-These risks and challenges include:
-
-•
-
-compliance with a wide variety of foreign laws and regulations;
-
-•
-
-legal uncertainties regarding taxes, tariffs, quotas, export controls, export licenses and other trade barriers;
-
-•
-
-political and economic instability in, or foreign conflicts that involve or affect, the countries of our customers;
-
-•
-
-difficulties in collecting accounts receivable and longer accounts receivable payment cycles;
-
-•
-
-difficulties in staffing and managing personnel, distributors and representatives;
-
-•
-
-reduced protection for intellectual property rights in some countries;
-
-•
-
-currency exchange rate fluctuations, which could affect the value of our assets denominated in local currency, as well as the price of our products relative to locally produced products;
-
-•
-
-seasonal fluctuations in purchasing patterns in other countries; and
-
-•
-
-fluctuations in freight rates and transportation disruptions.
-
-Any of these factors could harm our existing international operations and business, impair our ability to continue expanding into international markets or materially adversely affect our operating results. Additionally, we are required to comply with foreign import and export requirements, customs and value added tax standards. Our failure to meet these requirements and standards could negatively impact our business operations. 
-
-The trading price of our common stock has been and is likely to continue to be volatile, and you might not be able to sell your shares at or above the price that you paid for them.
-
-The trading prices of the securities of technology companies have been highly volatile, and from 
-January 1, 2012
- through 
-February 13, 2012
-, our stock price has ranged from 
-$4.85
- a share to 
-$5.49
- a share. The trading price of our common stock is likely to continue to be subject to wide fluctuations. Factors affecting the trading price of our common stock include:
-
-•
-
-variations in our operating results;
-
-•
-
-our forecasts and financial guidance for future periods;
-
-•
-
-announcements of technological innovations, new products or product enhancements, new product adoptions at semiconductor customers or significant agreements by us or by our competitors;
-
-•
-
-reports regarding our ability to bring new products into volume production efficiently;
-
-•
-
-the gain or loss of significant orders or customers;
-
-•
-
-changes in the estimates of our operating results or changes in recommendations by any securities analysts that elect to follow our common stock;
-
-•
-
-rulings on various of our pending litigations and proceedings relating to intellectual property matters;
-
-•
-
-seasonality, principally due to our customers' purchasing cycles;
-
-•
-
-market and competitive conditions in our industry, semiconductor industry and the economy as a whole; and
-
-•
-
-recruitment or departure of key personnel.
-
-In addition, if the market for technology stocks or the stock market in general experiences loss of investor confidence, the trading price of our common stock could decline for reasons unrelated to our business, operating results or financial condition. The trading price of our common stock also might decline in reaction to events that affect other companies in our industry even if these events do not directly affect us.
-
-Provisions of our certificate of incorporation and bylaws or Delaware law might discourage, delay or prevent a change of control of our company or changes in our management and, therefore, depress the trading price of our common stock.
-
-Delaware corporate law and our certificate of incorporation and bylaws contain provisions that could discourage, delay or prevent a change in control of our company or changes in our management that the stockholders of our company may deem 
-
-23
-
-Table of Contents
-
-advantageous. These provisions:
-
-•
-
-establish a classified board of directors so that not all members of our board are elected at one time;
-
-•
-
-provide that directors may only be removed "for cause" and only with the approval of 66
-2
-
-/
-
-3
-
-% of our stockholders;
-
-•
-
-require super-majority voting to amend some provisions in our certificate of incorporation and bylaws;
-
-•
-
-authorize the issuance of "blank check" preferred stock that our board could issue to increase the number of outstanding shares and to discourage a takeover attempt;
-
-•
-
-limit the ability of our stockholders to call special meetings of stockholders;
-
-•
-
-prohibit stockholder action by written consent, which requires all stockholder actions to be taken at a meeting of our stockholders;
-
-•
-
-provide that the board of directors is expressly authorized to make, alter or repeal our bylaws; and
-
-•
-
-establish advance notice requirements for nominations for election to our board or for proposing matters that can be acted upon by stockholders at stockholder meetings.
-
-In addition, Section 203 of the Delaware General Corporation Law may discourage, delay or prevent a change in control of our company. In addition, each of our named executive officers and certain other officers of the company have entered into change of control severance agreements, which were approved by our Compensation Committee, which could increase the costs associated with a change of control and thus, potentially deter such a transaction.
+None

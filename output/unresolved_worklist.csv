@@ -1,165 +1,60 @@
 ticker,n_rows_recoverable,years,n_years,stint_start,stint_end,methods,candidates
-CMA,17,2006-2022,17,1996-01-02,2024-06-24,unresolved=12; fulltext_candidate_unverified=5,CIK 1071775 = PACIFIC CMA INC | CIK 1308027 = Vystar Corp
-XRX,13,2006-2018,13,1996-01-02,2021-03-22,unresolved=8; fulltext_candidate_unverified=5,CIK 1770450 = Xerox Holdings Corp | CIK 108772 = XEROX CORP
-VAR,12,2007-2020,12,2007-02-12,2021-04-20,unresolved=12,(none found)
-BCR,11,2006-2017,11,1996-01-02,2017-12-29,unresolved=10; fulltext_candidate_unverified=1,"CIK 1125603 = SGX PHARMACEUTICALS, INC."
-BHGE,11,2006-2016,11,1996-01-02,2019-10-18,unresolved=11,(none found)
-DD,11,2006-2016,11,1996-01-02,2017-09-01,unresolved=11,"CIK 1666700 = DuPont de Nemours, Inc."
-HCP,11,2008-2018,11,2008-03-31,2019-11-05,unresolved=11,(none found)
-LM,11,2006-2016,11,2006-04-24,2016-12-02,unresolved=9; fulltext_candidate_unverified=2,"CIK 1640384 = POWERCOMPUTE, INC."
-STJ,11,2006-2016,11,1996-01-02,2017-01-05,fulltext_candidate_unverified=8; unresolved=3,"CIK 203077 = ST JUDE MEDICAL, LLC | CIK 1370823 = Jade Art Group Inc. | CIK 4281 = Howmet Aerospace Inc. | CIK 1675149 = Alcoa Corp"
-CI,10,2006-2017,10,1996-01-02,,unresolved=8; fulltext_candidate_unverified=2,CIK 1739940 = Cigna Group | CIK 1535365 = iSHARES COMMODITY OPTIMIZED TRUST
-DXC,10,2006-2015,10,1996-01-02,2015-12-01,fulltext_candidate_unverified=7; unresolved=3,CIK 1688568 = DXC Technology Co | CIK 1175416 = STERLING GROUP VENTURES INC
-HAR,10,2006-2015,10,2006-02-01,2017-03-13,unresolved=10,(none found)
-PCL,10,2006-2015,10,2002-01-17,2016-02-22,unresolved=6; fulltext_candidate_unverified=4,CIK 1144392 = MEGOLA INC | CIK 849213 = PLUM CREEK TIMBER CO INC | CIK 1096788 = KNOLOGY INC | CIK 1535079 = MCX Technologies Corp
-PX,10,2006-2018,10,1996-01-02,2018-10-31,fulltext_candidate_unverified=6; unresolved=4,"CIK 1022911 = PANAVISION INC | CIK 1412067 = Cascadian Therapeutics, Inc. | CIK 1421517 = Energy Recovery, Inc. | CIK 1095565 = HEALTHSTREAM INC"
-SIAL,10,2006-2015,10,1996-01-02,2015-11-18,fulltext_candidate_unverified=6; unresolved=4,CIK 90185 = SIGMA ALDRICH CORP
-TSS,10,2008-2019,10,2008-01-02,2019-09-23,unresolved=6; fulltext_candidate_unverified=4,"CIK 831967 = KINETIC CONCEPTS INC | CIK 1320760 = TSS, Inc."
-VIAB,10,2006-2018,10,2006-01-03,2019-12-05,unresolved=10,(none found)
-WBA,10,2006-2025,10,1996-01-02,2025-08-28,unresolved=6; fulltext_candidate_unverified=4,"CIK 1357531 = VelaTel Global Communications, Inc. | CIK 1140859 = Cencora, Inc."
-ANDV,9,2009-2017,9,2007-09-27,2018-10-01,unresolved=9,(none found)
-AVP,9,2006-2014,9,1996-01-02,2015-03-23,unresolved=6; fulltext_candidate_unverified=3,CIK 841543 = GEN RX INC
-ETFC,9,2006-2019,9,2004-04-01,2020-10-07,fulltext_candidate_unverified=6; unresolved=3,CIK 1015780 = E TRADE FINANCIAL CORP
-HES,9,2006-2024,9,1996-01-02,2025-07-23,fulltext_candidate_unverified=5; unresolved=4,"CIK 1003344 = HEADWATERS INC | CIK 876343 = Lineage Cell Therapeutics, Inc. | CIK 1572552 = Asterias Biotherapeutics, Inc."
-IPG,9,2006-2023,9,1996-01-02,2025-11-28,unresolved=6; fulltext_candidate_unverified=3,CIK 1111928 = IPG PHOTONICS CORP | CIK 945114 = GLOBAL INDUSTRIAL Co | CIK 1948175 = 3650R 2022-PF2 Commercial Mortgage Trust
-LLL,9,2006-2018,9,2004-12-01,2019-07-01,unresolved=9,(none found)
-TE,9,2007-2015,9,2001-10-10,2016-07-01,unresolved=7; fulltext_candidate_unverified=2,CIK 1992243 = T1 Energy Inc. | CIK 1385157 = TE Connectivity plc
-X,9,2006-2014,9,1996-01-02,2014-07-02,unresolved=9,(none found)
-CA,8,2006-2018,8,1996-01-02,2018-11-06,unresolved=8,(none found)
-HRS,8,2009-2018,8,2008-09-22,2019-06-01,unresolved=5; fulltext_candidate_unverified=3,"CIK 1329606 = Clean Energy Technologies, Inc. | CIK 1661039 = TPT GLOBAL TECH, INC."
-JEC,8,2008-2019,8,2007-10-26,2019-12-10,unresolved=7; fulltext_candidate_unverified=1,"CIK 716749 = NATURAL BLUE RESOURCES, INC."
 TEG,8,2007-2014,8,2007-02-22,2015-06-30,unresolved=7; fulltext_candidate_unverified=1,"CIK 1415286 = HAWKER ENERGY, INC."
-UTX,8,2006-2018,8,1996-01-02,2020-04-03,fulltext_candidate_unverified=7; unresolved=1,CIK 101829 = RTX Corp | CIK 1166388 = VERINT SYSTEMS INC
-FB,7,2014-2021,7,2013-12-23,2022-06-09,fulltext_candidate_unverified=5; unresolved=2,CIK 1422183 = FS KKR Capital Corp
-FII,7,2006-2012,7,2003-04-16,2013-01-02,fulltext_candidate_unverified=4; unresolved=3,CIK 862831 = FINANCIAL INSTITUTIONS INC
-GR,7,2006-2012,7,1996-01-02,2012-07-27,unresolved=4; fulltext_candidate_unverified=3,"CIK 1005201 = Assertio Therapeutics, Inc | CIK 1402062 = Lake Victoria Mining Company, Inc."
-HOT,7,2006-2014,7,2000-11-17,2016-09-23,unresolved=7,(none found)
-PLL,7,2006-2015,7,1996-01-02,2015-08-31,fulltext_candidate_unverified=4; unresolved=3,CIK 794172 = MERIDIAN BIOSCIENCE INC
-SE,7,2007-2016,7,2007-01-03,2017-02-27,unresolved=7,CIK 1703399 = Sea Ltd
-TWX,7,2006-2013,7,1996-01-02,2018-06-15,unresolved=7,(none found)
-AGN,6,2007-2019,6,1996-01-02,2020-05-12,unresolved=3; fulltext_candidate_unverified=3,CIK 1309055 = Juma Technology Corp. | CIK 1578845 = Allergan plc
-CEG,6,2006-2011,6,1996-01-02,2012-03-13,fulltext_candidate_unverified=3; unresolved=3,CIK 1868275 = Constellation Energy Corp | CIK 103096 = TRC COMPANIES INC /DE/ | CIK 1173204 = Cineverse Corp.
-COG,6,2008-2013,6,2008-06-23,2021-10-04,unresolved=4; fulltext_candidate_unverified=2,CIK 25793 = COSTA INC
-DFS,6,2008-2024,6,2007-07-02,2025-05-19,unresolved=6,(none found)
-DNB,6,2009-2016,6,2008-12-02,2017-04-05,fulltext_candidate_unverified=6,CIK 713671 = DNB FINANCIAL CORP /PA/
-DNR,6,2009-2014,6,2009-04-02,2015-03-23,unresolved=4; fulltext_candidate_unverified=2,CIK 85535 = ROYAL GOLD INC | CIK 820901 = ARETE INDUSTRIES INC
-FTI,6,2009-2015,6,2009-06-05,2021-02-12,fulltext_candidate_unverified=5; unresolved=1,"CIK 1681459 = TechnipFMC plc | CIK 887936 = FTI CONSULTING, INC"
-ADS,5,2014-2018,5,2013-12-23,2020-06-22,fulltext_candidate_unverified=3; unresolved=2,"CIK 1604028 = ADVANCED DRAINAGE SYSTEMS, INC."
-AYE,5,2006-2010,5,2000-12-11,2011-02-28,unresolved=5,(none found)
-BIG,5,2006-2011,5,1998-01-20,2013-02-14,unresolved=5,(none found)
 CBE,5,2006-2012,5,1996-01-02,2009-09-09,unresolved=5,(none found)
-CELG,5,2011-2019,5,2006-11-06,2019-11-21,fulltext_candidate_unverified=3; unresolved=2,CIK 881890 = ABAXIS INC | CIK 14272 = BRISTOL MYERS SQUIBB CO
-CERN,5,2014-2018,5,2010-04-30,2022-06-08,unresolved=4; fulltext_candidate_unverified=1,CIK 793524 = RESEARCH FRONTIERS INC
-DISCK,5,2015-2019,5,2014-08-07,2022-04-11,unresolved=5,(none found)
-EMC,5,2006-2012,5,1996-03-28,2016-09-07,unresolved=5,(none found)
-ETN,5,2006-2011,5,1996-01-02,,unresolved=5,CIK 1551182 = Eaton Corp plc
-FTR,5,2006-2012,5,2001-02-27,2017-03-20,unresolved=4; fulltext_candidate_unverified=1,"CIK 1476278 = MOON RIVER STUDIOS, INC."
-GGP,5,2014-2018,5,2013-12-10,2018-08-28,unresolved=5,(none found)
-LLTC,5,2011-2016,5,2000-04-03,2017-03-13,fulltext_candidate_unverified=4; unresolved=1,CIK 791907 = LINEAR TECHNOLOGY CORP /CA/
-MDT,5,2008-2012,5,1996-01-02,,unresolved=5,CIK 1613103 = Medtronic plc
-MYL,5,2011-2020,5,2004-04-23,2020-11-17,fulltext_candidate_unverified=5,"CIK 1464305 = China Executive Education Corp | CIK 1434601 = Transglobal Management Group, Inc."
-NSM,5,2006-2010,5,1996-01-02,2011-09-26,unresolved=3; fulltext_candidate_unverified=2,CIK 3952 = ALLIED DEFENSE GROUP INC
-Q,5,2006-2010,5,2000-07-06,2011-04-01,unresolved=5,"CIK 2058873 = Qnity Electronics, Inc."
-SUNEQ,5,2007-2011,5,2007-05-31,2011-12-19,unresolved=5,(none found)
-WFM,5,2006-2010,5,2006-01-03,2017-08-28,unresolved=4; fulltext_candidate_unverified=1,CIK 890319 = TAUBMAN CENTERS INC
-AKS,4,2008-2011,4,2008-07-01,2011-12-19,unresolved=4,(none found)
-AVGO,4,2014-2017,4,2014-05-08,,fulltext_candidate_unverified=4,CIK 1730168 = Broadcom Inc. | CIK 1441634 = Avago Technologies LTD | CIK 1649338 = Broadcom Pte. Ltd.
-BDK,4,2006-2009,4,1996-01-02,2010-03-15,fulltext_candidate_unverified=3; unresolved=1,CIK 77360 = PENTAIR plc
-CCE,4,2006-2009,4,1998-10-08,2016-05-31,unresolved=4,(none found)
+AGN,4,2016-2019,4,1996-01-02,2020-05-12,fulltext_candidate_unverified=2; unresolved=2,CIK 1578845 = Allergan plc
 CITGQ,4,2006-2009,4,2004-10-27,2009-07-27,unresolved=3; fulltext_candidate_unverified=1,CIK 1171825 = CIT GROUP INC
 FRC,4,2019-2022,4,2019-01-02,2023-05-04,fulltext_candidate_unverified=4,CIK 887596 = CHEESECAKE FACTORY INC
 HSP,4,2006-2009,4,2004-05-03,2015-09-03,unresolved=2; fulltext_candidate_unverified=2,CIK 732412 = MULTIBAND CORP
-MDP,4,2006-2009,4,1996-01-02,2011-01-04,fulltext_candidate_unverified=2; unresolved=2,"CIK 1014507 = SIRONA DENTAL SYSTEMS, INC."
 MI,4,2008-2011,4,2002-02-11,2011-07-06,unresolved=4,CIK 1958713 = NFT Ltd
-ODP,4,2006-2009,4,1999-06-24,2010-12-20,unresolved=2; fulltext_candidate_unverified=2,CIK 1124024 = FAR EAST ENERGY CORP
-SUN,4,2006-2009,4,1996-01-02,2012-10-05,unresolved=4,CIK 1552275 = Sunoco LP
-WIN,4,2009-2014,4,2006-07-18,2015-04-07,unresolved=3; fulltext_candidate_unverified=1,CIK 1167886 = GOLDFIELDS INTERNATIONAL INC
 ABI,3,2006-2008,3,1996-01-02,2008-11-24,fulltext_candidate_unverified=2; unresolved=1,"CIK 1141399 = APP Pharmaceuticals, Inc. | CIK 4611 = AMERICAN BILTRITE INC"
-ANTM,3,2007-2014,3,2002-07-25,2022-06-28,fulltext_candidate_unverified=3,"CIK 1070361 = ARTIFICIAL LIFE INC | CIK 1156039 = Elevance Health, Inc."
 AW,3,2006-2008,3,1999-08-02,2008-12-05,unresolved=3,(none found)
-BUD,3,2006-2008,3,1996-01-02,2008-11-18,unresolved=3,CIK 1668717 = Anheuser-Busch InBev SA/NV
 CFN,3,2012-2014,3,2009-09-01,2015-03-17,fulltext_candidate_unverified=3,"CIK 1175454 = CORPAY, INC. | CIK 1100441 = RTI SURGICAL, INC."
-CTXS,3,2009-2022,3,1999-12-01,2022-10-03,fulltext_candidate_unverified=3,CIK 877890 = CITRIX SYSTEMS INC
-CXO,3,2016-2018,3,2016-02-22,2021-01-21,fulltext_candidate_unverified=2; unresolved=1,CIK 1066104 = CEB Inc.
-DOW,3,2006-2008,3,1996-01-02,2017-09-01,unresolved=3,CIK 1751788 = DOW INC.
-ESV,3,2007-2009,3,2007-01-04,2009-12-23,unresolved=3,(none found)
-FL,3,2016-2018,3,2016-04-04,2019-08-09,unresolved=3,(none found)
-FOX,3,2016-2018,3,2015-09-21,,unresolved=3,CIK 1754301 = Fox Corp
 HFC,3,2018-2020,3,2018-06-18,2021-06-04,unresolved=3,(none found)
-JAVA,3,2006-2009,3,1996-01-02,2010-01-27,unresolved=2; fulltext_candidate_unverified=1,"CIK 1171838 = Sundance Strategies, Inc."
-LEHMQ,3,2006-2008,3,1998-01-12,2008-09-17,unresolved=3,(none found)
-LIFE,3,2009-2011,3,2008-11-24,2014-01-24,unresolved=3,CIK 1788451 = Ethos Technologies Inc.
-MHS,3,2006-2008,3,2003-08-20,2012-04-02,fulltext_candidate_unverified=3,"CIK 704415 = TIVITY HEALTH, INC. | CIK 1124804 = Veradigm Inc."
 MTLQQ,3,2006-2008,3,1996-01-02,2009-06-03,unresolved=3,(none found)
 MWW,3,2006-2008,3,2001-06-04,2011-12-19,fulltext_candidate_unverified=2; unresolved=1,CIK 788885 = PENNICHUCK CORP
 NE,3,2006-2008,3,2001-01-16,2009-03-27,unresolved=3,CIK 1895262 = Noble Corp plc
-NFX,3,2012-2018,3,2010-12-20,2019-02-15,fulltext_candidate_unverified=3,"CIK 1120193 = NASDAQ, INC."
-RDC,3,2006-2008,3,1996-01-02,2014-08-19,unresolved=2; fulltext_candidate_unverified=1,"CIK 921878 = FAMILYMEDS GROUP, INC."
-SII,3,2007-2009,3,2006-10-02,2010-08-27,unresolved=3,CIK 1512920 = SPROTT INC.
-TIE,3,2008-2012,3,2007-10-29,2012-12-24,unresolved=3,(none found)
-WRK,3,2016-2024,3,2015-07-02,2024-07-08,fulltext_candidate_unverified=2; unresolved=1,CIK 1566265 = AXIOM CORP. | CIK 1732845 = WestRock Co
-XTO,3,2006-2008,3,2004-12-29,2010-06-28,fulltext_candidate_unverified=3,CIK 862022 = HUGOTON ROYALTY TRUST
 ASN,2,2006-2007,2,2004-12-20,2007-10-08,unresolved=2,(none found)
 AT,2,2006-2007,2,1996-01-02,2007-11-19,unresolved=2,(none found)
 AV,2,2006-2007,2,2000-10-02,2007-10-26,unresolved=1; fulltext_candidate_unverified=1,CIK 1120105 = INTELLON CORP
-BK,2,2006-2007,2,1996-01-02,2026-05-21,unresolved=2,(none found)
-BLK,2,2013-2014,2,2011-04-04,,unresolved=2,"CIK 2012383 = BlackRock, Inc."
-BLL,2,2006-2007,2,1996-01-02,2022-05-10,fulltext_candidate_unverified=2,CIK 1000209 = MEDALLION FINANCIAL CORP
-BNI,2,2006-2007,2,1996-01-02,2010-02-16,fulltext_candidate_unverified=2,CIK 728535 = HUNT J B TRANSPORT SERVICES INC
+AVGO,2,2016-2017,2,2014-05-08,,fulltext_candidate_unverified=2,CIK 1730168 = Broadcom Inc. | CIK 1649338 = Broadcom Pte. Ltd.
 BOL,2,2006-2007,2,1996-01-02,2007-10-29,unresolved=2,(none found)
 BRL,2,2006-2008,2,2006-02-27,2008-12-23,unresolved=2,(none found)
 BSC,2,2006-2007,2,1998-07-01,2008-06-02,unresolved=2,(none found)
 CBH,2,2006-2007,2,2006-06-06,2008-03-31,unresolved=1; fulltext_candidate_unverified=1,CIK 34563 = FARMER BROTHERS CO
 CCTYQ,2,2006-2007,2,1996-01-02,2008-03-31,unresolved=2,(none found)
-CFC,2,2006-2007,2,1997-06-18,2008-07-01,unresolved=2,(none found)
-DDR,2,2007-2008,2,2007-03-23,2009-03-30,unresolved=2,(none found)
-DYN,2,2008-2009,2,2000-10-03,2009-12-21,fulltext_candidate_unverified=1; unresolved=1,"CIK 1818794 = Dyne Therapeutics, Inc. | CIK 1403676 = GelTech Solutions, Inc."
-EP,2,2006-2007,2,1999-10-26,2012-05-25,unresolved=2,CIK 887396 = EMPIRE PETROLEUM CORP
 FMCC,2,2006-2007,2,1996-01-02,2008-09-11,unresolved=2,CIK 1026214 = FEDERAL HOME LOAN MORTGAGE CORP
 IR,2,2006-2007,2,1996-01-02,2009-07-01,unresolved=2,CIK 1699150 = Ingersoll Rand Inc.
 MEL,2,2006-2007,2,1996-01-02,2007-07-02,unresolved=2,(none found)
-MXIM,2,2006-2007,2,2000-05-10,2007-09-27,unresolved=2,(none found)
+MYL,2,2019-2020,2,2004-04-23,2020-11-17,fulltext_candidate_unverified=2,"CIK 1434601 = Transglobal Management Group, Inc."
 PRGO,2,2012-2013,2,2011-12-19,2021-09-20,unresolved=2,CIK 1585364 = PERRIGO Co plc
 RIG,2,2006-2007,2,1999-12-31,2008-12-19,unresolved=2,CIK 1451505 = Transocean Ltd.
 TIN,2,2006-2007,2,1996-01-02,2007-12-31,unresolved=2,(none found)
 TRB,2,2006-2007,2,1996-01-02,2007-12-21,unresolved=2,(none found)
-WYE,2,2006-2008,2,1996-01-02,2009-10-16,unresolved=2,(none found)
-XL,2,2010-2011,2,2001-09-04,2018-09-12,unresolved=2,(none found)
-ACS,1,2009,1,2004-04-02,2010-02-08,unresolved=1,(none found)
 ACV,1,2006,1,1996-01-02,2006-11-17,fulltext_candidate_unverified=1,"CIK 1636289 = Virtus Diversified Income & Convertible Fund | CIK 1295522 = Prestige Brands International, LLC"
 APCC,1,2006,1,2000-06-01,2007-02-15,fulltext_candidate_unverified=1,CIK 947397 = EVERGREEN SOLAR INC
-ARNC,1,2016,1,1996-01-02,2020-04-06,fulltext_candidate_unverified=1,CIK 4281 = Howmet Aerospace Inc.
 ASO,1,2006,1,1999-03-10,2006-11-06,unresolved=1,"CIK 1817358 = Academy Sports & Outdoors, Inc."
 BJS,1,2008,1,2002-05-15,2010-04-29,unresolved=1,(none found)
-BLS,1,2006,1,1996-01-02,2007-01-03,fulltext_candidate_unverified=1,"CIK 1005201 = Assertio Therapeutics, Inc"
-BMET,1,2006,1,1996-01-02,2007-07-12,fulltext_candidate_unverified=1,CIK 351346 = BIOMET INC
-BRCM,1,2015,1,2000-07-03,2016-02-01,unresolved=1,(none found)
 CMVT,1,2006,1,1999-10-27,2007-02-01,unresolved=1,(none found)
-COV,1,2008,1,2007-07-02,2009-06-05,unresolved=1,(none found)
 CTRA,1,2023,1,2021-10-04,2026-05-07,unresolved=1,(none found)
 DTV,1,2009,1,2006-12-04,2015-07-27,unresolved=1,(none found)
 EOP,1,2006,1,2001-10-10,2007-02-12,unresolved=1,(none found)
 EQ,1,2006,1,2006-05-18,2009-07-01,unresolved=1,"CIK 1746466 = Equillium, Inc."
-ESRX,1,2012,1,2003-09-26,2018-12-21,fulltext_candidate_unverified=1,CIK 885721 = EXPRESS SCRIPTS INC
 FDO,1,2015,1,2001-08-06,2015-07-07,unresolved=1,(none found)
-FLT,1,2018,1,2018-06-20,2024-03-25,fulltext_candidate_unverified=1,CIK 1013857 = PEGASYSTEMS INC
 FSH,1,2006,1,2004-08-03,2006-11-10,unresolved=1,(none found)
 FSL,1,2006,1,2004-12-03,2006-12-04,unresolved=1,(none found)
-GOOGL,1,2013,1,2006-04-03,,fulltext_candidate_unverified=1,CIK 1652044 = Alphabet Inc. | CIK 1288776 = GOOGLE INC.
 KMI,1,2006,1,2000-12-12,2007-05-31,fulltext_candidate_unverified=1,"CIK 1506307 = KINDER MORGAN, INC. | CIK 1135017 = KINDER MORGAN MANAGEMENT LLC"
 KRFT,1,2014,1,2012-10-02,2015-07-06,unresolved=1,(none found)
 LO,1,2008,1,2008-06-11,2015-06-12,unresolved=1,(none found)
 MEDI,1,2006,1,2000-06-16,2007-06-01,unresolved=1,(none found)
+MXIM,1,2007,1,2000-05-10,2007-09-27,manual_override_year_rejected=1,CIK 743316 = MAXIM INTEGRATED PRODUCTS INC
 NAV,1,2006,1,1996-01-02,2006-12-20,manual_override_year_rejected=1,CIK 808450 = NAVISTAR INTERNATIONAL CORP
-NYX,1,2008,1,2007-10-25,2013-11-13,fulltext_candidate_unverified=1,CIK 1089044 = LABRANCHE & CO INC
 OMX,1,2006,1,1996-01-02,2008-06-23,fulltext_candidate_unverified=1,"CIK 1295230 = International Securities Exchange Holdings, Inc."
-PD,1,2006,1,1996-01-02,2007-03-20,unresolved=1,"CIK 1568100 = PagerDuty, Inc."
 PGL,1,2006,1,1996-01-02,2007-02-22,unresolved=1,(none found)
+PLL,1,2015,1,1996-01-02,2015-08-31,fulltext_candidate_unverified=1,CIK 794172 = MERIDIAN BIOSCIENCE INC
 PSA,1,2006,1,2005-08-19,,unresolved=1,CIK 1393311 = Public Storage
-QEP,1,2010,1,2010-07-01,2015-07-01,unresolved=1,(none found)
 SBNY,1,2022,1,2021-12-20,2023-03-15,fulltext_candidate_unverified=1,CIK 1083301 = TERAWULF INC.
-SRCL,1,2014,1,2008-11-19,2018-12-03,fulltext_candidate_unverified=1,CIK 861878 = STERICYCLE INC
-TGNA,1,2015,1,1996-01-02,2017-06-02,fulltext_candidate_unverified=1,CIK 39899 = TEGNA INC
 TSG,1,2006,1,2000-03-16,2007-04-02,unresolved=1,(none found)
 TT,1,2007,1,2002-05-13,2008-06-06,unresolved=1,CIK 1466258 = Trane Technologies plc
 VMC,1,2006,1,1999-07-01,,unresolved=1,CIK 1396009 = Vulcan Materials CO
+WBA,1,2025,1,1996-01-02,2025-08-28,fulltext_candidate_unverified=1,"CIK 1140859 = Cencora, Inc."
+WRK,1,2024,1,2015-07-02,2024-07-08,unresolved=1,(none found)

@@ -580,3 +580,49 @@ symbol — Legg Mason, Avon, Bear Stearns, BellSouth among them. A name that
 looks right isn't proof, so they stay marked as missing. That's the limit of
 what's possible without the commercial crosswalk, and worth revisiting if
 university access to it turns up.
+
+## 2026-08-18 — Asking the question the right way round
+
+We were about to hand-build a lookup table of which company owned which
+ticker symbol in which year — the thing a commercial data subscription would
+sell us. Before starting, I checked whether our automated approach had really
+run out of road. It hadn't. We'd just been asking the wrong question.
+
+Up to now, to confirm that a company owned a ticker, we searched that
+company's filings for the ticker itself. That works for something
+distinctive. It's useless for US Steel, whose ticker is the single letter
+"X", or Legg Mason's "LM", or Goodrich's "GR" — those letters appear on
+practically every page, so the one document that actually states the symbol
+is lost in the noise.
+
+Turning the question around fixed it: instead of "does the letter X appear in
+US Steel's filings?", ask "which of US Steel's filings states a ticker
+symbol, and what does it say?" The answer comes back "X". Same standard of
+proof — the company's own document, saying its own symbol — just a question
+it can actually answer.
+
+Twelve of the thirteen companies that had been stuck were resolved
+immediately. Four others had previously come back with the *wrong* answer,
+which was more troubling: the old search wasn't just failing, it was
+surfacing misleading documents. Then the same technique was pointed at the
+larger group — companies that were bought or renamed partway through, like
+Xerox, DuPont, Cigna, Time Warner, Medtronic — and confirmed 49 out of 50.
+
+**So, on the manual table: it was doable — about 160 companies, half a day —
+but it was the wrong tool.** Slower, harder to check, and it depends on the
+least reliable part of this whole process, which is me. Across seven rounds
+of proposals, about one in five of my guesses was wrong. I said one ticker
+belonged to Hospira; the records said Bimini Capital. I said another was
+Monster Worldwide; it was Lamar Advertising. Every one of those was caught by
+the checking step rather than by my own confidence. That's precisely why
+guessing is allowed here at all — nothing gets in on a guess.
+
+**Where we've ended up:** risk factors for 10,102 company-years, 96% of the
+target. This morning it was 71%. The year that was worst, 2006, went from 48%
+to 85%.
+
+The identification problem — figuring out which company a ticker belonged to
+— is essentially finished: 84 unresolved rows, down from 2,946. What's left
+is mostly the other problem, pulling the text out of unusually structured
+documents, which we deliberately stopped chasing because the way it fails is
+by quietly grabbing the wrong text.

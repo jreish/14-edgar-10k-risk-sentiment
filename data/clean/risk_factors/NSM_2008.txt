@@ -1,0 +1,723 @@
+” and the business outlook section in Part II of Form 10-K “Item 7: Management’s Discussion and Analysis of Financial Condition and Results of Operations.” These statements relate to, among other things, sales, gross margins, operating expenses, capital expenditures, R&D efforts, acquisitions of and investments in other companies, and asset dispositions and are indicated by words or phrases such as “anticipate,” “expect,”
+ “outlook,” “foresee,” “believe,” “could,” “intend,” “will,” and similar words or phrases. These statements involve risks and uncertainties that could cause actual results to differ materially from expectations. These forward-looking statements should not be relied upon as predictions of future events as we cannot assure you that the events or circumstances reflected in these statements will be achieved or will
+ occur. For a discussion of some of the factors that could cause actual results to differ materially from our forward-looking statements, see the discussion on “Risk Factors” that appears in Part I, Item 1A of this 2008 Form 10-K and other risks and uncertainties detailed in this and our other reports and filings with the Securities and Exchange Commission (SEC). We undertake no obligation to update forward-looking statements to reflect developments or information obtained
+ after the date hereof and disclaim any obligation to do so.
+
+Overview
+
+We are one of the world's leading semiconductor companies focused on analog and mixed-signal integrated circuits. Founded in 1959, we design, develop, manufacture and market high-value, high-performance, analog-intensive solutions that provide more energy efficiency, greater portability, better audio, sharper images and higher performance in electronic systems. We have a diversified product portfolio
+ which includes products such as power management circuits, audio and operational amplifiers, display drivers, communication interface products, and data conversion solutions. Our portfolio of over 13,000 products is sold to a diversified group of end-customers. Energy-efficiency is our overarching theme and our Powerwise® products enable systems that consume less power, extend battery life and generate less heat. We target a broad range of markets and applications such
+ as:
+
+ •
+
+ wireless handsets
+
+ •
+
+ automotive applications
+
+ •
+
+ wireless basestations
+
+ •
+
+ factory and office automation
+
+ •
+
+ networks
+
+ •
+
+ medical applications
+
+ •
+
+ industrial markets
+
+ •
+
+ photovoltaic systems
+
+ •
+
+ a broad range of portable applications
+
+We benefit from an extensive intellectual property portfolio that includes more than 3,000 patents. We are focused on supporting the innovation needed for a strong new product development pipeline. For fiscal 2008, our net sales were $1.9 billion, our operating income was $509.1 million and our net income was $332.3 million.
+
+A large portion of our sales come from analog products that are classified within the standard linear categories (as defined by the World Semiconductor Trade Statistics or WSTS). Standard linear products are defined by WSTS as amplifiers, data converters, regulators and references (power management), and interface products, representing the fundamental circuits that electronic systems
+ need in order to deal with continuously varying signals of the real world, such as light, sound, pressure, temperature and speed. Within the standard linear analog market, our greatest strengths have historically been in the power management, amplifier, and interface areas. We focus on high performance opportunities within the standard linear market, as high performance integrated circuits both have the most stringent performance requirements, enabling us to add the most value to our
+ customers, and tend to be more proprietary in nature, typically resulting in higher gross margins.
+
+Approximately 98 percent of our revenue in fiscal 2008 was generated from analog-based products. Our operations are organized into two groups: the Power Management Group and the Signal Path Group. The Power Management Group is responsible primarily for designing and developing a wide range of integrated circuits that convert and regulate voltages to ensure that electronic systems
+ operate to their fullest potential with the lowest overall power consumption or the highest energy efficiency. The Signal Path Group primarily supplies integrated circuits that handle the requisite analog technology for information or data as it travels from the point where it enters the electronic system, and is conditioned, converted and processed to the point where it is sent out. In addition to providing real world interfaces, these products are used extensively in signal
+ conditioning, signal conversion (from analog to digital and vice versa) and high-speed interfacing applications.
+
+Page 4 of 101
+
+National was incorporated in the state of Delaware in 1959 and our headquarters have been in Santa Clara, California since 1967. Our common stock is listed on the New York Stock Exchange under the trading symbol "NSM." Our fiscal year ends on the last Sunday of May and references in this document to fiscal 2008 refer to our fiscal year ended May 25, 2008. References to fiscal
+ 2007 refer to our fiscal year ended May 27, 2007 and references to fiscal 2006 refer to our fiscal year ended May 28, 2006. Our fiscal 2008, 2007 and 2006 each were 52-week years. On our "Investor Relations" website, located at www.national.com, we post the following filings as soon as reasonably practicable after they are electronically filed with or furnished to the SEC: our annual report on Form 10-K, our quarterly reports on Form 10-Q, our current reports on
+ Form 8-K, our proxy statement and any amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act. All of the filings on our website are available free of charge. We also maintain certain corporate governance documents on our website, including our Code of Conduct and Ethics, Governance Committee Charter, Compensation Committee Charter, Audit Committee Charter and other Governance Policies. We will provide a printed copy of any of
+ these documents to any shareholder who requests it. We do not intend for information found on our website to be part of this document or part of any other report or filing with the SEC.
+
+Recent Highlights
+
+Throughout fiscal 2008, we continued to focus on analog product areas, particularly higher-performance, higher-value areas where we are able to leverage the increasing need for energy efficiency. As a part of our business focus, we periodically identify opportunities to improve our cost structure or to divest or reduce involvement in product areas that are not in line with our business objectives, as well
+ as pursue acquisitions or business investments to gain access to key technologies that we believe augment our existing technical capability and support our business objectives. For example, in January 2008, we announced that we would dispose of certain manufacturing equipment and reduce the workforce at our wafer fabrication facilities as part of an action to modernize our facilities and rationalize our capacity. In April 2008, we announced a workforce reduction, primarily in product
+ line and support functions, as part of our effort to strategically align resources in connection with our focus on accelerating revenue growth in key market areas that require better power management and energy efficiency.
+
+In June 2007, our Board of Directors approved (i) a $1.5 billion accelerated stock repurchase program; and (ii) an additional $500 million stock repurchase program similar to our existing stock repurchase program announced in March 2007. We entered into two agreements with Goldman, Sachs & Co. (Goldman Sachs) to conduct the accelerated stock repurchase
+ program. See Note 12 to the Consolidated Financial Statements for a more complete discussion of these agreements. We also entered into a $1.5 billion unsecured bridge credit facility with an affiliate of Goldman Sachs and used the funds to finance the accelerated stock repurchase. See Note 9 to the Consolidated Financial Statements for a more complete discussion of the credit facility which was subsequently repaid. The $1.5 billion accelerated stock repurchase program was completed in
+ December 2007 with a total of 58.0 million shares repurchased.
+
+In connection with the accelerated stock repurchase program, we completed a public offering of $1.0 billion of senior unsecured notes in June 2007. The net proceeds from this offering were used to partially repay indebtedness under the unsecured bridge credit facility used to finance the accelerated stock repurchase. In July 2007, we entered into a $500 million unsecured term loan with
+ a consortium of banks and used the funds to repay the remaining amounts outstanding under the unsecured bridge credit facility. See Note 9 to the Consolidated Financial Statements for a more complete discussion of the senior unsecured notes and the bank term loan.
+
+In addition to the accelerated stock repurchase program, we repurchased an additional 27.9 million shares of our common stock during fiscal 2008 for $623.5 million as part of two $500 million stock repurchase programs: (i) the $500 million stock repurchase program announced in March 2007 and (ii) the $500 million stock repurchase program announced in June 2007. All of these shares were
+ repurchased in the open market. For all of fiscal 2008, we repurchased a total of 85.9 million shares of our common stock for $2,123.5 million through both the $1.5 billion accelerated stock repurchase program and the two $500 million stock repurchase programs.
+
+We also continued our dividend program in fiscal 2008, during which time we paid a total of $50.6 million in cash dividends. Subsequent to fiscal year end, on June 3, 2008, our Board of Directors declared a cash dividend of $0.06 per outstanding share of common stock, which was paid on July 7, 2008 to shareholders of record at the close of business on June 16, 2008.
+
+Page 5 of 101
+
+Products
+
+Semiconductors are integrated circuits (in which a number of transistors and other elements are combined to form a more complicated circuit) or discrete devices (such as individual transistors). In an integrated circuit, various components are fabricated in a small area or “chip” of silicon, which is then encapsulated in plastic, ceramic or other advanced forms of packaging and can then be
+ connected to a circuit board or substrate.
+
+We manufacture an extensive range of analog intensive and mixed-signal integrated circuits, which are used in numerous applications. While no precise industry definition exists for analog and mixed-signal devices, we consider products which process analog information or convert analog-to-digital or digital-to-analog as analog and mixed-signal devices.
+
+We are a leading supplier of analog and mixed-signal products, serving both broad based markets such as the industrial, communications, computing, consumer, medical and automotive markets, and more narrowly defined markets such as wireless handsets, displays, personal computers and communications infrastructure. Our analog and mixed-signal devices include:
+
+ •
+
+ operational and audio amplifiers
+
+ •
+
+ communication interface circuits
+
+ •
+
+ power references, regulators and switches
+
+ •
+
+ flat panel display drivers and signal processors
+
+ •
+
+ analog-to-digital or digital-to-analog converters
+
+ •
+
+ radio frequency integrated circuits
+
+Other product offerings that are not analog or mixed-signal include microcontrollers and embedded BluetoothTM solutions that collectively serve a wide variety of applications in the wireless, personal computer, industrial, automotive, consumer and communication markets.
+
+Our diverse portfolio of intellectual property enables us to develop building block products, application-specific standard products and custom large-scale integrations for our customers. Our high-performance building blocks and application-specific standard products allow our customers to solve challenging technical problems and to differentiate their systems in a way that is
+ beneficial to the end user.
+
+With our leadership in innovative packaging and analog process technology, we can address growth opportunities that depend upon the critical elements of efficiency, physical size and performance. We directly service top tier original equipment manufacturers (OEMs) in a number of markets and we reach a broader range of customers through our franchised distributors.
+
+Corporate Organization
+
+During fiscal 2008, our business operations were organized in two groups: the Power Management Group and the Signal Path Group. Each group is responsible for various product line business units. Many of our products in each group are part of our Powerwise® portfolio of products, which are parts that are deemed to be highly energy efficient relative to the function they are
+ performing.
+
+Power Management Group
+
+The Power Management Group includes four different business units in the power management area: Advanced Power, Infrastructure Power, Mobile Devices Power and Performance Power. The Power Management Group also contains the ASIC & Telecom business unit.
+
+Power management refers to the conversion and management of power consumption in electronic systems. Integrated circuits such as digital processors, analog-to-digital converters and light emitting diodes each require different power sources to operate efficiently. Power management integrated circuits convert and regulate voltages to ensure that electronic systems operate to their
+ fullest potential while achieving the lowest overall power consumption. Our high-performance power management portfolio provides valuable solutions to our customers to solve design problems in space and energy-constrained applications from feature-rich handheld devices to large line-powered systems. We are focusing efforts on developing power management circuits for energy conservation applications.
+
+Page 6 of 101
+
+The four business units that address power management design, develop and manufacture a wide range of products including:
+
+ •
+
+ high-efficiency switching voltage regulators and controllers
+
+ •
+
+ high-performance low drop-out voltage regulators
+
+ •
+
+ accurate LED drivers
+
+ •
+
+ precision voltage references
+
+ •
+
+ battery management integrated circuits
+
+ •
+
+ Mobile Pixel Link (MPL) serial bridges
+
+ •
+
+ display drivers
+
+We are growing our power management business by balancing our focus between broad customer needs and specific target markets. We continue to strengthen our broad portfolio of power management integrated circuits which can address customer needs in a variety of end markets such as consumer, industrial, medical, automotive and communications infrastructure. At the same time, we focus on
+ markets, such as personal mobile devices, which can provide more rapid growth opportunities from customers that value the performance our products deliver, such as energy efficiency and size or heat reduction.
+
+We continue to enhance the performance of power management building blocks in terms of providing greater efficiency, increased power density, tighter accuracy and wider voltage ranges. These building block products serve as the foundation for the development of highly integrated application-specific standard products for high volume applications.
+
+The ASIC & Telecom business unit supplies user-designed application-specific products in the form of standard cells, gate arrays and full custom devices. This business unit also supplies key telecommunications components for analog and digital line cards, as well as 8-bit and 16-bit microcontrollers. 
+
+Signal Path Group
+
+Key business units under the Signal Path Group include the Amplifiers, Audio, Data Conversion and Interface business units, as well as Hi-Rel operations. The signal path refers to the analog technology that is applied to the path that information or data travels along from the point where it enters the electronic equipment and is conditioned, converted and processed to the point where it is sent out. Our
+ signal path products provide a vital technology link that allows the user to connect to digital information and are used to enable and enrich the user experience of sight and sound from many electronic applications. In addition to providing the real-world interfaces, signal path products are used extensively in signal conditioning, signal conversion (from analog-to-digital and vice versa) and high-speed signal interfacing applications.
+
+ The Signal Path Group designs, develops and manufactures a wide range of products including:
+
+ •
+
+ high-speed and precision operational amplifiers
+
+ •
+
+ high-fidelity, low-power audio amplifiers
+
+ •
+
+ high-speed and precision analog-to-digital converters and digital-to-analog converters
+
+ •
+
+ precision timing products
+
+ •
+
+ high-speed communication interface and signal-conditioning products
+
+ •
+
+ thermal management products
+
+We are expanding our presence in key market segments by developing more high-performance analog products that can address applications in the consumer, industrial, medical, automotive and communications infrastructure markets. With our growing product portfolio of high-performance building blocks, we continue to improve performance by providing greater precision, higher speed and lower
+ power which our customers value. These building block products serve as the starting point for the development of highly integrated application-specific standard products for high volume applications.
+
+The Hi-Rel business unit of the Signal Path Group supplies integrated circuits and contract services to the high reliability market, which includes avionics, defense and aerospace customers.
+
+Worldwide Marketing and Sales Group, Technology Development Group and Manufacturing Operations Group
+
+Separate from our business operating groups, our corporate structure in fiscal 2008 includes a centralized Worldwide Marketing and Sales Group, a Technology Development Group and a Manufacturing Operations Group.
+
+Page 7 of 101
+
+The Worldwide Marketing and Sales Group is our global sales and marketing organization organized around the four major regions of the world where we operate. We define our four major regions as the Americas, Asia Pacific, Europe and Japan which is not a part of the Asia Pacific region. Reference to these regions elsewhere in this document is based on this definition.
+
+The Technology Development Group is a centralized worldwide organization primarily responsible for process development, technology infrastructure, quality assurance and shared engineering services. Process development consists of research in and development of proprietary processes for the manufacture of our products. Technology infrastructure provides a range of process libraries,
+ product cores and software, and the selection and support of computer aided design tools used in the design, layout and simulation of our products. Engineering services provide test development and reliability services used broadly across our product lines.
+
+The Manufacturing Operations Group is a centralized worldwide organization that manages all production, including outsourced manufacturing, global logistics and packaging technology.
+
+Segment Financial Information and Geographic Information
+
+For segment reporting purposes, each of our product line business units represents an operating segment as defined under Statement of Financial Accounting Standards No. 131, 
+Disclosures about Segments of an Enterprise and Related Information.
+
+Business units that have similarities, including economic characteristics, underlying technology, markets and
+ customers, are aggregated into larger segments. Under the criteria in SFAS No. 131, Analog is our only reportable segment for fiscal 2008. The remaining business units that are not included in the Analog reportable segment are grouped as “All Others.”
+
+Our business is dependent on the success of our Analog segment since it represents approximately 98 percent of our sales in fiscal 2008. Consequently, the Analog segment faces the same risks as those for the company as a whole including risks attendant to our foreign operations. For a more complete discussion of those risks, see the section under Risk Factors that appears in Part I,
+ Item 1A of this Form 10-K.
+
+For further financial information on the Analog reportable segment, as well as geographic information, refer to the information contained in Note 15, “Segment and Geographic Information,” in the Notes to the Consolidated Financial Statements included in Item 8.
+
+Marketing and Sales
+
+We market our products globally to OEMs and original design manufacturers (ODMs) through a direct sales force. Some of our major OEMs include:
+
+ •
+
+ Apple
+
+ •
+
+ Nokia Siemens Network
+
+ •
+
+ Seagate
+
+ •
+
+ LG Electronics
+
+ •
+
+ Panasonic
+
+ •
+
+ Sharp
+
+ •
+
+ L.M. Ericsson
+
+ •
+
+ Research in Motion Ltd
+
+ •
+
+ Siemens
+
+ •
+
+ Motorola
+
+ •
+
+ Robert Bosch
+
+ •
+
+ Sony Ericsson Mobile Communications
+
+ •
+
+ Nokia
+
+ •
+
+ Samsung
+
+ •
+
+ Tektronix
+
+It is becoming increasingly common in the technology industry for OEMs to use contract manufacturers to build their products and ODMs to design and build products. As a result, our design wins with major OEMs, particularly in the computing and cellular phone markets, can ultimately result in sales to a third party contract manufacturer or ODM.
+
+In addition to our direct sales force, we use distributors in our four geographic business regions, and approximately 54 percent of our fiscal 2008 net sales were made to distributors. In line with industry practices, we generally credit distributors for the effect of price reductions on their inventory of our products and, under specific conditions, we repurchase products that we have
+ discontinued. Distributors do not have the right to return product except under customary warranty provisions. The programs we offer to our distributors include the following:
+
+ •
+
+ Allowances involving pricing and volume.
+
+We refer to this as the “contract sales debit” program.
+
+ •
+
+ Allowances for inventory scrap.
+
+We refer to this as the “scrap allowance” program.
+
+Under the contract sales debit program, products are sold to distributors at standard prices published in price books that are broadly provided to our various distributors. Distributors are required to pay for this product within our standard commercial terms. After the initial purchase of the product, the distributor has the opportunity to request a price allowance for a particular
+ part number depending on the current market conditions for that specific part as well as volume
+
+Page 8 of 101
+
+considerations. This request is made prior to the distributor reselling the part. Once we have approved an allowance to the distributor, the distributor proceeds with the resale of the product and credits are issued to the distributor in accordance with the specific allowance that we approved. Periodically, we issue new distributor price books. For those parts for which the standard prices have been
+ reduced, we provide an immediate credit to distributors for inventory quantities they have on hand.
+
+Under the scrap allowance program, certain distributors are given a contractually defined allowance to cover the cost of any scrap they might incur. The amount of the allowance is specifically agreed upon with each distributor.
+
+Our regional facilities in the United States, Europe, Japan and Asia Pacific region handle local customer support. These customer support centers respond to inquiries on product pricing and availability, pre-sale customer technical support requests, order entry and scheduling, and post-sale support under our product warranty provisions. The technical support provided to our customers
+ consists of marketing activities that occur prior to sale of product to our customers and for which we have no contractual obligation and no fees are charged. Technical support consists primarily of aiding customers in product selection and answering questions about our products.
+
+We augment our sales effort with application engineers based in the field. These engineers are specialists in various aspects of our product portfolio and work with customers to identify and design our integrated circuits into customers’ products and applications. These engineers also help identify emerging markets for new products and are supported by our design centers in the
+ field or at manufacturing sites.
+
+We also provide web-based, on-line tools that allow customers and potential customers to select our devices, create a design using our parts, and simulate performance of that design.
+
+Customers
+
+Our top tencustomers combined represented approximately 58 percent of total accounts receivable at May 25, 2008 and approximately 62 percent at May 27, 2007.
+
+ Net sales to major customers as a percentage of total net sales were as follows:
+
+ Years Ended:
+
+ May 25,
+
+2008
+
+ May 27,
+
+2007
+
+ May 28,
+
+2006
+
+ Distributor:
+
+ Avnet
+
+ 15%
+
+ 14%
+
+ 12%
+
+ Arrow
+
+ 12%
+
+ 13%
+
+ 12%
+
+ OEM:
+
+ Nokia
+
+ 11%
+
+ *
+
+ *
+
+* less than 10%
+
+Although we do not have any other customers with sales greater than 10 percent, we do have several other large OEM customers that manufacture and market wireless handsets and other electronic products. These customers typically purchase a range of different products from us. If any one of these customers were to cease purchasing products from us within a very short timeframe, such as
+ within one quarter, it could have a negative impact on our financial results for that period.
+
+Backlog
+
+In accordance with industry practice, we frequently revise semiconductor backlog quantities and shipment schedules under outstanding purchase orders to reflect changes in customer needs. We rarely formally enforce binding agreements for the sale of specific quantities at specific prices that are contractually subject to price or quantity revisions, consistent with industry practice. For these reasons, we
+ do not believe it is meaningful to disclose the amount of backlog at any particular date.
+
+Seasonality
+
+We are affected by the seasonal trends in the semiconductor and related industries. We typically experience sequentially lower sales in our first and third fiscal quarters, primarily due to customer vacation and holiday schedules. Sales usually reach a seasonal peak in our fourth fiscal quarter. This typical seasonal trend did not occur during fiscal 2008 since 1) sales in our first quarter of fiscal 2008
+ were 3 percent higher than sales in the previous fourth quarter of fiscal 2007 and 2) our fiscal 2008 sales
+
+Page 9 of 101
+
+peaked in the second quarter of fiscal 2008. Sales in the third quarter of fiscal 2008 declined nearly 9 percent compared to the previous second quarter due to a combination of lower demand in the wireless handset market and holiday seasonality. Although sales in the last quarter of fiscal 2008 increased sequentially over the third quarter level, sales in the fourth quarter were lower than sales in each
+ of the first two quarters of fiscal 2008.
+
+Manufacturing
+
+The design of semiconductor and integrated circuit products is shaped by general market needs and customer requirements. Following product design and development, we generally produce integrated circuits in the following steps:
+
+ •
+
+ Wafer Fabrication.
+
+Product designs are compiled and digitized by state of the art design equipment and then transferred to silicon wafers in a series of complex precision processes that include oxidation, lithography, chemical etching, diffusion, deposition, implantation and metallization.
+
+ •
+
+ Wafer Sort.
+
+The silicon wafers are tested and separated into individual circuit devices.
+
+ •
+
+ Product Assembly.
+
+Tiny wires are used to connect the electronic circuits on the device to the stronger metal leads of the package in which the device is encapsulated for protection.
+
+ •
+
+ Final Test.
+
+The devices are subjected to a series of vigorous tests using computerized circuit testers and, for certain applications, environmental testers such as burn-in ovens, centrifuges, temperature cycle or moisture resistance testers, salt atmosphere testers and thermal shock testers.
+
+ •
+
+ Coating.
+
+Certain devices in the analog portfolio are designed to be used without traditional packaging. In this case, the integrated circuit is coated with a protective material to allow mounting directly onto a circuit board.
+
+Our product groups are supported by our global manufacturing infrastructure. We have developed a number of proprietary manufacturing processes and packaging technologies to support our broad portfolio of analog products. Substantially all of our products are manufactured in our three wafer fabrication facilities in Maine, Texas and Scotland. Assembly and test are performed primarily
+ at our facilities in Malaysia and China. At times and as needed, we outsource certain manufacturing functions to address capacity and other economic issues.
+
+Our wafer manufacturing processes include Bipolar, Metal Oxide Silicon, Complementary Metal Oxide Silicon and Bipolar Complementary Metal Oxide Silicon technologies, including Silicon Germanium. Our efforts are heavily focused on proprietary processes that support our analog portfolio of products, which address wireless handsets, other personal mobile devices and a broad variety of
+ other electronic applications. The feature size of the individual transistors on a chip is measured in microns; one micron equals one millionth of a meter. As products decrease in size and increase in functionality, our wafer fabrication facilities must be able to manufacture integrated circuits with sub-micron circuit pattern widths. This precision fabrication carries over to assembly and test operations, where advanced packaging technology and comprehensive testing are required to
+ address the ever increasing performance and complexity embedded in integrated circuits.
+
+Raw Materials
+
+Our manufacturing processes use certain key raw materials critical to our products. These include silicon wafers, certain chemicals and gases, ceramic and plastic packaging materials and various precious metals. We also rely on subcontractors to supply finished or semi-finished products which we then market through our sales channels. We obtain raw materials and semi-finished or finished products from
+ various sources, although the number of sources for any particular material or product is relatively limited. We believe our current supply of essential materials is sufficient to meet our needs. However, shortages have occurred from time to time and could occur again. Significant increases in demand, rapid product mix changes or natural disasters could affect our ability to procure materials or goods.
+
+Research and Development
+
+Our research and development efforts consist of research in metallurgical, electro-mechanical and solid-state sciences, manufacturing process development and product design. Research and development of most process technologies are conducted by our Technology Development Group. Specific product design and development is generally done in our business units. Total research and development expenses were
+ $363.0 million for fiscal 2008, or 19 percent of net sales, compared to $363.7 million for fiscal 2007, or 19 percent of net sales, and $326.6 million for fiscal 2006, or 15 percent of net sales.
+
+Although R&D expenses in fiscal 2008 were at a comparable level to R&D expenses in fiscal 2007, we have continued to increase our investment in research and development on analog product areas. Share-based compensation expense included in R&D expense for fiscal 2008 was $27.3 million compared to fiscal 2007 which was $31.7 million.
+
+Page 10 of 101
+
+This decrease in share-based compensation expenses more than offset higher spending in fiscal 2008 resulting from the acquisition of Xignal Technologies AG (Xignal) in January 2007, as well as higher payroll and employee benefits expenses. We are continuing to concentrate our research and development spending on analog products and underlying analog capabilities such as DC to DC power conversion, signal
+ conditioning, high-speed amplification and low-power analog-to-digital conversion. During fiscal 2008, research and development spending in the Analog segment was 3 percent higher compared to fiscal 2007 and we continue to invest in the development of new analog products that can serve applications in a wide variety of end markets such as personal mobile devices, communications infrastructure, alternative energy, industrial and medical. A significant portion of our research and
+ development is directed at power management technology.
+
+Patents
+
+We own numerous United States and non-U.S. patents and have many patent applications pending. We consider the development of patents and the maintenance of an active patent program advantageous to the conduct of our business. However, we believe that continued success will depend more on engineering, production, marketing, financial and managerial skills than on our patent program. We license certain of
+ our patents to other manufacturers and participate in a number of cross licensing arrangements and agreements with other parties. Each license agreement has unique terms and conditions, with variations as to length of term, royalties payable, permitted uses and scope. The majority of these agreements are cross-licenses in which we grant a broad license to our intellectual property in exchange for receiving a similar corresponding license from the other party, and none are exclusive. The
+ amount of income we have received from licensing agreements has varied in the past, and we cannot precisely forecast the amount and timing of future income from licensing agreements. On an overall basis, we believe that no single license agreement is material to us, either in terms of royalty payments due or payable or intellectual property rights granted or received.
+
+Employees
+
+At May 25, 2008, we employed approximately 7,300 people of whom approximately 3,200 were employed in the United States, 700 in Europe, 2,600 in Southeast Asia, 700 in China and 100 in other areas. We believe that our future success depends fundamentally on our ability to recruit and retain skilled technical and professional personnel. Our employees in the United States are not covered by collective
+ bargaining agreements. We consider our employee relations worldwide to be favorable.
+
+Competition
+
+Competition in the semiconductor industry is intense. With our focus on high-value analog, our major competitors include Analog Devices, Linear Technology, Maxim Integrated Products and Texas Instruments. In some cases, we may also compete with our customers. Competition is based on design and quality of products, product performance, price and service, with the relative importance of these factors
+ varying among products and markets. We cannot assure you that we will be able to compete successfully in the future against existing or new competitors or that our operating results will not be adversely affected by increased competition.
+
+Environmental Regulations
+
+To date, our compliance with foreign, federal, state and local laws and regulations that have been enacted to regulate the environment has not had a material adverse effect on our capital expenditures, earnings, competitive or financial position. For more information, see Item 3, “Legal Proceedings” and Note 14, “Commitments and Contingencies” to the Consolidated Financial
+ Statements in Item 8. However, we could be subject to fines, suspension of production, alteration of our manufacturing processes or cessation of our operations if we fail to comply with present or future statutes and regulations governing the use, storage, handling, discharge or disposal of toxic, volatile or otherwise hazardous chemicals used in our manufacturing processes.
+
+Page 11 of 101
+
+
+
+A description of the risk factors associated with our business is set forth below. We review and update our risk factors each quarter. The risks described below are not the only ones facing us. Additional risks not currently known to us or that we currently believe are immaterial may also impair our business operations, results or financial condition.
+
+You should read the following risk factors in conjunction with the factors discussed elsewhere in this and our other filings with the SEC and in materials incorporated by reference in these filings. These risk factors are intended to highlight certain factors that may affect our financial condition and results of operations and are not meant to be an exhaustive discussion of risks that
+ apply to companies like National with broad international operations. Like other companies, we are susceptible to macroeconomic downturns in the United States or abroad that may affect the general economic climate and our performance and the performance of our customers. Similarly, the price of our stock is subject to volatility due to fluctuations in general market conditions, differences in our results of operations from estimates and projections generated by the investment community,
+ and other factors beyond our control.
+
+RISK FACTORS RELATING TO GENERAL BUSINESS CONDITIONS
+
+A large portion of our revenues is dependent on the wireless handset market.
+
+The wireless handset market is a significant source of our overall sales. New products are being developed to address new features and functionality in handsets, such as advanced color displays, advanced audio, lighting features and battery management that can adequately handle the demands of these advanced features. Due to high levels of competition, as well as complex technological requirements, we
+ cannot assure you that we will continue to be successful in this targeted market. Although the worldwide handset market is large, growth trends and other variables are often uncertain and difficult to predict. Since the wireless handset market is a consumer-driven market, changes in the economy that affect consumer demand can adversely affect our business and operating results.
+
+Reduced consumer or corporate spending due to uncertainties in the macroeconomic environment could adversely affect our revenues and gross margins.
+
+We depend on demand from the consumer, original equipment manufacturer, contract manufacturing, industrial, automotive and other markets we serve for the end market applications which incorporate our products. Our revenues and gross margins are based on certain levels of consumer and corporate spending. If our projections of these expenditures fail to materialize due to reductions in consumer or corporate
+ spending as a result of uncertain conditions in the macroeconomic environment, such as continuing increases in oil prices, fluctuations in interest rates, subprime mortgage failures, or otherwise, our revenues and gross margins could be adversely affected.
+
+Conditions inherent in the semiconductor industry may cause periodic fluctuations in our operating results.
+
+Rapid technological change and frequent introduction of new technology leading to more complex and integrated products characterize the semiconductor industry. The result is a cyclical environment with potentially short product life cycles, even with analog products which form the core of our strategic focus. We have seen and may see in the future significant and rapid increases and decreases in product
+ demand. Substantial capital and R&D investment are required to support products and manufacturing processes in the semiconductor industry, which amplify the effect of this cyclicality although less capital investment is needed for analog products than for many other semiconductor products. As a result of this environment, we have experienced in the past and may experience in the future periodic fluctuations in our operating results. Market shifts in product mix toward or away from
+ higher margin products, including analog products, may also have a significant impact on our operating results. As a result of these and other factors, our financial results could fluctuate significantly from period to period.
+
+Our business will be harmed if we are unable to compete successfully in our markets.
+
+Competition in the semiconductor industry is intense. Our major competitors include Analog Devices, Linear Technology, Maxim Integrated Products and Texas Instruments. These companies sell competing products into some of the same markets that we target. In some cases, we may also compete with our customers. Competition is based on design and quality of products, product performance, price and service,
+ with the relative importance of these factors varying among products, markets and customers. We cannot assure you that we will be able to compete successfully in the future against existing or new competitors or that our operating results will not be adversely affected by increased competition.
+
+Page 12 of 101
+
+RISK FACTORS RELATING TO INTERNATIONAL OPERATIONS
+
+We operate in the global marketplace and face risks associated with worldwide operations.
+
+During fiscal 2008, approximately 80 percent of our sales were derived from customers in international markets. We expect that international sales will continue to account for a significant majority of our total revenue in future years. We have manufacturing facilities outside the United States in the United Kingdom, Malaysia and China. We are subject to the economic and political risks inherent in
+ international operations, including the risks associated with ongoing uncertainties and political and economic instability in many countries around the world. In addition, the management of global operations subjects us to risks associated with trade balance issues, currency controls, differences in local business and cultural factors, fluctuations in interest and currency exchange rates, and difficulties in staffing and managing foreign operations. Although we did not experience any
+ materially adverse effects from our international operations as a result of these types of factors in fiscal 2008, one or more of these factors could have a material adverse effect on us in the future.
+
+Recent events and global disruptions could adversely affect our financial performance and operating results.
+
+Terrorist activities worldwide and hostilities in and between nation states, including the continuing hostilities and violence in Iraq and the threat of future hostilities involving the United States and other countries, may cause uncertainty and instability in the overall state of the global economy or in the industries in which we operate. We have no assurance that the consequences from these events
+ will not disrupt our operations in either the United States or other regions of the world. Continued increases in oil prices, as well as spreading subprime mortgage failures, could also affect our operations. Pandemic illnesses that spread globally and/or substantial natural disasters, as well as geopolitical events, may also affect our future costs, operating capabilities and revenues.
+
+We have significant manufacturing operations in China and, as a result, are subject to risks.
+
+Since we began production in our assembly and test facility in Suzhou, China in fiscal 2005, the factory has increased its output. Our operations in China are subject to the economic and political situation there. Our ability to operate in China may be adversely affected by changes in China’s laws and regulations, including those relating to taxation, import and export tariffs, environmental
+ regulations, land use rights, property and other matters. We believe that our operations in China are in compliance with all applicable legal and regulatory requirements. However, we cannot assure you that China’s central or local governments will not impose new, stricter regulations or interpretations of existing regulations that would require additional expenditures. Changes in the political environment or government policies could result in revisions to laws or regulations or
+ their interpretation and enforcement, increased taxation, restrictions on imports, import duties or currency revaluations. In addition, a significant destabilization of relations between China and the United States could result in restrictions or prohibitions on our operations in China. The Chinese legal systems relating to foreign trade and intellectual property are relatively new and continue to evolve. Enforcement of existing laws or agreements may be sporadic and implementation and
+ interpretation of laws may be inconsistent. Moreover, there is a high degree of fragmentation among regulatory authorities resulting in uncertainties as to which authorities have jurisdiction over particular parties or transactions.
+
+We are subject to fluctuations in the exchange rate of the U.S. dollar and foreign currencies.
+
+While we transact business primarily in U.S. dollars, and most of our revenues are denominated in U.S. dollars, a portion of our costs and revenues is denominated in other currencies, such as the euro, the Japanese yen, pound sterling and certain other Asian currencies. As a result, changes in the exchange rates of these or any other applicable currencies to the U.S. dollar will affect our net sales,
+ costs of goods sold and operating margins. We have a program to hedge our exposure to currency rate fluctuations, but our hedging program may not be fully effective in preventing foreign exchange losses.
+
+We are subject to export restrictions and laws affecting trade and investments.
+
+As a global company headquartered in the United States, we are subject to U.S. laws and regulations that limit and restrict the export of some of our products and related product information. Compliance with these laws has not significantly limited our operations or our sales in the recent past but could significantly limit them in the future. We maintain an export compliance program but there are risks
+ that the compliance controls could be circumvented, exposing us to legal liabilities. We must also comply with export restrictions and laws imposed by other countries affecting trade and investments. Although these restrictions and laws have not significantly restricted our operations in the recent past, there is a risk that they could in the future.
+
+Page 13 of 101
+
+RISK FACTORS RELATING TO SALES AND OPERATIONS
+
+Our performance depends on the availability and cost of raw materials, utilities, critical manufacturing equipment and third-party manufacturing services.
+
+Our manufacturing processes and critical manufacturing equipment require that certain key raw materials and utilities be available. Limited or delayed access to or increases in the cost of these items, or the inability to implement new manufacturing technologies or install manufacturing equipment on a timely basis could adversely affect our results of operations. We subcontract a portion of our wafer
+ fabrication and assembly and testing of our integrated circuits. We depend on a limited number of third parties, most of whom are located outside of the United States, to perform these subcontracted functions. We do not have long-term contracts with all of these third parties. Reliance on these third parties involves risks, including possible shortages of capacity in periods of high demand. Although we did not experience any material difficulties with supplies or subcontractors in
+ fiscal 2008, we have had difficulties in the past and could experience them in the future.
+
+A substantial portion of our sales are made to franchised distributors and the termination of a franchise agreement with one or more distributors could result in a negative impact on our business.
+
+In fiscal 2008, our distributors accounted for approximately 54 percent of our sales, with two of our distributors accounting for 27 percent of total sales. Distributors typically sell products from several of our competitors along with our products. A significant reduction of effort to sell National products or the termination of one or more distributors may reduce our access to certain end-customers and
+ adversely impact our ability to sell our products. The termination of a franchise agreement with a distributor could also result in the return of our inventory held by the distributor.
+
+Our profit margins may vary over time.
+
+Our profit margins may be adversely affected by a number of factors, including decreases in our shipment volume, reductions in, or obsolescence of our inventory and shifts in our product mix. In addition, the competitive market environment in which we operate may adversely affect pricing for our products, although we try to emphasize higher margin products. Because we own most of our manufacturing
+ capacity, a significant portion of our operating costs are fixed, including costs associated with depreciation expense. In general, these costs do not decline with reductions in customer demand or utilization of our manufacturing capacity. If we are unable to utilize our manufacturing facilities at a high level, the fixed costs associated with these facilities will result in higher average unit costs and lower gross margins.
+
+We make forecasts of customer demand that may be inaccurate.
+
+Our ability to match inventory and production mix with the product mix needed to fill current orders and orders to be delivered in any given quarter may affect our ability to meet that quarter’s revenue forecast. To be able to accommodate customer requests for shorter shipment lead times, we manufacture product based on customer forecasts. These forecasts are based on multiple assumptions. While we
+ believe our relationships with our customers, combined with our understanding of the end markets we serve, provide us with the ability to make reliable forecasts, if we inaccurately forecast customer demand, it could result in inadequate, excess or obsolete inventory that would reduce our profit margins.
+
+We are subject to warranty claims, product recalls and product liability.
+
+We could be subject to warranty or product liability claims that could lead to significant expenses as we defend such claims or pay damage awards. In the event of a warranty claim, we may also incur costs if we compensate the affected customer. We maintain product liability insurance, but there is no guarantee that such insurance will be available or adequate to protect against all such claims. We may
+ incur costs and expenses relating to a recall of one of our customers’ products containing one of our devices. Although costs or payments we have made in connection with warranty claims or product recalls in the past have not materially affected our results of operations and financial condition, they could in the future.
+
+We may be harmed by natural disasters and other disruptions.
+
+Our worldwide operations could be subject to natural disasters and other disruptions. Our corporate headquarters are located near major earthquake fault lines in California. In the event of a major earthquake, or other natural or manmade disaster, we could experience loss of life of our employees, destruction of facilities or other business interruptions. The operations of our suppliers could also be
+ subject to natural disasters and other disruptions, which could cause shortages and price increases in various essential materials. We use third party freight firms for nearly all of our shipments from vendors
+
+Page 14 of 101
+
+and from our wafer manufacturing facilities to assembly and test sites and for shipments to customers of our final product. This includes ground, sea and air freight. Any significant disruption of our freight shipments globally or in certain parts of the world, particularly where our operations are concentrated, would materially affect our operations. We maintain property and business interruption
+ insurance, but there is no guarantee that such insurance will be available or adequate to protect against all costs associated with such disasters and disruptions.
+
+RISK FACTORS RELATING TO R&D, INTELLECTUAL PROPERTY AND LITIGATION
+
+We may experience delays in introducing new products or market acceptance of new products may be below our expectations.
+
+Rapidly changing technologies and industry standards, along with frequent new product introductions, characterize the industries in which our primary customers operate. As our customers evolve and introduce new products, our success depends on our ability to anticipate and adapt to these changes in a timely and cost-effective manner by developing and introducing into the market new products that meet the
+ needs of our customers. We believe that continued focused investment in research and development, especially the timely development, introduction and market acceptance of new analog products, is a key factor to successful growth and the ability to achieve strong financial performance. Successful development and introduction of these new products are critical to our ability to maintain a competitive position in the marketplace. We will continue to invest resources to develop more highly
+ integrated solutions and building block products, both primarily based on our analog capabilities. We will continue to target applications such as wireless handsets, other portable devices and applications in other broad markets that require analog technology, especially in areas where analog technology can be used to achieve energy efficiencies. We cannot assure you that we will be successful in timely developing and introducing successful new products, and a failure to bring new
+ products to market may harm our operating results. We also cannot assure you that products that may be developed in the future by our competitors will not render our products obsolete or non-competitive.
+
+Our products are dependent on the use of intellectual property that we need to protect
+
+.
+
+We rely on patents, trade secrets, trademarks, mask works and copyrights to protect our products and technologies, and have a program to file applications for and obtain patents, trademarks, mask works and copyrights in the United States and in selected foreign countries where we believe filing for such protection is appropriate. Effective patent, trademark, copyright and trade secret protection may be
+ unavailable, limited or not applied for in some countries. Some of our products and technologies are not covered by any patent or patent application. In addition, we cannot assure you that:
+
+ •
+
+ the patents owned by us or numerous other patents which third parties license to us will not be invalidated, circumvented, challenged or licensed to other companies; or
+
+ •
+
+ any of our pending or future patent applications will be issued within the scope of the claims sought by us, if at all.
+
+We also seek to protect our proprietary technologies, including technologies that may not be patented or patentable, in part by confidentiality agreements and, if applicable, inventors’ rights agreements with our collaborators, advisors, employees and consultants. We cannot assure you that these agreements will not be breached, that we will have adequate remedies for any breach
+ or that our collaborators will not assert rights to intellectual property arising out of our research collaborations. In addition, we may not be able to enforce these agreements globally. Some of our technologies have been licensed on a non-exclusive basis from other companies, which may license such technologies to others, including our competitors. If necessary or desirable, we may seek licenses under patents or intellectual property rights claimed by others. However, we cannot assure
+ you that we will obtain such licenses or that the terms of any offered licenses will be acceptable to us. The failure to obtain a license from a third party for technologies we use could cause us to incur substantial liabilities and to suspend the manufacture or shipment of products or our use of processes requiring the technologies.
+
+We are subject to litigation risks.
+
+All industries, including the semiconductor industry, are subject to legal claims. We are involved in a variety of routine legal matters that arise in the normal course of business. Further discussion of certain specific material legal proceedings we are involved with is contained in Note 14 to the Consolidated Financial Statements. We believe it is unlikely that the final outcome of these legal claims
+ will have a material adverse effect on our consolidated financial position or results of operations. However, litigation is inherently uncertain and unpredictable. An unfavorable resolution of any particular legal claim or proceeding could have a material adverse effect on our consolidated financial position or results of operations.
+
+Page 15 of 101
+
+RISK FACTORS RELATED TO OUR DEBT
+
+Increased leverage may harm our financial condition and results of operations.
+
+On June 7, 2007, we announced that we would incur $1.5 billion of indebtedness under a bridge credit facility to purchase shares of our common stock through an accelerated stock repurchase program. We subsequently issued $1.0 billion in senior unsecured notes and entered into a bank loan in the aggregate principal amount of $0.5 billion to fully repay the indebtedness under the bridge credit facility. As
+ a result, our total liabilities at the end of the fiscal 2008 were $2.0 billion, an increase of $1.5 billion from the end of fiscal 2007. This increase from fiscal 2007 and any future increase in our level of indebtedness will have several important effects on our future operations, including, without limitation:
+
+ •
+
+ we have additional cash requirements in order to support the payment of principal and interest on our outstanding indebtedness;
+
+ •
+
+ increases in our outstanding indebtedness and leverage may increase our vulnerability to adverse changes in general economic and industry conditions, as well as to competitive pressure;
+
+ •
+
+ our ability to obtain additional financing for working capital, capital expenditures, general corporate and other purposes may be limited particularly in light of current credit market conditions; and
+
+ •
+
+ our flexibility in planning for, or reacting to, changes in our business and our industry may be limited.
+
+Our ability to make payments of principal and interest on our indebtedness depends upon our future performance, which is subject to general economic conditions, industry cycles and financial, business and other factors affecting our consolidated operations, many of which are beyond our control. If we are unable to generate sufficient cash flow from operations in the future to service
+ our debt, we may be required to, among other things:
+
+ •
+
+ seek additional financing in the debt or equity markets;
+
+ •
+
+ refinance or restructure all or a portion of our indebtedness, including the notes;
+
+ •
+
+ sell selected assets;
+
+ •
+
+ reduce or delay planned capital expenditures; or
+
+ •
+
+ reduce or delay planned operating expenditures.
+
+Such measures might not be sufficient to enable us to service our debt. In addition, any such financing, refinancing or sale of assets might not be available on economically favorable terms, if at all.
+
+Rises in interest rates could adversely affect our financial condition.
+
+An increase in prevailing interest rates has an immediate effect on the interest rates charged on our variable rate debt, including the senior floating rate notes and bank debt, which rise and fall upon changes in interest rates on a quarterly basis. Although interest rates actually decreased in fiscal 2008, any increased interest expense associated with increases in interest rates affects our cash flow
+ and our ability to service our debt. As a protection against rising interest rates, we may enter into agreements such as interest rate swaps, caps, floors and other interest rate exchange contracts. However, the other parties to the agreements may fail to perform or the terms may be unfavorable to us depending on rate movements.
+
+RISK FACTORS RELATING TO PERSONNEL AND MERGER AND ACQUISITION ACTIVITY
+
+We may not be able to attract or retain employees with skills necessary to remain competitive in our industry.
+
+Our continued success depends in part on the recruitment and retention of skilled personnel, including technical, marketing, management and staff personnel. Experienced personnel in the semiconductor industry, particularly in our targeted analog areas, are in high demand and competition for their skills is intense. We cannot assure you that we will be able to successfully recruit and retain the key
+ personnel we require.
+
+We may pursue acquisitions, investments and divestitures that could harm our operating results and may disrupt our business.
+
+We have made and will continue to consider making strategic business investments, alliances and acquisitions we consider necessary to gain access to key technologies that we believe will augment our existing technical capability and support our business model objectives. Acquisitions and investments involve risks and uncertainties that may unfavorably impact our future financial performance. We may not be
+ able to integrate and develop the technologies we acquire as expected. If the
+
+Page 16 of 101
+
+technology is not developed in a timely manner, we may be unsuccessful in penetrating target markets. With any acquisition there are risks that future operating results may be unfavorably affected by acquisition related costs, including in-process R&D charges and incremental R&D spending.
+
+We have made and will continue to consider making strategic divestitures. With any divestiture, there are risks that future operating results could be unfavorably impacted if targeted objectives, such as cost savings, are not achieved or if other business disruptions occur as a result of the divestiture or activities related to the divestiture.
+
+RISK FACTORS RELATING TO TAX AND ENVIRONMENTAL REGULATIONS
+
+We may be affected by higher than expected tax rates or exposure to additional income tax liabilities.
+
+As a global company, our effective tax rate is dependent upon the geographic composition of worldwide earnings and tax regulations governing each region. We are subject to income taxes in both the United States and various foreign jurisdictions, and complex analyses and significant judgment are required to determine worldwide tax liabilities. From time to time, we have received notices of tax assessments
+ in various jurisdictions where we operate. We may receive future notices of assessments and the amounts of these assessments or our failure to favorably resolve such assessments may have a material adverse effect on our financial condition or results of operations.
+
+We have significant amounts of deferred tax assets. The recognition of deferred tax assets is reduced by a valuation allowance if it is more likely than not that the tax benefits associated with the deferred tax benefits will not be realized. If we are unable to generate sufficient future taxable income in certain jurisdictions, or if there is a significant change in the actual
+ effective tax rates or the time period within which the underlying temporary differences become taxable or deductible, we could be required to increase the valuation allowances against our deferred tax assets, which would cause an increase in our effective tax rate. A significant increase in our effective tax rate could have a material adverse effect on our financial condition or results of operations.
+
+We are subject to many environmental laws and regulations.
+
+Increasingly stringent environmental regulations restrict the amount and types of materials that can be released from our operations into the environment. While the cost of compliance with environmental laws has not had a material adverse effect on our results of operations historically, compliance with these and any future regulations could require significant capital investments in pollution control
+ equipment or changes in the way we make our products. In addition, because we use hazardous and other regulated materials in our manufacturing processes, we are subject to risks of liabilities and claims, regardless of fault, resulting from accidental releases, including personal injury claims and civil and criminal fines. The following should also be considered:
+
+ •
+
+ we currently are remediating past contamination at some of our sites;
+
+ •
+
+ we have been identified as a potentially responsible party at a number of Superfund sites where we (or our predecessors) disposed of wastes in the past; and
+
+ •
+
+ significant regulatory and public attention on the impact of semiconductor operations on the environment may result in more stringent regulations, further increasing our costs.
+
+For more information on environmental matters, see Note 14 to the Consolidated Financial Statements.
