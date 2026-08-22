@@ -6,3 +6,6 @@ __pycache__/
 .DS_Store
 *.duckdb.wal
 .Rproj.user
+.Rhistory
+.RData
+.Rapp.history
