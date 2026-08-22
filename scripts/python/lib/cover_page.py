@@ -47,11 +47,30 @@ _PHRASE_PATTERNS = [
     re.compile(rf"under\s+the\s+(?:ticker\s+|trading\s+)?symbols?\s*:?\s*{_Q}?({_TICKER}){_Q}?"),
     # "ticker symbol: XYZ" / "trading symbol 'XYZ'"
     re.compile(rf"(?:ticker|trading)\s+symbols?\s*:?\s*{_Q}?({_TICKER}){_Q}?"),
-    # "(NYSE: XYZ)" / "Nasdaq Global Select Market: XYZ"
-    re.compile(rf"(?:NYSE|NASDAQ|Nasdaq|NYSE\s+American|NYSE\s+MKT|AMEX|OTC)\s*[:\-–]\s*({_TICKER})\b"),
     # "symbol 'XYZ'" -- quotes required here, since bare "symbol" + word is noisy
     re.compile(rf"symbols?\s*:?\s*{_Q}({_TICKER}){_Q}"),
 ]
+
+# "(NYSE: XYZ)" is applied ONLY to the cover-page region, unlike the patterns
+# above which run over the whole document.
+#
+# Confirmed false positive: Cintas's 2015 10-K contains "...agreement to sell
+# its investment in the Shred-it Partnership to Stericycle, Inc. (Nasdaq:
+# SRCL)...". Read over the full document, that parenthetical made Cintas
+# "declare" SRCL, and SRCL 2015 was then attributed to Cintas's filing --
+# through the cover-page verification that exists to PREVENT exactly this.
+# Mondelez's spin-off 10-K names KRFT the same way, taking Kraft Foods Group's
+# 2013 row with it.
+#
+# The asymmetry is the whole point: a company states its OWN symbol as "under
+# the symbol X" or in the Section 12(b) table, whereas the parenthetical
+# "(Nasdaq: X)" form is how it names SOMEBODY ELSE -- an acquirer, a target, a
+# spun-off sibling. Confining it to the cover page keeps the handful of
+# registrants who use it about themselves, where no third party appears.
+_COVER_REGION_CHARS = 15000
+_EXCHANGE_COLON = re.compile(
+    rf"(?:NYSE|NASDAQ|Nasdaq|NYSE\s+American|NYSE\s+MKT|AMEX|OTC)\s*[:\-–]\s*({_TICKER})\b"
+)
 
 
 def _symbols_from_cover_table(doc) -> set[str]:
@@ -101,6 +120,8 @@ def declared_symbols(html_bytes: bytes) -> set[str]:
     for pattern in _PHRASE_PATTERNS:
         for match in pattern.finditer(text):
             symbols.add(match.group(1))
+    for match in _EXCHANGE_COLON.finditer(text[:_COVER_REGION_CHARS]):
+        symbols.add(match.group(1))
     return symbols
 
 

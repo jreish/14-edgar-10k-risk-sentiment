@@ -1102,3 +1102,93 @@ handling and the failure mode is silently capturing the wrong text. Of
 
 CRSP would still settle the last handful faster, but it is no longer worth
 buying for this dataset.
+
+---
+
+## 2026-08-18 (audit) — Grilling the result, and finding a bug I introduced
+
+Coverage 96.0% -> **95.9%** (Item 1A 10102 -> 10088). The count went down
+because three attributions were wrong and one of my own verification patterns
+was producing false positives. A coverage number cannot detect either: a row
+pointing at the wrong company's 10-K looks exactly like a correct one and
+*inflates* the total. That asymmetry is why this audit was worth running.
+
+### Finding 1: Merck's 2006-2009 risk factors were Schering-Plough's
+
+The detector was cheap and general: **does one (cik, year) serve more than one
+ticker?** 56 pairs did. Most are legitimate dual-class listings (GOOG/GOOGL,
+FOX/FOXA, DISCA/DISCK, NWS/NWSA, UA/UAA), and those always share a ticker
+prefix. Three pairs did not:
+
+  - **MRK + SGP on CIK 310158, 2006-2009.** 310158 is Merck today but was
+    SCHERING PLOUGH CORP until the November 2009 reverse merger, in which
+    Schering-Plough was the legal acquirer, renamed itself Merck & Co and
+    kept its own CIK. Real Merck was CIK 64978 (now Merck Sharp & Dohme).
+    So MRK spent four years on Schering-Plough's filings.
+  - **CTAS + SRCL on CIK 723254, 2015** (see finding 2).
+  - **MDLZ + KRFT on CIK 1103982, 2013.** Mondelez retained the original
+    Kraft Foods Inc CIK through the 2012 split; Kraft Foods Group is the new
+    registrant, CIK 1545158.
+
+MRK is pitfall #2 in a form the per-year check cannot catch: `validate_year`
+confirms the CIK **filed a 10-K near that year**, which was true, but not that
+it **held the ticker** then. This is NOT a regression from the per-year fix --
+the old stint-anchored check would have accepted it too -- but it is a real
+limit of the method, and worth stating plainly rather than leaving implied.
+
+### Finding 2: a false positive in the cover-page verifier (mine, this session)
+
+`SRCL 2015` resolved to **Cintas**, via `fulltext_coverpage_verified` -- the
+verification layer built specifically to prevent wrong-company attribution
+approved a wrong-company attribution.
+
+Cause: Cintas's 2015 10-K contains "...agreement to sell its investment in the
+Shred-it Partnership to Stericycle, Inc. (Nasdaq: SRCL)...", and
+`lib/cover_page`'s `(NYSE|Nasdaq): XYZ` pattern ran over the whole document,
+so Cintas "declared" SRCL. Mondelez's spin-off 10-K names KRFT the same way.
+
+The asymmetry I had missed: a company states its OWN symbol as "under the
+symbol X" or in the Section 12(b) table. The parenthetical "(Nasdaq: X)" form
+is how it names SOMEBODY ELSE -- an acquirer, a target, a spun-off sibling.
+That pattern is now confined to the cover-page region (first 15,000 chars),
+where no third party appears; the other patterns still run over the whole
+document. The 7-case cover_page suite still passes unchanged.
+
+**Consequence:** `data/raw/coverpage_symbols.json` (7,652 filings) had been
+computed with the buggy pattern, so every entry was suspect and was discarded
+rather than reused. Rebuilding it is most of why the audit rerun was slow.
+Net effect on resolution: `fulltext_coverpage_verified` 950 -> 893.
+
+### The guard: 09_validate_resolution.py
+
+A one-off fix does not stop recurrence, so the detector is now a pipeline
+stage with five hard invariants (non-zero exit, not advisory):
+
+1. **Unrelated tickers sharing a CIK+year.** Dual-class pairs share a prefix;
+   MRK/SGP and CTAS/SRCL do not. This check found all three bugs above.
+   `CPRI/KORS` is explicitly allowlisted -- Michael Kors renamed to Capri, so
+   both tickers point at the same correct filings; that is duplication, not
+   misattribution.
+2. Overlapping override ranges. `find_override` returns the first match, so an
+   overlap would make resolution silently order-dependent.
+3. No stored section below the plausibility floor.
+4. Every universe row accounted for in `missing_records` (pitfall #4).
+5. No extraction file claimed by two rows.
+
+All five now pass.
+
+### The override year-check earned its keep again
+
+Two override years were rejected at resolution time and recorded as
+`manual_override_year_rejected`: MXIM 2007 and NAV 2006, where the proposed
+CIK filed no 10-K within 400 days of that year's snapshot. Those are ranges I
+wrote too wide, caught automatically and surfaced as visible gaps rather than
+silent misattribution -- the same guard that caught BHGE earlier.
+
+### What this says about the method
+
+Every bug found in this dataset has been of one shape: **something that looks
+like data but isn't**. Stub extractions counted as risk factors, a wrong
+company's 10-K counted as the right one, a network failure counted as a
+negative result. None are visible in a coverage number; all inflate it. The
+counts that go DOWN after an audit are the ones to trust.

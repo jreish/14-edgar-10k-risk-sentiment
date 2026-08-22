@@ -626,3 +626,54 @@ The identification problem — figuring out which company a ticker belonged to
 is mostly the other problem, pulling the text out of unusually structured
 documents, which we deliberately stopped chasing because the way it fails is
 by quietly grabbing the wrong text.
+
+## 2026-08-18 — Auditing our own work, and finding Merck wasn't Merck
+
+Went looking for what we'd got wrong. Found three companies attributed to the
+wrong filings, and one bug in the checking code I'd written earlier the same
+day. The total went down slightly as a result — from 10,102 risk-factor
+sections to 10,088 — which is the right direction when the thing you removed
+was wrong.
+
+**Merck.** For 2006 through 2009 we had been storing Schering-Plough's risk
+factors under Merck's name. The reason is a genuinely confusing piece of
+corporate history: when the two merged in 2009, Schering-Plough was
+technically the buyer, renamed itself Merck, and kept its own filing account.
+So the account that says "Merck" today was filing as Schering-Plough back
+then. Our check confirmed that the account had filed an annual report that
+year — true — but not that it was Merck at the time.
+
+The way we found it was simple and worth keeping: look for cases where two
+different ticker symbols point at the same company account in the same year.
+Usually that's harmless — Google has two share classes, GOOG and GOOGL, both
+filed together. But those always look alike. "MRK and SGP" don't, and neither
+do "CTAS and SRCL" or "MDLZ and KRFT". Three real errors, found by one cheap
+question.
+
+**The bug in my own checking code** is the one worth dwelling on. Earlier I
+built a check that reads a filing and works out which ticker symbol the
+company claims for itself — the thing that stopped us attributing Teradyne's
+data to Trump Entertainment. It had a hole. Cintas's annual report mentions
+selling a business to "Stericycle, Inc. (Nasdaq: SRCL)" — naming *another*
+company and its symbol. My code read that as Cintas claiming SRCL, and
+Stericycle's 2015 row was duly filed under Cintas.
+
+The distinction I'd missed is that a company writes its own symbol one way
+("trades under the symbol X") and other companies' symbols another way
+("(Nasdaq: X)"). The second form now only counts if it appears on the cover
+page, where no other company gets mentioned.
+
+That also meant throwing away 7,652 cached results computed with the faulty
+rule, which is why this took a while to redo.
+
+**The lasting part** is a new checking step that runs every time the pipeline
+does, testing five things that would otherwise fail silently — including the
+two-tickers-one-company test that caught all of this. It passes now, and it
+will fail loudly if anything like this comes back.
+
+**The general lesson**, which is now written into the technical notes: every
+mistake we've found in this dataset has been something that *looked* like
+data but wasn't — a placeholder counted as a risk disclosure, one company's
+report counted as another's, a network failure counted as a real answer. None
+of them show up as a lower number. They all show up as a higher one. So the
+figures that drop after an audit are the ones worth trusting.
