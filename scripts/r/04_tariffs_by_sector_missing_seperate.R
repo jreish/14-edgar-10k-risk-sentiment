@@ -321,7 +321,7 @@ strip <- ggplot(coverage, aes(x = year, y = pct_gap)) +
     axis.title.y = element_blank()
   ) +
   labs(
-    title = "Claude's K-10 Coverage Varies by Year",
+    title = "Claude's 10-K Coverage Varies by Year",
     x = NULL,
     caption = paste(
       SOURCE_CAPTION_BASE,
