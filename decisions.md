@@ -1192,3 +1192,129 @@ like data but isn't**. Stub extractions counted as risk factors, a wrong
 company's 10-K counted as the right one, a network failure counted as a
 negative result. None are visible in a coverage number; all inflate it. The
 counts that go DOWN after an audit are the ones to trust.
+
+---
+
+## 2026-08-23 — Grade-1 recovery, and a stale table under the chart
+
+Two separate things, and the second is the bigger one.
+
+### The tariff table was 20 days stale
+
+`tariffs_by_year_sector` was generated 2026-08-03 21:56. `risk_factors_index`
+was rebuilt 2026-08-21 22:54. Every chart drawn from that table between those
+dates was reading the corpus as it stood **before** the CIK-resolution work
+that took coverage from 71% to 96%.
+
+That work recovered early years hardest, so the staleness was not a uniform
+scaling — it bit 2006 far harder than 2025. Re-running `06` against the
+current corpus:
+
+| Year | Stale | Rebuilt | Stale rate | Rebuilt rate |
+|---|---|---|---|---|
+| 2006 | 59 | 114 | 14.0% | 27.1% |
+| 2025 | 389 | 431 | 78.0% | 86.0% |
+
+**The old subtitle — "not a single year seeing a decrease" — was an artifact
+of this.** Against the rebuilt series the count falls in 2008, 2015, 2022,
+2024 and (incompletely) 2026; the share falls in six years. The monotone rise
+was manufactured by understating the early years by roughly half. The growth
+is real and still large — 27% to 86% — but it is ~3.2x, not the ~5.9x the
+stale series implied.
+
+Nothing about the stale table was visible in the chart. It had no timestamp on
+it, the shape looked plausible, and the claim it supported was the most
+quotable sentence on the page. The lesson is the standing one in this file,
+one level up: a derived table can be wrong in the same silent, count-inflating
+way an extraction can, and `_meta.generated_at` is the check that catches it.
+
+### Grade-1 recovery: +54 rows, after four wrong versions
+
+`03c_recover_bare_sections.py` recovers sections printed under a "Risk
+Factors" heading that the Item-numbered markers cannot bound — FedEx (in the
+primary document all along), U.S. Bancorp, Wells Fargo. Decisions taken before
+building it: gaps only, so the 10,088 existing sections are untouched by
+construction; grade 1 only, so a safe-harbour cautionary statement standing in
+for Item 1A is recorded as a different disclosure rather than counted as one;
+and exactly one surviving candidate per accession, with ambiguity referred to
+a human instead of resolved by a tiebreak.
+
+**Those three rules were not enough, and the way they failed is the point.**
+The first run recovered 75 rows. Reading them showed ~30 were not short
+sections but wrong text: JNJ 2006 was 3,092 chars of Item 1B, Properties and
+Legal Proceedings; CVG 2008 a pointer stub plus Properties; UPS 2006 a
+forward-looking-statements bullet list. Uniqueness catches ambiguity between
+documents. It says nothing about whether the one survivor stops in the right
+place.
+
+Four guards, each found by reading output that had already passed every
+previous guard:
+
+1. **No Item-numbered heading inside the capture.** An internal `Item 2` /
+   `Item 7A` proves over-run. Note the pattern needs `[2-9]\s*[.\(]?\s*[ab]?`,
+   not `[2-9]\b` — there is no word boundary between "7" and "A", so the
+   first version could not see "ITEM 7A." at all, and UHS 2020 passed with
+   the MD&A appended and that heading on its last line.
+2. **Floor at 11,595 chars** — the 5th percentile of sections produced by the
+   trustworthy method (median 49,983). The existing 1,500 floor was calibrated
+   for marker extraction, which is bounded by two corroborating Item headings.
+   This strategy has one enumerated end marker and nothing corroborating it,
+   so it must clear a stricter bar than the method it stands in for.
+3. **Must end at a sentence.** Citigroup 2021 stopped at "...see Notes 1 and
+   15 to the" because "Consolidated Financial Statements" followed as a styled
+   cross-reference and `html_to_text` puts every element on its own line.
+4. **Must start at a sentence.** Where the nested-candidate collapse falls
+   back to a later running-header repeat, the result is correct at the end and
+   80,000 chars short at the front: WFC 2021 came back at 20,133 against
+   ~100,000 for every neighbouring year, opening "(continued) example, if
+   market interest rates increase...". It passed guards 1-3.
+
+**Nested candidates are one section, not rivals.** Wells Fargo's exhibit
+reprints "Risk Factors" as a running page header, so 2018 yields eight starts
+at ~15,000-char intervals all running to the same terminator — each a suffix
+of the one before. Collapsing to the earliest start per end is not the "take
+the longest" tiebreak rejected earlier; that would choose between different
+spans of text, this chooses a section over a suffix of itself. Candidates with
+*different* ends are still ambiguity and still refused.
+
+**Terminators are enumerated, not inferred**, and the list needed two rounds.
+"controls and procedures" never fired because the heading reads "DISCLOSURE
+CONTROLS AND PROCEDURES" and matching is line-anchored. `management's report
+on internal control` never fired because filings render the possessive as
+U+2019 and the pattern had an ASCII apostrophe — a miss that does not fail,
+it just runs the capture on to the next terminator it can match, which is how
+Citigroup 2024 came back 390,451 chars with a correct opening and KPMG's audit
+opinion on the end.
+
+**Seven rows were rejected by hand** (`REJECTED_TAIL_OVERRUN`): Citigroup
+2023-2026, BNY Mellon 2006-2007, Constellation 2024. All open correctly and
+over-run at the tail into material each filer lays out differently. Fixing
+them needs per-filer terminators, which is the parser checkpoint 4 declined to
+write. **Citigroup therefore ends up entirely absent, 2025 and 2026
+included** — the contamination is ~1% of a 386,000-char section and contains
+no tariff mentions, so admitting them would barely move the chart. That is an
+argument for keeping them and it is the argument this project has refused
+every previous time. Reversing it means deleting from that list, not loosening
+a guard.
+
+Counts across the five runs: 75, 62, 78, 65, 63, then 61 after the hand
+rejections. **The highest number came from the version storing Properties
+sections as risk factors.** Extraction 10,088 -> **10,142**; coverage 95.9% ->
+**96.4%**. `09_validate_resolution.py` passes all five invariants;
+`test_parser_regression.py` reports 149 identical, 0 changed.
+
+### Missingness now distinguishes "no answer" from "answered elsewhere"
+
+`no_item_1a_extracted` carries a sub_reason: `no_item_1a_incorporated` (73
+rows — the filer answered Item 1A by reference, a fact about the filer),
+`no_item_1a_found` (55), `no_item_1a_tail_overrun` (7). All remain gaps for
+coverage; none appear in the tariff bars.
+
+### Chart
+
+2026 is drawn solid at what is counted with a hatched cap for what is pending,
+sized at 49 pending filers x the observed 93% rate rather than the prior
+build's one-mention-per-filer assumption. The subtitle is a magnitude built
+from the data, not a streak. The Trump 1.0/2.0 anchors were hardcoded at
+y = 145 and y = 330 against the stale series and both sat inside their bars
+once it was rebuilt; they are now read off `bar_totals`.

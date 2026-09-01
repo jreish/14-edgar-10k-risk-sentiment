@@ -1,7 +1,6 @@
 #!/usr/bin/env Rscript
 source(here::here("scripts", "r", "lib_theme.R"))
 library(forcats)
-library(patchwork)
 library(ggtext)
 
 con <- db_connect()
@@ -104,10 +103,17 @@ y_top <- max(bar_totals$bar_top)
 # arithmetic in one place so a rebuilt tariff series moves the annotations
 # with it instead of stranding them mid-bar.
 bar_at <- function(y) bar_totals$bar_top[bar_totals$year == y]
-t1_low <- bar_at(2016) + y_top * 0.02
+t1_low <- bar_at(2016) + y_top * 0.05
 t1_high <- max(sapply(2016:2020, bar_at)) + y_top * 0.06
 t2_low <- bar_at(2024) + y_top * 0.02
 t2_high <- t1_high + y_top * 0.16
+
+# Drop the Trump 1.0 elbow and its label 15 units on the y. This happens after
+# t2_high is set, so Trump 2.0 -- whose top is pinned to t1_high above -- does
+# not move with it.
+t1_low <- t1_low - 15
+t1_high <- t1_high - 15
+
 title_x <- min(trends$year)
 title_y <- y_top * 1.3
 subtitle_gap <- y_top * 0.1
@@ -166,9 +172,7 @@ subtitle_df <- data.frame(
   y = title_y - subtitle_gap - 30,
   label = sprintf(
     paste0("***In 2006, %.0f%% of S&amp;P 500 annual reports named<br>",
-           "tariffs as a risk factor. By %d it was %.0f%% &mdash; a<br>",
-           "near-universal disclosure, led by industrials<br>",
-           "and technology.***"),
+           "tariffs as a risk factor. By %d it was %.0f%%.***"),
     rate_first, latest_year - 1, rate_last_complete
   )
 )
@@ -176,7 +180,8 @@ subtitle_df <- data.frame(
 x_scale <- scale_x_continuous(
   breaks = seq(2006, 2026, by = 2),
   # Limits must span the direct-label column at x~2027.6, or the sector labels
-  # are dropped as out-of-range. Shared by both panels so the bars align.
+  # are dropped as out-of-range. Both figures reuse the same scale so, side by
+  # side, the year axes still line up even though they are now separate images.
   limits = c(2005.5, 2028),
   expand = expansion(mult = c(0.01, 0.01))
 )
@@ -272,11 +277,26 @@ annotate("segment",
   
   coord_cartesian(clip = "off") +
   
+  # Standalone now, so the main plot carries its own x-axis labels (they used
+  # to be blanked here because the coverage strip below was showing them), and
+  # the bottom margin is restored from 0 to give those labels room.
   theme(
-    plot.margin = margin(t = 5.5, r = 150, b = 0, l = 5.5),
-    axis.text.x = element_blank()
+    plot.margin = margin(t = 5.5, r = 150, b = 5.5, l = 5.5)
   ) +
-  labs(x = NULL, y = "Filings mentioning tariffs")
+  labs(
+    x = NULL, y = "Filings mentioning tariffs",
+    caption = paste(
+      SOURCE_CAPTION_BASE,
+      "Top 7 sectors by total tariff mentions shown individually; the rest are grouped as \"Other\".",
+      sprintf(paste("Bars are counts. Coverage is not constant (%d filings in %d, %d in %d), so the series was also checked as a",
+                    "share of\nfilings held: it rises from %.0f%% to %.0f%% on the same shape. Hatched cap on %d = pending filers x %d's",
+                    "observed rate, a projection."),
+              coverage$n_have[coverage$year == min(coverage$year)], min(coverage$year),
+              coverage$n_have[coverage$year == latest_year - 1], latest_year - 1,
+              rate_first, rate_last_complete, latest_year, latest_year),
+      sep = "\n"
+    )
+  )
 
 # ---- Coverage strip: share of the universe with no usable filing, every year ----
 strip <- ggplot(coverage, aes(x = year, y = pct_gap)) +
@@ -293,34 +313,37 @@ strip <- ggplot(coverage, aes(x = year, y = pct_gap)) +
     expand = expansion(mult = c(0, 0.08))
   ) +
   coord_cartesian(clip = "off") +
+  # Top margin restored from 0 to 5.5 now that this stands alone and needs
+  # clearance above the panel for its own title.
   theme(
-    plot.margin = margin(t = 0, r = 150, b = 5.5, l = 5.5),
+    plot.margin = margin(t = 5.5, r = 150, b = 5.5, l = 5.5),
     panel.grid.major.y = element_line(linewidth = 0.25),
     axis.title.y = element_blank()
   ) +
   labs(
+    title = "Claude's K-10 Coverage Varies by Year",
     x = NULL,
-    # caption = paste(
-    #   SOURCE_CAPTION_BASE,
-    #   "Top 7 sectors by total tariff mentions shown individually; the rest are grouped as \"Other\".",
-    #   sprintf(paste("Bars are counts. Coverage is not constant (%d filings in %d, %d in %d), so the series was also checked as a",
-    #                 "share of\nfilings held: it rises from %.0f%% to %.0f%% on the same shape. Hatched cap on %d = pending filers x %d's",
-    #                 "observed rate, a projection."),
-    #           coverage$n_have[coverage$year == min(coverage$year)], min(coverage$year),
-    #           coverage$n_have[coverage$year == latest_year - 1], latest_year - 1,
-    #           rate_first, rate_last_complete, latest_year, latest_year),
-    #   "Lower panel: share of the S&P 500 universe with no usable risk-factor section that year -- unresolved company",
-    #   "identity, filing never found, or no section extractable. Filings not yet due are excluded: pending, not missing.",
-    #   "Counted as gaps but recorded separately: filers who answered Item 1A by reference -- pointing to an exhibit, or",
-    #   "to a safe-harbour cautionary statement in place of risk factors. They disclosed something; it is not the same",
-    #   "object as the sections counted here, so it is not counted (sub_reason no_item_1a_incorporated in missing_records).",
-    #   sep = "\n"
-    # )
+    caption = paste(
+      SOURCE_CAPTION_BASE,
+      "Share of the S&P 500 universe with no usable risk-factor section that year -- unresolved company",
+      "identity, filing never found, or no section extractable. Filings not yet due are excluded: pending, not missing.",
+      "Counted as gaps but recorded separately: filers who answered Item 1A by reference -- pointing to an exhibit, or",
+      "to a safe-harbour cautionary statement in place of risk factors. They disclosed something; it is not the same",
+      "object as the sections counted here, so it is not counted (sub_reason no_item_1a_incorporated in missing_records).",
+      sep = "\n"
+    )
   )
 
-combined <- p / plot_spacer() / strip + plot_layout(heights = c(4, 0.15, 1))
+# ---- Write the two figures separately ----
+fig_dir <- here::here("output", "figures")
+dir.create(fig_dir, showWarnings = FALSE, recursive = TRUE)
 
-out_path <- here::here("output", "figures", "tariffs_by_sector_missing.png")
-dir.create(dirname(out_path), showWarnings = FALSE, recursive = TRUE)
-ggsave(out_path, combined, width = 11, height = 8.4, dpi = 300, bg = "white")
-message("Wrote ", out_path)
+# Graph 1: the stacked sector chart on its own.
+main_path <- file.path(fig_dir, "tariffs_by_sector.png")
+ggsave(main_path, p, width = 11, height = 7, dpi = 300, bg = "white")
+message("Wrote ", main_path)
+
+# Graph 2: the coverage strip on its own.
+coverage_path <- file.path(fig_dir, "tariffs_coverage_by_year.png")
+ggsave(coverage_path, strip, width = 11, height = 4.0, dpi = 300, bg = "white")
+message("Wrote ", coverage_path)

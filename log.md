@@ -677,3 +677,78 @@ data but wasn't — a placeholder counted as a risk disclosure, one company's
 report counted as another's, a network failure counted as a real answer. None
 of them show up as a lower number. They all show up as a higher one. So the
 figures that drop after an audit are the ones worth trusting.
+
+## 2026-08-23 — The chart was drawn from a table that had gone stale
+
+Set out to close the remaining gaps in the dataset. Found something else
+first, and it matters more.
+
+The table feeding the tariffs chart was built on 3 August. The underlying
+collection of filings was rebuilt on 21 August — the day we took coverage
+from 71% of companies to 96%. For eighteen days the chart had been drawn
+from the old table, and nobody could tell, because a stale table looks
+exactly like a fresh one.
+
+The damage wasn't spread evenly. The August work recovered old filings much
+more than recent ones, so the stale chart understated 2006 by about half
+while barely touching 2025. **That is what produced the headline claim** —
+"tariff mentions have grown every single year, with not one decrease."
+Rebuild the table and the claim dies: mentions fall in 2008, 2015, 2022 and
+2024. What's left is still a real and large finding — in 2006 about a
+quarter of S&P 500 companies named tariffs as a risk, by 2025 it was
+six in seven — but it's roughly a tripling, not the near-sextupling the old
+numbers implied.
+
+I'd been about to check the growth claim for a completely different reason,
+as a robustness check on coverage. It caught this instead.
+
+## 2026-08-23 — Finding the missing filings, and four wrong answers first
+
+Most of the remaining gaps turned out to be one habit, not fifty quirks:
+companies that print their risk factors somewhere the usual signposts can't
+find them. FedEx's had been sitting in the very document we'd already
+downloaded, under a heading that just says "RISK FACTORS" with no item
+number. Wells Fargo's and US Bancorp's are in the annual-report attachment.
+
+Writing something to follow them was easy. Getting it to stop in the right
+place took five attempts, and every wrong version looked fine from a
+distance.
+
+**The first version found 75 sections. About thirty were the wrong text.**
+Johnson & Johnson's 2006 entry was three thousand characters of the
+Properties section, the Legal Proceedings section, and the one after that.
+UPS's was a page of forward-looking-statements boilerplate. Nothing about
+the number 75 hinted at any of this; it was the largest number of the five
+attempts, and the worst.
+
+So I read them. Then read the next version, and the one after. Each round
+caught something the previous guards couldn't see:
+
+- Text that ran straight past the end of the risk factors into the audited
+  accounts, ending inside KPMG's opinion.
+- A rule that was supposed to catch exactly that, which couldn't see the
+  heading "ITEM 7A." at all — a quirk of how the pattern was written.
+- A section that stopped mid-sentence, because a phrase used as a signpost
+  also appears as an ordinary cross-reference in the text.
+- Wells Fargo's 2021 entry, which ended correctly and was missing the first
+  eighty thousand characters. It began "(continued)". The only reason to
+  doubt it was that every other Wells Fargo year is five times longer.
+
+**One thing I got wrong in a way worth recording.** I'd flagged fourteen
+sections as suspect using a keyword search. Two of them were fine — Aetna's
+list of risks simply *includes* "a significant failure of internal control
+over financial reporting", and my search couldn't tell a risk factor about
+auditing from an auditor's report. Reading beats matching.
+
+**Where it ended:** 54 more companies-years of risk factors, 10,088 to
+10,142, coverage 96.4%. Seven I refused. Citigroup is among them — its text
+is 99% right, with about a page of accounting notes on the end that contain
+no tariff mentions and would barely move the chart. Keeping it was tempting
+for exactly that reason. But "99% of this column is what the column says"
+isn't a standard anything downstream can act on, and this project has turned
+that trade down every previous time it came up. So Citi stays missing, and
+the way to change my mind is to delete it from a list of seven names, not to
+weaken a rule.
+
+The count went 75, 62, 78, 65, 63, 61. The number that was right is the
+smallest one.
