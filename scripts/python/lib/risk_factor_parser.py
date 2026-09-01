@@ -322,3 +322,275 @@ def extract_item_1a(text: str) -> str | None:
 
 def extract_item_1a_from_html(raw_html: str) -> str | None:
     return extract_item_1a(html_to_text(raw_html))
+
+
+# --- grade-1 recovery: a real section under a heading with no Item numbering -
+# Decided 2026-08-23. Three filers were inspected before writing this:
+#
+#   FedEx  -- 15 failing years. Its risk factors are in the primary document
+#     the pipeline already downloads, under a bare "RISK FACTORS" heading, in
+#     the annual-report portion appended after the Item-numbered part. The
+#     marker strategy finds the heading (offset 234,999 in FY2014) but there
+#     is no "Item 1B"/"Item 2" anywhere after it, so the start is discarded
+#     for want of an end and the row is recorded as a miss.
+#   U.S. Bancorp -- same shape, one document further out: the real section is
+#     in the Annual Report exhibit, and the 10-K itself carries a 196-char
+#     pointer under its own "Risk Factors" heading.
+#   Johnson & Johnson -- deliberately NOT recovered here. Its Exhibit 99 is a
+#     safe-harbor cautionary statement, not a risk-factor section: different
+#     genre, and (checked) zero tariff mentions, so admitting it would put a
+#     document in the corpus that structurally cannot say what the corpus is
+#     being measured for. It stays a gap.
+#
+# The end is the problem. extract_running_header's "next standalone heading"
+# rule truncates these badly -- FedEx to 2,641 chars of a 21,786-char section,
+# stopping at a line-wrapped risk-factor title; U.S. Bancorp to 312, stopping
+# at its first subsection heading ("Economic and Market Conditions Risk").
+# Both false stops look exactly like a real end.
+#
+# So the terminator is enumerated instead of inferred. The headings that can
+# follow a risk-factor section are a small, closed set in this corpus, and an
+# unlisted one leaves the row a gap rather than guessing -- which is the same
+# trade this project makes everywhere else. Confirmed ends: FedEx stops at
+# "FORWARD-LOOKING STATEMENTS", U.S. Bancorp at "Managing Committee".
+#
+# This is reachable ONLY from bare_section_candidates, which nothing on the
+# extract_item_1a path calls. Existing extractions are byte-identical by
+# construction, not by measurement.
+_SECTION_SUCCESSORS = [
+    "forward looking statements", "forward-looking statements",
+    "cautionary statement", "cautionary statements",
+    "management's discussion and analysis", "managements discussion and analysis",
+    "quantitative and qualitative disclosures",
+    "report of management", "management's report", "managements report",
+    "controls and procedures", "control over financial reporting",
+    "selected financial data", "five year selected financial data",
+    "financial statements and supplementary data",
+    "consolidated financial statements",
+    "supplemental financial information", "supplemental information",
+    "recent accounting developments", "critical accounting",
+    "managing committee", "executive officers", "directors and executive officers",
+    "legal proceedings", "mine safety disclosures",
+    "unresolved staff comments", "properties",
+    # Added 2026-08-23 after reading the output: without these, 14 of 62
+    # recoveries ran past the end of the risk factors and into the audited
+    # financials. Citigroup 2024 captured 390,451 chars ending mid-way through
+    # KPMG's opinion on internal control; PG&E 2007 ended inside Deloitte's.
+    # Both START correctly -- the opening paragraph is the real one -- so
+    # nothing about the beginning of the capture reveals the problem, and at
+    # these lengths no plausibility floor would either. An annual-report
+    # exhibit carries no Item numbering, so GUARD 1 cannot see it either.
+    # These are the headings that actually terminate a risk-factor section in
+    # that genre. Multi-word and distinctive on purpose: a bare "internal
+    # control over financial reporting" would also match the phrase in running
+    # prose if a line break happened to fall in front of it, and truncating
+    # early is as wrong as running long.
+    "report of independent registered public accounting firm",
+    "reports of independent registered public accounting firm",
+    "management's report on internal control", "managements report on internal control",
+    "management's annual report on internal control",
+    "managements annual report on internal control",
+    "report of management on internal control",
+    "consolidated balance sheet", "consolidated balance sheets",
+    "consolidated statement of income", "consolidated statements of income",
+    "consolidated statement of operations", "consolidated statements of operations",
+    "glossary of terms",
+    # Second reading pass, same day. "controls and procedures" was already
+    # listed but never fires, because the heading in practice reads
+    # "DISCLOSURE CONTROLS AND PROCEDURES" and the match is line-anchored --
+    # so Citigroup 2023-2026 each carried ~6,000 extra characters ending on
+    # "...Citigroup's disclosure controls and procedures were effective".
+    # Small against a 390,000-char section, and still text that is not risk
+    # factors.
+    "disclosure controls and procedures",
+    "corporate governance", "code of conduct", "available information",
+]
+
+
+def _successor_pattern(phrase: str) -> str:
+    """Per-letter whitespace tolerance, plus either apostrophe.
+
+    Filing agents render the possessive with a typographic apostrophe far
+    more often than an ASCII one -- Citigroup's terminator is
+    "MANAGEMENT'S ANNUAL REPORT ON INTERNAL CONTROL..." with U+2019 -- and a
+    straight-quote pattern silently misses it. Silently, because a missed
+    terminator does not fail: the capture just runs on to the next one it
+    can match, which is how Citigroup 2024 came back 390,451 chars long with
+    a correct opening paragraph and KPMG's audit opinion on the end.
+    """
+    def characters(word: str) -> str:
+        return r"\s*".join(
+            "['’]" if c == "'" else re.escape(c) for c in word
+        )
+
+    return r"\s*".join(characters(word) for word in phrase.split())
+
+
+_END_SUCCESSOR = re.compile(
+    _LINE_START + r"(?:" + "|".join(_successor_pattern(p) for p in _SECTION_SUCCESSORS) + r")\b",
+    re.IGNORECASE | re.MULTILINE,
+)
+
+# "Table of Contents" is reprinted at every page break in the paginated
+# filings this strategy targets, so the last one before the terminator is
+# left dangling on the tail alongside the page number.
+_TRAILING_TOC = re.compile(r"\n[ \t\xa0]*table\s*of\s*contents[ \t\xa0]*$", re.IGNORECASE)
+
+# --- two guards this strategy needs and the marker strategy does not --------
+# Learned by running it without them (2026-08-23) and reading the output. The
+# uniqueness rule catches ambiguity between documents; it says nothing about
+# whether the single survivor stops in the right place, and 30 of 75 did not:
+#
+#   JNJ 2006  -- 3,092 chars of Item 1B, Item 2 Properties, Item 3 Legal
+#     Proceedings and Item 4. The start marker matched a heading whose body is
+#     "Not applicable."; the nearest enumerated terminator was four items
+#     downstream, so the capture ran straight through them.
+#   CVG 2008  -- a pointer stub followed by the Properties section.
+#   UPS 2006  -- the forward-looking-statements bullet list, ending "Item 7A."
+#   WFC 2008  -- 1,604 chars: the cautionary preamble only, stopping before
+#     the risk factors it introduces.
+#
+# All four are the failure this project treats as worse than a gap: text that
+# is not what it is labelled, at a length no coverage number would question.
+#
+# GUARD 1 -- an Item-numbered heading INSIDE the capture proves it ran past
+# the section end, because Item 1A is followed by Item 1B and never contains
+# one. Line-anchored, so a cross-reference in prose ("see Item 7") is not
+# mistaken for a heading; that is the same distinction the start markers draw.
+#
+# GUARD 2 -- a much higher length floor than MIN_PLAUSIBLE_SECTION_CHARS.
+# 1,500 was calibrated against the marker strategy, whose bounds are two
+# corroborating Item headings. This strategy's end is a single enumerated
+# heading with nothing to corroborate it, so it has to clear a stricter bar
+# than the method it is standing in for, not the same one: the 5th percentile
+# of the 10,088 sections the trustworthy method produced (11,595 chars,
+# against a median of 49,983). The cost is real and one-sided -- FedEx 2006 at
+# 12,160 clears it by a hair, and genuinely short sections in the 5-11k range
+# will be refused. That is the trade this project makes everywhere else.
+#
+# The lettered suffix is not optional decoration: "[2-9]\b" does not match
+# "ITEM 7A." at all, because there is no word boundary between "7" and "A".
+# That hole let UHS 2020 through with the MD&A appended and "ITEM 7A." sitting
+# on the last line -- the exact thing this guard exists to catch, in the
+# guard's own blind spot.
+_INTERNAL_ITEM_HEADING = re.compile(
+    rf"{_LINE_START}{_ITEM}\s*(?:1\s*[.\(]?\s*b|[2-9]\s*[.\(]?\s*[ab]?)\b",
+    re.IGNORECASE | re.MULTILINE,
+)
+
+MIN_GRADE1_SECTION_CHARS = 11_595
+
+
+# A short last line carrying no sentence punctuation is a page furniture line,
+# not prose -- Wells Fargo's exhibit signs each page "Wells Fargo & Company",
+# which _TRAILING_PAGE_FOOTER leaves behind because it carries no digit.
+_TRAILING_RUNNING_FOOTER = re.compile(r"\n[ \t\xa0]*[^\n.!?;:]{1,40}[ \t\xa0]*$")
+
+
+def _trim_page_artifacts(section: str) -> str:
+    previous = None
+    while previous != section:
+        previous = section
+        section = _TRAILING_TOC.sub("", section).strip()
+        section = _TRAILING_PAGE_FOOTER.sub("", section).strip()
+        section = _TRAILING_RUNNING_FOOTER.sub("", section).strip()
+    return section
+
+
+# GUARD 3 -- a real section ends where a sentence ends. A capture that stops
+# mid-clause was not stopped by a heading; it was stopped by a terminator
+# phrase that happened to fall at the start of a line inside running prose.
+# Citigroup 2021 ended "...see Notes 1 and 15 to the", 109,180 chars in,
+# because "Consolidated Financial Statements" followed as a styled
+# cross-reference and html_to_text puts every element on its own line. The
+# capture is not merely long there, it is arbitrary -- it stops in a place no
+# document structure corresponds to, so nothing about it can be trusted.
+_ENDS_A_SENTENCE = re.compile(r"[.!?][\"'’)\]]*$")
+
+
+def ends_mid_sentence(section: str) -> bool:
+    return not _ENDS_A_SENTENCE.search(section.strip())
+
+
+# GUARD 4 -- the mirror of guard 3, and needed for the same reason. In a
+# document that reprints "Risk Factors (continued)" at every page break, a
+# start marker lands on each repeat, and if the outermost one is rejected by
+# another guard the collapse hands back a LATER repeat -- a section that is
+# correct at the end and 80,000 characters short at the front. Wells Fargo
+# 2021 came back that way: 20,133 chars against ~100,000 for every
+# neighbouring year, opening "(continued) example, if market interest rates
+# increase...". Its true opening, shared with every other Wells Fargo year,
+# is "An investment in the Company involves risk...".
+#
+# A section starts at the start of a sentence. A capture beginning lowercase,
+# or on a "(continued)" tag, began mid-flow.
+_STARTS_A_SENTENCE = re.compile(r"^[\"'“(\[]*[A-Z0-9]")
+_CONTINUED_TAG = re.compile(r"^[ \t\xa0]*\(?\s*continued\s*\)?", re.IGNORECASE)
+
+
+def starts_mid_sentence(section: str) -> bool:
+    section = section.strip()
+    if _CONTINUED_TAG.match(section):
+        return True
+    return not _STARTS_A_SENTENCE.match(section)
+
+
+def bare_section_candidates(text: str) -> list[str]:
+    """Every plausible risk-factor section in this document, by pairing a
+    start marker with the nearest following enumerated successor heading.
+
+    Returns all survivors rather than picking one: the caller pools
+    candidates across every document in the accession and requires exactly
+    one, because a filing that offers two is ambiguous (U.S. Bancorp's 10-K
+    and its Annual Report exhibit each carry a "Risk Factors" heading) and
+    ambiguity here is resolved by a human, not by a tiebreak rule.
+    """
+    starts = _start_offsets(text)
+    ends = sorted({m.start() for m in _END_SUCCESSOR.finditer(text)})
+    if not starts or not ends:
+        return []
+
+    # Candidates that share an end are NOT competing readings of the document
+    # -- they are one section entered at successive points. Wells Fargo's
+    # Annual Report exhibit reprints "Risk Factors" as a running page header,
+    # so a 2018 filing yields eight starts at ~15,000-character intervals, all
+    # running to the same terminator: 117,385 / 116,447 / 100,728 / ... /
+    # 24,206 chars, each a suffix of the one before. Counting those as eight
+    # rival candidates made every Wells Fargo year from 2012 on "ambiguous",
+    # which is the wrong answer to a question that isn't ambiguous at all.
+    #
+    # Collapsing to the earliest start per end is not the "take the longest"
+    # tiebreak rejected earlier: that would pick between genuinely different
+    # spans of text. This picks the whole of a section over a suffix of
+    # itself. Rival candidates -- different ends -- are still ambiguity and
+    # still refused. (This is the same phenomenon extract_running_header was
+    # written for; that strategy cannot serve here because it needs the run to
+    # end at an inferrable heading, which is precisely what fails in these
+    # documents.)
+    outermost_start_for_end: dict[int, int] = {}
+    for start in starts:
+        later = [e for e in ends if e > start]
+        if not later:
+            continue
+        end = min(later)
+        if end not in outermost_start_for_end:
+            outermost_start_for_end[end] = start
+
+    sections = []
+    for end, start in sorted(outermost_start_for_end.items()):
+        section = text[start:end].strip()
+        section = _START_STRICT.sub("", section, count=1).strip()
+        section = _START_BARE.sub("", section, count=1).strip()
+        section = _trim_page_artifacts(section)
+        if len(section) < MIN_GRADE1_SECTION_CHARS:
+            continue
+        if _INTERNAL_ITEM_HEADING.search(section):
+            continue
+        if ends_mid_sentence(section) or starts_mid_sentence(section):
+            continue
+        sections.append(section)
+    return sections
+
+
+def bare_section_candidates_from_html(raw_html: str) -> list[str]:
+    return bare_section_candidates(html_to_text(raw_html))

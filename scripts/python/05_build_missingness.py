@@ -78,6 +78,15 @@ def main():
         "SELECT year, ticker, has_item_1a FROM risk_factors_index"
     ).fetchall()}
 
+    # 03c splits extraction failures by whether the company ANSWERED Item 1A.
+    # "Pointed at a document we could not bound" and "no Item 1A heading at
+    # all" are both gaps, but only the first is a fact about the filer, and
+    # the difference is invisible unless it is carried through to here.
+    extraction_state = {(r[0], r[1]): (r[2] or "").split(":")[0] for r in con.execute(
+        "SELECT year, ticker, fetch_error FROM risk_factors_index WHERE has_item_1a = false"
+    ).fetchall()}
+    KNOWN_STATES = {"no_item_1a_incorporated", "no_item_1a_found", "grade-1 ambiguous"}
+
     print(f"Base universe: {len(universe)} rows.")
 
     # Pass 1: classify every row into a coarse bucket.
@@ -97,7 +106,9 @@ def main():
             continue
         if (year, ticker) in filings:
             # Filing found, but extraction failed on it.
-            results.append((year, ticker, cik, "missing", "no_item_1a_extracted", None))
+            state = extraction_state.get((year, ticker))
+            sub_reason = state if state in KNOWN_STATES else None
+            results.append((year, ticker, cik, "missing", "no_item_1a_extracted", sub_reason))
             continue
 
         if cik not in cik_filing_dates:

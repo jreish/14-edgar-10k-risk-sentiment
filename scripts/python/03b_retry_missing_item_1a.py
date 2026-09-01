@@ -121,7 +121,8 @@ def main():
             con.execute("""
                 UPDATE risk_factors_index
                 SET has_item_1a = true, file_path = ?, char_count = ?,
-                    fetch_error = 'recovered from secondary document: ' || ?
+                    fetch_error = NULL,
+                    source_location = 'secondary_document', source_document = ?
                 WHERE year = ? AND ticker = ?
             """, [file_path, len(recovered_text), recovered_doc, year, ticker])
             n_recovered += 1

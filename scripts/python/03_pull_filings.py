@@ -73,6 +73,8 @@ def main():
         results.append((
             year, ticker, cik, form, filing_date, accn, doc,
             has_item_1a, file_path, char_count, fetch_error,
+            "item_1a_inline" if has_item_1a else None,
+            doc if has_item_1a else None,
         ))
 
     con.execute("DROP TABLE IF EXISTS risk_factors_index")
@@ -88,10 +90,12 @@ def main():
             has_item_1a BOOLEAN,
             file_path VARCHAR,
             char_count INTEGER,
-            fetch_error VARCHAR
+            fetch_error VARCHAR,
+            source_location VARCHAR,
+            source_document VARCHAR
         )
     """)
-    con.executemany("INSERT INTO risk_factors_index VALUES (?,?,?,?,?,?,?,?,?,?,?)", results)
+    con.executemany("INSERT INTO risk_factors_index VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?)", results)
 
     record_meta(
         con, "risk_factors_index", script="03_pull_filings.py",
@@ -104,6 +108,18 @@ def main():
             "file_path": "Path (relative to project root) to the extracted .txt file, or NULL",
             "char_count": "Character count of extracted text, or NULL",
             "fetch_error": "HTTP/network error if the filing document itself could not be fetched, else NULL",
+            "source_location": (
+                "WHERE the stored text was printed, for successful rows only. "
+                "item_1a_inline = under an Item 1A heading in the primary document (03); "
+                "secondary_document = in another document in the same accession (03b); "
+                "bare_heading = under a 'Risk Factors' heading with no Item numbering, "
+                "bounded by an enumerated successor heading (03c). "
+                "Exists so an analysis can include or exclude the last two rather than "
+                "having the choice baked into extraction -- it matters most for the "
+                "word-count series, since the filers using the exhibit convention are "
+                "disproportionately banks and disproportionately early."
+            ),
+            "source_document": "Filename within the accession the text was taken from",
         },
         row_count=len(results),
     )
