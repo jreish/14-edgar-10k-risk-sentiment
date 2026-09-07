@@ -76,7 +76,7 @@ leader_gap <- 0.12
 base_label_dx <- 1.2 - leader_gap
 
 label_x_nudge <- c(
-  "Industrials" = 0, "Information Technology" = 0, "Consumer Discretionary" = 0,
+  "Industrials" = 0, "Information Technology" = 10, "Consumer Discretionary" = 0,
   "Consumer Staples" = 0, "Health Care" = 0, "Materials" = 0, "Utilities" = 0,
   "Other" = 0
 )
