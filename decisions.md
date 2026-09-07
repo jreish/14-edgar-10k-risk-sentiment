@@ -1318,3 +1318,57 @@ build's one-mention-per-filer assumption. The subtitle is a magnitude built
 from the data, not a streak. The Trump 1.0/2.0 anchors were hardcoded at
 y = 145 and y = 330 against the stale series and both sat inside their bars
 once it was rebuilt; they are now read off `bar_totals`.
+
+---
+
+## 2026-09-07 — Late filings, and carry-forward
+
+### `past_due_not_filed` was asserting something untrue
+
+The 2006 members of that bucket were ACS, APOL, FDO, JBL, KLAC, MXIM and
+SANM — the stock-option backdating cluster, every one of which delayed its
+10-K for months during the investigations. Checking EDGAR: **the filings
+exist.** ACS filed 2007-01-23, KLAC 2007-01-29, SANM 2007-01-03; Maxim filed
+FY2006, FY2007 and FY2008 on the same day in September 2008.
+
+The mechanism is `pick_filing_for_year`, which takes filings whose filingDate
+falls in calendar Y and returns `max` by date. A late filing lands in a year
+that already holds an on-time one, loses that comparison, and is dropped from
+`filing_universe` entirely. The original year then reports "past due, not
+filed", which reads as *this company did not file*.
+
+Not a historical artifact: Super Micro 2024, Xerox 2019, Jefferies 2019 and
+Mallinckrodt 2017 are the same shape. 13 rows, now `filed_late_not_ingested`
+and recorded with accession and date in `late_filings_not_ingested`. The
+detection is derived from EDGAR each run, not a hardcoded list — and it needs
+the paginated submission blocks, because `recent` holds only ~1000 filings
+and so returns "no filings" for exactly the long-lived companies at issue.
+An earlier version of this check also counted 10-K/A amendments and reported
+23; amendments restate a filing already held and are not missing observations.
+
+### Carry-forward
+
+For a year with no filing, the 10-K the company actually had in force is the
+most recent one filed before that year ended. Leaving the year blank was a
+deviation from this project's stated framing ("the most recent public risk
+disclosure as of year Y"), not an expression of it. `03d_carry_forward.py`
+fills those rows and stamps `source_location = 'carried_forward'` so any
+series can drop them — necessary, since the same text then serves two years.
+
+Bounded to 24 months. Unbounded, Compuware's 2008 row reached a 10-K filed in
+**1996** — that CIK had been recycled to a different company. A carry longer
+than two years means the row's problem is identification, not timing.
+
+Not applied to `not_yet_due`: filling pending current-year rows with last
+year's document would quietly complete an incomplete year, which is what the
+chart's hatched cap exists to stop a reader doing by eye.
+
+**Filled 12.** Extraction 10,152 -> **10,164**; missing 372 -> 360.
+
+**It cannot help the 2006 cluster, for a reason worth recording.** All seven
+carry back to a 10-K filed in late 2005, and extraction finds no Item 1A in
+any of them — correctly. Item 1A only became a required 10-K item for fiscal
+years ending after 1 December 2005, which is why this dataset starts in 2006
+at all. The carried document predates the disclosure being studied. Those
+rows stay missing, and their real FY2006 risk factors are reachable only by
+re-keying the project on period-of-report.

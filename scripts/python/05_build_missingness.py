@@ -28,6 +28,28 @@ Reason taxonomy:
     draws on, but every sub-reason is independently stored and queryable.
   - no_item_1a_extracted: a 10-K was found and fetched, but Item 1A
     extraction failed on it.
+
+The no_filing_found sub-reason `filed_late_not_ingested` deserves its own
+note, because it is the one that was previously saying something untrue.
+"the 10-K for year Y" means the 10-K FILED during calendar Y (see
+02_build_filing_universe), and pick_filing_for_year takes the LATEST original
+in that year. A company that misses its deadline files in a later calendar
+year that already contains an on-time filing, loses that comparison, and its
+late 10-K is dropped from filing_universe entirely -- so the original year
+reports "past_due_not_filed", which reads as "this company did not file".
+
+Six of the seven 2006 cases are the stock-option backdating cluster (ACS,
+APOL, FDO, JBL, KLAC, SANM), which delayed filings for months during the
+investigations; Maxim Integrated is the extreme case, filing FY2006, FY2007
+and FY2008 on the same day in September 2008. It is not a historical
+artifact -- Super Micro 2024, Xerox 2019, Jefferies 2019 and Mallinckrodt
+2017 are the same shape.
+
+The filing exists and is identified here (accession + date) but is NOT
+ingested: doing so would need either two filings in one ticker-year or a
+switch from filing-date to period-of-report keying, both of which change the
+project's central convention rather than patch a bug. Recording it makes the
+gap honest and the recovery a decision rather than a discovery.
 """
 import datetime
 import pathlib
@@ -36,7 +58,18 @@ from collections import defaultdict
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
 from lib.db import connect, record_meta
-from lib.edgar import fetch_submissions
+from lib.edgar import fetch_submissions, get_json
+
+
+def fetch_submissions_file(name: str) -> dict | None:
+    """One of the older paginated submission blocks. `recent` holds only the
+    latest ~1000 filings, so a large filer's 2006-2008 10-Ks are not in it --
+    checking only `recent` reports "no filings" for exactly the long-lived
+    companies this check is about."""
+    try:
+        return get_json(f"https://data.sec.gov/submissions/{name}")
+    except Exception:
+        return None
 
 TODAY = datetime.date.today()
 
@@ -120,7 +153,14 @@ def main():
     print(f"  {len(rows_no_filing)} rows need filing-date-projection sub-classification...")
 
     # Pass 2: for CIKs with a no_filing_found row, fetch deregistration status once per CIK.
+    used_accessions = {
+        a for (a,) in con.execute("SELECT accession_number FROM filing_universe").fetchall()
+    }
     ciks_needing_dereg_check = sorted({cik for _, _, cik in rows_no_filing})
+    # cik -> [(filingDate, accession)] for ORIGINAL 10-Ks never ingested.
+    # Amendments are excluded deliberately: a 10-K/A restates a filing we
+    # already hold and is not a missing observation.
+    unused_originals = {}
     deregistered_date = {}  # cik -> date of most recent Form 15-* filing, if any
     for i, cik in enumerate(ciks_needing_dereg_check):
         subs = fetch_submissions(cik)
@@ -146,6 +186,21 @@ def main():
             )
             if latest_any <= latest_dereg:
                 deregistered_date[cik] = latest_dereg
+        originals = []
+        blocks = [recent] + [
+            fetch_submissions_file(f["name"]) for f in subs.get("filings", {}).get("files", [])
+        ]
+        for blk in blocks:
+            if not blk:
+                continue
+            originals += [
+                (d, a)
+                for f, d, a in zip(blk.get("form", []), blk.get("filingDate", []),
+                                   blk.get("accessionNumber", []))
+                if f in ("10-K", "10-K405", "10-KSB", "10-KSB405") and a not in used_accessions
+            ]
+        unused_originals[cik] = sorted(originals)
+
         if i % 100 == 0:
             print(f"  ...dereg check {i}/{len(ciks_needing_dereg_check)}")
 
@@ -154,7 +209,17 @@ def main():
         month, day = median_month_day(other_dates)
         expected_date = project_expected_date(year, month, day)
 
-        if cik in deregistered_date and deregistered_date[cik] < expected_date:
+        # A 10-K that exists but landed in a later calendar year, where an
+        # on-time filing outranked it. 36 months rather than 12: Maxim's
+        # FY2006 report was not filed until September 2008.
+        late = [
+            (d, a) for d, a in unused_originals.get(cik, [])
+            if f"{year}-01-01" <= d <= f"{year + 3}-01-01"
+        ]
+
+        if late:
+            sub_reason = "filed_late_not_ingested"
+        elif cik in deregistered_date and deregistered_date[cik] < expected_date:
             sub_reason = "will_not_file"
         elif expected_date > TODAY:
             sub_reason = "not_yet_due"

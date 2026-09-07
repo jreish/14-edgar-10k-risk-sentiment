@@ -752,3 +752,42 @@ weaken a rule.
 
 The count went 75, 62, 78, 65, 63, 61. The number that was right is the
 smallest one.
+
+## 2026-09-07 — Seven companies that did file, and a rule that couldn't help them
+
+The dataset had seven companies marked as not having filed a 10-K in 2006.
+They all filed. They filed late — ACS in January 2007, Maxim not until
+September 2008 — because all seven were caught up in the stock-option
+backdating investigations, which held up their accounts for months.
+
+What happens is this: the pipeline files each annual report under the year it
+was *sent* to the SEC. When a company is a year late, its overdue report
+arrives in a year that already has that year's report in it, and only one can
+occupy the slot. The late one is discarded. The original year is then recorded
+as "past due, not filed" — which reads as an accusation the record doesn't
+support.
+
+It still happens. Super Micro's delayed 2024 report is the same case.
+
+Those thirteen rows are now labelled honestly and the filings recorded, so
+anyone can find them.
+
+**Then the fix that seemed obvious, and why it didn't work.** If a company
+didn't file in a given year, the report it actually had standing was the one
+it filed the year before — that's what investors were reading. So fill the gap
+with it, marked clearly as carried over. That worked for twelve companies.
+
+It did nothing for the seven. Their previous reports are from late 2005, and
+those reports have no risk-factors section at all — because the SEC didn't
+require one until fiscal years ending December 2005. That's the reason this
+whole dataset starts in 2006. The document we'd be carrying forward predates
+the thing being studied.
+
+So they stay missing, and honestly so. Getting their actual 2006 risk factors
+would mean changing how every observation in the project is dated.
+
+One other thing the carry-forward rule taught me: with no limit on how far
+back it could reach, it pulled a 10-K from **1996** into a 2008 row. That
+company's SEC identifier had been reused by an entirely different business.
+Capped at two years now — if you're reaching back further, the problem isn't
+timing, it's that you've got the wrong company.

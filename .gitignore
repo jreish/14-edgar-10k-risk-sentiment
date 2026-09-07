@@ -9,3 +9,6 @@ __pycache__/
 .Rhistory
 .RData
 .Rapp.history
+
+# Local DB backups
+data/*.duckdb.bak-*
