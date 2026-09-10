@@ -42,7 +42,7 @@ import pathlib
 import sys
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
-from lib.db import connect
+from lib.db import amend_meta, connect, record_meta
 from lib.edgar import get, get_json, filing_doc_url
 from lib.risk_factor_parser import extract_item_1a_from_html
 
@@ -70,6 +70,51 @@ def all_originals(cik: int) -> list[dict]:
             if f in ORIGINAL_FORMS
         ]
     return sorted(out, key=lambda f: f["filingDate"])
+
+
+def record_provenance(con, late_count: int) -> None:
+    """Stamp _meta for the tables this script writes.
+
+    This script appends to two tables it does not own, so their _meta
+    row_count is whatever 02 and 03 stamped before these rows existed -- a
+    provenance table that undercounts is worse than no provenance table,
+    because it reads as authoritative. amend_meta recounts from the tables
+    and keeps 02's and 03's descriptions rather than overwriting them.
+    """
+    amend_meta(
+        con, "filing_universe", "03d_carry_forward.py",
+        source_urls=["https://data.sec.gov/submissions/"],
+        column_updates={
+            "filing_date": "NOT necessarily within the study year: rows added by 03d carry "
+                           "forward the most recent 10-K filed on or before 31 Dec of that year "
+                           "(bounded to 24 months), so filing_date may fall in a prior year. "
+                           "Join risk_factors_index on (year, ticker) and check "
+                           "source_location = 'carried_forward' to identify them.",
+        },
+    )
+    amend_meta(
+        con, "risk_factors_index", "03d_carry_forward.py",
+        source_urls=["https://www.sec.gov/Archives/edgar/data/"],
+        column_updates={
+            "source_location": "carried_forward = the year had no 10-K of its own and this is the "
+                               "most recent one filed before it ended (03d); the same text also "
+                               "serves the year it was filed in, so any series treating "
+                               "company-years as independent observations must exclude these.",
+        },
+    )
+    record_meta(
+        con, "late_filings_not_ingested",
+        script="03d_carry_forward.py",
+        source_urls=["https://data.sec.gov/submissions/"],
+        column_descriptions={
+            "year": "Study year the filing belongs to but does not enter",
+            "ticker": "Ticker",
+            "cik": "Resolved CIK",
+            "filing_date": "Date the late 10-K was actually submitted to EDGAR",
+            "accession_number": "SEC accession number, so the filing can be retrieved",
+        },
+        row_count=late_count,
+    )
 
 
 def main():
@@ -138,6 +183,8 @@ def main():
                     filing_date VARCHAR, accession_number VARCHAR)""")
     if late_records:
         con.executemany("INSERT INTO late_filings_not_ingested VALUES (?,?,?,?,?)", late_records)
+
+    record_provenance(con, len(late_records))
     con.close()
 
     print(f"\nFilled {filled}. No prior filing: {len(no_prior)}. Prior filing but no Item 1A: {len(no_text)}.")

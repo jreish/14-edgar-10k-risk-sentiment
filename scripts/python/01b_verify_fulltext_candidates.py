@@ -43,7 +43,7 @@ import sys
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
 from lib.cover_page import declared_symbols
-from lib.db import connect, record_meta
+from lib.db import amend_meta, connect
 from lib.edgar import SearchUnavailable, all_10k_filings, filing_doc_url, full_text_search, get
 
 CANDIDATE_RE = re.compile(r"found candidate CIK (\d+)")
@@ -270,26 +270,18 @@ def main():
     resolved = con.execute(
         "SELECT count(*) FROM cik_resolution WHERE resolution_status = 'resolved'").fetchone()[0]
 
-    # record_meta is DELETE-then-INSERT, so writing a bare entry here would
-    # throw away 01's provenance for this same table. This script amends
-    # cik_resolution rather than producing it, so merge into what 01 recorded.
-    prior = con.execute(
-        "SELECT script, source_urls, column_descriptions FROM _meta WHERE table_name = 'cik_resolution'"
-    ).fetchone()
-    prior_script, prior_urls, prior_cols = prior if prior else ("", "[]", "{}")
-    merged_cols = json.loads(prior_cols)
-    merged_cols["resolution_method"] = (
-        merged_cols.get("resolution_method", "")
-        + " | added by 01b: fulltext_coverpage_verified (the candidate's own 10-K declares this ticker "
-          "on its cover page) / coverpage_verified_propagated (single cover-page-verified CIK carried "
-          "across the rest of its membership stint)"
-    )
-    record_meta(
-        con, "cik_resolution",
-        script=f"{prior_script} -> 01b_verify_fulltext_candidates.py",
-        source_urls=json.loads(prior_urls) + ["https://www.sec.gov/Archives/edgar/data/"],
-        column_descriptions=merged_cols,
-        row_count=total,
+    # This script amends cik_resolution rather than producing it, so it must
+    # not call record_meta directly -- that is DELETE-then-INSERT and would
+    # throw away 01's provenance for the same table. amend_meta merges.
+    amend_meta(
+        con, "cik_resolution", "01b_verify_fulltext_candidates.py",
+        source_urls=["https://www.sec.gov/Archives/edgar/data/"],
+        column_updates={
+            "resolution_method":
+                "| added by 01b: fulltext_coverpage_verified (the candidate's own 10-K declares this "
+                "ticker on its cover page) / coverpage_verified_propagated (single cover-page-verified "
+                "CIK carried across the rest of its membership stint)",
+        },
     )
     con.close()
     print(f"\ncik_resolution now {resolved}/{total} resolved ({resolved/total:.1%}).")
