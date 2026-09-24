@@ -26,7 +26,6 @@ import time
 
 import requests
 
-USER_AGENT = os.environ.get("EDGAR_CONTACT", "Your Name your.email@example.com")
 _MIN_INTERVAL = 1.0 / 9.0
 _last_request_time = [0.0]
 
@@ -65,7 +64,26 @@ def _throttle():
 
 
 _session = requests.Session()
-_session.headers.update({"User-Agent": USER_AGENT, "Accept-Encoding": "gzip, deflate"})
+_session.headers.update({"Accept-Encoding": "gzip, deflate"})
+
+
+def _user_agent() -> str:
+    """SEC requires a User-Agent naming whoever is running the scripts, so it
+    comes from EDGAR_CONTACT with no default: a fallback would send every
+    user's traffic under one person's name.
+
+    Checked per request rather than at import so tests and cached runs don't
+    need it. SystemExit, not an Exception subclass, because callers that
+    catch Exception around a fetch would otherwise record a missing setting
+    as a per-filing failure instead of stopping the run.
+    """
+    contact = os.environ.get("EDGAR_CONTACT", "").strip()
+    if not contact:
+        raise SystemExit(
+            "EDGAR_CONTACT is not set. SEC requires a User-Agent identifying "
+            "you, e.g.\n  export EDGAR_CONTACT=\"Jane Doe jane@example.com\""
+        )
+    return contact
 
 
 def get(url: str, max_retries: int = 6, **kwargs) -> requests.Response:
@@ -82,6 +100,7 @@ def get(url: str, max_retries: int = 6, **kwargs) -> requests.Response:
     and have no checkpointing, so a transient network blip costing the whole
     run is the expensive failure mode, and waiting a minute is cheap.
     """
+    _session.headers["User-Agent"] = _user_agent()
     last_exc = None
     resp = None
     attempt = 0

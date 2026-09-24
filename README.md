@@ -27,5 +27,13 @@ python3 -m venv .venv
 ./.venv/bin/pip install -r requirements.txt
 ```
 SEC EDGAR requires a descriptive `User-Agent` header and enforces a 10 req/sec
-rate limit; scripts run at ~9 req/sec. Set `EDGAR_CONTACT="Name email"` in your
-environment before running fetch scripts.
+rate limit; scripts run at ~9 req/sec. Set your own contact before running
+fetch scripts — they stop with an error if it's missing:
+```
+export EDGAR_CONTACT="Jane Doe jane@example.com"
+```
+
+## License
+Code is released under the [MIT License](LICENSE). The risk-factor text in
+`data/clean/risk_factors/` is excerpted from companies' public 10-K filings on
+SEC EDGAR.

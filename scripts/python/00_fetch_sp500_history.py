@@ -49,12 +49,11 @@ STINTS_URL = (
 
 START_YEAR = 2006
 END_YEAR = datetime.date.today().year
-USER_AGENT = "Your Name your.email@example.com"
 
 
 def fetch(url: str, cache_name: str) -> str:
     RAW_DIR.mkdir(parents=True, exist_ok=True)
-    resp = requests.get(url, timeout=30, headers={"User-Agent": USER_AGENT})
+    resp = requests.get(url, timeout=30)
     resp.raise_for_status()
     (RAW_DIR / cache_name).write_text(resp.text)
     return resp.text
