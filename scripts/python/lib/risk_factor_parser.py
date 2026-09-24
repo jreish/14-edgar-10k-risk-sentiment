@@ -164,9 +164,74 @@ MIN_SECTION_CHARS = 200
 MIN_PLAUSIBLE_SECTION_CHARS = 1500
 
 
-def is_implausible_section(section: str) -> bool:
-    """True if this is too short to be a complete Item 1A for this corpus."""
-    return len(section) < MIN_PLAUSIBLE_SECTION_CHARS
+# A section cannot be most of the 10-K it lives in. Confirmed case: Citigroup
+# files no "Item 1A" string anywhere (it answers via a cross-reference index),
+# so the bare-heading fallback runs; bare "RISK FACTORS" appears twice in the
+# table of contents and once for real, bare "PROPERTIES" once in the ToC and
+# once at offset 1,078,158 -- because in annual-report layout Properties sits
+# AFTER the financial statements. Gap-maximisation then pairs the ToC start
+# with the real, far-away end and returns 97% of the document. The guard that
+# exists to defeat the ToC (prefer the largest gap) is precisely what selects
+# it here. C/2019 stored 1,071,479 chars where the true section is ~59,900.
+#
+# 0.40 is well clear of the corpus: the median section is 4% of its document
+# and p99 is under 30%. Anything above 40% is a boundary failure, not a long
+# risk section -- including for the combined utility filers (ETR, EIX) whose
+# genuinely long sections motivated checking.
+MAX_PLAUSIBLE_DOC_FRACTION = 0.40
+
+# The auditor's report is a top-level 10-K section. Unlike "see Note 12 to the
+# Consolidated Financial Statements", which appears inside genuine risk
+# factors as a cross-reference all the time, this heading has no reason to be
+# inside Item 1A at all -- if it is there, the section ran past its end.
+_AUDITOR_REPORT = re.compile(
+    r"REPORT\s+OF\s+INDEPENDENT\s+REGISTERED\s+PUBLIC\s+ACCOUNTING\s+FIRM", re.I
+)
+
+# What a table-of-contents entry looks like from the inside. An earlier
+# version of this test asked the opposite question -- "is there a prose-length
+# line after the heading?" -- and was wrong on both sides: Nabors' ToC carries
+# one long entry title and passed, while CenterPoint's real section opened on
+# a run of short lines and was rejected, losing 14k of genuine risk factors.
+#
+# Positive identification is the more reliable direction. A ToC entry is
+# followed by page numbers and sibling Item entries; a real section, whatever
+# its opening looks like, is followed by neither.
+_TOC_PAGE_NUMBER = re.compile(r"^[ \t\xa0]*\d{1,4}[ \t\xa0]*[\u2013\u2014-]?[ \t\xa0]*\d{0,4}[ \t\xa0]*$")
+_TOC_ITEM_ENTRY = re.compile(r"(?i)^[ \t\xa0]*(item[ \t\xa0]*\d|\d{1,2}[A-C]?\.[ \t\xa0]*$)")
+_TOC_WINDOW_CHARS = 600
+# Two independent signals. One bare number after a heading can be a figure
+# reference or a page footer inside a real section; two, or a sibling Item
+# entry alongside one, is a contents list.
+_MIN_TOC_SIGNALS = 2
+
+
+def _looks_like_toc_entry(text: str, start: int) -> bool:
+    """True if this heading is a table-of-contents line, not a section start."""
+    window = text[start:start + _TOC_WINDOW_CHARS]
+    body = window.split("\n", 1)[1] if "\n" in window else ""
+    signals = sum(
+        1 for line in body.split("\n")
+        if _TOC_PAGE_NUMBER.match(line) or _TOC_ITEM_ENTRY.match(line)
+    )
+    return signals >= _MIN_TOC_SIGNALS
+
+
+def is_implausible_section(section: str, document: str | None = None) -> bool:
+    """True if this cannot be a complete, correctly-bounded Item 1A.
+
+    Too short means a pointer stub or a truncation (see
+    MIN_PLAUSIBLE_SECTION_CHARS). Too long, or carrying a heading that
+    belongs to a later part of the 10-K, means the end marker was wrong and
+    the section ran on into material that is not risk disclosure.
+    """
+    if len(section) < MIN_PLAUSIBLE_SECTION_CHARS:
+        return True
+    if _AUDITOR_REPORT.search(section):
+        return True
+    if document and len(section) > MAX_PLAUSIBLE_DOC_FRACTION * len(document):
+        return True
+    return False
 
 # --- running-header strategy (see module docstring) -------------------------
 # Two consecutive repeats of the header more than a page apart are not a
@@ -213,10 +278,22 @@ def html_to_text(raw: str) -> str:
 
 
 def _start_offsets(text: str) -> list[int]:
-    return sorted(
+    """Candidate section starts, with table-of-contents entries removed.
+
+    Conservative on purpose: if EVERY candidate looks like a ToC entry, the
+    filter is more likely wrong than the document is, so fall back to the
+    unfiltered list rather than turning a working extraction into a miss.
+
+    Shared by both strategies. Filtering only inside _extract_by_markers left
+    extract_running_header reading the raw list, and it then answered a
+    rejected marker result with the contents list itself (confirmed case:
+    Nabors 2007, a 5,123-char run of "Item 1A. Risk Factors 7 Item 1B. ...").
+    """
+    starts = sorted(
         {m.start() for m in _START_STRICT.finditer(text)}
         | {m.start() for m in _START_BARE.finditer(text)}
     )
+    return [s for s in starts if not _looks_like_toc_entry(text, s)] or starts
 
 
 def extract_running_header(text: str) -> str | None:
@@ -271,7 +348,7 @@ def _extract_by_markers(text: str) -> str | None:
     """The primary strategy: a start marker paired with the nearest following
     end marker, maximising the gap. Unchanged -- every filing that currently
     extracts successfully goes through here and only here."""
-    starts = sorted({m.start() for m in _START_STRICT.finditer(text)} | {m.start() for m in _START_BARE.finditer(text)})
+    starts = _start_offsets(text)
     ends = sorted(
         {m.start() for m in _END_1B.finditer(text)}
         | {m.start() for m in _END_2.finditer(text)}
@@ -301,6 +378,11 @@ def _extract_by_markers(text: str) -> str | None:
     return section if len(section) >= MIN_SECTION_CHARS else None
 
 
+def _bounded(section: str | None, text: str) -> str | None:
+    """None out a section whose boundaries are demonstrably wrong."""
+    return None if section is not None and is_implausible_section(section, text) else section
+
+
 def extract_item_1a(text: str) -> str | None:
     """Marker-pairing first; the running-header strategy only if that fails.
 
@@ -310,13 +392,17 @@ def extract_item_1a(text: str) -> str | None:
     rather than empirical (and is checked anyway by
     tests/test_parser_regression.py).
     """
-    section = _extract_by_markers(text) or extract_running_header(text)
+    # Each strategy is bounded independently: a marker result that overruns
+    # should let the running-header strategy try, not veto the whole document.
+    section = _bounded(_extract_by_markers(text), text)
+    if section is None:
+        section = _bounded(extract_running_header(text), text)
     # An implausibly short result is a pointer to the real Item 1A, or a
     # truncation -- not a short Item 1A. Returning None sends the row to 03b,
     # which searches the rest of the accession for the document being pointed
-    # at, and that is usually where the real text is.
-    if section is not None and is_implausible_section(section):
-        return None
+    # at, and that is usually where the real text is. An implausibly LONG one
+    # is an end-marker failure; it goes to 03b too, and 03c will either find a
+    # bounded candidate elsewhere in the accession or record it as missing.
     return section
 
 
