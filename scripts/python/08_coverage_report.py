@@ -13,13 +13,14 @@ difficulty and rises steeply over time as delisted-company identities get
 easier to pin down. Reporting only the first would make a resolution
 artifact look like a change in corporate filing behavior.
 
-Writes output/coverage_by_year.csv and prints the table.
+Writes the coverage_by_year table (with its _meta row), mirrors it to
+output/coverage_by_year.csv, and prints it.
 """
 import pathlib
 import sys
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
-from lib.db import connect
+from lib.db import connect, record_meta
 
 ROOT = pathlib.Path(__file__).resolve().parents[2]
 OUT_PATH = ROOT / "output" / "coverage_by_year.csv"
@@ -35,9 +36,10 @@ WITH universe AS (
 )
 SELECT
     u.year,
-    count(*)                                                   AS n_companies,
-    sum(CASE WHEN f.ticker IS NOT NULL THEN 1 ELSE 0 END)      AS n_10k_found,
-    sum(coalesce(e.has_1a, 0))                                 AS n_item_1a,
+    CAST(count(*) AS INTEGER)                                  AS n_companies,
+    CAST(sum(CASE WHEN f.ticker IS NOT NULL THEN 1 ELSE 0 END) AS INTEGER)
+                                                               AS n_10k_found,
+    CAST(sum(coalesce(e.has_1a, 0)) AS INTEGER)                AS n_item_1a,
     round(100.0 * sum(coalesce(e.has_1a, 0))
           / nullif(sum(CASE WHEN f.ticker IS NOT NULL THEN 1 ELSE 0 END), 0), 1)
                                                                AS pct_of_10ks,
@@ -52,7 +54,22 @@ ORDER BY u.year
 
 def main():
     con = connect()
-    df = con.execute(QUERY).df()
+    con.execute("DROP TABLE IF EXISTS coverage_by_year")
+    con.execute(f"CREATE TABLE coverage_by_year AS {QUERY}")
+    df = con.execute("SELECT * FROM coverage_by_year ORDER BY year").df()
+    record_meta(
+        con, "coverage_by_year", script="08_coverage_report.py",
+        source_urls=["derived from sp500_universe_raw, filing_universe and risk_factors_index"],
+        column_descriptions={
+            "year": "Study year",
+            "n_companies": "Distinct tickers in the S&P 500 index that year (sp500_universe_raw)",
+            "n_10k_found": "Of those, how many have a 10-K located in filing_universe",
+            "n_item_1a": "Of those, how many yielded an Item 1A section (risk_factors_index.has_item_1a)",
+            "pct_of_10ks": "n_item_1a as a percent of n_10k_found -- extraction reliability, not coverage",
+            "pct_of_universe": "n_item_1a as a percent of n_companies -- the dataset's coverage of the index",
+        },
+        row_count=len(df),
+    )
 
     totals = {
         "year": "TOTAL",
